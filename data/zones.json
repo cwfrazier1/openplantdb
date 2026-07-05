@@ -1,0 +1,18 @@
+{
+  "_about": "USDA Plant Hardiness Zones. min_temp_f is the average annual extreme minimum temperature band that DEFINES the zone. last_spring_frost / first_fall_frost are TYPICAL averages for the zone's mid-latitude — local dates vary by microclimate and elevation, so treat them as planning approximations. Frost-free zones use null.",
+  "zones": [
+    {"zone": "1",  "min_temp_f": [-60, -50], "last_spring_frost": "Jun 1",  "first_fall_frost": "Aug 15"},
+    {"zone": "2",  "min_temp_f": [-50, -40], "last_spring_frost": "May 15", "first_fall_frost": "Sep 1"},
+    {"zone": "3",  "min_temp_f": [-40, -30], "last_spring_frost": "May 15", "first_fall_frost": "Sep 15"},
+    {"zone": "4",  "min_temp_f": [-30, -20], "last_spring_frost": "May 10", "first_fall_frost": "Sep 25"},
+    {"zone": "5",  "min_temp_f": [-20, -10], "last_spring_frost": "Apr 30", "first_fall_frost": "Oct 10"},
+    {"zone": "6",  "min_temp_f": [-10, 0],   "last_spring_frost": "Apr 15", "first_fall_frost": "Oct 20"},
+    {"zone": "7",  "min_temp_f": [0, 10],    "last_spring_frost": "Apr 5",  "first_fall_frost": "Nov 1"},
+    {"zone": "8",  "min_temp_f": [10, 20],   "last_spring_frost": "Mar 15", "first_fall_frost": "Nov 15"},
+    {"zone": "9",  "min_temp_f": [20, 30],   "last_spring_frost": "Feb 15", "first_fall_frost": "Dec 1"},
+    {"zone": "10", "min_temp_f": [30, 40],   "last_spring_frost": "Jan 31", "first_fall_frost": "Dec 15"},
+    {"zone": "11", "min_temp_f": [40, 50],   "last_spring_frost": null,     "first_fall_frost": null},
+    {"zone": "12", "min_temp_f": [50, 60],   "last_spring_frost": null,     "first_fall_frost": null},
+    {"zone": "13", "min_temp_f": [60, 70],   "last_spring_frost": null,     "first_fall_frost": null}
+  ]
+}
