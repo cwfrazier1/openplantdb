@@ -889,5 +889,32 @@
     "water": "low",
     "directions": "Pistachio is dioecious — you must plant at least one male tree (typically Peters variety) for every 8–10 female trees; pollen is wind-carried. The tree requires 700–1000 chill hours in winter and blisteringly hot, dry summers (100°F+ is ideal) to ripen nuts properly, making it poorly suited to humid or mild-summer climates. Trees are extremely drought-tolerant and actually prefer alkaline, well-drained soils. Nuts are ready when hulls turn from green to red-pink and slip off easily; harvest by shaking limbs and collect nuts off tarps laid below.",
     "sources": ["general horticultural reference"]
+  },
+  {
+    "slug": "lychee",
+    "common_name": "Lychee",
+    "scientific_name": "Litchi chinensis",
+    "category": "fruit",
+    "subcategory": "drupe",
+    "days_to_germination": {"min": null, "max": null},
+    "germination_soil_temp_f": {"min": null, "max": null},
+    "days_to_maturity": {"min": 1095, "max": 1825},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 0, "max": 6},
+      "note": "Plant in spring after all frost risk has passed; in zones 10–11, fall planting after summer heat breaks is preferred."
+    },
+    "usda_zones": {"min": 9, "max": 11},
+    "spacing_in": {"min": 240, "max": 360},
+    "height_in": {"min": 180, "max": 360},
+    "spread_in": {"min": 180, "max": 300},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant a grafted or air-layered tree in deep, well-drained, slightly acidic soil (pH 5.0–6.5) in a site sheltered from salt spray and drying winter wind; lychee cannot tolerate waterlogged roots at any age. Trees require a cool-dry stress period of 4–6 weeks in late autumn — nights reliably below 59°F — to trigger flower bud development, so hold irrigation during that window rather than watering on a regular schedule. Fruit clusters develop rapidly after bloom and benefit from thinning to 3–5 fruits per panicle when marble-sized to improve final fruit size and reduce limb stress. Harvest clusters when the rough, bumpy skin has turned fully red to pinkish-red and the aroma is distinctly floral and sweet, typically 90–112 days after bloom.",
+    "sources": ["general horticultural reference"]
   }
 ]

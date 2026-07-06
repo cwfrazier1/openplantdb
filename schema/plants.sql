@@ -4256,6 +4256,40 @@ INSERT INTO plants (slug,common_name,scientific_name,category,subcategory,germ_d
     sources=EXCLUDED.sources,
     data=EXCLUDED.data;
 INSERT INTO plants (slug,common_name,scientific_name,category,subcategory,germ_days_min,germ_days_max,germ_soil_temp_f_min,germ_soil_temp_f_max,maturity_days_min,maturity_days_max,maturity_from,sow_method,season,frost_tolerance,plant_anchor,plant_weeks_min,plant_weeks_max,plant_note,usda_zone_min,usda_zone_max,spacing_in_min,spacing_in_max,height_in_min,height_in_max,spread_in_min,spread_in_max,sun,water,directions,sources,data)
+  VALUES ('lychee','Lychee','Litchi chinensis','fruit','drupe',NULL,NULL,NULL,NULL,1095,1825,'transplant','transplant','perennial','tender','last_frost',0,6,'Plant in spring after all frost risk has passed; in zones 10–11, fall planting after summer heat breaks is preferred.',9,11,240,360,180,360,180,300,'full','moderate','Plant a grafted or air-layered tree in deep, well-drained, slightly acidic soil (pH 5.0–6.5) in a site sheltered from salt spray and drying winter wind; lychee cannot tolerate waterlogged roots at any age. Trees require a cool-dry stress period of 4–6 weeks in late autumn — nights reliably below 59°F — to trigger flower bud development, so hold irrigation during that window rather than watering on a regular schedule. Fruit clusters develop rapidly after bloom and benefit from thinning to 3–5 fruits per panicle when marble-sized to improve final fruit size and reduce limb stress. Harvest clusters when the rough, bumpy skin has turned fully red to pinkish-red and the aroma is distinctly floral and sweet, typically 90–112 days after bloom.','["general horticultural reference"]','{"slug": "lychee", "common_name": "Lychee", "scientific_name": "Litchi chinensis", "category": "fruit", "subcategory": "drupe", "days_to_germination": {"min": null, "max": null}, "germination_soil_temp_f": {"min": null, "max": null}, "days_to_maturity": {"min": 1095, "max": 1825}, "maturity_from": "transplant", "sow_method": "transplant", "season": "perennial", "frost_tolerance": "tender", "planting": {"anchor": "last_frost", "weeks_from_anchor": {"min": 0, "max": 6}, "note": "Plant in spring after all frost risk has passed; in zones 10–11, fall planting after summer heat breaks is preferred."}, "usda_zones": {"min": 9, "max": 11}, "spacing_in": {"min": 240, "max": 360}, "height_in": {"min": 180, "max": 360}, "spread_in": {"min": 180, "max": 300}, "sun": "full", "water": "moderate", "directions": "Plant a grafted or air-layered tree in deep, well-drained, slightly acidic soil (pH 5.0–6.5) in a site sheltered from salt spray and drying winter wind; lychee cannot tolerate waterlogged roots at any age. Trees require a cool-dry stress period of 4–6 weeks in late autumn — nights reliably below 59°F — to trigger flower bud development, so hold irrigation during that window rather than watering on a regular schedule. Fruit clusters develop rapidly after bloom and benefit from thinning to 3–5 fruits per panicle when marble-sized to improve final fruit size and reduce limb stress. Harvest clusters when the rough, bumpy skin has turned fully red to pinkish-red and the aroma is distinctly floral and sweet, typically 90–112 days after bloom.", "sources": ["general horticultural reference"]}')
+  ON CONFLICT (slug) DO UPDATE SET
+    common_name=EXCLUDED.common_name,
+    scientific_name=EXCLUDED.scientific_name,
+    category=EXCLUDED.category,
+    subcategory=EXCLUDED.subcategory,
+    germ_days_min=EXCLUDED.germ_days_min,
+    germ_days_max=EXCLUDED.germ_days_max,
+    germ_soil_temp_f_min=EXCLUDED.germ_soil_temp_f_min,
+    germ_soil_temp_f_max=EXCLUDED.germ_soil_temp_f_max,
+    maturity_days_min=EXCLUDED.maturity_days_min,
+    maturity_days_max=EXCLUDED.maturity_days_max,
+    maturity_from=EXCLUDED.maturity_from,
+    sow_method=EXCLUDED.sow_method,
+    season=EXCLUDED.season,
+    frost_tolerance=EXCLUDED.frost_tolerance,
+    plant_anchor=EXCLUDED.plant_anchor,
+    plant_weeks_min=EXCLUDED.plant_weeks_min,
+    plant_weeks_max=EXCLUDED.plant_weeks_max,
+    plant_note=EXCLUDED.plant_note,
+    usda_zone_min=EXCLUDED.usda_zone_min,
+    usda_zone_max=EXCLUDED.usda_zone_max,
+    spacing_in_min=EXCLUDED.spacing_in_min,
+    spacing_in_max=EXCLUDED.spacing_in_max,
+    height_in_min=EXCLUDED.height_in_min,
+    height_in_max=EXCLUDED.height_in_max,
+    spread_in_min=EXCLUDED.spread_in_min,
+    spread_in_max=EXCLUDED.spread_in_max,
+    sun=EXCLUDED.sun,
+    water=EXCLUDED.water,
+    directions=EXCLUDED.directions,
+    sources=EXCLUDED.sources,
+    data=EXCLUDED.data;
+INSERT INTO plants (slug,common_name,scientific_name,category,subcategory,germ_days_min,germ_days_max,germ_soil_temp_f_min,germ_soil_temp_f_max,maturity_days_min,maturity_days_max,maturity_from,sow_method,season,frost_tolerance,plant_anchor,plant_weeks_min,plant_weeks_max,plant_note,usda_zone_min,usda_zone_max,spacing_in_min,spacing_in_max,height_in_min,height_in_max,spread_in_min,spread_in_max,sun,water,directions,sources,data)
   VALUES ('mandarin','Mandarin / Tangerine','Citrus reticulata','fruit','citrus',NULL,NULL,NULL,NULL,1095,2190,'transplant','transplant','perennial','tender','last_frost',2,8,'Plant in spring after frost; mandarins are among the hardiest citrus, tolerating brief dips to 24°F.',8,11,120,216,96,216,96,192,'full','moderate','Mandarins (including tangerines, clementines, and satsumas) are the most cold-hardy of the common sweet citrus, with satsumas surviving to about 15°F and thriving in zone 8. Most are self-fertile, though some varieties set more fruit with a compatible pollinator nearby. Fruit tends to ripen earlier in the season than oranges — from October through January depending on variety — and the loose peel and sweet-tart flavor make them popular for fresh eating. Avoid overwatering, as mandarins are somewhat drought-tolerant and susceptible to root rot in wet soils.','["general horticultural reference"]','{"slug": "mandarin", "common_name": "Mandarin / Tangerine", "scientific_name": "Citrus reticulata", "category": "fruit", "subcategory": "citrus", "days_to_germination": {"min": null, "max": null}, "germination_soil_temp_f": {"min": null, "max": null}, "days_to_maturity": {"min": 1095, "max": 2190}, "maturity_from": "transplant", "sow_method": "transplant", "season": "perennial", "frost_tolerance": "tender", "planting": {"anchor": "last_frost", "weeks_from_anchor": {"min": 2, "max": 8}, "note": "Plant in spring after frost; mandarins are among the hardiest citrus, tolerating brief dips to 24°F."}, "usda_zones": {"min": 8, "max": 11}, "spacing_in": {"min": 120, "max": 216}, "height_in": {"min": 96, "max": 216}, "spread_in": {"min": 96, "max": 192}, "sun": "full", "water": "moderate", "directions": "Mandarins (including tangerines, clementines, and satsumas) are the most cold-hardy of the common sweet citrus, with satsumas surviving to about 15°F and thriving in zone 8. Most are self-fertile, though some varieties set more fruit with a compatible pollinator nearby. Fruit tends to ripen earlier in the season than oranges — from October through January depending on variety — and the loose peel and sweet-tart flavor make them popular for fresh eating. Avoid overwatering, as mandarins are somewhat drought-tolerant and susceptible to root rot in wet soils.", "sources": ["general horticultural reference"]}')
   ON CONFLICT (slug) DO UPDATE SET
     common_name=EXCLUDED.common_name,
@@ -9799,6 +9833,40 @@ INSERT INTO plants (slug,common_name,scientific_name,category,subcategory,germ_d
     data=EXCLUDED.data;
 INSERT INTO plants (slug,common_name,scientific_name,category,subcategory,germ_days_min,germ_days_max,germ_soil_temp_f_min,germ_soil_temp_f_max,maturity_days_min,maturity_days_max,maturity_from,sow_method,season,frost_tolerance,plant_anchor,plant_weeks_min,plant_weeks_max,plant_note,usda_zone_min,usda_zone_max,spacing_in_min,spacing_in_max,height_in_min,height_in_max,spread_in_min,spread_in_max,sun,water,directions,sources,data)
   VALUES ('tomato','Tomato','Solanum lycopersicum','vegetable','fruiting',5,10,70,85,60,85,'transplant','indoor-start','warm','tender','last_frost',-8,-6,'Start indoors 6–8 weeks before last frost; transplant 1–2 weeks after last frost.',3,11,24,36,36,96,24,48,'full','moderate','Sow seed 1/4 inch deep in warm starting mix and keep at 70–85°F until sprouts emerge. Transplant after nights reliably stay above 50°F, burying the stem up to the lowest leaves to encourage a strong root system. Provide a cage or stake for support, and water consistently at the base to reduce the risk of blossom-end rot. Harvest when fruit is fully colored and gives slightly to gentle pressure.','["general horticultural reference"]','{"slug": "tomato", "common_name": "Tomato", "scientific_name": "Solanum lycopersicum", "category": "vegetable", "subcategory": "fruiting", "days_to_germination": {"min": 5, "max": 10}, "germination_soil_temp_f": {"min": 70, "max": 85}, "days_to_maturity": {"min": 60, "max": 85}, "maturity_from": "transplant", "sow_method": "indoor-start", "season": "warm", "frost_tolerance": "tender", "planting": {"anchor": "last_frost", "weeks_from_anchor": {"min": -8, "max": -6}, "note": "Start indoors 6–8 weeks before last frost; transplant 1–2 weeks after last frost."}, "usda_zones": {"min": 3, "max": 11}, "spacing_in": {"min": 24, "max": 36}, "height_in": {"min": 36, "max": 96}, "spread_in": {"min": 24, "max": 48}, "sun": "full", "water": "moderate", "directions": "Sow seed 1/4 inch deep in warm starting mix and keep at 70–85°F until sprouts emerge. Transplant after nights reliably stay above 50°F, burying the stem up to the lowest leaves to encourage a strong root system. Provide a cage or stake for support, and water consistently at the base to reduce the risk of blossom-end rot. Harvest when fruit is fully colored and gives slightly to gentle pressure.", "sources": ["general horticultural reference"]}')
+  ON CONFLICT (slug) DO UPDATE SET
+    common_name=EXCLUDED.common_name,
+    scientific_name=EXCLUDED.scientific_name,
+    category=EXCLUDED.category,
+    subcategory=EXCLUDED.subcategory,
+    germ_days_min=EXCLUDED.germ_days_min,
+    germ_days_max=EXCLUDED.germ_days_max,
+    germ_soil_temp_f_min=EXCLUDED.germ_soil_temp_f_min,
+    germ_soil_temp_f_max=EXCLUDED.germ_soil_temp_f_max,
+    maturity_days_min=EXCLUDED.maturity_days_min,
+    maturity_days_max=EXCLUDED.maturity_days_max,
+    maturity_from=EXCLUDED.maturity_from,
+    sow_method=EXCLUDED.sow_method,
+    season=EXCLUDED.season,
+    frost_tolerance=EXCLUDED.frost_tolerance,
+    plant_anchor=EXCLUDED.plant_anchor,
+    plant_weeks_min=EXCLUDED.plant_weeks_min,
+    plant_weeks_max=EXCLUDED.plant_weeks_max,
+    plant_note=EXCLUDED.plant_note,
+    usda_zone_min=EXCLUDED.usda_zone_min,
+    usda_zone_max=EXCLUDED.usda_zone_max,
+    spacing_in_min=EXCLUDED.spacing_in_min,
+    spacing_in_max=EXCLUDED.spacing_in_max,
+    height_in_min=EXCLUDED.height_in_min,
+    height_in_max=EXCLUDED.height_in_max,
+    spread_in_min=EXCLUDED.spread_in_min,
+    spread_in_max=EXCLUDED.spread_in_max,
+    sun=EXCLUDED.sun,
+    water=EXCLUDED.water,
+    directions=EXCLUDED.directions,
+    sources=EXCLUDED.sources,
+    data=EXCLUDED.data;
+INSERT INTO plants (slug,common_name,scientific_name,category,subcategory,germ_days_min,germ_days_max,germ_soil_temp_f_min,germ_soil_temp_f_max,maturity_days_min,maturity_days_max,maturity_from,sow_method,season,frost_tolerance,plant_anchor,plant_weeks_min,plant_weeks_max,plant_note,usda_zone_min,usda_zone_max,spacing_in_min,spacing_in_max,height_in_min,height_in_max,spread_in_min,spread_in_max,sun,water,directions,sources,data)
+  VALUES ('turmeric','Turmeric','Curcuma longa','vegetable','root',NULL,NULL,65,85,240,300,'transplant','tuber','warm','tender','last_frost',-4,-2,'Start rhizomes indoors 4–6 weeks before the last frost; move outside only when soil has warmed to 65°F and nights stay above 50°F.',8,12,12,18,24,48,12,24,'partial','high','Select firm rhizome pieces each with at least one swollen bud, soak in water for an hour, then plant 2–3 in deep in loose, compost-rich soil once the ground has thoroughly warmed. Turmeric grows best with bright indirect light or filtered afternoon shade in hot climates and needs consistent moisture throughout the season — never let the soil dry out completely. Feed monthly with a balanced fertilizer; plants develop broad, tropical-looking leaves reaching 2–4 ft. Dig rhizomes after foliage yellows and dies back naturally, usually 8–10 months after planting, then cure at room temperature for a week before using fresh, drying, or storing.','["general horticultural reference"]','{"slug": "turmeric", "common_name": "Turmeric", "scientific_name": "Curcuma longa", "category": "vegetable", "subcategory": "root", "days_to_germination": {"min": null, "max": null}, "germination_soil_temp_f": {"min": 65, "max": 85}, "days_to_maturity": {"min": 240, "max": 300}, "maturity_from": "transplant", "sow_method": "tuber", "season": "warm", "frost_tolerance": "tender", "planting": {"anchor": "last_frost", "weeks_from_anchor": {"min": -4, "max": -2}, "note": "Start rhizomes indoors 4–6 weeks before the last frost; move outside only when soil has warmed to 65°F and nights stay above 50°F."}, "usda_zones": {"min": 8, "max": 12}, "spacing_in": {"min": 12, "max": 18}, "height_in": {"min": 24, "max": 48}, "spread_in": {"min": 12, "max": 24}, "sun": "partial", "water": "high", "directions": "Select firm rhizome pieces each with at least one swollen bud, soak in water for an hour, then plant 2–3 in deep in loose, compost-rich soil once the ground has thoroughly warmed. Turmeric grows best with bright indirect light or filtered afternoon shade in hot climates and needs consistent moisture throughout the season — never let the soil dry out completely. Feed monthly with a balanced fertilizer; plants develop broad, tropical-looking leaves reaching 2–4 ft. Dig rhizomes after foliage yellows and dies back naturally, usually 8–10 months after planting, then cure at room temperature for a week before using fresh, drying, or storing.", "sources": ["general horticultural reference"]}')
   ON CONFLICT (slug) DO UPDATE SET
     common_name=EXCLUDED.common_name,
     scientific_name=EXCLUDED.scientific_name,

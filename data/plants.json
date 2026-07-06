@@ -6519,6 +6519,59 @@
     ]
   },
   {
+    "slug": "lychee",
+    "common_name": "Lychee",
+    "scientific_name": "Litchi chinensis",
+    "category": "fruit",
+    "subcategory": "drupe",
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": null,
+      "max": null
+    },
+    "days_to_maturity": {
+      "min": 1095,
+      "max": 1825
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 6
+      },
+      "note": "Plant in spring after all frost risk has passed; in zones 10–11, fall planting after summer heat breaks is preferred."
+    },
+    "usda_zones": {
+      "min": 9,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 240,
+      "max": 360
+    },
+    "height_in": {
+      "min": 180,
+      "max": 360
+    },
+    "spread_in": {
+      "min": 180,
+      "max": 300
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant a grafted or air-layered tree in deep, well-drained, slightly acidic soil (pH 5.0–6.5) in a site sheltered from salt spray and drying winter wind; lychee cannot tolerate waterlogged roots at any age. Trees require a cool-dry stress period of 4–6 weeks in late autumn — nights reliably below 59°F — to trigger flower bud development, so hold irrigation during that window rather than watering on a regular schedule. Fruit clusters develop rapidly after bloom and benefit from thinning to 3–5 fruits per panicle when marble-sized to improve final fruit size and reduce limb stress. Harvest clusters when the rough, bumpy skin has turned fully red to pinkish-red and the aroma is distinctly floral and sweet, typically 90–112 days after bloom.",
+    "sources": [
+      "general horticultural reference"
+    ]
+  },
+  {
     "slug": "mandarin",
     "common_name": "Mandarin / Tangerine",
     "scientific_name": "Citrus reticulata",
@@ -15218,6 +15271,59 @@
     "sun": "full",
     "water": "moderate",
     "directions": "Sow seed 1/4 inch deep in warm starting mix and keep at 70–85°F until sprouts emerge. Transplant after nights reliably stay above 50°F, burying the stem up to the lowest leaves to encourage a strong root system. Provide a cage or stake for support, and water consistently at the base to reduce the risk of blossom-end rot. Harvest when fruit is fully colored and gives slightly to gentle pressure.",
+    "sources": [
+      "general horticultural reference"
+    ]
+  },
+  {
+    "slug": "turmeric",
+    "common_name": "Turmeric",
+    "scientific_name": "Curcuma longa",
+    "category": "vegetable",
+    "subcategory": "root",
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 240,
+      "max": 300
+    },
+    "maturity_from": "transplant",
+    "sow_method": "tuber",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": -2
+      },
+      "note": "Start rhizomes indoors 4–6 weeks before the last frost; move outside only when soil has warmed to 65°F and nights stay above 50°F."
+    },
+    "usda_zones": {
+      "min": 8,
+      "max": 12
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 24,
+      "max": 48
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 24
+    },
+    "sun": "partial",
+    "water": "high",
+    "directions": "Select firm rhizome pieces each with at least one swollen bud, soak in water for an hour, then plant 2–3 in deep in loose, compost-rich soil once the ground has thoroughly warmed. Turmeric grows best with bright indirect light or filtered afternoon shade in hot climates and needs consistent moisture throughout the season — never let the soil dry out completely. Feed monthly with a balanced fertilizer; plants develop broad, tropical-looking leaves reaching 2–4 ft. Dig rhizomes after foliage yellows and dies back naturally, usually 8–10 months after planting, then cure at room temperature for a week before using fresh, drying, or storing.",
     "sources": [
       "general horticultural reference"
     ]
