@@ -997,5 +997,32 @@
     "water": "moderate",
     "directions": "Sow seed 1/4 in deep in cool, well-drained soil in early spring. Calendula prefers cool weather and will slow or stop blooming when summer heat arrives, often rebounding in fall. Deadhead consistently to prevent seed set and extend the blooming period. The ray petals are edible and can be used as a garnish or in salads.",
     "sources": ["general horticultural reference"]
+  },
+  {
+    "slug": "mexican-sunflower",
+    "common_name": "Mexican Sunflower",
+    "scientific_name": "Tithonia rotundifolia",
+    "category": "flower",
+    "subcategory": "annual",
+    "days_to_germination": {"min": 5, "max": 10},
+    "germination_soil_temp_f": {"min": 65, "max": 85},
+    "days_to_maturity": {"min": 70, "max": 90},
+    "maturity_from": "seed",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": -6, "max": -4},
+      "note": "Start indoors 4–6 weeks before last frost; transplant after frost danger passes — one of the best heat-loving annuals for attracting butterflies and hummingbirds."
+    },
+    "usda_zones": {"min": 3, "max": 11},
+    "spacing_in": {"min": 24, "max": 36},
+    "height_in": {"min": 48, "max": 72},
+    "spread_in": {"min": 24, "max": 36},
+    "sun": "full",
+    "water": "low",
+    "directions": "Sow seeds 1/4 in deep in warm starting mix; transplant carefully as Tithonia dislikes root disturbance — use biodegradable pots if starting indoors. Mexican sunflower thrives in heat, poor soil, and dry conditions, making it ideal for back-of-border plantings in Gulf Coast summers when other annuals falter. The vivid orange, 3-inch daisy-like flowers are irresistible to monarch butterflies, swallowtails, and hummingbirds from midsummer through frost. Deadhead regularly by cutting stems (not just the flower head) back to a side shoot to maintain tidy plants and prolong heavy bloom.",
+    "sources": ["general horticultural reference"]
   }
 ]

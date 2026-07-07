@@ -817,5 +817,29 @@
     "water": "high",
     "directions": "Select firm rhizome pieces each with at least one swollen bud, soak in water for an hour, then plant 2–3 in deep in loose, compost-rich soil once the ground has thoroughly warmed. Turmeric grows best with bright indirect light or filtered afternoon shade in hot climates and needs consistent moisture throughout the season — never let the soil dry out completely. Feed monthly with a balanced fertilizer; plants develop broad, tropical-looking leaves reaching 2–4 ft. Dig rhizomes after foliage yellows and dies back naturally, usually 8–10 months after planting, then cure at room temperature for a week before using fresh, drying, or storing.",
     "sources": ["general horticultural reference"]
+  },
+  {
+    "slug": "jicama",
+    "common_name": "Jicama",
+    "scientific_name": "Pachyrhizus erosus",
+    "category": "vegetable",
+    "subcategory": "root",
+    "days_to_germination": {"min": 14, "max": 21},
+    "germination_soil_temp_f": {"min": 75, "max": 85},
+    "days_to_maturity": {"min": 150, "max": 210},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {"anchor": "last_frost", "weeks_from_anchor": {"min": 2, "max": 4},
+      "note": "Sow 2–4 weeks after last frost into warm soil; jicama needs a long frost-free season of at least 5 months and thrives in zone 9–11 Gulf Coast conditions."},
+    "usda_zones": {"min": 9, "max": 11},
+    "spacing_in": {"min": 12, "max": 18},
+    "height_in": {"min": 60, "max": 120},
+    "spread_in": {"min": 12, "max": 24},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Sow scarified seeds 1 in deep in loose, deep, well-drained soil 2–4 weeks after the last frost once soil is thoroughly warm. Jicama is a vigorous vine requiring a sturdy trellis; pinch flower buds as they appear throughout the season — leaving flowers reduces tuber size dramatically since the plant diverts energy to seed set. Begin harvesting small tubers at about 5 months; larger tubers become more fibrous if left past 9 months. Only the roots are edible — all above-ground parts, including seeds and pods, contain rotenone and are toxic.",
+    "sources": ["Texas A&M AgriLife Extension Service", "general horticultural reference"]
   }
 ]

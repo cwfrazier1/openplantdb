@@ -1080,6 +1080,60 @@
     ]
   },
   {
+    "slug": "serviceberry",
+    "common_name": "Serviceberry (Juneberry)",
+    "scientific_name": "Amelanchier canadensis",
+    "category": "berry",
+    "subcategory": "shrub fruit",
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": null,
+      "max": null
+    },
+    "days_to_maturity": {
+      "min": 730,
+      "max": 1095
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": 0
+      },
+      "note": "Plant bare-root or container stock in early spring while still dormant; fall planting works well in zones 5–8."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 60,
+      "max": 120
+    },
+    "height_in": {
+      "min": 72,
+      "max": 240
+    },
+    "spread_in": {
+      "min": 60,
+      "max": 120
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in well-drained, slightly acidic soil (pH 5.5–7.0) in full to partial sun; serviceberry tolerates wet sites and woodland edges better than most fruiting shrubs. No cross-pollinator is required, though planting two or more selections increases yield. Fruits ripen in late spring to early June, turning from red to deep purple-blue when fully sweet — birds will compete for them, so netting is advisable. Prune crossing or crowded stems in late winter to maintain an open, multi-stemmed form and remove root suckers to control spread.",
+    "sources": [
+      "general horticultural reference",
+      "university extension guides"
+    ]
+  },
+  {
     "slug": "strawberry-everbearing",
     "common_name": "Strawberry (Everbearing)",
     "scientific_name": "Fragaria x ananassa",
@@ -1559,6 +1613,222 @@
     "directions": "Sow seed about 1/2 in deep, ideally inoculated with the correct rhizobia and paired with a grass like rye for support. It overwinters and fixes a large amount of nitrogen by spring bloom. Terminate at early flowering for maximum nitrogen and easy breakdown.",
     "sources": [
       "general horticultural reference"
+    ]
+  },
+  {
+    "slug": "pearl-millet",
+    "common_name": "Pearl Millet",
+    "scientific_name": "Pennisetum glaucum",
+    "category": "cover-crop",
+    "subcategory": "grass",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 68,
+      "max": 95
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 90
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 1,
+        "max": 10
+      },
+      "note": "Sow after last frost in warm soil; the most heat- and drought-tolerant warm-season cover grass, thriving in Gulf Coast summers."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 1,
+      "max": 3
+    },
+    "height_in": {
+      "min": 60,
+      "max": 120
+    },
+    "spread_in": {
+      "min": 4,
+      "max": 8
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Drill or broadcast seed 1/2 in deep into warm soil; pearl millet germinates and establishes faster than sorghum-sudangrass in sandy, low-fertility soils. It produces large amounts of biomass for smothering weeds and building organic matter, and tolerate short dry spells without wilting like corn or sorghum can. Mow or terminate before seed heads mature to prevent unwanted reseeding. Mix with cowpeas for a combined nitrogen-fixing and biomass cover.",
+    "sources": [
+      "USDA SARE cover crop guide",
+      "Sustainable Agriculture Research and Education (SARE) cover crop charts"
+    ]
+  },
+  {
+    "slug": "perennial-peanut",
+    "common_name": "Perennial Peanut",
+    "scientific_name": "Arachis glabrata",
+    "category": "cover-crop",
+    "subcategory": "legume",
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": null,
+      "max": null
+    },
+    "days_to_maturity": {
+      "min": 365,
+      "max": 548
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 1,
+        "max": 6
+      },
+      "note": "Plant rhizome sprigs in late spring once soil is warm; establishment is slow the first season but the stand fills in by year 2."
+    },
+    "usda_zones": {
+      "min": 8,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 24
+    },
+    "height_in": {
+      "min": 4,
+      "max": 10
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 36
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant rhizome sections 2–3 in deep in well-drained, sandy or loamy soil; perennial peanut tolerates poor, acidic soils typical of Gulf Coast landscapes. Establishment is slow the first year but the low, dense mat fixes nitrogen and crowds out weeds without mowing once established. It can be used as a lawn alternative, orchard under-planting, or living mulch in vegetable corridors. In zones 8–9 the top may freeze back in hard winters but the rhizomes resprout reliably from below ground.",
+    "sources": [
+      "University of Florida IFAS Extension",
+      "Texas A&M AgriLife Extension Service"
+    ]
+  },
+  {
+    "slug": "sorghum-sudangrass",
+    "common_name": "Sorghum-Sudangrass",
+    "scientific_name": "Sorghum bicolor × Sorghum bicolor var. sudanense",
+    "category": "cover-crop",
+    "subcategory": "grass",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 95
+    },
+    "days_to_maturity": {
+      "min": 45,
+      "max": 75
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 1,
+        "max": 10
+      },
+      "note": "Sow after last frost when soil is above 65°F; produces massive biomass for weed suppression and soil building."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 1,
+      "max": 3
+    },
+    "height_in": {
+      "min": 60,
+      "max": 120
+    },
+    "spread_in": {
+      "min": 4,
+      "max": 8
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Broadcast or drill seed 3/4 in deep into warm soil; sorghum-sudangrass hybrids germinate and grow aggressively, reaching 6–8 feet before termination. The dense canopy suppresses even aggressive perennial weeds, and allelopathic root exudates further inhibit weed germination. Mow to 4–6 in to encourage regrowth and additional tillering before final termination; allow residue 2–3 weeks to partially break down before transplanting into it. Avoid planting in soybean rotations immediately after, as the sorghum-family residue can briefly stunt legume establishment.",
+    "sources": [
+      "USDA SARE cover crop guide",
+      "Midwest Cover Crops Council field guide"
+    ]
+  },
+  {
+    "slug": "sunn-hemp",
+    "common_name": "Sunn Hemp",
+    "scientific_name": "Crotalaria juncea",
+    "category": "cover-crop",
+    "subcategory": "legume",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 95
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 90
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 1,
+        "max": 8
+      },
+      "note": "Sow after last frost once soil is consistently warm; a standout warm-season nitrogen fixer and nematode suppressor for zone 9–11."
+    },
+    "usda_zones": {
+      "min": 9,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 1,
+      "max": 3
+    },
+    "height_in": {
+      "min": 48,
+      "max": 120
+    },
+    "spread_in": {
+      "min": 4,
+      "max": 8
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Broadcast or drill seed 1/2 in deep into warm, well-drained soil after danger of frost has passed. Sunn hemp grows rapidly — up to 6 feet in two months — and fixes 100–200 lb of nitrogen per acre while suppressing root-knot nematodes through root exudates. Terminate by mowing at first bloom (roughly 60–70 days) before seed set, since mature plants become woody and slow to decompose. Do not plant where livestock can graze, as the foliage contains alkaloids toxic to most grazing animals.",
+    "sources": [
+      "USDA SARE cover crop guide",
+      "University of Florida IFAS Extension"
     ]
   },
   {
@@ -2451,6 +2721,60 @@
     ]
   },
   {
+    "slug": "butterfly-weed",
+    "common_name": "Butterfly Weed",
+    "scientific_name": "Asclepias tuberosa",
+    "category": "flower",
+    "subcategory": "perennial",
+    "days_to_germination": {
+      "min": 21,
+      "max": 30
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 365,
+      "max": 730
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -10,
+        "max": -8
+      },
+      "note": "Cold-stratify seeds for 4–6 weeks in the refrigerator, then start indoors; or direct sow in fall for natural stratification and spring emergence."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 18,
+      "max": 36
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Cold-stratify seeds by mixing with moist sand in a sealed bag and refrigerating for 30 days before sowing at soil surface — seeds need light and should not be covered. Butterfly weed has a deep taproot that makes it drought tolerant once established but very sensitive to transplanting; direct sowing or using deep individual cells causes the least disturbance. First-year plants rarely bloom, investing energy into root development; blooms appear reliably from the second year onward in vivid orange clusters that are among the most attractive nectar sources for monarchs and other butterflies. Leave seedheads through winter to self-sow and feed birds.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "general horticultural reference"
+    ]
+  },
+  {
     "slug": "calendula",
     "common_name": "Calendula (Pot Marigold)",
     "scientific_name": "Calendula officinalis",
@@ -3266,6 +3590,60 @@
     "directions": "Scarify seeds and cold-stratify for 4–6 weeks before spring sowing, or direct sow in fall to let natural winter conditions break dormancy. Baptisia is a slow-starting plant — expect minimal bloom for the first 2–3 years, but once established, the clump requires virtually no care and lives for decades. The indigo-blue lupine-like flower spikes appear in late spring and are followed by attractive, inflated seedpods that rattle in the wind. Do not attempt to transplant established plants, as the deep taproot does not tolerate disturbance.",
     "sources": [
       "general horticultural reference"
+    ]
+  },
+  {
+    "slug": "firebush",
+    "common_name": "Firebush",
+    "scientific_name": "Hamelia patens",
+    "category": "flower",
+    "subcategory": "perennial",
+    "days_to_germination": {
+      "min": 14,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 90,
+      "max": 180
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant container stock after last frost; firebush is a Florida and Gulf Coast native that quickly reaches shrub size and blooms nonstop in summer heat."
+    },
+    "usda_zones": {
+      "min": 8,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 48,
+      "max": 96
+    },
+    "height_in": {
+      "min": 60,
+      "max": 120
+    },
+    "spread_in": {
+      "min": 48,
+      "max": 96
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant in any well-drained soil in full sun; firebush tolerates heat, drought, and poor soils once established and reblooms continuously from late spring through frost. The tubular orange-red flowers are magnets for hummingbirds and butterflies, while the small black fruits that follow attract songbirds — making it one of the most wildlife-productive native shrubs for Gulf Coast gardens. In zone 8–9 the top freezes back in winter, but the plant regrows vigorously from the base each spring; cut dead stems to the ground once new growth begins. Native firebush (var. patens) is superior to the commonly sold 'Compacta' cultivar for wildlife value and cold hardiness.",
+    "sources": [
+      "Florida Native Plant Society",
+      "University of Florida IFAS Extension"
     ]
   },
   {
@@ -4147,6 +4525,113 @@
     "sun": "full",
     "water": "moderate",
     "directions": "Scarify seeds with sandpaper or soak overnight in water to soften the hard seed coat before sowing 1/4 in deep in cool, slightly acidic, well-drained soil. Lupines fix atmospheric nitrogen via root nodules and thrive in lean soils without heavy fertilization — too much nitrogen promotes foliage over flowers. They prefer cool summers; in hot climates, they often perform as cool-season annuals, blooming in late spring and fading by midsummer. Deadhead promptly after the first flowering spike fades to encourage a second flush and prevent excessive self-seeding.",
+    "sources": [
+      "general horticultural reference"
+    ]
+  },
+  {
+    "slug": "mexican-bush-sage",
+    "common_name": "Mexican Bush Sage",
+    "scientific_name": "Salvia leucantha",
+    "category": "flower",
+    "subcategory": "perennial",
+    "days_to_germination": {
+      "min": 14,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 80
+    },
+    "days_to_maturity": {
+      "min": 90,
+      "max": 150
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant container stock after last frost; Mexican bush sage blooms in fall and is the showiest late-season salvia for zone 8–11 landscapes."
+    },
+    "usda_zones": {
+      "min": 8,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 36,
+      "max": 48
+    },
+    "height_in": {
+      "min": 48,
+      "max": 72
+    },
+    "spread_in": {
+      "min": 36,
+      "max": 48
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant in well-drained, moderately fertile soil in full sun; Mexican bush sage is drought tolerant once established and demands good drainage over fertility. It is a short-day plant that blooms from September through frost, producing velvety purple flower spikes loved by hummingbirds and bumblebees; the later into fall it blooms, the more spectacular the display. Cut the entire plant back to 6–8 in after the last hard freeze in late winter to stimulate dense new basal growth. Propagate easily by dividing the clump in spring or rooting stem cuttings in moist perlite.",
+    "sources": [
+      "Texas A&M AgriLife Extension Service",
+      "general horticultural reference"
+    ]
+  },
+  {
+    "slug": "mexican-sunflower",
+    "common_name": "Mexican Sunflower",
+    "scientific_name": "Tithonia rotundifolia",
+    "category": "flower",
+    "subcategory": "annual",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 70,
+      "max": 90
+    },
+    "maturity_from": "seed",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -6,
+        "max": -4
+      },
+      "note": "Start indoors 4–6 weeks before last frost; transplant after frost danger passes — one of the best heat-loving annuals for attracting butterflies and hummingbirds."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 24,
+      "max": 36
+    },
+    "height_in": {
+      "min": 48,
+      "max": 72
+    },
+    "spread_in": {
+      "min": 24,
+      "max": 36
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Sow seeds 1/4 in deep in warm starting mix; transplant carefully as Tithonia dislikes root disturbance — use biodegradable pots if starting indoors. Mexican sunflower thrives in heat, poor soil, and dry conditions, making it ideal for back-of-border plantings in Gulf Coast summers when other annuals falter. The vivid orange, 3-inch daisy-like flowers are irresistible to monarch butterflies, swallowtails, and hummingbirds from midsummer through frost. Deadhead regularly by cutting stems (not just the flower head) back to a side shoot to maintain tidy plants and prolong heavy bloom.",
     "sources": [
       "general horticultural reference"
     ]
@@ -5306,6 +5791,60 @@
     ]
   },
   {
+    "slug": "tropical-milkweed",
+    "common_name": "Tropical Milkweed",
+    "scientific_name": "Asclepias curassavica",
+    "category": "flower",
+    "subcategory": "perennial",
+    "days_to_germination": {
+      "min": 10,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 80
+    },
+    "days_to_maturity": {
+      "min": 90,
+      "max": 120
+    },
+    "maturity_from": "seed",
+    "sow_method": "indoor-start",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -6,
+        "max": -4
+      },
+      "note": "Start indoors 4–6 weeks before last frost; in zone 8–11 it acts as a short-lived perennial and blooms from spring through hard frost."
+    },
+    "usda_zones": {
+      "min": 8,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 36,
+      "max": 48
+    },
+    "spread_in": {
+      "min": 24,
+      "max": 36
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Sow seeds 1/8 in deep in warm starting mix and transplant after frost danger has passed; tropical milkweed establishes quickly and blooms in its first season unlike most native milkweeds. It is an important monarch host plant and nectar source throughout the Gulf Coast growing season, but in zone 9–11 where it does not freeze back, cut plants to 6 in in fall and winter to disrupt the overwinter buildup of Ophryocystis elektroscirrha (OE), a protozoan parasite that accumulates on non-dormant milkweed. Deadhead spent flower clusters to encourage continuous blooming, or allow seedpods to dry and open for easy self-sowing. The red-and-yellow bicolor flowers distinguish it from native milkweeds at a glance.",
+    "sources": [
+      "Xerces Society for Invertebrate Conservation",
+      "general horticultural reference"
+    ]
+  },
+  {
     "slug": "tulip",
     "common_name": "Tulip",
     "scientific_name": "Tulipa spp.",
@@ -5350,6 +5889,60 @@
     "directions": "Plant bulbs pointed end up at a depth of 3 times their height, typically 6–8 in deep, in well-drained soil — standing water will cause rot. In warmer zones (7–8), pre-chill bulbs for 6–8 weeks in the refrigerator before planting to simulate the cold period they need. Most hybrid tulips perform best in year 1; replanting fresh bulbs annually is common practice in mild climates. Allow leaves to die back naturally after bloom to recharge the bulb.",
     "sources": [
       "general horticultural reference"
+    ]
+  },
+  {
+    "slug": "turks-cap",
+    "common_name": "Turk's Cap",
+    "scientific_name": "Malvaviscus arboreus var. drummondii",
+    "category": "flower",
+    "subcategory": "perennial",
+    "days_to_germination": {
+      "min": 21,
+      "max": 30
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 180,
+      "max": 365
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant container stock after last frost; an extremely tough Texas native that thrives in heat, part shade, and dry soils where few flowering shrubs will grow."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 36,
+      "max": 72
+    },
+    "height_in": {
+      "min": 36,
+      "max": 84
+    },
+    "spread_in": {
+      "min": 36,
+      "max": 72
+    },
+    "sun": "partial",
+    "water": "low",
+    "directions": "Plant in well-drained to average soil in partial to full sun; Turk's cap is one of the most shade-tolerant flowering natives for the Gulf South and performs well under the canopy of live oaks. The distinctive red flowers never fully open, forming a twisted turban shape, and are a top hummingbird nectar source from summer through fall. Small red fruits that follow are edible and mildly sweet — birds devour them quickly, and new plants sprout readily from seeds they drop. Prune back to 12–18 in in late winter; in zone 7–8 the top dies back but the roots are reliably hardy to about 10°F.",
+    "sources": [
+      "Texas A&M AgriLife Extension Service",
+      "Lady Bird Johnson Wildflower Center"
     ]
   },
   {
@@ -5989,6 +6582,60 @@
     ]
   },
   {
+    "slug": "carambola",
+    "common_name": "Carambola (Starfruit)",
+    "scientific_name": "Averrhoa carambola",
+    "category": "fruit",
+    "subcategory": "tropical fruit",
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": null,
+      "max": null
+    },
+    "days_to_maturity": {
+      "min": 730,
+      "max": 1460
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 8
+      },
+      "note": "Plant grafted trees in spring; young trees need protection from cold and wind for the first two seasons."
+    },
+    "usda_zones": {
+      "min": 10,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 180,
+      "max": 240
+    },
+    "height_in": {
+      "min": 120,
+      "max": 180
+    },
+    "spread_in": {
+      "min": 120,
+      "max": 180
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in well-drained, fertile soil in full sun; carambola is sensitive to flooding and cold below 27°F even briefly, limiting outdoor cultivation to frost-free zones. The tree blooms multiple times per year and produces fruits along the trunk and main branches — a trait called cauliflory — so hang fruit-protection bags in commercial settings to prevent blemishes. Harvest when the ribs have turned fully yellow and the fruit has slight give; overripe fruit browns quickly at the tips. Fertilize with a balanced citrus-type fertilizer 3–4 times per year to sustain heavy bearing.",
+    "sources": [
+      "University of Florida IFAS Extension",
+      "general horticultural reference"
+    ]
+  },
+  {
     "slug": "chestnut",
     "common_name": "Chestnut",
     "scientific_name": "Castanea sativa",
@@ -6466,6 +7113,60 @@
     ]
   },
   {
+    "slug": "longan",
+    "common_name": "Longan",
+    "scientific_name": "Dimocarpus longan",
+    "category": "fruit",
+    "subcategory": "tropical fruit",
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": null,
+      "max": null
+    },
+    "days_to_maturity": {
+      "min": 1095,
+      "max": 1825
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 8
+      },
+      "note": "Plant grafted trees after all cold weather has passed; young trees are cold-sensitive and need protection until the trunk is well established."
+    },
+    "usda_zones": {
+      "min": 10,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 240,
+      "max": 360
+    },
+    "height_in": {
+      "min": 240,
+      "max": 360
+    },
+    "spread_in": {
+      "min": 180,
+      "max": 300
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant grafted trees in deep, well-drained, slightly acidic soil (pH 5.5–6.5) in full sun; longan will not tolerate standing water or saturated roots. A brief winter cool-dry period — temperatures in the mid-40s°F for several weeks — is essential to trigger reliable flowering, making coastal south Florida and extreme south Texas the two viable zones in the continental United States. Fruit clusters ripen in summer and should be harvested by cutting whole panicles with scissors when the skin turns tan to light brown and the flesh is translucent and sweet. Prune annually after harvest to keep the canopy to a manageable height and promote new fruiting wood.",
+    "sources": [
+      "University of Florida IFAS Tropical Research and Education Center",
+      "general horticultural reference"
+    ]
+  },
+  {
     "slug": "loquat",
     "common_name": "Loquat",
     "scientific_name": "Eriobotrya japonica",
@@ -6622,6 +7323,60 @@
     "directions": "Mandarins (including tangerines, clementines, and satsumas) are the most cold-hardy of the common sweet citrus, with satsumas surviving to about 15°F and thriving in zone 8. Most are self-fertile, though some varieties set more fruit with a compatible pollinator nearby. Fruit tends to ripen earlier in the season than oranges — from October through January depending on variety — and the loose peel and sweet-tart flavor make them popular for fresh eating. Avoid overwatering, as mandarins are somewhat drought-tolerant and susceptible to root rot in wet soils.",
     "sources": [
       "general horticultural reference"
+    ]
+  },
+  {
+    "slug": "moringa",
+    "common_name": "Moringa (Drumstick Tree)",
+    "scientific_name": "Moringa oleifera",
+    "category": "fruit",
+    "subcategory": "tropical tree",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 95
+    },
+    "days_to_maturity": {
+      "min": 90,
+      "max": 180
+    },
+    "maturity_from": "transplant",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 1,
+        "max": 4
+      },
+      "note": "Sow seed or plant cuttings after last frost; moringa grows explosively in heat and can be coppiced to manage size in zone 9."
+    },
+    "usda_zones": {
+      "min": 9,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 60,
+      "max": 120
+    },
+    "height_in": {
+      "min": 120,
+      "max": 360
+    },
+    "spread_in": {
+      "min": 60,
+      "max": 120
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Sow seeds 1 in deep directly into warm, well-drained soil — moringa dislikes transplanting due to its long taproot. It grows extraordinarily fast in hot, dry conditions and tolerates poor, sandy soils; avoid over-watering or heavy clay, which causes stem and root rot. In zone 9 the tree may freeze to the ground in hard winters but regrows vigorously from the root crown each spring. Harvest young leaves, flowers, and immature seed pods (drumsticks) regularly; coppicing the main stem at 3–4 ft encourages dense, bushy regrowth with more leaf area at reachable height.",
+    "sources": [
+      "ECHO (Educational Concerns for Hunger Organization) technical note",
+      "University of Florida IFAS Extension"
     ]
   },
   {
@@ -7046,6 +7801,60 @@
     "directions": "Pecans are protandrous or protogynous depending on variety — pollen shed and receptive female flowers rarely overlap on the same tree — so always plant at least two cultivars of opposite types (Type I with Type II) to ensure cross-pollination. Northern varieties (Hark, Kanza, Lakota) are bred for shorter growing seasons and suit zones 5–7; southern varieties need 250+ frost-free days. Pecans are heavy zinc feeders; apply zinc foliar spray in spring if leaves show rosette symptoms. Harvest when shucks split open in autumn and nuts fall freely.",
     "sources": [
       "general horticultural reference"
+    ]
+  },
+  {
+    "slug": "pineapple-guava",
+    "common_name": "Pineapple Guava (Feijoa)",
+    "scientific_name": "Acca sellowiana",
+    "category": "fruit",
+    "subcategory": "subtropical fruit",
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": null,
+      "max": null
+    },
+    "days_to_maturity": {
+      "min": 730,
+      "max": 1095
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant container-grown stock in spring after frost danger; established plants tolerate brief dips to 15°F once mature."
+    },
+    "usda_zones": {
+      "min": 8,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 96,
+      "max": 180
+    },
+    "height_in": {
+      "min": 72,
+      "max": 144
+    },
+    "spread_in": {
+      "min": 72,
+      "max": 144
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant in well-drained soil in full sun; pineapple guava tolerates drought, coastal salt spray, and moderate alkalinity better than most subtropical fruits. Most selections set better crops with a second nearby cultivar for cross-pollination, though some are self-fruitful. The showy red-stamened flowers are edible and mild-flavored — harvest petals before they fall for salads. Fruits drop naturally when ripe in autumn; check the ground daily and collect before birds and insects take them, then ripen indoors for 3–5 days until they yield to gentle pressure.",
+    "sources": [
+      "general horticultural reference",
+      "University of California Cooperative Extension"
     ]
   },
   {
@@ -8378,6 +9187,60 @@
     ]
   },
   {
+    "slug": "cuban-oregano",
+    "common_name": "Cuban Oregano (Broad-Leaf Thyme)",
+    "scientific_name": "Plectranthus amboinicus",
+    "category": "herb",
+    "subcategory": "perennial",
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": null,
+      "max": null
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 90
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Root cuttings in water or moist mix and transplant after frost; in zone 9–11 plants overwinter but may die back to roots in zone 9 hard freezes."
+    },
+    "usda_zones": {
+      "min": 9,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 30
+    },
+    "height_in": {
+      "min": 12,
+      "max": 24
+    },
+    "spread_in": {
+      "min": 24,
+      "max": 48
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Propagate from stem cuttings 4–6 in long; cuttings root in 1–2 weeks in moist perlite or a glass of water and are far more reliable than seed. Plant in any well-drained soil in full sun to bright partial shade; Cuban oregano tolerates heat, humidity, and dry spells far better than Mediterranean oregano. The thick, succulent leaves have a pungent, oregano-like aroma intensified by thyme — use fresh in Caribbean, Indian, and Southeast Asian cooking. Remove flower spikes to keep the plant in vigorous vegetative growth; take a few cuttings before the first frost if growing as an annual.",
+    "sources": [
+      "University of Florida IFAS Extension",
+      "general horticultural reference"
+    ]
+  },
+  {
     "slug": "cumin",
     "common_name": "Cumin",
     "scientific_name": "Cuminum cyminum",
@@ -8428,6 +9291,60 @@
     "directions": "Start seeds indoors 4–6 weeks before last frost in deep cells to minimize taproot disturbance, sowing 1/4 in deep and keeping soil at 70°F or above. Transplant with great care, disturbing roots as little as possible, into sandy or well-drained soil in full sun. Cumin thrives in hot, dry conditions and performs poorly in cool, wet summers; mulch to retain ground warmth. Harvest umbels when seeds turn brown, drying the cut heads in a warm, airy spot before threshing out the pungent seeds.",
     "sources": [
       "general horticultural reference"
+    ]
+  },
+  {
+    "slug": "curry-leaf",
+    "common_name": "Curry Leaf",
+    "scientific_name": "Murraya koenigii",
+    "category": "herb",
+    "subcategory": "perennial",
+    "days_to_germination": {
+      "min": 14,
+      "max": 28
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 180,
+      "max": 365
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant container-grown stock after last frost; in zone 9 protect with frost cloth during freezes — the woody stems can survive brief dips to 28°F once established."
+    },
+    "usda_zones": {
+      "min": 9,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 36,
+      "max": 60
+    },
+    "height_in": {
+      "min": 48,
+      "max": 96
+    },
+    "spread_in": {
+      "min": 36,
+      "max": 60
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in well-drained, moderately fertile soil in full sun; curry leaf shrubs grow slowly at first but accelerate once established in a warm zone 9–11 site. Fresh leaves are essential to South Indian cooking and release their aroma only when heated in oil — dried leaves are a poor substitute, so growing your own is worthwhile. Harvest by snipping young branch tips regularly, which encourages dense new growth; remove flower clusters as they appear if you prefer to maximize leaf production. Mulch heavily through zone 9 winters and wrap the trunk if temperatures below 28°F are expected for more than a night or two.",
+    "sources": [
+      "general horticultural reference",
+      "University of Florida IFAS Extension"
     ]
   },
   {
@@ -9494,6 +10411,60 @@
     ]
   },
   {
+    "slug": "mexican-tarragon",
+    "common_name": "Mexican Tarragon (Mexican Mint Marigold)",
+    "scientific_name": "Tagetes lucida",
+    "category": "herb",
+    "subcategory": "perennial",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 90,
+      "max": 120
+    },
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -6,
+        "max": -4
+      },
+      "note": "Start indoors 4–6 weeks before last frost; in zone 8–11 it overwinters and becomes a dependable perennial where French tarragon languishes in summer heat."
+    },
+    "usda_zones": {
+      "min": 8,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 24,
+      "max": 36
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Sow seeds 1/8 in deep in warm starting mix or propagate by stem cuttings, which root readily in moist perlite. Mexican tarragon thrives in the same hot, humid summers that kill French tarragon and delivers a very similar anise-like flavor; harvest foliage throughout the season by pinching stem tips. It blooms in fall with small golden-yellow flowers that attract butterflies — you can allow blooming or deadhead to maintain leaf production. In zone 9–11 the plant is perennial; cut back hard in early spring to stimulate fresh growth.",
+    "sources": [
+      "Texas A&M AgriLife Extension Service",
+      "general horticultural reference"
+    ]
+  },
+  {
     "slug": "milk-thistle",
     "common_name": "Milk Thistle",
     "scientific_name": "Silybum marianum",
@@ -10504,6 +11475,60 @@
     ]
   },
   {
+    "slug": "vietnamese-coriander",
+    "common_name": "Vietnamese Coriander (Rau Ram)",
+    "scientific_name": "Persicaria odorata",
+    "category": "herb",
+    "subcategory": "perennial",
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": null,
+      "max": null
+    },
+    "days_to_maturity": {
+      "min": 30,
+      "max": 60
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Transplant rooted cuttings after frost in full sun to part shade; thrives in hot, humid conditions that make cilantro bolt."
+    },
+    "usda_zones": {
+      "min": 9,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 12,
+      "max": 24
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 30
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Propagate from stem cuttings, which root readily in water or moist potting mix within a week; seed is rarely available. Vietnamese coriander prefers consistently moist, rich soil and tolerates partial shade — qualities that let it thrive in spots too hot or dry for cilantro. The pointed, dark-green leaves with chevron markings taste of cilantro with a peppery bite and are used raw in Vietnamese pho, salads, and noodle dishes. In zone 9 it may freeze back but generally rebounds from the root crown; mulch heavily in winter to protect roots.",
+    "sources": [
+      "general horticultural reference",
+      "university extension guides"
+    ]
+  },
+  {
     "slug": "wild-bergamot",
     "common_name": "Wild Bergamot",
     "scientific_name": "Monarda fistulosa var. fistulosa",
@@ -11033,6 +12058,60 @@
     "directions": "Sow seeds 1/4 inch deep in warm starting mix; peppers germinate best when soil stays above 75°F. Harden off transplants over 7–10 days before planting, and wait until soil temperature reaches at least 65°F. Keep moisture consistent to prevent fruit drop, and apply a balanced fertilizer once flowering begins. Pick green for mild flavor or leave on the plant to ripen to red, yellow, or orange for maximum sweetness.",
     "sources": [
       "general horticultural reference"
+    ]
+  },
+  {
+    "slug": "bitter-melon",
+    "common_name": "Bitter Melon (Bitter Gourd)",
+    "scientific_name": "Momordica charantia",
+    "category": "vegetable",
+    "subcategory": "fruiting",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 75,
+      "max": 95
+    },
+    "days_to_maturity": {
+      "min": 55,
+      "max": 75
+    },
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": -2
+      },
+      "note": "Start indoors 2–4 weeks before last frost; transplant after soil warms to 75°F — the hotter the summer, the better it performs."
+    },
+    "usda_zones": {
+      "min": 9,
+      "max": 12
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 24
+    },
+    "height_in": {
+      "min": 60,
+      "max": 120
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Nick the seed coat or soak seeds 24 hours before sowing to improve germination; sow 1/2 in deep in warm starting mix at 80–85°F. Provide a trellis at least 6 feet tall — the vines climb by tendrils and produce more fruit when grown vertically. Hand-pollinate by transferring pollen from male to female flowers (female has a tiny immature fruit at the base) using a soft brush to improve fruit set in low-insect conditions. Harvest when fruits are still firm, bright green, and about 4–6 in long; fully ripe fruits turn orange-yellow and split open, revealing red-coated seeds that birds relish but the bitter flesh is no longer palatable.",
+    "sources": [
+      "general horticultural reference",
+      "University of Florida IFAS Extension"
     ]
   },
   {
@@ -13050,6 +14129,60 @@
     ]
   },
   {
+    "slug": "jicama",
+    "common_name": "Jicama",
+    "scientific_name": "Pachyrhizus erosus",
+    "category": "vegetable",
+    "subcategory": "root",
+    "days_to_germination": {
+      "min": 14,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 75,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 150,
+      "max": 210
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 4
+      },
+      "note": "Sow 2–4 weeks after last frost into warm soil; jicama needs a long frost-free season of at least 5 months and thrives in zone 9–11 Gulf Coast conditions."
+    },
+    "usda_zones": {
+      "min": 9,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 60,
+      "max": 120
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Sow scarified seeds 1 in deep in loose, deep, well-drained soil 2–4 weeks after the last frost once soil is thoroughly warm. Jicama is a vigorous vine requiring a sturdy trellis; pinch flower buds as they appear throughout the season — leaving flowers reduces tuber size dramatically since the plant diverts energy to seed set. Begin harvesting small tubers at about 5 months; larger tubers become more fibrous if left past 9 months. Only the roots are edible — all above-ground parts, including seeds and pods, contain rotenone and are toxic.",
+    "sources": [
+      "Texas A&M AgriLife Extension Service",
+      "general horticultural reference"
+    ]
+  },
+  {
     "slug": "yam-bean",
     "common_name": "Jicama (Yam Bean)",
     "scientific_name": "Pachyrhizus erosus",
@@ -13527,6 +14660,60 @@
     ]
   },
   {
+    "slug": "malabar-spinach",
+    "common_name": "Malabar Spinach",
+    "scientific_name": "Basella alba",
+    "category": "vegetable",
+    "subcategory": "greens",
+    "days_to_germination": {
+      "min": 10,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 50,
+      "max": 70
+    },
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": 0
+      },
+      "note": "Start indoors 4 weeks before last frost; transplant once nights stay above 55°F — the heat-season answer to spinach for zone 8–11 gardens."
+    },
+    "usda_zones": {
+      "min": 9,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 48,
+      "max": 120
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Soak seeds overnight before sowing to soften the hard seed coat; germination is slow but improves significantly with scarification and warm soil above 70°F. Provide a trellis or fence — the twining vines reach 6–10 feet and produce heavily when they climb. Harvest young leaves and stem tips frequently; the leaves are mucilaginous (similar to okra) and excellent in stir-fries, soups, and anywhere cooked greens are used. The red-stemmed variety (Basella rubra) is slightly more ornamental and equally productive — both tolerate heat and humidity that quickly kills regular spinach.",
+    "sources": [
+      "general horticultural reference",
+      "University of Florida IFAS Extension"
+    ]
+  },
+  {
     "slug": "mustard-greens",
     "common_name": "Mustard Greens",
     "scientific_name": "Brassica juncea",
@@ -13898,6 +15085,60 @@
     ]
   },
   {
+    "slug": "pigeon-pea",
+    "common_name": "Pigeon Pea",
+    "scientific_name": "Cajanus cajan",
+    "category": "vegetable",
+    "subcategory": "legume",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 120,
+      "max": 180
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 6
+      },
+      "note": "Direct sow 2–6 weeks after last frost; in zone 9–11 pigeon pea grows as a woody short-lived perennial and may produce for 3–5 years before replanting."
+    },
+    "usda_zones": {
+      "min": 9,
+      "max": 12
+    },
+    "spacing_in": {
+      "min": 36,
+      "max": 60
+    },
+    "height_in": {
+      "min": 60,
+      "max": 120
+    },
+    "spread_in": {
+      "min": 36,
+      "max": 72
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Sow seeds 1 in deep in well-drained, low-fertility soil; pigeon pea is a deep-rooted drought tolerant shrub that fixes nitrogen and does not require fertilization. It grows into a woody perennial in frost-free zones and produces pods over an extended season rather than all at once. Harvest green pods when plump for fresh shelling or allow to dry on the plant for dried dal. Prune back to 2–3 ft after the main harvest season to stimulate a second flush of growth and pods.",
+    "sources": [
+      "ECHO technical notes",
+      "general horticultural reference"
+    ]
+  },
+  {
     "slug": "poblano",
     "common_name": "Poblano Pepper",
     "scientific_name": "Capsicum annuum",
@@ -14160,6 +15401,60 @@
     "directions": "Sow 3–4 seeds 1 inch deep per hill in deeply worked, compost-rich soil once soil temperature is at least 65°F, then thin to the 2 strongest seedlings. Large-vined types need 6–10 feet of space per plant; choose bush types for smaller gardens. Place a piece of cardboard or straw under developing fruits to prevent rot. Harvest when the shell is fully orange, the rind is hard throughout, and the stem has begun to dry and cork.",
     "sources": [
       "general horticultural reference"
+    ]
+  },
+  {
+    "slug": "purple-hull-pea",
+    "common_name": "Purple Hull Pea (Southern Pea)",
+    "scientific_name": "Vigna unguiculata subsp. unguiculata",
+    "category": "vegetable",
+    "subcategory": "legume",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 95
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 75
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 8
+      },
+      "note": "Sow 2 weeks after last frost into warm soil; a quintessential Gulf Coast staple that thrives in heat and humidity that discourage northern legumes."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 3,
+      "max": 6
+    },
+    "height_in": {
+      "min": 18,
+      "max": 36
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Sow seeds 1 in deep directly into warm, well-drained soil — purple hull peas rot in cold, wet ground, so wait until soil consistently exceeds 65°F. Inoculate seed with cowpea rhizobium for maximum nitrogen fixation and avoid excess fertilizer, which promotes foliage over pods. Harvest pods when the purple color intensifies and the peas feel plump inside, shelling immediately or refrigerating; over-mature pods turn tan and the peas starch up quickly. Succession-plant every 3 weeks through summer for a continuous harvest; a second planting in late July produces a heavy fall crop in the Gulf South.",
+    "sources": [
+      "Texas A&M AgriLife Extension Service",
+      "Louisiana State University AgCenter"
     ]
   },
   {
@@ -15538,6 +16833,60 @@
     "directions": "Sow seeds 1 inch deep in warm, sandy loam hills with generous compost worked in; watermelons thrive with long, hot summers. Avoid overhead irrigation once fruits are sizing up, as uneven moisture causes cracking. Ripeness indicators include a dull surface sheen replacing the glossy skin, a cream or yellow ground spot on the underside, and a dry tendril nearest the fruit. Thump the fruit and listen for a deep, hollow resonance to confirm ripeness.",
     "sources": [
       "general horticultural reference"
+    ]
+  },
+  {
+    "slug": "yardlong-bean",
+    "common_name": "Yardlong Bean (Asparagus Bean)",
+    "scientific_name": "Vigna unguiculata subsp. sesquipedalis",
+    "category": "vegetable",
+    "subcategory": "legume",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 95
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 80
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 6
+      },
+      "note": "Sow 2–6 weeks after last frost once soil is warm; yardlong beans love Gulf Coast heat and humidity and outperform regular beans all summer."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 6,
+      "max": 12
+    },
+    "height_in": {
+      "min": 120,
+      "max": 180
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Sow seeds 1 in deep once soil is reliably warm; yardlong beans are vigorous climbers that need a sturdy trellis or fence at least 6 feet tall. Unlike common beans, they thrive in high heat and set pods prolifically during summer weather that causes snap beans to drop their blossoms. Harvest when pods are pencil-thin and roughly 12–18 in long, well before they reach their potential 36 in — longer pods become fibrous and bitter. Check daily once pods begin forming, as they move from prime to over-mature in just 2–3 days.",
+    "sources": [
+      "general horticultural reference",
+      "University of Florida IFAS Extension"
     ]
   },
   {

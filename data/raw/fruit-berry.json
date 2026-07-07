@@ -673,5 +673,32 @@
     "water": "moderate",
     "directions": "Passionfruit is a vigorous, tendril-climbing vine requiring a sturdy wire trellis or fence. Train the main stem vertically and allow lateral shoots to drape horizontally from the top — these laterals bear the flowers and fruit. Prune heavily after fruiting to rejuvenate the vine and maintain productive growth. Harvest when the fruit skin begins to wrinkle and the fruit falls or detaches easily; purple cultivars are generally more cold-tolerant than yellow types.",
     "sources": ["general horticultural reference", "university extension guides"]
+  },
+  {
+    "slug": "serviceberry",
+    "common_name": "Serviceberry (Juneberry)",
+    "scientific_name": "Amelanchier canadensis",
+    "category": "berry",
+    "subcategory": "shrub fruit",
+    "days_to_germination": {"min": null, "max": null},
+    "germination_soil_temp_f": {"min": null, "max": null},
+    "days_to_maturity": {"min": 730, "max": 1095},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": -4, "max": 0},
+      "note": "Plant bare-root or container stock in early spring while still dormant; fall planting works well in zones 5–8."
+    },
+    "usda_zones": {"min": 4, "max": 9},
+    "spacing_in": {"min": 60, "max": 120},
+    "height_in": {"min": 72, "max": 240},
+    "spread_in": {"min": 60, "max": 120},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in well-drained, slightly acidic soil (pH 5.5–7.0) in full to partial sun; serviceberry tolerates wet sites and woodland edges better than most fruiting shrubs. No cross-pollinator is required, though planting two or more selections increases yield. Fruits ripen in late spring to early June, turning from red to deep purple-blue when fully sweet — birds will compete for them, so netting is advisable. Prune crossing or crowded stems in late winter to maintain an open, multi-stemmed form and remove root suckers to control spread.",
+    "sources": ["general horticultural reference", "university extension guides"]
   }
 ]
