@@ -1,0 +1,1845 @@
+[
+  {
+    "slug": "mizuna",
+    "common_name": "Mizuna",
+    "scientific_name": "Brassica rapa var. nipposinica",
+    "category": "vegetable",
+    "subcategory": "brassica",
+    "days_to_germination": {
+      "min": 4,
+      "max": 7
+    },
+    "germination_soil_temp_f": {
+      "min": 45,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 21,
+      "max": 40
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": -2
+      },
+      "note": "Direct sow 2–4 weeks before last frost in spring; make a second sowing 6–8 weeks before first fall frost for autumn harvest."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 6,
+      "max": 9
+    },
+    "height_in": {
+      "min": 8,
+      "max": 14
+    },
+    "spread_in": {
+      "min": 6,
+      "max": 10
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Sow seeds 1/4 inch deep in rows or broadcast thinly, thinning to 6–9 inches for full heads or leaving dense for cut-and-come-again baby leaves. Mizuna is extremely fast-growing and bolt-tolerant compared to most brassicas, making it one of the most reliable salad greens for both spring and fall. Begin harvesting outer leaves at 21 days or cut the whole plant an inch above the soil line and allow it to regrow. Consistent moisture promotes tender, mild-flavored leaves; drought causes bitterness.",
+    "sources": [
+      "general horticultural reference"
+    ]
+  },
+  {
+    "slug": "tatsoi",
+    "common_name": "Tatsoi",
+    "scientific_name": "Brassica rapa var. narinosa",
+    "category": "vegetable",
+    "subcategory": "brassica",
+    "days_to_germination": {
+      "min": 4,
+      "max": 7
+    },
+    "germination_soil_temp_f": {
+      "min": 45,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 45,
+      "max": 50
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": -2
+      },
+      "note": "Direct sow 2–4 weeks before last frost; excels as a fall crop sown 6–8 weeks before first frost, as light freezes sweeten the leaves."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 6,
+      "max": 12
+    },
+    "height_in": {
+      "min": 4,
+      "max": 8
+    },
+    "spread_in": {
+      "min": 8,
+      "max": 12
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Sow seeds 1/4 inch deep and thin to 6–12 inches for full rosettes; closer spacing produces baby greens for salad mix. Tatsoi forms a flat, ground-hugging rosette of dark spoon-shaped leaves and is remarkably cold-hardy, surviving temperatures into the low 20s°F under row cover. Harvest whole plants when 4–6 inches across or pick outer leaves progressively. Avoid planting in summer as heat causes immediate bolting.",
+    "sources": [
+      "general horticultural reference"
+    ]
+  },
+  {
+    "slug": "gai-lan",
+    "common_name": "Gai Lan (Chinese Broccoli)",
+    "scientific_name": "Brassica oleracea var. alboglabra",
+    "category": "vegetable",
+    "subcategory": "brassica",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 50,
+      "max": 80
+    },
+    "days_to_maturity": {
+      "min": 45,
+      "max": 70
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": -2
+      },
+      "note": "Direct sow 2–4 weeks before last frost in spring; start a fall crop by direct sowing 8–10 weeks before first frost."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 8,
+      "max": 12
+    },
+    "height_in": {
+      "min": 12,
+      "max": 24
+    },
+    "spread_in": {
+      "min": 8,
+      "max": 12
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Sow seeds 1/4 inch deep in fertile, well-drained soil amended with compost, and thin to 8–12 inches. Harvest the central flowering shoot when buds are tight and stems are still tender, cutting 6–8 inches down the stalk before any flowers open; leaving a few leaves on the stem encourages multiple side shoots. Keep soil evenly moist and feed with a balanced fertilizer at planting and again at mid-season. Hot weather causes rapid bolting and tough stems, so timing the crop for cool weather is essential.",
+    "sources": [
+      "general horticultural reference"
+    ]
+  },
+  {
+    "slug": "komatsuna",
+    "common_name": "Komatsuna (Japanese Mustard Spinach)",
+    "scientific_name": "Brassica rapa var. perviridis",
+    "category": "vegetable",
+    "subcategory": "brassica",
+    "days_to_germination": {
+      "min": 4,
+      "max": 7
+    },
+    "germination_soil_temp_f": {
+      "min": 45,
+      "max": 80
+    },
+    "days_to_maturity": {
+      "min": 30,
+      "max": 45
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": -2
+      },
+      "note": "Sow 2–4 weeks before last frost in spring, or 6–8 weeks before first fall frost; succession sow every 2–3 weeks."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 4,
+      "max": 8
+    },
+    "height_in": {
+      "min": 8,
+      "max": 14
+    },
+    "spread_in": {
+      "min": 4,
+      "max": 8
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Sow seeds 1/4 inch deep, thinning to 4 inches for baby greens or 8 inches for full-sized plants. Komatsuna is one of the most versatile Asian brassicas — milder than mustard, more heat-tolerant than spinach, and remarkably cold-hardy. Begin harvesting at 30 days for tender salad leaves, or allow plants to reach full size at 8–14 inches for stir-frying and braising. Water consistently to keep leaves mild and succulent.",
+    "sources": [
+      "general horticultural reference"
+    ]
+  },
+  {
+    "slug": "choy-sum",
+    "common_name": "Choy Sum",
+    "scientific_name": "Brassica rapa var. parachinensis",
+    "category": "vegetable",
+    "subcategory": "brassica",
+    "days_to_germination": {
+      "min": 4,
+      "max": 8
+    },
+    "germination_soil_temp_f": {
+      "min": 50,
+      "max": 80
+    },
+    "days_to_maturity": {
+      "min": 35,
+      "max": 55
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -2,
+        "max": 0
+      },
+      "note": "Sow around the last frost date in spring, or 6–8 weeks before first fall frost; best in cool weather but tolerates mild warmth better than other brassicas."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 6,
+      "max": 10
+    },
+    "height_in": {
+      "min": 10,
+      "max": 18
+    },
+    "spread_in": {
+      "min": 6,
+      "max": 10
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Sow seeds 1/4 inch deep in rows, thinning to 6–10 inches; plants can be sown more densely and thinned progressively, using the thinnings as greens. Harvest the central flower stalk when buds are just beginning to show yellow but before flowers open, cutting 6 inches down to leave side shoots. The stems, leaves, and flower buds are all edible; successive harvesting keeps production going for several weeks. Even soil moisture and cool temperatures produce the sweetest, most tender stalks.",
+    "sources": [
+      "general horticultural reference"
+    ]
+  },
+  {
+    "slug": "amaranth-callaloo",
+    "common_name": "Amaranth (Callaloo)",
+    "scientific_name": "Amaranthus tricolor",
+    "category": "vegetable",
+    "subcategory": "leafy-green",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 30,
+      "max": 45
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 1,
+        "max": 3
+      },
+      "note": "Direct sow 1–3 weeks after last frost once soil has warmed to at least 65°F; seeds are tiny and benefit from surface sowing."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 6,
+      "max": 12
+    },
+    "height_in": {
+      "min": 18,
+      "max": 48
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 18
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Scatter tiny seeds on the soil surface or press in no deeper than 1/8 inch, and keep moist until germination; thin to 6–12 inches once seedlings are established. Vegetable amaranth thrives in heat and is exceptionally drought-tolerant once established, making it a reliable summer green when spinach has bolted. Harvest young leaves and shoot tips continuously from 30 days onward; regular harvesting delays flowering and extends the harvest window. Leaves are best cooked briefly — sautéed, steamed, or simmered in soups — and are rich in iron and calcium.",
+    "sources": [
+      "general horticultural reference"
+    ]
+  },
+  {
+    "slug": "orach",
+    "common_name": "Orach (Mountain Spinach)",
+    "scientific_name": "Atriplex hortensis",
+    "category": "vegetable",
+    "subcategory": "leafy-green",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 45,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 40,
+      "max": 60
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": -2
+      },
+      "note": "Direct sow 2–4 weeks before last frost; seeds need cold stratification or cool soil to germinate well and the crop runs to seed in summer heat."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 9,
+      "max": 12
+    },
+    "height_in": {
+      "min": 24,
+      "max": 60
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 18
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Press seeds firmly into soil no deeper than 1/4 inch; germination is improved by pre-soaking seeds for a few hours before sowing. Orach grows quickly into an upright plant with red, gold, or green leaves that can substitute for spinach in any cooked preparation. Pinch the central growing tip when the plant is 12 inches tall to encourage bushy side growth and delay bolting. Harvest young leaves frequently; once flower stalks emerge, leaves become less palatable.",
+    "sources": [
+      "general horticultural reference"
+    ]
+  },
+  {
+    "slug": "miners-lettuce",
+    "common_name": "Miner's Lettuce",
+    "scientific_name": "Claytonia perfoliata",
+    "category": "vegetable",
+    "subcategory": "leafy-green",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 40,
+      "max": 65
+    },
+    "days_to_maturity": {
+      "min": 40,
+      "max": 50
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -6,
+        "max": -4
+      },
+      "note": "Sow 4–6 weeks before last frost; it prefers cool, moist conditions and will self-sow prolifically if allowed to set seed."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 4,
+      "max": 6
+    },
+    "height_in": {
+      "min": 4,
+      "max": 8
+    },
+    "spread_in": {
+      "min": 4,
+      "max": 6
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Broadcast seeds over moist soil and press lightly into contact; no covering is needed as seeds germinate best with light. Miner's lettuce is best sown in partial shade in mild climates, where it will often naturalize and self-sow. The distinctive round, perfoliate leaves (stem appearing to grow through the leaf) are mild and succulent — excellent raw in salads. Harvest whole plants or outer leaves before warm weather triggers bolting, which happens quickly once temperatures exceed 65°F.",
+    "sources": [
+      "general horticultural reference"
+    ]
+  },
+  {
+    "slug": "purslane",
+    "common_name": "Purslane",
+    "scientific_name": "Portulaca oleracea",
+    "category": "vegetable",
+    "subcategory": "leafy-green",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 45,
+      "max": 60
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 1,
+        "max": 3
+      },
+      "note": "Sow after last frost when soil is thoroughly warm; germination is erratic in cool soil below 65°F."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 6,
+      "max": 12
+    },
+    "height_in": {
+      "min": 3,
+      "max": 8
+    },
+    "spread_in": {
+      "min": 8,
+      "max": 18
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Surface-sow tiny seeds or press them 1/8 inch into warm, well-drained soil; do not overwater as seeds rot easily in cool, wet conditions. Golden or green cultivated purslane is much larger and less bitter than its weedy relative, with thick, succulent stems and paddle-shaped leaves. Harvest stem tips 5–6 inches long when plants are lush and before flower buds form; the plant regrows readily after cutting. Purslane is one of the few plant sources of omega-3 fatty acids and is excellent raw in salads or lightly sautéed.",
+    "sources": [
+      "general horticultural reference"
+    ]
+  },
+  {
+    "slug": "celtuce",
+    "common_name": "Celtuce (Stem Lettuce)",
+    "scientific_name": "Lactuca sativa var. asparagina",
+    "category": "vegetable",
+    "subcategory": "leafy-green",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 45,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 90
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": -2
+      },
+      "note": "Direct sow 2–4 weeks before last frost in spring; can also be started indoors 4 weeks early and transplanted out."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 10,
+      "max": 14
+    },
+    "height_in": {
+      "min": 18,
+      "max": 36
+    },
+    "spread_in": {
+      "min": 10,
+      "max": 14
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Sow seeds 1/4 inch deep or start indoors and transplant at 4–5 weeks; celtuce is grown primarily for its swollen, asparagus-like central stalk rather than its leaves, though young leaves are also edible. The stalk is ready when it is 1–1.5 inches in diameter and 12–15 inches tall; peel away the outer layer to reveal the crisp, mild interior. Keep soil consistently moist and rich in nitrogen for the fastest stalk development. Harvest before the plant bolts, as heat causes bitterness and pithy texture in the stalk.",
+    "sources": [
+      "general horticultural reference"
+    ]
+  },
+  {
+    "slug": "garland-chrysanthemum",
+    "common_name": "Shungiku (Garland Chrysanthemum)",
+    "scientific_name": "Glebionis coronaria",
+    "category": "vegetable",
+    "subcategory": "leafy-green",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 50,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 30,
+      "max": 50
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": -2
+      },
+      "note": "Direct sow 2–4 weeks before last frost in spring; make a fall sowing 6–8 weeks before first frost for the best quality crop."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 4,
+      "max": 8
+    },
+    "height_in": {
+      "min": 10,
+      "max": 20
+    },
+    "spread_in": {
+      "min": 4,
+      "max": 8
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Scatter seeds on prepared soil and cover lightly with 1/8 inch of soil; thin to 4–8 inches once seedlings are an inch tall and use thinnings in salads. Begin harvesting young shoot tips and leaves at 30 days by pinching the growing tip, which encourages the plant to branch and remain productive for several more weeks. The aromatic, slightly resinous leaves are a classic ingredient in Japanese hot pot and Chinese stir-fries, best harvested before the plant flowers. Flowers develop quickly in heat, so time the crop for cool weather or provide afternoon shade.",
+    "sources": [
+      "general horticultural reference"
+    ]
+  },
+  {
+    "slug": "perilla-vegetable",
+    "common_name": "Perilla (Shiso)",
+    "scientific_name": "Perilla frutescens",
+    "category": "vegetable",
+    "subcategory": "leafy-green",
+    "days_to_germination": {
+      "min": 7,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 80
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 80
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 2
+      },
+      "note": "Direct sow at last frost date or start indoors 4–6 weeks earlier; seeds require light to germinate so press onto the soil surface without covering."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 18,
+      "max": 36
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 18
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Press seeds onto warm, moist soil surface without covering, as light aids germination; cold stratification in the refrigerator for one week before sowing improves germination rates. Perilla is a heat-loving herb-vegetable used extensively in Japanese and Korean cuisines — red types as a colorant and flavoring, green types as a wrap and garnish. Harvest individual large leaves from the base of the plant upward, or cut the whole plant back by half to promote bushy regrowth. Pinch flower spikes as they emerge to extend the leaf harvest and prevent aggressive self-seeding.",
+    "sources": [
+      "general horticultural reference"
+    ]
+  },
+  {
+    "slug": "roselle",
+    "common_name": "Roselle (Jamaican Sorrel)",
+    "scientific_name": "Hibiscus sabdariffa",
+    "category": "vegetable",
+    "subcategory": "fruiting",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 90
+    },
+    "days_to_maturity": {
+      "min": 100,
+      "max": 150
+    },
+    "maturity_from": "seed",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -6
+      },
+      "note": "Start indoors 6–8 weeks before last frost; roselle needs a long growing season and should be transplanted out only after all danger of frost is past."
+    },
+    "usda_zones": {
+      "min": 8,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 24,
+      "max": 36
+    },
+    "height_in": {
+      "min": 36,
+      "max": 72
+    },
+    "spread_in": {
+      "min": 24,
+      "max": 36
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Start seeds 1/4 inch deep in warm mix; germination is fastest at 80–85°F. Transplant after last frost into fertile, well-drained soil and water deeply but infrequently once established. The calyces (fleshy sepals surrounding the seedpods) are the harvested vegetable, ready when they are plump, bright red, and still tender — about a week after the flower drops. Harvest calyces promptly every few days as they become fibrous if left on the plant too long; they are used fresh for teas, jams, and sauces.",
+    "sources": [
+      "general horticultural reference"
+    ]
+  },
+  {
+    "slug": "salsify",
+    "common_name": "Salsify (Oyster Plant)",
+    "scientific_name": "Tragopogon porrifolius",
+    "category": "vegetable",
+    "subcategory": "root",
+    "days_to_germination": {
+      "min": 10,
+      "max": 20
+    },
+    "germination_soil_temp_f": {
+      "min": 50,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 120,
+      "max": 150
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": -2
+      },
+      "note": "Direct sow as early as 2–4 weeks before last frost; the long season requires early sowing and deep, loose soil."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 3,
+      "max": 4
+    },
+    "height_in": {
+      "min": 12,
+      "max": 24
+    },
+    "spread_in": {
+      "min": 3,
+      "max": 5
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Sow seeds 1/2 inch deep in deeply dug, stone-free soil; salsify develops long taproots that fork and deform in rocky or compacted ground. Thin to 3–4 inches after germination and keep weed-free, as salsify's grass-like tops are easily overwhelmed early on. Roots are ready in autumn when they reach pencil thickness and finger length; flavor improves markedly after hard frost. Roots can overwinter in the ground and be harvested as needed through winter in mild climates, or dig all roots in late fall and store in damp sand.",
+    "sources": [
+      "general horticultural reference"
+    ]
+  },
+  {
+    "slug": "scorzonera",
+    "common_name": "Scorzonera (Black Salsify)",
+    "scientific_name": "Scorzonera hispanica",
+    "category": "vegetable",
+    "subcategory": "root",
+    "days_to_germination": {
+      "min": 10,
+      "max": 18
+    },
+    "germination_soil_temp_f": {
+      "min": 50,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 120,
+      "max": 180
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": -2
+      },
+      "note": "Sow as early as 2–4 weeks before last frost; scorzonera can also be sown in late summer for next-year roots, as it is a biennial in most climates."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 4,
+      "max": 6
+    },
+    "height_in": {
+      "min": 18,
+      "max": 30
+    },
+    "spread_in": {
+      "min": 4,
+      "max": 6
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Sow seeds 1/2 inch deep in deeply loosened, rich soil; like salsify, roots fork in compacted ground. Scorzonera produces a black-skinned root with creamy white interior and a more refined flavor than salsify, often described as mildly nutty and sweet. Roots can be harvested in the first autumn when pencil-thick, but leaving them in the ground through winter and harvesting the following spring produces larger, sweeter roots. When harvesting, dig carefully as the roots are brittle and ooze a milky latex; peel under water to prevent discoloration.",
+    "sources": [
+      "general horticultural reference"
+    ]
+  },
+  {
+    "slug": "burdock",
+    "common_name": "Burdock (Gobo)",
+    "scientific_name": "Arctium lappa",
+    "category": "vegetable",
+    "subcategory": "root",
+    "days_to_germination": {
+      "min": 7,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 50,
+      "max": 80
+    },
+    "days_to_maturity": {
+      "min": 120,
+      "max": 150
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": -2
+      },
+      "note": "Sow 2–4 weeks before last frost in deep, raised beds or containers; roots can reach 3 feet and demand well-prepared deep soil."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 4,
+      "max": 6
+    },
+    "height_in": {
+      "min": 24,
+      "max": 48
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Sow seeds 1/2 inch deep in soil loosened to at least 18 inches; raised beds filled with light, compost-rich mix make harvest far easier than attempting to dig clay or compacted soil. Thin to 4–6 inches once seedlings are established. Gobo roots are harvested at 18–24 inches long and about 3/4 inch in diameter, typically 120 days after sowing; use a spading fork to loosen the soil alongside the root before pulling to prevent breakage. Scrub roots and slice thinly for kinpira and stir-fries; soaking cut pieces in acidulated water prevents browning.",
+    "sources": [
+      "general horticultural reference"
+    ]
+  },
+  {
+    "slug": "cardoon",
+    "common_name": "Cardoon",
+    "scientific_name": "Cynara cardunculus",
+    "category": "vegetable",
+    "subcategory": "perennial",
+    "days_to_germination": {
+      "min": 10,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 120,
+      "max": 150
+    },
+    "maturity_from": "seed",
+    "sow_method": "indoor-start",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -10,
+        "max": -8
+      },
+      "note": "Start indoors 8–10 weeks before last frost; transplant after frost danger passes, spacing widely as plants become very large."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 36,
+      "max": 48
+    },
+    "height_in": {
+      "min": 48,
+      "max": 84
+    },
+    "spread_in": {
+      "min": 36,
+      "max": 60
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Sow seeds 1/2 inch deep in large cells or pots and grow on at 65–70°F; transplant into deeply prepared, fertile soil with plenty of compost. In late summer, blanch the stalks by gathering them upright, wrapping loosely in cardboard or burlap, and tying for 4–6 weeks to produce pale, tender, mildly bitter stalks. Harvest in late autumn by cutting the whole plant at the base, then trim the central stalks for cooking. In Zones 7–10 cardoon is perennial; cut old growth to the ground in early spring and topdress with compost to stimulate regrowth.",
+    "sources": [
+      "general horticultural reference"
+    ]
+  },
+  {
+    "slug": "yacon",
+    "common_name": "Yacon",
+    "scientific_name": "Smallanthus sonchifolius",
+    "category": "vegetable",
+    "subcategory": "root",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 150,
+      "max": 210
+    },
+    "maturity_from": "transplant",
+    "sow_method": "tuber",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 2
+      },
+      "note": "Plant sprouted crown divisions at or just after last frost once soil is 60°F; start in pots indoors 4–6 weeks earlier in short-season climates."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 24,
+      "max": 36
+    },
+    "height_in": {
+      "min": 48,
+      "max": 84
+    },
+    "spread_in": {
+      "min": 24,
+      "max": 36
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Divide the crown (the reddish propagating buds at the top of the storage root cluster) in early spring, allowing cut surfaces to dry for a day before planting 3–4 inches deep. Yacon grows into a large, sunflower-family plant producing crisp, sweet, apple-flavored storage tubers at the base. Harvest after the first frost kills the tops, digging the entire root cluster carefully; separate the large tan storage roots from the reddish crown pieces, saving the crowns in a frost-free location for replanting. Let harvested storage roots cure in sunlight for a few weeks to convert starch to fructooligosaccharides and intensify sweetness.",
+    "sources": [
+      "general horticultural reference"
+    ]
+  },
+  {
+    "slug": "chayote",
+    "common_name": "Chayote",
+    "scientific_name": "Sechium edule",
+    "category": "vegetable",
+    "subcategory": "cucurbit",
+    "days_to_germination": {
+      "min": 14,
+      "max": 28
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 80,
+      "max": 120
+    },
+    "maturity_from": "transplant",
+    "sow_method": "tuber",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": -2
+      },
+      "note": "Start indoors 2–4 weeks before last frost by placing an entire fruit on its side in a pot of moist mix; transplant after all frost danger is past."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 48,
+      "max": 120
+    },
+    "height_in": {
+      "min": 36,
+      "max": 96
+    },
+    "spread_in": {
+      "min": 120,
+      "max": 240
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant the whole fruit (it is the seed) on its side with the broad end slightly angled down, barely covered with moist soil; sprouting begins from the narrow end. Provide a very strong trellis as a single mature vine can reach 30 feet and produce dozens to hundreds of fruits per season. Harvest fruits when they are 3–6 inches long and the skin is still smooth and light green; older fruits become pithy and hard. In Zones 9–11, chayote is perennial and will produce an edible tuberous root as well as fruits; in cooler zones, grow as an annual by starting fresh each spring.",
+    "sources": [
+      "general horticultural reference"
+    ]
+  },
+  {
+    "slug": "bottle-gourd",
+    "common_name": "Bottle Gourd (Calabash)",
+    "scientific_name": "Lagenaria siceraria",
+    "category": "vegetable",
+    "subcategory": "cucurbit",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 90
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 90
+    },
+    "maturity_from": "seed",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": -3
+      },
+      "note": "Start indoors 3–4 weeks before last frost and transplant after frost danger passes; direct sowing is also possible once soil is warm."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 36,
+      "max": 60
+    },
+    "height_in": {
+      "min": 12,
+      "max": 24
+    },
+    "spread_in": {
+      "min": 120,
+      "max": 240
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Sow seeds 1/2 inch deep in warm mix or directly in warm soil; nick the seed coat or soak overnight to speed germination. Bottle gourd is a vigorous, tropical vine that requires a sturdy trellis or fence and very warm conditions to thrive. Harvest immature fruits when they are 6–8 inches long (or the desired shape depending on variety) for vegetable use — they are delicate and best cooked; allow fruits to mature fully and dry on the vine if growing for use as a gourd vessel. Pollination requires both male and female flowers to be open simultaneously; hand-pollinate in the morning if fruit set is poor.",
+    "sources": [
+      "general horticultural reference"
+    ]
+  },
+  {
+    "slug": "winter-melon",
+    "common_name": "Winter Melon (Wax Gourd)",
+    "scientific_name": "Benincasa hispida",
+    "category": "vegetable",
+    "subcategory": "cucurbit",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 90
+    },
+    "days_to_maturity": {
+      "min": 80,
+      "max": 120
+    },
+    "maturity_from": "seed",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": -3
+      },
+      "note": "Start indoors 3–4 weeks before last frost; transplant after frost danger passes and soil is warm."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 36,
+      "max": 60
+    },
+    "height_in": {
+      "min": 12,
+      "max": 18
+    },
+    "spread_in": {
+      "min": 120,
+      "max": 240
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Sow 1/2 inch deep in rich, warm soil after last frost; winter melon is a large-fruited cucurbit that needs a long warm season and a very sturdy trellis or ample ground space. The developing fruits are covered in fine white hairs that mature into a waxy white coating, which gives the fruit exceptional storage life of up to a year at room temperature. Harvest mature fruits when the waxy coating is fully developed and the fruit sounds hollow when tapped. Young fruits can also be harvested at 6–8 inches for immediate cooking in soups and stir-fries.",
+    "sources": [
+      "general horticultural reference"
+    ]
+  },
+  {
+    "slug": "cucamelon",
+    "common_name": "Cucamelon (Mouse Melon)",
+    "scientific_name": "Melothria scabra",
+    "category": "vegetable",
+    "subcategory": "cucurbit",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 75
+    },
+    "maturity_from": "seed",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": -3
+      },
+      "note": "Start indoors 3–4 weeks before last frost and transplant after frost danger passes; cucamelon dislikes root disturbance so use biodegradable pots."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 60,
+      "max": 120
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 18
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Sow 1/4 inch deep in warm mix indoors and pot on without disturbing the root ball when transplanting; cucamelon develops a large tuberous root that can overwinter in frost-free climates. Train the delicate vines up a trellis or netting and keep soil consistently moist for best fruit set. Harvest the grape-sized fruits when they look like tiny watermelons and feel firm — they become seedy and bitter if left too long. The flavor is a pleasant combination of cucumber and lime; pick frequently to maintain heavy production.",
+    "sources": [
+      "general horticultural reference"
+    ]
+  },
+  {
+    "slug": "mung-bean",
+    "common_name": "Mung Bean",
+    "scientific_name": "Vigna radiata",
+    "category": "vegetable",
+    "subcategory": "legume",
+    "days_to_germination": {
+      "min": 4,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 90
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 1,
+        "max": 3
+      },
+      "note": "Direct sow 1–3 weeks after last frost when soil has warmed to at least 65°F; mung bean needs a long, warm, relatively dry summer to set seed."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 3,
+      "max": 6
+    },
+    "height_in": {
+      "min": 18,
+      "max": 30
+    },
+    "spread_in": {
+      "min": 6,
+      "max": 12
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Sow seeds 1 inch deep in rows, thinning to 3–6 inches; inoculate with cowpea rhizobium inoculant before planting to ensure nitrogen fixation. Pods can be harvested young (50–60 days) for fresh shelling or snap use, or left on the plant to dry for dried beans or sprouting seeds. Pick pods when they turn black and rattle to collect dry beans; harvest in the morning before pods shatter. Mung beans are also a popular choice for home sprouting — the dry seeds germinate in a jar within 2–4 days.",
+    "sources": [
+      "general horticultural reference"
+    ]
+  },
+  {
+    "slug": "adzuki-bean",
+    "common_name": "Adzuki Bean",
+    "scientific_name": "Vigna angularis",
+    "category": "vegetable",
+    "subcategory": "legume",
+    "days_to_germination": {
+      "min": 5,
+      "max": 12
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 90,
+      "max": 120
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 1,
+        "max": 3
+      },
+      "note": "Direct sow 1–3 weeks after last frost when soil is warm; adzuki beans need a full warm season to produce dried beans."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 4,
+      "max": 6
+    },
+    "height_in": {
+      "min": 18,
+      "max": 24
+    },
+    "spread_in": {
+      "min": 8,
+      "max": 12
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Sow seeds 1 inch deep in well-drained soil; adzuki beans are relatively drought-tolerant once established and prefer soil that is not overly rich in nitrogen. Plants produce clusters of small, dark red beans in slender pods; harvest fresh pods at 60–70 days for green shelling beans, or leave pods until they dry and turn tan for the classic small red dried bean. Watch pods closely at maturity as they shatter easily — harvest when most pods are tan but before they split open. The small, sweet beans are famous in East Asian cuisine, particularly for red bean paste in confections.",
+    "sources": [
+      "general horticultural reference"
+    ]
+  },
+  {
+    "slug": "cranberry-bean",
+    "common_name": "Cranberry Bean (Borlotti Bean)",
+    "scientific_name": "Phaseolus vulgaris",
+    "category": "vegetable",
+    "subcategory": "legume",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 85
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 1,
+        "max": 2
+      },
+      "note": "Direct sow 1–2 weeks after last frost when soil is reliably above 60°F; avoid planting in wet, cold soil which causes seed rot."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 4,
+      "max": 6
+    },
+    "height_in": {
+      "min": 18,
+      "max": 24
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 18
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Sow seeds 1–1.5 inches deep in fertile, well-drained soil; cranberry beans can be grown as a bush or pole type depending on variety. Harvest at the fresh shell stage when pods are colorfully streaked with red and cream and beans inside are plump but not yet dry — this is the classic fresh borlotti stage prized in Italian cooking. For dried beans, leave pods on the plant until they are papery and rattle when shaken, then pull entire plants and cure under cover before threshing. Regular watering during pod fill prevents shriveled beans.",
+    "sources": [
+      "general horticultural reference"
+    ]
+  },
+  {
+    "slug": "welsh-onion",
+    "common_name": "Welsh Onion (Bunching Onion)",
+    "scientific_name": "Allium fistulosum",
+    "category": "vegetable",
+    "subcategory": "allium",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 50,
+      "max": 80
+    },
+    "days_to_maturity": {
+      "min": 65,
+      "max": 120
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -6,
+        "max": -4
+      },
+      "note": "Sow 4–6 weeks before last frost in spring; fall sowing in mild climates produces overwintered clumps ready for early spring harvest."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 4,
+      "max": 6
+    },
+    "height_in": {
+      "min": 12,
+      "max": 24
+    },
+    "spread_in": {
+      "min": 4,
+      "max": 6
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Sow seeds 1/4 inch deep in rows and thin to 4–6 inches, or start in trays and transplant in clusters of 3–5 seedlings. Welsh onion does not form a bulb but produces clumps of hollow, cylindrical green stalks that are harvested like scallions; the entire green top and white base are edible. Harvest outer stalks from established clumps as needed, leaving the center to continue growing; clumps also divide easily and can be split every 2–3 years. Extremely cold-hardy and virtually maintenance-free once established, it serves as a permanent perennial scallion in most temperate gardens.",
+    "sources": [
+      "general horticultural reference"
+    ]
+  },
+  {
+    "slug": "egyptian-walking-onion",
+    "common_name": "Egyptian Walking Onion (Tree Onion)",
+    "scientific_name": "Allium × proliferum",
+    "category": "vegetable",
+    "subcategory": "allium",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 90,
+      "max": 120
+    },
+    "maturity_from": "transplant",
+    "sow_method": "bulb",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": 0
+      },
+      "note": "Plant topset bulbils in early fall so they establish before winter; spring planting is also possible but fall-planted bulbils produce larger plants more quickly."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 6,
+      "max": 10
+    },
+    "height_in": {
+      "min": 18,
+      "max": 30
+    },
+    "spread_in": {
+      "min": 6,
+      "max": 10
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant the small topset bulbils 1–2 inches deep in fall or early spring, pressing firmly into well-drained soil; established clumps need dividing every 2–3 years to maintain vigor. Egyptian walking onions produce clusters of small bulbils at the top of the flower stalk; as these become heavy the stalk bends and the bulbils root where they land, effectively 'walking' across the garden. Harvest underground bulbs in early summer after the foliage begins to die back, or harvest green tops continuously throughout the growing season like scallions. The topset bulbils can be harvested for pickling or used as transplants.",
+    "sources": [
+      "general horticultural reference"
+    ]
+  },
+  {
+    "slug": "anaheim-pepper",
+    "common_name": "Anaheim Pepper",
+    "scientific_name": "Capsicum annuum",
+    "category": "vegetable",
+    "subcategory": "fruiting",
+    "days_to_germination": {
+      "min": 7,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 75,
+      "max": 85
+    },
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -10,
+        "max": -8
+      },
+      "note": "Start indoors 8–10 weeks before last frost; transplant 1–2 weeks after frost danger passes when soil is warm."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 24,
+      "max": 36
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Sow seeds 1/4 inch deep in warm mix at 80°F and provide bright light once germinated to prevent leggy growth; transplant after frost danger has completely passed. Anaheim peppers are mildly hot (500–2,500 Scoville units), long and tapered, and the classic pepper for green chile and chiles rellenos. Harvest green at 75 days for mild flavor, or allow pods to ripen to red for a sweeter, slightly hotter pepper that can be dried and ground into pure chile powder. Consistent watering and a light fertilizer application when flowers begin to set helps prevent blossom drop in heat.",
+    "sources": [
+      "general horticultural reference"
+    ]
+  },
+  {
+    "slug": "shishito-pepper",
+    "common_name": "Shishito Pepper",
+    "scientific_name": "Capsicum annuum",
+    "category": "vegetable",
+    "subcategory": "fruiting",
+    "days_to_germination": {
+      "min": 7,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 75
+    },
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -10,
+        "max": -8
+      },
+      "note": "Start indoors 8–10 weeks before last frost; transplant after frost danger passes into warm soil."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 24,
+      "max": 36
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Sow 1/4 inch deep at 80°F in starting mix; shishito germinates somewhat faster than most peppers and grows into a productive, bushy plant. Harvest the thin-walled, wrinkled green pods at 2–4 inches long; roughly 1 in 10 pods will be surprisingly hot while the rest are mild, which is a characteristic of this variety rather than a flaw. Blistering or pan-roasting whole peppers (popped in a hot dry skillet until charred in spots) is the classic preparation. Production is heavy and consistent through summer; keep picking to prevent fruit from ripening fully to red, which slows new pod development.",
+    "sources": [
+      "general horticultural reference"
+    ]
+  },
+  {
+    "slug": "padron-pepper",
+    "common_name": "Padrón Pepper",
+    "scientific_name": "Capsicum annuum",
+    "category": "vegetable",
+    "subcategory": "fruiting",
+    "days_to_germination": {
+      "min": 7,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 80
+    },
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -10,
+        "max": -8
+      },
+      "note": "Start indoors 8–10 weeks before last frost; transplant 1–2 weeks after frost danger passes."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 24,
+      "max": 36
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Start seeds 1/4 inch deep in warm mix at 78–82°F; transplant into fertile, well-drained soil with consistent moisture. Padrón peppers are the Spanish tapas classic — small, thin-walled, and mostly mild, but a percentage of fruits become significantly hot (especially those left to grow larger or harvested later in the season). Pick pods when they are 1.5–2 inches long and still green for the mildest flavor; fried in olive oil and salted, they are traditionally served as pimientos de Padrón. Consistent watering during fruit set prevents irregular heat and blossom drop.",
+    "sources": [
+      "general horticultural reference"
+    ]
+  },
+  {
+    "slug": "cubanelle-pepper",
+    "common_name": "Cubanelle Pepper (Italian Frying Pepper)",
+    "scientific_name": "Capsicum annuum",
+    "category": "vegetable",
+    "subcategory": "fruiting",
+    "days_to_germination": {
+      "min": 7,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 65,
+      "max": 80
+    },
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -10,
+        "max": -8
+      },
+      "note": "Start indoors 8–10 weeks before last frost; transplant after soil warms to at least 60°F."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 24,
+      "max": 30
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Sow seeds 1/4 inch deep in warm starting mix and maintain soil at 80°F for best germination; grow seedlings in bright light to prevent stretching. The cubanelle produces thin-walled, tapered fruits 4–6 inches long that ripen from pale yellowish-green to red; they are nearly sweet with very mild heat and excellent for frying, stuffing, and fresh eating. Harvest green fruits at 65 days or leave on the plant to ripen red for sweeter flavor. Plants are prolific producers; side-dress with a balanced fertilizer midseason to maintain yield.",
+    "sources": [
+      "general horticultural reference"
+    ]
+  },
+  {
+    "slug": "fresno-pepper",
+    "common_name": "Fresno Pepper",
+    "scientific_name": "Capsicum annuum",
+    "category": "vegetable",
+    "subcategory": "fruiting",
+    "days_to_germination": {
+      "min": 7,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 70,
+      "max": 85
+    },
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -10,
+        "max": -8
+      },
+      "note": "Start indoors 8–10 weeks before last frost; transplant after all frost danger passes and soil is above 60°F."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 24,
+      "max": 36
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Sow 1/4 inch deep in warm mix at 80°F and pot up once seedlings have two true leaves; transplant to the garden after last frost. Fresno peppers resemble jalapeños but are slightly thinner-walled, fruitier in flavor, and ripen from green to bright red, with heat increasing as they mature (2,500–10,000 Scoville units). Harvest green fruits at 70 days for a jalapeño substitute, or ripen fully to red for a sweeter, hotter pepper that is excellent in hot sauces and salsas. Consistent deep watering (rather than frequent shallow watering) produces the best quality fruit and reduces stress-induced heat spikes.",
+    "sources": [
+      "general horticultural reference"
+    ]
+  },
+  {
+    "slug": "hungarian-wax-pepper",
+    "common_name": "Hungarian Wax Pepper",
+    "scientific_name": "Capsicum annuum",
+    "category": "vegetable",
+    "subcategory": "fruiting",
+    "days_to_germination": {
+      "min": 7,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 65,
+      "max": 80
+    },
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -10,
+        "max": -8
+      },
+      "note": "Start indoors 8–10 weeks before last frost; transplant 1–2 weeks after frost danger passes once nights are consistently above 50°F."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 24,
+      "max": 36
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Sow seeds 1/4 inch deep in warm mix maintained at 78–82°F; germination is fastest and most even with bottom heat from a heat mat. Hungarian wax peppers produce thick-walled, banana-shaped fruits that ripen from pale yellow through orange to red; they range from mildly hot (1,000 Scoville) when yellow to moderately hot when fully red. Harvest yellow fruits at 65 days for pickling (the classic use), or allow to ripen through the color stages for fresh eating and sauces. Plants are heavy producers and benefit from a midseason application of balanced fertilizer to sustain yield.",
+    "sources": [
+      "general horticultural reference"
+    ]
+  },
+  {
+    "slug": "thai-chili-pepper",
+    "common_name": "Thai Chili Pepper (Bird's Eye Chili)",
+    "scientific_name": "Capsicum annuum",
+    "category": "vegetable",
+    "subcategory": "fruiting",
+    "days_to_germination": {
+      "min": 7,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 75,
+      "max": 90
+    },
+    "days_to_maturity": {
+      "min": 70,
+      "max": 90
+    },
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -10,
+        "max": -8
+      },
+      "note": "Start indoors 8–10 weeks before last frost; transplant after all frost danger has passed and nights stay above 55°F."
+    },
+    "usda_zones": {
+      "min": 9,
+      "max": 12
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 24,
+      "max": 48
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Sow 1/4 inch deep in warm starting mix at 82–85°F; Thai chili needs more heat for germination than most C. annuum types. Plants are compact and extremely productive, bearing dozens of small (1–2 inch) upright fruits that ripen from green to bright red and carry intense heat of 50,000–100,000 Scoville units. Harvest red-ripe fruits for maximum heat and full flavor; the plants can be brought indoors as houseplants before frost and often survive multiple seasons. Excellent for drying — the small fruits air-dry on the plant or can be strung and hung in a warm spot.",
+    "sources": [
+      "general horticultural reference"
+    ]
+  },
+  {
+    "slug": "chinese-celery",
+    "common_name": "Chinese Celery",
+    "scientific_name": "Apium graveolens var. secalinum",
+    "category": "vegetable",
+    "subcategory": "leafy-green",
+    "days_to_germination": {
+      "min": 10,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 55,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 90
+    },
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -10,
+        "max": -8
+      },
+      "note": "Start indoors 8–10 weeks before last frost; transplant 3–4 weeks before last frost as plants can handle light frost."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 6,
+      "max": 10
+    },
+    "height_in": {
+      "min": 12,
+      "max": 24
+    },
+    "spread_in": {
+      "min": 6,
+      "max": 10
+    },
+    "sun": "partial",
+    "water": "high",
+    "directions": "Sow tiny seeds on the surface of moist starting mix and press lightly without covering; seeds need light to germinate and are very slow — allow 2–3 weeks. Chinese celery produces slender, hollow stems and abundant leaves with intense celery flavor far more pungent than Western stalk celery; it is used primarily as an herb and flavoring rather than eaten in large quantities raw. Transplant into moisture-retentive, fertile soil and keep evenly moist throughout the season, as drought causes bitterness and premature bolting. Harvest outer stalks continuously once plants are established; the leaves are the most intensely flavored part.",
+    "sources": [
+      "general horticultural reference"
+    ]
+  }
+]
