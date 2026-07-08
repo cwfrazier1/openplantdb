@@ -1,0 +1,277 @@
+[
+  {
+    "slug": "shooting-star",
+    "common_name": "Shooting Star (Prairie Shooting Star)",
+    "scientific_name": "Primula meadia",
+    "category": "flower",
+    "subcategory": "woodland wildflower",
+    "days_to_germination": {
+      "min": 14,
+      "max": 30
+    },
+    "germination_soil_temp_f": {
+      "min": 40,
+      "max": 55
+    },
+    "days_to_maturity": {
+      "min": 365,
+      "max": 730
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": 0
+      },
+      "note": "Direct sow in fall in the garden for natural cold stratification; seeds require at least 60 days of cold moist conditions before they will germinate in spring. Division of established crowns is the faster propagation method."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 8
+    },
+    "spacing_in": {
+      "min": 8,
+      "max": 12
+    },
+    "height_in": {
+      "min": 12,
+      "max": 24
+    },
+    "spread_in": {
+      "min": 8,
+      "max": 12
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Sow seed in fall in moist, humus-rich, slightly acidic to neutral soil in partial shade; the plant is a spring ephemeral that blooms in early spring with distinctive nodding clusters of swept-back petals in white to pink with a yellow ring at the center. After flowering and setting seed in late spring, the foliage yellows and the plant goes fully dormant by midsummer — mark the location well and interplant with later-emerging shade perennials. Plants grown from seed typically require 2–3 years to produce their first bloom. Naturalize in groups of a dozen or more for the most impactful display in a woodland garden.",
+    "sources": [
+      "USDA PLANTS Database",
+      "Lady Bird Johnson Wildflower Center",
+      "North Carolina State Extension"
+    ]
+  },
+  {
+    "slug": "spring-beauty",
+    "common_name": "Spring Beauty",
+    "scientific_name": "Claytonia virginica",
+    "category": "flower",
+    "subcategory": "woodland wildflower",
+    "days_to_germination": {
+      "min": 14,
+      "max": 28
+    },
+    "germination_soil_temp_f": {
+      "min": 40,
+      "max": 55
+    },
+    "days_to_maturity": {
+      "min": 30,
+      "max": 60
+    },
+    "maturity_from": "transplant",
+    "sow_method": "tuber",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -6,
+        "max": -4
+      },
+      "note": "Plant small corms 2–3 inches deep in fall in woodland soil; they self-sow freely once established and naturalize to form large colonies."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 8
+    },
+    "spacing_in": {
+      "min": 3,
+      "max": 6
+    },
+    "height_in": {
+      "min": 4,
+      "max": 8
+    },
+    "spread_in": {
+      "min": 4,
+      "max": 6
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Plant small, deep-set corms in fall in moist, humus-rich woodland soil under deciduous trees where the plant receives full spring sun before the canopy leafs out; this is one of the earliest spring ephemerals, producing delicate pink-striped white flowers that carpet the forest floor in March and April. The plant goes completely dormant by late spring, so interplant densely with ferns or hostas to cover the void. The tiny underground corms are edible — tasting like a mild, chestnut-flavored radish — but harvesting kills the plant; admire rather than harvest from naturalized colonies. Plant in masses of at least 50 corms for a natural effect, as single plants look sparse.",
+    "sources": [
+      "USDA PLANTS Database",
+      "Lady Bird Johnson Wildflower Center",
+      "University of Wisconsin Native Plant Service"
+    ]
+  },
+  {
+    "slug": "chickasaw-plum",
+    "common_name": "Chickasaw Plum",
+    "scientific_name": "Prunus angustifolia",
+    "category": "fruit",
+    "subcategory": "native fruiting shrub",
+    "days_to_germination": {
+      "min": 90,
+      "max": 120
+    },
+    "germination_soil_temp_f": {
+      "min": 40,
+      "max": 55
+    },
+    "days_to_maturity": {
+      "min": 1095,
+      "max": 1460
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant bare-root or container plants in early spring; plant two plants for cross-pollination, though some trees fruit adequately alone. Excellent for zone 8–9 Gulf Coast conditions."
+    },
+    "usda_zones": {
+      "min": 6,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 60,
+      "max": 120
+    },
+    "height_in": {
+      "min": 60,
+      "max": 120
+    },
+    "spread_in": {
+      "min": 60,
+      "max": 96
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant in well-drained, acidic to neutral soil in full sun; this tough southeastern native is exceptionally heat-tolerant and drought-resistant once established, making it one of the best fruiting shrubs for zone 8–9 Gulf Coast gardens where cold-requiring plums fail. The white flowers bloom very early — late January to February in the South — providing critical early pollinator forage, and the small red to yellow plums ripen in June and July. The tart fruit is excellent for jellies, preserves, and wine; birds, foxes, and raccoons compete vigorously for the harvest, so pick as soon as fruit softens. Prune to remove root suckers or allow to form a wildlife-beneficial thicket.",
+    "sources": [
+      "USDA PLANTS Database",
+      "Texas A&M AgriLife Extension",
+      "University of Florida IFAS Extension"
+    ]
+  },
+  {
+    "slug": "cup-plant",
+    "common_name": "Cup Plant",
+    "scientific_name": "Silphium perfoliatum",
+    "category": "flower",
+    "subcategory": "native perennial",
+    "days_to_germination": {
+      "min": 14,
+      "max": 28
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 365,
+      "max": 730
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -2,
+        "max": 2
+      },
+      "note": "Cold-stratify seed for 60 days before spring sowing, or direct sow in fall for natural stratification; plants bloom in the second year from seed."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 24,
+      "max": 36
+    },
+    "height_in": {
+      "min": 60,
+      "max": 120
+    },
+    "spread_in": {
+      "min": 24,
+      "max": 36
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Sow stratified seed or transplant into deep, fertile, moist soil in full sun; the distinctive paired leaves wrap the square stem to form a cup that collects rainwater — providing a drinking and bathing site for birds. Tall yellow composite flowers bloom from midsummer through fall and are important sources of pollen and nectar for native bees, including specialist prairie bees. The large stature (6–10 feet) requires placement at the back of the border or in a wildflower meadow. Divide established clumps in spring every 4–5 years; the plant spreads by self-seeding in congenial conditions and can naturalize aggressively. Goldfinches harvest the seeds in fall.",
+    "sources": [
+      "USDA PLANTS Database",
+      "Prairie Nursery",
+      "Lady Bird Johnson Wildflower Center"
+    ]
+  },
+  {
+    "slug": "sweet-bay-magnolia",
+    "common_name": "Sweet Bay Magnolia",
+    "scientific_name": "Magnolia virginiana",
+    "category": "flower",
+    "subcategory": "native tree",
+    "days_to_germination": {
+      "min": 30,
+      "max": 60
+    },
+    "germination_soil_temp_f": {
+      "min": 55,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 1095,
+      "max": 1825
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant container-grown trees in spring; avoid bare-root transplanting as magnolias resent root disturbance. Site carefully as the roots are shallow and wide-spreading."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 144,
+      "max": 180
+    },
+    "height_in": {
+      "min": 120,
+      "max": 360
+    },
+    "spread_in": {
+      "min": 120,
+      "max": 240
+    },
+    "sun": "partial",
+    "water": "high",
+    "directions": "Plant in moist to wet, acid soil in full sun to partial shade; this native magnolia naturally inhabits swampy lowlands and stream banks from Massachusetts to Florida and is one of the best large shrubs or small trees for wet areas in the southern garden. The creamy-white, lemon-scented flowers appear over a long season from late spring through summer, and the semi-evergreen to evergreen leaves (depending on winter severity) have a striking silver underside. In the Gulf South it can reach 30 feet as a multi-stemmed, nearly evergreen tree; in colder zones it is smaller and more deciduous. The red fruit clusters provide fall and winter food for songbirds and small mammals.",
+    "sources": [
+      "USDA PLANTS Database",
+      "University of Florida IFAS Extension",
+      "Lady Bird Johnson Wildflower Center"
+    ]
+  }
+]

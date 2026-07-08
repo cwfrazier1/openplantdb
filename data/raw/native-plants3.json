@@ -1,0 +1,277 @@
+[
+  {
+    "slug": "blue-sage",
+    "common_name": "Azure Blue Sage",
+    "scientific_name": "Salvia azurea",
+    "category": "flower",
+    "subcategory": "native perennial",
+    "days_to_germination": {
+      "min": 14,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 90,
+      "max": 120
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -2,
+        "max": 2
+      },
+      "note": "Direct sow in spring after danger of hard frost has passed, or start indoors 4 weeks earlier; can also divide established clumps in spring."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 36,
+      "max": 60
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Sow seed shallowly in well-drained, gritty soil in full sun; this Great Plains native is exceptionally drought tolerant once established and thrives on neglect in lean soils where more pampered plants struggle. The brilliant sky-blue flower spikes in late summer and fall are spectacular when planted in mass and represent some of the purest blue available in the late-season garden. Stake plants loosely or install grow-through supports in spring, as the tall stems tend to flop after rain without support. Cut back to 6 inches in late winter; avoid dividing established plants frequently as they resent disturbance.",
+    "sources": [
+      "USDA PLANTS Database",
+      "Lady Bird Johnson Wildflower Center",
+      "Prairie Nursery"
+    ]
+  },
+  {
+    "slug": "winged-yam",
+    "common_name": "Winged Yam (Water Yam)",
+    "scientific_name": "Dioscorea alata",
+    "category": "vegetable",
+    "subcategory": "tropical tuber vine",
+    "days_to_germination": {
+      "min": 14,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 180,
+      "max": 270
+    },
+    "maturity_from": "transplant",
+    "sow_method": "tuber",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 6
+      },
+      "note": "Plant whole small tubers or tuber sections 3–4 inches deep after soil warms to 65°F; provide a sturdy trellis or fence for the rapidly growing twining stems."
+    },
+    "usda_zones": {
+      "min": 8,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 120,
+      "max": 240
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 36
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant tuber sections with at least one dormant eye in fertile, loose, deeply dug soil (tubers can reach 18 inches long) in full sun to partial shade; provide a strong trellis as vines grow vigorously to 15–20 feet. The large, starchy tubers are harvested after the vines die back in fall; a single tuber can weigh 20–50 pounds in good conditions. The most widely cultivated true yam in the world, Dioscorea alata is eaten boiled, baked, fried, or pounded into fufu and is a dietary staple across the tropics. In zone 8 the tubers may survive mild winters if mulched deeply; in zones 9–11 the plant can become invasive — check local regulations and avoid planting near natural areas.",
+    "sources": [
+      "University of Florida IFAS Extension",
+      "USDA PLANTS Database",
+      "FAO Plant Production and Protection Division"
+    ]
+  },
+  {
+    "slug": "wild-sarsaparilla",
+    "common_name": "Wild Sarsaparilla",
+    "scientific_name": "Aralia nudicaulis",
+    "category": "herb",
+    "subcategory": "woodland medicinal",
+    "days_to_germination": {
+      "min": 60,
+      "max": 90
+    },
+    "germination_soil_temp_f": {
+      "min": 40,
+      "max": 55
+    },
+    "days_to_maturity": {
+      "min": 90,
+      "max": 180
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant rhizome divisions in early spring, burying them 3–4 inches deep; they spread slowly by rhizome to form colonies in favorable woodland conditions."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 7
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 12,
+      "max": 18
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "shade",
+    "water": "moderate",
+    "directions": "Plant rhizome divisions in well-drained, sandy to loamy, slightly acidic soil in full to partial shade; this low-growing woodland native has a single compound leaf rising on an upright stem from the underground rhizome, giving it a distinctive appearance among shade plants. The fragrant root has long been used as a flavoring agent and sarsaparilla-like tonic, and the small dark berries are edible though not particularly flavorful. It spreads slowly by horizontal rhizome to form colonies and is excellent for naturalizing a dry shade area under conifers. Division is necessary for propagation as seed requires a double dormancy period of warm-then-cold stratification.",
+    "sources": [
+      "USDA PLANTS Database",
+      "University of Michigan Extension",
+      "Lady Bird Johnson Wildflower Center"
+    ]
+  },
+  {
+    "slug": "swamp-rose",
+    "common_name": "Swamp Rose",
+    "scientific_name": "Rosa palustris",
+    "category": "flower",
+    "subcategory": "native shrub",
+    "days_to_germination": {
+      "min": 90,
+      "max": 120
+    },
+    "germination_soil_temp_f": {
+      "min": 40,
+      "max": 55
+    },
+    "days_to_maturity": {
+      "min": 365,
+      "max": 730
+    },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant rooted cuttings or container plants in spring in moist to wet soil near water features; this is the rose for wet, shaded areas where others cannot survive."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 48,
+      "max": 72
+    },
+    "height_in": {
+      "min": 48,
+      "max": 84
+    },
+    "spread_in": {
+      "min": 36,
+      "max": 60
+    },
+    "sun": "partial",
+    "water": "high",
+    "directions": "Plant in consistently wet, slightly acidic to neutral soil in full sun to partial shade near ponds, streams, or rain gardens; unlike most roses this eastern native tolerates waterlogged soil and grows naturally in swampy margins and along stream banks. The fragrant, single pink flowers in early summer attract native bees, and the bright red rose hips that follow persist through winter, providing critical food for robins, mockingbirds, and cedar waxwings. Prune only to remove dead wood; the arching, prickly canes can be tied to a support or left to form a dense, impenetrable thicket with high wildlife value. Highly disease resistant in moist conditions where other roses suffer.",
+    "sources": [
+      "USDA PLANTS Database",
+      "Lady Bird Johnson Wildflower Center",
+      "North Carolina State Extension"
+    ]
+  },
+  {
+    "slug": "rough-blazing-star",
+    "common_name": "Rough Blazing Star",
+    "scientific_name": "Liatris aspera",
+    "category": "flower",
+    "subcategory": "native perennial",
+    "days_to_germination": {
+      "min": 14,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 365,
+      "max": 730
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": 0
+      },
+      "note": "Direct sow in fall for natural cold stratification, or cold-stratify seed for 60 days before spring sowing; corms can also be planted in spring at 2 inches deep."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 24,
+      "max": 48
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 18
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Sow cold-stratified seed or plant corms in sharply drained, lean soil in full sun; this native Liatris blooms later than L. spicata, providing purple-pink flower spikes in late August through September when other prairie plants are winding down. It is more drought tolerant and heat tolerant than the common spike gayfeather, making it particularly well-suited to hot, dry gardens and the southern edges of its range. The open, loose flower arrangement (compared to the denser L. spicata) is preferred by some native bee species. Monarch butterflies and native bumblebees are especially attracted to this plant during their late-summer movements and foraging.",
+    "sources": [
+      "USDA PLANTS Database",
+      "Prairie Nursery",
+      "Illinois Wildflowers"
+    ]
+  }
+]

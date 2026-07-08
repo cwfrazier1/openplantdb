@@ -1,0 +1,277 @@
+[
+  {
+    "slug": "white-wild-indigo",
+    "common_name": "White Wild Indigo",
+    "scientific_name": "Baptisia alba",
+    "category": "flower",
+    "subcategory": "native perennial",
+    "days_to_germination": {
+      "min": 14,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 365,
+      "max": 730
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": 0
+      },
+      "note": "Direct sow in fall for natural cold stratification, or scarify and cold-stratify seed for 60 days before spring sowing; slow to establish from seed, blooming in 3–4 years."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 24,
+      "max": 36
+    },
+    "height_in": {
+      "min": 36,
+      "max": 48
+    },
+    "spread_in": {
+      "min": 24,
+      "max": 36
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Direct sow in well-drained, slightly acidic to neutral soil in full sun; white wild indigo grows more slowly than the more common blue Baptisia australis but is better adapted to the drier, hotter conditions of the southern Great Plains and Southeast. The white flower spikes appear in early summer, followed by inflated black seed pods that rattle in the wind and provide winter interest. Like all Baptisia species it develops a large, deep taproot that makes transplanting of established plants impossible; site it carefully and leave it undisturbed once established. It is a larval host plant for wild indigo duskywing and Zarucco duskywing butterflies. Fixes atmospheric nitrogen.",
+    "sources": [
+      "USDA PLANTS Database",
+      "Prairie Nursery",
+      "Lady Bird Johnson Wildflower Center"
+    ]
+  },
+  {
+    "slug": "orange-coneflower",
+    "common_name": "Orange Coneflower (Showy Coneflower)",
+    "scientific_name": "Rudbeckia fulgida",
+    "category": "flower",
+    "subcategory": "native perennial",
+    "days_to_germination": {
+      "min": 14,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 90
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant divisions in spring; seed requires cold stratification but the cultivar 'Goldsturm' comes true from seed with stratification."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 24,
+      "max": 36
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in well-drained, average to moderately fertile soil in full sun; Rudbeckia fulgida is the perennial species behind the famous 'Goldsturm' cultivar that revolutionized native plant gardening in the 1980s. Unlike the biennial R. hirta (common black-eyed Susan), this species returns reliably from the crown each year and spreads gradually by short rhizomes to form impressive colonies. The bright orange-yellow flowers with dark brown centers bloom from July through September and attract finches to the persistent seed heads all winter. Divide every 4 years in spring to maintain vigor; plants in rich, moist soil may need staking but grow more compact in lean conditions.",
+    "sources": [
+      "Missouri Botanical Garden Plant Finder",
+      "North Carolina State Extension",
+      "Lady Bird Johnson Wildflower Center"
+    ]
+  },
+  {
+    "slug": "yellow-coneflower",
+    "common_name": "Gray-Headed (Yellow) Coneflower",
+    "scientific_name": "Ratibida pinnata",
+    "category": "flower",
+    "subcategory": "native prairie perennial",
+    "days_to_germination": {
+      "min": 14,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 90
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -2,
+        "max": 2
+      },
+      "note": "Direct sow in early spring or fall; cold stratification for 30 days improves germination rate. Plants may bloom the first year from an early sowing."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 36,
+      "max": 72
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Sow in well-drained, average to poor, neutral to slightly alkaline soil in full sun; the gray-headed coneflower is a tall, drought-tolerant prairie native with drooping yellow petals reflexed away from a distinctive elongated gray-brown cone, giving it an unmistakable silhouette in the summer meadow. It blooms from midsummer through fall and spreads gently by self-seeding without becoming aggressive. The crushed foliage smells pleasantly of anise. An important pollen source for prairie bees and the seed is taken by goldfinches in fall. Mixes beautifully with other tall prairie plants like goldenrod and ironweed in naturalistic plantings.",
+    "sources": [
+      "USDA PLANTS Database",
+      "Prairie Nursery",
+      "Illinois Wildflowers"
+    ]
+  },
+  {
+    "slug": "american-wisteria",
+    "common_name": "American Wisteria",
+    "scientific_name": "Wisteria frutescens",
+    "category": "flower",
+    "subcategory": "native vine",
+    "days_to_germination": {
+      "min": 14,
+      "max": 30
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 365,
+      "max": 730
+    },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant container vines in spring near a very strong support; purchase named cultivars like 'Amethyst Falls' or 'Blue Moon' for reliable blooming from an early age rather than seed-grown plants."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 36,
+      "max": 60
+    },
+    "height_in": {
+      "min": 120,
+      "max": 300
+    },
+    "spread_in": {
+      "min": 48,
+      "max": 120
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant container-grown named cultivars near a very strong trellis, pergola, or fence in full sun to partial shade; unlike the invasive Asian wisterias (W. sinensis, W. floribunda), native American wisteria is well-behaved, will not escape into natural areas, and responds to pruning. The fragrant lilac-purple flower clusters appear in late spring, with good repeat bloom through summer on named cultivars. Prune twice yearly — once after the main spring bloom and again in late winter — to maintain size and encourage blooming spurs. American wisteria is naturally found in moist lowlands and swamps and tolerates wetter conditions than Asian species; do not confuse with the highly invasive Japanese and Chinese wisterias.",
+    "sources": [
+      "USDA PLANTS Database",
+      "North Carolina State Extension",
+      "Lady Bird Johnson Wildflower Center"
+    ]
+  },
+  {
+    "slug": "texas-mountain-laurel",
+    "common_name": "Texas Mountain Laurel (Mescal Bean)",
+    "scientific_name": "Sophora secundiflora",
+    "category": "flower",
+    "subcategory": "native evergreen shrub",
+    "days_to_germination": {
+      "min": 14,
+      "max": 30
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 80
+    },
+    "days_to_maturity": {
+      "min": 730,
+      "max": 1095
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant container-grown shrubs in spring in alkaline, rocky, well-drained soil; extremely slow-growing but extremely long-lived. Scarify seeds before sowing to aid germination."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 60,
+      "max": 96
+    },
+    "height_in": {
+      "min": 60,
+      "max": 180
+    },
+    "spread_in": {
+      "min": 48,
+      "max": 120
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant in alkaline to neutral, rocky or caliche, sharply drained soil in full sun; this aristocratic native evergreen shrub of the Texas Hill Country and desert Southwest is prized for its intensely fragrant violet-purple flower clusters that smell like Concord grape candy and appear in early spring. It is extremely slow-growing (6–12 inches per year), drought tolerant once established, and virtually pest and disease free. The distinctive woody seed pods contain bright red seeds that are highly toxic if eaten. Give it an excellent drainage and poor alkaline soil — rich, moist conditions cause root rot. An excellent foundation or specimen plant for Gulf Coast and zone 8–9 gardens where winter temperatures stay above 10°F.",
+    "sources": [
+      "Texas A&M AgriLife Extension",
+      "Lady Bird Johnson Wildflower Center",
+      "USDA PLANTS Database"
+    ]
+  }
+]

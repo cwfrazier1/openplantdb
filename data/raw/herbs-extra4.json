@@ -1,0 +1,262 @@
+[
+  {
+    "slug": "wild-ginger",
+    "common_name": "Wild Ginger",
+    "scientific_name": "Asarum canadense",
+    "category": "herb",
+    "subcategory": "shade groundcover",
+    "days_to_germination": {
+      "min": 21,
+      "max": 30
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 90,
+      "max": 120
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant rhizome divisions in spring, setting them just below the soil surface and watering in well; keep moist until established."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 7
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 6,
+      "max": 12
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 18
+    },
+    "sun": "shade",
+    "water": "moderate",
+    "directions": "Plant rhizome sections horizontally about 1 inch deep in humus-rich, slightly acidic to neutral soil under a deciduous canopy where it will receive filtered light. The slowly spreading rhizome network knits into a dense, low groundcover that suppresses weeds and remains attractive through the growing season before dying back in winter. The rhizome has a mild ginger-like aroma and has been used historically as a ginger substitute, though it contains aristolochic acids and should not be consumed in quantity. Divide established colonies in spring every 4–5 years, replanting sections with at least one pair of leaf buds.",
+    "sources": [
+      "USDA PLANTS Database",
+      "Lady Bird Johnson Wildflower Center",
+      "University of Wisconsin Extension"
+    ]
+  },
+  {
+    "slug": "solomons-seal",
+    "common_name": "Solomon's Seal",
+    "scientific_name": "Polygonatum biflorum",
+    "category": "herb",
+    "subcategory": "woodland perennial",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 60,
+      "max": 90
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant rhizome divisions horizontally 2 inches deep in spring, with the growth bud pointing up; space generously as plants spread over time."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 8
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 24,
+      "max": 36
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 18
+    },
+    "sun": "shade",
+    "water": "moderate",
+    "directions": "Set rhizome sections 2 inches deep in moist, loamy, slightly acidic soil in full to dappled shade; the arching stems with hanging white bell flowers in spring and blue-black berries in fall create strong vertical interest in the shade garden. The plant dies back cleanly to the ground each fall and re-emerges reliably each spring. Young shoots are edible when cooked like asparagus, but the dark berries are toxic and should not be eaten. Divide crowded colonies in early spring by lifting the rhizome mass and separating sections, ensuring each division has at least one visible growing tip.",
+    "sources": [
+      "USDA PLANTS Database",
+      "Missouri Botanical Garden Plant Finder"
+    ]
+  },
+  {
+    "slug": "black-cohosh",
+    "common_name": "Black Cohosh",
+    "scientific_name": "Actaea racemosa",
+    "category": "herb",
+    "subcategory": "medicinal perennial",
+    "days_to_germination": {
+      "min": 180,
+      "max": 365
+    },
+    "germination_soil_temp_f": {
+      "min": 40,
+      "max": 60
+    },
+    "days_to_maturity": {
+      "min": 365,
+      "max": 730
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant purchased rhizome divisions in early spring; avoid transplanting during flowering. Seed requires a warm-then-cold stratification period before germination."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 8
+    },
+    "spacing_in": {
+      "min": 24,
+      "max": 36
+    },
+    "height_in": {
+      "min": 48,
+      "max": 72
+    },
+    "spread_in": {
+      "min": 24,
+      "max": 36
+    },
+    "sun": "shade",
+    "water": "moderate",
+    "directions": "Plant in deep, humus-rich, moist, slightly acidic soil in full to partial shade; it is a native of the eastern deciduous forest understory and performs best under a high canopy. The tall, dramatic white flower spires emerge in midsummer and are striking in the shade garden. Rhizomes are the medicinal part, harvested after the plant has been established for at least 3 years; they are used in herbal preparations for menopausal symptoms and should not be used without consulting a healthcare provider. Division in early spring is the most reliable propagation method; each piece of rhizome should have at least two growth buds.",
+    "sources": [
+      "USDA PLANTS Database",
+      "American Herbal Products Association",
+      "University of Maryland Medical Center"
+    ]
+  },
+  {
+    "slug": "mitsuba",
+    "common_name": "Mitsuba (Japanese Parsley)",
+    "scientific_name": "Cryptotaenia japonica",
+    "category": "herb",
+    "subcategory": "culinary perennial",
+    "days_to_germination": {
+      "min": 14,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 55,
+      "max": 65
+    },
+    "days_to_maturity": {
+      "min": 50,
+      "max": 70
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": -2
+      },
+      "note": "Sow directly in the garden 2–4 weeks before last frost in partial shade; can also be started indoors 4 weeks earlier."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 6,
+      "max": 12
+    },
+    "height_in": {
+      "min": 12,
+      "max": 24
+    },
+    "spread_in": {
+      "min": 8,
+      "max": 12
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Sow seed shallowly on prepared soil surface and lightly cover with 1/8 inch of fine compost; seed requires light for germination and performs best in cool weather below 75°F. Plant in consistently moist soil in partial shade, as direct afternoon sun causes bolting and bitter leaves. The delicate, parsley-like leaves with a mild celery-anise flavor are used extensively in Japanese cuisine — in soups, salads, tempura, and as a garnish — and the blanched white stems are considered the most flavorful part. In zones 7 and warmer it behaves as a semi-evergreen perennial; treat as a cool-season annual in hotter climates by sowing in fall for winter harvest.",
+    "sources": [
+      "National Gardening Association",
+      "Johnny's Selected Seeds"
+    ]
+  },
+  {
+    "slug": "okinawa-spinach",
+    "common_name": "Okinawa Spinach",
+    "scientific_name": "Gynura crepioides",
+    "category": "vegetable",
+    "subcategory": "perennial green",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 30,
+      "max": 45
+    },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 6
+      },
+      "note": "Set out rooted cuttings after all frost danger has passed and nighttime temperatures stay above 50°F; in frost-free zones plant any time of year."
+    },
+    "usda_zones": {
+      "min": 9,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 12,
+      "max": 24
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Root stem cuttings in water or moist potting mix; they strike quickly at warm temperatures and are ready to transplant in 10–14 days. Plant in fertile, well-drained soil in partial shade — full afternoon shade is ideal in hot climates, where the ornamental two-toned leaves (dark green above, vivid purple beneath) are most striking. Harvest young leaves and stem tips continuously; the raw leaves have a mild, slightly mucilaginous texture and are eaten as salad greens or briefly stir-fried. In zones 9–11 the plant grows as a sprawling perennial; in cooler climates bring cuttings indoors over winter.",
+    "sources": [
+      "University of Florida IFAS Extension",
+      "Tropical Permaculture Guild"
+    ]
+  }
+]

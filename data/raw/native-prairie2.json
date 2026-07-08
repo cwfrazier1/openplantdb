@@ -1,0 +1,277 @@
+[
+  {
+    "slug": "threadleaf-coreopsis",
+    "common_name": "Threadleaf Coreopsis (Whorled Tickseed)",
+    "scientific_name": "Coreopsis verticillata",
+    "category": "flower",
+    "subcategory": "native prairie perennial",
+    "days_to_germination": {
+      "min": 14,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 90
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": 0
+      },
+      "note": "Surface sow seed in early spring or start transplants; threadleaf coreopsis is more reliably propagated by division than seed — divisions establish quickly in well-drained, slightly acidic to neutral, average to poor, well-drained soil in full sun to partial shade."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 18,
+      "max": 30
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 36
+    },
+    "sun": "partial",
+    "water": "low",
+    "directions": "Grow in well-drained, average to poor soil in full sun to partial shade — threadleaf coreopsis is the most finely textured and perhaps the most garden-adaptable of all native coreopsis species, producing a season-long display of bright golden-yellow daisy flowers above delicate, needle-like whorled foliage from early summer through fall frost. Unlike most coreopsis, the thread-like leaves create an exceptionally fine-textured mound that contrasts beautifully with bold-leafed perennials. It spreads steadily by rhizome to form wide, weed-suppressing clumps and thrives in poor, dry soils where richer garden perennials struggle. Named cultivars 'Moonbeam' (pale yellow), 'Zagreb' (bright gold, compact), and 'Golden Gain' are widely available and extremely garden-worthy. Deadheading is optional — the plant reblooms regardless, but removing spent flowers extends peak flowering. One of the longest-blooming native perennials available.",
+    "sources": [
+      "USDA PLANTS Database",
+      "Missouri Botanical Garden Plant Finder",
+      "North Carolina State Extension"
+    ]
+  },
+  {
+    "slug": "plains-wild-indigo",
+    "common_name": "Plains Wild Indigo (Cream Wild Indigo)",
+    "scientific_name": "Baptisia bracteata",
+    "category": "flower",
+    "subcategory": "native prairie legume",
+    "days_to_germination": {
+      "min": 14,
+      "max": 28
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 730,
+      "max": 1095
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -4
+      },
+      "note": "Direct sow scarified seed in fall in well-drained, slightly acidic to neutral, average to poor, deep soil in full sun; plains wild indigo has a very deep taproot and resents disturbance once established — sow where it will remain permanently. Scratch seed lightly and cold-stratify before spring sowing."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 24,
+      "max": 36
+    },
+    "height_in": {
+      "min": 18,
+      "max": 30
+    },
+    "spread_in": {
+      "min": 24,
+      "max": 36
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Sow scarified seed in fall in well-drained, average to poor, deep soil in full sun — plains wild indigo is a low, spreading prairie legume of the Great Plains and midwestern prairies producing dense racemes of cream to pale yellow pea flowers in early spring, among the earliest native prairie plants to bloom. Unlike the tall blue false indigo (B. australis), plants remain compact and spread broadly rather than upright — the procumbent, mounded form covered with 4-inch cream flower spikes is striking in the spring landscape. A nitrogen-fixing prairie legume with an extremely deep taproot that survives drought and fire. Extremely long-lived once established (decades) but slow to establish from seed. Excellent for prairie garden restoration and native plant meadow plantings in zones 4–9. The inflated black seed pods are interesting ornamentally and rattle when dry. A host plant for specialist bees and several moth species.",
+    "sources": [
+      "USDA PLANTS Database",
+      "Lady Bird Johnson Wildflower Center",
+      "Illinois Wildflowers"
+    ]
+  },
+  {
+    "slug": "rosin-weed",
+    "common_name": "Rosinweed (Wholeleaf Rosinweed)",
+    "scientific_name": "Silphium integrifolium",
+    "category": "flower",
+    "subcategory": "native prairie perennial",
+    "days_to_germination": {
+      "min": 14,
+      "max": 28
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 730,
+      "max": 1095
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -4
+      },
+      "note": "Direct sow seed in fall in well-drained to average, slightly acidic to neutral, clay to loam soil in full sun; rosinweed is a deep-rooted prairie plant that takes 2–3 years to bloom but becomes virtually indestructible once established — site it where it can remain permanently."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 24,
+      "max": 36
+    },
+    "height_in": {
+      "min": 36,
+      "max": 60
+    },
+    "spread_in": {
+      "min": 24,
+      "max": 36
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Sow seed in fall in well-drained to average, slightly acidic to neutral soil in full sun — rosinweed is the most compact and garden-adaptable of the native Silphium genus, producing bright yellow, 2–3 inch daisy-like flowers from late summer through early fall on branching stems 3–5 feet tall. Like all silphiums, rosinweed is a deep-rooted prairie species with extraordinary drought and heat tolerance once established — the deep taproot (sometimes 12 feet deep in mature specimens) accesses moisture unavailable to shallow-rooted plants. The rough, sandpaper-textured opposite leaves are distinctive. The flat, disc-shaped seeds are highly attractive to goldfinches, which perch on the sturdy stems to extract them. It is being researched as a potential perennial grain crop because the seeds have a high oil content. More compact and less rank than compass plant or prairie dock, making it more suitable for smaller prairie garden settings. Extremely long-lived — prairie specimens are known to be over 100 years old.",
+    "sources": [
+      "USDA PLANTS Database",
+      "Lady Bird Johnson Wildflower Center",
+      "Land Institute (perennial grain research)"
+    ]
+  },
+  {
+    "slug": "carolina-phlox",
+    "common_name": "Carolina Phlox (Thick-leaved Phlox)",
+    "scientific_name": "Phlox carolina",
+    "category": "flower",
+    "subcategory": "native shade-tolerant perennial",
+    "days_to_germination": {
+      "min": 14,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 90
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant divisions or container plants in spring in moist, slightly acidic to neutral, humus-rich, well-drained soil in full sun to partial shade; Carolina phlox is more mildew-resistant than tall garden phlox (P. paniculata) and more tolerant of heat and partial shade."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 24,
+      "max": 48
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Plant in moist, humus-rich, slightly acidic to neutral, well-drained soil in full sun to partial shade — Carolina phlox is a native Phlox of the southeastern US that closely resembles the familiar garden phlox (P. paniculata) but is superior in two important respects: it is significantly more resistant to the powdery mildew that disfigures garden phlox by late summer, and it tolerates partial shade better, blooming acceptably in morning sun with afternoon shade. The showy clusters of pink to magenta (rarely white) flowers appear in early to midsummer, slightly earlier than P. paniculata, and are fragrant and highly attractive to hummingbirds and swallowtail butterflies. The thick, glossy leaves (giving the common name 'thick-leaved phlox') remain in good condition through the season. An excellent native substitute for garden phlox in the shaded or partly shaded border in zones 4–9.",
+    "sources": [
+      "USDA PLANTS Database",
+      "Lady Bird Johnson Wildflower Center",
+      "North Carolina State Extension"
+    ]
+  },
+  {
+    "slug": "bowmans-root",
+    "common_name": "Bowman's Root (Indian Physic)",
+    "scientific_name": "Gillenia trifoliata",
+    "category": "flower",
+    "subcategory": "native shade perennial shrub",
+    "days_to_germination": {
+      "min": 21,
+      "max": 42
+    },
+    "germination_soil_temp_f": {
+      "min": 55,
+      "max": 65
+    },
+    "days_to_maturity": {
+      "min": 90,
+      "max": 180
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant divisions or container plants in spring in moist, slightly acidic, humus-rich, well-drained soil in partial to full shade; Bowman's root is slow to establish but extremely long-lived once settled — give it 2–3 years to reach full flowering potential."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 24,
+      "max": 36
+    },
+    "height_in": {
+      "min": 24,
+      "max": 48
+    },
+    "spread_in": {
+      "min": 24,
+      "max": 36
+    },
+    "sun": "shade",
+    "water": "moderate",
+    "directions": "Plant in moist, slightly acidic, humus-rich, well-drained soil in partial to full shade — Bowman's root is a graceful, airy native perennial of eastern woodland understories, producing a cloud of delicate five-petaled white to pale pink flowers on reddish-tinged branching stems in late spring to early summer — one of the most elegant of all native shade-garden plants. The leaves are trifoliate (three leaflets), giving it the specific epithet, and color attractively to orange-red in fall. It grows naturally in moist, rich, rocky woodland slopes and ravine banks from Ontario south to Georgia. Unlike most shade perennials it has a somewhat shrubby, upright structure rather than a mounding habit, adding height and structure to the shaded border. Bowman's root serves as a host plant for several native moth species and provides nectar for hummingbirds. Once established it is long-lived and low-maintenance. An outstanding native for the woodland garden in zones 4–9.",
+    "sources": [
+      "USDA PLANTS Database",
+      "Lady Bird Johnson Wildflower Center",
+      "Missouri Botanical Garden Plant Finder"
+    ]
+  }
+]

@@ -1,0 +1,277 @@
+[
+  {
+    "slug": "eastern-hemlock",
+    "common_name": "Eastern Hemlock (Canadian Hemlock)",
+    "scientific_name": "Tsuga canadensis",
+    "category": "flower",
+    "subcategory": "native evergreen conifer",
+    "days_to_germination": {
+      "min": 14,
+      "max": 28
+    },
+    "germination_soil_temp_f": {
+      "min": 50,
+      "max": 65
+    },
+    "days_to_maturity": {
+      "min": 1825,
+      "max": 5475
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": 2
+      },
+      "note": "Plant container or balled-and-burlapped trees in late winter or early spring in moist, acidic (pH 4.5–5.5), humus-rich, cool, well-drained soil in partial to full shade; eastern hemlock is one of the few conifers that actually grows better in shade than in full sun, especially in zone 6–7 where afternoon shade is essential. Treat proactively for hemlock woolly adelgid in eastern US with imidacloprid soil drench."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 7
+    },
+    "spacing_in": {
+      "min": 240,
+      "max": 480
+    },
+    "height_in": {
+      "min": 480,
+      "max": 960
+    },
+    "spread_in": {
+      "min": 180,
+      "max": 360
+    },
+    "sun": "shade",
+    "water": "moderate",
+    "directions": "Plant in moist, acidic (pH 4.5–5.5), humus-rich, cool soil in partial to full shade — eastern hemlock is the only large native conifer that genuinely thrives in shade and is often the dominant tree in cool, shaded, north-facing ravines and steep, moist slopes where other conifers cannot compete. The delicate, feathery, dark green foliage and graceful, pendulous branch tips create an exceptionally beautiful, textured specimen in the shade garden. It is considered a foundational 'keystone' species supporting 96 species of Lepidoptera caterpillars, and its dense, multilayered canopy provides critical winter shelter for birds. However, the hemlock woolly adelgid, an introduced pest from Asia, has devastated populations throughout the eastern range — all planted trees in the eastern US should receive preventive treatment with systemic insecticide. In zone 3–7, an irreplaceable shade conifer for the woodland garden.",
+    "sources": [
+      "USDA PLANTS Database",
+      "Lady Bird Johnson Wildflower Center",
+      "Hemlock Recovery Initiative, Virginia"
+    ]
+  },
+  {
+    "slug": "american-holly",
+    "common_name": "American Holly",
+    "scientific_name": "Ilex opaca",
+    "category": "flower",
+    "subcategory": "native evergreen tree",
+    "days_to_germination": {
+      "min": 60,
+      "max": 120
+    },
+    "germination_soil_temp_f": {
+      "min": 50,
+      "max": 65
+    },
+    "days_to_maturity": {
+      "min": 1095,
+      "max": 2190
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": 2
+      },
+      "note": "Plant container or balled-and-burlapped trees in late winter or spring in moist, slightly acidic (pH 4.5–6.0), well-drained to moderately moist soil in full sun to partial shade; American holly is dioecious — plant at least one male within 50 feet of female trees for berry production. Most named female cultivars are sold with a recommended male pollinizer."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 180,
+      "max": 360
+    },
+    "height_in": {
+      "min": 180,
+      "max": 600
+    },
+    "spread_in": {
+      "min": 120,
+      "max": 300
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Plant in moist, slightly acidic (pH 4.5–6.0), well-drained to moderately moist soil in full sun to partial shade; American holly is the native evergreen tree holly of the eastern US, producing the classic red-berried, spiny-leaved holly that symbolizes the Christmas season. It grows naturally from Massachusetts to Florida and west to Texas, often in moist, slightly shaded woodland conditions along the coastal plain and Piedmont. The red berries (persistent through winter on female trees when a male pollinizer is present) are consumed by dozens of bird species, providing critical winter food for robins, cedar waxwings, and mockingbirds. It tolerates partial shade and performs remarkably well in zone 8–9 heat, making it one of the best native evergreen screening or specimen trees for the Gulf Coast garden. Hundreds of named cultivars exist — look for 'Fosteri' (compact), 'Savannah' (heavy fruiting, zone 7–9), and 'East Palatka' (Gulf Coast adapted).",
+    "sources": [
+      "USDA PLANTS Database",
+      "Lady Bird Johnson Wildflower Center",
+      "University of Florida IFAS Extension"
+    ]
+  },
+  {
+    "slug": "inkberry",
+    "common_name": "Inkberry (Gallberry)",
+    "scientific_name": "Ilex glabra",
+    "category": "flower",
+    "subcategory": "native evergreen shrub",
+    "days_to_germination": {
+      "min": 60,
+      "max": 90
+    },
+    "germination_soil_temp_f": {
+      "min": 50,
+      "max": 65
+    },
+    "days_to_maturity": {
+      "min": 365,
+      "max": 730
+    },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant container-grown shrubs in spring in moist to wet, strongly acidic (pH 4.0–5.5), humus-rich soil in partial shade to full sun; inkberry is one of the most adaptable native shrubs for wet, acidic conditions but also tolerates moderate drought once established."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 36,
+      "max": 60
+    },
+    "height_in": {
+      "min": 48,
+      "max": 96
+    },
+    "spread_in": {
+      "min": 48,
+      "max": 72
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Plant in moist to wet, strongly acidic (pH 4.0–5.5), humus-rich soil in partial shade to full sun — inkberry is a native evergreen holly shrub of the Atlantic and Gulf coastal plain, growing naturally in bogs, pocosins, pine flatwoods, and moist woodland margins. It tolerates shade, wet soil, and flooding conditions that defeat most other shrubs. The small black berries in late summer and fall are consumed by dozens of bird species including wild turkeys, wood ducks, and bluebirds; bees (especially Melittidae oil-collecting bees) work the small white flowers in spring. It spreads steadily by suckering roots and can form dense, wildlife-shelter colonies over time. Named cultivars include 'Shamrock' (compact, mounding) and 'Densa' (dense form). An outstanding native evergreen for wet, acidic soils where Rhododendron and Kalmia cannot be grown. Plants are dioecious — both male and female plants are needed for berry production.",
+    "sources": [
+      "USDA PLANTS Database",
+      "Lady Bird Johnson Wildflower Center",
+      "North Carolina State Extension"
+    ]
+  },
+  {
+    "slug": "star-apple",
+    "common_name": "Star Apple (Caimito)",
+    "scientific_name": "Chrysophyllum cainito",
+    "category": "fruit",
+    "subcategory": "tropical fruit tree",
+    "days_to_germination": {
+      "min": 21,
+      "max": 42
+    },
+    "germination_soil_temp_f": {
+      "min": 75,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 1825,
+      "max": 2190
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 4,
+        "max": 8
+      },
+      "note": "Plant grafted container-grown trees in spring in moist, fertile, slightly acidic to neutral, well-drained soil in full sun; star apple is damaged by temperatures below 30°F and is best suited to zone 10–12 in the ground, or containers in zone 9 moved to frost protection when needed."
+    },
+    "usda_zones": {
+      "min": 10,
+      "max": 12
+    },
+    "spacing_in": {
+      "min": 180,
+      "max": 300
+    },
+    "height_in": {
+      "min": 180,
+      "max": 480
+    },
+    "spread_in": {
+      "min": 120,
+      "max": 240
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant grafted trees in moist, fertile, slightly acidic to neutral, well-drained soil in full sun; star apple is a highly ornamental tropical fruit tree native to the West Indies, producing beautiful round fruits 2–4 inches across in purple or green skin with a distinctive star pattern in the cross-section of the white, gelatinous, sweet, milk-filled flesh — the 'star' that gives the fruit its name. The leaves are distinctively two-toned: dark glossy green above, silky golden-bronze beneath, creating a shimmering display when the breeze moves through the canopy. The fruit is eaten fresh by cutting in half and scooping the sweet, creamy flesh; the latex in the skin and rind is astringent and should not be consumed. Grafted trees begin producing in 3–5 years. The sweet, mild flavor is a favorite in the Caribbean and South Florida. An outstanding ornamental and fruiting tree for zone 10–12 gardens.",
+    "sources": [
+      "University of Florida IFAS Extension",
+      "Purdue University NewCROP",
+      "Morton, 'Fruits of Warm Climates'"
+    ]
+  },
+  {
+    "slug": "mamey-sapote",
+    "common_name": "Mamey Sapote (Red Sapote)",
+    "scientific_name": "Pouteria sapota",
+    "category": "fruit",
+    "subcategory": "subtropical fruit tree",
+    "days_to_germination": {
+      "min": 14,
+      "max": 28
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 80
+    },
+    "days_to_maturity": {
+      "min": 1825,
+      "max": 2555
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 6
+      },
+      "note": "Plant grafted trees in spring in well-drained, slightly acidic to neutral, fertile soil in full sun; mamey sapote tolerates brief temperatures to 28–30°F when established and grows in zone 9b–11; grafted trees from named cultivars begin producing in 3–5 years versus 7–10 years from seed."
+    },
+    "usda_zones": {
+      "min": 9,
+      "max": 12
+    },
+    "spacing_in": {
+      "min": 240,
+      "max": 360
+    },
+    "height_in": {
+      "min": 240,
+      "max": 600
+    },
+    "spread_in": {
+      "min": 180,
+      "max": 360
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant grafted trees in well-drained, fertile, slightly acidic to neutral soil in full sun — mamey sapote is a large, slow-growing tropical fruit tree of Central America and Cuba, producing large (3–6 inch) football-shaped fruits with rough brown skin and extraordinary salmon-to-red-orange flesh of a rich, sweet, pumpkin-spice-sweet-potato flavor that is intensely distinctive and deeply loved in Cuban and Caribbean cuisine. The fruit is consumed fresh, blended into milkshakes, made into ice cream, and used in baking. A single ripe mamey sapote fruit may sell for $5–10 at specialty markets, making it one of the more valuable subtropical fruits a homeowner can grow. The large, attractive dark-green leaves make it an ornamental tree year-round. Grafted cultivars like 'Pantin', 'Viejo', and 'Pace' produce superior fruit and begin bearing earlier than seedling trees. Widely grown in South Florida and the Caribbean.",
+    "sources": [
+      "University of Florida IFAS Extension",
+      "Purdue University NewCROP",
+      "Morton, 'Fruits of Warm Climates'"
+    ]
+  }
+]

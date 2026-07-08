@@ -1,0 +1,277 @@
+[
+  {
+    "slug": "american-hazelnut",
+    "common_name": "American Hazelnut",
+    "scientific_name": "Corylus americana",
+    "category": "fruit",
+    "subcategory": "native nut shrub",
+    "days_to_germination": {
+      "min": 90,
+      "max": 150
+    },
+    "germination_soil_temp_f": {
+      "min": 40,
+      "max": 55
+    },
+    "days_to_maturity": {
+      "min": 730,
+      "max": 1095
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant bare-root or container shrubs in early spring before leafout; two or more plants are needed for cross-pollination and nut production."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 60,
+      "max": 72
+    },
+    "height_in": {
+      "min": 72,
+      "max": 120
+    },
+    "spread_in": {
+      "min": 60,
+      "max": 96
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Plant in well-drained, slightly acidic to neutral soil in full sun to partial shade; this native thicket-forming shrub tolerates a wider range of conditions than European hazelnut and is resistant to Eastern filbert blight. Plant at least two different seedling-grown plants together, as this species is self-incompatible and requires cross-pollination for nut set. Nuts ripen in September–October, enclosed in leafy husks; harvest when the husks begin to loosen and dry nuts in a single layer before storing. The multi-stemmed habit can be managed by removing the oldest canes at the base every few years.",
+    "sources": [
+      "USDA PLANTS Database",
+      "Purdue University Extension",
+      "Lady Bird Johnson Wildflower Center"
+    ]
+  },
+  {
+    "slug": "beauty-berry",
+    "common_name": "American Beautyberry",
+    "scientific_name": "Callicarpa americana",
+    "category": "flower",
+    "subcategory": "native shrub",
+    "days_to_germination": {
+      "min": 30,
+      "max": 60
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 90,
+      "max": 180
+    },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 6
+      },
+      "note": "Plant container-grown shrubs in spring after frost; established plants tolerate periodic drought once roots are established."
+    },
+    "usda_zones": {
+      "min": 6,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 36,
+      "max": 60
+    },
+    "height_in": {
+      "min": 36,
+      "max": 72
+    },
+    "spread_in": {
+      "min": 36,
+      "max": 60
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Plant in average, well-drained soil in partial shade to full sun; this southeastern native's spectacular clusters of vivid magenta-purple berries appear in fall when little else is fruiting and provide a critical food source for mockingbirds, robins, and other wildlife. Cut plants back by one-third to one-half in early spring, as flowers and berries form on current-season wood. In zones 6–7 it may die back to the roots in hard winters but rebounds vigorously in spring; mulch the root zone for winter protection. The berries are edible and have been used to make jelly, though they are quite astringent raw.",
+    "sources": [
+      "USDA PLANTS Database",
+      "University of Florida IFAS Extension",
+      "Lady Bird Johnson Wildflower Center"
+    ]
+  },
+  {
+    "slug": "spicebush",
+    "common_name": "Spicebush",
+    "scientific_name": "Lindera benzoin",
+    "category": "herb",
+    "subcategory": "native spice shrub",
+    "days_to_germination": {
+      "min": 60,
+      "max": 120
+    },
+    "germination_soil_temp_f": {
+      "min": 40,
+      "max": 55
+    },
+    "days_to_maturity": {
+      "min": 730,
+      "max": 1095
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant container shrubs in spring; male and female plants are separate, so plant both to ensure berry production."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 60,
+      "max": 84
+    },
+    "height_in": {
+      "min": 60,
+      "max": 120
+    },
+    "spread_in": {
+      "min": 60,
+      "max": 96
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Plant in moist, humus-rich, slightly acidic soil in full shade to partial sun; this native understory shrub naturally grows along stream banks and in wooded lowlands and tolerates wetter conditions than most shrubs. The tiny yellow flowers in early spring appear before the leaves and are an early nectar source for queen bumblebees. The red berries, leaves, and twigs are all intensely aromatic with an allspice-like fragrance; dried berries can be ground and used as an allspice substitute in cooking. It is the host plant for the spicebush swallowtail butterfly, whose caterpillars create distinctive leaf-roll shelters on the foliage.",
+    "sources": [
+      "USDA PLANTS Database",
+      "Missouri Botanical Garden Plant Finder",
+      "Lady Bird Johnson Wildflower Center"
+    ]
+  },
+  {
+    "slug": "coral-honeysuckle",
+    "common_name": "Coral Honeysuckle",
+    "scientific_name": "Lonicera sempervirens",
+    "category": "flower",
+    "subcategory": "native vine",
+    "days_to_germination": {
+      "min": 30,
+      "max": 60
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 90,
+      "max": 180
+    },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant container-grown vines in spring near a trellis, fence, or other support; stems twine and will climb 10–15 feet."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 36,
+      "max": 48
+    },
+    "height_in": {
+      "min": 96,
+      "max": 180
+    },
+    "spread_in": {
+      "min": 36,
+      "max": 60
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in average, well-drained soil at the base of a trellis or fence; unlike invasive Japanese honeysuckle this native species is well-behaved and will not escape into natural areas. The long, tubular scarlet-to-coral flowers bloom heavily in spring and continue sporadically through fall, providing the long-tube nectar that ruby-throated hummingbirds require. Prune in late winter or just after the main spring flush to shape the vine and remove dead wood. In the deep South it is semi-evergreen and may retain foliage through mild winters; in colder zones it loses leaves but regrows vigorously from the base in spring.",
+    "sources": [
+      "USDA PLANTS Database",
+      "Lady Bird Johnson Wildflower Center",
+      "North Carolina State Extension"
+    ]
+  },
+  {
+    "slug": "nodding-onion",
+    "common_name": "Nodding Onion",
+    "scientific_name": "Allium cernuum",
+    "category": "vegetable",
+    "subcategory": "native edible bulb",
+    "days_to_germination": {
+      "min": 14,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 90
+    },
+    "maturity_from": "transplant",
+    "sow_method": "bulb",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -6,
+        "max": -4
+      },
+      "note": "Plant bulbs 2 inches deep in fall, 4–6 weeks before ground freezes; alternatively divide established clumps in early spring."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 6,
+      "max": 12
+    },
+    "height_in": {
+      "min": 12,
+      "max": 24
+    },
+    "spread_in": {
+      "min": 6,
+      "max": 12
+    },
+    "sun": "partial",
+    "water": "low",
+    "directions": "Plant bulbs 2 inches deep in well-drained, average to rocky soil in full sun to partial shade; this tough native wildflower adapts to a wide range of conditions including dry, rocky slopes where little else thrives. The nodding pink flower clusters appear in midsummer and are excellent pollinator magnets, particularly for native bees and butterflies. The entire plant is edible — bulbs, leaves, and flowers all have a mild onion flavor — and it was a widely used food plant for many Indigenous nations. Allow some flower heads to set seed for naturalizing; clumps can also be divided every 3–4 years to maintain vigor.",
+    "sources": [
+      "USDA PLANTS Database",
+      "Lady Bird Johnson Wildflower Center",
+      "University of Wisconsin Native Plant Service"
+    ]
+  }
+]

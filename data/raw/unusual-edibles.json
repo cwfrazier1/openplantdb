@@ -1,0 +1,265 @@
+[
+  {
+    "slug": "velvet-bean",
+    "common_name": "Velvet Bean (Mucuna, Cowitch)",
+    "scientific_name": "Mucuna pruriens",
+    "category": "cover-crop",
+    "subcategory": "warm-season tropical cover crop",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 80
+    },
+    "days_to_maturity": {
+      "min": 90,
+      "max": 150
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 6
+      },
+      "note": "Direct sow 1 inch deep at 6–12 inch spacing after soil warms to 70°F in full sun; velvet bean is extremely vigorous and will climb aggressively over other plants — plant where aggressive spread and dense shading are acceptable. The seed pods are covered with irritating hairs; handle with gloves."
+    },
+    "usda_zones": {
+      "min": 9,
+      "max": 12
+    },
+    "spacing_in": {
+      "min": 6,
+      "max": 12
+    },
+    "height_in": {
+      "min": 60,
+      "max": 180
+    },
+    "spread_in": {
+      "min": 24,
+      "max": 60
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Direct sow after soil warms in full sun — velvet bean is one of the most powerful warm-season cover crops and green manures in the tropics and subtropics, producing prodigious quantities of nitrogen-rich biomass in hot, humid conditions while smothering weeds under its dense, vining canopy. It fixes 150–300 pounds of nitrogen per acre and adds enormous quantities of organic matter when turned in. In zone 9–11 it can be used as a summer cover crop between spring and fall garden rotations. The seed pods and leaves are covered with fine silica hairs that cause severe itching on contact; handle all plant parts with gloves. The seeds (roasted and processed to remove L-DOPA) are eaten as a pulse in tropical regions. L-DOPA from mucuna seeds is also studied as a source of the Parkinson's disease medication. An extremely effective but aggressive cover crop suited to tropical and subtropical climates.",
+    "sources": [
+      "University of Florida IFAS Extension",
+      "USDA Sustainable Agriculture Research and Education",
+      "Purdue University NewCROP"
+    ]
+  },
+  {
+    "slug": "ceylon-spinach",
+    "common_name": "Ceylon Spinach (Red Malabar Spinach)",
+    "scientific_name": "Basella rubra",
+    "category": "vegetable",
+    "subcategory": "tropical climbing leafy green",
+    "days_to_germination": {
+      "min": 10,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 80
+    },
+    "days_to_maturity": {
+      "min": 50,
+      "max": 70
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 4
+      },
+      "note": "Direct sow after last frost or start indoors 4 weeks before transplanting in moist, fertile, slightly acidic to neutral soil in full sun to partial shade; soak seeds 24 hours before planting to improve germination. Provide a trellis or other support for climbing."
+    },
+    "usda_zones": {
+      "min": 9,
+      "max": 12
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 36,
+      "max": 120
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 24
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Direct sow or transplant in moist, fertile, slightly acidic to neutral soil in full sun to partial shade with a support to climb; Ceylon spinach is the red-stemmed form of Malabar spinach, producing striking bright-red vining stems, dark green to purplish leaves, and decorative dark reddish-purple berries. Like green Malabar spinach (B. alba), the leaves are thick, succulent, and mild-flavored when young, used fresh in salads or cooked as a spinach substitute in stir-fries, soups, and curries throughout tropical Asia. The red-stemmed form is highly ornamental — it can be used as a colorful edible trellis plant or allowed to cascade over a fence. It thrives in heat that wilts true spinach and is particularly productive in Gulf Coast summer gardens. In zone 9–11 it overwinters as a short-lived perennial. Tolerates partial shade better than most summer leafy greens.",
+    "sources": [
+      "University of Florida IFAS Extension",
+      "Texas A&M AgriLife Extension",
+      "Purdue University NewCROP"
+    ]
+  },
+  {
+    "slug": "chinese-artichoke",
+    "common_name": "Chinese Artichoke (Crosnes, Knotroot)",
+    "scientific_name": "Stachys affinis",
+    "category": "vegetable",
+    "subcategory": "unusual edible tuber",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 120,
+      "max": 150
+    },
+    "maturity_from": "transplant",
+    "sow_method": "tuber",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": -2,
+        "max": 2
+      },
+      "note": "Plant tubers 2–3 inches deep and 6 inches apart in moist, slightly acidic to neutral, humus-rich, well-drained soil in partial shade in early spring; Chinese artichoke spreads readily by tuber and can be difficult to eradicate once established — plant in a contained bed."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 6,
+      "max": 10
+    },
+    "height_in": {
+      "min": 12,
+      "max": 18
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 24
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Plant tubers 2–3 inches deep in spring in moist, slightly acidic to neutral, humus-rich, well-drained soil in partial shade; Chinese artichoke produces the most visually distinctive tubers in the vegetable garden — small (1–2 inch), cream-white, segmented underground stems that resemble tiny white caterpillars or coiled seashells. Known in French cuisine as 'crosnes' (from the French town where they were introduced in the late 19th century), they have a crisp, sweet, delicate flavor similar to water chestnuts, used raw in salads, lightly stir-fried, or pickled. The plant is in the mint family and spreads by tubers — contain it or plan for its spread. Harvest in fall after frost kills the tops, when the tubers are at their crisp best. The tubers discolor quickly after harvesting; use immediately. Tolerates partial shade, making it useful in a shaded food garden where few vegetables thrive.",
+    "sources": [
+      "Purdue University NewCROP",
+      "Royal Horticultural Society",
+      "North Carolina State Extension"
+    ]
+  },
+  {
+    "slug": "persian-clover",
+    "common_name": "Persian Clover (Reversed Clover)",
+    "scientific_name": "Trifolium resupinatum",
+    "category": "cover-crop",
+    "subcategory": "cool-season annual cover crop",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 50,
+      "max": 65
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 90
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -4
+      },
+      "note": "Broadcast seed at 8–12 pounds per acre in late summer or early fall in moist, slightly acidic to neutral, well-drained soil in full sun; Persian clover is winter-hardy to about 20°F, making it a useful winter annual in zones 7–9 where it overwinters and provides early spring nitrogen to following crops."
+    },
+    "usda_zones": {
+      "min": 6,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 2,
+      "max": 6
+    },
+    "height_in": {
+      "min": 12,
+      "max": 24
+    },
+    "spread_in": {
+      "min": 6,
+      "max": 12
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Broadcast seed in late summer or early fall in moist, slightly acidic to neutral, well-drained soil in full sun; Persian clover is a Mediterranean annual clover widely used as a winter cover crop in mild-winter zones 7–9 where it establishes in fall, overwinters successfully, and produces a significant nitrogen-fixing spring flush before being incorporated as a green manure ahead of warm-season transplants. The distinctive pink-to-purple flowers open in the distinctive 'upside down' (resupinate) orientation that gives the species its name and common name. It is considered one of the best annual clovers for the winter-cover-crop niche in Gulf Coast and southeastern gardens — more productive and earlier-maturing than many other clovers in mild winters. Mow or till under at early flowering to maximize nitrogen release to following crops. Excellent as a nurse crop for cool-season vegetables.",
+    "sources": [
+      "University of Florida IFAS Extension",
+      "USDA Sustainable Agriculture Research and Education",
+      "North Carolina State Extension"
+    ]
+  },
+  {
+    "slug": "mashua",
+    "common_name": "Mashua (Anu, Tuberous Nasturtium)",
+    "scientific_name": "Tropaeolum tuberosum",
+    "category": "vegetable",
+    "subcategory": "Andean edible tuber",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 150,
+      "max": 210
+    },
+    "maturity_from": "transplant",
+    "sow_method": "tuber",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": -2,
+        "max": 2
+      },
+      "note": "Plant tubers 3–4 inches deep in moist, slightly acidic to neutral, well-drained, moderately fertile soil in full sun to partial shade; mashua is a short-day plant that initiates tubers only as days shorten in fall, making it best suited to zones with mild fall weather. Spring through fall is the growing season."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 36,
+      "max": 84
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 36
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Plant tubers in spring in moist, slightly acidic to neutral, well-drained, moderately fertile soil in full sun to partial shade; mashua is one of the 'lost crops of the Andes' — a climbing nasturtium relative that produces edible tubers at the base of its twining stems. It is the most productive of the Andean tuber crops (producing more calories per unit area than potato under appropriate conditions) and is naturally resistant to insects and some nematodes through bitter compounds in its tissues. The tubers have a distinctive sharp, peppery, mustard-like raw flavor that mellows dramatically when cooked (especially by frost exposure) to a sweet, starchy taste similar to parsnip. The attractive red and orange tuberous nasturtium flowers are edible and ornamental. Mashua is a short-day plant that forms tubers only when days shorten in fall — it performs best in zone 7–9 where frost is not severe but fall days are distinctly short.",
+    "sources": [
+      "National Research Council, 'Lost Crops of the Incas'",
+      "Purdue University NewCROP",
+      "International Potato Center (CIP)"
+    ]
+  }
+]

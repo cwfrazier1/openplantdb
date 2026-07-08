@@ -1,0 +1,265 @@
+[
+  {
+    "slug": "naranjilla",
+    "common_name": "Naranjilla (Lulo)",
+    "scientific_name": "Solanum quitoense",
+    "category": "fruit",
+    "subcategory": "tropical fruit shrub",
+    "days_to_germination": {
+      "min": 14,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 80
+    },
+    "days_to_maturity": {
+      "min": 180,
+      "max": 270
+    },
+    "maturity_from": "seed",
+    "sow_method": "indoor-start",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -6
+      },
+      "note": "Start seeds indoors 6–8 weeks before last frost in warm, humid conditions; transplant outdoors in a sheltered, partially shaded location after soil warms to 65°F."
+    },
+    "usda_zones": {
+      "min": 9,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 36,
+      "max": 60
+    },
+    "height_in": {
+      "min": 48,
+      "max": 84
+    },
+    "spread_in": {
+      "min": 36,
+      "max": 60
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Start seeds in warm, moist seed mix at 75–80°F; transplant to fertile, well-drained soil in a location sheltered from strong afternoon sun, as the large tropical leaves burn easily. This Andean highland fruit naturally grows at elevations where temperatures rarely exceed 85°F — it prefers the cool tropics and will struggle in humid Gulf Coast summers; maritime California and high-altitude zones 9–10 are ideal. The orange, tomato-like fruits are covered with soft hair when immature and ripen over several months; the intensely tart, aromatic pulp is used for juices, smoothies, and ice cream in Colombia and Ecuador. Prune to remove dead or crossing branches after harvest.",
+    "sources": [
+      "University of Florida IFAS Extension",
+      "FAO Plant Production and Protection Division",
+      "California Rare Fruit Growers"
+    ]
+  },
+  {
+    "slug": "cassava",
+    "common_name": "Cassava (Yuca / Manioc)",
+    "scientific_name": "Manihot esculenta",
+    "category": "vegetable",
+    "subcategory": "tropical tuber shrub",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 270,
+      "max": 365
+    },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 6
+      },
+      "note": "Plant 8–10 inch stem cuttings (stakes) horizontally 4–6 inches deep or at a 45-degree angle after soil warms to 65°F; upright planting produces fewest tubers while horizontal planting maximizes yield."
+    },
+    "usda_zones": {
+      "min": 9,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 36,
+      "max": 60
+    },
+    "height_in": {
+      "min": 60,
+      "max": 120
+    },
+    "spread_in": {
+      "min": 36,
+      "max": 60
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant stem cuttings (stakes) horizontally 4–6 inches deep in well-drained, sandy to loamy soil in full sun; cassava is drought tolerant once established and produces in poor soils where other root crops fail, making it one of the world's most important calorie crops. All varieties contain some cyanogenic glycosides — sweet varieties are low enough for safe eating after cooking, while bitter varieties require extensive washing and fermentation to detoxify. Never eat raw cassava. Harvest tubers when 8–18 months old by digging carefully to avoid breaking the fragile roots; they must be used within a few days of harvest or frozen, as they deteriorate rapidly. In zone 9, the above-ground plant freezes back but roots may survive with heavy mulch.",
+    "sources": [
+      "University of Florida IFAS Extension",
+      "FAO Plant Production and Protection Division",
+      "Texas A&M AgriLife Extension"
+    ]
+  },
+  {
+    "slug": "tall-goldenrod",
+    "common_name": "Tall Goldenrod",
+    "scientific_name": "Solidago altissima",
+    "category": "flower",
+    "subcategory": "native perennial",
+    "days_to_germination": {
+      "min": 14,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 90
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -2,
+        "max": 2
+      },
+      "note": "Surface sow in spring as seed needs light to germinate; division of established clumps in early spring is more reliable and faster."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 36,
+      "max": 60
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Scatter seed on the surface of average, well-drained soil in full sun; tall goldenrod is the single most important plant for migrating monarch butterflies and late-season native bees, providing nectar during the critical fall migration period. Despite its reputation for causing hay fever (the actual culprit is ragweed, which blooms simultaneously), goldenrod pollen is heavy and insect-pollinated, not airborne. The plant spreads aggressively by rhizome in fertile soil; divide every 2–3 years to maintain vigor, using divisions to fill new areas. Excellent companion for ironweed (Vernonia), asters, and Joe-Pye weed in a late-season native garden.",
+    "sources": [
+      "USDA PLANTS Database",
+      "Xerces Society for Invertebrate Conservation",
+      "Lady Bird Johnson Wildflower Center"
+    ]
+  },
+  {
+    "slug": "false-solomons-seal",
+    "common_name": "False Solomon's Seal (Feathery False Lily of the Valley)",
+    "scientific_name": "Maianthemum racemosum",
+    "category": "flower",
+    "subcategory": "native woodland perennial",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 60,
+      "max": 90
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant rhizome divisions in early spring, setting them horizontally 2–3 inches deep; each piece should have at least one visible growth bud."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 8
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 18,
+      "max": 36
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 18
+    },
+    "sun": "shade",
+    "water": "moderate",
+    "directions": "Plant in moist, humus-rich, slightly acidic soil in full to partial shade; distinguished from true Solomon's seal (Polygonatum) by its feathery terminal cluster of tiny white flowers in spring rather than hanging bell-shaped flowers. The arching stems hold alternating oval leaves and terminate in airy white plumes in May, followed by green berries that turn red and speckled in fall. The berries are edible in small quantities but mildly laxative and should be consumed cautiously. The plant spreads slowly by rhizome and self-seeds minimally, making it a well-behaved companion for trilliums, ferns, and wild ginger in a woodland garden.",
+    "sources": [
+      "USDA PLANTS Database",
+      "Lady Bird Johnson Wildflower Center",
+      "Missouri Botanical Garden Plant Finder"
+    ]
+  },
+  {
+    "slug": "wild-strawberry",
+    "common_name": "Wild Strawberry (Virginia Strawberry)",
+    "scientific_name": "Fragaria virginiana",
+    "category": "berry",
+    "subcategory": "native edible groundcover",
+    "days_to_germination": {
+      "min": 14,
+      "max": 28
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 90
+    },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Transplant rooted runners in spring or fall; pin runner tips to moist soil and cut free when rooted. Easiest to establish from rooted plugs or runners rather than seed."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 8,
+      "max": 12
+    },
+    "height_in": {
+      "min": 4,
+      "max": 8
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 18
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Plant rooted runners in moderately moist, well-drained soil in full sun to partial shade; this native species is one parent of the cultivated strawberry and produces intensely flavorful small red fruits that surpass commercial strawberries in taste, though not in size. The plant spreads vigorously by runners to form a dense groundcover that suppresses weeds and tolerates moderate foot traffic. Fruits are borne in late spring through early summer; birds, chipmunks, and turtles compete for the harvest so a loose barrier net may be needed. Divide or thin the planting every 2–3 years by removing older central crowns and retaining the vigorous outer runners.",
+    "sources": [
+      "USDA PLANTS Database",
+      "University of Vermont Extension",
+      "Lady Bird Johnson Wildflower Center"
+    ]
+  }
+]

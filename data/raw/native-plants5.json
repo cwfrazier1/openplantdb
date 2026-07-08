@@ -1,0 +1,271 @@
+[
+  {
+    "slug": "side-oats-grama",
+    "common_name": "Side Oats Grama",
+    "scientific_name": "Bouteloua curtipendula",
+    "category": "flower",
+    "subcategory": "native prairie grass",
+    "days_to_germination": {
+      "min": 14,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 90,
+      "max": 120
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 2
+      },
+      "note": "Direct sow in spring after last frost in full sun and lean, well-drained soil; do not fertilize as this is a plant of lean, poor soils."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 18,
+      "max": 36
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 18
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Direct sow in early spring in lean, well-drained, rocky to sandy soil in full sun; side oats grama is the official Texas state grass and one of the finest warm-season native grasses for ornamental use, with slender upright stems bearing distinctive oat-like seed heads all arrayed on one side of the stem in a graceful line. It establishes quickly from seed, tolerates drought and heat extremely well once established, and provides excellent winter structure with its bronze-tan seed heads. Mow or cut back once in late winter before new growth begins. Excellent for low-maintenance meadow plantings, slopes, and bird-supporting landscape borders. The seed is harvested by sparrows, finches, and native buntings.",
+    "sources": [
+      "USDA PLANTS Database",
+      "Lady Bird Johnson Wildflower Center",
+      "Texas A&M AgriLife Extension"
+    ]
+  },
+  {
+    "slug": "buffalograss",
+    "common_name": "Buffalograss",
+    "scientific_name": "Bouteloua dactyloides",
+    "category": "flower",
+    "subcategory": "native lawn grass",
+    "days_to_germination": {
+      "min": 14,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 90,
+      "max": 120
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 6
+      },
+      "note": "Sow after last frost once soil consistently warms to 65°F; use cold-treated (stratified) seed for better germination. Plugs and sod are faster than seed for establishing."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 4,
+      "max": 8
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Sow cold-treated seed in full sun after soil warms to 65°F in lean, clay to loam, alkaline to neutral soil; buffalograss is the most drought-tolerant of the true lawn grasses, the historical turf of the Great Plains that once covered millions of acres, and it requires one-tenth the water of Kentucky bluegrass. The soft, curly, blue-green blades stay short (3–5 inches) without mowing and go dormant tan in winter. It establishes slowly from seed (use plugs or sod for faster coverage) and will not tolerate acidic soil, heavy shade, or heavy foot traffic. It is dioecious — plant a mix of male and female seed or use non-seeding cultivars for a tidier appearance.",
+    "sources": [
+      "USDA PLANTS Database",
+      "University of Nebraska Extension",
+      "Lady Bird Johnson Wildflower Center"
+    ]
+  },
+  {
+    "slug": "turks-cap-lily",
+    "common_name": "Turk's Cap Lily",
+    "scientific_name": "Lilium superbum",
+    "category": "flower",
+    "subcategory": "native bulb",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 90,
+      "max": 180
+    },
+    "maturity_from": "transplant",
+    "sow_method": "bulb",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": -2,
+        "max": 2
+      },
+      "note": "Plant bulbs in early spring at 4–6 inch depth, in groups of 3–5 for best effect; handles more shade than most lilies and prefers consistently moist soil."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 48,
+      "max": 84
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 18
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Plant bulbs 4–6 inches deep in moist, humus-rich, slightly acidic, well-drained soil in partial shade to light sun; Turk's cap lily is the tallest native eastern lily, and in optimal conditions can reach 8 feet with dozens of richly spotted orange reflexed (turkscap-shaped) flowers per stem in July–August. Unlike cultivated Asiatic or Oriental lilies, it grows naturally in wet meadows and forest edges and requires consistently moist soil throughout the growing season. It tolerates more shade than most lilies and is valuable in the lightly shaded, moist native garden border. Ruby-throated hummingbirds are primary pollinators. The foliage and bulbs may be toxic to cats; keep away from where cats roam.",
+    "sources": [
+      "USDA PLANTS Database",
+      "Lady Bird Johnson Wildflower Center",
+      "North Carolina State Extension"
+    ]
+  },
+  {
+    "slug": "celandine-poppy",
+    "common_name": "Celandine Poppy (Wood Poppy)",
+    "scientific_name": "Stylophorum diphyllum",
+    "category": "flower",
+    "subcategory": "native shade perennial",
+    "days_to_germination": {
+      "min": 14,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 40,
+      "max": 55
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 90
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": 0
+      },
+      "note": "Direct sow in fall for natural cold stratification; the plant self-sows reliably and will naturalize once established, filling a shaded bed with bright spring color."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 8
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 12,
+      "max": 18
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 18
+    },
+    "sun": "shade",
+    "water": "moderate",
+    "directions": "Direct sow in moist, humus-rich, well-drained soil in partial to full shade in fall; celandine poppy produces stunning bright yellow four-petaled flowers in early spring, making it one of the most brilliant color plants for the shade garden before the tree canopy closes. The plants bloom for several weeks in spring, then go partially dormant in summer heat but re-emerge in fall for additional sporadic flowering in cool climates. The bright orange sap from cut stems has traditional medicinal uses but is toxic and a skin irritant. Once established, it self-sows abundantly to naturalize throughout a shaded bed, so site carefully if you don't want it to spread. Combine with Virginia bluebells and trilliums for a classic spring shade display.",
+    "sources": [
+      "USDA PLANTS Database",
+      "Lady Bird Johnson Wildflower Center",
+      "Missouri Botanical Garden Plant Finder"
+    ]
+  },
+  {
+    "slug": "piedmont-azalea",
+    "common_name": "Piedmont Azalea (Pinxterbloom)",
+    "scientific_name": "Rhododendron canescens",
+    "category": "flower",
+    "subcategory": "native deciduous shrub",
+    "days_to_germination": {
+      "min": 14,
+      "max": 28
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 365,
+      "max": 730
+    },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant container-grown shrubs in spring in moist, acidic, well-drained soil; avoid planting too deep — the crown should be at or just above soil level."
+    },
+    "usda_zones": {
+      "min": 6,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 60,
+      "max": 84
+    },
+    "height_in": {
+      "min": 60,
+      "max": 120
+    },
+    "spread_in": {
+      "min": 60,
+      "max": 96
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Plant in moist, humus-rich, well-drained, acidic (pH 4.5–5.5) soil in dappled shade to light sun; the Piedmont azalea is among the most beautiful and fragrant of the native deciduous azaleas, naturally found in woodland edges and along streams from Virginia to Florida and Texas. The pale pink to white flowers with long, exserted stamens appear in early spring before or with the new foliage, giving the plant a delicate, open appearance very different from the dense evergreen hybrid azaleas. Unlike most garden azaleas it tolerates zone 9 Gulf Coast summers well. Prune only after flowering, removing no more than one-third of the plant at once; never shear. Amend soil heavily with compost and pine bark before planting.",
+    "sources": [
+      "USDA PLANTS Database",
+      "University of Florida IFAS Extension",
+      "Lady Bird Johnson Wildflower Center"
+    ]
+  }
+]

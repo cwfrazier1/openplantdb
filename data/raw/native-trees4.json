@@ -1,0 +1,271 @@
+[
+  {
+    "slug": "willow-oak",
+    "common_name": "Willow Oak",
+    "scientific_name": "Quercus phellos",
+    "category": "flower",
+    "subcategory": "native deciduous tree",
+    "days_to_germination": {
+      "min": 7,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 1095,
+      "max": 3650
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": 4
+      },
+      "note": "Plant small container trees (1–2 gallon) in late winter or spring in moist, slightly acidic, well-drained to moderately moist soil; willow oak transplants better than most oaks and establishes quickly. Plant acorns immediately upon collecting in fall."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 360,
+      "max": 600
+    },
+    "height_in": {
+      "min": 480,
+      "max": 840
+    },
+    "spread_in": {
+      "min": 360,
+      "max": 600
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in moist, slightly acidic, well-drained to moderately moist soil in full sun; willow oak is one of the most graceful native oaks, producing narrow, willow-like leaves unlike any other oak, giving the tree an unusually fine-textured, feathery appearance in the landscape. It grows naturally in bottomland forests and moist uplands across the coastal South and is one of the most widely planted native oaks as a street tree for its tolerance of urban conditions, moist soils, and relatively fast growth rate (1–2 feet per year). The tiny acorns produced in enormous abundance beginning at 10–15 years provide critical fall and winter food for wood ducks, mallards, wild turkeys, squirrels, and songbirds. Fall color is not as vivid as red oak but pleasant golden-yellow. Very long-lived and ultimately a large landscape tree.",
+    "sources": [
+      "USDA PLANTS Database",
+      "Lady Bird Johnson Wildflower Center",
+      "North Carolina State Extension"
+    ]
+  },
+  {
+    "slug": "possumhaw-viburnum",
+    "common_name": "Possumhaw Viburnum (Smooth Witherod)",
+    "scientific_name": "Viburnum nudum",
+    "category": "fruit",
+    "subcategory": "native fruiting shrub",
+    "days_to_germination": {
+      "min": 30,
+      "max": 90
+    },
+    "germination_soil_temp_f": {
+      "min": 40,
+      "max": 55
+    },
+    "days_to_maturity": {
+      "min": 365,
+      "max": 730
+    },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant two or more different selections together for better berry production through cross-pollination. Plant container shrubs in spring in moist, slightly acidic soil in partial shade to full sun; excellent for wet areas and rain gardens."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 48,
+      "max": 72
+    },
+    "height_in": {
+      "min": 60,
+      "max": 120
+    },
+    "spread_in": {
+      "min": 60,
+      "max": 96
+    },
+    "sun": "partial",
+    "water": "high",
+    "directions": "Plant in moist to wet, slightly acidic to neutral, humus-rich soil in partial shade to full sun; possumhaw viburnum (also called smooth witherod) is a native shrub of swamp margins, streambanks, and wet coastal plain forests that provides one of the most remarkable fall berry displays of any native shrub. The berry clusters ripen in stages through August–November, with individual berries changing from apple-green to blush-pink to rose to blue-black on the same cluster simultaneously — creating a stunning multi-colored mosaic of color that extends for weeks. The berries provide essential fall nutrition for migrating and resident birds. The glossy, deep green leaves turn burgundy-red in fall. The cultivar 'Winterthur' is particularly floriferous and berry-laden. Plant in rain gardens, bog borders, or any consistently moist location.",
+    "sources": [
+      "USDA PLANTS Database",
+      "Lady Bird Johnson Wildflower Center",
+      "North Carolina State Extension"
+    ]
+  },
+  {
+    "slug": "dwarf-palmetto",
+    "common_name": "Dwarf Palmetto",
+    "scientific_name": "Sabal minor",
+    "category": "flower",
+    "subcategory": "native evergreen palm",
+    "days_to_germination": {
+      "min": 30,
+      "max": 90
+    },
+    "germination_soil_temp_f": {
+      "min": 75,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 1095,
+      "max": 3650
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 8
+      },
+      "note": "Plant container-grown palms in spring in moist, slightly acidic to neutral soil in partial to full shade; virtually all growth is underground for the first few years as the palm establishes an extensive root system before producing visible trunk."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 48,
+      "max": 72
+    },
+    "height_in": {
+      "min": 36,
+      "max": 120
+    },
+    "spread_in": {
+      "min": 48,
+      "max": 72
+    },
+    "sun": "shade",
+    "water": "moderate",
+    "directions": "Plant in moist, slightly acidic, humus-rich soil in partial to full shade; dwarf palmetto is the most shade-tolerant of the native southeastern palms, growing naturally in the understory of wet coastal plain forests, swamp margins, and bottomland forests from North Carolina to Florida and Texas. It is usually stemless or produces a very short trunk close to the ground, with bold fan-shaped leaves creating a dramatic tropical effect in the shaded garden. More cold-hardy than cabbage palmetto (surviving to -5°F), it is an excellent choice for providing a Gulf Coast tropical appearance in zone 7 and warmer. The palm grows extremely slowly but is very long-lived. The small black berries produced in tall panicles are eaten by birds. It tolerates periodic flooding and is one of the few palms that performs in significant shade.",
+    "sources": [
+      "USDA PLANTS Database",
+      "University of Florida IFAS Extension",
+      "Lady Bird Johnson Wildflower Center"
+    ]
+  },
+  {
+    "slug": "giant-cane",
+    "common_name": "Giant Cane (Native Bamboo)",
+    "scientific_name": "Arundinaria gigantea",
+    "category": "vegetable",
+    "subcategory": "native bamboo",
+    "days_to_germination": {
+      "min": 21,
+      "max": 42
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 365,
+      "max": 730
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant rhizome divisions in spring in moist, rich, slightly acidic soil in partial shade; giant cane spreads by rhizome to form extensive canebrakes — use underground barriers if confined space is required."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 36,
+      "max": 60
+    },
+    "height_in": {
+      "min": 120,
+      "max": 360
+    },
+    "spread_in": {
+      "min": 36,
+      "max": 120
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Plant rhizome divisions in moist, rich, slightly acidic to neutral soil in partial shade to full sun; giant cane is the only bamboo native to North America, once forming vast canebrakes across the South and Mississippi Valley that were critical habitat for the now-extinct Carolina parakeet and Bachman's warbler, as well as important forage for Swainson's warbler. The young shoots in spring are edible, similar to commercial bamboo shoots, and were an important food source for Native American peoples. The mature canes were used for tools, weapons, and construction. As a landscape plant it provides fast-growing subtropical screening and naturalistic structure. It spreads aggressively by rhizome and should be managed; use underground root barriers to contain it in smaller spaces. The plant supports several rare specialist moth species.",
+    "sources": [
+      "USDA PLANTS Database",
+      "Lady Bird Johnson Wildflower Center",
+      "Xerces Society for Invertebrate Conservation"
+    ]
+  },
+  {
+    "slug": "resurrection-fern",
+    "common_name": "Resurrection Fern",
+    "scientific_name": "Pleopeltis polypodioides",
+    "category": "flower",
+    "subcategory": "native epiphytic fern",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 30,
+      "max": 90
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Attach small clumps to the rough bark of live oaks, southern magnolias, or other large trees by tying gently with jute twine; keep moist until established. Can also grow on old wooden fences or moss-covered rocks."
+    },
+    "usda_zones": {
+      "min": 6,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 6,
+      "max": 12
+    },
+    "height_in": {
+      "min": 4,
+      "max": 8
+    },
+    "spread_in": {
+      "min": 6,
+      "max": 18
+    },
+    "sun": "shade",
+    "water": "low",
+    "directions": "Attach small clumps to the rough bark of live oaks, magnolias, cypress knees, or mossy rocks in partial to full shade; resurrection fern is a fascinating native epiphytic fern that grows without soil, anchoring itself to bark and extracting water and nutrients from rain and air. Its extraordinary survival ability allows it to lose up to 97% of its water content and appear completely dead and shriveled in drought, then revive to lush green within hours of rain — earning its dramatic common name. In its natural habitat the bark surface of mature live oaks is often entirely carpeted with this fern, and in rain events the transformation from brown crisp desiccation to vivid green is remarkable and occurs overnight. Establish by tying moist clumps to rough bark in spring; once attached it will spread slowly across the bark surface over time and requires no further care.",
+    "sources": [
+      "USDA PLANTS Database",
+      "University of Florida IFAS Extension",
+      "Lady Bird Johnson Wildflower Center"
+    ]
+  }
+]

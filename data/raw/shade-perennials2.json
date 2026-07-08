@@ -1,0 +1,277 @@
+[
+  {
+    "slug": "goatsbeard",
+    "common_name": "Goatsbeard (Giant Meadow Rue)",
+    "scientific_name": "Aruncus dioicus",
+    "category": "flower",
+    "subcategory": "native shade perennial",
+    "days_to_germination": {
+      "min": 14,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 90,
+      "max": 120
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": 0
+      },
+      "note": "Sow seeds on the surface (needs light to germinate) in early spring in moist, slightly acidic to neutral, humus-rich, well-drained to moderately moist soil in partial to full shade; goatsbeard is dioecious — plant multiple plants for the best display, as male plants produce slightly more dramatic flower plumes."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 8
+    },
+    "spacing_in": {
+      "min": 36,
+      "max": 60
+    },
+    "height_in": {
+      "min": 36,
+      "max": 72
+    },
+    "spread_in": {
+      "min": 36,
+      "max": 60
+    },
+    "sun": "shade",
+    "water": "moderate",
+    "directions": "Sow on the soil surface in moist, slightly acidic to neutral, humus-rich soil in partial to full shade in early spring; goatsbeard is one of the most magnificent native shade perennials in North America, forming large, bold clumps of compound, ferny leaves topped in early to midsummer by massive, arching plumes of creamy-white flowers resembling a giant astilbe — earning it the common name. Male plants produce the showiest, most upright plumes; female plants produce somewhat more pendulous plumes followed by seed heads that dry attractively. It grows naturally in moist, rich woodland slopes and creek banks throughout the eastern US and Pacific Northwest, performing best in cool, moist, shaded conditions. An outstanding bold-textured plant for the large-scale woodland garden or shaded border, paired with hostas, ferns, and native wildflowers. Not suited to hot, dry climates; performs best in zone 3–7.",
+    "sources": [
+      "USDA PLANTS Database",
+      "Lady Bird Johnson Wildflower Center",
+      "Missouri Botanical Garden Plant Finder"
+    ]
+  },
+  {
+    "slug": "striped-maple",
+    "common_name": "Striped Maple (Moosewood)",
+    "scientific_name": "Acer pensylvanicum",
+    "category": "flower",
+    "subcategory": "native deciduous understory tree",
+    "days_to_germination": {
+      "min": 21,
+      "max": 42
+    },
+    "germination_soil_temp_f": {
+      "min": 45,
+      "max": 60
+    },
+    "days_to_maturity": {
+      "min": 730,
+      "max": 1825
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": 0
+      },
+      "note": "Plant container-grown trees in late winter or early spring in moist, acidic, humus-rich, cool, well-drained soil in partial to full shade; striped maple is a cool-climate understory tree that requires protection from afternoon sun and heat in zone 6+ and will not thrive in zone 7 and warmer."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 6
+    },
+    "spacing_in": {
+      "min": 96,
+      "max": 180
+    },
+    "height_in": {
+      "min": 120,
+      "max": 300
+    },
+    "spread_in": {
+      "min": 96,
+      "max": 180
+    },
+    "sun": "shade",
+    "water": "moderate",
+    "directions": "Plant in moist, acidic, humus-rich, cool soil in partial to full shade — striped maple is one of North America's most beautiful native understory trees, instantly recognizable by the striking vertical white-and-green striping on the young bark (giving it the alternate name 'snakebark maple' or 'moosewood'). The large, three-lobed leaves turn butter yellow in fall. It is a true understory specialist that grows naturally in the shade beneath taller hardwoods in cool, moist, acidic mountain forests — it is shade-tolerant enough to regenerate in nearly complete shade. Moose browse the bark in winter (giving the common name). Not suited to zone 7 and warmer, where the heat and humidity are too much for this cool-climate species. An outstanding ornamental tree for the shaded garden in zone 3–6, particularly in New England, the upper Midwest, and the Appalachian highlands. The ornamental bark is visible year-round and is spectacular.",
+    "sources": [
+      "USDA PLANTS Database",
+      "Lady Bird Johnson Wildflower Center",
+      "North Carolina State Extension"
+    ]
+  },
+  {
+    "slug": "chinese-chestnut",
+    "common_name": "Chinese Chestnut",
+    "scientific_name": "Castanea mollissima",
+    "category": "fruit",
+    "subcategory": "nut tree",
+    "days_to_germination": {
+      "min": 30,
+      "max": 60
+    },
+    "germination_soil_temp_f": {
+      "min": 50,
+      "max": 65
+    },
+    "days_to_maturity": {
+      "min": 1095,
+      "max": 2190
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -6,
+        "max": -2
+      },
+      "note": "Plant fresh nuts in fall or container trees in spring in well-drained, slightly acidic (pH 5.5–6.5), sandy to loamy, deep soil in full sun; Chinese chestnut requires two or more genetically distinct trees for cross-pollination and nut production. Plant in well-drained soil — chestnuts are extremely susceptible to Phytophthora root rot in wet, poorly drained soils."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 300,
+      "max": 480
+    },
+    "height_in": {
+      "min": 300,
+      "max": 600
+    },
+    "spread_in": {
+      "min": 300,
+      "max": 600
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in well-drained, slightly acidic to neutral, sandy to loamy soil in full sun — Chinese chestnut is the blight-resistant alternative to the devastated American chestnut, producing sweet, edible nuts very similar to the native species. It grows naturally in China where it evolved resistance to the fungal blight (Cryphonectria parasitica) that destroyed American chestnuts, and is now the primary species used in chestnut restoration hybrids and in commercial chestnut orchards throughout the eastern US. The tree is medium-sized (30–50 feet), requires two or more trees for cross-pollination, and begins producing nuts within 3–5 years from a grafted tree. The burr-enclosed nuts ripen in fall and are harvested fresh for roasting, boiling, grinding into flour, and use in stuffings and desserts. Chinese chestnut wood is also blight-resistant and durable. An important and practical nut tree for the food forest and home orchard in zone 4–9.",
+    "sources": [
+      "USDA PLANTS Database",
+      "University of Missouri Extension",
+      "The American Chestnut Foundation"
+    ]
+  },
+  {
+    "slug": "carex-laxiculmis",
+    "common_name": "Spreading Sedge (Creeping Broad-leaf Sedge)",
+    "scientific_name": "Carex laxiculmis",
+    "category": "flower",
+    "subcategory": "native shade groundcover sedge",
+    "days_to_germination": {
+      "min": 21,
+      "max": 42
+    },
+    "germination_soil_temp_f": {
+      "min": 55,
+      "max": 65
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 90
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant divisions in spring in moist, slightly acidic to neutral, humus-rich soil in partial to full shade; spreading sedge colonizes slowly by long stolons to form a low groundcover that is easy to control if needed."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 8
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 6,
+      "max": 12
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 36
+    },
+    "sun": "shade",
+    "water": "moderate",
+    "directions": "Plant in moist, slightly acidic to neutral, humus-rich soil in partial to full shade; spreading sedge is a low-growing native sedge of eastern woodland floors, distinguished by its unusually wide leaves (up to 3/4 inch wide, broad for a sedge) that are a beautiful glaucous blue-green color with a matte, almost frosted surface. The prostrate to arching leaves spread loosely to form a lax groundcover very different in character from the more upright native sedges — relaxed, natural-looking, and graceful. It spreads slowly by long stolons to form a loose, open mat. The cultivar 'Hobb' (sold as 'Blue Bunny') offers especially pronounced blue-green foliage and is widely available in the native plant trade. An outstanding groundcover for the shaded woodland garden in zone 4–8, especially effective paired with native spring wildflowers, ferns, and bleeding heart.",
+    "sources": [
+      "USDA PLANTS Database",
+      "Lady Bird Johnson Wildflower Center",
+      "North Carolina State Extension"
+    ]
+  },
+  {
+    "slug": "ligularia",
+    "common_name": "Bigleaf Ligularia (Leopard Plant)",
+    "scientific_name": "Ligularia dentata",
+    "category": "flower",
+    "subcategory": "shade perennial",
+    "days_to_germination": {
+      "min": 14,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 90
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant divisions in spring in consistently moist to wet, slightly acidic to neutral, humus-rich, fertile soil in partial to full shade; ligularia wilts dramatically in dry conditions or afternoon heat — it requires consistent moisture and shade from afternoon sun."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 8
+    },
+    "spacing_in": {
+      "min": 24,
+      "max": 36
+    },
+    "height_in": {
+      "min": 24,
+      "max": 48
+    },
+    "spread_in": {
+      "min": 24,
+      "max": 36
+    },
+    "sun": "shade",
+    "water": "high",
+    "directions": "Plant in consistently moist to wet, humus-rich, fertile soil in partial to full shade; ligularia is a bold-textured Asian shade perennial valued for its very large, rounded, kidney-shaped leaves and clusters of bright orange-yellow daisy-like flowers on tall stems in midsummer — providing rare, vibrant color in the shaded garden at a time when most shade plants have finished blooming. The large, purple-backed leaves on named cultivars like 'Desdemona' and 'Othello' are dramatically ornamental even out of bloom. However, ligularia is extremely sensitive to heat and dry air — the large leaves wilt badly in full afternoon sun or dry conditions, recovering at night but looking stressed through the day. It requires consistently moist to boggy soil and cool shade to look its best. Best suited to cool-summer climates (zone 4–7) or consistently moist, shaded stream banks in zone 8. An outstanding plant for boggy shade gardens.",
+    "sources": [
+      "Royal Horticultural Society",
+      "Missouri Botanical Garden Plant Finder",
+      "North Carolina State Extension"
+    ]
+  }
+]

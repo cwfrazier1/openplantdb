@@ -1,0 +1,277 @@
+[
+  {
+    "slug": "cacao",
+    "common_name": "Cacao (Chocolate Tree)",
+    "scientific_name": "Theobroma cacao",
+    "category": "fruit",
+    "subcategory": "tropical fruit tree",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 75,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 1095,
+      "max": 1825
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 4,
+        "max": 8
+      },
+      "note": "Plant container-grown trees in spring in moist, fertile, slightly acidic to neutral, well-drained soil in partial shade; cacao is a true understory tree requiring shade, warmth above 60°F year-round, and consistent humidity. In zone 10–12 only outdoors; grow in a warm greenhouse or as a houseplant in zone 9."
+    },
+    "usda_zones": {
+      "min": 10,
+      "max": 12
+    },
+    "spacing_in": {
+      "min": 120,
+      "max": 240
+    },
+    "height_in": {
+      "min": 120,
+      "max": 300
+    },
+    "spread_in": {
+      "min": 120,
+      "max": 180
+    },
+    "sun": "shade",
+    "water": "moderate",
+    "directions": "Plant in moist, fertile, slightly acidic, well-drained soil in partial to full shade — cacao is the source of chocolate, one of the world's most important food crops, and is an understory tree of the tropical rainforest that grows naturally in partial to deep shade. The unusual cauliflorous flowering habit (flowers and fruits growing directly from the main trunk and large branches rather than at branch tips) produces football-shaped pods in vivid yellow, orange, red, or purple at maturity, each containing 30–50 seeds (cocoa beans) embedded in sweet white pulp. The pulp is eaten fresh in cacao-growing regions; the seeds are fermented, dried, and processed to produce cocoa powder and chocolate. In South Florida and tropical zones, small cacao trees fruit in as little as 3–4 years and produce two crops per year. An exceptional specimen plant for the tropical garden that actually prefers shade over full sun.",
+    "sources": [
+      "University of Florida IFAS Extension",
+      "Purdue University NewCROP",
+      "USDA Agricultural Research Service"
+    ]
+  },
+  {
+    "slug": "allspice",
+    "common_name": "Allspice (Jamaica Pepper)",
+    "scientific_name": "Pimenta dioica",
+    "category": "herb",
+    "subcategory": "tropical spice tree",
+    "days_to_germination": {
+      "min": 14,
+      "max": 30
+    },
+    "germination_soil_temp_f": {
+      "min": 75,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 1825,
+      "max": 3650
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 4,
+        "max": 8
+      },
+      "note": "Plant container-grown trees in spring in well-drained, slightly acidic to neutral soil in full sun to partial shade; allspice is dioecious — both male and female trees are needed for fruit production. In zone 10–12 only outdoors; can be grown in a large container and overwintered indoors in zone 9."
+    },
+    "usda_zones": {
+      "min": 10,
+      "max": 12
+    },
+    "spacing_in": {
+      "min": 120,
+      "max": 240
+    },
+    "height_in": {
+      "min": 120,
+      "max": 360
+    },
+    "spread_in": {
+      "min": 96,
+      "max": 180
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in well-drained, slightly acidic to neutral soil in full sun to partial shade — allspice is a tropical Caribbean tree native to Jamaica and Central America, the source of the spice whose dried unripe berries combine the flavors of cloves, cinnamon, and nutmeg in a single berry (hence 'allspice'). The large, glossy, aromatic leaves also contain significant allspice flavor (used to wrap jerk meats in Jamaica). The tree is medium-sized (30–40 feet at maturity) with attractive smooth, exfoliating bark and fragrant white flowers. Allspice is a dioecious tree — both male and female plants are needed for fruit production, though the leaves of either sex can be harvested for culinary use. In South Florida it grows well outdoors in zone 10–11; in zone 9 it requires a container that can be moved to frost protection. An extraordinary ornamental, aromatic, and culinary tree for warm gardens.",
+    "sources": [
+      "Purdue University NewCROP",
+      "University of Florida IFAS Extension",
+      "Morton, 'Fruits of Warm Climates'"
+    ]
+  },
+  {
+    "slug": "black-pepper",
+    "common_name": "Black Pepper",
+    "scientific_name": "Piper nigrum",
+    "category": "herb",
+    "subcategory": "tropical spice vine",
+    "days_to_germination": {
+      "min": 21,
+      "max": 42
+    },
+    "germination_soil_temp_f": {
+      "min": 75,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 730,
+      "max": 1095
+    },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 4,
+        "max": 8
+      },
+      "note": "Plant rooted cuttings or container plants in spring in moist, fertile, humus-rich, slightly acidic, well-drained soil in partial shade with a support structure; black pepper requires warmth above 60°F year-round and high humidity. Zone 10–12 outdoors; excellent as a container specimen in zone 8–9 moved indoors in winter."
+    },
+    "usda_zones": {
+      "min": 10,
+      "max": 12
+    },
+    "spacing_in": {
+      "min": 36,
+      "max": 60
+    },
+    "height_in": {
+      "min": 120,
+      "max": 300
+    },
+    "spread_in": {
+      "min": 24,
+      "max": 48
+    },
+    "sun": "shade",
+    "water": "moderate",
+    "directions": "Plant rooted cuttings in moist, fertile, humus-rich, slightly acidic soil in partial shade with a support structure or trellis — black pepper is the world's most traded spice and a shade-tolerant climbing vine native to India's Malabar Coast, where it grows as a climbing epiphyte in the forest understory. In tropical gardens (zone 10–12) the vine climbs 10–30 feet up a tree or post, producing clusters of peppercorns that start green, turn red when fully ripe, and are picked at different stages to produce green pepper (fresh), black pepper (dried unripe), red pepper (ripe), and white pepper (ripe, hull removed). The vine requires warmth, humidity, and consistent moisture. As a container plant in zone 8–9 gardens, it makes an attractive tropical accent vine moved indoors for winter. A genuinely rewarding home-grown spice for warm-climate gardeners.",
+    "sources": [
+      "Purdue University NewCROP",
+      "University of Florida IFAS Extension",
+      "USDA Agricultural Research Service"
+    ]
+  },
+  {
+    "slug": "ice-cream-bean",
+    "common_name": "Ice Cream Bean (Joaquiniquil)",
+    "scientific_name": "Inga edulis",
+    "category": "fruit",
+    "subcategory": "tropical fruit tree",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 80
+    },
+    "days_to_maturity": {
+      "min": 365,
+      "max": 730
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 4,
+        "max": 8
+      },
+      "note": "Plant container-grown trees in spring in moist, fertile, slightly acidic to neutral, well-drained soil in full sun to partial shade; ice cream bean grows rapidly and begins fruiting in 2–3 years from seed. Hardy to about 29°F; zone 9b–12 in the ground, containers in zone 9a."
+    },
+    "usda_zones": {
+      "min": 9,
+      "max": 12
+    },
+    "spacing_in": {
+      "min": 120,
+      "max": 240
+    },
+    "height_in": {
+      "min": 120,
+      "max": 300
+    },
+    "spread_in": {
+      "min": 120,
+      "max": 240
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in moist, fertile, slightly acidic to neutral soil in full sun to partial shade — ice cream bean is a fast-growing Central and South American legume tree producing enormous pods (12–30 inches long) filled with white, cottony, sweet pulp that wraps the seeds and tastes unmistakably of vanilla ice cream. The white pulp is eaten fresh directly from the pod; it melts on the tongue with a sweet, mild, creamy vanilla flavor that surprises everyone who encounters it for the first time. Beyond the extraordinary fruit, ice cream bean is a nitrogen-fixing legume that improves soil fertility, an excellent shade and windbreak tree (growing 30–40 feet), and a valuable component of agroforestry systems throughout the tropics. The fragrant white flower pompoms attract hummingbirds and native bees. It grows rapidly in the frost-free tropics and sub-tropics, beginning to fruit in 2–3 years from seed.",
+    "sources": [
+      "University of Florida IFAS Extension",
+      "Purdue University NewCROP",
+      "Morton, 'Fruits of Warm Climates'"
+    ]
+  },
+  {
+    "slug": "java-plum",
+    "common_name": "Java Plum (Jamun, Indian Blackberry)",
+    "scientific_name": "Syzygium cumini",
+    "category": "fruit",
+    "subcategory": "tropical fruit tree",
+    "days_to_germination": {
+      "min": 14,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 80
+    },
+    "days_to_maturity": {
+      "min": 1095,
+      "max": 1825
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 6
+      },
+      "note": "Plant container-grown trees in spring in moist to well-drained, slightly acidic to neutral soil in full sun; java plum is more cold-tolerant than most tropical Syzygium species and can survive brief periods at 28–30°F once established, making it suitable for zone 9b with occasional frost protection."
+    },
+    "usda_zones": {
+      "min": 9,
+      "max": 12
+    },
+    "spacing_in": {
+      "min": 180,
+      "max": 360
+    },
+    "height_in": {
+      "min": 240,
+      "max": 600
+    },
+    "spread_in": {
+      "min": 180,
+      "max": 300
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in moist to well-drained, slightly acidic to neutral soil in full sun — java plum (jamun) is a large, stately tropical evergreen tree native to South Asia and one of the most culturally and medicinally important fruits in Indian and Southeast Asian tradition. The oblong, purple-to-black fruits (resembling large blueberries in color but with a distinctive tart-astringent flavor with sweet notes) ripen in summer, staining the tongue and lips a distinctive purple. The fruits are eaten fresh, made into sherbet and juice, and fermented into wine and vinegar. Medicinally, the seeds are extensively studied for blood sugar-regulating compounds and are used in traditional Ayurvedic management of diabetes. The tree grows rapidly, is drought-tolerant once established, and produces an impressive ornamental form with smooth, mottled gray-white bark and glossy foliage. An outstanding shade, ornamental, and fruit tree for zone 9–12 gardens.",
+    "sources": [
+      "University of Florida IFAS Extension",
+      "Purdue University NewCROP",
+      "Morton, 'Fruits of Warm Climates'"
+    ]
+  }
+]

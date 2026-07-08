@@ -1,0 +1,276 @@
+[
+  {
+    "slug": "yellow-corydalis",
+    "common_name": "Yellow Corydalis",
+    "scientific_name": "Corydalis lutea",
+    "category": "flower",
+    "subcategory": "shade perennial",
+    "days_to_germination": {
+      "min": 14,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 40,
+      "max": 55
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 90
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": 0
+      },
+      "note": "Direct sow in fall for natural cold stratification, or cold-stratify seed in the refrigerator for 4–6 weeks before spring sowing; once established the plant self-sows prolifically."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 8
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 12,
+      "max": 15
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 18
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Sow seed in fall in well-drained, gritty soil in partial shade; yellow corydalis is a European native that has naturalized in North American gardens and thrives in wall crevices, shaded rock gardens, and the base of stone steps where drainage is perfect. Once established it self-sows freely and colonizes shaded hard-to-plant areas, blooming with small tubular yellow flowers nearly continuously from spring through fall in cool climates. The finely divided, gray-green foliage is attractive even out of bloom. Remove unwanted seedlings while small; established plants have taproots that resist transplanting.",
+    "sources": [
+      "Royal Horticultural Society",
+      "Missouri Botanical Garden Plant Finder"
+    ]
+  },
+  {
+    "slug": "zigzag-goldenrod",
+    "common_name": "Zigzag Goldenrod (Bluestem Goldenrod)",
+    "scientific_name": "Solidago flexicaulis",
+    "category": "flower",
+    "subcategory": "shade-tolerant native perennial",
+    "days_to_germination": {
+      "min": 14,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 90
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -2,
+        "max": 2
+      },
+      "note": "Surface sow or plant divisions in spring; this is the only goldenrod species that thrives in shade and can be naturalized under trees where sun-loving goldenrods fail."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 8
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 24,
+      "max": 36
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 18
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Surface sow or plant divisions in moist, humus-rich, slightly acidic soil in partial to full shade; unique among the goldenrods, this species naturally grows in the understory of deciduous eastern forests and tolerates deep shade that would kill other goldenrods. The common name refers to the distinctly zigzagging (flexicaulis) stem. Yellow flower clusters bloom in late summer to fall, providing late-season nectar in shaded areas where other late bloomers are absent. Spreads moderately by rhizome to form colonies but is far less aggressive than sun-loving goldenrods. Divide clumps in spring every 3–4 years.",
+    "sources": [
+      "USDA PLANTS Database",
+      "Prairie Nursery",
+      "Illinois Wildflowers"
+    ]
+  },
+  {
+    "slug": "rosy-sedge",
+    "common_name": "Rosy Sedge (Star Sedge)",
+    "scientific_name": "Carex rosea",
+    "category": "flower",
+    "subcategory": "shade groundcover",
+    "days_to_germination": {
+      "min": 21,
+      "max": 45
+    },
+    "germination_soil_temp_f": {
+      "min": 55,
+      "max": 65
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 90
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant divisions or plugs in early spring, spacing at 8–12 inches for coverage within 2 years; tolerates very dry shade once established."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 8
+    },
+    "spacing_in": {
+      "min": 8,
+      "max": 12
+    },
+    "height_in": {
+      "min": 12,
+      "max": 18
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 18
+    },
+    "sun": "shade",
+    "water": "low",
+    "directions": "Plant divisions in well-drained, slightly acidic to neutral soil in partial to full shade; rosy sedge is one of the finest native groundcovers for dry shade under mature deciduous trees, where it forms dense tufts of arching, fine-textured, glossy green foliage. It is not a spreader in the invasive sense — each clump slowly expands but does not colonize aggressively — making it well-suited to a refined shade garden. The plant tolerates drought better than Pennsylvania sedge (C. pensylvanica) and handles the dense root competition of established trees. Self-sows lightly once established to fill gaps over time.",
+    "sources": [
+      "USDA PLANTS Database",
+      "Prairie Nursery",
+      "Cornell Cooperative Extension"
+    ]
+  },
+  {
+    "slug": "tamarillo",
+    "common_name": "Tamarillo (Tree Tomato)",
+    "scientific_name": "Solanum betaceum",
+    "category": "fruit",
+    "subcategory": "subtropical fruit tree",
+    "days_to_germination": {
+      "min": 14,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 80
+    },
+    "days_to_maturity": {
+      "min": 540,
+      "max": 730
+    },
+    "maturity_from": "seed",
+    "sow_method": "indoor-start",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -6
+      },
+      "note": "Start seeds indoors 6–8 weeks before last frost in warm, moist conditions; transplant outdoors after soil warms to 65°F in a sheltered spot with afternoon shade."
+    },
+    "usda_zones": {
+      "min": 9,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 60,
+      "max": 96
+    },
+    "height_in": {
+      "min": 60,
+      "max": 120
+    },
+    "spread_in": {
+      "min": 48,
+      "max": 84
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Start seeds in warm, moist potting mix at 75–80°F and transplant to fertile, well-drained soil in a site sheltered from cold wind and afternoon heat; tamarillos are frost-sensitive but also dislike sustained temperatures above 90°F, thriving best in cool subtropical climates such as coastal California, highland tropics, or mild maritime zone 10. The smooth-skinned red or yellow egg-shaped fruits ripen 18 months from seed and have a rich, complex flavor — tangy and tomato-like — excellent in salsa, chutneys, smoothies, and cooked dishes. Shallow roots make the tree drought-sensitive; water deeply but infrequently. Prune after harvest to maintain a manageable 6–8 foot height.",
+    "sources": [
+      "University of California Cooperative Extension",
+      "California Rare Fruit Growers",
+      "New Zealand Institute for Plant and Food Research"
+    ]
+  },
+  {
+    "slug": "dutchmans-breeches",
+    "common_name": "Dutchman's Breeches",
+    "scientific_name": "Dicentra cucullaria",
+    "category": "flower",
+    "subcategory": "woodland wildflower",
+    "days_to_germination": {
+      "min": 14,
+      "max": 30
+    },
+    "germination_soil_temp_f": {
+      "min": 40,
+      "max": 55
+    },
+    "days_to_maturity": {
+      "min": 30,
+      "max": 60
+    },
+    "maturity_from": "transplant",
+    "sow_method": "tuber",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -4
+      },
+      "note": "Plant small, grain-like tubers 1–2 inches deep in fall in groups of at least 12 for effect; they naturally self-sow after flowering to build colonies over several years."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 7
+    },
+    "spacing_in": {
+      "min": 4,
+      "max": 8
+    },
+    "height_in": {
+      "min": 6,
+      "max": 12
+    },
+    "spread_in": {
+      "min": 6,
+      "max": 10
+    },
+    "sun": "shade",
+    "water": "moderate",
+    "directions": "Plant tiny tubers shallowly in humus-rich, moist, well-drained soil in full to dappled shade under deciduous trees; this charming spring ephemeral blooms for only 2–3 weeks in early April with distinctive white pantaloon-shaped flowers dangling from arching stems above ferny blue-green foliage. The plant then goes completely dormant by late spring, disappearing entirely until the following year. Plant in large drifts of at least 25–50 tubers for a meaningful display, and interplant with hostas, ferns, or native gingers to fill the void after dormancy. The entire plant is toxic; do not confuse with edible plants. Plants self-sow slowly to build colonies over many years.",
+    "sources": [
+      "USDA PLANTS Database",
+      "Lady Bird Johnson Wildflower Center",
+      "American Horticultural Society"
+    ]
+  }
+]

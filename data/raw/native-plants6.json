@@ -1,0 +1,277 @@
+[
+  {
+    "slug": "twinleaf",
+    "common_name": "Twinleaf",
+    "scientific_name": "Jeffersonia diphylla",
+    "category": "flower",
+    "subcategory": "woodland wildflower",
+    "days_to_germination": {
+      "min": 30,
+      "max": 60
+    },
+    "germination_soil_temp_f": {
+      "min": 40,
+      "max": 55
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 90
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant divisions or purchased plants in early spring in humus-rich woodland soil; purchase only from nursery-propagated sources as this plant is slow to propagate and protected in many states."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 8
+    },
+    "spacing_in": {
+      "min": 8,
+      "max": 12
+    },
+    "height_in": {
+      "min": 8,
+      "max": 12
+    },
+    "spread_in": {
+      "min": 8,
+      "max": 12
+    },
+    "sun": "shade",
+    "water": "moderate",
+    "directions": "Plant in moist, humus-rich, slightly alkaline woodland soil in full to partial shade; this rare, choice native woodland plant is named for Thomas Jefferson and named for its unique paired leaf halves that look like butterfly wings emerging from a single petiole. The pure white flowers appear briefly in early spring before the leaves expand, lasting only a few days before petals fall, and should be watched closely to catch them at their peak. The plant produces remarkable urn-shaped seed capsules with a hinged lid that opens to release seeds — one of the most distinctive seed vessels in North American flora. Extremely slow from seed, requiring 3–5 years to bloom; purchase propagated divisions from reputable nurseries.",
+    "sources": [
+      "USDA PLANTS Database",
+      "Lady Bird Johnson Wildflower Center",
+      "American Horticultural Society"
+    ]
+  },
+  {
+    "slug": "flame-azalea",
+    "common_name": "Flame Azalea",
+    "scientific_name": "Rhododendron calendulaceum",
+    "category": "flower",
+    "subcategory": "native deciduous shrub",
+    "days_to_germination": {
+      "min": 14,
+      "max": 28
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 365,
+      "max": 730
+    },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant container-grown shrubs in spring in moist, acidic, humus-rich soil in dappled shade; does not tolerate transplanting well once established — site carefully."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 8
+    },
+    "spacing_in": {
+      "min": 60,
+      "max": 84
+    },
+    "height_in": {
+      "min": 60,
+      "max": 120
+    },
+    "spread_in": {
+      "min": 60,
+      "max": 96
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Plant in moist, deeply acidic (pH 4.5–5.5), humus-rich, well-drained soil in partial shade from taller deciduous trees; flame azalea is the most spectacular of the native deciduous azaleas, producing brilliant orange, red, and yellow flowers (often in multiple hues on the same plant) in late spring that blaze against the emerging green foliage at the peak of the Appalachian wildflower season. The flower display can range from pale yellow to deep orange-red depending on the individual plant's genetics — purchase in bloom to get the color you want. Plant with the crown above soil level and mulch lightly with pine bark or oak leaves to maintain acidity. Prune only lightly after bloom to shape.",
+    "sources": [
+      "USDA PLANTS Database",
+      "North Carolina State Extension",
+      "Lady Bird Johnson Wildflower Center"
+    ]
+  },
+  {
+    "slug": "wild-senna",
+    "common_name": "Wild Senna",
+    "scientific_name": "Senna marilandica",
+    "category": "flower",
+    "subcategory": "native perennial legume",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 90
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 2
+      },
+      "note": "Scarify seeds by nicking or soaking in hot water for 24 hours before sowing after last frost; can also be started indoors 4 weeks earlier for transplanting."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 24,
+      "max": 36
+    },
+    "height_in": {
+      "min": 36,
+      "max": 60
+    },
+    "spread_in": {
+      "min": 24,
+      "max": 36
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Scarify and direct sow in fertile to average, moist to well-drained soil in full sun; wild senna is a bold-textured native perennial with large, compound leaves and bright yellow flowers in midsummer that are structurally perfect for specialist bumblebee species that sonicate (buzz-pollinate) the flowers to release pollen. It is also the larval host plant for cloudless sulphur and sleepy orange butterflies. The persistent seed pods provide food for birds through winter. Cut back to the ground in late fall or early spring; the plant regrows vigorously from the crown each year. Develops a substantial taproot and is difficult to transplant once established; select your site carefully.",
+    "sources": [
+      "USDA PLANTS Database",
+      "Xerces Society for Invertebrate Conservation",
+      "Lady Bird Johnson Wildflower Center"
+    ]
+  },
+  {
+    "slug": "white-turtlehead",
+    "common_name": "White Turtlehead",
+    "scientific_name": "Chelone glabra",
+    "category": "flower",
+    "subcategory": "native wetland perennial",
+    "days_to_germination": {
+      "min": 14,
+      "max": 28
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 90
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant divisions in consistently moist to wet soil in partial shade; this plant requires reliable moisture throughout the growing season and will not tolerate drought."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 24,
+      "max": 36
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "partial",
+    "water": "high",
+    "directions": "Plant in consistently moist to wet, fertile, slightly acidic soil in partial shade to full sun; white turtlehead grows naturally in stream banks, wet meadows, and swamp margins across eastern North America. The inflated, snapdragon-like white (sometimes flushed pink) flowers appear in late summer to fall, providing late-season nectar for bumblebees that are heavy enough to force their way inside the closed flower mouth. It is also the primary larval host plant for the Baltimore checkerspot butterfly, a declining species that depends specifically on this plant. The plant spreads slowly by rhizome. Deadhead spent flowers to encourage additional blooming.",
+    "sources": [
+      "USDA PLANTS Database",
+      "Lady Bird Johnson Wildflower Center",
+      "Xerces Society for Invertebrate Conservation"
+    ]
+  },
+  {
+    "slug": "prairie-phlox",
+    "common_name": "Prairie Phlox (Downy Phlox)",
+    "scientific_name": "Phlox pilosa",
+    "category": "flower",
+    "subcategory": "native perennial",
+    "days_to_germination": {
+      "min": 14,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 90
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -2,
+        "max": 2
+      },
+      "note": "Direct sow in spring after cold stratification for 30 days, or sow in fall for natural stratification; plants may rebloom in fall in cool climates."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 12,
+      "max": 18
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 18
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Direct sow cold-stratified seed in early spring in lean, well-drained, sandy to gravelly soil in full sun; prairie phlox is more drought tolerant and heat tolerant than the commonly planted P. divaricata and grows in dry prairie soils and open woodland edges across the eastern US. The fragrant pink to lavender flower clusters bloom in late spring and attract swallowtail butterflies and native bee species. The downy (pilosa) stems give the plant a soft texture throughout the season. Shear back by one-half after bloom to prevent disease and encourage fresh growth; plants in rich soil or shade are more susceptible to powdery mildew. Excellent combined with native grasses in a dry meadow or prairie planting.",
+    "sources": [
+      "USDA PLANTS Database",
+      "Prairie Nursery",
+      "Lady Bird Johnson Wildflower Center"
+    ]
+  }
+]

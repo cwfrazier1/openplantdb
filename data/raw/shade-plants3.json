@@ -1,0 +1,277 @@
+[
+  {
+    "slug": "hackberry",
+    "common_name": "Hackberry (Common Hackberry)",
+    "scientific_name": "Celtis occidentalis",
+    "category": "fruit",
+    "subcategory": "native fruiting tree",
+    "days_to_germination": {
+      "min": 60,
+      "max": 90
+    },
+    "germination_soil_temp_f": {
+      "min": 40,
+      "max": 55
+    },
+    "days_to_maturity": {
+      "min": 1825,
+      "max": 2920
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant bare-root or container trees in early spring; one of the most adaptable native trees, tolerating compacted soil, air pollution, and urban conditions where other trees fail."
+    },
+    "usda_zones": {
+      "min": 2,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 240,
+      "max": 360
+    },
+    "height_in": {
+      "min": 180,
+      "max": 600
+    },
+    "spread_in": {
+      "min": 180,
+      "max": 480
+    },
+    "sun": "partial",
+    "water": "low",
+    "directions": "Plant in well-drained to moist soil in full sun to partial shade; hackberry is among the most adaptable native trees, thriving in urban heat, clay soils, drought, flooding, and alkaline conditions that defeat many other species. The small dark-purple berries that ripen in September–October have a sweet, date-like flavor and are edible directly from the tree; the thin skin is nutritious and the sweet pulp surrounds a hard seed. The berries are a critical fall food source for over 50 bird species, including cedar waxwings, robins, bluebirds, and many migrating warblers. The distinctive corky bark warty growths are a natural feature, not a disease. Excellent choice for difficult urban sites or as a wildlife anchor tree.",
+    "sources": [
+      "USDA PLANTS Database",
+      "Lady Bird Johnson Wildflower Center",
+      "National Wildlife Federation"
+    ]
+  },
+  {
+    "slug": "fire-pink",
+    "common_name": "Fire Pink",
+    "scientific_name": "Silene virginica",
+    "category": "flower",
+    "subcategory": "native perennial",
+    "days_to_germination": {
+      "min": 14,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 90
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": -2
+      },
+      "note": "Direct sow in early spring in a sheltered, partly shaded spot; cold stratification for 30 days improves germination. Division of crowns in fall provides faster establishment."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 8
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 12,
+      "max": 24
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 18
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Plant in well-drained, rocky to loamy, slightly acidic soil in partial shade; fire pink naturally grows on rocky woodland slopes and bluffs, where its brilliant scarlet flowers from spring through early summer are among the most vivid colors in the eastern woodland garden. The tubular, five-petaled flowers are perfectly shaped for ruby-throated hummingbirds and are a critical food source for hummingbirds moving through the mid-Atlantic states in spring. This plant is short-lived (3–4 years) but self-sows reliably to maintain a colony. Unlike most Silene, it performs best with afternoon shade rather than full sun. Combine with wild columbine and native ferns for a stunning spring vignette.",
+    "sources": [
+      "USDA PLANTS Database",
+      "Lady Bird Johnson Wildflower Center",
+      "North Carolina State Extension"
+    ]
+  },
+  {
+    "slug": "hepatica",
+    "common_name": "Hepatica (Round-Lobed Hepatica)",
+    "scientific_name": "Hepatica nobilis",
+    "category": "flower",
+    "subcategory": "woodland wildflower",
+    "days_to_germination": {
+      "min": 30,
+      "max": 60
+    },
+    "germination_soil_temp_f": {
+      "min": 40,
+      "max": 55
+    },
+    "days_to_maturity": {
+      "min": 365,
+      "max": 730
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant divisions or nursery-grown plants in early spring in humus-rich, slightly alkaline soil; purchase only nursery-propagated plants as wild collection is unsustainable and transplants rarely survive."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 8
+    },
+    "spacing_in": {
+      "min": 6,
+      "max": 10
+    },
+    "height_in": {
+      "min": 4,
+      "max": 8
+    },
+    "spread_in": {
+      "min": 6,
+      "max": 10
+    },
+    "sun": "shade",
+    "water": "moderate",
+    "directions": "Plant in humus-rich, well-drained, slightly alkaline soil (unlike most woodland plants, hepatica prefers near-neutral to mildly basic soil from calcareous bedrock) in full to dappled shade. One of the earliest spring wildflowers in eastern North America, the cup-shaped flowers in shades of white, pink, and lavender open in late February–March before any leaves appear, emerging through snow on fuzzy, insulating stems. The leathery, three-lobed leaves that develop after flowering persist through winter and often have beautiful mottled markings. Extremely slow-growing from seed (3–5 years to bloom); purchase only from ethical native plant nurseries. May live for decades undisturbed.",
+    "sources": [
+      "USDA PLANTS Database",
+      "Royal Horticultural Society",
+      "North American Rock Garden Society"
+    ]
+  },
+  {
+    "slug": "bluet",
+    "common_name": "Bluet (Quaker Ladies)",
+    "scientific_name": "Houstonia caerulea",
+    "category": "flower",
+    "subcategory": "native groundcover",
+    "days_to_germination": {
+      "min": 14,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 90
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -2,
+        "max": 2
+      },
+      "note": "Surface sow (light required for germination) in moist, slightly acidic soil; the plant self-sows to naturalize in moss gardens, lawn alternatives, and moist, shaded rock gardens."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 8
+    },
+    "spacing_in": {
+      "min": 4,
+      "max": 8
+    },
+    "height_in": {
+      "min": 3,
+      "max": 6
+    },
+    "spread_in": {
+      "min": 4,
+      "max": 8
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Scatter seed on moist, acidic soil in partial shade in early spring; this diminutive native wildflower carpets lawns, mossy banks, and lightly shaded meadows with pale blue four-petaled flowers in spring, creating an effect like scattered stars across a green sky. It naturally grows in thin, slightly moist, acidic soil of lawns and forest edges and is a wonderful component of a native lawn alternative. Allow it to go to seed after flowering to maintain the colony. The plant tolerates light foot traffic and can naturalize into an existing lawn if mowing is delayed until it sets seed in late spring. Does not perform well in heavy clay or alkaline soil.",
+    "sources": [
+      "USDA PLANTS Database",
+      "Lady Bird Johnson Wildflower Center",
+      "University of Vermont Extension"
+    ]
+  },
+  {
+    "slug": "squirrel-corn",
+    "common_name": "Squirrel Corn",
+    "scientific_name": "Dicentra canadensis",
+    "category": "flower",
+    "subcategory": "woodland wildflower",
+    "days_to_germination": {
+      "min": 30,
+      "max": 60
+    },
+    "germination_soil_temp_f": {
+      "min": 40,
+      "max": 55
+    },
+    "days_to_maturity": {
+      "min": 30,
+      "max": 60
+    },
+    "maturity_from": "transplant",
+    "sow_method": "tuber",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -4
+      },
+      "note": "Plant pea-sized yellow tubers (which resemble corn kernels, giving the plant its name) 1–2 inches deep in fall in groups for a natural display; interplant with hostas or ferns."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 7
+    },
+    "spacing_in": {
+      "min": 4,
+      "max": 8
+    },
+    "height_in": {
+      "min": 6,
+      "max": 12
+    },
+    "spread_in": {
+      "min": 6,
+      "max": 10
+    },
+    "sun": "shade",
+    "water": "moderate",
+    "directions": "Plant the small, yellow, corn-kernel-like tubers 1–2 inches deep in humus-rich, moist, well-drained soil in full to partial shade; squirrel corn is a spring ephemeral closely related to Dutchman's breeches (D. cucullaria) but with rounded, heart-shaped flowers instead of pantaloon-shaped ones, and it has a hyacinth-like fragrance that D. cucullaria lacks. The finely dissected gray-green foliage and delicate white flowers appear in March–April then disappear completely by early June. The plant produces its namesake yellow tubers rather than the white grain-like tubers of its close relative. Entirely toxic — do not confuse with any edible plant. Forms small colonies over time as tubers multiply.",
+    "sources": [
+      "USDA PLANTS Database",
+      "Lady Bird Johnson Wildflower Center",
+      "University of Wisconsin Extension"
+    ]
+  }
+]

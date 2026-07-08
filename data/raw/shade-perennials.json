@@ -1,0 +1,262 @@
+[
+  {
+    "slug": "jacobs-ladder",
+    "common_name": "Jacob's Ladder",
+    "scientific_name": "Polemonium caeruleum",
+    "category": "flower",
+    "subcategory": "shade perennial",
+    "days_to_germination": {
+      "min": 14,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 90,
+      "max": 120
+    },
+    "maturity_from": "seed",
+    "sow_method": "indoor-start",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -6
+      },
+      "note": "Start indoors 6–8 weeks before last frost; can also direct sow in fall for spring germination after natural cold stratification."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 7
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 18,
+      "max": 36
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 18
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Plant in cool, consistently moist, humus-rich soil in partial shade; Jacob's ladder performs best in climates with cool summers and struggles where heat and humidity persist into July. The delicate, ladder-like pinnate foliage is attractive throughout the growing season, and the blue to violet flower clusters appear in late spring. Deadhead spent flower stalks to encourage reblooming and prevent excessive self-seeding. In warmer portions of its range, afternoon shade is essential; the plant naturally occurs in mountain meadows and woodland edges where temperatures remain moderate.",
+    "sources": [
+      "Missouri Botanical Garden Plant Finder",
+      "University of Vermont Extension"
+    ]
+  },
+  {
+    "slug": "liriope",
+    "common_name": "Lilyturf (Liriope)",
+    "scientific_name": "Liriope muscari",
+    "category": "flower",
+    "subcategory": "shade groundcover",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 60,
+      "max": 90
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 6
+      },
+      "note": "Plant divisions or container plants in spring or early fall; plants establish quickly and begin spreading within the first growing season."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 12,
+      "max": 18
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 18
+    },
+    "sun": "shade",
+    "water": "low",
+    "directions": "Plant in almost any well-drained soil, from deep shade under dense evergreens to full sun, though the darkest green foliage color develops in partial shade. This evergreen, clump-forming groundcover produces spikes of violet flowers in late summer followed by black berries that persist through winter; it is one of the most reliable plants for covering problem areas under trees where lawn grasses fail. Shear or mow plants to 3–4 inches in late winter before new growth begins to remove tattered winter foliage. Divide congested clumps every 4–5 years to maintain vigor; divisions establish quickly and can be replanted immediately.",
+    "sources": [
+      "Clemson Cooperative Extension",
+      "University of Georgia Extension",
+      "Missouri Botanical Garden Plant Finder"
+    ]
+  },
+  {
+    "slug": "japanese-forest-grass",
+    "common_name": "Japanese Forest Grass",
+    "scientific_name": "Hakonechloa macra",
+    "category": "flower",
+    "subcategory": "ornamental grass",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 60,
+      "max": 90
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant divisions in spring as new growth begins; avoid late summer or fall division in colder zones, as plants need a full growing season to establish."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 12,
+      "max": 18
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Plant in moist, humus-rich, well-drained soil in partial to full shade; this slow-growing Japanese native produces cascading mounds of arching, bamboo-like foliage that moves gracefully in the breeze. The golden-variegated cultivar 'Aureola' is the most commonly grown and lights up dark corners of the shade garden. Cut back to the ground in late winter before new growth emerges. Growth is slow for the first two years; resist the urge to overcrowd, as mature clumps need their full spacing to show the characteristic cascading habit to best effect. Divide in early spring every 4–5 years.",
+    "sources": [
+      "Missouri Botanical Garden Plant Finder",
+      "Fine Gardening Magazine"
+    ]
+  },
+  {
+    "slug": "bergenia",
+    "common_name": "Bergenia (Pigsqueak)",
+    "scientific_name": "Bergenia cordifolia",
+    "category": "flower",
+    "subcategory": "shade perennial",
+    "days_to_germination": {
+      "min": 14,
+      "max": 28
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 90
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant rhizome divisions in spring, just below soil level, with leaves pointing upright; in warm climates fall planting is equally successful."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 8
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 12,
+      "max": 18
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Plant in well-drained, humus-rich soil in partial shade to full shade; the large, leathery, glossy leaves — which turn attractive shades of red and bronze in winter where temperatures drop below freezing — earn this plant a spot as one of the best evergreen shade groundcovers. The clusters of pink or magenta flowers appear in early spring on stout red stems, often before the last frost. Remove tattered older leaves by pulling them sharply downward to snap them free from the rhizome. Divide crowded plants every 4–5 years in spring by cutting through the woody, surface-creeping rhizomes.",
+    "sources": [
+      "Missouri Botanical Garden Plant Finder",
+      "University of Minnesota Extension"
+    ]
+  },
+  {
+    "slug": "virginia-waterleaf",
+    "common_name": "Virginia Waterleaf",
+    "scientific_name": "Hydrophyllum virginianum",
+    "category": "vegetable",
+    "subcategory": "native woodland green",
+    "days_to_germination": {
+      "min": 21,
+      "max": 45
+    },
+    "germination_soil_temp_f": {
+      "min": 40,
+      "max": 55
+    },
+    "days_to_maturity": {
+      "min": 30,
+      "max": 60
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": 0
+      },
+      "note": "Direct sow in fall so seeds receive natural cold stratification over winter; spring germination will occur when soil warms. Alternatively, cold-stratify seed in the refrigerator for 60–90 days before spring sowing."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 8
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 12,
+      "max": 24
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 18
+    },
+    "sun": "shade",
+    "water": "moderate",
+    "directions": "Sow seeds in fall directly in moist, humus-rich, slightly acidic soil in deep to partial shade; this native eastern woodland plant is one of the few vegetables that genuinely thrives in full shade. The deeply lobed young leaves and stem tips that emerge in early spring have a mild, pleasant flavor and were an important spring green for many Indigenous peoples and early settlers. Harvest only young growth before the plant begins to flower, as older leaves become coarser. The plant spreads by rhizome to form colonies and self-sows readily, making it a productive and low-maintenance component of an edible shade garden. Goes dormant in summer heat.",
+    "sources": [
+      "USDA PLANTS Database",
+      "Wild Food Adventures",
+      "Lady Bird Johnson Wildflower Center"
+    ]
+  }
+]

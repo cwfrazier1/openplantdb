@@ -1,0 +1,277 @@
+[
+  {
+    "slug": "wild-blue-phlox",
+    "common_name": "Wild Blue Phlox (Woodland Phlox)",
+    "scientific_name": "Phlox divaricata",
+    "category": "flower",
+    "subcategory": "native woodland perennial",
+    "days_to_germination": {
+      "min": 21,
+      "max": 30
+    },
+    "germination_soil_temp_f": {
+      "min": 55,
+      "max": 65
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 90
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant rooted stem cuttings or divisions in spring in moist, humus-rich soil; division of established mats in fall is also successful."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 10,
+      "max": 15
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 18
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Plant in humus-rich, slightly moist, well-drained soil in partial to light shade; this native phlox carpets the eastern woodland floor in pale lavender-blue in mid-spring, flowering before the tree canopy closes overhead and providing early nectar for bumblebee queens and phlox moths. After bloom, the stems sprawl and root at the nodes to spread the colony gradually, forming a semi-evergreen groundcover. Shear lightly after flowering to encourage denser growth and possible rebloom in fall. Do not confuse with creeping phlox (P. subulata), which needs full sun — this species will fail in those conditions.",
+    "sources": [
+      "USDA PLANTS Database",
+      "Lady Bird Johnson Wildflower Center",
+      "North Carolina State Extension"
+    ]
+  },
+  {
+    "slug": "wild-geranium",
+    "common_name": "Wild Geranium (Spotted Cranesbill)",
+    "scientific_name": "Geranium maculatum",
+    "category": "flower",
+    "subcategory": "native woodland perennial",
+    "days_to_germination": {
+      "min": 21,
+      "max": 30
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 90
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": -2
+      },
+      "note": "Direct sow in early spring in a shaded bed, barely covering seed; cold stratification for 60 days improves germination. Division of established crowns in early spring is faster."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 8
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 12,
+      "max": 24
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 18
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Plant in moist, humus-rich, slightly acidic to neutral soil in partial to full shade; this native of eastern woodland edges blooms in mid-spring with lavender-pink five-petaled flowers, then develops distinctive long-beaked seed capsules that fling seeds explosively when ripe. The deeply cut, hand-shaped foliage often turns attractive shades of red and orange in fall before dying back. The root has medicinal tannins and has been used historically as an astringent. Divide established clumps every 4–5 years in early spring to maintain vigor; transplants establish readily and begin blooming in their first or second year.",
+    "sources": [
+      "USDA PLANTS Database",
+      "Missouri Botanical Garden Plant Finder",
+      "Lady Bird Johnson Wildflower Center"
+    ]
+  },
+  {
+    "slug": "golden-groundsel",
+    "common_name": "Golden Groundsel (Packera)",
+    "scientific_name": "Packera aurea",
+    "category": "flower",
+    "subcategory": "shade groundcover",
+    "days_to_germination": {
+      "min": 14,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 90
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant divisions or plugs in early spring in moist, shaded areas; spreads by stolons and self-sows to form dense colonies in favorable conditions."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 8
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 12,
+      "max": 24
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "shade",
+    "water": "moderate",
+    "directions": "Plant in moist to wet, fertile, slightly acidic soil in full shade to partial sun; golden groundsel is one of the few native plants that blooms brilliantly in deep shade, producing bright yellow daisy-like flowers in early spring that provide critical early pollen for native mining bees. The semi-evergreen, kidney-shaped basal leaves form an attractive groundcover year-round. It spreads aggressively in moist shade by stolons and self-seeding — excellent for naturalizing a problem wet-shade area but may need management in a manicured garden. Plants in dry shade will grow more slowly and remain smaller. Combine with wild blue phlox and Virginia bluebells for a spring shade spectacle.",
+    "sources": [
+      "USDA PLANTS Database",
+      "Lady Bird Johnson Wildflower Center",
+      "Prairie Nursery"
+    ]
+  },
+  {
+    "slug": "tufted-hair-grass",
+    "common_name": "Tufted Hair Grass",
+    "scientific_name": "Deschampsia cespitosa",
+    "category": "flower",
+    "subcategory": "ornamental grass",
+    "days_to_germination": {
+      "min": 14,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 90
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant divisions in spring or early fall; this cool-season grass is best divided after it finishes its main growth flush in late spring."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 24,
+      "max": 36
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Plant in moist, humus-rich, slightly acidic soil in partial shade; unlike most ornamental grasses that demand full sun, tufted hair grass performs beautifully in partial shade and is one of the best cool-season grasses for lightly shaded woodland garden borders. The fine-textured, arching clumps of deep-green foliage are attractive through the growing season, and the airy, golden-bronze flower panicles that appear in midsummer shimmer and move in the slightest breeze. Cut the clump back to 4–6 inches in late winter before new growth begins. This grass thrives in cool, moist conditions and may go partially summer-dormant in hot, humid climates.",
+    "sources": [
+      "Missouri Botanical Garden Plant Finder",
+      "Royal Horticultural Society",
+      "Fine Gardening Magazine"
+    ]
+  },
+  {
+    "slug": "golden-alexander",
+    "common_name": "Golden Alexander (Yellow Pimpernel)",
+    "scientific_name": "Zizia aurea",
+    "category": "flower",
+    "subcategory": "native perennial",
+    "days_to_germination": {
+      "min": 14,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 40,
+      "max": 55
+    },
+    "days_to_maturity": {
+      "min": 365,
+      "max": 730
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": 0
+      },
+      "note": "Direct sow in fall for natural cold stratification; seed requires 60–90 days of cold, moist conditions before spring germination. Division of established clumps in spring provides faster establishment."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 8
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 18,
+      "max": 30
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Sow cold-stratified seed in fall or early spring in moist, average to rich, slightly acidic soil in full sun to partial shade; this early-blooming native carrot-family plant produces flat-topped clusters of small yellow flowers in April–May, making it one of the earliest sources of pollen for native bees, beetles, and flies at a time when little else is blooming. It is also an important early host plant for black swallowtail butterflies, whose caterpillars feed on the ferny foliage. The plants are short-lived but self-sow reliably in suitable conditions. Excellent at the front of the native plant border or naturalized in a moist meadow.",
+    "sources": [
+      "USDA PLANTS Database",
+      "Prairie Nursery",
+      "Lady Bird Johnson Wildflower Center"
+    ]
+  }
+]
