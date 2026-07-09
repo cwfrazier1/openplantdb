@@ -1,0 +1,424 @@
+[
+  {
+    "slug": "holy-basil",
+    "common_name": "Holy Basil (Tulsi)",
+    "scientific_name": "Ocimum tenuiflorum",
+    "category": "herb",
+    "subcategory": "tropical culinary herb",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 80
+    },
+    "days_to_maturity": {
+      "min": 55,
+      "max": 75
+    },
+    "maturity_from": "seed",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -6,
+        "max": -4
+      },
+      "note": "Start indoors 4–6 weeks before last frost and transplant after soil has warmed to at least 65°F; or direct sow on the soil surface after last frost when soil is warm. Seed needs light to germinate — do not cover."
+    },
+    "usda_zones": {
+      "min": 10,
+      "max": 12
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 18,
+      "max": 24
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 18
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in rich, well-drained soil in full sun after all frost danger has passed; holy basil (tulsi) is the sacred herb of Hindu worship and traditional Ayurvedic medicine, with an intensely spicy, clove-and-pepper scented flavor distinctly different from sweet Italian basil. The purple-stemmed Kapoor and Krishna varieties are most fragrant; the green-stemmed Vana type has a stronger, more medicinal flavor. Holy basil makes excellent Thai cooking, fresh teas, and pesto, and is reputed to have adaptogenic properties. Grow exactly as sweet basil — pinch flowers early and often to extend the harvest. In zones 10–12 it grows as a short-lived perennial; everywhere else it is grown as an annual. Seed is produced prolifically if a few flower stalks are allowed to mature.",
+    "sources": [
+      "University of Florida IFAS Extension",
+      "Missouri Botanical Garden Plant Finder",
+      "University of Maryland Extension Herb Garden"
+    ]
+  },
+  {
+    "slug": "perilla",
+    "common_name": "Perilla (Shiso)",
+    "scientific_name": "Perilla frutescens",
+    "category": "herb",
+    "subcategory": "culinary herb",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 80
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 2
+      },
+      "note": "Direct sow on the soil surface after last frost when soil is warm; shiso seed requires light to germinate — do not cover. Cold-stratification improves germination rate: chill seed at 40°F for 2 weeks before sowing."
+    },
+    "usda_zones": {
+      "min": 2,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 18,
+      "max": 36
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 18
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Surface sow on moist soil in full sun to partial shade after last frost; perilla (shiso) is the essential Japanese herb with large, ruffled leaves in green or deep purple-red that have a distinctive flavor combining cinnamon, anise, cloves, and mint — unique in the herbal palette. Green shiso (ao-jiso) wraps sushi, flavors salads, and garnishes sashimi; red/purple shiso (aka-jiso) colors umeboshi pickled plums and makes the vivid magenta shiso juice (yukari). Both forms are ornamentally striking, especially the 'Britton' frilly-leafed type. Plants self-seed extremely prolifically — thin seedlings carefully and pull unwanted volunteers before they go to seed, as it can naturalize aggressively in favorable climates.",
+    "sources": [
+      "University of Wisconsin Extension",
+      "Missouri Botanical Garden Plant Finder",
+      "Cornell Cooperative Extension"
+    ]
+  },
+  {
+    "slug": "kaffir-lime",
+    "common_name": "Kaffir Lime (Makrut Lime)",
+    "scientific_name": "Citrus hystrix",
+    "category": "herb",
+    "subcategory": "tropical citrus herb",
+    "days_to_germination": {
+      "min": 14,
+      "max": 28
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 80
+    },
+    "days_to_maturity": {
+      "min": 1095,
+      "max": 1460
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 6
+      },
+      "note": "Plant container-grown trees in spring after frost danger passes in well-drained, slightly acidic soil; in zones 9–10 it can remain outdoors year-round. In zones 7–8 grow in containers and overwinter indoors above 50°F."
+    },
+    "usda_zones": {
+      "min": 9,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 72,
+      "max": 120
+    },
+    "height_in": {
+      "min": 48,
+      "max": 120
+    },
+    "spread_in": {
+      "min": 48,
+      "max": 84
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in well-drained, slightly acidic soil in full sun; makrut lime is grown primarily for its distinctive double-lobed leaves, which are the indispensable aromatic herb of Thai and Cambodian cooking, used in curries, soups, and stir-fries to impart an intensely floral, citrusy perfume that no other herb can substitute. The bumpy, knobbly green fruit has very little juice but extremely aromatic zest used in marinades and Thai curry pastes. Leaves can be harvested whenever new growth appears; young leaves have the strongest flavor. In containers (the most practical approach north of zone 9), use a quality potting mix, fertilize monthly with citrus fertilizer spring through fall, and overwinter indoors in a bright window above 50°F.",
+    "sources": [
+      "University of Florida IFAS Extension",
+      "California Rare Fruit Growers",
+      "Missouri Botanical Garden Plant Finder"
+    ]
+  },
+  {
+    "slug": "moringa",
+    "common_name": "Moringa (Drumstick Tree)",
+    "scientific_name": "Moringa oleifera",
+    "category": "vegetable",
+    "subcategory": "tropical edible tree",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 75,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 180,
+      "max": 365
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 6
+      },
+      "note": "Direct sow 2–3 seeds per location 1 inch deep in warm soil after last frost; moringa germinates quickly in warm soil and grows at an extraordinary rate. In frost-prone areas, start indoors 4 weeks before last frost."
+    },
+    "usda_zones": {
+      "min": 9,
+      "max": 12
+    },
+    "spacing_in": {
+      "min": 120,
+      "max": 240
+    },
+    "height_in": {
+      "min": 120,
+      "max": 360
+    },
+    "spread_in": {
+      "min": 96,
+      "max": 180
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant in any well-drained soil — even poor, sandy soil — in full sun; moringa is a fast-growing tropical tree widely called the 'miracle tree' for its extraordinary nutritional density. The feathery, pinnate leaves are harvested and eaten as a vegetable or dried into powder with protein content comparable to eggs and very high levels of iron, calcium, and vitamins A and C. Young seed pods ('drumsticks') are cooked and eaten like green beans in South Asian cuisine. In zone 9+, trees grow to 15–20 feet but are typically coppiced annually in late winter to keep leaves within reach. In zone 8, they die to the ground in frost but re-sprout from the roots in spring. Grows extraordinarily fast — often 10–15 feet in the first year from seed.",
+    "sources": [
+      "University of Florida IFAS Extension",
+      "USDA National Agricultural Library",
+      "Purdue University NewCROP"
+    ]
+  },
+  {
+    "slug": "chaya",
+    "common_name": "Chaya (Tree Spinach)",
+    "scientific_name": "Cnidoscolus aconitifolius",
+    "category": "vegetable",
+    "subcategory": "tropical perennial edible",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 90,
+      "max": 180
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 6
+      },
+      "note": "Propagate by 12–18 inch stem cuttings stuck directly into moist soil in spring; unlike most cuttings, chaya cuttings establish easily even without rooting hormone. Plant in a site with full sun and well-drained soil after all frost danger has passed."
+    },
+    "usda_zones": {
+      "min": 9,
+      "max": 12
+    },
+    "spacing_in": {
+      "min": 36,
+      "max": 60
+    },
+    "height_in": {
+      "min": 60,
+      "max": 120
+    },
+    "spread_in": {
+      "min": 48,
+      "max": 72
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant stem cuttings in well-drained to sandy soil in full sun; chaya is a vigorous, heat-tolerant tropical shrub native to the Yucatan that produces enormous crops of large, spinach-like leaves year-round in frost-free climates. The leaves are exceptionally nutritious — very high in protein, calcium, iron, and carotenoids — but must be cooked for at least 5 minutes before eating, as raw leaves contain hydrocyanic glycosides that dissipate completely with cooking. Once cooked, leaves taste like a mild, slightly earthy spinach and can substitute in any cooked greens recipe. Chaya is extraordinarily productive: a single mature bush can yield over 10 pounds of leaves per week in warm weather. It tolerates drought, poor soil, and neglect better than almost any other vegetable.",
+    "sources": [
+      "University of Florida IFAS Extension",
+      "Purdue University NewCROP",
+      "ECHO International Agricultural Research Center"
+    ]
+  },
+  {
+    "slug": "okinawa-spinach",
+    "common_name": "Okinawa Spinach (Gynura)",
+    "scientific_name": "Gynura crepioides",
+    "category": "vegetable",
+    "subcategory": "tropical perennial edible",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 45,
+      "max": 60
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 6
+      },
+      "note": "Root stem cuttings in water or moist soil; cuttings establish in 1–2 weeks. Plant in partial shade to full sun in warm, well-drained soil after all frost danger has passed."
+    },
+    "usda_zones": {
+      "min": 9,
+      "max": 12
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 18,
+      "max": 36
+    },
+    "spread_in": {
+      "min": 24,
+      "max": 36
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Plant rooted stem cuttings in moist, rich, well-drained soil in partial shade to full sun; Okinawa spinach is a fast-growing tropical perennial vegetable prized throughout Southeast Asia and Pacific islands for its highly nutritious, mucilaginous leaves that are eaten raw in salads or stir-fried. The striking purple-and-green bicolor foliage makes it ornamental as well as edible — it is used as a groundcover and ornamental bedding plant throughout tropical gardens. Harvest young shoot tips (4–6 inches) continuously to keep plants compact and productive; older leaves become tough. In zone 9+ it grows year-round as a perennial; in zone 8 it dies at frost but can be propagated from cuttings overwintered indoors. Very tolerant of heat, humidity, and partial shade.",
+    "sources": [
+      "University of Hawaii College of Tropical Agriculture",
+      "ECHO International Agricultural Research Center",
+      "University of Florida IFAS Extension"
+    ]
+  },
+  {
+    "slug": "katuk",
+    "common_name": "Katuk (Sweet Leaf)",
+    "scientific_name": "Sauropus androgynus",
+    "category": "vegetable",
+    "subcategory": "tropical perennial edible shrub",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 90,
+      "max": 180
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 6
+      },
+      "note": "Propagate by stem cuttings rooted in water or moist medium; transplant to a partially shaded, moist garden location after rooting. Avoid full sun, which bleaches and stresses the foliage in hot climates."
+    },
+    "usda_zones": {
+      "min": 9,
+      "max": 12
+    },
+    "spacing_in": {
+      "min": 24,
+      "max": 36
+    },
+    "height_in": {
+      "min": 48,
+      "max": 96
+    },
+    "spread_in": {
+      "min": 36,
+      "max": 60
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Plant in moist, rich, well-drained soil in partial shade to filtered sun; katuk is a compact tropical shrub of Southeast Asian origin widely grown as one of the most nutritious perennial vegetables for tropical and subtropical gardens. The small, oval leaves have a pleasant, slightly sweet, nutty flavor and are eaten raw in salads, stir-fried, or added to soups; they are exceptionally high in protein (up to 7% fresh weight), Vitamin C, iron, and carotenes. Harvest young shoot tips of 4–6 inches continuously — the plant produces new growth prolifically in warm weather. In zone 9 it may die back in winter but usually re-grows from roots with mulch protection. Important caution: raw katuk should not be consumed in very large quantities daily, as excessive raw consumption has been linked to respiratory issues; normal culinary use is safe.",
+    "sources": [
+      "University of Florida IFAS Extension",
+      "ECHO International Agricultural Research Center",
+      "Purdue University NewCROP"
+    ]
+  },
+  {
+    "slug": "lemongrass",
+    "common_name": "Lemongrass",
+    "scientific_name": "Cymbopogon citratus",
+    "category": "herb",
+    "subcategory": "tropical culinary herb",
+    "days_to_germination": {
+      "min": 14,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 80
+    },
+    "days_to_maturity": {
+      "min": 75,
+      "max": 100
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 6
+      },
+      "note": "Divide clumps or plant purchased stalks (root the cut end in water for 2 weeks before planting) in spring after last frost; in zone 9+ lemongrass can remain in the ground year-round. Elsewhere, pot up a division before first frost and overwinter indoors in bright light."
+    },
+    "usda_zones": {
+      "min": 9,
+      "max": 12
+    },
+    "spacing_in": {
+      "min": 24,
+      "max": 36
+    },
+    "height_in": {
+      "min": 36,
+      "max": 72
+    },
+    "spread_in": {
+      "min": 24,
+      "max": 36
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in rich, well-drained soil in full sun; lemongrass is a tropical clump grass with powerfully lemon-scented stems used throughout Southeast Asian, Caribbean, and African cuisines in soups, curries, marinades, and teas. The lower 4–6 inches of the thick stalk, with the outer leaves peeled back to expose the tender white core, are the culinary part — bruised and added to dishes whole or sliced paper-thin after trimming. Clumps grow rapidly in warm weather and can reach 4–6 feet; harvest outer stalks when they are pencil-thick or larger. In zones 9–10 it is a reliable perennial — divide and replant the outer portions of large clumps each spring. Elsewhere, root a fresh grocery-store lemongrass stalk in late spring for the summer harvest.",
+    "sources": [
+      "University of Florida IFAS Extension",
+      "University of Hawaii College of Tropical Agriculture",
+      "Missouri Botanical Garden Plant Finder"
+    ]
+  }
+]

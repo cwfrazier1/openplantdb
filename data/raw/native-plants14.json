@@ -1,0 +1,540 @@
+[
+  {
+    "slug": "joe-pye-weed",
+    "common_name": "Joe-Pye Weed",
+    "scientific_name": "Eutrochium purpureum",
+    "category": "flower",
+    "subcategory": "native perennial",
+    "days_to_germination": {
+      "min": 14,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 90,
+      "max": 120
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": 0
+      },
+      "note": "Direct sow in fall for natural cold stratification and spring germination, or start indoors in winter with 60 days cold stratification at 35–40°F before moving to warmth. Transplant seedlings to the garden after last frost."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 24,
+      "max": 36
+    },
+    "height_in": {
+      "min": 48,
+      "max": 84
+    },
+    "spread_in": {
+      "min": 24,
+      "max": 36
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Plant in moist, average to rich soil in full sun to partial shade; Joe-Pye weed is a towering native perennial of moist meadows and open woodlands that produces large, domed clusters of dusty rose-purple flowers from midsummer through fall. It is one of the most important late-season nectar plants for monarch butterflies, fritillaries, and native bees. The hollow, vanilla-scented stems were used medicinally by Indigenous peoples, and the plant is named for a colonial-era New England healer. Give it room — mature plants reach 5–7 feet and are dramatic at the back of borders or in naturalistic meadow plantings. Compact cultivars (E. dubium 'Little Joe', 'Gateway') are available at 3–4 feet for smaller spaces. Cut back by half in late spring to control height.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "Missouri Botanical Garden Plant Finder",
+      "North Carolina State University Extension"
+    ]
+  },
+  {
+    "slug": "swamp-milkweed",
+    "common_name": "Swamp Milkweed",
+    "scientific_name": "Asclepias incarnata",
+    "category": "flower",
+    "subcategory": "native perennial",
+    "days_to_germination": {
+      "min": 10,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 90,
+      "max": 120
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": 0
+      },
+      "note": "Direct sow in fall (seeds need 30-day cold stratification) or cold-stratify indoors and start in late winter; transplant to the garden in spring. Unlike butterfly weed, swamp milkweed germinates more reliably after stratification."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 36,
+      "max": 60
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "high",
+    "directions": "Plant in moist to wet, average soil in full sun to partial shade; swamp milkweed is an essential monarch butterfly host plant that tolerates wet conditions where common milkweed struggles, making it ideal for rain gardens, pond margins, and low-lying areas. The bright rose-pink to mauve flower clusters bloom from June through August and are heavily visited by monarchs, swallowtails, and bumble bees. Unlike other milkweeds, it does not spread aggressively by rhizomes and stays in well-behaved clumps, making it one of the best milkweed species for garden planting. Leave seedpods on through winter for wildlife interest and natural reseeding. The white-flowered cultivar 'Ice Ballet' is also excellent.",
+    "sources": [
+      "Monarch Watch",
+      "Missouri Botanical Garden Plant Finder",
+      "Lady Bird Johnson Wildflower Center"
+    ]
+  },
+  {
+    "slug": "swamp-rose-mallow",
+    "common_name": "Swamp Rose Mallow",
+    "scientific_name": "Hibiscus moscheutos",
+    "category": "flower",
+    "subcategory": "native perennial",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 80
+    },
+    "days_to_maturity": {
+      "min": 90,
+      "max": 120
+    },
+    "maturity_from": "seed",
+    "sow_method": "indoor-start",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -6
+      },
+      "note": "Nick or soak seed in warm water 24 hours before sowing indoors 8 weeks before last frost; transplant after frost danger passes when soil has warmed. Alternatively, direct sow in very late spring. Plants emerge late — do not assume they are dead until June."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 24,
+      "max": 36
+    },
+    "height_in": {
+      "min": 36,
+      "max": 72
+    },
+    "spread_in": {
+      "min": 24,
+      "max": 36
+    },
+    "sun": "full",
+    "water": "high",
+    "directions": "Plant in moist to wet, rich soil in full sun; swamp rose mallow produces the largest flowers of any perennial hardy to zone 4 — dinner-plate sized blooms up to 10–12 inches across in white, pink, red, or bicolor from July through September. It is native to wetlands, marshes, and stream margins throughout eastern North America and thrives in rain gardens and pond edges where few other plants bloom so dramatically. Plants emerge very late in spring — sometimes not until late May or early June — so mark their location to avoid digging them. Numerous cultivars with red, pink, white, and bicolor flowers are available (Luna series, Disco Belle, Summerific series). Cut stems to the ground in winter after they die back.",
+    "sources": [
+      "Missouri Botanical Garden Plant Finder",
+      "Lady Bird Johnson Wildflower Center",
+      "North Carolina State University Extension"
+    ]
+  },
+  {
+    "slug": "mountain-mint",
+    "common_name": "Virginia Mountain Mint",
+    "scientific_name": "Pycnanthemum virginianum",
+    "category": "herb",
+    "subcategory": "native aromatic herb",
+    "days_to_germination": {
+      "min": 14,
+      "max": 28
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 90,
+      "max": 120
+    },
+    "maturity_from": "seed",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Divide existing clumps in spring or fall; divisions establish quickly. Can also direct sow from stratified seed in early spring, though germination is slow and uneven. Transplants are the most reliable starting method."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 8
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 18,
+      "max": 36
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 30
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant in average to dry, well-drained soil in full sun; mountain mint is one of the most important native pollinator plants in eastern North America, with research from Penn State showing it attracts more bee species than virtually any other native plant. The flat-topped clusters of tiny white flowers from July through September are covered continuously by dozens of bee species, beneficial wasps, and butterflies during peak bloom. The intensely peppermint-scented foliage is edible — used as a tea herb and seasoning similar to mint — and repels deer and rabbits. Plants spread by rhizomes to form substantial patches; divide every 2–3 years. Tolerates dry soil once established, making it excellent for low-maintenance pollinator gardens.",
+    "sources": [
+      "Penn State Center for Pollinator Research",
+      "Lady Bird Johnson Wildflower Center",
+      "Missouri Botanical Garden Plant Finder"
+    ]
+  },
+  {
+    "slug": "virginia-sweetspire",
+    "common_name": "Virginia Sweetspire",
+    "scientific_name": "Itea virginica",
+    "category": "flower",
+    "subcategory": "native shrub",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 365,
+      "max": 730
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant container-grown shrubs in spring or fall; this shrub tolerates transplanting well and establishes quickly. Fall planting is excellent in zones 7–9 where winters are mild."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 36,
+      "max": 60
+    },
+    "height_in": {
+      "min": 36,
+      "max": 60
+    },
+    "spread_in": {
+      "min": 48,
+      "max": 72
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Plant in moist, average to wet soil in full sun to full shade; Virginia sweetspire is one of the most adaptable native shrubs for difficult garden situations, tolerating wet soil, dry clay, deep shade, and drought once established. Fragrant white flower racemes in June are attractive to butterflies and bees, and the fall foliage turns spectacular shades of orange, red, scarlet, and purple — often the best fall color of any shade-tolerant shrub. The cultivar 'Henry's Garnet' is the most widely grown, with especially long flower racemes and outstanding crimson fall color. Plants spread by suckers to form thickets; remove suckers to maintain a single-stem form or allow them to colonize a slope or wet area as a groundcover.",
+    "sources": [
+      "North Carolina State University Extension",
+      "Missouri Botanical Garden Plant Finder",
+      "Lady Bird Johnson Wildflower Center"
+    ]
+  },
+  {
+    "slug": "buttonbush",
+    "common_name": "Common Buttonbush",
+    "scientific_name": "Cephalanthus occidentalis",
+    "category": "flower",
+    "subcategory": "native shrub",
+    "days_to_germination": {
+      "min": 14,
+      "max": 30
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 365,
+      "max": 730
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant container-grown shrubs in spring or fall in wet to consistently moist soil; this is one of the few large shrubs that thrives in standing water and wet clay where most plants fail."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 60,
+      "max": 96
+    },
+    "height_in": {
+      "min": 60,
+      "max": 144
+    },
+    "spread_in": {
+      "min": 60,
+      "max": 96
+    },
+    "sun": "full",
+    "water": "high",
+    "directions": "Plant in moist to wet, or even periodically flooded soil in full sun to partial shade; buttonbush is a native shrub of swamps, pond margins, and floodplains throughout eastern North America, producing creamy white spherical flower heads resembling pincushions in July and August that are among the most intensively visited flowers by butterflies, native bees, and hummingbirds. The round seed heads provide food for waterfowl and songbirds through winter. It is one of the premier plants for rain gardens, bioswales, and pond edges where periodic flooding occurs. Prune in late winter to shape and stimulate new flowering wood; it can be cut back hard if it becomes too large.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "Missouri Botanical Garden Plant Finder",
+      "USDA NRCS Plant Guide"
+    ]
+  },
+  {
+    "slug": "hazelnut-american",
+    "common_name": "American Hazelnut",
+    "scientific_name": "Corylus americana",
+    "category": "fruit",
+    "subcategory": "native nut shrub",
+    "days_to_germination": {
+      "min": 60,
+      "max": 120
+    },
+    "germination_soil_temp_f": {
+      "min": 55,
+      "max": 65
+    },
+    "days_to_maturity": {
+      "min": 1095,
+      "max": 1825
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant bare-root or container-grown shrubs in spring; cross-pollination is required for nut production — plant at least two genetically distinct individuals within 20 feet. Nuts from stratified seed can be sown in fall for spring germination."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 72,
+      "max": 120
+    },
+    "height_in": {
+      "min": 60,
+      "max": 120
+    },
+    "spread_in": {
+      "min": 72,
+      "max": 120
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Plant in well-drained to average moist soil in full sun to partial shade; American hazelnut is a native multi-stemmed shrub that produces small, sweet hazelnuts enclosed in fringed husks in late summer — identical in flavor to the European filbert but better adapted to eastern North American conditions. The catkins (male flowers) are showy in late winter before any leaves emerge, providing early nectar for bees. Leaves turn yellow-orange in fall. Squirrels are formidable competitors for the nuts — harvest when the husks begin to turn brown and bring indoors to cure. Eastern filbert blight, a fungal disease, is a concern in the east; choose blight-resistant cultivars ('Winkler', 'Jefferson') or the more resistant hybrid hazelnut crosses if available in your region. Plants sucker freely; control suckers to maintain a clean shrub form.",
+    "sources": [
+      "University of Missouri Extension",
+      "Lady Bird Johnson Wildflower Center",
+      "USDA NRCS Plant Guide"
+    ]
+  },
+  {
+    "slug": "aronia",
+    "common_name": "Black Chokeberry",
+    "scientific_name": "Aronia melanocarpa",
+    "category": "berry",
+    "subcategory": "native fruiting shrub",
+    "days_to_germination": {
+      "min": 30,
+      "max": 60
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 730,
+      "max": 1095
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant container-grown or bare-root shrubs in spring or fall; aronia is highly adaptable and establishes quickly. A single plant is self-fertile but two plants will increase fruit production."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 8
+    },
+    "spacing_in": {
+      "min": 48,
+      "max": 72
+    },
+    "height_in": {
+      "min": 36,
+      "max": 72
+    },
+    "spread_in": {
+      "min": 48,
+      "max": 72
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Plant in moist, slightly acidic, well-drained soil in full sun to partial shade; black chokeberry is an exceptionally hardy native shrub valued both for its extraordinary fall foliage (brilliant orange-red) and for its clusters of small, astringent black berries that ripen in August–September. The berries have among the highest antioxidant content of any commercially available fruit — higher than blueberries and acai — and are increasingly marketed as a health food. Fresh berries are intensely astringent and rarely eaten raw; they excel as juice, wine, jam, and syrup once sweetened. Pollinators are attracted to the flat-topped white flower clusters in spring. Extremely tolerant of wet soil, clay, and urban conditions; one of the most versatile and underused native fruiting shrubs.",
+    "sources": [
+      "University of Minnesota Extension",
+      "Missouri Botanical Garden Plant Finder",
+      "USDA NRCS Plant Guide"
+    ]
+  },
+  {
+    "slug": "persimmon-american",
+    "common_name": "American Persimmon",
+    "scientific_name": "Diospyros virginiana",
+    "category": "fruit",
+    "subcategory": "native fruit tree",
+    "days_to_germination": {
+      "min": 60,
+      "max": 90
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 1825,
+      "max": 2555
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant bare-root or container trees in spring; American persimmon has a deep taproot and transplants poorly — use young container-grown trees and minimize root disturbance. Most trees are dioecious (separate male and female plants); plant one male per 8–12 female trees for reliable fruiting."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 180,
+      "max": 360
+    },
+    "height_in": {
+      "min": 360,
+      "max": 720
+    },
+    "spread_in": {
+      "min": 240,
+      "max": 480
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant in deep, well-drained to average soil in full sun to partial shade; American persimmon is a tough native tree with striking blocky, alligator-hide bark and excellent fall color that produces small, intensely sweet, apricot-flavored fruits after the first hard frost when they become fully ripe and astringency disappears. The fruits are outstanding for puddings, breads, and fresh eating and are highly attractive to deer, foxes, opossums, and birds. Trees are quite drought-tolerant once established and will grow in poor, rocky, or clay soil where few fruit trees survive. Named female cultivars (Meader, Szukis, Yates, Pieper) with improved fruit size are grafted onto seedling rootstock — grow these for reliable, large-fruited production. Allow fruits to fall naturally after frost and collect from the ground before wildlife does.",
+    "sources": [
+      "University of Missouri Extension",
+      "Virginia Cooperative Extension",
+      "Lady Bird Johnson Wildflower Center"
+    ]
+  },
+  {
+    "slug": "maidenhair-fern",
+    "common_name": "Northern Maidenhair Fern",
+    "scientific_name": "Adiantum pedatum",
+    "category": "flower",
+    "subcategory": "shade fern",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 60,
+      "max": 90
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Divide clumps in early spring before fronds emerge; plant with the crown at soil level in moist, humus-rich, slightly acidic soil in deep shade. Avoid planting in full sun or dry soil — both are fatal."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 8
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 18,
+      "max": 24
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "shade",
+    "water": "moderate",
+    "directions": "Plant in moist, humus-rich, consistently moist, slightly acidic soil in partial to full shade, never in dry or sunny spots; northern maidenhair fern is arguably the most elegant native fern, with delicate, fan-shaped fronds carried on wiry black stems in a distinctive horseshoe pattern unique among ferns. The translucent, bright green leaflets seem to float in the air, brightening dark corners with an airy, ephemeral quality no other shade plant quite replicates. Unlike many ferns, it goes dormant in winter and re-emerges in spring as tightly coiled fiddleheads. Site in a spot with consistent moisture and cool temperatures; it declines in hot, dry summers. Combine with Solomon's seal, trilliums, and bloodroot for a classic eastern woodland shade garden composition.",
+    "sources": [
+      "Missouri Botanical Garden Plant Finder",
+      "North Carolina State University Extension",
+      "American Fern Society"
+    ]
+  }
+]
