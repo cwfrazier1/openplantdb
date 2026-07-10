@@ -1,0 +1,552 @@
+[
+  {
+    "slug": "windmill-palm",
+    "common_name": "Windmill Palm (Chusan Palm)",
+    "scientific_name": "Trachycarpus fortunei",
+    "category": "flower",
+    "subcategory": "cold-hardy ornamental palm",
+    "days_to_germination": {
+      "min": 30,
+      "max": 90
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 80
+    },
+    "days_to_maturity": {
+      "min": 1095,
+      "max": 3650
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 8
+      },
+      "note": "Plant in well-drained, moderately fertile, slightly acidic to neutral soil in full sun to partial shade; windmill palm grows slowly but is remarkably cold-hardy for a feather-leafed palm, surviving temperatures as low as 5–10°F with temporary damage in established specimens, making it viable in zone 7b and above."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 96,
+      "max": 180
+    },
+    "height_in": {
+      "min": 120,
+      "max": 480
+    },
+    "spread_in": {
+      "min": 72,
+      "max": 120
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Plant in well-drained, moderately fertile soil in full sun to partial shade; windmill palm is the cold-hardiest of all feather-leafed palms and one of the most widely planted palms in the temperate-to-subtropical transition zone — a slow-growing, elegant palm with a distinctive burlap-wrapped trunk covered in persistent fibrous leaf bases and a crown of fan-shaped leaves. It brings a genuine tropical accent to zone 7–11 landscapes where other palms cannot survive. It grows naturally on cool mountain slopes in central China and adapts to a wide range of soils, including clay, alkaline, and nutrient-poor sites. Unlike most palms, it tolerates considerable shade, making it useful for planting under taller trees. The slow growth rate (6–12 inches per year) means windmill palms are long-term investments; they become increasingly beautiful with age. Excellent as a container palm in zone 6.",
+    "sources": [
+      "University of Florida IFAS Extension",
+      "Clemson Cooperative Extension",
+      "Missouri Botanical Garden Plant Finder"
+    ]
+  },
+  {
+    "slug": "queen-palm",
+    "common_name": "Queen Palm (Cocos Palm, Jeriva Palm)",
+    "scientific_name": "Syagrus romanzoffiana",
+    "category": "flower",
+    "subcategory": "tropical feather palm",
+    "days_to_germination": {
+      "min": 30,
+      "max": 90
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 1095,
+      "max": 3650
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 4,
+        "max": 10
+      },
+      "note": "Plant in well-drained, slightly acidic to neutral, moderately fertile soil in full sun; queen palm needs a slightly acidic soil (pH 5.5–6.5) to avoid manganese and potassium deficiencies that cause yellowing fronds. Apply palm-specific slow-release fertilizer 3 times per year."
+    },
+    "usda_zones": {
+      "min": 9,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 120,
+      "max": 240
+    },
+    "height_in": {
+      "min": 240,
+      "max": 720
+    },
+    "spread_in": {
+      "min": 120,
+      "max": 200
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in well-drained, slightly acidic, moderately fertile soil in full sun; queen palm is one of the most popular and widely planted tropical palms in Florida, southern California, and the Gulf Coast, and for good reason — it grows rapidly (3–6 feet per year), has beautiful arching bright-green feather-compound fronds, and produces pendant clusters of small orange-yellow fruit beloved by wildlife. The smooth, light gray trunk has distinctive leaf scar rings that give it a clean, elegant appearance. It is not as cold-hardy as sabal or windmill palms — significant damage occurs below 25°F — making it marginal in zone 9a. Plant in a protected south-facing microclimate for best results. Queen palm is highly susceptible to Ganoderma root rot (avoid wounding roots and overcrowding) and may develop nutrient deficiencies in alkaline soils — regular palm fertilizer applications with micronutrients are essential.",
+    "sources": [
+      "University of Florida IFAS Extension",
+      "Texas A&M AgriLife Extension",
+      "Missouri Botanical Garden Plant Finder"
+    ]
+  },
+  {
+    "slug": "texas-sabal-palm",
+    "common_name": "Texas Sabal Palm (Rio Grande Palmetto, Mexican Palmetto)",
+    "scientific_name": "Sabal mexicana",
+    "category": "flower",
+    "subcategory": "native Gulf Coast palm",
+    "days_to_germination": {
+      "min": 30,
+      "max": 90
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 80
+    },
+    "days_to_maturity": {
+      "min": 1825,
+      "max": 5475
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 4,
+        "max": 10
+      },
+      "note": "Plant in well-drained, slightly acidic to alkaline, lean to moderately fertile soil in full sun; Texas sabal palm is extremely drought tolerant once established and native to the Rio Grande Delta, where it grows in sandy, saline, and seasonally flooded soils. It is one of the most heat- and drought-tolerant native palms in the US."
+    },
+    "usda_zones": {
+      "min": 8,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 120,
+      "max": 240
+    },
+    "height_in": {
+      "min": 240,
+      "max": 600
+    },
+    "spread_in": {
+      "min": 120,
+      "max": 180
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant in well-drained, sandy, lean soil in full sun; the Texas sabal palm is the only native palm of the Rio Grande Delta — a majestic, fan-leafed palm native to the last remaining wild groves at the southern tip of Texas, now found in only a few protected areas such as the Sabal Palm Sanctuary near Brownsville. It is closely related to the familiar Sabal palmetto of Florida and is one of the most cold-hardy and drought-tolerant of all native palms. The massive, deeply curved fan leaves on 5-6 foot stalks create a dramatic tropical silhouette; established trees develop a broad, imposing crown. Black fruits ripen in fall and are relished by birds. A premier palm for zone 8–11 Gulf Coast gardens — exceptionally wind, salt, and drought tolerant once established and requiring little maintenance. Grow from locally sourced nursery stock; wild populations are endangered.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "Texas A&M AgriLife Extension",
+      "USDA PLANTS Database"
+    ]
+  },
+  {
+    "slug": "laurel-oak",
+    "common_name": "Laurel Oak (Diamond Leaf Oak, Swamp Laurel Oak)",
+    "scientific_name": "Quercus laurifolia",
+    "category": "flower",
+    "subcategory": "native large deciduous tree",
+    "days_to_germination": {
+      "min": 21,
+      "max": 60
+    },
+    "germination_soil_temp_f": {
+      "min": 50,
+      "max": 65
+    },
+    "days_to_maturity": {
+      "min": 1095,
+      "max": 3650
+    },
+    "maturity_from": "transplant",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -4
+      },
+      "note": "Plant nursery-grown trees in fall in moist to wet, slightly acidic, fertile soil in full sun to partial shade; laurel oak tolerates extended flooding and grows naturally in floodplain forests, swamp margins, and wet bottomlands of the coastal plain. It establishes quickly for a large oak when planted small."
+    },
+    "usda_zones": {
+      "min": 6,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 360,
+      "max": 600
+    },
+    "height_in": {
+      "min": 480,
+      "max": 960
+    },
+    "spread_in": {
+      "min": 360,
+      "max": 720
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Plant in moist to wet, slightly acidic soil in full sun to partial shade; laurel oak is one of the most common and important native trees of the Gulf Coast and Atlantic coastal plain — a large, fast-growing semi-evergreen oak reaching 60–80 feet with a broad crown and distinctive narrowly elliptical, unlobed leaves resembling laurel or willow leaves. Unlike live oak and other southern oaks, laurel oak grows readily in the wet, poorly drained soils of floodplains, swamp margins, and pine flatwoods that define much of the Gulf Coast landscape. It provides outstanding wildlife value — the small acorns are eaten by wood ducks, deer, turkeys, squirrels, and many other species. The semi-evergreen foliage provides moderate winter screening. Laurel oak grows faster than live oak (3–5 feet per year when young) but is shorter-lived (60–80 years). An excellent shade tree for moist, low-lying Gulf Coast sites.",
+    "sources": [
+      "University of Florida IFAS Extension",
+      "Lady Bird Johnson Wildflower Center",
+      "USDA PLANTS Database"
+    ]
+  },
+  {
+    "slug": "nuttall-oak",
+    "common_name": "Nuttall Oak (Pin Oak, Red River Oak)",
+    "scientific_name": "Quercus texana",
+    "category": "flower",
+    "subcategory": "native large deciduous tree",
+    "days_to_germination": {
+      "min": 21,
+      "max": 60
+    },
+    "germination_soil_temp_f": {
+      "min": 45,
+      "max": 60
+    },
+    "days_to_maturity": {
+      "min": 1095,
+      "max": 3650
+    },
+    "maturity_from": "transplant",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -4
+      },
+      "note": "Plant container-grown trees in fall in moist to wet, slightly acidic, fertile, heavy clay or sandy loam soil in full sun; Nuttall oak is one of the most flood-tolerant of all oaks, native to wet bottomlands that flood seasonally. It is the preferred oak for difficult wet sites in the Mississippi and Red River valleys and Gulf Coast interior."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 360,
+      "max": 600
+    },
+    "height_in": {
+      "min": 600,
+      "max": 1080
+    },
+    "spread_in": {
+      "min": 360,
+      "max": 720
+    },
+    "sun": "full",
+    "water": "high",
+    "directions": "Plant in moist to wet, slightly acidic, clay or heavy soil in full sun; Nuttall oak (Q. texana) is one of the most underused and underrated of all large southern oaks — a fast-growing (3–4 feet per year when young), majestic bottomland tree that reaches 60–90 feet with excellent scarlet fall color and one of the most important acorn crops of any oak, producing large (3/4 inch) acorns in abundance that are critical food for wood ducks, waterfowl, deer, squirrels, and turkeys. It is uniquely adapted to seasonally flooded, waterlogged clay soils where most trees cannot survive, making it the premier oak for wet, poorly drained sites, wet parking lot islands, and retention basin margins. Excellent fall color (brilliant scarlet) distinguishes it from most southern red-group oaks. Not to be confused with Q. nuttallii (same species, now synonymized as Q. texana).",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "LSU AgCenter",
+      "USDA PLANTS Database"
+    ]
+  },
+  {
+    "slug": "swamp-chestnut-oak",
+    "common_name": "Swamp Chestnut Oak (Basket Oak, Cow Oak)",
+    "scientific_name": "Quercus michauxii",
+    "category": "flower",
+    "subcategory": "native large deciduous tree",
+    "days_to_germination": {
+      "min": 21,
+      "max": 60
+    },
+    "germination_soil_temp_f": {
+      "min": 45,
+      "max": 60
+    },
+    "days_to_maturity": {
+      "min": 1095,
+      "max": 3650
+    },
+    "maturity_from": "transplant",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -4
+      },
+      "note": "Plant container-grown trees in fall in moist to wet, slightly acidic, rich bottomland or floodplain soil in full sun to partial shade; swamp chestnut oak is native to the rich bottomland hardwood forests of the Southeast and produces the largest acorns of any American oak — critical for wildlife at a time when few other mast crops are available."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 360,
+      "max": 600
+    },
+    "height_in": {
+      "min": 600,
+      "max": 1080
+    },
+    "spread_in": {
+      "min": 360,
+      "max": 720
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Plant in moist, rich, slightly acidic bottomland soil in full sun to partial shade; swamp chestnut oak is a magnificent large native oak of the rich bottomland forests of the Southeast, reaching 60–100 feet with a straight trunk and broad, open crown with large, chestnut-like leaves 5–9 inches long. The large, sweet acorns (up to 1.5 inches) ripen in a single season and are the largest, most palatable acorns produced by any American oak — they were eaten by Native Americans and early settlers and are readily eaten by deer, turkeys, squirrels, and wood ducks. The handsome, ridged, grayish bark and excellent fall yellow-orange color make this a valuable landscape tree where space permits. Tolerates seasonal flooding but also grows well in moist, well-drained upland soils. Somewhat more tolerant of partial shade when young than most oaks. A premier wildlife and landscape tree for zone 5–9.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "University of Florida IFAS Extension",
+      "USDA PLANTS Database"
+    ]
+  },
+  {
+    "slug": "cherrybark-oak",
+    "common_name": "Cherrybark Oak (Swamp Red Oak, Elliott's Oak)",
+    "scientific_name": "Quercus pagoda",
+    "category": "flower",
+    "subcategory": "native large deciduous tree",
+    "days_to_germination": {
+      "min": 21,
+      "max": 60
+    },
+    "germination_soil_temp_f": {
+      "min": 50,
+      "max": 65
+    },
+    "days_to_maturity": {
+      "min": 1095,
+      "max": 3650
+    },
+    "maturity_from": "transplant",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -4
+      },
+      "note": "Plant container-grown trees in fall in rich, moist to moderately moist, slightly acidic, deep, well-drained bottomland or bluff soil in full sun; cherrybark oak is native to the rich, well-drained ridges and terraces above flood lines in bottomland hardwood forests — it does NOT tolerate prolonged flooding."
+    },
+    "usda_zones": {
+      "min": 6,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 480,
+      "max": 720
+    },
+    "height_in": {
+      "min": 720,
+      "max": 1440
+    },
+    "spread_in": {
+      "min": 480,
+      "max": 960
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in rich, moist, well-drained, slightly acidic bottomland or bluff soil in full sun; cherrybark oak is generally regarded as one of the finest and most beautiful of all North American oaks — a majestic timber tree reaching 80–120 feet with a straight, clear trunk and distinctive shaggy, plated bark reminiscent of black cherry (hence the name). The deeply lobed, very large leaves have outstanding scarlet to orange-red fall color. The abundant small acorns are a critical food source for deer, turkeys, wood ducks, and squirrels. Unlike many red-group oaks, cherrybark oak is intolerant of flooding and requires the rich, well-drained ridges and terraces of bottomland hardwood forests — the 'cherrybark ridges' of bottomland forest. It is the fastest-growing of the large southern oaks (4–5 feet per year when young) and develops into an impressively large, long-lived specimen tree.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "University of Florida IFAS Extension",
+      "USDA PLANTS Database"
+    ]
+  },
+  {
+    "slug": "ice-plant-edible",
+    "common_name": "Ice Plant (Crystal Ice Plant, Common Ice Plant)",
+    "scientific_name": "Mesembryanthemum crystallinum",
+    "category": "vegetable",
+    "subcategory": "edible succulent annual",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 55,
+      "max": 68
+    },
+    "days_to_maturity": {
+      "min": 50,
+      "max": 70
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -4
+      },
+      "note": "Direct sow in fall in very well-drained, sandy, slightly alkaline to neutral, lean soil in full sun; ice plant is native to the coastal Mediterranean and South Africa and is entirely intolerant of clay, poor drainage, or humid conditions. In zone 9a, fall and winter culture avoids the summer humidity that causes disease."
+    },
+    "usda_zones": {
+      "min": 9,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 4,
+      "max": 10
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Sow in fall in well-drained, sandy, lean, slightly alkaline soil in full sun; the common ice plant is one of the most visually distinctive of all edible plants — the thick, fleshy, spatula-shaped leaves and stems are covered in large, glistening, fluid-filled papillae (water cells) that catch and reflect sunlight like tiny glass beads or ice crystals, giving the plant its enchanting name. The mildly salty, refreshing leaves are edible raw in salads, as a garnish, or as a substitute for spinach, with a texture somewhere between watercress and succulent. The plant is halophytic (salt-tolerant) and is often used to bind coastal sandy soils. It is a cool-season plant that grows through winter in zone 9–11 and dies in summer heat. The species is considered invasive in California coastal areas where it has altered soil chemistry — plant only in maintained garden areas.",
+    "sources": [
+      "University of California Cooperative Extension",
+      "Purdue University NewCROP",
+      "USDA PLANTS Database"
+    ]
+  },
+  {
+    "slug": "chickweed",
+    "common_name": "Chickweed (Common Chickweed, Stellaria)",
+    "scientific_name": "Stellaria media",
+    "category": "vegetable",
+    "subcategory": "edible cool-season wild green",
+    "days_to_germination": {
+      "min": 5,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 40,
+      "max": 55
+    },
+    "days_to_maturity": {
+      "min": 35,
+      "max": 60
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -4
+      },
+      "note": "Scatter seed on the surface of moist, slightly acidic to neutral, fertile soil in partial shade or full sun; chickweed requires cool temperatures (35–60°F) and fades quickly when weather warms above 65–70°F. In zone 9a it is a useful winter green from November through March, self-sowing to establish as a permanent winter groundcover in suitable spots."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 3,
+      "max": 6
+    },
+    "height_in": {
+      "min": 3,
+      "max": 8
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 24
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Scatter seed on the surface of moist, fertile soil in partial shade in fall; chickweed is one of the most nutritious and widely available wild edibles in the world — a cool-season annual that appears in gardens, lawns, and disturbed areas throughout winter, producing mats of small, oval-leaved stems with tiny, deeply notched white petals that look like stars (the genus name Stellaria means 'star'). The tender shoots and leaves are rich in vitamins C, B-complex, iron, and calcium, used fresh in salads, smoothies, and as a potherb (briefly cooked like spinach). The flavor is mild and pleasant, reminiscent of corn silk. In zone 9a it grows vigorously from November through March and self-sows prolifically, providing free winter salad greens in any garden patch where temperatures stay below 70°F. A traditional forage food eaten across Europe and Asia for centuries and by many indigenous North American peoples.",
+    "sources": [
+      "USDA PLANTS Database",
+      "University of Michigan Ethnobotany Database",
+      "Wild Food UK"
+    ]
+  },
+  {
+    "slug": "pindo-palm",
+    "common_name": "Pindo Palm (Jelly Palm, Wine Palm)",
+    "scientific_name": "Butia capitata",
+    "category": "fruit",
+    "subcategory": "cold-hardy fruiting palm",
+    "days_to_germination": {
+      "min": 30,
+      "max": 120
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 80
+    },
+    "days_to_maturity": {
+      "min": 1825,
+      "max": 5475
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 8
+      },
+      "note": "Plant in very well-drained, slightly acidic to neutral, lean to moderately fertile soil in full sun; pindo palm is drought tolerant once established and grows naturally in the dry grasslands and open scrub of southern South America. It tolerates temperatures as low as 5–10°F in established specimens, surviving zone 7b and above."
+    },
+    "usda_zones": {
+      "min": 8,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 120,
+      "max": 180
+    },
+    "height_in": {
+      "min": 96,
+      "max": 240
+    },
+    "spread_in": {
+      "min": 96,
+      "max": 180
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant in very well-drained, lean, slightly acidic soil in full sun; the pindo palm is one of the most cold-hardy fruiting palms in the world and one of the finest landscape palms for zone 8–11 Gulf Coast gardens — a slow-growing, stocky palm with graceful, recurved, blue-green to silvery-gray feather leaves 5–10 feet long that create a distinctive weeping fountain effect. It is incredibly tough, surviving temperatures as low as 5°F in established specimens and tolerating drought, salt spray, and poor soils. The abundant orange-yellow fruit clusters (resembling small dates) ripen in summer with a sweet, tropical flavor combining apricot, pineapple, and banana — excellent for making the traditional 'jelly' and wine that give the palm its common names. The fruits ferment quickly on the tree and must be collected promptly. Pindo palm is an outstanding combination of cold hardiness, ornamental beauty, and productivity for the Gulf South.",
+    "sources": [
+      "University of Florida IFAS Extension",
+      "Clemson Cooperative Extension",
+      "Missouri Botanical Garden Plant Finder"
+    ]
+  }
+]

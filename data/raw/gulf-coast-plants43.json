@@ -1,0 +1,552 @@
+[
+  {
+    "slug": "post-oak",
+    "common_name": "Post Oak",
+    "scientific_name": "Quercus stellata",
+    "category": "flower",
+    "subcategory": "native shade tree",
+    "days_to_germination": {
+      "min": 14,
+      "max": 45
+    },
+    "germination_soil_temp_f": {
+      "min": 45,
+      "max": 65
+    },
+    "days_to_maturity": {
+      "min": 3650,
+      "max": 9125
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -4
+      },
+      "note": "Plant young, container-grown trees in fall in dry to average, sandy, acidic, well-drained soil in full sun; post oak has a deep taproot and is extremely difficult to transplant from the wild — only use nursery-grown stock and plant when small for best survival."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 360,
+      "max": 720
+    },
+    "height_in": {
+      "min": 360,
+      "max": 600
+    },
+    "spread_in": {
+      "min": 360,
+      "max": 540
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Post oak is one of the most drought-resistant and ecologically critical native oaks of the southeastern United States, forming a distinctive cross- or plus-shaped leaf outline (the 'stellata' — starry — refers to the star-shaped hairs on the leaf underside) that makes it immediately identifiable among the dozens of native oaks. Found on dry, sandy, or rocky ridges and uplands across its enormous range from New England to Texas, it is the characteristic oak of the 'post oak savanna' ecoregion of east Texas and the Cross Timbers region — a unique fire-maintained landscape of widely spaced oaks over a diverse grass and wildflower understory. The hard, rot-resistant wood was historically used for fence posts and barn sills (giving the tree its common name), and post oak acorns are among the most important mast crops for white-tailed deer, wild turkey, and dozens of bird species across the Southeast. Post oak supports over 500 species of Lepidoptera (moths and butterflies) as a larval host — making it one of the top native trees for butterfly and moth diversity in the region.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "USDA Forest Service Silvics of North America",
+      "NC State Extension Plant Toolbox"
+    ]
+  },
+  {
+    "slug": "bur-oak",
+    "common_name": "Bur Oak (Mossycup Oak)",
+    "scientific_name": "Quercus macrocarpa",
+    "category": "flower",
+    "subcategory": "native shade tree",
+    "days_to_germination": {
+      "min": 14,
+      "max": 45
+    },
+    "germination_soil_temp_f": {
+      "min": 45,
+      "max": 65
+    },
+    "days_to_maturity": {
+      "min": 5475,
+      "max": 18250
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -4
+      },
+      "note": "Plant young trees in fall in deep, moist to dry, well-drained to clay soil in full sun; bur oak is extraordinarily adaptable to a wide range of soils including alkaline clay but develops best in deep, moist, well-drained loam — plant small as the deep taproot resists transplanting."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 8
+    },
+    "spacing_in": {
+      "min": 480,
+      "max": 960
+    },
+    "height_in": {
+      "min": 480,
+      "max": 960
+    },
+    "spread_in": {
+      "min": 480,
+      "max": 840
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Bur oak is the most majestic and long-lived of all North American oaks — individual trees commonly live 400–600 years and may exceed 1,000 years on favorable sites, developing massive, deeply furrowed, corky trunks and broad, spreading crowns of great character and presence. The acorns are the largest produced by any North American oak, each nearly half-enclosed in a distinctive fringed, mossy cup that gives the species its alternate name 'mossycup oak' — these large, low-tannin acorns were the most important food item for many plains tribes, who harvested and processed them into flour. Bur oak's extraordinary drought resistance — the result of a massive taproot that may penetrate 14 feet in the first year — made it the tree that historically crossed the prairie/forest boundary into the Great Plains, creating the legendary prairie grove ecosystems that supported bison herds. Like all oaks, it supports hundreds of native Lepidoptera species as host plants and its acorn crops feed deer, turkeys, bears, woodpeckers, and dozens of other wildlife species. A tree to plant for future generations.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "USDA Forest Service Silvics of North America",
+      "Missouri Botanical Garden Plant Finder"
+    ]
+  },
+  {
+    "slug": "blackjack-oak",
+    "common_name": "Blackjack Oak",
+    "scientific_name": "Quercus marilandica",
+    "category": "flower",
+    "subcategory": "native shade tree",
+    "days_to_germination": {
+      "min": 14,
+      "max": 45
+    },
+    "germination_soil_temp_f": {
+      "min": 45,
+      "max": 65
+    },
+    "days_to_maturity": {
+      "min": 1825,
+      "max": 7300
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -4
+      },
+      "note": "Plant only young, nursery-grown container plants in fall in dry, sandy, rocky, or acidic, very well-drained soil in full sun; blackjack oak is extremely difficult to transplant from the wild due to its deep taproot and thrives in the poorest, most droughty soils available."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 180,
+      "max": 360
+    },
+    "height_in": {
+      "min": 180,
+      "max": 360
+    },
+    "spread_in": {
+      "min": 180,
+      "max": 300
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Blackjack oak is the signature tree of dry, sandy, impoverished 'blackjack' soils across the southeastern United States — its distinctive club-shaped, three-lobed leaves with a broad, rounded top and narrow base are immediately recognizable, and the tree is virtually impossible to establish in rich or moist soils, thriving only in the driest, poorest, most acidic conditions that prevent most trees from growing. Often found alongside post oak in the 'Cross Timbers' forest of Oklahoma and Texas, blackjack oak commonly forms dense, almost impenetrable thickets on sandy, infertile ridges that are habitat for some of the most specialized dry-land wildlife communities in the South. Despite its demanding site requirements, blackjack oak is a highly valuable wildlife tree: its small acorns are consumed by wild turkey, whitetail deer, and at least 30 species of birds, and the crooked, gnarled dead snags are prime nesting habitat for cavity-nesting birds. In landscapes with genuinely poor, dry, acidic, sandy soils, it is one of the most reliable native trees for creating a self-sustaining, wildlife-rich oak woodland.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "USDA Forest Service Silvics of North America",
+      "Texas A&M AgriLife Extension"
+    ]
+  },
+  {
+    "slug": "turkey-oak",
+    "common_name": "Turkey Oak",
+    "scientific_name": "Quercus laevis",
+    "category": "flower",
+    "subcategory": "native shade tree",
+    "days_to_germination": {
+      "min": 30,
+      "max": 90
+    },
+    "germination_soil_temp_f": {
+      "min": 45,
+      "max": 65
+    },
+    "days_to_maturity": {
+      "min": 1825,
+      "max": 5475
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -4
+      },
+      "note": "Plant young, nursery-grown container plants in fall in dry, white, sandy or sandy loam, acidic soil in full sun; turkey oak is adapted to the driest, most nutrient-deficient sandy soils of the coastal plain and requires sharp drainage — it does not tolerate clay or moist soils."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 180,
+      "max": 360
+    },
+    "height_in": {
+      "min": 180,
+      "max": 480
+    },
+    "spread_in": {
+      "min": 180,
+      "max": 360
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Turkey oak is a native small to medium tree endemic to the scrub and sandhill habitats of the Atlantic and Gulf Coastal Plain from Virginia to Louisiana — one of the most adapted trees in North America to the white, nutrient-deficient, excessively drained sands of the ancient coastal plain terraces where it forms nearly pure stands alongside longleaf pine and sand live oak. Its deeply 3–5 lobed leaves are large, glossy, and architectural — among the most decorative of all oak foliage — and turn vivid shades of red, orange, and burgundy in fall, providing exceptional autumn color even in warm climates where most oaks turn only dull brown. Turkey oak is the critical host tree for the Florida scrub-jay, one of the most endangered birds in North America, which depends on turkey oak acorns as its primary food; the tree is also habitat for dozens of rare invertebrates endemic to scrub habitats. In sandy coastal plain gardens with excessively drained, acidic, nutrient-poor soil — exactly the conditions that challenge most ornamental trees — turkey oak thrives with no supplemental care once established.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "Florida Native Plant Society",
+      "University of Florida IFAS Extension"
+    ]
+  },
+  {
+    "slug": "myrtle-oak",
+    "common_name": "Myrtle Oak",
+    "scientific_name": "Quercus myrtifolia",
+    "category": "flower",
+    "subcategory": "native evergreen shrub",
+    "days_to_germination": {
+      "min": 14,
+      "max": 45
+    },
+    "germination_soil_temp_f": {
+      "min": 50,
+      "max": 65
+    },
+    "days_to_maturity": {
+      "min": 1095,
+      "max": 3650
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -4
+      },
+      "note": "Plant nursery-grown container plants in fall in dry, white, sandy, well-drained, acidic soil in full sun; myrtle oak is a scrub obligate that requires the same excessively drained, infertile sands as turkey oak and sand live oak — it will not thrive in typical garden soils."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 48,
+      "max": 96
+    },
+    "height_in": {
+      "min": 24,
+      "max": 180
+    },
+    "spread_in": {
+      "min": 48,
+      "max": 120
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Myrtle oak is a small-leaved, evergreen scrub oak of the Florida Peninsula and adjacent Gulf and Atlantic Coastal Plain, unique among native oaks for its distinctly myrtle-like, oval, entire (not lobed) leaves that are shiny and dark green above — so different in appearance from typical oak leaves that beginners often fail to recognize it as an oak. It grows in the hottest, driest, most nutrient-deficient white-sand scrub habitats of the Florida interior and coasts, forming dense thickets from ankle height to small tree size depending on fire history and site conditions; Florida scrub habitats maintained by periodic fire have low, clumping myrtle oaks while fire-suppressed scrub develops into tall, dense thickets. Like turkey oak, myrtle oak is a foundational component of the Florida scrub ecosystem, which hosts more endemic species per acre than almost any other habitat in temperate North America, including the federally threatened Florida scrub-jay that depends on scrub oaks as its primary food source. A valuable landscape shrub or small tree for dry, sandy, acidic sites in central and south Florida.",
+    "sources": [
+      "Florida Native Plant Society",
+      "University of Florida IFAS Extension",
+      "Lady Bird Johnson Wildflower Center"
+    ]
+  },
+  {
+    "slug": "sand-live-oak",
+    "common_name": "Sand Live Oak",
+    "scientific_name": "Quercus geminata",
+    "category": "flower",
+    "subcategory": "native evergreen tree",
+    "days_to_germination": {
+      "min": 14,
+      "max": 45
+    },
+    "germination_soil_temp_f": {
+      "min": 50,
+      "max": 65
+    },
+    "days_to_maturity": {
+      "min": 1825,
+      "max": 9125
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -4
+      },
+      "note": "Plant nursery-grown container trees in fall in dry, sandy, well-drained, acidic to neutral soil in full sun; sand live oak is adapted to deep, excessively drained coastal sands and does not tolerate poorly drained, heavy clay, or alkaline soils."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 240,
+      "max": 480
+    },
+    "height_in": {
+      "min": 120,
+      "max": 360
+    },
+    "spread_in": {
+      "min": 240,
+      "max": 480
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Sand live oak is a native evergreen tree of coastal sand dunes, scrub habitats, and sandy pinelands of the Gulf and Atlantic Coastal Plain, closely related to live oak (Quercus virginiana) but distinctly adapted to excessively drained, nutrient-poor, acidic sands of ancient coastal terraces. It is distinguished from live oak by its smaller, more narrow leaves with rolled-under (revolute) margins, lower growth habit, and adaptation to dry sand rather than the moist, fertile soils favored by live oak. In coastal dune restoration and sandy barrier island plantings, sand live oak serves as one of the primary stabilizing species for ancient coastal plain sands, where it eventually develops into sprawling, wind-sculpted specimens of great character; it is more salt spray tolerant than live oak. Like all oaks, it supports an enormous diversity of native moths, butterflies, and beetles as larval hosts; its small acorns feed migrating wood ducks, and the dense evergreen canopy provides nesting habitat for many songbirds. A valuable evergreen tree for coastal sandy sites in zone 7–10 where typical live oak would not thrive.",
+    "sources": [
+      "Florida Native Plant Society",
+      "Lady Bird Johnson Wildflower Center",
+      "University of Florida IFAS Extension"
+    ]
+  },
+  {
+    "slug": "buckley-oak",
+    "common_name": "Buckley's Oak (Texas Red Oak)",
+    "scientific_name": "Quercus buckleyi",
+    "category": "flower",
+    "subcategory": "native shade tree",
+    "days_to_germination": {
+      "min": 30,
+      "max": 90
+    },
+    "germination_soil_temp_f": {
+      "min": 45,
+      "max": 65
+    },
+    "days_to_maturity": {
+      "min": 1825,
+      "max": 5475
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -4
+      },
+      "note": "Plant young, nursery-grown trees in fall in well-drained, limestone-based, alkaline to neutral, rocky or sandy soil in full sun; Buckley's oak is a calcicole (limestone lover) native to the Edwards Plateau and Cross Timbers — avoid clay, poorly drained, or highly acidic soils."
+    },
+    "usda_zones": {
+      "min": 6,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 240,
+      "max": 480
+    },
+    "height_in": {
+      "min": 240,
+      "max": 480
+    },
+    "spread_in": {
+      "min": 240,
+      "max": 420
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Buckley's oak (also called Texas red oak) is a native tree of the limestone hills and rocky canyons of the Texas Hill Country, Edwards Plateau, and Cross Timbers region — the most important red-oak-type tree for autumn color in central Texas. In October and November, its deeply lobed leaves turn brilliant shades of orange-red, red, and scarlet — spectacular fall color unusual for the semi-arid Texas Hill Country where most oaks turn only dull brown or rust. Because it grows naturally on the shallow, rocky limestone soils and caliche of the Texas Hill Country and Edwards Plateau, it is better adapted to alkaline soils than most other red oaks in its group; it is one of the few native oaks that will tolerate the alkaline, calcium-rich soils common across central Texas that cause iron chlorosis in acid-adapted species. The medium-sized acorns are consumed by white-tailed deer, wild turkey, and scrub-jays, and the tree provides important larval host resources for hundreds of native Lepidoptera. Excellent choice for limestone-soil native landscapes in central Texas and the Oklahoma Cross Timbers.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "Texas A&M AgriLife Extension",
+      "USDA Plants Database"
+    ]
+  },
+  {
+    "slug": "dwarf-hackberry",
+    "common_name": "Dwarf Hackberry (Small Hackberry)",
+    "scientific_name": "Celtis tenuifolia",
+    "category": "flower",
+    "subcategory": "native wildlife tree",
+    "days_to_germination": {
+      "min": 30,
+      "max": 60
+    },
+    "germination_soil_temp_f": {
+      "min": 45,
+      "max": 60
+    },
+    "days_to_maturity": {
+      "min": 1095,
+      "max": 3650
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -4
+      },
+      "note": "Plant nursery-grown container trees in fall in rocky, dry, well-drained, alkaline or acidic soil in full sun to partial shade; dwarf hackberry is among the most stress-tolerant of all native trees, thriving on exposed limestone outcrops and dry rocky ridges where few trees survive."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 72,
+      "max": 180
+    },
+    "height_in": {
+      "min": 60,
+      "max": 240
+    },
+    "spread_in": {
+      "min": 72,
+      "max": 180
+    },
+    "sun": "partial",
+    "water": "low",
+    "directions": "Dwarf hackberry is a small native tree of rocky limestone glades, cedar barrens, dry cliffs, and open woodland edges across the eastern and central United States — the most compact and stress-tolerant of the native hackberries, growing slowly into a rounded shrub or small tree on exposed, droughty sites where little else establishes. Like larger hackberries, it is one of the most important wildlife trees for native butterflies: the larvae of hackberry emperor, tawny emperor, and American snout butterflies feed exclusively on hackberry foliage, making all Celtis species invaluable host plants for these specialist butterflies. Its small, orange-to-dark-purple berries ripen in fall and are consumed by at least 48 species of birds — it is one of the top bird-attracting fruiting native trees for fall migrants. Its tolerance of rocky, alkaline, shallow limestone soils and exposed cliff-face conditions makes it ideal for dry stone walls, rocky native plantings, and limestone-soil landscapes where conventional trees fail to thrive.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "Missouri Botanical Garden Plant Finder",
+      "Illinois Wildflowers"
+    ]
+  },
+  {
+    "slug": "net-leaf-hackberry",
+    "common_name": "Net-Leaf Hackberry (Western Hackberry)",
+    "scientific_name": "Celtis reticulata",
+    "category": "flower",
+    "subcategory": "native wildlife tree",
+    "days_to_germination": {
+      "min": 30,
+      "max": 60
+    },
+    "germination_soil_temp_f": {
+      "min": 50,
+      "max": 65
+    },
+    "days_to_maturity": {
+      "min": 1825,
+      "max": 5475
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -4
+      },
+      "note": "Plant nursery-grown container trees in fall in rocky, dry, alkaline, well-drained soil in full sun; net-leaf hackberry is a tree of canyon walls, rocky arroyos, and desert wash margins in the arid Southwest — it requires excellent drainage and tolerates alkaline soils better than sugar hackberry."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 120,
+      "max": 240
+    },
+    "height_in": {
+      "min": 120,
+      "max": 360
+    },
+    "spread_in": {
+      "min": 120,
+      "max": 240
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Net-leaf hackberry is the western species of hackberry, found on rocky canyon walls, limestone bluffs, and desert arroyo margins from the Texas Hill Country west to California and south into Mexico, where it often clings to near-vertical cliff faces and survives in conditions of extreme drought and heat. Its distinctive deeply veined, rough, sandpaper-textured leaves (the 'reticulata' means net-veined) and tolerance of alkaline limestone soils make it the hackberry for dry, rocky, alkaline landscapes of the southwest where eastern hackberry (Celtis occidentalis) is poorly adapted. Like all hackberries, it is a primary host plant for hackberry emperor and American snout butterflies, and its small, dark red to black berries are eaten by 30+ bird species including robins, mockingbirds, cedar waxwings, and migrating thrushes. In south and central Texas and the southwestern states, it is an important native tree for dry, rocky, alkaline soil landscape situations and for restoring native woodland structure in arroyo and canyon habitats.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "University of Arizona Cooperative Extension",
+      "Texas A&M AgriLife Extension"
+    ]
+  },
+  {
+    "slug": "sand-hackberry",
+    "common_name": "Sand Hackberry (Spiny Hackberry, Granjeno)",
+    "scientific_name": "Celtis pallida",
+    "category": "flower",
+    "subcategory": "native wildlife shrub",
+    "days_to_germination": {
+      "min": 21,
+      "max": 60
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 730,
+      "max": 2190
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 4
+      },
+      "note": "Plant container-grown shrubs in spring in any well-drained, alkaline, dry to average soil in full sun; sand hackberry is a thorny, drought-resistant shrub of south Texas and the Rio Grande Valley — it grows rapidly and tolerates poor, alkaline, caliche soils with no irrigation."
+    },
+    "usda_zones": {
+      "min": 8,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 72,
+      "max": 144
+    },
+    "height_in": {
+      "min": 72,
+      "max": 180
+    },
+    "spread_in": {
+      "min": 72,
+      "max": 144
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Sand hackberry (granjeno in south Texas) is a thorny native evergreen shrub of the lower Rio Grande Valley and south Texas brush country, producing small, yellowish-orange to red fruits abundantly year-round that are among the most important food sources for resident and migratory birds in the region — it is one of the top-ranked native plants for bird feeding in the Rio Grande Valley by wildlife managers and birders. The dense, thorny thickets provide impenetrable nesting and escape cover for green jays, Altamira orioles, and dozens of other brushland birds; the plant is a cornerstone of the native south Texas chaparral community. Hackberry emperor butterflies use this species as a larval host, and white-tipped doves, plain chachalacas, and chestnut-fronted macaws consume the fruits. In south Texas wildlife habitat gardens and Rio Grande Valley native plantings, granjeno is one of the highest-priority native shrubs for creating dense, self-sustaining wildlife habitat that provides food, cover, and nesting resources year-round without supplemental irrigation.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "Texas A&M AgriLife Extension",
+      "Lower Rio Grande Valley Native Plant Guide (USFWS)"
+    ]
+  }
+]

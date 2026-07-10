@@ -1,0 +1,552 @@
+[
+  {
+    "slug": "goldie-fern",
+    "common_name": "Goldie's Fern",
+    "scientific_name": "Dryopteris goldiana",
+    "category": "flower",
+    "subcategory": "native fern",
+    "days_to_germination": {
+      "min": 14,
+      "max": 30
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 365,
+      "max": 730
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Divide clumps in early spring or fall and plant in moist, humus-rich, slightly acidic to neutral, well-drained soil in partial to full shade; Goldie's Fern is the largest of the native eastern wood ferns and benefits from deep, rich, consistently moist soil to produce its full-size fronds."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 8
+    },
+    "spacing_in": {
+      "min": 24,
+      "max": 36
+    },
+    "height_in": {
+      "min": 24,
+      "max": 48
+    },
+    "spread_in": {
+      "min": 24,
+      "max": 36
+    },
+    "sun": "shade",
+    "water": "moderate",
+    "directions": "Goldie's Fern is the largest of the native eastern wood ferns, native to rich, moist deciduous forests from Quebec and the Great Lakes south to Georgia and Tennessee, where it grows in deep, humus-rich, neutral to slightly acidic soils — often in ravines, north-facing slopes, and sheltered hollows alongside sugar maple, yellow birch, and basswood. Its massive, arching, golden-green fronds can reach 4 feet in length and create a dramatic bold-textured mass in the shade garden; though deciduous, the fronds remain attractive through much of the season before dying back in late fall. Goldie's Fern is less common in cultivation than many wood ferns but is reliably hardy and long-lived in appropriate conditions — it simply requires the richest, most consistently moist soil and the deepest shade you can provide. Divide clumps in early spring before the fronds unfurl, or plant nursery transplants; mulch heavily with leaf litter to maintain consistent moisture and soil temperature.",
+    "sources": [
+      "USDA PLANTS Database",
+      "Lady Bird Johnson Wildflower Center",
+      "Native Ferns, Mosses and Grasses (William Cullina)"
+    ]
+  },
+  {
+    "slug": "southern-wood-fern",
+    "common_name": "Southern Wood Fern",
+    "scientific_name": "Dryopteris ludoviciana",
+    "category": "flower",
+    "subcategory": "native fern",
+    "days_to_germination": {
+      "min": 14,
+      "max": 30
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 365,
+      "max": 730
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Divide clumps in spring or plant nursery transplants in moist to wet, slightly acidic, humus-rich soil in partial to full shade. Southern Wood Fern tolerates seasonal flooding and thrives at the margins of ponds, streams, and swamps throughout the Gulf Coast region."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 24,
+      "max": 36
+    },
+    "height_in": {
+      "min": 24,
+      "max": 48
+    },
+    "spread_in": {
+      "min": 24,
+      "max": 36
+    },
+    "sun": "shade",
+    "water": "high",
+    "directions": "Southern Wood Fern is the premier native wood fern for Gulf Coast gardens, native to the wet bottomland forests, swamp edges, and rich floodplains of the southeastern coastal plain from South Carolina and Georgia west to Florida, Alabama, Mississippi, and Louisiana, where it grows alongside cypress, tupelo, and swamp chestnut oak in semi-permanently wet soils. Its large, dark green, leathery fronds are semi-evergreen to evergreen in zones 8–10, providing year-round structure in the shade garden, and the plant tolerates seasonal flooding better than almost any other wood fern. An outstanding choice for wet, shaded rain garden depressions, pond margins, and the moist shade under magnolias and live oaks in Gulf Coast landscapes. Divide clumps in spring; plant in heavily amended, consistently moist to wet, slightly acidic soil in partial to full shade, and mulch deeply to retain moisture during dry spells.",
+    "sources": [
+      "USDA PLANTS Database",
+      "Florida Native Plant Society",
+      "Lady Bird Johnson Wildflower Center"
+    ]
+  },
+  {
+    "slug": "swamp-fern",
+    "common_name": "Swamp Fern",
+    "scientific_name": "Blechnum serrulatum",
+    "category": "flower",
+    "subcategory": "native fern",
+    "days_to_germination": {
+      "min": 14,
+      "max": 30
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 80
+    },
+    "days_to_maturity": {
+      "min": 180,
+      "max": 365
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 6
+      },
+      "note": "Divide clumps in spring and plant in wet to moist, acidic, sandy or peaty soil in partial shade to full sun. Swamp Fern spreads aggressively by stolons in moist soil and should be given ample room or used where it can naturalize freely."
+    },
+    "usda_zones": {
+      "min": 8,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 36
+    },
+    "height_in": {
+      "min": 12,
+      "max": 24
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 36
+    },
+    "sun": "partial",
+    "water": "high",
+    "directions": "Swamp Fern is an aggressive, colony-forming native fern of the Gulf Coast and peninsular Florida, native to wet flatwoods, swamp margins, cypress sloughs, seepage slopes, and roadside ditches from Florida west to Texas, and throughout the Caribbean and tropical Americas, where it thrives in warm, wet, acidic conditions that few other ferns tolerate. The upright, glossy fronds — both sterile (wider, with toothed pinnae) and fertile (narrower, with elongated sori) — are produced from creeping stolons that spread widely in saturated or permanently moist soil, forming dense colonies that effectively suppress weeds and stabilize wet soil. An excellent low-maintenance groundcover for the permanently wet spots in Gulf Coast landscapes where most ornamental plants drown; it is fully evergreen in zones 9–11 and semi-evergreen in zone 8. Divide and replant in spring in any moist, acidic, low-lying area.",
+    "sources": [
+      "USDA PLANTS Database",
+      "Florida Native Plant Society",
+      "University of Florida IFAS Extension"
+    ]
+  },
+  {
+    "slug": "marsh-fern",
+    "common_name": "Marsh Fern",
+    "scientific_name": "Thelypteris palustris",
+    "category": "flower",
+    "subcategory": "native fern",
+    "days_to_germination": {
+      "min": 14,
+      "max": 30
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 180,
+      "max": 365
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Divide rhizome clumps in spring and plant in wet to moist, slightly acidic soil in partial shade to full sun. Marsh Fern spreads by long-creeping rhizomes to form colonies and is excellent for naturalizing wet meadows, rain gardens, and pond margins."
+    },
+    "usda_zones": {
+      "min": 2,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 30
+    },
+    "height_in": {
+      "min": 18,
+      "max": 30
+    },
+    "spread_in": {
+      "min": 24,
+      "max": 48
+    },
+    "sun": "partial",
+    "water": "high",
+    "directions": "Marsh Fern is one of the most adaptable and widely distributed native ferns in North America, native to marshes, wet meadows, sedge bogs, streambanks, and swamp margins from Newfoundland to Florida and west to Alaska and Texas, growing in full sun to partial shade in consistently moist to wet, slightly acidic soil. Its delicate, light green, pinnately divided fronds are deciduous (dying back to the ground in fall) and emerge fresh and bright in spring from long, creeping rhizomes that spread to form open, wispy colonies in wet areas. Unlike many ferns that require deep shade, Marsh Fern tolerates and even thrives in open, sunny wet meadow situations, making it one of the more versatile native ferns for rain gardens, wet roadside ditches, and pond margins. Divide and replant in spring; the plant requires consistently moist to saturated soil and declines if allowed to dry out for extended periods.",
+    "sources": [
+      "USDA PLANTS Database",
+      "Lady Bird Johnson Wildflower Center",
+      "Go Botany (New England Wildflower Society)"
+    ]
+  },
+  {
+    "slug": "bigleaf-snowbell",
+    "common_name": "Bigleaf Snowbell",
+    "scientific_name": "Styrax grandifolius",
+    "category": "flower",
+    "subcategory": "native understory shrub",
+    "days_to_germination": {
+      "min": 90,
+      "max": 180
+    },
+    "germination_soil_temp_f": {
+      "min": 40,
+      "max": 55
+    },
+    "days_to_maturity": {
+      "min": 1095,
+      "max": 2190
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant nursery transplants in spring in moist, acidic, well-drained to moist soil in partial shade. Bigleaf Snowbell is most spectacular when planted where its pendant white flowers can be viewed from below, such as on a slope above a path or at the edge of a raised bed."
+    },
+    "usda_zones": {
+      "min": 6,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 60,
+      "max": 96
+    },
+    "height_in": {
+      "min": 72,
+      "max": 144
+    },
+    "spread_in": {
+      "min": 60,
+      "max": 96
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Bigleaf Snowbell is a beautiful native understory shrub or small tree, native to the moist, rich deciduous forests of the southeastern United States from Virginia and Tennessee south to Florida and west to Louisiana, where it grows as a multi-stemmed shrub or small tree 6–12 feet tall in the shade of larger hardwoods and pines along stream terraces and ravine slopes. In May and June it produces cascading racemes of fragrant, pure white, bell-shaped flowers with conspicuous yellow stamens that cover the branches in a spectacular display and attract native bees; the flowers are best appreciated from below, where the full pendant clusters are visible against the dark canopy. The large, soft-textured leaves (up to 5 inches long) give the plant its common name and create an attractive bold texture in the shade garden. Grow in moist, acidic, humus-rich soil in partial shade and protect from drought; it is more adaptable to heat and humidity than Japanese snowbell (Styrax japonicus) and is a superior choice for southeastern gardens.",
+    "sources": [
+      "USDA PLANTS Database",
+      "Lady Bird Johnson Wildflower Center",
+      "North Carolina State Extension"
+    ]
+  },
+  {
+    "slug": "alabama-snow-wreath",
+    "common_name": "Alabama Snow-Wreath",
+    "scientific_name": "Neviusia alabamensis",
+    "category": "flower",
+    "subcategory": "native shrub",
+    "days_to_germination": {
+      "min": 30,
+      "max": 90
+    },
+    "germination_soil_temp_f": {
+      "min": 40,
+      "max": 55
+    },
+    "days_to_maturity": {
+      "min": 730,
+      "max": 1460
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant nursery-propagated transplants in spring in well-drained, slightly acidic to alkaline, rocky or loamy soil in partial shade. Alabama Snow-Wreath is a critically rare Alabama endemic and should only be sourced from nurseries that propagate their own cuttings."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 36,
+      "max": 72
+    },
+    "height_in": {
+      "min": 36,
+      "max": 72
+    },
+    "spread_in": {
+      "min": 48,
+      "max": 96
+    },
+    "sun": "partial",
+    "water": "low",
+    "directions": "Alabama Snow-Wreath is one of the rarest native shrubs in North America, a monotypic genus (the only species in its genus) restricted in the wild to a handful of limestone bluffs and rocky river slopes in northwestern Alabama and a very few widely scattered natural populations in other southeastern states. In April and May it produces a cloud of unusual, feathery, white, petal-less flowers — the 'petals' are entirely absent, and the display comes entirely from numerous long white stamens — giving the shrub an airy, ethereal appearance reminiscent of its common name. An adaptable plant in cultivation that grows well in partial shade in a wide range of soils from dry and rocky to moderately moist, Alabama Snow-Wreath is easy to propagate from cuttings and is increasingly available from specialty native plant nurseries. Never collect from wild populations — purchase only from nurseries that propagate their own plants from cultivated stock.",
+    "sources": [
+      "USDA PLANTS Database",
+      "NatureServe Explorer",
+      "North Carolina Botanical Garden"
+    ]
+  },
+  {
+    "slug": "bladdernut",
+    "common_name": "American Bladdernut",
+    "scientific_name": "Staphylea trifolia",
+    "category": "flower",
+    "subcategory": "native shrub",
+    "days_to_germination": {
+      "min": 90,
+      "max": 150
+    },
+    "germination_soil_temp_f": {
+      "min": 40,
+      "max": 55
+    },
+    "days_to_maturity": {
+      "min": 1095,
+      "max": 1825
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant nursery transplants in spring in moist to moist-well-drained, slightly acidic to neutral, humus-rich soil in partial to full shade. American Bladdernut is excellent for naturalizing moist, shaded areas where few other large shrubs will grow."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 8
+    },
+    "spacing_in": {
+      "min": 72,
+      "max": 120
+    },
+    "height_in": {
+      "min": 96,
+      "max": 180
+    },
+    "spread_in": {
+      "min": 72,
+      "max": 120
+    },
+    "sun": "shade",
+    "water": "moderate",
+    "directions": "American Bladdernut is a large, multi-stemmed native shrub, native to moist, rich deciduous forest understories, streambanks, and floodplain edges throughout eastern North America from Quebec to Florida and west to Kansas, forming thickets in the shade of oaks, maples, and ashes where few other ornamental shrubs survive. In April and May it produces drooping clusters of small, white, bell-shaped flowers attractive to native bees; these are followed in summer by the plant's most distinctive feature — inflated, papery, three-chambered seed pods resembling small green Chinese lanterns that persist into fall and rattle audibly in the breeze, turning tan and remaining decorative into winter. The opposite, trifoliate leaves resemble those of box elder and turn yellow in fall. An underutilized native shrub for difficult shaded, moist sites — excellent for naturalizing under large trees where maintaining lawn is impossible.",
+    "sources": [
+      "USDA PLANTS Database",
+      "Lady Bird Johnson Wildflower Center",
+      "Illinois Wildflowers"
+    ]
+  },
+  {
+    "slug": "fothergilla-gardenii",
+    "common_name": "Dwarf Fothergilla",
+    "scientific_name": "Fothergilla gardenii",
+    "category": "flower",
+    "subcategory": "native shrub",
+    "days_to_germination": {
+      "min": 90,
+      "max": 180
+    },
+    "germination_soil_temp_f": {
+      "min": 40,
+      "max": 55
+    },
+    "days_to_maturity": {
+      "min": 730,
+      "max": 1460
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant nursery transplants in spring in moist, well-drained, acidic (pH 4.5–6.0) soil in partial shade to full sun. Dwarf Fothergilla performs best in consistently moist, acidic soil — avoid alkaline or poorly drained locations."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 36,
+      "max": 60
+    },
+    "height_in": {
+      "min": 24,
+      "max": 48
+    },
+    "spread_in": {
+      "min": 36,
+      "max": 60
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Dwarf Fothergilla is one of the finest native shrubs for four-season interest in the southeastern garden, native to wet pine savannas, pocosins, and moist, acidic coastal plain habitats from North Carolina to Alabama, producing fragrant, white, bottlebrush-like flower spikes of pure white stamens in March and April before the leaves emerge — among the most beautiful of all native spring-blooming shrubs. The broadly ovate, blue-green summer leaves are attractive in their own right; they turn to exceptional shades of crimson, orange, and yellow in fall, often with all three colors on a single leaf. Easy to grow in moist, well-drained, acidic soil in full sun to partial shade, Dwarf Fothergilla is compact enough for small gardens and is valuable as a foundation planting, border accent, or naturalized understory shrub. Provide acidic, consistently moist soil and avoid alkaline conditions, which cause chlorosis.",
+    "sources": [
+      "USDA PLANTS Database",
+      "Lady Bird Johnson Wildflower Center",
+      "Dirr's Hardy Trees and Shrubs"
+    ]
+  },
+  {
+    "slug": "zenobia",
+    "common_name": "Honeycup",
+    "scientific_name": "Zenobia pulverulenta",
+    "category": "flower",
+    "subcategory": "native shrub",
+    "days_to_germination": {
+      "min": 21,
+      "max": 60
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 730,
+      "max": 1460
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant nursery transplants in spring in wet to moist, highly acidic (pH 4.5–5.5), sandy or peaty soil in partial shade. Zenobia is a bog and pocosin specialist that requires consistently acidic, wet conditions — it declines in alkaline or dry soils."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 36,
+      "max": 60
+    },
+    "height_in": {
+      "min": 36,
+      "max": 72
+    },
+    "spread_in": {
+      "min": 36,
+      "max": 60
+    },
+    "sun": "partial",
+    "water": "high",
+    "directions": "Honeycup (or Powdery Zenobia) is a stunning native shrub, native to wet pine savannas, pocosins, bog edges, and seepage slopes of the coastal plain from North Carolina to northern Florida, where it grows with fetterbush, inkberry, and swamp azalea in highly acidic, peaty, wet soils. In June and July it produces dangling clusters of lily-of-the-valley-scented, white, bell-shaped flowers on gracefully arching stems — the flowers are honey-sweet in fragrance and highly attractive to native bees. The distinctive glaucous (powdery blue-green) leaves are semi-evergreen to deciduous depending on the winter, and the shrub slowly spreads by stolons to form loose colonies. Grow in wet, highly acidic soil in partial shade; it is excellent companion to Atlantic white cedar, blueberries, and swamp azaleas in a native bog or rain garden planting. Avoid alkaline or dry conditions, which are fatal.",
+    "sources": [
+      "USDA PLANTS Database",
+      "North Carolina Botanical Garden",
+      "Lady Bird Johnson Wildflower Center"
+    ]
+  },
+  {
+    "slug": "coastal-doghobble",
+    "common_name": "Coastal Doghobble",
+    "scientific_name": "Leucothoe axillaris",
+    "category": "flower",
+    "subcategory": "native shrub",
+    "days_to_germination": {
+      "min": 21,
+      "max": 60
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 730,
+      "max": 1460
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant nursery transplants in spring in moist, well-drained, highly acidic (pH 4.5–6.0) soil in partial to full shade. Coastal Doghobble is one of the most shade-tolerant native broadleaf evergreen shrubs available for southeastern gardens and can thrive under dense tree canopy where few other shrubs persist."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 36,
+      "max": 60
+    },
+    "height_in": {
+      "min": 36,
+      "max": 72
+    },
+    "spread_in": {
+      "min": 48,
+      "max": 72
+    },
+    "sun": "shade",
+    "water": "moderate",
+    "directions": "Coastal Doghobble is a graceful, arching, broadleaf evergreen native shrub, native to moist, acidic, shaded streambanks, ravine slopes, and moist, sandy forest understories of the southeastern coastal plain from Virginia to Florida and west to Mississippi, where its arching stems weave through the understory to form dense, impenetrable thickets — hence the 'doghobble' name, as hunting dogs became entangled in the arching stems. In April and May it produces racemes of small, white, urn-shaped flowers along the undersides of the arching branches, followed by attractive dark green, leathery, lance-shaped leaves that turn burgundy-red to bronze in winter, providing excellent cold-season color in the shade garden. One of the most shade-tolerant native broadleaf evergreen shrubs available, Coastal Doghobble thrives under dense tree canopy where azaleas and camellias struggle; provide consistently moist, acidic soil and avoid alkaline conditions or prolonged drought.",
+    "sources": [
+      "USDA PLANTS Database",
+      "Lady Bird Johnson Wildflower Center",
+      "North Carolina State Extension"
+    ]
+  }
+]

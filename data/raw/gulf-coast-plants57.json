@@ -1,0 +1,552 @@
+[
+  {
+    "slug": "pignut-hickory",
+    "common_name": "Pignut Hickory",
+    "scientific_name": "Carya glabra",
+    "category": "fruit",
+    "subcategory": "native nut tree",
+    "days_to_germination": {
+      "min": 30,
+      "max": 90
+    },
+    "germination_soil_temp_f": {
+      "min": 40,
+      "max": 55
+    },
+    "days_to_maturity": {
+      "min": 3650,
+      "max": 7300
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -6,
+        "max": -2
+      },
+      "note": "Direct sow fresh nuts at 2–3 inch depth in fall in well-drained, slightly acidic, deep, loamy to sandy soil in full sun to light shade. Pignut Hickory develops a deep taproot early in life and is difficult to transplant once established — direct sowing or transplanting very young container-grown seedlings is strongly preferred."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 360,
+      "max": 720
+    },
+    "height_in": {
+      "min": 480,
+      "max": 900
+    },
+    "spread_in": {
+      "min": 240,
+      "max": 480
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Pignut Hickory is a stately, long-lived native nut tree, native to the dry to mesic upland forests and ridges of eastern North America from Ontario and New England south to Florida and west to Kansas, where it is a dominant component of the oak-hickory forest communities of the eastern United States. The small, pear-shaped nuts — borne in thin, pear-shaped husks that split into four sections at maturity — are intensely bitter to humans but form a critical fall and winter food source for white-tailed deer, wild turkeys, squirrels, blue jays, and wood ducks, making Pignut Hickory one of the most ecologically important native nut trees in the eastern forest. Rich, golden-yellow fall foliage and deeply furrowed gray bark provide ornamental interest in all seasons; the hard, dense wood is among the toughest and most shock-resistant of any North American tree. Direct sow fresh nuts in fall in deep, well-drained, slightly acidic soil in full sun; the deep taproot that forms in the first year makes mature trees virtually impossible to transplant.",
+    "sources": [
+      "USDA PLANTS Database",
+      "Lady Bird Johnson Wildflower Center",
+      "Illinois Wildflowers"
+    ]
+  },
+  {
+    "slug": "water-hickory",
+    "common_name": "Water Hickory",
+    "scientific_name": "Carya aquatica",
+    "category": "fruit",
+    "subcategory": "native nut tree",
+    "days_to_germination": {
+      "min": 30,
+      "max": 90
+    },
+    "germination_soil_temp_f": {
+      "min": 40,
+      "max": 55
+    },
+    "days_to_maturity": {
+      "min": 3650,
+      "max": 7300
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -6,
+        "max": -2
+      },
+      "note": "Direct sow fresh nuts in fall in moist to wet, slightly acidic, deep alluvial soil in full sun. Water Hickory is adapted to the seasonally flooded bottomlands and swamp edges of the Gulf Coast and should be sited in low-lying areas that experience periodic flooding."
+    },
+    "usda_zones": {
+      "min": 6,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 360,
+      "max": 600
+    },
+    "height_in": {
+      "min": 480,
+      "max": 840
+    },
+    "spread_in": {
+      "min": 240,
+      "max": 360
+    },
+    "sun": "full",
+    "water": "high",
+    "directions": "Water Hickory is the hickory of the riverine swamps, bottomland hardwood forests, and floodplain edges of the southeastern coastal plain, native from Virginia to Florida and west to Illinois and Texas, where it grows alongside bald cypress, water tupelo, and swamp chestnut oak in the seasonally flooded alluvial soils of river terraces and floodplain edges. Its small, thin-shelled nuts are very bitter and not generally eaten by people, but they are an important food for wood ducks, squirrels, and wild turkeys in bottomland habitat — waterfowl consume large quantities of the nuts that fall into flooded bottomland pools in fall. Like all hickories, Water Hickory is slow-growing but extremely long-lived, with the deep taproot making transplanting nearly impossible after the first year of growth; direct-seed into the permanent planting site in fall for best results. Grow in moist to periodically flooded, rich, slightly acidic alluvial soil in full sun — the only hickory species reliably tolerant of extended seasonal flooding.",
+    "sources": [
+      "USDA PLANTS Database",
+      "Lady Bird Johnson Wildflower Center",
+      "USDA Forest Service"
+    ]
+  },
+  {
+    "slug": "silver-maple",
+    "common_name": "Silver Maple",
+    "scientific_name": "Acer saccharinum",
+    "category": "flower",
+    "subcategory": "native shade tree",
+    "days_to_germination": {
+      "min": 7,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 1095,
+      "max": 3650
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant nursery transplants in spring in moist to wet, slightly acidic, deep soil in full sun to partial shade; Silver Maple is most appropriately planted near permanent water features, in rain gardens, or in low-lying, wet areas where its moisture requirement is naturally met. Avoid planting near sewer lines or foundations — the roots are aggressive in seeking moisture."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 360,
+      "max": 600
+    },
+    "height_in": {
+      "min": 480,
+      "max": 840
+    },
+    "spread_in": {
+      "min": 360,
+      "max": 600
+    },
+    "sun": "partial",
+    "water": "high",
+    "directions": "Silver Maple is the fastest-growing of the native maples, native to the streambanks, bottomlands, and moist lowlands of eastern North America from New Brunswick to Florida and west to the Dakotas, producing a new flush of growth each season that can exceed 3 feet per year in rich, moist alluvial soil. It is among the first native trees to bloom in late winter (February–March), producing clusters of tiny red flowers on bare branches that are one of the most important early pollen and nectar sources of the year for native bees emerging from winter dormancy. The leaves are deeply lobed with silvery-white undersides that shimmer and flash in the breeze, creating a beautiful display in summer wind storms; fall color is modest — pale yellow to orange. The wood is softer and weaker than other maples and Silver Maple is prone to branch breakage in ice storms, making maintenance planning important; it is most appropriate for wet, low-lying sites near water where its moisture tolerance, fast growth, and wildlife value are assets. Keep away from foundations and sewer lines.",
+    "sources": [
+      "USDA PLANTS Database",
+      "Lady Bird Johnson Wildflower Center",
+      "Dirr's Hardy Trees and Shrubs"
+    ]
+  },
+  {
+    "slug": "boxelder",
+    "common_name": "Boxelder",
+    "scientific_name": "Acer negundo",
+    "category": "flower",
+    "subcategory": "native shade tree",
+    "days_to_germination": {
+      "min": 14,
+      "max": 30
+    },
+    "germination_soil_temp_f": {
+      "min": 55,
+      "max": 65
+    },
+    "days_to_maturity": {
+      "min": 1095,
+      "max": 2190
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant nursery transplants in spring in any well-drained to moist, slightly acidic to neutral soil in full sun to partial shade; Boxelder self-seeds prolifically and should be planted thoughtfully as a intentional native tree rather than allowed to spread unmanaged in formal landscapes."
+    },
+    "usda_zones": {
+      "min": 2,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 240,
+      "max": 480
+    },
+    "height_in": {
+      "min": 240,
+      "max": 600
+    },
+    "spread_in": {
+      "min": 240,
+      "max": 480
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Boxelder is a native maple unlike any other — with pinnately compound leaves (3–7 leaflets) that bear no resemblance to the classic maple leaf — native throughout almost the entirety of North America east of the Rockies and naturalized well beyond, growing in river floodplains, bottomlands, stream corridors, and disturbed urban habitats with the same casual colonizing energy as cottonwood. Often dismissed as a weed tree in horticultural circles, Boxelder provides important ecological services that more ornamental trees cannot match: it is the only host plant for the Boxelder bug (Boisea trivittata), a harmless true bug that is a significant food source for many native birds; female trees produce abundant samaras (paired winged seeds) that are an important winter food for evening grosbeaks, finches, and other seed-eating birds; and the fast-growing tree provides rapid canopy cover for riparian restoration. Tolerant of flooding, drought, poor soils, and urban pollution, Boxelder is effectively impossible to kill once established and self-seeds prolifically — use it intentionally in naturalistic, riparian, or wildlife plantings where its resilience is an asset.",
+    "sources": [
+      "USDA PLANTS Database",
+      "Lady Bird Johnson Wildflower Center",
+      "Illinois Wildflowers"
+    ]
+  },
+  {
+    "slug": "swamp-cottonwood",
+    "common_name": "Swamp Cottonwood",
+    "scientific_name": "Populus heterophylla",
+    "category": "flower",
+    "subcategory": "native shade tree",
+    "days_to_germination": {
+      "min": 5,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 1095,
+      "max": 2190
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant nursery transplants or root hardwood cuttings in spring in wet, moist, slightly acidic to neutral, rich alluvial or clay-loam soil in full sun. Swamp Cottonwood thrives in the deepest, most permanently wet bottomland soils where Eastern Cottonwood (Populus deltoides) begins to struggle."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 360,
+      "max": 600
+    },
+    "height_in": {
+      "min": 480,
+      "max": 1080
+    },
+    "spread_in": {
+      "min": 240,
+      "max": 480
+    },
+    "sun": "full",
+    "water": "high",
+    "directions": "Swamp Cottonwood is the wetland specialist of the cottonwood family, native to the permanently flooded swamps, blackwater river bottoms, and cypress-tupelo swamp margins of the southeastern coastal plain from Connecticut to Florida and west to Indiana and Oklahoma, where it tolerates deeper and more prolonged flooding than any other native cottonwood. Its leaves are distinctly broader and more rounded than those of Eastern Cottonwood (Populus deltoides) — hence the species epithet heterophylla (variable-leaved) — and the tree often develops a tall, straight trunk in the competitive light environment of bottomland forest. Like other cottonwoods, Swamp Cottonwood is a fast-growing pioneer tree important for rapid canopy establishment in wetland restoration projects; it roots readily from hardwood cuttings pushed into wet soil in early spring. The cottony seeds of female trees are dispersed by wind and water in late spring and early summer. An excellent riparian tree for the restoration and naturalization of permanently wet bottomland habitats in zones 5–9.",
+    "sources": [
+      "USDA PLANTS Database",
+      "Lady Bird Johnson Wildflower Center",
+      "USDA Forest Service"
+    ]
+  },
+  {
+    "slug": "pussy-willow",
+    "common_name": "Pussy Willow",
+    "scientific_name": "Salix discolor",
+    "category": "flower",
+    "subcategory": "native shrub",
+    "days_to_germination": {
+      "min": 5,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 55,
+      "max": 65
+    },
+    "days_to_maturity": {
+      "min": 365,
+      "max": 730
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant nursery transplants or root hardwood cuttings in spring in wet to moist, slightly acidic soil in full sun to partial shade. Pussy Willow catkins can also be cut and displayed indoors in water, where they will root and can be potted or planted out; cut branches in late winter while catkins are still tightly in bud."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 8
+    },
+    "spacing_in": {
+      "min": 72,
+      "max": 120
+    },
+    "height_in": {
+      "min": 120,
+      "max": 240
+    },
+    "spread_in": {
+      "min": 72,
+      "max": 120
+    },
+    "sun": "partial",
+    "water": "high",
+    "directions": "Pussy Willow is the beloved harbinger of spring throughout eastern North America, a large native shrub or small tree native to wet meadows, swamp margins, streambanks, and moist thickets from Newfoundland to British Columbia and south to the Appalachians and Pacific Northwest, producing in February and March the large, plump, silvery-gray male catkins that are one of the most universally recognized signals that winter is ending. Male plants produce the showiest catkins (female catkins are smaller and less attractive); catkin branches cut in late winter and placed in water indoors immediately become a beloved floral display that reliably roots — the resulting rooted cuttings can be potted or planted directly in the garden. An important early pollinator plant, providing pollen to native bees, honey bees, and other emerging insects before virtually any other tree flowers; willows in general are one of the most important native pollinator plants in North America. Plant in wet to moist, slightly acidic soil in full sun to partial shade near pond margins, rain gardens, or wet depressions.",
+    "sources": [
+      "USDA PLANTS Database",
+      "Lady Bird Johnson Wildflower Center",
+      "Go Botany (New England Wildflower Society)"
+    ]
+  },
+  {
+    "slug": "sweet-birch",
+    "common_name": "Sweet Birch",
+    "scientific_name": "Betula lenta",
+    "category": "flower",
+    "subcategory": "native shade tree",
+    "days_to_germination": {
+      "min": 30,
+      "max": 60
+    },
+    "germination_soil_temp_f": {
+      "min": 40,
+      "max": 55
+    },
+    "days_to_maturity": {
+      "min": 1825,
+      "max": 3650
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant nursery transplants in spring in moist, well-drained, slightly acidic, cool, humus-rich soil in partial shade. Sweet Birch is an Appalachian mountain tree that performs best in cool, moist, north-facing situations in zones 3–6; in zone 7 it may struggle in hot summer conditions and requires a sheltered, cool, moist site."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 7
+    },
+    "spacing_in": {
+      "min": 240,
+      "max": 360
+    },
+    "height_in": {
+      "min": 360,
+      "max": 720
+    },
+    "spread_in": {
+      "min": 240,
+      "max": 360
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Sweet Birch is an elegant native birch of the Appalachian Mountains and northeastern North America, native to cool, moist, well-drained forest slopes and ravines from Maine and Ontario south through the Appalachians to Georgia and Alabama, distinguished from other birches by its dark, cherry-like bark (not peeling white or papery) and the intensely sweet, wintergreen fragrance released when the bark, twigs, or leaves are crushed — the essential oil methyl salicylate (oil of wintergreen) was historically distilled from the bark and twigs for flavoring and as a precursor to salicylic acid. Rich, golden-yellow fall color, pendant pollen catkins in early spring, and an attractive, slightly furrowed dark bark provide four-season ornamental interest in the woodland garden. Sweet Birch is host to dozens of native Lepidoptera species (caterpillars) and provides high-quality nesting habitat for cavity-nesting birds in mature specimens. Grow in cool, moist, well-drained, slightly acidic, humus-rich soil in partial shade; it is most appropriate for the cooler portions of its range and struggles in the heat of zones 7–8.",
+    "sources": [
+      "USDA PLANTS Database",
+      "Lady Bird Johnson Wildflower Center",
+      "Go Botany (New England Wildflower Society)"
+    ]
+  },
+  {
+    "slug": "water-locust",
+    "common_name": "Water Locust",
+    "scientific_name": "Gleditsia aquatica",
+    "category": "flower",
+    "subcategory": "native wetland tree",
+    "days_to_germination": {
+      "min": 14,
+      "max": 30
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 1095,
+      "max": 2190
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Scarify seeds and plant nursery transplants in spring in wet to moist, slightly acidic to neutral, deep alluvial or clay-loam soil in full sun. Water Locust tolerates prolonged flooding and is an excellent native tree for the most difficult, permanently wet bottomland sites where other large trees fail."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 240,
+      "max": 480
+    },
+    "height_in": {
+      "min": 360,
+      "max": 600
+    },
+    "spread_in": {
+      "min": 240,
+      "max": 360
+    },
+    "sun": "full",
+    "water": "high",
+    "directions": "Water Locust is the swamp-adapted cousin of Honey Locust (Gleditsia triacanthos), native to the permanently flooded bottomlands, river swamps, and slough edges of the southeastern and south-central United States from South Carolina and Florida west to Illinois and Texas, where it tolerates standing water for extended periods that most other large trees cannot survive. Like Honey Locust it bears formidable branched thorns on the trunk and branches, but the seed pods are shorter and usually contain only one or two seeds rather than the many seeds in Honey Locust's long pods. The flat seed pods that fall into floodwater are buoyant and dispersed by currents, making Water Locust an effective natural colonizer of new bottomland habitats after flooding. A valuable riparian restoration tree for wet, bottomland habitats in zones 5–9, providing large tree structure in permanently flooded sites where bald cypress, water tupelo, and swamp cottonwood grow as associates. Plant in full sun in wet, rich, slightly acidic alluvial soil.",
+    "sources": [
+      "USDA PLANTS Database",
+      "Lady Bird Johnson Wildflower Center",
+      "USDA Forest Service"
+    ]
+  },
+  {
+    "slug": "kentucky-coffeetree",
+    "common_name": "Kentucky Coffeetree",
+    "scientific_name": "Gymnocladus dioicus",
+    "category": "flower",
+    "subcategory": "native shade tree",
+    "days_to_germination": {
+      "min": 14,
+      "max": 30
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 1825,
+      "max": 3650
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Scarify seeds by nicking the hard seed coat or soaking in hot water (not boiling) for 24 hours before planting. Plant nursery transplants in spring in well-drained to moist, slightly alkaline to slightly acidic, deep soil in full sun. Caution: seeds and pods are toxic if ingested raw; roasting destroys the toxic alkaloids."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 8
+    },
+    "spacing_in": {
+      "min": 360,
+      "max": 600
+    },
+    "height_in": {
+      "min": 480,
+      "max": 840
+    },
+    "spread_in": {
+      "min": 360,
+      "max": 600
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Kentucky Coffeetree is one of the most architecturally dramatic of the eastern native trees, native to the bottomlands, river terraces, and moist upland woods of the central and mid-south United States from New York and Nebraska south to Tennessee and Oklahoma, immediately recognizable in winter by its massive, stout, few-branched silhouette, deeply ridged gray bark, and enormous, persistent, dark brown seed pods up to 10 inches long that hang through winter — one of the most bold and graphic of all bare winter tree forms. The enormous, doubly-pinnate leaves (up to 3 feet long and 2 feet wide) unfurl very late in spring and drop early in fall, giving it one of the shortest leafy seasons of any native tree; in late spring it produces hanging clusters of fragrant white flowers attractive to long-tongued native bees. The hard seeds were roasted and used as a coffee substitute by early settlers and Native American tribes (raw seeds contain toxic alkaloids destroyed by roasting); the pods were fed to pigs and cattle historically. Extremely drought-tolerant, pollution-tolerant, and adaptable to urban conditions once established; an outstanding underused native street and shade tree.",
+    "sources": [
+      "USDA PLANTS Database",
+      "Lady Bird Johnson Wildflower Center",
+      "Illinois Wildflowers"
+    ]
+  },
+  {
+    "slug": "kentucky-wisteria",
+    "common_name": "Kentucky Wisteria",
+    "scientific_name": "Wisteria macrostachya",
+    "category": "flower",
+    "subcategory": "native vine",
+    "days_to_germination": {
+      "min": 14,
+      "max": 30
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 365,
+      "max": 1095
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant nursery transplants (named cultivars are preferred over seedlings for reliable flowering) in spring in moist, well-drained, slightly acidic to neutral, moderately fertile soil in full sun. Provide a very sturdy support structure — arbor, pergola, or strong trellis — capable of bearing the substantial weight of a mature plant."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 120,
+      "max": 180
+    },
+    "height_in": {
+      "min": 120,
+      "max": 300
+    },
+    "spread_in": {
+      "min": 120,
+      "max": 240
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Kentucky Wisteria is the hardiest and most well-behaved of the native wisterias, native to the bottomland forests, streambanks, and moist woodland edges of the south-central United States from Illinois and Missouri south to Louisiana and Texas, producing in late spring (and often again in late summer) dense, fragrant, lavender-to-purple flower racemes 6–12 inches long that are visually spectacular on an arbor or pergola — and doing so while behaving far less aggressively than the invasive Japanese and Chinese wisterias that have escaped cultivation and naturalized throughout the southeastern United States. Named cultivars such as 'Blue Moon', 'Aunt Dee', and 'Thunderstruck' are reliable repeat-bloomers and are the preferred choice over seedlings, which may take years to bloom and produce inferior flowers. Unlike Asian wisterias, Kentucky Wisteria twines in a clockwise direction and is significantly less vigorous and easier to manage, though it still requires a strong support and annual pruning. Grow in full sun in moist, well-drained, slightly acidic to neutral soil — avoid over-fertilizing with nitrogen, which promotes excessive foliage at the expense of flowers.",
+    "sources": [
+      "USDA PLANTS Database",
+      "Lady Bird Johnson Wildflower Center",
+      "Missouri Botanical Garden"
+    ]
+  }
+]

@@ -1,0 +1,528 @@
+[
+  {
+    "slug": "southern-dewberry",
+    "common_name": "Southern Dewberry (Swamp Dewberry)",
+    "scientific_name": "Rubus trivialis",
+    "category": "berry",
+    "subcategory": "native trailing berry",
+    "days_to_germination": {
+      "min": 21,
+      "max": 60
+    },
+    "germination_soil_temp_f": {
+      "min": 55,
+      "max": 65
+    },
+    "days_to_maturity": {
+      "min": 180,
+      "max": 365
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -4
+      },
+      "note": "Plant rooted divisions or tip-layer cuttings in fall in well-drained, slightly acidic to neutral, loamy to sandy soil in full sun to partial shade; southern dewberry is one of the most widely distributed and prolific native wild berries of the Gulf Coast and forms large, productive colonies in open woodland edges, roadsides, and disturbed areas."
+    },
+    "usda_zones": {
+      "min": 6,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 36,
+      "max": 60
+    },
+    "height_in": {
+      "min": 6,
+      "max": 18
+    },
+    "spread_in": {
+      "min": 48,
+      "max": 96
+    },
+    "sun": "partial",
+    "water": "low",
+    "directions": "Plant rooted divisions in fall in well-drained, slightly acidic to neutral, loamy to sandy soil in full sun to partial shade — southern dewberry is the dominant wild trailing blackberry of the Gulf Coast and Deep South, carpeting open woodlands, roadsides, fencerows, and disturbed ground from Texas to Florida with trailing, thorny canes that root at the tips wherever they contact soil. In early spring the canes are blanketed with small white five-petaled flowers excellent for native bees, followed by clusters of large, juicy, glossy black berries in April–May that are sweet, aromatic, and superb for eating fresh, making jam, or freezing. Unlike erect blackberries, dewberries trail flat along the ground rather than arching upright, making them a natural mulching ground cover under fruit trees and along the edges of food forest plantings. Harvest before full ripeness for jam; eat fresh at peak ripeness. Remove oldest canes after fruiting to keep the planting productive.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "USDA PLANTS Database",
+      "University of Florida IFAS Extension"
+    ]
+  },
+  {
+    "slug": "roughleaf-dogwood",
+    "common_name": "Roughleaf Dogwood (Drummond Dogwood)",
+    "scientific_name": "Cornus drummondii",
+    "category": "flower",
+    "subcategory": "native wildlife shrub",
+    "days_to_germination": {
+      "min": 60,
+      "max": 120
+    },
+    "germination_soil_temp_f": {
+      "min": 40,
+      "max": 55
+    },
+    "days_to_maturity": {
+      "min": 365,
+      "max": 730
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -4
+      },
+      "note": "Plant rooted suckers or container plants in fall or early spring in well-drained to moderately moist, slightly acidic to alkaline soil in full sun to partial shade; roughleaf dogwood is remarkably adaptable to both dry, rocky, alkaline soils of the southern plains and the moist, acidic soils of eastern woodlands."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 48,
+      "max": 72
+    },
+    "height_in": {
+      "min": 72,
+      "max": 144
+    },
+    "spread_in": {
+      "min": 72,
+      "max": 120
+    },
+    "sun": "partial",
+    "water": "low",
+    "directions": "Plant in well-drained to moderately moist, slightly acidic to neutral soil in full sun to partial shade — roughleaf dogwood is a tough, suckering native shrub or small multi-stem tree of southern woodlands, thickets, and stream edges, producing flat-topped clusters of small white flowers in late spring followed by pea-sized, creamy-white berries on red pedicels in late summer that are among the most intensely sought fruits by migrating songbirds. The rough-textured, opposite leaves turn attractive shades of maroon and wine-red in fall. It spreads by root suckers to form dense, multi-stem thickets that provide outstanding cover and food for wildlife year-round. Adaptable to dry, rocky, alkaline conditions unusual among dogwoods — an outstanding native for difficult southern sites where flowering dogwood (C. florida) struggles. Prune out oldest stems periodically to maintain vigor and an open, attractive form.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "USDA PLANTS Database",
+      "Missouri Botanical Garden Plant Finder"
+    ]
+  },
+  {
+    "slug": "flowering-dogwood",
+    "common_name": "Flowering Dogwood",
+    "scientific_name": "Cornus florida",
+    "category": "flower",
+    "subcategory": "native understory tree",
+    "days_to_germination": {
+      "min": 60,
+      "max": 120
+    },
+    "germination_soil_temp_f": {
+      "min": 40,
+      "max": 55
+    },
+    "days_to_maturity": {
+      "min": 730,
+      "max": 1825
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -4
+      },
+      "note": "Plant balled-and-burlapped or container-grown specimens in fall in moist, slightly acidic, humus-rich, well-drained soil in partial shade; in the South, flowering dogwood requires afternoon shade protection and is significantly more stressed and disease-prone in full sun — understory conditions mimic its natural habitat."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 180,
+      "max": 240
+    },
+    "height_in": {
+      "min": 180,
+      "max": 360
+    },
+    "spread_in": {
+      "min": 180,
+      "max": 300
+    },
+    "sun": "shade",
+    "water": "moderate",
+    "directions": "Plant in moist, slightly acidic, humus-rich, well-drained soil in partial to dappled shade — flowering dogwood is one of the most beloved native understory trees of the eastern US, producing its iconic four-bract 'flowers' (actually modified leaves surrounding tiny true flowers) in brilliant white or pink in early spring before the leaves emerge, covering the tiered, horizontal branches in a sheet of bloom visible through the forest from a distance. The leaves are followed by clusters of brilliant red berries in fall that feed migrating birds, and the foliage itself turns brilliant scarlet and purple in autumn. In the South, flowering dogwood is more susceptible to dogwood anthracnose fungal disease in hot, wet, poorly-aired conditions than in the North; plant in well-drained soil with good air circulation and avoid wetting foliage to reduce disease pressure. Zone 9 specimens benefit from afternoon shade and consistent moisture during summer heat.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "University of Florida IFAS Extension",
+      "North Carolina State Extension"
+    ]
+  },
+  {
+    "slug": "dahoon-holly",
+    "common_name": "Dahoon Holly (Dahoon)",
+    "scientific_name": "Ilex cassine",
+    "category": "flower",
+    "subcategory": "native wetland tree",
+    "days_to_germination": {
+      "min": 60,
+      "max": 120
+    },
+    "germination_soil_temp_f": {
+      "min": 40,
+      "max": 55
+    },
+    "days_to_maturity": {
+      "min": 730,
+      "max": 1825
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant container-grown specimens in spring in moist to wet, slightly acidic, sandy to loamy soil in partial shade to full sun; dahoon holly grows naturally in swamps, stream banks, and wet flatwoods and tolerates standing water and high water tables better than any other native holly except possumhaw. Plant male and female plants for berry production."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 120,
+      "max": 180
+    },
+    "height_in": {
+      "min": 120,
+      "max": 360
+    },
+    "spread_in": {
+      "min": 60,
+      "max": 120
+    },
+    "sun": "partial",
+    "water": "high",
+    "directions": "Plant in moist to wet, slightly acidic soil in partial shade to full sun — dahoon holly is one of the most beautiful and ecologically important native trees of the Gulf Coast and Southeast, growing naturally in the understory of bottomland swamps, cypress heads, wet pine flatwoods, and stream banks from Virginia to Texas. Female plants (a male nearby is needed for pollination) produce abundant clusters of small, brilliant red to orange-red berries that persist from fall through winter, providing critical food for robins, cedar waxwings, bluebirds, and dozens of other fruit-eating birds during winter when food is scarce. The narrow, elliptic, dark evergreen leaves are attractive year-round. It tolerates flooding and wet soils better than almost any other tree in cultivation and is outstanding for rain gardens, wet low spots, pond margins, and other challenging wet sites in zone 7–11. An excellent winter-interest tree for the shaded, wet areas of Gulf Coast landscapes.",
+    "sources": [
+      "University of Florida IFAS Extension",
+      "Lady Bird Johnson Wildflower Center",
+      "USDA PLANTS Database"
+    ]
+  },
+  {
+    "slug": "zexmenia",
+    "common_name": "Zexmenia (Orange Zexmenia, Rough Zexmenia)",
+    "scientific_name": "Wedelia texana",
+    "category": "flower",
+    "subcategory": "native drought-tolerant perennial",
+    "days_to_germination": {
+      "min": 14,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 120
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant divisions or container transplants in spring in well-drained, rocky to sandy, alkaline to slightly acidic, dry to moderately moist soil in full sun to partial shade; zexmenia is native to the rocky limestone hills and caliche prairies of central Texas and is extremely well adapted to alkaline, dry Gulf Coast soils."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 24,
+      "max": 36
+    },
+    "height_in": {
+      "min": 18,
+      "max": 36
+    },
+    "spread_in": {
+      "min": 24,
+      "max": 48
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant in well-drained, rocky to loamy, alkaline to neutral, dry soil in full sun to light shade — zexmenia is a tough, sprawling Texas native perennial that produces cheerful, bright orange-yellow daisy-like flowers nearly continuously from spring through frost in zone 8–9, and virtually year-round in zone 10–11. The rough, hairy leaves and stems give it a slightly weedy texture that suits naturalistic plantings, wildlife gardens, and dry slopes; in borders it benefits from cutting back by one-half in late spring to keep it compact and floriferous. It spreads slowly by both rhizome and self-sowing to form a modest groundcover in dry conditions. Outstanding for wildlife: the flowers are rich in nectar for monarch butterflies, skippers, and native bees. Essentially zero-maintenance once established in well-drained soil — requires no supplemental irrigation in adapted alkaline or caliche soils. A mainstay of the low-water Texas Hill Country garden.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "Texas A&M AgriLife Extension",
+      "USDA PLANTS Database"
+    ]
+  },
+  {
+    "slug": "cleyera",
+    "common_name": "Cleyera (Japanese Cleyera)",
+    "scientific_name": "Cleyera japonica",
+    "category": "flower",
+    "subcategory": "shade-tolerant evergreen shrub",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 365,
+      "max": 730
+    },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant container specimens in spring or fall in moist, well-drained, slightly acidic to moderately acidic, humus-rich soil in partial to full shade; cleyera is very cold hardy once established but prefers protection from harsh winter winds and reflected heat from walls. It is a slow-growing, long-lived shrub that rarely needs pruning."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 48,
+      "max": 72
+    },
+    "height_in": {
+      "min": 72,
+      "max": 144
+    },
+    "spread_in": {
+      "min": 48,
+      "max": 72
+    },
+    "sun": "shade",
+    "water": "moderate",
+    "directions": "Plant in moist, slightly to moderately acidic, humus-rich, well-drained soil in partial to full shade — cleyera is one of the most refined and underused evergreen shrubs for southern shade gardens, producing elegant, glossy, dark green leaves with reddish new growth on a naturally pyramidal to oval form. The small, creamy-white, fragrant flowers in spring are followed by dark red to black berries that attract birds; the plant is sacred in Shinto tradition in Japan, where it is planted at shrines. Cleyera is an outstanding foundation plant, informal hedge, or large specimen for the shaded, acidic, humus-rich conditions under tall pines and oaks throughout zone 7–9. It grows more slowly than many companion plants (camellias, gardenias) but eventually becomes a large, refined, long-lived shrub requiring almost no maintenance beyond an occasional light shaping. Excellent companion plant for camellias and azaleas in woodland garden compositions.",
+    "sources": [
+      "Clemson Cooperative Extension",
+      "Missouri Botanical Garden Plant Finder",
+      "North Carolina State Extension"
+    ]
+  },
+  {
+    "slug": "sweet-box",
+    "common_name": "Sweet Box (Himalayan Sarcococca)",
+    "scientific_name": "Sarcococca hookeriana",
+    "category": "flower",
+    "subcategory": "shade groundcover shrub",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 90,
+      "max": 180
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -4
+      },
+      "note": "Plant divisions or container plants in fall or early spring in moist, humus-rich, slightly acidic to neutral, well-drained soil in partial to deep shade; sweet box is excellent for dry shade under trees once established, though it establishes better with consistent moisture in the first season."
+    },
+    "usda_zones": {
+      "min": 6,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 24,
+      "max": 36
+    },
+    "height_in": {
+      "min": 18,
+      "max": 36
+    },
+    "spread_in": {
+      "min": 36,
+      "max": 60
+    },
+    "sun": "shade",
+    "water": "moderate",
+    "directions": "Plant in moist, humus-rich, slightly acidic to neutral, well-drained soil in partial to deep shade — sweet box earns its place as one of the finest shade garden shrubs by providing intensely fragrant, tiny white flowers in the dead of winter (January–February in the South), when almost nothing else is blooming, with a honeysuckle-like sweetness that drifts impressively through the still winter air. The small, narrow, glossy, dark evergreen leaves on neat, upright-spreading stems make an attractive groundcover or low shrub year-round. The dwarf variety S. hookeriana var. humilis (dwarf sweet box) is particularly useful as a low-maintenance groundcover substitute for liriope or mondo grass in deep shade, spreading slowly by underground stolons to form a dense colony. Black berries follow the winter flowers. Outstanding for dry to moderately moist shade under trees, requiring essentially no care once established other than removal of dead stems.",
+    "sources": [
+      "Royal Horticultural Society",
+      "Missouri Botanical Garden Plant Finder",
+      "North Carolina State Extension"
+    ]
+  },
+  {
+    "slug": "pinxter-azalea",
+    "common_name": "Pinxter Azalea (Wild Pinxterbloom)",
+    "scientific_name": "Rhododendron periclymenoides",
+    "category": "flower",
+    "subcategory": "native deciduous azalea",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 365,
+      "max": 730
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -4
+      },
+      "note": "Plant container specimens in fall in moist, slightly acidic (pH 4.5–5.5), humus-rich, very well-drained soil in partial shade; pinxter azalea requires excellent drainage and strongly acidic conditions — it will not survive in alkaline or clay soils. Mulch heavily with pine bark to maintain acidic soil pH and moisture."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 36,
+      "max": 60
+    },
+    "height_in": {
+      "min": 48,
+      "max": 72
+    },
+    "spread_in": {
+      "min": 48,
+      "max": 72
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Plant in moist, strongly acidic (pH 4.5–5.5), humus-rich, very well-drained soil in partial to dappled shade — pinxter azalea is a graceful, open-branching deciduous native azalea of the eastern piedmont and coastal plain, producing masses of pale to deep pink tubular flowers with long, exserted stamens in April–May before or just as the leaves unfurl, filling shaded woodland gardens with a lovely, sweet-spicy fragrance. Unlike evergreen azaleas, pinxter's open, airy form is beautiful even out of bloom, with yellow-green to orange fall foliage. It grows naturally in acidic, sandy, well-drained soils at the edges of pine and oak woodlands and along stream banks in the Southeast. Slower-growing and longer-lived than most garden azaleas, with exceptional cold and heat tolerance for zone 5–9. An outstanding native alternative to introduced evergreen azaleas that thrives in the challenging, sandy, acidic soils of Gulf Coast pine woodlands without the pest and disease issues of Asian azalea species.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "North Carolina State Extension",
+      "Missouri Botanical Garden Plant Finder"
+    ]
+  },
+  {
+    "slug": "golden-spider-lily",
+    "common_name": "Golden Spider Lily (Yellow Lycoris)",
+    "scientific_name": "Lycoris aurea",
+    "category": "flower",
+    "subcategory": "fall-blooming bulb",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 60,
+      "max": 90
+    },
+    "maturity_from": "transplant",
+    "sow_method": "bulb",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -4
+      },
+      "note": "Plant bulbs with the neck at or just below the soil surface in well-drained, slightly acidic to neutral, moderately fertile soil in partial shade to full sun; golden spider lily blooms most reliably when allowed to dry out in summer — reduce irrigation or plant in an area with summer dry conditions."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 4,
+      "max": 8
+    },
+    "height_in": {
+      "min": 18,
+      "max": 24
+    },
+    "spread_in": {
+      "min": 4,
+      "max": 8
+    },
+    "sun": "partial",
+    "water": "low",
+    "directions": "Plant bulbs with the neck at or near the soil surface in well-drained, moderately fertile soil in partial shade to full sun — golden spider lily is the warm-climate companion to the red spider lily (Lycoris radiata), adapted to zone 7–10 and particularly well-suited to the summer heat and humidity of the Gulf Coast, where it thrives with neglect and summer drought. Like its red relative, the dramatic golden-yellow spider lily flowers appear on bare stems in late summer and early fall — naked, leafless scapes 18–24 inches tall topped with spidery clusters of reflexed petals and long, arching stamens — well before the strap-like leaves emerge in fall and persist through winter. The brilliant golden-yellow color is uniquely striking among Lycoris species and combines beautifully in the fall garden with red spider lilies, hurricane lilies, and copper rain lilies. Clumps increase slowly over years; divide only when flowering declines.",
+    "sources": [
+      "University of Florida IFAS Extension",
+      "Missouri Botanical Garden Plant Finder",
+      "American Horticultural Society"
+    ]
+  },
+  {
+    "slug": "beach-sunflower",
+    "common_name": "Beach Sunflower (Cucumber-leaf Sunflower)",
+    "scientific_name": "Helianthus debilis",
+    "category": "flower",
+    "subcategory": "native coastal annual",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 80
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 90
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Direct sow seed after last frost in very well-drained, sandy to loamy, slightly acidic to slightly alkaline, dry to moderately moist soil in full sun; beach sunflower is a sprawling, fast-growing annual that self-sows prolifically to naturalize in open, sunny, sandy soils along the Gulf Coast."
+    },
+    "usda_zones": {
+      "min": 8,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 24,
+      "max": 36
+    },
+    "height_in": {
+      "min": 18,
+      "max": 36
+    },
+    "spread_in": {
+      "min": 36,
+      "max": 72
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Direct sow after last frost in well-drained, sandy to loamy, dry soil in full sun — beach sunflower is a fast-growing, sprawling native annual of Gulf Coast beaches, dunes, sandy roadsides, and open flatwoods, producing cheerful, 2–3 inch yellow sunflowers with dark centers from early summer through frost on prostrate, branching stems that spread to cover large areas with a carpet of flowers. In zone 9–11 it blooms nearly year-round in sunny open spots. Unlike most sunflowers, this species is extremely heat and salt tolerant, thriving in sandy, nutritionally poor soils and handling reflected heat from pavement and buildings without complaint. It is an outstanding, zero-irrigation wildflower for difficult dry, sunny, sandy sites in the coastal South — slopes, parking lot edges, dry medians, and hot foundation exposures. Self-sows prolifically to maintain a persistent colony. The seeds are an excellent food source for goldfinches and sparrows in winter.",
+    "sources": [
+      "University of Florida IFAS Extension",
+      "Lady Bird Johnson Wildflower Center",
+      "USDA PLANTS Database"
+    ]
+  }
+]

@@ -1,0 +1,554 @@
+[
+  {
+    "slug": "florida-torreya",
+    "common_name": "Florida Torreya",
+    "scientific_name": "Torreya taxifolia",
+    "category": "flower",
+    "subcategory": "native conifer",
+    "days_to_germination": {
+      "min": 180,
+      "max": 365
+    },
+    "germination_soil_temp_f": {
+      "min": 55,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 3650,
+      "max": 7300
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant conservation-sourced nursery transplants in spring in cool, moist, well-drained, rich, acidic, humus-rich soil on a north-facing or east-facing slope in deep to partial shade. Florida Torreya requires the cool, humid microclimate of a shaded ravine and will not survive in exposed, hot, or dry conditions. Obtain plants only from reputable conservation nurseries growing ex situ material."
+    },
+    "usda_zones": {
+      "min": 8,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 180,
+      "max": 240
+    },
+    "height_in": {
+      "min": 240,
+      "max": 480
+    },
+    "spread_in": {
+      "min": 180,
+      "max": 300
+    },
+    "sun": "shade",
+    "water": "moderate",
+    "directions": "Florida Torreya — also called Stinking Cedar for its pungent, resinous foliage — is one of the most critically endangered trees on Earth, native to a handful of steep, moist ravines along the Apalachicola River in the Florida Panhandle and adjacent Georgia, where the cool, humid microclimate provides conditions unlike anywhere else in Florida. Once abundant in these ravine forests, the species was devastated by an unknown fungal disease beginning in the 1950s and is now functionally extinct in the wild, surviving only as root sprouts and in ex situ conservation plantings maintained by botanical gardens and the nonprofit Torreya Guardians. The plum-like seeds were roasted and eaten by the Creek Nation and early settlers, and the dense, aromatic wood was historically used for fence posts and fuel. Plant in cool, moist, well-drained, rich, acidic soil in deep shade on a north-facing slope; obtain plants only from conservation nurseries producing legally sourced stock, as wild collection is not permitted.",
+    "sources": [
+      "USDA PLANTS Database",
+      "Florida Natural Areas Inventory",
+      "Center for Plant Conservation",
+      "Torreya Guardians (torreyaguardians.org)"
+    ]
+  },
+  {
+    "slug": "florida-yew",
+    "common_name": "Florida Yew",
+    "scientific_name": "Taxus floridana",
+    "category": "flower",
+    "subcategory": "native conifer",
+    "days_to_germination": {
+      "min": 180,
+      "max": 365
+    },
+    "germination_soil_temp_f": {
+      "min": 40,
+      "max": 60
+    },
+    "days_to_maturity": {
+      "min": 1825,
+      "max": 5475
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant conservation-sourced nursery transplants in spring in cool, moist, well-drained, rich, acidic soil in deep shade on a north- or east-facing slope. All parts except the red aril are extremely toxic — do not plant where children or livestock have access. Seeds require an extended warm-then-cold stratification of 12–18 months before germination."
+    },
+    "usda_zones": {
+      "min": 8,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 96,
+      "max": 180
+    },
+    "height_in": {
+      "min": 60,
+      "max": 300
+    },
+    "spread_in": {
+      "min": 60,
+      "max": 180
+    },
+    "sun": "shade",
+    "water": "moderate",
+    "directions": "Florida Yew is an extremely rare and critically endangered native conifer restricted to fewer than two dozen sites in the moist, shaded ravines along the Apalachicola River in the Florida Panhandle, where it shares habitat with Florida Torreya in one of the most species-rich temperate forest communities in the southeastern United States. The small evergreen tree or large shrub produces fleshy, bright red arils surrounding a single hard seed in fall; the aril is the only non-toxic portion of the plant, as all other parts including the seeds, bark, and needles contain highly toxic taxine alkaloids that can be rapidly fatal to humans and livestock. Related to the yews exploited in the development of Taxol, a significant cancer chemotherapy drug, Florida Yew has declined catastrophically from unknown causes and numbers fewer than 250 remaining individuals in the wild. Plant conservation-sourced transplants in cool, moist, well-drained, acidic, humus-rich soil in deep shade — this species is intolerant of direct sun, drought, heat, or compacted soils and demands the microclimate of a deeply shaded, cool ravine.",
+    "sources": [
+      "USDA PLANTS Database",
+      "Florida Natural Areas Inventory",
+      "Center for Plant Conservation",
+      "Lady Bird Johnson Wildflower Center"
+    ]
+  },
+  {
+    "slug": "red-elderberry",
+    "common_name": "Red Elderberry",
+    "scientific_name": "Sambucus racemosa",
+    "category": "berry",
+    "subcategory": "native berry shrub",
+    "days_to_germination": {
+      "min": 30,
+      "max": 90
+    },
+    "germination_soil_temp_f": {
+      "min": 40,
+      "max": 60
+    },
+    "days_to_maturity": {
+      "min": 365,
+      "max": 1095
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant container-grown transplants in spring in moist, well-drained, slightly acidic, humus-rich soil in partial shade to full sun. Red Elderberry is more shade-tolerant than American Elderberry. The raw berries are mildly toxic and cause nausea — cook thoroughly before any culinary use, or grow primarily as a wildlife plant."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 7
+    },
+    "spacing_in": {
+      "min": 60,
+      "max": 120
+    },
+    "height_in": {
+      "min": 60,
+      "max": 144
+    },
+    "spread_in": {
+      "min": 60,
+      "max": 120
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Red Elderberry is a fast-growing native shrub of cool, moist forests, rocky slopes, talus, and ravines across the northern United States and Canada, valued for its dramatic pyramid-shaped white flower clusters in spring and vivid red berry clusters in early summer that ripen weeks before American Elderberry. The berries are relished by over 50 species of birds including thrushes, waxwings, grouse, and tanagers, making Red Elderberry among the most important native berry shrubs for wildlife in northern gardens. Unlike the closely related American Elderberry, Red Elderberry berries are mildly toxic when eaten raw due to cyanogenic glycosides and should be cooked before any culinary use; fully cooked berries have been used for jams, wines, and syrups in both traditional and modern kitchens. Plant in moist, well-drained, slightly acidic, humus-rich soil in partial shade to full sun; Red Elderberry is more shade-tolerant than American Elderberry and thrives at cool woodland edges and in dappled understory light.",
+    "sources": [
+      "USDA PLANTS Database",
+      "Lady Bird Johnson Wildflower Center",
+      "Bringing Nature Home (Tallamy)"
+    ]
+  },
+  {
+    "slug": "hog-peanut",
+    "common_name": "Hog Peanut",
+    "scientific_name": "Amphicarpaea bracteata",
+    "category": "vegetable",
+    "subcategory": "native edible vine",
+    "days_to_germination": {
+      "min": 7,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 90,
+      "max": 120
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 6
+      },
+      "note": "Direct sow seeds in spring after danger of frost passes in moist, humus-rich, well-drained, slightly acidic soil in partial to full shade. Scarify hard seed coats lightly with sandpaper or soak overnight before planting to speed germination. Hog Peanut grows best in light shade and will not thrive in exposed, dry, or heavily fertilized soil."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 24
+    },
+    "height_in": {
+      "min": 24,
+      "max": 60
+    },
+    "spread_in": {
+      "min": 24,
+      "max": 48
+    },
+    "sun": "shade",
+    "water": "moderate",
+    "directions": "Hog Peanut is a delicate, twining native legume vine of moist forest floors and shaded stream banks across eastern North America, producing two types of flowers: small lavender blossoms on climbing aerial stems that rarely set fruit, and inconspicuous cleistogamous flowers near the soil surface that produce fleshy, one-seeded pods underground — a remarkable adaptation for seed burial and dispersal. The underground fleshy seeds are rich, sweet, and bean-like in flavor, and were a significant food source for many Native American peoples including the Meskwaki, Cherokee, and Iroquois, who harvested them in fall; settlers called them hog peanuts because pigs eagerly rooted them from the soil. A nitrogen-fixing perennial that returns from taproots each spring in zones 5–9, Hog Peanut adds valuable biodiversity and soil health to shaded native plant gardens and woodland edges while providing food and cover for small wildlife. Direct sow after frost in moist, humus-rich, slightly acidic soil in partial to full shade; established plants self-seed freely and colonize gradually.",
+    "sources": [
+      "USDA PLANTS Database",
+      "Lady Bird Johnson Wildflower Center",
+      "Native American Ethnobotany (Moerman)"
+    ]
+  },
+  {
+    "slug": "hercules-club",
+    "common_name": "Hercules' Club",
+    "scientific_name": "Zanthoxylum clava-herculis",
+    "category": "flower",
+    "subcategory": "native shrub",
+    "days_to_germination": {
+      "min": 30,
+      "max": 90
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 1095,
+      "max": 2555
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant container-grown transplants in spring in well-drained, moderately infertile, sandy to loamy soil in full sun to light shade. Hercules' Club spreads by root sprouts and can form thickets — site accordingly. Handle with care due to the large, sharp spines on trunk and branches."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 120,
+      "max": 240
+    },
+    "height_in": {
+      "min": 120,
+      "max": 300
+    },
+    "spread_in": {
+      "min": 120,
+      "max": 240
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Hercules' Club is a large, dramatic native shrub or small tree of the coastal plain and piedmont of the southeastern United States, notorious for the massive, knobby, claw-like spines that stud the trunk and branches and make it instantly identifiable from a distance. A member of the citrus family (Rutaceae) and closely related to Sichuan pepper, the aromatic bark and leaves contain numbing, anesthetic compounds that were applied by many Native American peoples directly to sore gums and toothaches — earning it the folk name toothache tree — as well as used as a fish poison and in various medicinal preparations. A primary host plant for the giant swallowtail butterfly, one of the largest butterflies in North America, Hercules' Club is an outstanding native choice for wildlife gardens in the Southeast. Plant in well-drained, moderately infertile, sandy to loamy soil in full sun; drought-tolerant once established, it spreads by root sprouts and benefits from open, sunny, naturalized settings.",
+    "sources": [
+      "USDA PLANTS Database",
+      "Lady Bird Johnson Wildflower Center",
+      "Native American Ethnobotany (Moerman)"
+    ]
+  },
+  {
+    "slug": "wild-lime",
+    "common_name": "Wild Lime",
+    "scientific_name": "Zanthoxylum fagara",
+    "category": "flower",
+    "subcategory": "native shrub",
+    "days_to_germination": {
+      "min": 30,
+      "max": 60
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 80
+    },
+    "days_to_maturity": {
+      "min": 730,
+      "max": 1825
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant container-grown transplants in spring in well-drained, sandy to rocky, alkaline to neutral, coastal soil in full sun. Wild Lime is highly drought-tolerant and salt-tolerant once established but is cold-sensitive and best suited to frost-free or nearly frost-free landscapes in Zone 9b–11."
+    },
+    "usda_zones": {
+      "min": 9,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 96,
+      "max": 180
+    },
+    "height_in": {
+      "min": 120,
+      "max": 240
+    },
+    "spread_in": {
+      "min": 96,
+      "max": 180
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Wild Lime is a native evergreen shrub or small tree of coastal hammocks, rocky pinelands, and scrub edges of southern Florida and coastal Texas, recognizable by its small, dark green leaflets attached to a winged rachis — a distinctive feature of the citrus family — that release a sharp lime fragrance when crushed. A critical host plant for the giant swallowtail butterfly, the largest native butterfly in North America, Wild Lime provides the caterpillar's only food source in many south Florida hammock habitats, and its dense, spiny growth makes it an excellent barrier plant or habitat hedge in tropical and subtropical landscapes. The small, gland-dotted aromatic fruits and leaves are used in Caribbean folk medicine and regional cooking, and the plant's salt tolerance and drought-hardiness make it particularly valuable in coastal south Florida settings. Plant in well-drained, sandy to rocky, alkaline to neutral soil in full sun; established plants require virtually no irrigation or maintenance in appropriate Zone 9b–11 landscapes.",
+    "sources": [
+      "USDA PLANTS Database",
+      "University of Florida IFAS Extension",
+      "Florida Native Plant Society"
+    ]
+  },
+  {
+    "slug": "false-aloe",
+    "common_name": "Virginia False Aloe",
+    "scientific_name": "Manfreda virginica",
+    "category": "flower",
+    "subcategory": "native perennial wildflower",
+    "days_to_germination": {
+      "min": 30,
+      "max": 60
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 80
+    },
+    "days_to_maturity": {
+      "min": 730,
+      "max": 1825
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 6
+      },
+      "note": "Direct sow seeds in spring after last frost in dry, sandy, gravelly, or rocky, well-drained, infertile soil in full sun to light shade. Virginia False Aloe is extremely drought-tolerant once established; do not amend with compost, fertilize, or irrigate routinely, as overly rich or moist soil causes crown rot and rapid decline."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 12,
+      "max": 72
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Virginia False Aloe is a native succulent wildflower of the southeastern United States, producing a compact basal rosette of fleshy, strap-like, often maroon-spotted leaves from sandy or rocky, well-drained soils in prairies, cedar glades, open woodlands, and roadsides from Virginia south to Florida and west to Nebraska. Unlike the dangerous spiny agaves to which it is closely related, False Aloe has soft, non-rigid leaf tips, making it entirely safe to handle; after several years of vegetative growth, it sends up a single spectacular flower spike reaching 4–6 feet tall, bearing fragrant, tubular, greenish-brown to purple flowers that open at night and attract sphinx moths as their primary pollinators. Once the flower stalk sets seed, the rosette dies but is replaced by offsets from the base, allowing clumps to expand gradually over many years without becoming invasive. Plant in extremely well-drained, sandy or gravelly, infertile, rocky soil in full sun; False Aloe is highly drought-tolerant and long-lived in appropriate conditions but quickly rots in wet, poorly drained, or heavily amended soils.",
+    "sources": [
+      "USDA PLANTS Database",
+      "Lady Bird Johnson Wildflower Center",
+      "Illinois Wildflowers"
+    ]
+  },
+  {
+    "slug": "seashore-mallow",
+    "common_name": "Seashore Mallow",
+    "scientific_name": "Kosteletzkya virginica",
+    "category": "flower",
+    "subcategory": "native marsh plant",
+    "days_to_germination": {
+      "min": 7,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 80
+    },
+    "days_to_maturity": {
+      "min": 365,
+      "max": 730
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 6
+      },
+      "note": "Direct sow seeds in spring after frost in wet, salt-tolerant, sandy or loamy coastal soil in full sun; scarify the hard seed coat with sandpaper or soak in warm water for 24 hours before planting to speed germination. Seashore Mallow tolerates fresh to brackish coastal marsh conditions and periodic inundation."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 24,
+      "max": 36
+    },
+    "height_in": {
+      "min": 36,
+      "max": 60
+    },
+    "spread_in": {
+      "min": 24,
+      "max": 36
+    },
+    "sun": "full",
+    "water": "high",
+    "directions": "Seashore Mallow is a native perennial of coastal marshes, tidal margins, and salt-tolerant wetlands along the Atlantic and Gulf coasts from Long Island south through Florida and west to Texas, where it produces an extended succession of pink hibiscus-like flowers from midsummer through fall on upright, 3–5 foot stems. The seeds are high in protein and edible fatty acids, the roots are starchy and edible, and the mucilaginous leaves and flowers are used in folk medicine similarly to other Malvaceae family members — making Seashore Mallow one of the few native coastal plants with genuine multi-use potential. An important nectar source for native bumblebees, honeybees, and the Cloudless Sulphur butterfly, it has been studied as a potential grain crop for salt-impaired soils where conventional crops cannot grow. Plant in full sun in wet, coastal, sandy to loamy soil; Seashore Mallow tolerates moderate salinity, fresh to brackish conditions, and periodic flooding, self-seeding readily once established in appropriate settings.",
+    "sources": [
+      "USDA PLANTS Database",
+      "Lady Bird Johnson Wildflower Center",
+      "University of Florida IFAS Extension"
+    ]
+  },
+  {
+    "slug": "florida-cherry-palm",
+    "common_name": "Florida Cherry Palm",
+    "scientific_name": "Pseudophoenix sargentii",
+    "category": "flower",
+    "subcategory": "native palm",
+    "days_to_germination": {
+      "min": 60,
+      "max": 180
+    },
+    "germination_soil_temp_f": {
+      "min": 75,
+      "max": 90
+    },
+    "days_to_maturity": {
+      "min": 3650,
+      "max": 5475
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant container-grown transplants in spring in well-drained, sandy to sandy-loam soil in full sun; Florida Cherry Palm is highly drought-tolerant and salt-tolerant once established but is cold-sensitive and restricted to frost-free Zone 10–11 landscapes. Fresh seeds germinate in 2–6 months in warm, moist, well-drained medium."
+    },
+    "usda_zones": {
+      "min": 10,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 96,
+      "max": 144
+    },
+    "height_in": {
+      "min": 120,
+      "max": 300
+    },
+    "spread_in": {
+      "min": 96,
+      "max": 144
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Florida Cherry Palm — also called Buccaneer Palm — is one of the rarest native palms in the continental United States, known from only a handful of natural populations in the Florida Keys, while more widespread through the Caribbean and the Yucatan Peninsula of Mexico. The trunk is distinctively swollen in the middle and tapered at both ends, giving the palm a unique hourglass or belly-shaped profile not found in any other palm native to Florida; the small, round, cherry-sized fruits ripen from green through yellow to bright red and are edible, eaten fresh or used in Caribbean countries to make a cherry liqueur. Extremely drought-tolerant and highly salt-tolerant once established, Florida Cherry Palm is among the toughest ornamental palms for Zone 10–11 coastal and xeric landscapes. Plant fresh seeds in warm, well-drained, sandy soil in full sun; germination takes 2–6 months and young plants grow slowly before accelerating in their preferred warm, sunny, frost-free conditions.",
+    "sources": [
+      "USDA PLANTS Database",
+      "University of Florida IFAS Extension",
+      "Florida Native Plant Society"
+    ]
+  },
+  {
+    "slug": "yellow-birch",
+    "common_name": "Yellow Birch",
+    "scientific_name": "Betula alleghaniensis",
+    "category": "flower",
+    "subcategory": "native shade tree",
+    "days_to_germination": {
+      "min": 14,
+      "max": 30
+    },
+    "germination_soil_temp_f": {
+      "min": 40,
+      "max": 60
+    },
+    "days_to_maturity": {
+      "min": 1825,
+      "max": 5475
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant container-grown transplants in early spring in moist, well-drained, acidic, humus-rich, cool soil in partial shade to full sun. Yellow Birch does not tolerate heat, drought, alkaline soils, or heavy clay and is best suited to cool northern or mountain climates in Zone 3–7."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 7
+    },
+    "spacing_in": {
+      "min": 300,
+      "max": 480
+    },
+    "height_in": {
+      "min": 720,
+      "max": 960
+    },
+    "spread_in": {
+      "min": 360,
+      "max": 480
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Yellow Birch is a graceful, long-lived native tree of moist, cool Appalachian and northeastern forests from eastern Canada south to the mountains of Georgia and Tennessee, distinguished by its golden-yellow to bronze, papery bark that peels in thin, curly horizontal strips and provides remarkable year-round ornamental interest. The young twigs and inner bark carry a distinctive sweet wintergreen fragrance from the natural methyl salicylate they contain, and the sap can be tapped in late winter for a birch syrup similar to maple syrup; the bark was historically distilled to produce oil of wintergreen. An important component of northern hardwood forest ecosystems, Yellow Birch provides critical nesting habitat for warblers, vireos, and thrushes while moose, deer, and snowshoe hares browse the twigs and bark through winter. Plant in moist, well-drained, acidic, humus-rich, cool soil in partial shade to full sun; Yellow Birch demands consistently cool, moist conditions and is not suitable for hot, dry, or alkaline climates.",
+    "sources": [
+      "USDA PLANTS Database",
+      "Lady Bird Johnson Wildflower Center",
+      "Silvics of North America (USDA Forest Service)"
+    ]
+  }
+]

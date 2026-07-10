@@ -1,0 +1,552 @@
+[
+  {
+    "slug": "clasping-coneflower",
+    "common_name": "Clasping Coneflower",
+    "scientific_name": "Rudbeckia amplexicaulis",
+    "category": "flower",
+    "subcategory": "native wildflower",
+    "days_to_germination": {
+      "min": 7,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 90
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -2,
+        "max": 2
+      },
+      "note": "Direct sow in early spring on moist to wet sandy or loamy soil; clasping coneflower is a prolific self-seeder and will return annually once established in the garden — scatter seed in moist areas after last frost for summer bloom."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 6,
+      "max": 12
+    },
+    "height_in": {
+      "min": 12,
+      "max": 36
+    },
+    "spread_in": {
+      "min": 6,
+      "max": 12
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Clasping coneflower is a native annual of moist prairies, roadsides, and disturbed fields across the south-central United States, named for its distinctive stem-clasping leaves that wrap around the stalk — it stands apart from other coneflowers by producing a single, upright, daisy-like yellow flower with a long, domed, dark brown cone on each branching stem, giving it a resemblance to a miniature black-eyed Susan on a taller, more upright plant. It is one of the most reliable warm-season annuals for the Gulf Coast and lower South, germinating quickly in warm weather and blooming in as little as 8–10 weeks from seed — its tolerance for summer heat and humidity makes it far more dependable than many other coneflowers in zone 8–9 gardens. In meadow plantings and naturalized areas, it self-seeds prolifically and gradually forms dense colonies that provide continuous summer-to-fall bloom with zero maintenance. Excellent companion for Gulf Coast natives like prairie verbena, standing cypress, and annual gaillardia in dry, sunny native meadow designs.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "Texas A&M AgriLife Extension",
+      "USDA Plants Database"
+    ]
+  },
+  {
+    "slug": "cutleaf-coneflower",
+    "common_name": "Cutleaf Coneflower (Wild Golden Glow)",
+    "scientific_name": "Rudbeckia laciniata",
+    "category": "flower",
+    "subcategory": "native wildflower",
+    "days_to_germination": {
+      "min": 14,
+      "max": 30
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 365,
+      "max": 730
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": 0
+      },
+      "note": "Direct sow in fall or early spring in moist to wet, rich soil in partial shade to full sun; cutleaf coneflower spreads aggressively by rhizomes in moist conditions and should be sited where it has room to naturalize — divide clumps every 2–3 years."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 24,
+      "max": 48
+    },
+    "height_in": {
+      "min": 48,
+      "max": 120
+    },
+    "spread_in": {
+      "min": 24,
+      "max": 48
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Cutleaf coneflower is the tallest of all North American coneflowers — commonly reaching 6–8 feet or more in moist, rich soil — producing long-stalked, deeply lobed leaves with a coarse, tropical texture and airy sprays of bright yellow, drooping-petaled flowers with a distinctive greenish-yellow dome from July through September. Unlike most other coneflowers that require full sun and dry to average soils, cutleaf coneflower thrives in partial shade in moist bottomland conditions, making it invaluable for the sunny-to-shaded edges of rain gardens, stream banks, and moist woodland borders where a tall, dramatic native perennial is needed. The double-flowered heirloom cultivar 'Hortensia' (Golden Glow) has been grown in American gardens since the 1890s and still persists in old homesteads across the South, where it spreads freely by rhizomes through shaded gardens. It spreads vigorously and can be invasive in small spaces — site it where it can naturalize freely in large native beds or along stream margins.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "Missouri Botanical Garden Plant Finder",
+      "Illinois Wildflowers"
+    ]
+  },
+  {
+    "slug": "sweet-coneflower",
+    "common_name": "Sweet Coneflower",
+    "scientific_name": "Rudbeckia subtomentosa",
+    "category": "flower",
+    "subcategory": "native wildflower",
+    "days_to_germination": {
+      "min": 14,
+      "max": 28
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 365,
+      "max": 730
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": 0
+      },
+      "note": "Direct sow in fall in average to slightly moist, well-drained soil in full to partial sun; sweet coneflower adapts to a wide range of soil types and moisture levels and self-seeds moderately, forming clumps that should be divided every 3–4 years."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 36
+    },
+    "height_in": {
+      "min": 36,
+      "max": 72
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 36
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Sweet coneflower is one of the most fragrant of all native coneflowers — the flowers emit a noticeable sweet, anise-like scent, particularly on warm afternoons — and is native to moist to dry prairies, savannas, and open woodlands of the central United States from Texas to Illinois. Its 2-foot-wide clumps of deeply textured, softly hairy leaves (the 'subtomentosa' refers to the downy leaf texture) support multiple branched stems bearing dozens of cheerful gold-petaled flowers with dark brown central cones from July through September. A popular parent of many prairie garden cultivars, sweet coneflower is valued by horticulturists for its outstanding heat tolerance, mildew resistance (unlike many Rudbeckia species in humid southern climates), and adaptability from clay to sand soils. The seed heads remain ornamental through winter and feed goldfinches, chickadees, and sparrows; pair with prairie grasses and ironweeds for a dramatic native meadow planting.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "Missouri Botanical Garden Plant Finder",
+      "Prairie Nursery (Wisconsin native plant reference)"
+    ]
+  },
+  {
+    "slug": "prairie-coneflower",
+    "common_name": "Prairie Coneflower (Mexican Hat)",
+    "scientific_name": "Ratibida columnifera",
+    "category": "flower",
+    "subcategory": "native wildflower",
+    "days_to_germination": {
+      "min": 14,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 120
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": 0
+      },
+      "note": "Direct sow on dry to average, well-drained soil in fall or early spring; prairie coneflower prefers poor, lean soils — excessive fertility leads to floppy stems and reduced flowering; self-seeds freely to form naturalizing colonies in dry prairies and meadows."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 12,
+      "max": 36
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 18
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Prairie coneflower (Mexican hat) is one of the most distinctive and drought-tolerant of all native prairie wildflowers — the flowers have a tall, thimble-shaped, elongated central cone surrounded by reflexed, drooping golden to red-brown ray petals that create the unmistakable 'Mexican sombrero' silhouette that inspired its popular name. Native to prairies, roadsides, and dry grasslands from Canada to Mexico, it is among the toughest of all native wildflowers in the heat and drought of the southern plains, remaining reliably perennial in zones 3–10 with essentially no supplemental water once established in lean, well-drained soil. The aromatic foliage has a distinctive camphor-like smell when crushed and is rarely browsed by deer; the long, wiry stems sway gracefully in wind, earning it a place in naturalistic meadow plantings throughout the Great Plains and Gulf Coast. Grows well mixed with black-eyed Susans, blue wild indigo, and native grasses in drought-tolerant native meadows and highway wildflower plantings.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "Missouri Botanical Garden Plant Finder",
+      "Texas A&M AgriLife Extension"
+    ]
+  },
+  {
+    "slug": "seaside-goldenrod",
+    "common_name": "Seaside Goldenrod",
+    "scientific_name": "Solidago sempervirens",
+    "category": "flower",
+    "subcategory": "native coastal wildflower",
+    "days_to_germination": {
+      "min": 14,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 365,
+      "max": 730
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": 0
+      },
+      "note": "Direct sow in fall in sandy, well-drained, saline or regular soil in full sun; seaside goldenrod is one of the most salt-tolerant of all native wildflowers and adapts equally well to coastal dunes, inland meadows, and garden borders."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 36
+    },
+    "height_in": {
+      "min": 24,
+      "max": 72
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 36
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Seaside goldenrod is the salt-tolerant goldenrod of Atlantic and Gulf Coast dunes, salt marshes, and coastal strand habitats — its exceptional salt spray and saline soil tolerance makes it the goldenrod of choice for coastal gardens and living shoreline plantings where other goldenrods would fail. The large, arching sprays of golden-yellow flowers appear from late summer through fall and are among the most important late-season nectar sources on the coastal Atlantic and Gulf Coast, supporting migrating monarchs, native bees, and dozens of butterfly species during their southward migration. Unlike many goldenrod species that spread aggressively by rhizomes to the point of being weedy, seaside goldenrod spreads more moderately and is well-behaved in garden borders; its large, fleshy, salt-tolerant leaves also distinguish it from most other goldenrods. Combine with sea lavender, salt marsh asters, and ornamental grasses in coastal pollinator gardens for a stunning fall display that also provides critical wildlife habitat.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "North Carolina State Extension Plant Toolbox",
+      "USDA Plants Database"
+    ]
+  },
+  {
+    "slug": "wand-goldenrod",
+    "common_name": "Wand Goldenrod (Southern Goldenrod)",
+    "scientific_name": "Solidago stricta",
+    "category": "flower",
+    "subcategory": "native wildflower",
+    "days_to_germination": {
+      "min": 14,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 365,
+      "max": 730
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": 0
+      },
+      "note": "Direct sow in fall in wet to moist, acidic, sandy or peaty soil in full sun; wand goldenrod is a wetland-affiliated species of the Gulf Coastal Plain that prefers seasonally saturated sites — it thrives in moist pine flatwoods, wet savannas, and pond margins."
+    },
+    "usda_zones": {
+      "min": 6,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 24
+    },
+    "height_in": {
+      "min": 18,
+      "max": 48
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "high",
+    "directions": "Wand goldenrod is a native goldenrod of the Gulf Coastal Plain's seasonally wet habitats — wet pine flatwoods, boggy depressions, and moist savannas from New Jersey to Texas — producing upright, unbranched or sparsely branched stems with small basal leaves and terminal wand-like flower spikes of golden yellow that are distinctive among goldenrods for their narrow, column-like form rather than the typical arching plume. Because it grows naturally in wet, acidic, sandy soils — habitats shared with pitcher plants, sundews, and rare orchids in Gulf Coast longleaf pine country — it is an appropriate companion plant for native bog gardens, seepage slopes, and the moist margins of rain gardens in the Deep South. The late-summer to fall bloom coincides with peak monarch migration and provides a critical nectar source for southbound monarchs; native bees are also heavily attracted to the dense, accessible flower clusters. In Gulf Coast flatwoods restorations, wand goldenrod is a keystone species of the low pine savanna ground layer.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "Florida Native Plant Society",
+      "USDA Plants Database"
+    ]
+  },
+  {
+    "slug": "late-boneset",
+    "common_name": "Late Boneset (Late-Flowering Thoroughwort)",
+    "scientific_name": "Eupatorium serotinum",
+    "category": "flower",
+    "subcategory": "native wildflower",
+    "days_to_germination": {
+      "min": 14,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 365,
+      "max": 730
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": 0
+      },
+      "note": "Direct sow in fall in moist to average, disturbed or garden soil in full to partial sun; late boneset establishes quickly from seed and spreads via self-seeding and short rhizomes — give it room as it can form large colonies in moist, fertile soil."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 36
+    },
+    "height_in": {
+      "min": 36,
+      "max": 72
+    },
+    "spread_in": {
+      "min": 24,
+      "max": 48
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Late boneset is the most common and widely distributed of the native Eupatorium species across the South, blooming in late summer and fall — later than most other Eupatoriums, hence its name — with flat-topped clusters of small white flowers that attract an extraordinary diversity of late-season native bees, wasps, flies, and butterflies when few other wildflowers are in peak bloom. It thrives in roadsides, forest edges, disturbed areas, and garden borders with minimal care, tolerating partial shade and a wide range of soil moisture conditions that make it one of the most adaptable of all native wildflowers for the Gulf Coast. Because its white flower clusters resemble those of several other common Eupatorium species, it is often overlooked by gardeners, but it is among the top 10 most valuable native wildflowers in the region for late-season pollinators. Cut back by half in mid-June to reduce height and increase bushiness; divide crowded clumps in spring to rejuvenate and control spread.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "Missouri Botanical Garden Plant Finder",
+      "Illinois Wildflowers"
+    ]
+  },
+  {
+    "slug": "coastal-joe-pye",
+    "common_name": "Coastal Joe-Pye Weed (Three-Nerved Joe-Pye)",
+    "scientific_name": "Eutrochium dubium",
+    "category": "flower",
+    "subcategory": "native wildflower",
+    "days_to_germination": {
+      "min": 14,
+      "max": 28
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 365,
+      "max": 730
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": 0
+      },
+      "note": "Direct sow in fall in moist, acidic, sandy or loamy soil in full to partial sun along the coastal plain; coastal Joe-Pye weed is more compact than inland species and thrives in the moist, acidic soils of Atlantic and Gulf coastal lowlands."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 36
+    },
+    "height_in": {
+      "min": 24,
+      "max": 60
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 36
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Coastal Joe-Pye weed is the compact, coastal-adapted Joe-Pye species of the Atlantic and Gulf Coastal Plain, typically shorter and more restrained than its inland relatives (hollow Joe-Pye and spotted Joe-Pye) while producing equally beautiful, rounded, domed flower clusters of dusty pink to light purple that smother the plant in late summer and fall. Its compact size (3–5 feet) makes it more appropriate than the 6–8 foot inland species for typical garden borders, perennial beds, and rain gardens where the giant inland Joe-Pye weeds would overwhelm surrounding plants. Like all Joe-Pye weeds, it is a specialist butterfly plant — tiger swallowtails, monarchs, and large skippers congregate on the flower heads in late summer with impressive regularity — and an important late-season nectar source for native bees preparing for winter. It is naturally adapted to the acidic, sandy, moderately moist soils of coastal flatwoods, wet savannas, and streamside thickets of the Gulf Coast Coastal Plain, making it an ideal choice for naturalized woodland-edge gardens in the Deep South.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "North Carolina State Extension Plant Toolbox",
+      "USDA Plants Database"
+    ]
+  },
+  {
+    "slug": "florida-mistflower",
+    "common_name": "Florida Mistflower (Hairy Mistflower)",
+    "scientific_name": "Conoclinium dissectum",
+    "category": "flower",
+    "subcategory": "native wildflower",
+    "days_to_germination": {
+      "min": 14,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 180,
+      "max": 365
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": 0
+      },
+      "note": "Direct sow in fall in well-drained to moist, average to dry soil in full sun to partial shade; Florida mistflower is more drought-tolerant than the common blue mistflower (C. coelestinum) and performs well in dry, sandy Gulf Coast soils."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 24
+    },
+    "height_in": {
+      "min": 12,
+      "max": 36
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 24
+    },
+    "sun": "partial",
+    "water": "low",
+    "directions": "Florida mistflower is a Gulf Coast native closely related to but distinct from the common blue mistflower (Conoclinium coelestinum), with deeply dissected, pinnately cut leaves that give it a finer, lacier texture — the species name 'dissectum' refers to these divided leaves. It grows naturally in dry to mesic pine flatwoods, scrub oak habitat, and open sandy uplands of the Gulf Coastal Plain from Texas to Florida, making it more drought-tolerant and better adapted to the dry, sandy soils common across the region than its close relative. The vivid electric-blue flower clusters appear in fall and provide a spectacular nectar source for monarchs making their southward migration through the Gulf Coast; it is one of the most important native fall-blooming perennials for the Texas-to-Florida monarch flight corridor. Its compact, finer-textured form and better drought tolerance compared to C. coelestinum make it ideal for dry-soil native gardens, rock gardens, and xeric restoration plantings in the coastal Southeast.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "Florida Native Plant Society",
+      "Texas A&M AgriLife Extension"
+    ]
+  },
+  {
+    "slug": "dog-fennel",
+    "common_name": "Dog Fennel (Yankeeweed)",
+    "scientific_name": "Eupatorium capillifolium",
+    "category": "flower",
+    "subcategory": "native wildflower",
+    "days_to_germination": {
+      "min": 7,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 120
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant by direct seed or division in spring in any sunny, well-drained soil; dog fennel is a robust, fast-growing perennial throughout the Gulf Coast and effectively self-seeds to return annually even where it is treated as an annual in colder zones — cut back hard in winter."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 36
+    },
+    "height_in": {
+      "min": 36,
+      "max": 96
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 36
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Dog fennel is a ubiquitous native perennial of roadsides, old fields, and disturbed open areas throughout the Southeast, instantly recognizable by its thread-fine, feathery, intensely aromatic foliage — the camphor-like scent has historically made it a natural insect repellent, and bundles were placed in farm buildings and bedding to repel fleas and lice. Despite its weedy reputation in some circles, dog fennel is an ecologically important native: the clouds of tiny white flowers produced on 3–6 foot wiry stems in late fall are among the final nectar sources of the season for migrating monarchs and late-flying native bees in the Gulf Coast region, often blooming well into November in zone 9. The fine-textured, billowing foliage provides striking textural contrast in the naturalistic garden and is used by some designers as a feathery filler among coarser-leaved perennials. Cut back to a few inches in late winter; it regrows rapidly from the base and will reach full height by midsummer even in the Gulf South's hot climate.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "University of Florida IFAS Extension",
+      "Florida Native Plant Society"
+    ]
+  }
+]

@@ -1,0 +1,546 @@
+[
+  {
+    "slug": "soft-agave",
+    "common_name": "Soft Agave (Foxtail Agave)",
+    "scientific_name": "Agave attenuata",
+    "category": "flower",
+    "subcategory": "soft-spine ornamental agave",
+    "days_to_germination": {
+      "min": 21,
+      "max": 42
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 80
+    },
+    "days_to_maturity": {
+      "min": 1095,
+      "max": 2190
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 6
+      },
+      "note": "Plant offsets in well-drained, sandy to loamy, slightly acidic to slightly alkaline, dry to moderately moist soil in full sun to partial shade; soft agave is the most shade-tolerant of the commonly grown agaves — it actually performs better in partial shade in hot climates, where full sun can bleach the leaves."
+    },
+    "usda_zones": {
+      "min": 9,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 36,
+      "max": 60
+    },
+    "height_in": {
+      "min": 24,
+      "max": 48
+    },
+    "spread_in": {
+      "min": 36,
+      "max": 60
+    },
+    "sun": "partial",
+    "water": "low",
+    "directions": "Plant offsets in well-drained, dry to moderately moist soil in full sun to partial shade — soft agave is unique among agaves in having spineless, flexible, blue-gray to pale green leaves without a terminal spine, making it the only agave safe to plant near foot traffic, children's play areas, and along walkways. The large, architectural rosettes of softly recurving, powdery blue-gray leaves are among the most beautiful foliage effects in the succulent garden. Unlike most agaves, it tolerates partial shade and actually performs better in dappled light in hot climates where full sun bleaches the gray leaf color to yellow-green. The spectacular arching flower spike (10–15 feet, resembling a giant foxtail) is produced once at maturity, then the parent rosette dies leaving offsets. Cold hardiness is limited to about 26–28°F; excellent for zone 9–11 landscapes and large containers in cooler zones.",
+    "sources": [
+      "University of California Cooperative Extension",
+      "University of Florida IFAS Extension",
+      "Missouri Botanical Garden Plant Finder"
+    ]
+  },
+  {
+    "slug": "agave-parryi",
+    "common_name": "Parry's Agave (Mescal Agave)",
+    "scientific_name": "Agave parryi",
+    "category": "flower",
+    "subcategory": "cold-hardy ornamental agave",
+    "days_to_germination": {
+      "min": 14,
+      "max": 28
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 80
+    },
+    "days_to_maturity": {
+      "min": 1825,
+      "max": 3650
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant offsets in very well-drained, alkaline to slightly acidic, rocky to sandy, extremely dry soil in full sun; Parry's agave is one of the most cold-hardy agaves, surviving temperatures below 0°F when established in sharply-drained soil — wet conditions in cold weather kill it even when temperatures would otherwise be survivable."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 36,
+      "max": 60
+    },
+    "height_in": {
+      "min": 18,
+      "max": 30
+    },
+    "spread_in": {
+      "min": 24,
+      "max": 48
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant offsets in very well-drained, rocky to sandy, extremely dry soil in full sun — Parry's agave is one of the hardiest and most ornamentally refined of all agaves, forming tight, symmetrical, compact rosettes of short, broad, blue-gray to silver-gray leaves with dark terminal spines and toothed margins — an architectural perfection that makes it one of the finest structural plants for dry gardens. Native to the Chihuahuan Desert and Mexican highlands, it is among the most cold-tolerant agaves, hardy to zone 5–6 with adequate drainage. The tall, impressive flower spike of orange-yellow flowers is produced once after 15–25 years of growth; the plant dies after flowering but produces offsets that continue the colony. The piña (heart) was roasted and eaten by indigenous peoples of the Southwest — the source of the common name 'mescal agave.' An outstanding specimen plant for dry, sunny rock gardens, slope stabilization, and xeriscaping in zone 5–11.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "University of Arizona Cooperative Extension",
+      "USDA PLANTS Database"
+    ]
+  },
+  {
+    "slug": "blue-agave",
+    "common_name": "Blue Agave (Tequila Agave)",
+    "scientific_name": "Agave tequilana",
+    "category": "flower",
+    "subcategory": "ornamental agave",
+    "days_to_germination": {
+      "min": 14,
+      "max": 28
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 80
+    },
+    "days_to_maturity": {
+      "min": 2555,
+      "max": 3650
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 6
+      },
+      "note": "Plant offsets in well-drained, slightly alkaline to neutral, rocky to sandy, dry soil in full sun; blue agave is cold hardy to approximately 23–28°F when established in sharply-drained soil and performs well in zone 9 with a degree of winter protection for young plants."
+    },
+    "usda_zones": {
+      "min": 9,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 48,
+      "max": 72
+    },
+    "height_in": {
+      "min": 48,
+      "max": 72
+    },
+    "spread_in": {
+      "min": 48,
+      "max": 84
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant offsets in well-drained, dry, rocky to sandy soil in full sun — blue agave is the world-famous Mexican highland succulent that is the sole legal source of tequila, cultivated in vast plantations in the Jalisco region of Mexico where it requires 7–10 years to mature before the piña (heart) is harvested for distillation. As an ornamental landscape plant it is spectacularly bold: rigid, channeled, blue-gray leaves up to 5 feet long with very sharp terminal spines form enormous symmetrical rosettes that make striking architectural focal points. After 7–12 years of growth, a single 20-foot flower spike is produced; the plant dies afterward but produces numerous offsets. Outstanding for dramatic, statement-making specimens in dry, hot, zone 9–11 landscapes, tropical-style gardens, and as a large container plant. The 'Weber Azul' variety is the tequila industry standard and the most commonly available cultivar in nursery trade.",
+    "sources": [
+      "University of Arizona Cooperative Extension",
+      "Texas A&M AgriLife Extension",
+      "Consejo Regulador del Tequila"
+    ]
+  },
+  {
+    "slug": "tiger-aloe",
+    "common_name": "Tiger Aloe (Partridge Breast Aloe)",
+    "scientific_name": "Aloe variegata",
+    "category": "flower",
+    "subcategory": "shade-tolerant ornamental aloe",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 180,
+      "max": 365
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 6
+      },
+      "note": "Plant offsets or container plants in very well-drained, sandy to loamy, dry, slightly alkaline to neutral soil in partial shade to full sun; tiger aloe naturally grows in rock crevices and the partial shade of cliff faces in its native South Africa and is one of the few aloes that actively prefers some shade in hot climates."
+    },
+    "usda_zones": {
+      "min": 9,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 10,
+      "max": 14
+    },
+    "height_in": {
+      "min": 10,
+      "max": 14
+    },
+    "spread_in": {
+      "min": 10,
+      "max": 14
+    },
+    "sun": "shade",
+    "water": "low",
+    "directions": "Plant in very well-drained, dry, sandy to loamy soil in partial shade — unlike most aloes that demand full sun, tiger aloe is unique in preferring partial shade or bright indirect light, making it one of the most valuable and unusual succulents for shaded dry garden conditions. The compact, triangular, dark green leaves arranged in three ranks are beautifully marked with irregular white horizontal bands and spots — a striking, ornamental pattern that gives rise to the common names tiger and partridge breast. The salmon-pink to coral-red tubular flowers on tall stalks appear in winter and spring, providing color when the garden needs it most. Compact enough for windowsills, containers, and small garden pockets; it produces offsets slowly to form small clusters. Native to the scrubby karoo shrubland and rocky hillside outcrops of South Africa. Outstanding as a houseplant in bright indirect light or as an outdoor container plant in shade in Gulf Coast zone 9–11.",
+    "sources": [
+      "Missouri Botanical Garden Plant Finder",
+      "South African National Biodiversity Institute",
+      "University of Florida IFAS Extension"
+    ]
+  },
+  {
+    "slug": "devil-prickly-pear",
+    "common_name": "Eastern Prickly Pear (Devil's Tongue)",
+    "scientific_name": "Opuntia humifusa",
+    "category": "vegetable",
+    "subcategory": "native edible cactus",
+    "days_to_germination": {
+      "min": 14,
+      "max": 30
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 80
+    },
+    "days_to_maturity": {
+      "min": 365,
+      "max": 730
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 6
+      },
+      "note": "Detach a pad and allow the cut end to callous for 3–5 days, then set in dry, well-drained, slightly acidic to slightly alkaline, sandy to rocky soil in full sun; Eastern prickly pear establishes quickly and requires essentially no irrigation or care once established."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 24,
+      "max": 36
+    },
+    "height_in": {
+      "min": 12,
+      "max": 24
+    },
+    "spread_in": {
+      "min": 36,
+      "max": 72
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant callused pad sections in very well-drained, dry, sandy to rocky soil in full sun — eastern prickly pear is the most cold-hardy prickly pear cactus in North America, native from New England to the Gulf Coast and surviving zone 4 winters without damage. The flattened pads (2–4 inches across) grow close to the ground in a spreading mat; large, showy yellow flowers with numerous prominent orange stamens appear in May–June and are followed by barrel-shaped, red to purple-red edible fruits (tunas) that persist through winter. Both the young pads (nopales) and the fruits are traditional foods: young pads are peeled of their glochids and eaten as a vegetable; fruits are juiced, made into jelly, candy, and syrup. The glochids (tiny barbed hair-spines) on the fruits require careful handling — burn or scrub them off before consuming. An outstanding, zero-care native groundcover for dry, rocky, sandy, full-sun spots where lawn and conventional plants would fail.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "USDA PLANTS Database",
+      "North Carolina State Extension"
+    ]
+  },
+  {
+    "slug": "purple-prickly-pear",
+    "common_name": "Purple Prickly Pear (Long-Spine Cactus)",
+    "scientific_name": "Opuntia macrocentra",
+    "category": "vegetable",
+    "subcategory": "native edible cactus",
+    "days_to_germination": {
+      "min": 14,
+      "max": 30
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 80
+    },
+    "days_to_maturity": {
+      "min": 365,
+      "max": 730
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 6
+      },
+      "note": "Detach pads and callous the cut end for 3–5 days before planting in very well-drained, alkaline to neutral, dry, rocky to sandy soil in full sun; purple prickly pear is distinctive for the brilliant reddish-purple color that develops on its pads in cold weather and drought stress, providing outstanding winter ornamental color."
+    },
+    "usda_zones": {
+      "min": 6,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 24,
+      "max": 48
+    },
+    "height_in": {
+      "min": 18,
+      "max": 36
+    },
+    "spread_in": {
+      "min": 36,
+      "max": 72
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant callused pads in very well-drained, dry, rocky to sandy, alkaline to neutral soil in full sun — purple prickly pear is one of the most ornamentally striking native cacti of the Chihuahuan Desert and Texas prairies, valued for the brilliant reddish-purple to wine-red coloration that develops on its blue-green pads during cold weather and drought stress, providing some of the most vivid winter color of any cactus or succulent in cultivation. The yellow flowers with red centers in spring are beautiful; the edible purple-red fruits (tunas) follow in late summer and fall. Long, 3–4 inch white to gray spines give the plant a dramatic, bold texture. The distinctive purple winter color is the result of anthocyanin pigments produced as a cold-stress response — pads return to blue-green in summer warmth. An outstanding xeriscape and dry garden plant for hot, dry, alkaline soils of the southern Gulf Coast and Texas. Edible pads and fruit used as other prickly pears.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "Texas A&M AgriLife Extension",
+      "USDA PLANTS Database"
+    ]
+  },
+  {
+    "slug": "octopus-agave",
+    "common_name": "Octopus Agave (Soft-Leaf Agave)",
+    "scientific_name": "Agave vilmoriniana",
+    "category": "flower",
+    "subcategory": "ornamental spineless agave",
+    "days_to_germination": {
+      "min": 14,
+      "max": 28
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 80
+    },
+    "days_to_maturity": {
+      "min": 1095,
+      "max": 2190
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 6
+      },
+      "note": "Plant bulbils (produced prolifically on the flower spike) or offsets in well-drained, sandy to loamy, dry to moderately moist, slightly alkaline to neutral soil in full sun to partial shade; octopus agave is one of the most cold-tender agaves, reliably hardy only to about 25–28°F."
+    },
+    "usda_zones": {
+      "min": 9,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 48,
+      "max": 72
+    },
+    "height_in": {
+      "min": 36,
+      "max": 60
+    },
+    "spread_in": {
+      "min": 60,
+      "max": 96
+    },
+    "sun": "partial",
+    "water": "low",
+    "directions": "Plant bulbils or offsets in well-drained, dry to moderately moist soil in full sun to partial shade — octopus agave is named for its remarkably distinctive rosette of long, twisting, channeled leaves that curl and undulate in organic, sinuous curves resembling the arms of an octopus — a shape unlike any other agave in cultivation. The long, flexible, gray-green leaves have only soft marginal teeth and no dangerous terminal spine, making it one of the safest agaves for garden use. After 10–20 years, the plant produces a tall flower spike densely covered in yellow flowers; unlike most agaves (which produce offsets), octopus agave produces thousands of small bulbils on the flower spike that can be harvested and planted. It is more shade tolerant than most agaves and grows naturally in the rocky slopes and ravines of northwest Mexico, performing well on shaded north or east-facing slopes in Gulf Coast gardens.",
+    "sources": [
+      "Arizona State University Herberger Institute",
+      "University of California Cooperative Extension",
+      "Missouri Botanical Garden Plant Finder"
+    ]
+  },
+  {
+    "slug": "jack-bean",
+    "common_name": "Jack Bean (Horse Bean)",
+    "scientific_name": "Canavalia ensiformis",
+    "category": "cover-crop",
+    "subcategory": "tropical nitrogen-fixing legume",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 90,
+      "max": 120
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 4
+      },
+      "note": "Direct sow after last frost in any well-drained to moderately moist, poor to moderately fertile soil in full sun; jack bean is an excellent green manure crop for tropical and subtropical gardens — it fixes large quantities of nitrogen and improves soil structure. Do not eat raw seeds — canavanine must be destroyed by thorough boiling."
+    },
+    "usda_zones": {
+      "min": 9,
+      "max": 12
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 36,
+      "max": 72
+    },
+    "spread_in": {
+      "min": 24,
+      "max": 48
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Direct sow after last frost in any well-drained soil in full sun — jack bean is a robust tropical annual legume widely grown as a green manure, cover crop, and nitrogen fixer throughout tropical and subtropical climates. The large, vigorous vines produce clusters of small, purple-pink pea flowers followed by enormous, flat, straight bean pods (10–14 inches long) containing large, white to ivory seeds. As a cover crop, it fixes substantial quantities of atmospheric nitrogen through root nodule bacteria, improving soil fertility for subsequent crops. The immature pods can be eaten as a green bean and the seeds can be eaten when thoroughly cooked (raw seeds and undercooked beans contain canavanine, a toxic amino acid analog that causes serious illness — always boil seeds in multiple changes of water). Very drought tolerant once established; excellent for rehabilitating poor, compacted, or depleted soils in the Gulf Coast vegetable garden rotation.",
+    "sources": [
+      "FAO Plant Production and Protection Division",
+      "Purdue University NewCROP",
+      "University of Florida IFAS Extension"
+    ]
+  },
+  {
+    "slug": "sword-bean",
+    "common_name": "Sword Bean (Overlook Bean)",
+    "scientific_name": "Canavalia gladiata",
+    "category": "vegetable",
+    "subcategory": "tropical climbing bean",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 90,
+      "max": 120
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 4
+      },
+      "note": "Direct sow after last frost in well-drained, slightly acidic to neutral, moderately fertile soil in full sun; provide a sturdy trellis or fence — sword bean vines grow vigorously to 10–15 feet. Do not eat raw seeds or undercooked beans; thorough cooking is required to destroy the toxic amino acid canavanine."
+    },
+    "usda_zones": {
+      "min": 9,
+      "max": 12
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 120,
+      "max": 180
+    },
+    "spread_in": {
+      "min": 24,
+      "max": 48
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Direct sow after last frost, providing a sturdy trellis, in well-drained, slightly acidic to neutral, moderately fertile soil in full sun — sword bean is a vigorous tropical climbing annual from Asia and Africa, producing enormous, curved, sword-shaped pods up to 18 inches long that are among the most dramatic in the legume family. When harvested young (3–4 inches long), the whole immature pods can be cooked and eaten like snap beans; the mature seeds can be eaten when thoroughly cooked through multiple water changes (raw seeds and undercooked beans contain canavanine, a toxic amino acid, and must be thoroughly boiled). In traditional Southeast Asian and African cuisines, the young pods are stir-fried, pickled, and used in curries. The plant is a prolific nitrogen-fixer used as a cover crop and soil improver in tropical agriculture. An ornamental conversation-piece in the summer garden where its enormous pods hanging from a trellis never fail to impress visitors.",
+    "sources": [
+      "FAO Plant Production and Protection Division",
+      "Purdue University NewCROP",
+      "University of Florida IFAS Extension"
+    ]
+  },
+  {
+    "slug": "buffalo-gourd",
+    "common_name": "Buffalo Gourd (Wild Gourd, Missouri Gourd)",
+    "scientific_name": "Cucurbita foetidissima",
+    "category": "vegetable",
+    "subcategory": "native drought-tolerant vine",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 80
+    },
+    "days_to_maturity": {
+      "min": 90,
+      "max": 120
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 4
+      },
+      "note": "Direct sow in spring after last frost in any well-drained to dry, slightly alkaline to neutral, sandy to rocky soil in full sun; buffalo gourd has a massive perennial taproot that can reach 100+ pounds and regrows aggressively after frost or cutting — it is best suited to large-scale naturalistic plantings where the extensive spread (15–30 feet) is acceptable."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 180,
+      "max": 360
+    },
+    "height_in": {
+      "min": 12,
+      "max": 18
+    },
+    "spread_in": {
+      "min": 180,
+      "max": 360
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Direct sow in spring after last frost in any well-drained, dry to moderately moist, alkaline to neutral soil in full sun — buffalo gourd is one of the most extraordinarily drought-tolerant plants native to North America, a perennial-rooted annual vine of dry prairies, roadsides, and desert washes from Nebraska to California, extending its large, rough-textured, gray-green leaves on trailing stems up to 30 feet in a single season. The plant has a distinctly unpleasant, musky-fetid odor when handled (hence the species name 'foetidissima' — most stinking). Round, striped, baseball-sized gourds develop in summer that are toxic and extremely bitter when raw (cucurbitacins); these were used by indigenous peoples after processing to remove bitterness, and the seeds are oil-rich and nutritious. The massive taproot (potentially hundreds of pounds on mature plants) stores enormous water reserves. Most appropriate for large-scale wildlife habitat plantings, erosion control on dry slopes, and arid restoration projects rather than conventional garden settings.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "USDA PLANTS Database",
+      "University of Arizona Cooperative Extension"
+    ]
+  }
+]

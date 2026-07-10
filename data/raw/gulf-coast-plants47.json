@@ -1,0 +1,552 @@
+[
+  {
+    "slug": "venus-flytrap",
+    "common_name": "Venus Flytrap",
+    "scientific_name": "Dionaea muscipula",
+    "category": "flower",
+    "subcategory": "carnivorous plant",
+    "days_to_germination": {
+      "min": 14,
+      "max": 30
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 730,
+      "max": 1825
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Sow seeds on the surface of moist, nutrient-poor, acidic medium (50/50 peat moss and perlite or long-fiber sphagnum moss) in full sun; water only with rain water or distilled water — tap water minerals and all fertilizers will kill plants. Venus flytrap requires a winter dormancy period (50°F for 3–4 months)."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 3,
+      "max": 6
+    },
+    "height_in": {
+      "min": 4,
+      "max": 10
+    },
+    "spread_in": {
+      "min": 4,
+      "max": 8
+    },
+    "sun": "full",
+    "water": "high",
+    "directions": "Venus flytrap is the world's most famous carnivorous plant — a native of the Green Swamp region of North and South Carolina, where it grows in wet, nutrient-poor, acidic pine savannas maintained by periodic fire, trapping and digesting insects and spiders with its hinged, toothed, snap-trap leaves to supplement the minimal nutrients available in its impoverished native habitat. Each trap closes in milliseconds when two trigger hairs inside the trap are touched in quick succession — a failsafe mechanism that prevents wasted closure on raindrops or wind-blown debris; the trap then seals tightly and secretes digestive enzymes over 7–10 days to dissolve the prey. Despite its exotic appearance, Venus flytrap is hardy to zone 7 and requires a cold winter dormancy of 3–4 months (50°F) to remain healthy long-term; in zones 7–9 it can be grown outdoors year-round in appropriate bog conditions. Grow in a mix of 50% peat moss and 50% perlite or sand (no potting soil, no fertilizer), keep the medium wet using rain water or distilled water only, and provide maximum sun — the most common causes of failure are tap water, fertilizer, and insufficient sun.",
+    "sources": [
+      "International Carnivorous Plant Society",
+      "North Carolina State Extension",
+      "Carnivorous Plants of the Southeast (Larry Mellichamp)"
+    ]
+  },
+  {
+    "slug": "pink-sundew",
+    "common_name": "Pink Sundew",
+    "scientific_name": "Drosera capillaris",
+    "category": "flower",
+    "subcategory": "carnivorous plant",
+    "days_to_germination": {
+      "min": 14,
+      "max": 30
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 180,
+      "max": 365
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Sprinkle seeds on the surface of moist, acidic, nutrient-poor medium (live sphagnum moss or 50/50 peat and perlite) without covering; keep standing in a tray of pure rain water or distilled water in full sun — pink sundew self-seeds prolifically in appropriate bog conditions."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 2,
+      "max": 4
+    },
+    "height_in": {
+      "min": 1,
+      "max": 4
+    },
+    "spread_in": {
+      "min": 2,
+      "max": 4
+    },
+    "sun": "full",
+    "water": "high",
+    "directions": "Pink sundew is the most common and widespread native sundew of the Gulf Coastal Plain, found abundantly in open, wet, acidic pine flatwoods, bogs, and roadside ditches from Virginia to Texas and Florida — its tiny rosettes of reddish, glistening, gland-tipped leaves studded with sticky droplets of mucilage trap and digest tiny insects (especially gnats, midges, and small flies) to supplement nutrients in its nutrient-poor habitat. Despite its miniature size (rosettes rarely exceed 2 inches across), pink sundew produces an outsized display of delicate, pink flowers on long stems in late spring, and in appropriate bog conditions it self-seeds prolifically to form dense mats of glittering, glandular rosettes that capture insects throughout the warm season. One of the easier carnivorous plants to grow from seed or to establish in a native bog garden alongside pitcher plants and grass pink orchids; seeds require no stratification and germinate readily on the surface of moist sphagnum or peat. Grow in standing water (the tray method) using rain water or distilled water only — tap water hardness kills all carnivorous plants over time.",
+    "sources": [
+      "International Carnivorous Plant Society",
+      "Florida Native Plant Society",
+      "Carnivorous Plants of the Southeast (Larry Mellichamp)"
+    ]
+  },
+  {
+    "slug": "thread-leaf-sundew",
+    "common_name": "Thread-Leaf Sundew",
+    "scientific_name": "Drosera filiformis",
+    "category": "flower",
+    "subcategory": "carnivorous plant",
+    "days_to_germination": {
+      "min": 14,
+      "max": 30
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 180,
+      "max": 365
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Sprinkle seeds on moist sphagnum moss or peat/perlite mix in full sun; thread-leaf sundew produces tall, erect, thread-like leaves to 12 inches that are covered in mucilaginous glands — one of the most spectacular of all sundews, capable of trapping large insects including damselflies."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 3,
+      "max": 6
+    },
+    "height_in": {
+      "min": 4,
+      "max": 12
+    },
+    "spread_in": {
+      "min": 3,
+      "max": 6
+    },
+    "sun": "full",
+    "water": "high",
+    "directions": "Thread-leaf sundew is one of the most spectacular of all North American carnivorous plants — producing upright, thread-like leaves up to a foot tall that are covered along their entire length with long, glistening, red-tipped tentacles dripping with sticky mucilage, making the plant look like something from a science fiction film. Native to coastal plain bogs of New Jersey and the Carolinas, it is one of the largest and most dramatic of all North American sundews, capable of trapping insects as large as damselflies and small bees on its long, adhesive leaves. Pink flowers appear on tall stalks in summer; the plant goes dormant in winter in zones 5–7, forming a tight, dry bud (hibernaculum) at the soil surface that is cold-hardy to well below freezing, making it one of the more cold-tolerant carnivorous plants for outdoor bog gardens. It produces gemmae (vegetative propagules) in fall that can be planted to create new individuals — an easy propagation method that makes it more accessible than many other carnivorous plants. Grow in the standard wet, acidic, nutrient-poor bog conditions with pure water only.",
+    "sources": [
+      "International Carnivorous Plant Society",
+      "Carnivorous Plants of the Southeast (Larry Mellichamp)",
+      "USDA Plants Database"
+    ]
+  },
+  {
+    "slug": "yellow-pitcher-plant",
+    "common_name": "Yellow Pitcher Plant (Trumpets)",
+    "scientific_name": "Sarracenia flava",
+    "category": "flower",
+    "subcategory": "native bog plant",
+    "days_to_germination": {
+      "min": 30,
+      "max": 90
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 1095,
+      "max": 2555
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant nursery-grown transplants in spring in wet to saturated, acidic (pH 3.5–5.5), nutrient-poor peat or sphagnum bog medium in full sun; keep standing in a tray of pure rain water or distilled water 1–2 inches deep year-round — never fertilize and never use tap water."
+    },
+    "usda_zones": {
+      "min": 6,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 18,
+      "max": 48
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 18
+    },
+    "sun": "full",
+    "water": "high",
+    "directions": "Yellow pitcher plant is one of the tallest and most spectacular native carnivorous plants of North America — producing elegant, yellow-green, trumpet-shaped pitchers up to 4 feet tall with distinctive reddish veining, topped by an arching, umbrella-like lid and a flaring collar that guides insects into the prey-filled, rain-protected trap. Insects are attracted by colorful nectar-like secretions around the pitcher mouth, slide down the waxy inner surface, and drown in the accumulated fluid at the base where bacteria and enzymes digest them; a single pitcher can trap dozens of insects per week. Large, drooping yellow flowers appear on separate stalks in April before the pitchers emerge fully, and have an unusual musty, cat-like scent that attracts early spring pollinators including queen bumblebees, solitary bees, and flies. Native to the wetland pine savannas of the Atlantic and Gulf Coastal Plain from Virginia to Florida, this plant is an outstanding garden specimen for acidic bog gardens in zones 6–9 — it requires no special care beyond pure water, wet conditions, and full sun, and will thrive for decades as a dramatic living sculpture in a properly maintained bog.",
+    "sources": [
+      "International Carnivorous Plant Society",
+      "Lady Bird Johnson Wildflower Center",
+      "Carnivorous Plants of the Southeast (Larry Mellichamp)"
+    ]
+  },
+  {
+    "slug": "white-pitcher-plant",
+    "common_name": "White-Top Pitcher Plant (White Pitcher Plant)",
+    "scientific_name": "Sarracenia leucophylla",
+    "category": "flower",
+    "subcategory": "native bog plant",
+    "days_to_germination": {
+      "min": 30,
+      "max": 90
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 1095,
+      "max": 2555
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant nursery-grown transplants in spring in wet to saturated, acidic, nutrient-poor peat or sphagnum bog medium in full sun; keep standing in pure rain water or distilled water — white pitcher plant is a Gulf Coast native that performs reliably in zones 7–9 outdoor bog gardens."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 18,
+      "max": 48
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 18
+    },
+    "sun": "full",
+    "water": "high",
+    "directions": "White-top pitcher plant may be the most visually stunning of all native North American pitcher plants — its tall, erect pitchers are dramatically bi-colored with deep green lower tubes transitioning to brilliant, white, red-veined upper sections that function as translucent windows to attract and confuse trapped insects attempting to escape. It is endemic to the Gulf Coastal Plain of Alabama, Florida panhandle, Georgia, Mississippi, and Louisiana, where it grows in open, frequently burned, wet longleaf pine savannas — one of the most threatened habitats in North America, having lost over 97% of its original extent. White pitcher plant grows second pitchers in fall (alongside the primary summer pitchers) that are among the most ornamental of any carnivorous plant in the autumn garden, and the spectacular crimson flowers in spring are pollinated by queen bumblebees. A critical conservation indicator species, white pitcher plant should only be purchased from reputable nurseries propagating from cultivated stock; wild populations are legally protected and ecologically irreplaceable. Grow in an outdoor bog garden in full sun for the most impressive pitcher development.",
+    "sources": [
+      "International Carnivorous Plant Society",
+      "Florida Native Plant Society",
+      "Carnivorous Plants: The Definitive Guide (Stewart McPherson)"
+    ]
+  },
+  {
+    "slug": "parrot-pitcher-plant",
+    "common_name": "Parrot Pitcher Plant",
+    "scientific_name": "Sarracenia psittacina",
+    "category": "flower",
+    "subcategory": "native bog plant",
+    "days_to_germination": {
+      "min": 30,
+      "max": 90
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 1095,
+      "max": 2555
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant nursery-grown transplants in spring in wet to saturated, acidic, nutrient-poor peat or sphagnum in full sun; parrot pitcher plant tolerates periodic flooding and brief submersion better than other Sarracenia species — an advantage in seasonally wet Gulf Coast bogs."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 8,
+      "max": 12
+    },
+    "height_in": {
+      "min": 4,
+      "max": 10
+    },
+    "spread_in": {
+      "min": 8,
+      "max": 12
+    },
+    "sun": "full",
+    "water": "high",
+    "directions": "Parrot pitcher plant is the most unusual and architecturally distinctive of all North American pitcher plants — its fat, lobster-trap pitchers lie horizontally or at low angles rather than upright, with a hooded, beaked lid resembling a parrot's head (the name 'psittacina' means parrot-like) and a complex network of transparent windows that allow light in but confuse trapped insects attempting to escape. Unlike upright pitcher plants that fill with rainwater, parrot pitcher plant traps insects in a dry chamber and floods seasonally in its native Gulf Coast bogs; it is actually adapted to tolerate periodic submersion in floodwater, which passively provides additional drowned prey. This distinctive form and short stature make it a valuable companion plant to tall pitchers in bog garden designs, providing a low, ground-level layer of carnivorous plants that adds visual variety. Native to the Gulf Coastal Plain from Georgia to Louisiana, it thrives in the wet pine savannas of the Gulf Coast where it should be cultivated in appropriate bog conditions to support habitat awareness and conservation of this threatened ecosystem.",
+    "sources": [
+      "International Carnivorous Plant Society",
+      "Florida Native Plant Society",
+      "Carnivorous Plants of the Southeast (Larry Mellichamp)"
+    ]
+  },
+  {
+    "slug": "hooded-pitcher-plant",
+    "common_name": "Hooded Pitcher Plant",
+    "scientific_name": "Sarracenia minor",
+    "category": "flower",
+    "subcategory": "native bog plant",
+    "days_to_germination": {
+      "min": 30,
+      "max": 90
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 1095,
+      "max": 2555
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant nursery-grown transplants in spring in wet to saturated, acidic, nutrient-poor peat or sphagnum in full sun to partial shade; hooded pitcher plant adapts to more shaded conditions than other Sarracenia and naturally grows in the light shade of scattered pines in moist flatwoods."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 8,
+      "max": 12
+    },
+    "height_in": {
+      "min": 6,
+      "max": 30
+    },
+    "spread_in": {
+      "min": 8,
+      "max": 12
+    },
+    "sun": "partial",
+    "water": "high",
+    "directions": "Hooded pitcher plant is a compact to medium-sized native Sarracenia of the southeastern coastal plain with a distinctive domed, helmet-like hood that nearly completely covers the pitcher mouth — this unusual lid design protects the trap from rain diluting the digestive fluid inside, as the plant relies on a different trapping mechanism from most pitcher plants. White transparent windows in the upper pitcher wall allow light in and create 'false exits' that confuse trapped insects; bees and flies follow the light toward the windows and become exhausted trying to escape through the translucent walls, eventually falling into the digestive fluid below. Native from North Carolina to Florida's Ocala National Forest, hooded pitcher plant is among the more heat- and humidity-tolerant of all Sarracenia species, making it an excellent choice for Gulf Coast bog gardens in zones 7–9. Yellow flowers in spring are produced on separate stems before the pitchers emerge; the plant grows as a rhizomatous clump that slowly expands year by year in appropriate conditions without requiring special management beyond pure water and acidic medium.",
+    "sources": [
+      "International Carnivorous Plant Society",
+      "Florida Native Plant Society",
+      "Lady Bird Johnson Wildflower Center"
+    ]
+  },
+  {
+    "slug": "sweet-pitcher-plant",
+    "common_name": "Sweet Pitcher Plant",
+    "scientific_name": "Sarracenia rubra",
+    "category": "flower",
+    "subcategory": "native bog plant",
+    "days_to_germination": {
+      "min": 30,
+      "max": 90
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 1095,
+      "max": 2555
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant nursery-grown transplants in spring in wet to saturated, acidic, nutrient-poor peat or sphagnum in full sun; sweet pitcher plant has several geographically distinct subspecies adapted to different habitats from the Carolinas to Alabama — select subspecies appropriate to your region."
+    },
+    "usda_zones": {
+      "min": 6,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 8,
+      "max": 12
+    },
+    "height_in": {
+      "min": 8,
+      "max": 24
+    },
+    "spread_in": {
+      "min": 8,
+      "max": 12
+    },
+    "sun": "full",
+    "water": "high",
+    "directions": "Sweet pitcher plant earns its name from the intensely sweet, rose-like fragrance of its spring flowers — deep crimson-red blooms that open in April and May on tall, leafless stalks well above the pitchers, producing a fragrance that can be detected several feet away and is considered the most sweetly scented of any Sarracenia flower. The compact, narrow pitchers of this species grow 8–24 inches tall depending on the subspecies and have a distinctive red-veined, green-and-purple coloration that varies widely among the multiple recognized subspecies (Sarracenia rubra ssp. rubra, ssp. jonesii, ssp. gulfensis, ssp. wherryi, and others) distributed across different parts of the coastal plain from North Carolina to Alabama. Subspecies gulfensis (Gulf Coast sweet pitcher plant) is native to the Florida panhandle and Alabama, where it grows in seepage bogs adjacent to other Gulf Coast carnivorous plants; it is one of the most threatened Sarracenia subspecies due to habitat loss. As with all native pitcher plants, purchase only nursery-propagated specimens from ethical native plant dealers and grow in pure water, acidic medium, and full sun.",
+    "sources": [
+      "International Carnivorous Plant Society",
+      "Florida Native Plant Society",
+      "Carnivorous Plants of the Southeast (Larry Mellichamp)"
+    ]
+  },
+  {
+    "slug": "yellow-butterwort",
+    "common_name": "Yellow Butterwort",
+    "scientific_name": "Pinguicula lutea",
+    "category": "flower",
+    "subcategory": "native carnivorous plant",
+    "days_to_germination": {
+      "min": 14,
+      "max": 30
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 365,
+      "max": 1095
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant nursery-propagated leaf cuttings or divisions in spring in wet, acidic to neutral, nutrient-poor, sandy or peaty soil in full sun to partial shade; yellow butterwort is a Gulf Coast native that tolerates the humid summers of zones 7–9 better than most temperate butterworts."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 3,
+      "max": 6
+    },
+    "height_in": {
+      "min": 2,
+      "max": 8
+    },
+    "spread_in": {
+      "min": 3,
+      "max": 6
+    },
+    "sun": "full",
+    "water": "high",
+    "directions": "Yellow butterwort is a native carnivorous plant of the Gulf Coastal Plain's wet pine flatwoods and seepage slopes, producing flat rosettes of bright yellow-green, greasy-textured leaves covered in sticky glands that capture small insects and fungus gnats — the oily, buttery texture of the leaves inspired the 'butterwort' common name. In late winter and spring, beautiful, pale yellow, five-petaled flowers on long, delicate stalks emerge from the center of each rosette, appearing before many other wildflowers in the Gulf Coast bog community. Unlike the complex snap-trap mechanism of Venus flytrap or the drowning pitchers of Sarracenia, butterworts use a simple passive flypaper strategy — insects land on the sticky leaves and are unable to escape; digestive glands then secrete enzymes to break down the prey. Yellow butterwort is relatively easy to grow among carnivorous plants, adapting to a range of wet, acidic to neutral conditions and tolerating the heat and humidity of Gulf Coast winters when other carnivorous plants may struggle. Propagate readily from leaf cuttings laid on moist sphagnum moss in bright light.",
+    "sources": [
+      "International Carnivorous Plant Society",
+      "Florida Native Plant Society",
+      "Carnivorous Plants of the Southeast (Larry Mellichamp)"
+    ]
+  },
+  {
+    "slug": "horned-bladderwort",
+    "common_name": "Horned Bladderwort",
+    "scientific_name": "Utricularia cornuta",
+    "category": "flower",
+    "subcategory": "native carnivorous plant",
+    "days_to_germination": {
+      "min": 14,
+      "max": 30
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 180,
+      "max": 365
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant divisions on the surface of wet, acidic, nutrient-poor peat or sand in full sun at the margins of shallow bog pools or on constantly wet sphagnum; horned bladderwort is a terrestrial or semi-aquatic species that grows in the thin, wet soil layer above bog substrate."
+    },
+    "usda_zones": {
+      "min": 6,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 2,
+      "max": 4
+    },
+    "height_in": {
+      "min": 2,
+      "max": 10
+    },
+    "spread_in": {
+      "min": 4,
+      "max": 12
+    },
+    "sun": "full",
+    "water": "high",
+    "directions": "Horned bladderwort is a native terrestrial carnivorous plant of open, acidic bogs and wet flatwoods across eastern North America, a plant of deceptively simple appearance — thread-like underground stems bear tiny, hollow trap bladders that vacuum-suck microscopic water organisms (protozoa, tiny worms, and small aquatic invertebrates) through a trap door when prey touches sensitive trigger hairs. The common name refers to the distinctive lower lip of the golden-yellow flower that ends in a downcurved spur or 'horn'; the flowers are beautifully snapdragon-like and appear on leafless stalks 2–10 inches above the substrate in summer, looking almost like a miniature yellow orchid blooming from bare mud. Like all bladderworts, horned bladderwort has no true roots or leaves — the entire plant consists of thread-like, carnivorous stems — and it grows through and over the surface of wet, acidic bog substrates, spreading vegetatively through fragmentation. Combine with sundews, grass pink orchid, and pitcher plants in an authentic Gulf Coast bog garden planting where its delicate golden flowers provide an additional dimension of carnivorous plant diversity.",
+    "sources": [
+      "International Carnivorous Plant Society",
+      "Lady Bird Johnson Wildflower Center",
+      "Carnivorous Plants of the Southeast (Larry Mellichamp)"
+    ]
+  }
+]

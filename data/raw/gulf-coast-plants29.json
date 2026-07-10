@@ -1,0 +1,534 @@
+[
+  {
+    "slug": "canada-lily",
+    "common_name": "Canada Lily (Wild Yellow Lily)",
+    "scientific_name": "Lilium canadense",
+    "category": "flower",
+    "subcategory": "native woodland lily",
+    "days_to_germination": {
+      "min": 30,
+      "max": 60
+    },
+    "germination_soil_temp_f": {
+      "min": 50,
+      "max": 65
+    },
+    "days_to_maturity": {
+      "min": 365,
+      "max": 730
+    },
+    "maturity_from": "transplant",
+    "sow_method": "bulb",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -4
+      },
+      "note": "Plant bulbs 4–6 inches deep in fall in moist, slightly acidic to neutral, humus-rich, well-drained to moderately moist soil in partial shade; Canada lily requires consistently moist soil and will not tolerate drought or dry, alkaline conditions — it grows naturally in moist meadows, stream banks, and open woodland edges."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 36,
+      "max": 60
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 18
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Plant bulbs 4–6 inches deep in fall in moist, slightly acidic, humus-rich, well-drained to moderately moist soil in partial shade — Canada lily is one of the most graceful and spectacular of all eastern wildflowers, producing tall, whorled-leafed stems 3–5 feet high topped with pendant clusters of 3–16 large (3-inch), nodding, bell-shaped flowers in yellow to orange to deep red with dark spots inside, held on gracefully recurved pedicels in June–July. The flowers are visited by hummingbirds, swallowtail butterflies, and bumblebees. Canada lily grows naturally in moist meadows, wet prairies, stream banks, and open woodland edges throughout the northeastern and Appalachian US, in conditions that remain consistently moist through the growing season. It is more adaptable to partial shade than most lilies and blooms reliably in dappled light. Naturalize in moist, shaded meadow gardens and along stream banks for a stunning effect.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "USDA PLANTS Database",
+      "North Carolina State Extension"
+    ]
+  },
+  {
+    "slug": "carolina-lily",
+    "common_name": "Carolina Lily (Southern Lily)",
+    "scientific_name": "Lilium michauxii",
+    "category": "flower",
+    "subcategory": "native woodland lily",
+    "days_to_germination": {
+      "min": 30,
+      "max": 60
+    },
+    "germination_soil_temp_f": {
+      "min": 55,
+      "max": 65
+    },
+    "days_to_maturity": {
+      "min": 365,
+      "max": 730
+    },
+    "maturity_from": "transplant",
+    "sow_method": "bulb",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -4
+      },
+      "note": "Plant bulbs 4–5 inches deep in fall in well-drained, slightly acidic (pH 5.0–6.0), sandy to loamy, humus-rich soil in partial shade; Carolina lily is a dry-land lily adapted to the sandy, well-drained, acidic soils of southeastern pine forests — unlike most lilies, it does not tolerate wet or poorly-drained conditions."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 24,
+      "max": 48
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 18
+    },
+    "sun": "partial",
+    "water": "low",
+    "directions": "Plant bulbs 4–5 inches deep in fall in well-drained, slightly acidic, sandy, humus-rich soil in partial shade — Carolina lily is the southeastern counterpart to Canada lily and the most drought-tolerant of our native lilies, adapted to the dry, sandy, acidic soils of longleaf pine and oak-hickory forests from the mid-Atlantic through the Deep South. It produces nodding, orange to red, strongly reflexed (turkscap-type) flowers with dark spots and a prominent yellow center in July–August on stems with attractive whorled leaves. The flowers are intensely sought by ruby-throated hummingbirds and swallowtail butterflies. Unlike most lilies, it thrives in the sandy, well-drained, dry-summer conditions of southeastern pine flatwoods and is one of the few native lilies suited to zone 8–9 heat and drought. Outstanding for naturalizing under pines in the coastal South. Endangered by habitat loss; purchase only nursery-propagated bulbs.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "North Carolina State Extension",
+      "USDA PLANTS Database"
+    ]
+  },
+  {
+    "slug": "spatterdock",
+    "common_name": "Spatterdock (Yellow Pond Lily, Cow Lily)",
+    "scientific_name": "Nuphar lutea",
+    "category": "flower",
+    "subcategory": "native aquatic perennial",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 60,
+      "max": 120
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 6
+      },
+      "note": "Plant rhizome sections in 6–18 inches of water in pots of aquatic soil set on the pond bottom, or directly into pond mud in spring; spatterdock thrives in more shade than true water lilies and tolerates slow-moving or slightly turbid water that would defeat Nymphaea species."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 24,
+      "max": 48
+    },
+    "height_in": {
+      "min": 6,
+      "max": 18
+    },
+    "spread_in": {
+      "min": 36,
+      "max": 72
+    },
+    "sun": "partial",
+    "water": "high",
+    "directions": "Plant rhizome divisions in 6–18 inches of still to slow-moving water in full sun to partial shade — spatterdock is the toughest and most shade-adaptable of all North American native water plants, growing in slow streams, ponds, lakes, ditches, and bayous throughout the continent where it produces large, heart-shaped, floating and emergent leaves up to 16 inches across that provide outstanding surface coverage and shade for fish and frogs. The distinctive globe-shaped, 2-inch yellow flowers with conspicuous red stamens appear above the water surface from spring through fall and are pollinated by beetles attracted to the sweet scent. Unlike true water lilies (Nymphaea), spatterdock tolerates shade, slow-moving water, turbidity, and some salt influence, making it the water plant of choice for shaded natural ponds, sluggish streams, and bayou margins. The rhizomes were an important food source for Native Americans. Spreads vigorously in ideal conditions; contain in pots for small water gardens.",
+    "sources": [
+      "USDA PLANTS Database",
+      "Lady Bird Johnson Wildflower Center",
+      "University of Florida IFAS Extension"
+    ]
+  },
+  {
+    "slug": "water-tupelo",
+    "common_name": "Water Tupelo (Tupelo Gum)",
+    "scientific_name": "Nyssa aquatica",
+    "category": "flower",
+    "subcategory": "native swamp tree",
+    "days_to_germination": {
+      "min": 30,
+      "max": 90
+    },
+    "germination_soil_temp_f": {
+      "min": 55,
+      "max": 65
+    },
+    "days_to_maturity": {
+      "min": 1825,
+      "max": 5475
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant container specimens in spring in wet to flooded, slightly acidic to neutral, clay to loamy soil in full sun to partial shade; water tupelo is one of the very few large trees that tolerates prolonged seasonal flooding of 6–12 feet and thrives in swamp, bottomland, and floodplain conditions inaccessible to most trees."
+    },
+    "usda_zones": {
+      "min": 6,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 240,
+      "max": 480
+    },
+    "height_in": {
+      "min": 720,
+      "max": 1200
+    },
+    "spread_in": {
+      "min": 240,
+      "max": 480
+    },
+    "sun": "partial",
+    "water": "high",
+    "directions": "Plant in wet to seasonally flooded, slightly acidic to neutral, clay to loamy bottomland soil in full sun to partial shade — water tupelo is one of the dominant trees of the Deep South's most iconic wetland ecosystems: the cypress-tupelo swamp. It develops a dramatically buttressed, swollen trunk base that allows gas exchange during prolonged flooding, standing in water for months at a time in the bottomlands of the Gulf Coast and Mississippi River corridor. The large, elliptic leaves turn brilliant orange, scarlet, and crimson in fall, making it one of the finest fall-color trees for wet sites. Clusters of small, oblong, dark blue to black fruit in late summer and fall are among the most sought by migrating birds. Water tupelo honey — gathered by bees from the small spring flowers — is renowned as a premium monofloral honey with an exceptionally delicate, fruity sweetness and crystallization-resistant properties. An outstanding large tree for naturalizing in wet, swampy, or bottomland areas.",
+    "sources": [
+      "University of Florida IFAS Extension",
+      "Lady Bird Johnson Wildflower Center",
+      "USDA PLANTS Database"
+    ]
+  },
+  {
+    "slug": "black-gum",
+    "common_name": "Black Gum (Black Tupelo, Sour Gum)",
+    "scientific_name": "Nyssa sylvatica",
+    "category": "flower",
+    "subcategory": "native shade tree",
+    "days_to_germination": {
+      "min": 30,
+      "max": 90
+    },
+    "germination_soil_temp_f": {
+      "min": 40,
+      "max": 60
+    },
+    "days_to_maturity": {
+      "min": 1825,
+      "max": 5475
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -4
+      },
+      "note": "Plant container specimens (ball-and-burlap or container-grown) in fall in moist, slightly acidic, well-drained to moderately moist, loamy soil in full sun to partial shade; black gum develops a deep taproot and transplants best when young — avoid moving established specimens."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 180,
+      "max": 360
+    },
+    "height_in": {
+      "min": 480,
+      "max": 960
+    },
+    "spread_in": {
+      "min": 180,
+      "max": 300
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Plant in moist, slightly acidic, well-drained to moderately moist, loamy soil in full sun to partial shade — black gum consistently ranks among the top native trees for fall foliage color: its leaves turn brilliant shades of scarlet, orange, purple, and wine-red as early as late August in the South, among the first of all trees to change, providing exceptionally early and long-lasting fall color in the landscape. The tree is pyramidal when young and becomes more irregular and picturesque with age; horizontal branching and somewhat layered architecture make it attractive year-round. Small, dark blue to black berries in clusters ripen in September–October and are consumed by over 30 species of songbirds and mammals. Black gum is one of the most important wildlife trees in the eastern US due to its early-ripening, high-fat fruits. Adaptable to a wide range of moisture conditions from dry upland slopes to wet bottomlands — an outstanding landscape tree for native plantings.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "North Carolina State Extension",
+      "Missouri Botanical Garden Plant Finder"
+    ]
+  },
+  {
+    "slug": "arrow-arum",
+    "common_name": "Arrow Arum (Tuckahoe)",
+    "scientific_name": "Peltandra virginica",
+    "category": "flower",
+    "subcategory": "native aquatic perennial",
+    "days_to_germination": {
+      "min": 14,
+      "max": 30
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 120
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 6
+      },
+      "note": "Plant divisions or container plants in shallow water (2–6 inches deep) or in consistently wet to mucky, slightly acidic to neutral soil in partial shade to full sun; arrow arum is an emergent aquatic that thrives in the margins of ponds, streams, and wetlands and tolerates more shade than most aquatic plants."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 18,
+      "max": 30
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 30
+    },
+    "sun": "partial",
+    "water": "high",
+    "directions": "Plant divisions in shallow water (2–6 inches) or saturated mud at pond and stream margins in partial shade to full sun — arrow arum is a beautiful native aquatic perennial of eastern wetlands, producing bold, glossy, deep-green, arrow-shaped leaves on long petioles that emerge from the water in dramatic clumps. The arum-family flowers appear in late spring — a pale green, spathe-enclosed spadix — followed by clusters of dark green berries on a drooping stalk in summer that are relished by wood ducks, which specifically seek them out in late summer and fall. Arrow arum tolerates more shade than most aquatic plants and grows naturally in the partial shade of swamp forests, shaded stream banks, and the shaded margins of cypress bays and bottomland ponds. It is an important structural element of natural wetland plant communities, providing cover and food for numerous wildlife species. The large corm (tuckahoe) was an important food source for indigenous peoples who prepared it to remove irritating calcium oxalate crystals.",
+    "sources": [
+      "USDA PLANTS Database",
+      "Lady Bird Johnson Wildflower Center",
+      "North Carolina State Extension"
+    ]
+  },
+  {
+    "slug": "stiff-goldenrod",
+    "common_name": "Stiff Goldenrod (Rigid Goldenrod)",
+    "scientific_name": "Solidago rigida",
+    "category": "flower",
+    "subcategory": "native prairie perennial",
+    "days_to_germination": {
+      "min": 14,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 90,
+      "max": 180
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -4
+      },
+      "note": "Direct sow in fall in well-drained, slightly acidic to alkaline, dry to moderately moist, sandy to loamy soil in full sun to light shade; stiff goldenrod is drought tolerant and thrives in poor, well-drained soils — it will not thrive in wet or highly fertile conditions where it becomes floppy."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 24,
+      "max": 48
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Direct sow in fall or transplant in spring in well-drained, dry to moderately moist soil in full sun — stiff goldenrod is one of the most ornamentally attractive native goldenrods, producing broad, flat-topped clusters of bright golden-yellow flower heads in August–October that contrast beautifully with the coarse, grayish-green, almost sandpapery-textured leaves. Unlike many goldenrods with arching, plume-like inflorescences, stiff goldenrod holds its flowers in rigid, organized, flat-topped corymbs with an unusually bold, architectural quality. It is one of the most valuable late-season pollinator plants on the continent: dozens of specialist bee species including eastern bumble bees, mining bees, and sweat bees depend on goldenrod pollen in late summer as a critical pre-winter protein source, and the flowers host hundreds of beneficial insect species. The stiff, upright habit (rarely needing staking despite the name) makes it more manageable than spreading goldenrod species in garden settings. Blooms reliably with virtually no care in adapted soils.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "Missouri Botanical Garden Plant Finder",
+      "USDA PLANTS Database"
+    ]
+  },
+  {
+    "slug": "horsetail",
+    "common_name": "Horsetail (Scouring Rush)",
+    "scientific_name": "Equisetum hyemale",
+    "category": "flower",
+    "subcategory": "primitive wetland plant",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 60,
+      "max": 120
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant divisions in wet to moist, slightly acidic to neutral soil in partial shade to full sun; horsetail spreads aggressively by underground rhizomes in wet conditions — contain with deep buried edging (12 inches or more) or plant in a submerged pot in water gardens to prevent escape into garden beds."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 6,
+      "max": 12
+    },
+    "height_in": {
+      "min": 24,
+      "max": 48
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 36
+    },
+    "sun": "partial",
+    "water": "high",
+    "directions": "Plant divisions in wet to moist, slightly acidic to neutral soil or in shallow water in full sun to partial shade — horsetail is a living fossil, a primitive, spore-reproducing plant that has remained essentially unchanged for 350 million years and was a dominant tree-sized plant during the Carboniferous period. Today it grows as a tall, jointed, leafless, evergreen rushlike plant with hollow, ridged, dark green stems banded with dark nodes that have an extraordinary, architectural, minimalist beauty in garden and water garden design. The silica crystals in the stems were historically used as a natural scouring material for pots and pans (hence 'scouring rush'). In water gardens, containers of horsetail at the margins provide a strongly vertical, Japanese-minimalist aesthetic. It must be contained as it spreads vigorously by rhizome in wet conditions and can become difficult to eradicate once established outside of a designated area. Excellent in containers at pond margins.",
+    "sources": [
+      "Missouri Botanical Garden Plant Finder",
+      "North Carolina State Extension",
+      "USDA PLANTS Database"
+    ]
+  },
+  {
+    "slug": "softrush",
+    "common_name": "Softrush (Common Rush)",
+    "scientific_name": "Juncus effusus",
+    "category": "flower",
+    "subcategory": "native wetland grass",
+    "days_to_germination": {
+      "min": 14,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 120
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant divisions or plug transplants in spring in wet to consistently moist, slightly acidic to neutral soil in full sun to partial shade; softrush is adapted to shallow water, pond margins, rain gardens, and wet ditches and tolerates standing water for extended periods."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 18,
+      "max": 48
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 30
+    },
+    "sun": "partial",
+    "water": "high",
+    "directions": "Plant divisions in wet to consistently moist, slightly acidic to neutral soil at pond margins, in rain gardens, and in wet ditches in full sun to partial shade — softrush is a graceful, clump-forming native rush of wet areas throughout the Americas, producing upright, round, deep-green, leafless stems that form arching, fountain-like clumps at the water's edge. The inconspicuous brownish flower clusters appear to emerge from the side of the stems (actually from a bract that appears continuous with the stem), adding subtle texture in summer. Softrush is a critical habitat plant for many wetland birds that weave it into nest construction, including marsh wrens and red-winged blackbirds; the seeds are consumed by waterfowl. An outstanding structural plant for rain gardens, bioswales, and natural pond margins that also serves as excellent water quality filtration for stormwater. The curly-leaved cultivar 'Spiralis' (Corkscrew Rush) is popular as an ornamental in containers and wet garden beds.",
+    "sources": [
+      "USDA PLANTS Database",
+      "Lady Bird Johnson Wildflower Center",
+      "North Carolina State Extension"
+    ]
+  },
+  {
+    "slug": "tropical-water-lily",
+    "common_name": "Cape Blue Water Lily (Tropical Blue Water Lily)",
+    "scientific_name": "Nymphaea capensis",
+    "category": "flower",
+    "subcategory": "tropical aquatic perennial",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 60,
+      "max": 90
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 4,
+        "max": 8
+      },
+      "note": "Plant tubers in aquatic pots filled with heavy garden loam, topped with gravel, and submerged 12–18 inches below the water surface after water temperatures consistently exceed 70°F; Cape blue water lily requires warm water to grow and bloom and will not tolerate water temperatures below 60°F."
+    },
+    "usda_zones": {
+      "min": 10,
+      "max": 12
+    },
+    "spacing_in": {
+      "min": 36,
+      "max": 60
+    },
+    "height_in": {
+      "min": 6,
+      "max": 12
+    },
+    "spread_in": {
+      "min": 48,
+      "max": 96
+    },
+    "sun": "partial",
+    "water": "high",
+    "directions": "Plant tubers in heavy loam aquatic pots submerged 12–18 inches in warm water after temperatures reach 70°F — Cape blue water lily is one of the most spectacularly beautiful aquatic plants for warm-climate water gardens, producing large (6–10 inch), star-shaped flowers in brilliant sky-blue to lavender-blue on tall stems that rise 6–12 inches above the water surface, blooming by day from late spring through fall. Unlike most tropical water lilies, the flowers have an intensely sweet, vanilla-like fragrance and remain open until early afternoon. The large, round, notched floating leaves (12–24 inches across) cover the water surface effectively and provide shade that discourages algae growth and shelters fish and aquatic life. In zone 10–12 the tubers overwinter in the pond; in zone 9 lift and store tubers indoors at 60–65°F over winter. One of the parent species of many popular tropical water lily hybrids and among the finest blue-flowered aquatics available for warm water garden cultivation.",
+    "sources": [
+      "University of Florida IFAS Extension",
+      "International Water Lily and Water Gardening Society",
+      "Missouri Botanical Garden Plant Finder"
+    ]
+  }
+]

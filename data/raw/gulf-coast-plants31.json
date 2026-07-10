@@ -1,0 +1,552 @@
+[
+  {
+    "slug": "sandpaper-verbena",
+    "common_name": "Sandpaper Verbena (Rigid Verbena)",
+    "scientific_name": "Verbena rigida",
+    "category": "flower",
+    "subcategory": "spreading groundcover perennial",
+    "days_to_germination": {
+      "min": 14,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 90
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Direct sow or transplant in spring in well-drained, slightly acidic to neutral, dry to moderately moist soil in full sun; sandpaper verbena spreads aggressively by rhizomes in Gulf Coast conditions — it is most appropriate in large open areas or as a slope cover where spreading is desired."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 12,
+      "max": 24
+    },
+    "spread_in": {
+      "min": 24,
+      "max": 48
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant or direct sow in well-drained, dry to moderately moist soil in full sun — sandpaper verbena is a tough, spreading perennial from South America that has naturalized widely across the Gulf Coast and Deep South, producing brilliant purple to magenta flat-topped flower clusters almost continuously from spring through hard frost. The rough, sandpapery-textured, deeply veined leaves and stems give it a distinctive texture; the plant spreads rapidly by underground rhizomes to cover large areas in hot, dry conditions where lawn and other groundcovers fail. It is an outstanding butterfly plant with exceptional drought tolerance and makes a bold, colorful slope cover, median planting, or informal groundcover in sunny, dry areas. In zone 7–8 it may die back in winter but resprouts reliably from established roots. The intense purple flower color is unusually vivid in the landscape and combines beautifully with yellow or orange companions. Too aggressive for small formal beds but invaluable for large-scale planting.",
+    "sources": [
+      "Texas A&M AgriLife Extension",
+      "Lady Bird Johnson Wildflower Center",
+      "University of Florida IFAS Extension"
+    ]
+  },
+  {
+    "slug": "wild-verbena",
+    "common_name": "Texas Verbena (Slender Verbena)",
+    "scientific_name": "Verbena halei",
+    "category": "flower",
+    "subcategory": "native prairie annual",
+    "days_to_germination": {
+      "min": 10,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 90
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -6,
+        "max": -2
+      },
+      "note": "Direct sow seed in fall in well-drained, slightly acidic to neutral, dry to moderately moist, sandy to loamy soil in full sun; Texas verbena overwinters as a basal rosette in zone 7–9 and blooms prolifically in spring before summer heat arrives, then self-sows to maintain a persistent colony."
+    },
+    "usda_zones": {
+      "min": 6,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 8,
+      "max": 12
+    },
+    "height_in": {
+      "min": 18,
+      "max": 36
+    },
+    "spread_in": {
+      "min": 8,
+      "max": 18
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Direct sow in fall in well-drained, dry to moderately moist, sandy to loamy soil in full sun — Texas verbena is a delicate-looking but tough native annual of the Gulf Coast prairies and open roadsides of Texas, Louisiana, and adjacent states, producing slender, erect stems topped with small but brilliantly colored lavender-pink to pink-purple flower spikes from late winter through spring. Despite its fine, airy texture, it is remarkably heat and drought tolerant and is one of the most important early-season nectar plants for gulf fritillary and phaon crescent butterflies emerging from winter dormancy. It self-sows prolifically in open, disturbed soils to maintain self-sustaining colonies in roadsides, meadows, and sunny, dry garden borders. Excellent for adding fine texture and early spring color to wildflower meadow plantings alongside bluebonnets, Indian paintbrush, and Indian blanket. Essentially no maintenance once established from seed.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "USDA PLANTS Database",
+      "Texas A&M AgriLife Extension"
+    ]
+  },
+  {
+    "slug": "tropical-verbena",
+    "common_name": "Garden Verbena (Trailing Verbena)",
+    "scientific_name": "Verbena x hybrida",
+    "category": "flower",
+    "subcategory": "annual groundcover",
+    "days_to_germination": {
+      "min": 14,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 90
+    },
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 2
+      },
+      "note": "Start seed indoors 10–12 weeks before last frost, or purchase transplants; garden verbena requires warm soil (above 60°F) to grow and bloom — transplant only after frost risk has fully passed. Deadhead regularly to extend bloom into summer; in zone 9–10 it blooms spring through winter with minimal care."
+    },
+    "usda_zones": {
+      "min": 9,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 6,
+      "max": 18
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 36
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Start indoors 10–12 weeks before last frost, or plant purchased transplants in well-drained, slightly acidic to neutral, moderately dry to moist soil in full sun — garden verbena is one of the most popular and versatile bedding plants in the world, available in a continuous spectrum from pure white through pink, salmon, red, scarlet, purple, lavender, and bicolor combinations, blooming prolifically from spring through fall. The trailing to mounding habit (depending on cultivar) makes it outstanding in containers, hanging baskets, window boxes, and as a low bedding plant. Modern disease-resistant series ('Superbena', 'Lascar', 'Obsession') provide significantly better powdery mildew resistance and longer bloom seasons than older varieties. In zone 9–11 garden verbena often overwinters and behaves as a short-lived perennial, providing bloom through winter; in zone 7–8 it is an annual. Remove spent flower clusters regularly to maintain maximum bloom production through summer.",
+    "sources": [
+      "University of Florida IFAS Extension",
+      "North Carolina State Extension",
+      "American Horticultural Society"
+    ]
+  },
+  {
+    "slug": "scalloped-oak",
+    "common_name": "Bastard Oak (Durand Oak)",
+    "scientific_name": "Quercus sinuata",
+    "category": "flower",
+    "subcategory": "native upland oak",
+    "days_to_germination": {
+      "min": 14,
+      "max": 30
+    },
+    "germination_soil_temp_f": {
+      "min": 50,
+      "max": 65
+    },
+    "days_to_maturity": {
+      "min": 1825,
+      "max": 3650
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -4
+      },
+      "note": "Plant container specimens in fall in well-drained, slightly alkaline to neutral, rocky to clay soil in full sun to partial shade; bastard oak is adapted to the limestone soils and rocky, alkaline, well-drained upland sites of the Edwards Plateau and Gulf Coast prairies, where it grows in conditions that exclude most other oaks."
+    },
+    "usda_zones": {
+      "min": 6,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 240,
+      "max": 360
+    },
+    "height_in": {
+      "min": 480,
+      "max": 720
+    },
+    "spread_in": {
+      "min": 240,
+      "max": 360
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant in well-drained, slightly alkaline to neutral, rocky to clay, dry to moderately moist soil in full sun — bastard oak (Quercus sinuata) is a medium to large deciduous white oak of the limestone-dominated Edwards Plateau, Cross Timbers, and Gulf Coast prairies of Texas and adjacent states, notable for its distinctive leaves with deep, rounded, scalloped lobes unlike any other Texas oak. It grows on rocky limestone hillsides and in deep clay draws, tolerating both the thin, alkaline, rocky soils of the Hill Country and the heavy black clay soils of the Blackland Prairie with equal adaptability. The tree is moderately fast-growing for an oak, long-lived, and provides outstanding shade and wildlife value (acorns in the white oak group ripen in one season and are highly palatable to deer and wildlife). An underutilized oak for the challenging alkaline, clay, and limestone soils of central and south Texas garden sites where other oaks perform poorly.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "Texas A&M AgriLife Extension",
+      "USDA PLANTS Database"
+    ]
+  },
+  {
+    "slug": "plateau-oak",
+    "common_name": "Plateau Live Oak (Escarpment Live Oak)",
+    "scientific_name": "Quercus fusiformis",
+    "category": "flower",
+    "subcategory": "native evergreen oak",
+    "days_to_germination": {
+      "min": 14,
+      "max": 30
+    },
+    "germination_soil_temp_f": {
+      "min": 50,
+      "max": 65
+    },
+    "days_to_maturity": {
+      "min": 1825,
+      "max": 3650
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -4
+      },
+      "note": "Plant container specimens in fall in well-drained, alkaline to slightly acidic, rocky to loamy, dry to moderately moist soil in full sun; plateau live oak is significantly more cold and drought tolerant than the coastal live oak (Q. virginiana) and is the live oak of choice for inland Texas gardens away from the mild Gulf Coast climate."
+    },
+    "usda_zones": {
+      "min": 6,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 180,
+      "max": 360
+    },
+    "height_in": {
+      "min": 240,
+      "max": 540
+    },
+    "spread_in": {
+      "min": 240,
+      "max": 540
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant in well-drained, alkaline to slightly acidic, rocky to loamy, dry to moderately moist soil in full sun — plateau live oak is the iconic evergreen oak of the Texas Hill Country, Edwards Plateau, and Balcones Escarpment, where it forms the defining, spreading, ancient trees of the landscape. Nearly identical to the coastal live oak (Q. virginiana) in appearance, it is distinguished by its superior cold tolerance (surviving zone 6 winter cold without damage) and extreme drought tolerance, adapted to the thin, rocky, alkaline limestone soils of the Hill Country where moisture is scarce. Trees develop the same magnificent, broadly spreading, rounded crown with leathery, dark evergreen leaves and massive, gnarled trunks as coastal live oak but in harsher conditions. Small acorns in the red oak group ripen in two years. This is the live oak for central and west Texas gardens — offering the same magnificent landscape presence as its coastal relative but with dramatically greater cold hardiness and drought performance.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "Texas A&M AgriLife Extension",
+      "USDA PLANTS Database"
+    ]
+  },
+  {
+    "slug": "pond-cypress",
+    "common_name": "Pond Cypress",
+    "scientific_name": "Taxodium ascendens",
+    "category": "flower",
+    "subcategory": "native wetland conifer",
+    "days_to_germination": {
+      "min": 30,
+      "max": 60
+    },
+    "germination_soil_temp_f": {
+      "min": 55,
+      "max": 65
+    },
+    "days_to_maturity": {
+      "min": 1825,
+      "max": 3650
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant container specimens in spring in moist to wet, slightly acidic, sandy to loamy soil in full sun; pond cypress is more tolerant of still, stagnant water and poor, sandy flatwoods soils than bald cypress and is the better choice for small water gardens, rain gardens with standing water, and sandy coastal plain sites."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 120,
+      "max": 240
+    },
+    "height_in": {
+      "min": 600,
+      "max": 840
+    },
+    "spread_in": {
+      "min": 72,
+      "max": 180
+    },
+    "sun": "full",
+    "water": "high",
+    "directions": "Plant in moist to wet, slightly acidic, sandy to loamy soil in full sun — pond cypress is the smaller, more columnar companion to bald cypress (Taxodium distichum), native to the shallow, still, slightly acidic waters of coastal plain ponds, sloughs, bayheads, and flatwoods pools of the eastern Gulf Coast from Virginia to Louisiana. It is more columnar and narrower in crown than bald cypress — an important distinction for smaller water gardens and landscape plantings where bald cypress would eventually become too wide. Like bald cypress, it is deciduous, producing soft, feathery, gray-green needles that turn brilliant orange-brown in fall before dropping, and develops picturesque 'knees' (pneumatophores) in wet soils. It tolerates standing water throughout the growing season and acidic, nutrient-poor, sandy soils that defeat other trees. The ideal tree for small wet garden features, bioswales, and moist low areas requiring a deciduous, fine-textured, low-maintenance large tree.",
+    "sources": [
+      "University of Florida IFAS Extension",
+      "USDA PLANTS Database",
+      "Lady Bird Johnson Wildflower Center"
+    ]
+  },
+  {
+    "slug": "american-basketflower",
+    "common_name": "American Basketflower (Star Thistle)",
+    "scientific_name": "Centaurea americana",
+    "category": "flower",
+    "subcategory": "native prairie annual",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 90
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -6,
+        "max": -2
+      },
+      "note": "Direct sow seed in fall in well-drained, slightly acidic to neutral, dry to moderately moist, sandy to loamy soil in full sun; American basketflower germinates in cool soil and is best sown in fall in Gulf Coast gardens, where it overwinters as a basal rosette and blooms profusely in late spring before summer heat."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 24,
+      "max": 48
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 18
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Direct sow in fall in well-drained, dry to moderately moist soil in full sun — American basketflower is a spectacular, large-flowered native annual of the Texas and Gulf Coast prairies, producing showy, 3–4 inch, thistle-like flower heads in shades of rose-pink to lavender-pink (and rarely white) with an intricate woven 'basket' of straw-colored bracts beneath the blooms — giving rise to the common name. Despite its thistle-like appearance, it is entirely spineless and easy to handle. The large, bright flower heads are superb for cutting and drying, and are heavily visited by bumblebees, honeybees, and monarch butterflies. It is one of the showiest and most easily grown native annuals for the southern prairie garden, blooming from May to July in a single, spectacular season and then self-sowing to return the following year. Outstanding in masses in wildflower meadows alongside Indian blanket, black-eyed Susan, and coneflowers.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "Texas A&M AgriLife Extension",
+      "USDA PLANTS Database"
+    ]
+  },
+  {
+    "slug": "camphor-daisy",
+    "common_name": "Camphor Daisy (Camphorweed)",
+    "scientific_name": "Rayjacksonia phyllocephala",
+    "category": "flower",
+    "subcategory": "native coastal annual",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 80
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 90
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Direct sow in spring in well-drained, sandy to loamy, slightly acidic to slightly alkaline, dry to moderately moist soil in full sun; camphor daisy grows naturally on Gulf Coast beaches, dunes, and coastal prairies and is highly tolerant of salt spray, sandy soil, and reflected heat."
+    },
+    "usda_zones": {
+      "min": 8,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 24,
+      "max": 48
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 36
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Direct sow in spring in well-drained, dry, sandy soil in full sun — camphor daisy is a native coastal plain annual of the Gulf Coast, naturalized on barrier island beaches, coastal prairies, and sunny, sandy disturbed areas from Texas to Florida, producing masses of small, bright yellow daisy flowers from summer through fall on aromatic, distinctively camphor-scented foliage. The strong, medicinal camphor fragrance is distinctive and immediately recognizable; the plant is named for it. A fast-growing, tough annual that handles the extreme conditions of the Gulf Coast shore: salt spray, drought, nutrient-poor sandy soil, and reflected heat from sand. It self-sows readily to maintain colonies in coastal gardens and is excellent for naturalistic sandy, sunny gardens and coastal erosion-prone areas. Very low maintenance and requires no supplemental irrigation in coastal conditions. The flowers attract small bees and butterflies including skippers and sulfurs.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "University of Florida IFAS Extension",
+      "USDA PLANTS Database"
+    ]
+  },
+  {
+    "slug": "cowpen-daisy",
+    "common_name": "Cowpen Daisy (Butter Daisy, Golden Crownbeard)",
+    "scientific_name": "Verbesina encelioides",
+    "category": "flower",
+    "subcategory": "drought-tolerant annual",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 90
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Direct sow seed in spring in well-drained, alkaline to neutral, dry to moderately moist, sandy to loamy soil in full sun; cowpen daisy thrives in disturbed, poor soils and hot, dry conditions that defeat many garden plants — excellent for waste areas, roadsides, and dry hillsides."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 24,
+      "max": 48
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 36
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Direct sow in spring in well-drained, alkaline to neutral, dry, rocky or sandy soil in full sun — cowpen daisy is a bold, fast-growing native annual of prairies, roadsides, and dry disturbed areas throughout the southern US and Central America, producing masses of bright yellow, 2-inch daisies with a yellow central disk from mid-summer through frost on coarse, silvery-white-leaved, branching plants. It grows in some of the most challenging conditions encountered by any garden plant: caliche, dry rocky limestone, alkaline clay, and hot, exposed roadsides, where it seeds into cracks and disturbed patches and blooms prodigiously with zero irrigation. The flowers are reliably visited by monarch butterflies during fall migration and by native bees. An excellent, self-sowing annual for difficult dry, sunny spots in Gulf Coast and Texas gardens where more refined plants would fail. The seeds are an important winter food for mourning doves and other seed-eating birds.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "Texas A&M AgriLife Extension",
+      "USDA PLANTS Database"
+    ]
+  },
+  {
+    "slug": "standing-cypress",
+    "common_name": "Standing Cypress (Texas Plume, Scarlet Gilia)",
+    "scientific_name": "Ipomopsis rubra",
+    "category": "flower",
+    "subcategory": "native biennial hummingbird plant",
+    "days_to_germination": {
+      "min": 10,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 365,
+      "max": 730
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -4
+      },
+      "note": "Direct sow seed in fall in well-drained, slightly acidic to neutral, sandy to loamy, dry to moderately moist soil in full sun; standing cypress is biennial — it forms a flat rosette of feathery foliage in the first year and produces its dramatic flower spike in the second year before setting seed and dying. Sow every year to maintain a continuous supply of blooming plants."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 24,
+      "max": 60
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 18
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Direct sow in fall in well-drained, dry to moderately moist, slightly acidic to neutral soil in full sun — standing cypress is a native biennial of the southeastern coastal plain and Gulf Coast, producing one of the most dramatic and unique effects in the spring-summer garden: an erect, rigid, 3–5 foot spike densely clothed in feathery, bright green, cypress-like foliage, then crowned the second year with hundreds of tubular, brilliant scarlet-orange flowers from May through July. The flowers are among the most intensely attractive to ruby-throated hummingbirds of any plant in the eastern flora — a single plant in bloom will hold hummingbirds all day. Because it is biennial, sow seed each fall to maintain continuous bloom from a mixture of first- and second-year plants. It self-sows reliably in sandy, open, sunny soil to maintain naturalized colonies. An outstanding plant for formal and naturalistic gardens alike wherever a vivid vertical accent and hummingbird attraction are desired.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "Texas A&M AgriLife Extension",
+      "North Carolina State Extension"
+    ]
+  }
+]

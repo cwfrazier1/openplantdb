@@ -1,0 +1,552 @@
+[
+  {
+    "slug": "field-pea",
+    "common_name": "Field Pea (Austrian Winter Pea)",
+    "scientific_name": "Pisum sativum var. arvense",
+    "category": "cover-crop",
+    "subcategory": "cool-season legume",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 40,
+      "max": 65
+    },
+    "days_to_maturity": {
+      "min": 90,
+      "max": 120
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -4
+      },
+      "note": "Direct sow 1–2 inches deep in fall 6–10 weeks before first frost, or in early spring 4–6 weeks before last frost; field pea requires cool soil (below 65°F) to germinate well and performs best as a fall-sown winter annual in the Gulf South."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 2,
+      "max": 4
+    },
+    "height_in": {
+      "min": 18,
+      "max": 48
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Field pea (Austrian winter pea) is the premier cool-season legume cover crop for the Gulf Coast and southeastern United States, providing rapid establishment, heavy nitrogen fixation, and excellent biomass production during the mild Gulf South winter when most cover crops struggle. Planted in fall, it overwinters as a cold-hardy vine, fixes 50–150 pounds of atmospheric nitrogen per acre, and produces 2–4 tons of organic matter per acre by the time it is terminated in spring — a nitrogen contribution equivalent to a full pre-plant fertilizer application that is released slowly as the biomass decomposes. The trailing vines suppress winter weeds effectively and the purple-pink flowers attract native bees in late winter and spring when few other plants are blooming; the tender vine tips are edible by humans, livestock, and wildlife. In zone 8–10, field peas can be planted as early as September for maximum winter biomass; terminate by mowing or rolling in spring 2–4 weeks before planting summer crops to allow nitrogen release.",
+    "sources": [
+      "USDA Natural Resources Conservation Service Cover Crop Guide",
+      "Louisiana State University AgCenter Extension",
+      "Texas A&M AgriLife Extension Cover Crop Handbook"
+    ]
+  },
+  {
+    "slug": "hairy-indigo",
+    "common_name": "Hairy Indigo",
+    "scientific_name": "Indigofera hirsuta",
+    "category": "cover-crop",
+    "subcategory": "warm-season legume",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 80
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 90
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 6
+      },
+      "note": "Direct sow scarified seeds after last frost once soil warms above 70°F; hairy indigo establishes best on sandy, well-drained soil in full sun and benefits from inoculation with appropriate Indigofera rhizobia before planting."
+    },
+    "usda_zones": {
+      "min": 8,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 6,
+      "max": 12
+    },
+    "height_in": {
+      "min": 18,
+      "max": 48
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 18
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Hairy indigo is a tropical legume that has been widely used as a summer cover crop and green manure in Florida and the Gulf Coast region since the early 20th century, when it was introduced as a low-input nitrogen source for sandy, infertile soils typical of the Gulf Coastal Plain where cool-season legumes cannot grow. It fixes atmospheric nitrogen at rates of 60–100 pounds per acre, produces dense biomass that suppresses summer weeds, and tolerates the heat, drought, and low-fertility sandy soils of Gulf South gardens and fields that challenge other cover crops in the summer months. The small, pink to purple flowers attract native bees throughout the growing season, and established plants are very drought resistant once rooted, requiring no irrigation on well-drained sands. In organic vegetable gardens and orchards in zone 8–11, use hairy indigo as a summer understory cover crop between rows or in fallow beds July–September to build organic matter and nitrogen before fall vegetable planting; terminate by mowing or tilling 3–4 weeks before fall planting.",
+    "sources": [
+      "University of Florida IFAS Extension",
+      "USDA Natural Resources Conservation Service",
+      "Florida Organic Growers (cover crop guide)"
+    ]
+  },
+  {
+    "slug": "phasey-bean",
+    "common_name": "Phasey Bean (Wild Bushbean)",
+    "scientific_name": "Macroptilium lathyroides",
+    "category": "cover-crop",
+    "subcategory": "warm-season legume",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 80
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 90
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 6
+      },
+      "note": "Direct sow seeds in warm soil after last frost in well-drained, sandy to loamy soil in full sun; phasey bean germinates readily without scarification and establishes quickly in warm, humid conditions — ideal for summer cover cropping in the Gulf South."
+    },
+    "usda_zones": {
+      "min": 8,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 6,
+      "max": 12
+    },
+    "height_in": {
+      "min": 12,
+      "max": 36
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 18
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Phasey bean is a fast-growing tropical American legume that has become one of the most widely used summer cover crops in Hawaii and the Gulf Coast, valued for its rapid establishment, vigorous nitrogen fixation, heat and humidity tolerance, and ability to grow as a self-reseeding annual in frost-free areas of zone 9–11. The plant produces small, attractive red-purple flowers on erect, trifoliate-leaved stems throughout summer, with long, slender seed pods containing multiple seeds; it naturally reseeds in zone 9 and south, making it a long-term self-perpetuating cover crop in orchards, landscape beds, and permanent native plantings. As a legume, it inoculates easily with cowpea rhizobia and fixes 50–80 pounds of nitrogen per acre; its moderate height keeps it manageable as an understory cover beneath small fruit trees and shrub rows. Used extensively in no-till and reduced-tillage systems as a living mulch terminated by mowing in fall before cool-season crops are established.",
+    "sources": [
+      "University of Florida IFAS Extension",
+      "USDA Natural Resources Conservation Service",
+      "University of Hawaii Cooperative Extension"
+    ]
+  },
+  {
+    "slug": "brown-top-millet",
+    "common_name": "Brown Top Millet",
+    "scientific_name": "Urochloa ramosa",
+    "category": "cover-crop",
+    "subcategory": "warm-season grass",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 80
+    },
+    "days_to_maturity": {
+      "min": 50,
+      "max": 70
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 8
+      },
+      "note": "Direct sow at 20–25 lbs per acre (or 1/2 lb per 1,000 sq ft) on prepared soil in warm weather; brown top millet is one of the fastest-establishing summer annuals for warm soils — germination and early cover are often visible within 5–7 days."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 2,
+      "max": 4
+    },
+    "height_in": {
+      "min": 18,
+      "max": 48
+    },
+    "spread_in": {
+      "min": 6,
+      "max": 12
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Brown top millet is the most popular warm-season cover crop grain for wildlife food plots and dove fields across the southeastern United States, producing abundant, small-seeded seed heads in 50–70 days that are consumed avidly by mourning doves, bobwhite quail, mourning doves, and more than 30 other species of wild birds — it is essentially the standard seed for managed dove hunting fields in the Gulf South. As a summer annual, it establishes extremely rapidly in warm soil, provides quick weed suppression through its rapid canopy closure, and produces excellent biomass for soil organic matter after incorporation; it is also used as an emergency crop cover on eroded or disturbed soils where quick establishment is critical. Sow in June or early July for peak seed production by August–September for dove season; for cover crop biomass, incorporate into the soil after seed set when stalks are still green for maximum nitrogen and organic matter contribution. Extremely heat and drought tolerant once established — among the most reliable summer cover crops for the hot, dry conditions of the Gulf Coast in July–August.",
+    "sources": [
+      "Clemson Cooperative Extension Wildlife Food Plots",
+      "Louisiana State University AgCenter Extension",
+      "USDA Natural Resources Conservation Service"
+    ]
+  },
+  {
+    "slug": "field-corn",
+    "common_name": "Field Corn (Dent Corn)",
+    "scientific_name": "Zea mays var. indentata",
+    "category": "vegetable",
+    "subcategory": "grain corn",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 55,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 90,
+      "max": 120
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 2
+      },
+      "note": "Direct sow 1–2 inches deep after last frost once soil temperature exceeds 55°F; plant in blocks of at least 4 rows for good wind pollination; thin to 12-inch spacing; in the Gulf South, a second crop can be planted in late June for fall harvest."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 72,
+      "max": 144
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 18
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Field corn (dent corn) is the primary grain corn of American agriculture and the most versatile of all corn types for the home garden and homestead — used as dried grain, cornmeal, animal feed, and the raw material for bourbon whiskey, the kernel's characteristic 'dent' or indentation forms as the starchy center dries and shrinks. For home gardeners, dent corn varieties like 'Hopi Blue', 'Reid's Yellow Dent', or 'Bloody Butcher' are grown to full dry-grain maturity (husks dry and papery, kernels hard), then shelled and ground in a stone mill for the most flavorful, nutritious cornmeal and polenta. In the Gulf South, excellent heat-tolerant open-pollinated varieties can be grown spring and fall, with adequate irrigation during tasseling and pollination being critical for good ear fill; dent corn has been a cornerstone of Gulf Coast homestead gardens since colonial times. Harvest when kernels are completely dry and hard — typically 90–120 days from planting — then shell and store in cool, dry conditions for grinding throughout the year.",
+    "sources": [
+      "University of Florida IFAS Extension",
+      "Texas A&M AgriLife Extension",
+      "Seed to Seed: Seed Saving and Growing (Suzanne Ashworth)"
+    ]
+  },
+  {
+    "slug": "flint-corn",
+    "common_name": "Flint Corn (Indian Corn)",
+    "scientific_name": "Zea mays var. indurata",
+    "category": "vegetable",
+    "subcategory": "grain corn",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 55,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 80,
+      "max": 110
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 2
+      },
+      "note": "Direct sow 1–2 inches deep after last frost once soil exceeds 55°F; plant in blocks of at least 4 rows for wind pollination; flint corn reaches dry-grain maturity faster than dent corn and can often be grown in climates with shorter growing seasons."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 60,
+      "max": 120
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 18
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Flint corn is among the oldest cultivated corn types — the 'Indian corn' of the Americas, developed by indigenous peoples across North and South America over thousands of years in varieties of brilliant, diverse colors ranging from deep purple and blue-black to red, orange, yellow, cream, and multi-colored — and is both the most ornamental and among the most nutritious of all corn types for human consumption. The hard, glassy (flint-like) kernels have no dent when dry because they are mostly dense, hard starch rather than the soft floury starch of dent corn; this dense endosperm produces superior polenta and grits with more complex flavor than modern hybrid dent corn. Classic open-pollinated varieties like 'Glass Gem', 'Bloody Butcher', and 'Hopi Blue' are primarily flint types celebrated both for their ornamental dried-ear beauty and their exceptional culinary quality when ground into stone-milled cornmeal. Grow to full dry-grain maturity by allowing husks to dry completely on the stalk before harvest; cured ears can be used as autumn decorations, then shelled for grinding or replanting.",
+    "sources": [
+      "Seed to Seed: Seed Saving and Growing (Suzanne Ashworth)",
+      "USDA ARS Germplasm Resources Information Network (GRIN)",
+      "Native Seeds/SEARCH Seed Catalog"
+    ]
+  },
+  {
+    "slug": "flour-corn",
+    "common_name": "Flour Corn (Soft Corn)",
+    "scientific_name": "Zea mays var. amylacea",
+    "category": "vegetable",
+    "subcategory": "grain corn",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 55,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 90,
+      "max": 110
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 2
+      },
+      "note": "Direct sow 1–2 inches deep after last frost; plant in blocks of at least 4 rows for wind pollination; isolate flour corn from dent and flint types by at least 300 feet or by timing to prevent cross-pollination if maintaining pure seed."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 60,
+      "max": 120
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 18
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Flour corn is the ancient soft-starch corn type developed by indigenous peoples of the Americas for grinding into fine cornmeal and masa — its kernels, composed almost entirely of soft, starchy endosperm without the hard, glassy outer layer of flint corn, grind into an exceptionally fine, silky flour with a mild, sweet flavor superior for baking cornbread, making hominy, and preparing traditional tortillas and tamales. Classic open-pollinated varieties like 'Hopi Blue' (a flour-type despite sometimes being called flint), 'Bloody Butcher', and 'Aztec Red' flour corns were grown for centuries by Pueblo peoples of the American Southwest, where soft corn was the staple grain; in the Gulf South, flour corns adapted to humid climates perform well as spring and fall crops. The soft kernels are more susceptible to corn earworm and storage fungi than hard flint or dent types — harvest promptly when husks dry, dry completely before storage, and store in sealed containers with desiccant in a cool, dry location. The beautifully colored ears of traditional flour corn varieties make outstanding autumn decorations before grinding.",
+    "sources": [
+      "Seed to Seed: Seed Saving and Growing (Suzanne Ashworth)",
+      "Native Seeds/SEARCH Seed Catalog",
+      "USDA ARS Germplasm Resources Information Network (GRIN)"
+    ]
+  },
+  {
+    "slug": "dyers-chamomile",
+    "common_name": "Dyer's Chamomile (Golden Marguerite)",
+    "scientific_name": "Anthemis tinctoria",
+    "category": "herb",
+    "subcategory": "dye and medicinal herb",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 90
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": 0
+      },
+      "note": "Direct sow on soil surface (needs light for germination) in early spring in average, well-drained, somewhat poor soil in full sun; dyer's chamomile self-seeds prolifically and establishes well in poor, lean conditions where excessive fertility leads to rank growth and fewer flowers."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 12,
+      "max": 24
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 18
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Dyer's chamomile is a European perennial herb grown since ancient times as the premier yellow dye plant of the pre-synthetic era — the flower heads yield a clear, lasting golden-yellow dye on wool, silk, and cotton mordanted with alum, one of the most reliable and lightfast of all natural dyes. Its profusion of bright, golden-yellow, daisy-like flowers produced continuously from early summer through fall makes it an outstanding ornamental in dry, sunny garden borders where it cascades with a finely textured, aromatic foliage typical of the chamomile tribe. Despite its common name, it is not closely related to medicinal chamomile (Matricaria chamomilla) and its flower heads should not be used interchangeably; it is however attractive to native bees, hoverflies, and small butterflies that congregate on the abundant flowers. Prune spent flower stalks back by one-third after each bloom flush to prolong flowering and prevent the plant from becoming floppy; divide clumps every 2–3 years to maintain vigor.",
+    "sources": [
+      "Dye Plants and Dyeing (John and Margaret Cannon)",
+      "Missouri Botanical Garden Plant Finder",
+      "Taylor's Guide to Herbs"
+    ]
+  },
+  {
+    "slug": "golden-st-johns-wort",
+    "common_name": "Golden St. John's Wort (Shrubby St. John's Wort)",
+    "scientific_name": "Hypericum frondosum",
+    "category": "flower",
+    "subcategory": "native flowering shrub",
+    "days_to_germination": {
+      "min": 21,
+      "max": 60
+    },
+    "germination_soil_temp_f": {
+      "min": 55,
+      "max": 65
+    },
+    "days_to_maturity": {
+      "min": 730,
+      "max": 1825
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -4
+      },
+      "note": "Plant container-grown shrubs in fall in average to dry, well-drained, slightly acidic to neutral soil in full sun to partial shade; golden St. John's wort tolerates rocky, shallow, or poor soils and is drought tolerant once established — avoid poorly drained or consistently wet sites."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 8
+    },
+    "spacing_in": {
+      "min": 36,
+      "max": 60
+    },
+    "height_in": {
+      "min": 24,
+      "max": 48
+    },
+    "spread_in": {
+      "min": 36,
+      "max": 60
+    },
+    "sun": "partial",
+    "water": "low",
+    "directions": "Golden St. John's wort is a native deciduous shrub of dry, rocky hillsides and cedar glades in the southeastern United States, producing profuse, large, golden-yellow flowers with prominent, brush-like clusters of yellow stamens for several weeks in summer — among the most floriferous and ornamentally attractive of all native shrubs for dry, rocky, or difficult soil situations. Unlike the weedy, herbaceous common St. John's wort (Hypericum perforatum), this species is a well-behaved woody shrub that stays in bounds without invasive spreading, making it an excellent low-maintenance landscape plant for dry sunny borders, rock gardens, and native shrub masses. The blue-green foliage and exfoliating gray bark are attractive through the growing season, and the persistent, reddish seed capsules provide winter interest; it is deer resistant and tolerates drought, heat, and poor soil with minimal care. An Award of Garden Merit recipient from the Royal Horticultural Society, it is popular in European gardens and deserves much wider use in American native plant landscapes as an alternative to non-native ornamental shrubs.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "Missouri Botanical Garden Plant Finder",
+      "NC State Extension Plant Toolbox"
+    ]
+  },
+  {
+    "slug": "shrubby-st-johns-wort",
+    "common_name": "Shrubby St. John's Wort",
+    "scientific_name": "Hypericum prolificum",
+    "category": "flower",
+    "subcategory": "native flowering shrub",
+    "days_to_germination": {
+      "min": 21,
+      "max": 60
+    },
+    "germination_soil_temp_f": {
+      "min": 55,
+      "max": 65
+    },
+    "days_to_maturity": {
+      "min": 730,
+      "max": 1825
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -4
+      },
+      "note": "Plant container-grown shrubs in fall in average, well-drained, slightly acidic to neutral soil in full sun to partial shade; shrubby St. John's wort is adaptable to moist or dry soils and tolerates periodic light flooding better than golden St. John's wort."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 8
+    },
+    "spacing_in": {
+      "min": 36,
+      "max": 60
+    },
+    "height_in": {
+      "min": 24,
+      "max": 60
+    },
+    "spread_in": {
+      "min": 36,
+      "max": 60
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Shrubby St. John's wort is one of the most adaptable and cold-hardy native flowering shrubs of eastern North America — a rounded, multi-stemmed deciduous shrub that produces bright, butter-yellow five-petaled flowers with showy stamens prolifically in July and August, when the garden's early-summer bloom has faded and few other native shrubs are at peak flower. It grows naturally in a wider range of moisture conditions than most native shrubby Hypericums, tolerating both dry rocky slopes and moist, seasonally wet bottomland edges, making it one of the more versatile native shrubs for mixed landscape situations. Native bees — particularly specialist pollen collectors in the family Melittidae and Apidae — are the primary pollinators, attracted by the abundant pollen (this genus provides no nectar); the persistent, star-shaped seed capsules are ornamental through winter and consumed by some birds. An excellent choice for naturalistic shrub borders, rain garden edges, and native landscape plantings in the cold northern half of its range where golden St. John's wort is less reliably hardy.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "Missouri Botanical Garden Plant Finder",
+      "Illinois Wildflowers"
+    ]
+  }
+]

@@ -1,0 +1,552 @@
+[
+  {
+    "slug": "red-mangrove",
+    "common_name": "Red Mangrove",
+    "scientific_name": "Rhizophora mangle",
+    "category": "flower",
+    "subcategory": "native coastal tree",
+    "days_to_germination": {
+      "min": 7,
+      "max": 30
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 1825,
+      "max": 5475
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 8
+      },
+      "note": "Plant nursery-grown propagules or container stock in spring in coastal, estuarine, or tidal wetland substrate in full sun; Red Mangrove is viviparous — the seed germinates on the parent tree, producing a cigar-shaped propagule that drops and anchors in the mud. Planting in protected tidal areas with shallow water and fine sediment gives the best establishment results. Never plant Red Mangrove outside of its natural range."
+    },
+    "usda_zones": {
+      "min": 9,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 120,
+      "max": 240
+    },
+    "height_in": {
+      "min": 180,
+      "max": 480
+    },
+    "spread_in": {
+      "min": 120,
+      "max": 360
+    },
+    "sun": "full",
+    "water": "high",
+    "directions": "Red Mangrove is one of the most ecologically important coastal trees in the subtropical and tropical Americas, forming the seaward fringe of mangrove forests along sheltered tidal coasts, estuaries, and coastal lagoons of Florida, the Gulf of Mexico, and the Caribbean, where its arching prop roots create a complex three-dimensional habitat supporting hundreds of species of fish, invertebrates, birds, and reptiles. The species is viviparous — the seeds germinate on the parent tree itself, producing cigar-shaped propagules up to 12 inches long that drop into the water and drift with currents before anchoring in tidal mudflats and developing new trees. Red Mangrove forests provide irreplaceable ecological services including coastal erosion control, storm surge buffering, carbon sequestration, and water quality filtration; removing them is illegal in Florida and most coastal states. Plant nursery-grown material only in appropriate tidal coastal zones in full sun in Zones 9–11; Red Mangrove is cold-sensitive and should not be planted north of its natural range.",
+    "sources": [
+      "USDA PLANTS Database",
+      "University of Florida IFAS Extension",
+      "Florida Natural Areas Inventory"
+    ]
+  },
+  {
+    "slug": "black-mangrove",
+    "common_name": "Black Mangrove",
+    "scientific_name": "Avicennia germinans",
+    "category": "flower",
+    "subcategory": "native coastal tree",
+    "days_to_germination": {
+      "min": 7,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 1825,
+      "max": 3650
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 8
+      },
+      "note": "Plant nursery-grown stock in spring in estuarine, tidal, or high-marsh substrate in full sun; Black Mangrove is the most cold-tolerant of the Florida mangroves and has been expanding its range north along both Gulf and Atlantic coasts. The characteristic pencil-like pneumatophores (air roots) project upward from the mud — do not damage or bury them. Never plant outside of the natural range."
+    },
+    "usda_zones": {
+      "min": 9,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 96,
+      "max": 180
+    },
+    "height_in": {
+      "min": 120,
+      "max": 480
+    },
+    "spread_in": {
+      "min": 96,
+      "max": 240
+    },
+    "sun": "full",
+    "water": "high",
+    "directions": "Black Mangrove is the most cold-tolerant and widespread of the three mangrove species native to Florida and the Gulf Coast, colonizing the mid- to upper intertidal zone above the Red Mangrove and tolerating periodic freezes that kill its more frost-sensitive relatives — a cold-hardiness that has allowed it to expand dramatically northward along Texas and Florida coasts as winters have warmed. The shallow, horizontally spreading root system produces thousands of pencil-shaped pneumatophores (air-breathing roots) that project vertically from the mud in dramatic, spiked mats, aerating the root system in oxygen-depleted estuarine sediments. Black Mangrove leaves excrete salt through special glands on their undersides, enabling survival in highly saline tidal mudflats; the flowers are an important nectar source for bees and produce the prized black mangrove honey marketed along the Gulf Coast. Plant in estuarine, tidal, or high-marsh substrate in full sun in Zones 9–11; Black Mangrove is protected in Florida and most coastal states and should only be established from nursery stock within its natural range.",
+    "sources": [
+      "USDA PLANTS Database",
+      "University of Florida IFAS Extension",
+      "Florida Natural Areas Inventory"
+    ]
+  },
+  {
+    "slug": "white-mangrove",
+    "common_name": "White Mangrove",
+    "scientific_name": "Laguncularia racemosa",
+    "category": "flower",
+    "subcategory": "native coastal tree",
+    "days_to_germination": {
+      "min": 7,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 1825,
+      "max": 3650
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 8
+      },
+      "note": "Plant nursery-grown stock in spring in sheltered coastal, estuarine, or tidal sites in full sun in Zone 10–11. White Mangrove typically occupies slightly higher, less frequently flooded ground than Red Mangrove. The seeds germinate rapidly after dropping; propagules should be planted immediately in appropriate coastal substrate. Never plant outside of natural range."
+    },
+    "usda_zones": {
+      "min": 10,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 96,
+      "max": 180
+    },
+    "height_in": {
+      "min": 180,
+      "max": 360
+    },
+    "spread_in": {
+      "min": 96,
+      "max": 240
+    },
+    "sun": "full",
+    "water": "high",
+    "directions": "White Mangrove is the most frost-sensitive of the three Florida mangrove species, typically occupying the landward fringe of the mangrove forest on slightly higher ground that is less frequently inundated than the zones occupied by Red and Black Mangrove. Distinguished by its pale, yellowish-gray bark and distinctive pairs of salt-excreting glands (nectaries) at the base of each leaf, White Mangrove lacks the dramatic prop roots of Red Mangrove and the pneumatophore air-root mats of Black Mangrove, though small peg-like root structures occasionally develop in waterlogged conditions. The flowers attract native bees and produce nectar, and the dense canopy provides critical nesting habitat for ibis, egrets, herons, and spoonbills in Florida's coastal rookeries. Restricted to frost-free Zone 10–11 coastal settings in the United States, White Mangrove is protected under Florida law and should only be planted from nursery stock within the appropriate coastal habitat.",
+    "sources": [
+      "USDA PLANTS Database",
+      "University of Florida IFAS Extension",
+      "Florida Natural Areas Inventory"
+    ]
+  },
+  {
+    "slug": "buttonwood",
+    "common_name": "Buttonwood",
+    "scientific_name": "Conocarpus erectus",
+    "category": "flower",
+    "subcategory": "native coastal tree",
+    "days_to_germination": {
+      "min": 14,
+      "max": 30
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 730,
+      "max": 2190
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 6
+      },
+      "note": "Plant container-grown transplants in spring in well-drained to brackish, sandy or rocky coastal soil in full sun. Buttonwood is highly salt-tolerant and drought-tolerant once established, making it an excellent choice for coastal landscaping in Zone 9b–11. It is not technically a mangrove but grows in the upland fringe of mangrove forests."
+    },
+    "usda_zones": {
+      "min": 9,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 120,
+      "max": 240
+    },
+    "height_in": {
+      "min": 120,
+      "max": 480
+    },
+    "spread_in": {
+      "min": 120,
+      "max": 300
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Buttonwood is a native coastal tree or large shrub of the upper tidal fringe and coastal upland that transitions from saltwater to terrestrial habitats, growing at the landward edge of mangrove forests along both coasts of Florida, the Florida Keys, and throughout the Caribbean. Though often grouped with mangroves in coastal conservation contexts, Buttonwood is not a true mangrove but a member of the Combretaceae family that grows in the mangrove associates zone and shares the extreme salt tolerance that characterizes its habitat. The small, button-like seed heads that give it its common name are distinctive; the dense, slow-growing wood is exceptionally hard and was historically used for fuel, charcoal production, and as a building material. Highly salt-tolerant, drought-tolerant, and wind-resistant once established, Buttonwood is an excellent native landscaping choice for coastal South Florida homeowners seeking an attractive, low-maintenance native tree or large hedge plant for Zone 9b–11.",
+    "sources": [
+      "USDA PLANTS Database",
+      "University of Florida IFAS Extension",
+      "Florida Native Plant Society"
+    ]
+  },
+  {
+    "slug": "tawnyberry-holly",
+    "common_name": "Tawnyberry Holly",
+    "scientific_name": "Ilex krugiana",
+    "category": "flower",
+    "subcategory": "native evergreen tree",
+    "days_to_germination": {
+      "min": 60,
+      "max": 120
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 80
+    },
+    "days_to_maturity": {
+      "min": 1095,
+      "max": 3650
+    },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant container-grown transplants or rooted cuttings in spring in well-drained, slightly acidic to neutral, humus-rich soil in partial shade to full sun. Tawnyberry Holly is dioecious — both male and female plants are needed for berry production. It is best suited to frost-free Zone 10–11 landscapes in south Florida."
+    },
+    "usda_zones": {
+      "min": 10,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 120,
+      "max": 240
+    },
+    "height_in": {
+      "min": 180,
+      "max": 360
+    },
+    "spread_in": {
+      "min": 120,
+      "max": 240
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Tawnyberry Holly is a native evergreen holly tree of the Florida Keys, Miami-Dade rockland hammocks, and Caribbean islands, producing small clusters of tawny-orange to reddish-black berries that are eagerly consumed by white-crowned pigeons, mockingbirds, and other fruit-eating birds in the subtropical forests of southernmost Florida. Growing as a slender understory tree to small specimen tree in the hammock community, Tawnyberry Holly has glossy, dark green evergreen leaves and small, inconspicuous white flowers in spring. An important component of the rare Florida Keys and Miami-Dade pine rockland hammock community — one of the most imperiled plant communities in the United States — this species deserves wider cultivation as an ornamental holly in frost-free south Florida landscapes. Plant in well-drained, slightly acidic to neutral, humus-rich soil in partial shade to full sun in Zone 10–11; both male and female plants are needed for berry production.",
+    "sources": [
+      "USDA PLANTS Database",
+      "Florida Natural Areas Inventory",
+      "University of Florida IFAS Extension"
+    ]
+  },
+  {
+    "slug": "dwarf-chinkapin-oak",
+    "common_name": "Dwarf Chinkapin Oak",
+    "scientific_name": "Quercus prinoides",
+    "category": "flower",
+    "subcategory": "native scrub shrub",
+    "days_to_germination": {
+      "min": 14,
+      "max": 30
+    },
+    "germination_soil_temp_f": {
+      "min": 40,
+      "max": 60
+    },
+    "days_to_maturity": {
+      "min": 1825,
+      "max": 3650
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -2
+      },
+      "note": "Direct sow fresh acorns in fall at 1–2 inch depth in dry, sandy or gravelly, well-drained, acidic to slightly alkaline soil in full sun. Dwarf Chinkapin Oak produces sweet acorns with very low tannin content — one of the most palatable native acorns for wildlife and humans. The rhizomatous root system spreads to form colonies in appropriate conditions."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 8
+    },
+    "spacing_in": {
+      "min": 36,
+      "max": 72
+    },
+    "height_in": {
+      "min": 36,
+      "max": 96
+    },
+    "spread_in": {
+      "min": 60,
+      "max": 120
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Dwarf Chinkapin Oak is a colony-forming native shrub oak of dry, rocky, sandy, or calcareous upland soils across the eastern United States from New England to Texas, spreading by underground rhizomes to form dense thickets in acid barrens, shale outcrops, dry prairies, and other open, infertile habitats. Though modest in stature at 3–8 feet, it produces large, sweet, low-tannin acorns with coarsely toothed chestnut-like leaves, and the acorns were historically harvested and eaten raw — without the leaching required for most other acorns — by Native Americans across its range; they remain among the best-tasting acorns of any North American oak. Spreading steadily by rhizomes to form wildlife thickets, Dwarf Chinkapin Oak provides year-round habitat value: dense nesting cover, summer leaf-litter decomposition, and a reliable annual fall acorn crop for turkeys, deer, squirrels, and many bird species. Direct sow fresh acorns in fall in dry, infertile, well-drained soil in full sun; no supplemental irrigation needed once established in xeric conditions.",
+    "sources": [
+      "USDA PLANTS Database",
+      "Lady Bird Johnson Wildflower Center",
+      "Silvics of North America (USDA Forest Service)"
+    ]
+  },
+  {
+    "slug": "bear-oak",
+    "common_name": "Bear Oak",
+    "scientific_name": "Quercus ilicifolia",
+    "category": "flower",
+    "subcategory": "native scrub shrub",
+    "days_to_germination": {
+      "min": 14,
+      "max": 30
+    },
+    "germination_soil_temp_f": {
+      "min": 40,
+      "max": 60
+    },
+    "days_to_maturity": {
+      "min": 1825,
+      "max": 3650
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -2
+      },
+      "note": "Direct sow fresh acorns in fall at 1–2 inch depth in dry, sandy or rocky, strongly acidic, extremely well-drained, infertile soil in full sun. Bear Oak is highly specific to acid barrens and pitch pine-scrub oak habitats and will not compete in more productive or shaded soils. It spreads by rhizomes to form dense thickets."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 7
+    },
+    "spacing_in": {
+      "min": 36,
+      "max": 72
+    },
+    "height_in": {
+      "min": 36,
+      "max": 96
+    },
+    "spread_in": {
+      "min": 60,
+      "max": 180
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Bear Oak is a low, colony-forming native scrub oak of the acid pine barrens, serpentine outcrops, dry sandy ridges, and coastal heathlands of the northeastern United States, where it is a dominant species of the globally rare pitch pine-scrub oak barrens community from Massachusetts south to North Carolina. The small, irregularly multi-lobed leaves have a distinctive whitish, velvety underside; the abundant small acorns are a critical food source for black bears (the origin of the common name), ruffed grouse, white-tailed deer, and numerous songbirds in the barrens communities where Bear Oak's dense, fire-adapted thickets provide both food and cover. Highly fire-adapted, Bear Oak resprouts vigorously from deep rhizomes after the frequent, low-intensity fires that historically maintained pitch pine barrens and oak-scrub habitats, making it nearly impossible to eliminate once established in appropriate conditions. Direct sow fresh acorns in fall in strongly acidic, infertile, well-drained, sandy or rocky soil in full sun; Bear Oak requires the same fire-maintained, nutrient-poor conditions as its native barrens habitat.",
+    "sources": [
+      "USDA PLANTS Database",
+      "Lady Bird Johnson Wildflower Center",
+      "Silvics of North America (USDA Forest Service)"
+    ]
+  },
+  {
+    "slug": "fire-cherry",
+    "common_name": "Fire Cherry",
+    "scientific_name": "Prunus pensylvanica",
+    "category": "fruit",
+    "subcategory": "native cherry",
+    "days_to_germination": {
+      "min": 30,
+      "max": 90
+    },
+    "germination_soil_temp_f": {
+      "min": 40,
+      "max": 55
+    },
+    "days_to_maturity": {
+      "min": 365,
+      "max": 1095
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant container-grown transplants in spring in moist, well-drained, slightly acidic soil in full sun to partial shade. Fire Cherry is a fast-growing pioneer species that thrives in disturbed, open, forest-gap conditions; it grows too fast to compete well in established forest understory. Seeds require 90–150 days of cold stratification before spring germination."
+    },
+    "usda_zones": {
+      "min": 2,
+      "max": 7
+    },
+    "spacing_in": {
+      "min": 120,
+      "max": 240
+    },
+    "height_in": {
+      "min": 180,
+      "max": 360
+    },
+    "spread_in": {
+      "min": 120,
+      "max": 240
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Fire Cherry — also called Pin Cherry — is a fast-growing native pioneer tree of disturbed forest openings, clear-cuts, burned areas, and roadsides across the northern United States and Canada, where it is usually the first woody species to colonize forest gaps and recently disturbed sites, earning the name 'fire cherry' for its rapid colonization of burned forest. The clusters of bright red, pea-sized cherries ripen in summer and are among the most important late-season wildlife fruits in northern forest ecosystems, heavily consumed by American robins, cedar waxwings, grosbeaks, ruffed grouse, bears, and deer during the late summer fattening period before winter. Short-lived by nature — typically 15–30 years in the wild — Fire Cherry grows extremely fast for a native cherry, reaching 20 feet in just a few years and serving as a pioneer nurse species that modifies the site for longer-lived forest trees to follow. Plant in moist, well-drained, acidic soil in full sun; Fire Cherry thrives in open, disturbed conditions and makes an excellent fast-growing wildlife planting for northern gardens, fields, and woodland restoration projects.",
+    "sources": [
+      "USDA PLANTS Database",
+      "Lady Bird Johnson Wildflower Center",
+      "Silvics of North America (USDA Forest Service)"
+    ]
+  },
+  {
+    "slug": "creek-plum",
+    "common_name": "Creek Plum",
+    "scientific_name": "Prunus rivularis",
+    "category": "fruit",
+    "subcategory": "native plum",
+    "days_to_germination": {
+      "min": 60,
+      "max": 120
+    },
+    "germination_soil_temp_f": {
+      "min": 40,
+      "max": 55
+    },
+    "days_to_maturity": {
+      "min": 730,
+      "max": 1825
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant container-grown transplants in spring in well-drained to moderately moist, slightly acidic soil in full sun; Creek Plum tolerates a range of soil types from sandy loam to clay. It spreads by root sprouts to form thickets — a valuable quality for erosion control but plan for the eventual colony footprint. Seeds require 90–120 days of cold stratification."
+    },
+    "usda_zones": {
+      "min": 6,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 60,
+      "max": 120
+    },
+    "height_in": {
+      "min": 60,
+      "max": 144
+    },
+    "spread_in": {
+      "min": 60,
+      "max": 144
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Creek Plum is a native shrubby plum of stream banks, creek margins, woodland edges, and disturbed open lands across Texas, Oklahoma, Arkansas, and adjacent states, producing clusters of small, bright red to yellow plums in mid-summer that are sweet, tart, and excellent fresh or for jams, jellies, and preserves. The profuse clusters of white flowers that cover the branches in early spring before leaf emergence are as ornamentally striking as any cultivated ornamental plum, making Creek Plum a multi-season landscape value as well as an edible landscape plant for zone 6–9 gardens. Spreads readily by root sprouts to form dense, multi-stemmed thickets that provide valuable wildlife habitat — nesting cover for mockingbirds and other birds, and the plums are consumed by mockingbirds, thrashers, raccoons, and white-tailed deer. Plant in full sun in well-drained to moderately moist, slightly acidic soil; Creek Plum tolerates heat, periodic drought, and moderate clay once established.",
+    "sources": [
+      "USDA PLANTS Database",
+      "Lady Bird Johnson Wildflower Center",
+      "Texas A&M AgriLife Extension"
+    ]
+  },
+  {
+    "slug": "red-stopper",
+    "common_name": "Red Stopper",
+    "scientific_name": "Eugenia rhombea",
+    "category": "flower",
+    "subcategory": "native understory tree",
+    "days_to_germination": {
+      "min": 14,
+      "max": 45
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 1095,
+      "max": 2555
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant container-grown transplants in spring in well-drained, slightly acidic to alkaline, sandy to rocky, humus-rich soil in partial shade to full sun. Red Stopper is best suited to frost-free Zone 10–11 coastal south Florida and the Florida Keys. Berries should be sown fresh as seeds lose viability quickly."
+    },
+    "usda_zones": {
+      "min": 10,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 96,
+      "max": 180
+    },
+    "height_in": {
+      "min": 120,
+      "max": 240
+    },
+    "spread_in": {
+      "min": 96,
+      "max": 180
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Red Stopper is a native evergreen shrub or small tree of the subtropical coastal hammocks of the Florida Keys and Miami-Dade County, as well as much of the Caribbean, producing small clusters of edible red to black berries that are sweet and aromatic, relished by white-crowned pigeons, mockingbirds, and other subtropical fruit-eating birds. The glossy, elliptical leaves emit a spicy fragrance when crushed, typical of the Eugenia family, and the small, white, brush-like flowers attract native bees and butterflies. A component of the critically imperiled South Florida coastal hardwood hammock community, Red Stopper is an attractive, slow-growing landscape shrub for Zone 10–11 coastal gardens, providing wildlife value, year-round evergreen foliage, seasonal flowers, and colorful edible berries. Plant in well-drained, rocky to sandy, humus-rich soil in partial shade to full sun; established plants are drought-tolerant and salt-tolerant in coastal settings.",
+    "sources": [
+      "USDA PLANTS Database",
+      "University of Florida IFAS Extension",
+      "Florida Native Plant Society"
+    ]
+  }
+]

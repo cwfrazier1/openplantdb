@@ -1,0 +1,552 @@
+[
+  {
+    "slug": "sunshine-mimosa",
+    "common_name": "Sunshine Mimosa (Powderpuff)",
+    "scientific_name": "Mimosa strigillosa",
+    "category": "flower",
+    "subcategory": "native groundcover",
+    "days_to_germination": {
+      "min": 14,
+      "max": 30
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 120
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 4
+      },
+      "note": "Plant plugs or divisions in spring in any well-drained, sunny soil; sunshine mimosa spreads vigorously by stolons to form a dense mat — excellent for replacing lawn areas in full sun, but control spread in small gardens by periodic edging."
+    },
+    "usda_zones": {
+      "min": 8,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 24
+    },
+    "height_in": {
+      "min": 2,
+      "max": 8
+    },
+    "spread_in": {
+      "min": 24,
+      "max": 72
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Sunshine mimosa is the premier native groundcover lawn substitute for the Gulf Coast region — a low-growing, stoloniferous perennial that forms dense, fine-textured mats covered with pink, feathery pompom flowers from spring through fall, handling foot traffic better than most native groundcovers. As a member of the legume family, it fixes atmospheric nitrogen through root nodules, improving soil fertility as it spreads, and it tolerates the heat, drought, and poor sandy soils of Gulf Coast gardens that defeat other groundcovers. The sensitive leaves fold slightly when brushed or walked on — a charming touch-me-not response that delights children — and the spectacular pink pompom flowers are a prolific nectar source for native bees and butterflies throughout the growing season. In lawn renovation projects in zone 8–11, plant plugs on 12-inch centers in spring and within one growing season they will knit together into a solid, mowable (3-inch mow height) lawn alternative that needs no irrigation, no fertilizer, and no pesticides once established.",
+    "sources": [
+      "University of Florida IFAS Extension",
+      "Lady Bird Johnson Wildflower Center",
+      "Florida Native Plant Society"
+    ]
+  },
+  {
+    "slug": "catclaw-mimosa",
+    "common_name": "Catclaw Mimosa (Nuttall's Sensitive Briar)",
+    "scientific_name": "Mimosa nuttallii",
+    "category": "flower",
+    "subcategory": "native wildflower",
+    "days_to_germination": {
+      "min": 14,
+      "max": 30
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 365,
+      "max": 730
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": 0
+      },
+      "note": "Direct sow in fall in dry to average, well-drained soil in full sun; catclaw mimosa has long, fleshy taproots that make transplanting difficult — direct sow in permanent locations and scarify seeds with hot water or sandpaper before planting for best germination."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 36
+    },
+    "height_in": {
+      "min": 6,
+      "max": 18
+    },
+    "spread_in": {
+      "min": 24,
+      "max": 60
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Catclaw mimosa is a native scrambling perennial of dry prairies, rocky glades, and open woodlands in the south-central United States, armed with small, recurved prickles that catch on clothing and slow passage through its loose, sprawling stems — the 'catclaw' refers to these hook-shaped thorns, while 'sensitive briar' describes the leaves that fold instantly when touched, a characteristic shared with many Mimosa species. Pink, globe-shaped, pompom-like flower heads appear from May through August and are vigorously worked by native bumblebees and smaller bees for pollen; as a legume, it fixes nitrogen through root nodules and helps improve soil in dry, impoverished areas. Its spreading, semi-prostrate habit and prickles make it most appropriate for naturalized areas, dry meadow restorations, and native prairie gardens where its sprawling character can provide ground-level interest and soil improvement without maintenance; it is drought-tolerant to an extreme degree once established on deep, sandy or rocky soil.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "Missouri Botanical Garden Plant Finder",
+      "Texas A&M AgriLife Extension"
+    ]
+  },
+  {
+    "slug": "prairie-acacia",
+    "common_name": "Prairie Acacia (Whiteball Acacia, Fern Acacia)",
+    "scientific_name": "Acacia angustissima",
+    "category": "flower",
+    "subcategory": "native shrub",
+    "days_to_germination": {
+      "min": 14,
+      "max": 30
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 80
+    },
+    "days_to_maturity": {
+      "min": 365,
+      "max": 1095
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 4
+      },
+      "note": "Direct sow scarified seeds in spring in dry to average, well-drained soil in full sun; prairie acacia regrows vigorously from deep roots after frost and fire — site where seasonal die-back is acceptable, as it goes completely dormant in cold winters."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 36,
+      "max": 72
+    },
+    "height_in": {
+      "min": 18,
+      "max": 60
+    },
+    "spread_in": {
+      "min": 36,
+      "max": 72
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Prairie acacia is a native thornless (or nearly thornless) shrub of open prairies, rocky hillsides, and dry woodlands from Texas and Oklahoma to Arizona and south into Central America — one of the most ornamentally appealing of all native acacias due to its feathery, twice-pinnate leaves and profuse, creamy-white fluffy flower balls that emerge throughout summer and fall. As a legume, it fixes atmospheric nitrogen and builds soil organic matter through prolific leaf fall — traditionally it was valued as a fodder and soil improvement plant in tropical dry regions as well as for wildlife cover. The delicate, fernlike foliage is grazed by white-tailed deer and provides larval host resources for several butterfly species; the abundant seed pods attract quail, bobwhite, and songbirds in fall. In Gulf Coast gardens and south Texas habitat restorations, it is one of the more reliable, low-maintenance native shrubs for full sun in poor, dry soil — it dies back to the ground in cold winters in zones 7–8 but regrows vigorously from deep roots each spring.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "Texas A&M AgriLife Extension",
+      "USDA Plants Database"
+    ]
+  },
+  {
+    "slug": "huisache",
+    "common_name": "Huisache (Sweet Acacia)",
+    "scientific_name": "Vachellia farnesiana",
+    "category": "flower",
+    "subcategory": "native flowering tree",
+    "days_to_germination": {
+      "min": 14,
+      "max": 30
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 80
+    },
+    "days_to_maturity": {
+      "min": 730,
+      "max": 2190
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 4
+      },
+      "note": "Direct sow scarified seeds in spring in any well-drained, sunny soil; huisache grows rapidly from seed and tolerates alkaline, clay, caliche, and saline soils — avoid planting in consistently wet or flooded soils."
+    },
+    "usda_zones": {
+      "min": 8,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 120,
+      "max": 240
+    },
+    "height_in": {
+      "min": 120,
+      "max": 360
+    },
+    "spread_in": {
+      "min": 120,
+      "max": 240
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Huisache is the quintessential flowering shrub/small tree of the Gulf Coast prairies and south Texas brush country — in late winter and early spring, before the leaves fully expand, the tree explodes into thousands of brilliant golden-yellow, intensely fragrant pompom flowers that can be smelled from considerable distance and create one of the most spectacular natural wildflower spectacles of the Gulf Coastal Plain. The flowers are harvested commercially in the South of France for perfume production (the variety 'Cassia' provides notes in many classic French perfumes), and the honey produced from huisache nectar is highly prized among Texas beekeepers for its unusual floral sweetness. Trees grow rapidly in full sun in a wide range of soils including alkaline clay and caliche common to south-central Texas, making them well-suited for low-maintenance landscape uses in zone 8–11 where their winter-to-spring bloom fills the gap when little else is flowering. Armed with paired white spines — use caution when planting near walkways and children's play areas.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "Texas A&M AgriLife Extension",
+      "Lone Star Legacy: A Texas Almanac of Native Plants"
+    ]
+  },
+  {
+    "slug": "texas-ebony",
+    "common_name": "Texas Ebony",
+    "scientific_name": "Ebenopsis ebano",
+    "category": "flower",
+    "subcategory": "native shade tree",
+    "days_to_germination": {
+      "min": 14,
+      "max": 30
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 80
+    },
+    "days_to_maturity": {
+      "min": 1825,
+      "max": 5475
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 4
+      },
+      "note": "Plant container-grown specimens in spring in alkaline, well-drained, clay or sandy loam soil in full sun; Texas ebony is slow-growing and long-lived — plant young trees for establishment, as older specimens transplant poorly due to deep taproots."
+    },
+    "usda_zones": {
+      "min": 9,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 120,
+      "max": 240
+    },
+    "height_in": {
+      "min": 120,
+      "max": 360
+    },
+    "spread_in": {
+      "min": 120,
+      "max": 240
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Texas ebony is one of the finest ornamental trees native to south Texas and northeastern Mexico, producing a dense, rounded crown of small, dark green compound leaves on thorny branches — the tree's extremely hard, black-brown heartwood (comparable in density to commercial ebony) is prized for wood turning and tool handles, and the species' name reflects this extraordinary wood quality. Clusters of fragrant, creamy-white to pale yellow flowers appear in summer and fall and are heavily visited by native bees and honeybees, producing a distinctive honey; the large, woody seed pods split open in fall to reveal shiny black seeds that are edible when roasted and were an important food source for indigenous peoples of the Rio Grande Valley. In south Texas (zone 9–10) it is among the most recommended native trees for year-round evergreen screening, wildlife habitat, and creating dense shade in landscapes — slow-growing but extremely drought-tolerant and long-lived once established. It also provides one of the most important nesting trees for the endangered ferruginous pygmy owl in the lower Rio Grande Valley.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "Texas A&M AgriLife Extension",
+      "Lower Rio Grande Valley Native Plant Guide (USFWS)"
+    ]
+  },
+  {
+    "slug": "honey-mesquite",
+    "common_name": "Honey Mesquite",
+    "scientific_name": "Prosopis glandulosa",
+    "category": "fruit",
+    "subcategory": "native edible tree",
+    "days_to_germination": {
+      "min": 7,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 80
+    },
+    "days_to_maturity": {
+      "min": 1825,
+      "max": 5475
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 4
+      },
+      "note": "Direct sow scarified seeds in spring in dry, alkaline, well-drained soil in full sun; honey mesquite has an extraordinarily deep taproot that allows it to reach permanent water tables — do not transplant seedlings once established, and plant only in permanent locations."
+    },
+    "usda_zones": {
+      "min": 6,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 180,
+      "max": 360
+    },
+    "height_in": {
+      "min": 120,
+      "max": 360
+    },
+    "spread_in": {
+      "min": 120,
+      "max": 300
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Honey mesquite is the defining native tree of Texas plains and prairies, a thorny, nitrogen-fixing legume of unmatched drought resilience that has sustained both wildlife and indigenous cultures of the semi-arid Southwest for thousands of years — its sweet, nutritious seed pods were ground into mesquite meal (pinole) by many Southwestern and Gulf Coast tribes and are the source of distinctively flavored mesquite honey produced by Texas beekeepers from the abundant, fragrant yellow catkin flowers in spring and summer. The hard, dense wood is the premier smoking wood for Texas barbecue and is also used in flooring, furniture, and decorative woodworking; charcoal from honey mesquite burns hotter and longer than most other hardwoods. Honey mesquite is an important wildlife tree: the pods are consumed by deer, javelinas, coyotes, and dozens of bird species; the canopy provides nesting habitat for doves, mockingbirds, and scissor-tailed flycatchers across Texas ranchlands. Long-paired spines on the branches can be hazardous — site away from foot traffic, but within wildlife habitat and native plantings it is invaluable.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "Texas A&M AgriLife Extension",
+      "Uses of Native Plants by American Indians (Daniel Moerman)"
+    ]
+  },
+  {
+    "slug": "retama",
+    "common_name": "Retama (Jerusalem Thorn, Palo Verde)",
+    "scientific_name": "Parkinsonia aculeata",
+    "category": "flower",
+    "subcategory": "native flowering tree",
+    "days_to_germination": {
+      "min": 7,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 80
+    },
+    "days_to_maturity": {
+      "min": 730,
+      "max": 2190
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 4
+      },
+      "note": "Direct sow scarified seeds in warm soil in spring in any sunny, well-drained site; retama grows rapidly from seed and tolerates alkaline, poor, dry, or sandy soils — avoid heavy clay and standing water; freezes back in zone 8 but regrows from roots."
+    },
+    "usda_zones": {
+      "min": 8,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 120,
+      "max": 240
+    },
+    "height_in": {
+      "min": 120,
+      "max": 360
+    },
+    "spread_in": {
+      "min": 120,
+      "max": 240
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Retama is one of the most spectacular native flowering trees of the Texas coastal region and Gulf South — its weeping, bright green photosynthetic stems and spine-tipped branches give it a distinctive architectural silhouette year-round, and in spring it erupts into cascading sprays of fragrant, bright yellow flowers with an orange-spotted petal that is so showy it has been called 'Jerusalem thorn' in the Anglo tradition and 'retama' in the Spanish South Texas culture. The photosynthetic green bark allows the tree to produce energy even during droughts when leaves (tiny, feathery leaflets on long, drooping rachises) may drop, enabling survival in extreme heat and drought that would kill most trees. Retama grows exceptionally fast — often 6–8 feet per year in good conditions — making it useful for rapid screening and shade creation in south Texas landscapes; it also serves as an important nectar plant for native bees, butterflies, and hummingbirds and provides nesting habitat for orioles and doves. The tree is armed with paired thorns and is not recommended near high-traffic areas.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "Texas A&M AgriLife Extension",
+      "University of Arizona Cooperative Extension"
+    ]
+  },
+  {
+    "slug": "guajillo",
+    "common_name": "Guajillo (Berlandier Acacia)",
+    "scientific_name": "Acacia berlandieri",
+    "category": "flower",
+    "subcategory": "native shrub",
+    "days_to_germination": {
+      "min": 14,
+      "max": 30
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 80
+    },
+    "days_to_maturity": {
+      "min": 730,
+      "max": 2190
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 4
+      },
+      "note": "Direct sow scarified seeds in spring in dry, well-drained, alkaline to neutral soil in full sun; guajillo tolerates rocky caliche soils and thrives in the Hill Country and south Texas brush country — avoid clay soils and poor drainage."
+    },
+    "usda_zones": {
+      "min": 8,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 72,
+      "max": 144
+    },
+    "height_in": {
+      "min": 60,
+      "max": 180
+    },
+    "spread_in": {
+      "min": 60,
+      "max": 120
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Guajillo is a large native shrub or small tree of south and central Texas brush country, producing very fragrant, fluffy white-cream flower heads in late winter and early spring when few other plants are in bloom — its abundant, sweetly scented blossoms make guajillo the most important honey plant in south Texas, where beekeepers prize 'guajillo honey' as a premium single-varietal product with a distinctive, mild floral character. The plant is unarmed (thornless), making it more landscape-friendly than many other native acacias; its feathery, twice-pinnate leaves cast dappled shade and give the plant a graceful, airy appearance throughout the growing season. Dense thickets of guajillo provide critical thermal cover and escape cover for white-tailed deer, wild turkey, and quail in south Texas brush country, and the plant is commonly used in habitat restoration on the Edwards Plateau and south Texas plains. It is highly drought tolerant once established and thrives in the caliche and limestone soils that typify the Texas Hill Country and Winter Garden regions.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "Texas A&M AgriLife Extension",
+      "Texas Bee Keeping (Texas Apiary Inspection Service)"
+    ]
+  },
+  {
+    "slug": "catclaw-acacia",
+    "common_name": "Catclaw Acacia (Wait-a-Minute Bush)",
+    "scientific_name": "Senegalia greggii",
+    "category": "flower",
+    "subcategory": "native shrub",
+    "days_to_germination": {
+      "min": 14,
+      "max": 30
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 80
+    },
+    "days_to_maturity": {
+      "min": 730,
+      "max": 3650
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 4
+      },
+      "note": "Direct sow scarified seeds in spring in dry, rocky, alkaline, or sandy soil in full sun; catclaw acacia develops a deep taproot quickly and is extremely drought tolerant once established — not suitable for moist, clay, or frequently irrigated soils."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 72,
+      "max": 144
+    },
+    "height_in": {
+      "min": 60,
+      "max": 240
+    },
+    "spread_in": {
+      "min": 72,
+      "max": 144
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Catclaw acacia — nicknamed 'wait-a-minute bush' because its small, curved, cat-claw-like thorns snag clothing and skin, halting passage — is a native shrub to medium tree of dry washes, rocky slopes, and desert grasslands from south Texas to California and south into Mexico. Despite its formidable armament, catclaw acacia is one of the most important native bee plants in the Chihuahuan Desert and south Texas, producing abundant cream-colored, cylindrical flower spikes in spring that support hundreds of native bee species and are the source of a prized honey; it is considered the single most important native honey plant in the Sonoran and Chihuahuan Deserts by commercial beekeepers. The long, flat seed pods ripen in summer and fall and are consumed by deer, javelinas, and large-seeded birds; the dense, thorny structure of established shrubs creates impenetrable wildlife brush habitat essential for quail, roadrunners, and nesting songbirds throughout south Texas. Best suited to xeric native plantings, dry washes, and wildlife habitat gardens where its thorny nature is an asset rather than a liability.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "University of Arizona Cooperative Extension",
+      "Texas A&M AgriLife Extension"
+    ]
+  },
+  {
+    "slug": "christmas-senna",
+    "common_name": "Christmas Senna (Privet Cassia)",
+    "scientific_name": "Senna bicapsularis",
+    "category": "flower",
+    "subcategory": "tropical flowering shrub",
+    "days_to_germination": {
+      "min": 7,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 80
+    },
+    "days_to_maturity": {
+      "min": 180,
+      "max": 365
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 4
+      },
+      "note": "Plant container-grown specimens after last frost in well-drained, sandy to loamy soil in full sun; in zone 9 and south, Christmas senna is perennial and shrubby — in zone 8 it often freezes back but regrows from the roots; avoid heavy clay and wet soils."
+    },
+    "usda_zones": {
+      "min": 8,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 48,
+      "max": 72
+    },
+    "height_in": {
+      "min": 48,
+      "max": 120
+    },
+    "spread_in": {
+      "min": 48,
+      "max": 96
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Christmas senna is a semi-evergreen, fast-growing tropical shrub from the Caribbean and Central America that earns its common name by producing showy clusters of bright canary-yellow flowers from October through December and into winter — blooming abundantly when most other landscape plants have shut down for the season. It is one of the most important larval host plants for cloudless sulphur butterflies and orange-barred sulphur butterflies, with adults laying eggs on the foliage throughout the warm months and caterpillars consuming the leaves until the plant is bare, then quickly regrowing — a cycle that makes Christmas senna an outstanding butterfly garden plant. In zone 9 Gulf Coast gardens, it grows rapidly to form a large, billowing shrub that can be cut back hard in late winter to maintain a manageable size and stimulate vigorous new growth; it tolerates poor, sandy soils and drought once established, making it low-maintenance in suitable climates. Note: it can naturalize and spread by seed in zone 9b–11 — monitor and remove seedlings in ecologically sensitive areas.",
+    "sources": [
+      "University of Florida IFAS Extension",
+      "Lady Bird Johnson Wildflower Center",
+      "Florida Native Plant Society"
+    ]
+  }
+]

@@ -1,0 +1,552 @@
+[
+  {
+    "slug": "eastern-gamagrass",
+    "common_name": "Eastern Gamagrass",
+    "scientific_name": "Tripsacum dactyloides",
+    "category": "flower",
+    "subcategory": "native perennial grass",
+    "days_to_germination": {
+      "min": 14,
+      "max": 30
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 365,
+      "max": 730
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Direct sow or plant divisions in spring in moist, fertile, well-drained to moderately moist soil in full sun to partial shade; eastern gamagrass performs best in deep, rich bottomland soils and tolerates periodic flooding — it establishes from seed slowly but grows vigorously once rooted."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 36,
+      "max": 72
+    },
+    "height_in": {
+      "min": 48,
+      "max": 96
+    },
+    "spread_in": {
+      "min": 36,
+      "max": 72
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Eastern gamagrass is among the most ancient and important native grasses of North America — as the wild ancestor and closest relative of corn (Zea mays), it was once a dominant grass of the tallgrass prairie and Gulf Coast bottomlands and is now valued both ecologically and for its productive, high-quality forage that can exceed corn in protein content. Dense, arching clumps of broad, corn-like leaves produce jointed seed spikes in summer bearing large, hard, nutritious seeds that are edible and were historically ground into flour by indigenous peoples of the southeastern United States; wildlife from wild turkey to deer consume the seeds and foliage extensively. Eastern gamagrass tolerates partial shade, seasonal flooding, and mowing and can be managed as a productive pasture grass in areas too wet for most warm-season grasses; as a landscape plant its bold, corn-like texture and tolerance of moist bottomland conditions make it ideal for rain garden borders, bioswales, and moist native meadows. Clumps expand slowly over years and can be divided in spring to propagate additional plants.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "USDA Natural Resources Conservation Service Plant Materials Program",
+      "Missouri Botanical Garden Plant Finder"
+    ]
+  },
+  {
+    "slug": "broomsedge",
+    "common_name": "Broomsedge Bluestem",
+    "scientific_name": "Andropogon virginicus",
+    "category": "flower",
+    "subcategory": "native perennial grass",
+    "days_to_germination": {
+      "min": 14,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 365,
+      "max": 730
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": 0
+      },
+      "note": "Direct sow in fall in poor, dry, well-drained, acidic soil in full sun; broomsedge thrives in neglected, nutrient-poor conditions that most plants cannot tolerate — it is a pioneer species that colonizes disturbed soils and old fields and should not be planted in fertile garden beds where it will be outcompeted."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 36
+    },
+    "height_in": {
+      "min": 24,
+      "max": 48
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 30
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Broomsedge bluestem is one of the most common and ecologically important native grasses of the American South — the first grass to colonize old fields, roadsides, and disturbed land, where its upright copper-bronze clumps create the characteristic tawny winter landscape of fallow farmland across the Gulf Coastal Plain and Piedmont. While often dismissed as a 'weed grass' in agricultural contexts because it indicates overgrazed or impoverished soil, broomsedge provides critical winter habitat: the dry, papery clumps shelter overwintering quail coveys, song sparrows, and small mammals, and its seeds are consumed by field sparrows, grasshopper sparrows, and many other birds through fall and winter. In ecological restoration and native meadow projects, broomsedge functions as a pioneer species that stabilizes disturbed soils and builds organic matter as a precursor to diverse plant communities; it also provides excellent visual interest in naturalized areas where its orange-copper fall and winter color creates a warm, burnished landscape texture. Combine with native wildflowers like goldenrods, asters, and ironweeds in dry, sunny meadow restorations.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "Illinois Wildflowers",
+      "USDA Plants Database"
+    ]
+  },
+  {
+    "slug": "bushy-bluestem",
+    "common_name": "Bushy Bluestem (Elliott's Bluestem)",
+    "scientific_name": "Andropogon glomeratus",
+    "category": "flower",
+    "subcategory": "native perennial grass",
+    "days_to_germination": {
+      "min": 14,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 365,
+      "max": 730
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": 0
+      },
+      "note": "Direct sow in fall or spring in moist to wet, well-drained to poorly drained soil in full sun; bushy bluestem thrives in the wet, sunny conditions along pond margins, drainage ditches, and seasonal wet depressions of the Gulf Coastal Plain."
+    },
+    "usda_zones": {
+      "min": 6,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 36
+    },
+    "height_in": {
+      "min": 24,
+      "max": 60
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 30
+    },
+    "sun": "full",
+    "water": "high",
+    "directions": "Bushy bluestem is one of the most attractive native grasses for moist to wet, sunny sites in the Gulf Coastal Plain — in fall, the tops of the upright stems explode into distinctive fluffy, silvery white seed heads that give the grass a spectacular cotton-like appearance unlike any other native grass, making it highly ornamental for fall and winter interest in the garden and landscape. Found naturally in wet flatwoods, swales, pond margins, and roadside ditches throughout the Gulf South and southeastern coastal plain, it grows in exactly the sunny, wet conditions that are often difficult to plant — making it a superb choice for rain gardens, detention ponds, seasonal depressions, and moist bioswales in zone 6–10 landscapes. Like other bluestems, its seed heads provide food for grassland birds through winter, and the dense clumps offer nesting and escape cover for small mammals and ground-nesting birds. Its tolerance of periodic flooding and standing water makes it one of the most reliable native grasses for wet, sunny sites where little else will establish.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "University of Florida IFAS Extension",
+      "USDA Plants Database"
+    ]
+  },
+  {
+    "slug": "splitbeard-bluestem",
+    "common_name": "Splitbeard Bluestem (Chalky Bluestem)",
+    "scientific_name": "Andropogon ternarius",
+    "category": "flower",
+    "subcategory": "native perennial grass",
+    "days_to_germination": {
+      "min": 14,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 365,
+      "max": 730
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": 0
+      },
+      "note": "Direct sow in fall on sandy, well-drained, acidic to neutral, dry soil in full sun; splitbeard bluestem is a low-nutrient-requiring grass that performs best in poor, sandy, acidic pine flatwoods soils — excessive fertilization leads to rank growth and reduced ornamental quality."
+    },
+    "usda_zones": {
+      "min": 6,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 24
+    },
+    "height_in": {
+      "min": 18,
+      "max": 42
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Splitbeard bluestem is one of the most ornamentally appealing native grasses of the Gulf Coastal Plain and Atlantic Coastal Plain pine country — in fall, the paired flower spikes develop silky, glistening white or silvery seed heads with a distinctive forked, Y-shaped arrangement that gives the species both its common names (splitbeard for the paired stalks, chalky for the whitened seed heads). The plants have a somewhat tufted, wiry character and typically stay shorter than big bluestem or bushy bluestem, making them appropriate for small to medium native garden settings; their chalky-white winter seedheads contrast beautifully with the coppery-bronze stems and leaves. Naturally found in open, dry, longleaf pine savannas, sandhills, and coastal plain flatwoods, splitbeard bluestem is adapted to the fire-maintained, nutrient-poor sandy soils of the Gulf South — combine with native wildflowers like blazing stars, black-eyed Susans, and goldenrods for an authentic pine flatwoods meadow garden.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "North Carolina State Extension Plant Toolbox",
+      "USDA Plants Database"
+    ]
+  },
+  {
+    "slug": "purple-lovegrass",
+    "common_name": "Purple Lovegrass",
+    "scientific_name": "Eragrostis spectabilis",
+    "category": "flower",
+    "subcategory": "native perennial grass",
+    "days_to_germination": {
+      "min": 7,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 90,
+      "max": 180
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Direct sow in spring on dry, sandy, well-drained, infertile soil in full sun; purple lovegrass self-seeds freely and forms naturalized colonies in open, dry areas — it establishes quickly and is one of the fastest native grasses to produce ornamental value from seed."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 12,
+      "max": 24
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 18
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Purple lovegrass is one of the most spectacularly ornamental native grasses of eastern North America — in late summer and fall, the compact, low tufts produce enormous, airy, branching panicles of tiny pink-purple to reddish-purple spikelets that stand well above the foliage and glow with iridescent color in slanted afternoon light, catching the eye from considerable distance in the garden and roadside landscape. The loose, tumbling seed heads eventually break off and roll across fields like tumbleweed, scattering seeds widely — in dry, sandy soils the grass self-seeds prolifically and can form beautiful naturalized meadows without any maintenance. It is one of the lowest-maintenance, highest-reward native grasses available for dry, sunny sites in zones 4–9: remarkably drought and heat tolerant, requiring absolutely no supplemental irrigation or fertilization once established, and producing its spectacular fall display with zero input. Use it in masses on dry slopes, sandy roadsides, and xeric garden borders where its cloud-like purple seed heads create a fall and winter spectacle.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "Missouri Botanical Garden Plant Finder",
+      "Illinois Wildflowers"
+    ]
+  },
+  {
+    "slug": "sand-lovegrass",
+    "common_name": "Sand Lovegrass",
+    "scientific_name": "Eragrostis trichodes",
+    "category": "flower",
+    "subcategory": "native perennial grass",
+    "days_to_germination": {
+      "min": 7,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 90,
+      "max": 180
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Direct sow in spring on sandy, infertile, well-drained soil in full sun; sand lovegrass requires sharp drainage and lean soils — it declines rapidly in heavy clay or moist, fertile garden conditions and is best suited to sandy prairies and xeric landscape situations."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 30
+    },
+    "height_in": {
+      "min": 18,
+      "max": 42
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 30
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Sand lovegrass is a taller, more robust native lovegrass of deep sandy soils and sandy prairies across the south-central United States, producing large, open, feathery panicles of light pinkish-green to tan spikelets in late summer that wave gracefully in any breeze — its airy, fountain-like form makes it one of the most elegant of all native prairie grasses for dry, sandy garden situations. Found naturally in sand prairies, sandy bottomlands, and open sandy oak woodlands of the Central Plains and Gulf Coast region, it is adapted to deep, well-drained, infertile sandy soils that challenge most ornamental grasses; it is significantly more tolerant of sand and drought than blue grama or buffalo grass while producing a more visually dramatic plant. The seed panicles provide food for native sparrows and finches through fall and winter, and the dried tufts remain attractive through the cold season. Excellent companion for prairie grasses like indiangrass, big bluestem, and prairie dropseed in sandy-soil native meadow plantings from Texas to the Midwest.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "Missouri Botanical Garden Plant Finder",
+      "USDA Plants Database"
+    ]
+  },
+  {
+    "slug": "maidencane",
+    "common_name": "Maidencane",
+    "scientific_name": "Panicum hemitomon",
+    "category": "flower",
+    "subcategory": "native wetland grass",
+    "days_to_germination": {
+      "min": 14,
+      "max": 30
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 180,
+      "max": 365
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant rhizome divisions or plugs in spring in shallow water (0–12 inches), wet marsh margins, or permanently saturated soil in full sun; maidencane spreads aggressively by rhizomes in aquatic conditions — site where it has room to spread or contain with barriers in smaller water features."
+    },
+    "usda_zones": {
+      "min": 6,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 36
+    },
+    "height_in": {
+      "min": 24,
+      "max": 72
+    },
+    "spread_in": {
+      "min": 36,
+      "max": 120
+    },
+    "sun": "full",
+    "water": "high",
+    "directions": "Maidencane is the dominant emergent aquatic grass of the Gulf Coastal Plain's freshwater marshes, lake margins, and slow-moving waterways — forming vast, grass-like stands in shallow water from Texas to Florida that serve as one of the most important waterfowl habitat grasses in the southeastern United States. Dabbling ducks including mallards, teal, mottled ducks, and wood ducks consume the seeds profusely during fall migration; the emergent stands also provide critical nesting cover for king rails, common gallinules, and purple gallinules. In constructed wetlands, stormwater retention ponds, and rain garden overflow areas, maidencane stabilizes wet banks and shallow margins with its extensive rhizome system while providing year-round wildlife value. It spreads rapidly in aquatic conditions by rhizomes and self-seeding and can form dense monocultures in productive conditions — appropriate for naturalized pond and wetland margins but requires management in small water gardens to prevent it from overwhelming other plantings.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "University of Florida IFAS Extension",
+      "USDA Natural Resources Conservation Service"
+    ]
+  },
+  {
+    "slug": "bent-awn-plumegrass",
+    "common_name": "Bent-Awn Plumegrass",
+    "scientific_name": "Saccharum contortum",
+    "category": "flower",
+    "subcategory": "native perennial grass",
+    "days_to_germination": {
+      "min": 14,
+      "max": 30
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 365,
+      "max": 730
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": 0
+      },
+      "note": "Direct sow in fall in moist to wet, acidic, sandy or peaty soil in full sun; bent-awn plumegrass naturally occurs in moist longleaf pine savannas, wet roadside ditches, and boggy depressions — requires consistently moist, acidic soil and full sun."
+    },
+    "usda_zones": {
+      "min": 6,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 24,
+      "max": 48
+    },
+    "height_in": {
+      "min": 36,
+      "max": 72
+    },
+    "spread_in": {
+      "min": 24,
+      "max": 48
+    },
+    "sun": "full",
+    "water": "high",
+    "directions": "Bent-awn plumegrass is a spectacular native grass of Gulf Coastal Plain wet longleaf pine savannas and roadside swales, producing large, open, silky plumes of copper-tinted to silvery-white spikelets in fall that shimmer in the breeze and rank among the most beautiful of all native grass seed heads in the Southeast. Each spikelet has a distinctive twisted, bent awn (bristle) that catches the light and gives the plume a textured, almost sparkling appearance — the 'bent-awn' common name accurately describes this key feature. Like its close relative sugarcane (in the same genus), bent-awn plumegrass has reed-like stems with prominent nodes and broad, corn-like leaves that give it a bold, architectural quality during the growing season; the tall, plumed form makes it an excellent vertical accent in wet native meadows and rain garden borders. It grows naturally alongside other savanna species including bladderworts, sundews, orchids, and pitcher plants in the fire-maintained wet pine flatwoods of the Gulf Coast, where it is an indicator of high-quality natural habitat.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "Florida Native Plant Society",
+      "USDA Plants Database"
+    ]
+  },
+  {
+    "slug": "sugarcane-plumegrass",
+    "common_name": "Sugarcane Plumegrass (Giant Plumegrass)",
+    "scientific_name": "Saccharum giganteum",
+    "category": "flower",
+    "subcategory": "native perennial grass",
+    "days_to_germination": {
+      "min": 14,
+      "max": 30
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 365,
+      "max": 730
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": 0
+      },
+      "note": "Direct sow in fall in moist, rich, well-drained to moist soil in full to partial sun; sugarcane plumegrass tolerates a wider range of moisture conditions than bent-awn plumegrass and can be planted in moist woodland edges, stream banks, and moist meadow margins."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 36,
+      "max": 72
+    },
+    "height_in": {
+      "min": 60,
+      "max": 120
+    },
+    "spread_in": {
+      "min": 36,
+      "max": 60
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Sugarcane plumegrass is the tallest native grass of the eastern United States, reaching 6–10 feet in height and producing enormous, feathery, white-to-copper-tinted plumes in fall that rival pampas grass in spectacle while being fully native and ecologically appropriate across the Gulf and Atlantic Coastal Plains. As a close relative of sugarcane in the genus Saccharum, it shares similar bold, architectural characteristics — long, broad, pointed leaves with white midribs, reed-like stems with prominent nodes, and a strongly upright, vase-shaped form that provides a dramatic focal point in any large native planting. The silky plumes attract and shelter migrating birds in fall and provide nesting material for marsh and meadow birds; the tall, dense clumps create excellent wildlife screening habitat. Best suited to moist, rich woodland edges, stream banks, and rain garden borders where its imposing size can be fully appreciated — the fall plumes are stunning backlit by afternoon or evening sun in October and November.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "Missouri Botanical Garden Plant Finder",
+      "USDA Plants Database"
+    ]
+  },
+  {
+    "slug": "gulf-paspalum",
+    "common_name": "Gulf Paspalum (Gulf Muhly Grass)",
+    "scientific_name": "Paspalum monostachyum",
+    "category": "flower",
+    "subcategory": "native wetland grass",
+    "days_to_germination": {
+      "min": 14,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 180,
+      "max": 365
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant plugs or divisions in spring in wet, moist to seasonally flooded, brackish or fresh, sandy to loamy soil in full sun; gulf paspalum is a wetland-obligate coastal grass that thrives in tidal marsh margins, freshwater-saltwater transition zones, and seasonally flooded Gulf Coast flats."
+    },
+    "usda_zones": {
+      "min": 8,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 24
+    },
+    "height_in": {
+      "min": 12,
+      "max": 36
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "high",
+    "directions": "Gulf paspalum is a native grass of Gulf Coast tidal marshes, freshwater-brackish ecotones, and moist coastal flats from Texas to Florida, commonly forming dense colonies in the transition zone between fresh and salt water that are among the most important habitat areas for mottled ducks, blue-winged teal, and other dabbling waterfowl in the western Gulf Coast. The grass produces single-spoked seed heads distinctive among Gulf Coast grasses that ripen in summer and fall and are heavily consumed by waterfowl; its dense, matting rhizomes stabilize the soft, saturated soils of tidal margins and help resist shoreline erosion from boat wake and tidal action. In coastal garden ponds, rain garden overflow areas, and constructed freshwater wetlands in zone 8–11, gulf paspalum provides low, dense, wildlife-friendly groundcover in the shallowest water zones; it tolerates both freshwater flooding and moderate salinity. A component of Gulf Coast wetland restoration seed mixes, it establishes quickly and provides immediate stabilization and wildlife value.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "University of Florida IFAS Extension",
+      "USDA Plants Database"
+    ]
+  }
+]

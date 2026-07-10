@@ -258,5 +258,464 @@
       "Wild Food Adventures",
       "Lady Bird Johnson Wildflower Center"
     ]
+  },
+  {
+    "slug": "sweet-violet",
+    "common_name": "Sweet Violet",
+    "scientific_name": "Viola odorata",
+    "category": "flower",
+    "subcategory": "fragrant edible perennial",
+    "days_to_germination": {
+      "min": 14,
+      "max": 30
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 65
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 90
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -4
+      },
+      "note": "Plant divisions or stolons in fall or early spring in moist, humus-rich, slightly acidic to neutral, well-drained soil in partial to full shade; sweet violet spreads by stolons and self-sown seed to naturalize under deciduous trees. Cold-stratify seed 4–6 weeks if starting from seed."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 8,
+      "max": 12
+    },
+    "height_in": {
+      "min": 4,
+      "max": 8
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 18
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Plant divisions in partial to full shade in moist, humus-rich soil in fall or early spring; sweet violet is one of the oldest cultivated flowers in the Western world, prized for its intoxicating honey-sweet fragrance and fully edible blooms that appear in late winter to early spring in shades of deep violet, lavender, rose, or white. Both flowers and young leaves are edible — the flowers are crystallized with sugar as classic confections, used fresh in salads, infused into vinegars and syrups, or candied for cake decoration. The plant spreads by stolons and self-sown seed to form a dense, weed-suppressing groundcover under trees and shrubs. Deadhead spent blooms to reduce excessive self-seeding where spread is unwanted. The cultivar 'Königin Charlotte' is considered the most fragrant; 'Rosina' produces soft pink blooms and is slightly less vigorous. An outstanding edible ornamental for shaded paths and beds under deciduous trees in zones 5–9.",
+    "sources": [
+      "Missouri Botanical Garden Plant Finder",
+      "Royal Horticultural Society",
+      "University of Florida IFAS Extension"
+    ]
+  },
+  {
+    "slug": "toothwort",
+    "common_name": "Toothwort (Two-leaved Toothwort)",
+    "scientific_name": "Cardamine diphylla",
+    "category": "flower",
+    "subcategory": "native edible spring ephemeral",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 60,
+      "max": 90
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -4
+      },
+      "note": "Plant rhizome segments 1–2 inches deep in fall in moist, deeply humus-rich, slightly acidic, well-drained woodland soil in full shade; toothwort is a spring ephemeral that goes completely dormant by early summer — mark its location carefully to avoid disturbing the rhizomes when dormant."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 8
+    },
+    "spacing_in": {
+      "min": 6,
+      "max": 9
+    },
+    "height_in": {
+      "min": 8,
+      "max": 14
+    },
+    "spread_in": {
+      "min": 9,
+      "max": 12
+    },
+    "sun": "shade",
+    "water": "moderate",
+    "directions": "Plant rhizome segments in fall in deeply humus-rich, moist, slightly acidic woodland soil in full shade; toothwort is among the most charming native edibles of the eastern woodland, producing pairs of deeply cut, coarsely toothed leaves on erect stems topped with clusters of small white to pale pink four-petaled flowers in early spring alongside trout lilies and trilliums. The toothlike, segmented underground rhizomes have a sharp, peppery wasabi-horseradish flavor and were gathered by Native Americans and early colonists as a condiment; they can be grated fresh or fermented like horseradish sauce. A true spring ephemeral, the entire plant disappears by late spring after setting seed, forming expanding colonies in rich, shaded conditions. Plant with other spring ephemerals — trout lily, bloodroot, Virginia bluebells — in a rich, shaded woodland garden for a sequence of color from late winter through May before the canopy closes.",
+    "sources": [
+      "USDA PLANTS Database",
+      "Lady Bird Johnson Wildflower Center",
+      "University of Michigan Ethnobotany Database"
+    ]
+  },
+  {
+    "slug": "solomon-plume",
+    "common_name": "Solomon's Plume (False Solomon's Seal)",
+    "scientific_name": "Maianthemum racemosum",
+    "category": "flower",
+    "subcategory": "native shade wildflower",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 90,
+      "max": 180
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -6,
+        "max": -2
+      },
+      "note": "Plant rhizome divisions 1–2 inches deep in fall in moist, slightly acidic, well-drained to moderately moist, deeply humus-rich soil in partial to full shade; plants take 2–3 years from division to reach full flowering size — space generously as they spread slowly by creeping rhizomes."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 8
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 18,
+      "max": 36
+    },
+    "spread_in": {
+      "min": 24,
+      "max": 36
+    },
+    "sun": "shade",
+    "water": "moderate",
+    "directions": "Plant rhizome divisions in fall in moist, humus-rich, slightly acidic soil in partial to full shade; Solomon's plume is one of the most graceful native plants of the eastern woodland understory, producing arching stems with pairs of broad, smooth, strongly veined leaves, topped in mid-spring with fluffy, creamy-white plumes of tiny fragrant flowers — superficially similar to Solomon's seal but blooming above the leaves rather than below. The flowers are followed in fall by clusters of berries ripening from white with reddish speckles to full red, providing excellent songbird food. Young shoots are edible in spring as a cooked potherb with a mild asparagus-like flavor, and the rhizomes were used medicinally by many eastern woodland tribes. Spreads slowly by creeping rhizome to form attractive, low-maintenance colonies under deciduous trees — an indispensable native for the shaded naturalistic garden.",
+    "sources": [
+      "USDA PLANTS Database",
+      "Lady Bird Johnson Wildflower Center",
+      "Missouri Botanical Garden Plant Finder"
+    ]
+  },
+  {
+    "slug": "woodland-phlox",
+    "common_name": "Woodland Phlox (Wild Blue Phlox)",
+    "scientific_name": "Phlox divaricata",
+    "category": "flower",
+    "subcategory": "native spring wildflower",
+    "days_to_germination": {
+      "min": 30,
+      "max": 60
+    },
+    "germination_soil_temp_f": {
+      "min": 55,
+      "max": 65
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 90
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -4
+      },
+      "note": "Plant divisions or nursery transplants in fall or early spring in moist, slightly acidic to neutral, humus-rich, well-drained soil in partial shade; woodland phlox naturalizes by self-sown seed and stolons. If starting from seed, cold-stratify 60–90 days before sowing; germination is slow and erratic."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 9,
+      "max": 15
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 18
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Plant divisions in partial shade in moist, humus-rich soil in fall or early spring; woodland phlox is one of the most beautiful native spring wildflowers of eastern North America, producing masses of fragrant flat-faced flowers in shades of pale blue, lavender, violet, and white in mid-spring — blooming at the same time as Virginia bluebells and trilliums to create spectacular native wildflower combinations. The semi-evergreen foliage forms spreading mats that suppress weeds throughout the growing season, and unlike tall garden phlox (P. paniculata), woodland phlox is rarely troubled by powdery mildew when given good air circulation in a shaded site. Selected cultivars include 'Clouds of Perfume' (fragrant blue-violet), 'London Grove Blue' (deep blue), and 'Fuller's White' (pure white). An excellent pollinator plant attracting hummingbirds, swallowtail butterflies, and long-tongued native bees. Spreads slowly by rooting stolons to fill woodland edges and shaded borders naturally.",
+    "sources": [
+      "USDA PLANTS Database",
+      "Lady Bird Johnson Wildflower Center",
+      "North Carolina State Extension"
+    ]
+  },
+  {
+    "slug": "creeping-jenny",
+    "common_name": "Creeping Jenny (Moneywort)",
+    "scientific_name": "Lysimachia nummularia",
+    "category": "flower",
+    "subcategory": "shade groundcover perennial",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 30,
+      "max": 60
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": -2,
+        "max": 2
+      },
+      "note": "Plant rooted divisions or stem sections in spring or fall in moist to wet, slightly acidic to neutral soil in partial to full shade; creeping jenny roots readily from stem segments and establishes quickly — it can spread aggressively in consistently moist conditions. The golden cultivar 'Aurea' is slightly less vigorous."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 1,
+      "max": 3
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 36
+    },
+    "sun": "partial",
+    "water": "high",
+    "directions": "Plant in moist to wet, slightly acidic soil in partial to full shade; creeping jenny is a low-growing mat-forming perennial with round, bright green (or golden in the cultivar 'Aurea') coin-shaped leaves that hug the ground on trailing stems — the common name moneywort refers to the round leaf shape. Small, bright buttercup-yellow flowers appear along the stems in early summer. It is exceptionally useful as a living mulch in moist shaded sites: under trees, along shaded stream banks and pond margins, in rain gardens, and in container arrangements where it trails beautifully over the edge. The golden cultivar 'Aurea' is one of the brightest foliage plants for deep shade, glowing even in heavily shaded corners. In consistently moist conditions it spreads vigorously — trim back as needed to control. Outstanding in hanging baskets and window boxes where the trailing stems show their full effect.",
+    "sources": [
+      "Missouri Botanical Garden Plant Finder",
+      "Royal Horticultural Society",
+      "North Carolina State Extension"
+    ]
+  },
+  {
+    "slug": "ground-ivy",
+    "common_name": "Ground Ivy (Gill-over-the-Ground, Alehoof)",
+    "scientific_name": "Glechoma hederacea",
+    "category": "herb",
+    "subcategory": "shade-tolerant edible groundcover",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 30,
+      "max": 60
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": 0
+      },
+      "note": "Plant rooted divisions in spring or fall in any moist, well-drained to moderately moist soil in partial to full shade; ground ivy establishes rapidly and spreads by rooting stolons — site it where spreading is desirable and use edging to contain it in formal plantings. It naturalizes readily in shaded lawns and under trees where grass struggles."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 2,
+      "max": 6
+    },
+    "spread_in": {
+      "min": 24,
+      "max": 48
+    },
+    "sun": "shade",
+    "water": "moderate",
+    "directions": "Plant in partial to full shade in any reasonably moist soil; ground ivy is a creeping, mat-forming member of the mint family with distinctively kidney-shaped, scallop-edged leaves that release a pleasantly pungent, minty-medicinal aroma when crushed — small purple to blue flowers appear in whorls along the stems from spring through early summer. The young leaves and shoots are edible: they were used in medieval Europe to clarify and bitter ale before hops (earning the name 'alehoof'), and are used today in small amounts as a bitter herb in salads, soups, and herbal teas. Medicinally, ground ivy has a long tradition in European herbal medicine as an anti-inflammatory and respiratory herb. It is one of very few plants that will produce a dense, attractive groundcover in deep, dry shade under trees — a condition that defeats almost everything else. Can be invasive in favorable, moist conditions; contain with edging where needed.",
+    "sources": [
+      "USDA PLANTS Database",
+      "Missouri Botanical Garden Plant Finder",
+      "University of Michigan Ethnobotany Database"
+    ]
+  },
+  {
+    "slug": "marginal-wood-fern",
+    "common_name": "Marginal Wood Fern",
+    "scientific_name": "Dryopteris marginalis",
+    "category": "flower",
+    "subcategory": "native evergreen shade fern",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 90,
+      "max": 180
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant divisions or nursery-grown plants in spring in moist, slightly acidic to neutral, well-drained, humus-rich soil in full shade; marginal wood fern is highly drought tolerant once established for a fern and can grow on dry, rocky, shaded slopes. Avoid waterlogged soil."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 8
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 18,
+      "max": 30
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "shade",
+    "water": "low",
+    "directions": "Plant in well-drained, humus-rich, slightly acidic soil in full shade; marginal wood fern is one of the most reliable and widely adaptable native ferns of eastern North America, named for the distinctive placement of its spore clusters (sori) at the very margins of the leaflet undersides — a useful identification feature. Unlike many ferns, it tolerates moderately dry, shaded conditions remarkably well, thriving under the dry shade of large deciduous trees where soil moisture is scarce and most ferns fail. The broad, leathery, dark blue-green fronds are semi-evergreen to evergreen in milder zones, maintaining ornamental value through winter and providing year-round structure in the shade garden. It grows as a neat vase-shaped crown and does not spread by running rhizomes, making it exceptionally well-behaved in formal plantings. One of the easiest native ferns for the beginning shade gardener.",
+    "sources": [
+      "USDA PLANTS Database",
+      "Lady Bird Johnson Wildflower Center",
+      "Missouri Botanical Garden Plant Finder"
+    ]
+  },
+  {
+    "slug": "interrupted-fern",
+    "common_name": "Interrupted Fern",
+    "scientific_name": "Osmunda claytoniana",
+    "category": "flower",
+    "subcategory": "native deciduous shade fern",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 90,
+      "max": 365
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant divisions or nursery-grown plants in spring in moist to wet, slightly acidic, humus-rich soil in partial to full shade; interrupted fern thrives in consistently moist conditions and is particularly effective at pond edges, stream banks, and wet woodland areas. Avoid disturbing established specimens."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 8
+    },
+    "spacing_in": {
+      "min": 24,
+      "max": 36
+    },
+    "height_in": {
+      "min": 24,
+      "max": 48
+    },
+    "spread_in": {
+      "min": 24,
+      "max": 36
+    },
+    "sun": "shade",
+    "water": "high",
+    "directions": "Plant in moist to wet, acidic, humus-rich soil in partial to full shade; interrupted fern is one of the most distinctive and easily recognized native ferns of eastern North America, named for its unique habit of placing spore-bearing fertile pinnae in the middle section of certain fronds — interrupting the green sterile pinnae above and below with brown fertile segments that drop early in the season, leaving characteristic gaps in the frond's silhouette. This genus (Osmunda) produces the fibrous 'osmunda fiber' root mass prized for centuries as a potting medium for orchids and epiphytes. Interrupted fern grows in moist, shaded conditions similar to cinnamon and royal ferns but tolerates slightly drier slopes within the moist woodland. The large vase-shaped crown makes a bold structural statement in the wet shade garden and the graceful fronds provide excellent textural contrast with broad-leaved hostas and astilbes.",
+    "sources": [
+      "USDA PLANTS Database",
+      "Lady Bird Johnson Wildflower Center",
+      "North Carolina State Extension"
+    ]
+  },
+  {
+    "slug": "alexanders",
+    "common_name": "Alexanders (Black Lovage)",
+    "scientific_name": "Smyrnium olusatrum",
+    "category": "herb",
+    "subcategory": "ancient biennial culinary herb",
+    "days_to_germination": {
+      "min": 21,
+      "max": 42
+    },
+    "germination_soil_temp_f": {
+      "min": 50,
+      "max": 65
+    },
+    "days_to_maturity": {
+      "min": 180,
+      "max": 365
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -10,
+        "max": -6
+      },
+      "note": "Direct sow seed in fall in moist, well-drained, slightly alkaline to neutral soil in partial shade; Alexanders requires a cold period to break dormancy and germinates erratically over several months. In zones 8–9 it performs best in the cooler months; the plant may struggle with summer heat in its second year."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 24,
+      "max": 48
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Direct sow seed in fall in moist, well-drained, neutral to slightly alkaline soil in partial shade; Alexanders (Smyrnium olusatrum) is a biennial or short-lived perennial umbelifer that was the primary culinary celery-substitute of the ancient Roman and medieval European kitchen — widely grown across the Mediterranean and northern Europe until celery (Apium graveolens) displaced it in the 17th century. Every part of the plant is edible: young spring shoots and leaves have an intense celery-parsley-lovage flavor used as a pot herb; young flower stems are blanched and eaten like asparagus; the unripe seeds are used as a black pepper substitute; and the roots were boiled as a vegetable. It grows naturally in coastal habitats and hedgerows in partial shade and tolerates maritime conditions well. A fascinating kitchen garden curio for the historically minded cook and a productive addition to the permaculture herb garden — once established it self-sows reliably to maintain a permanent colony.",
+    "sources": [
+      "Royal Horticultural Society",
+      "Plants for a Future Database",
+      "Kew Gardens, Royal Botanic Gardens"
+    ]
   }
 ]

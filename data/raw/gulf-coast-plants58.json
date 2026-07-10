@@ -1,0 +1,552 @@
+[
+  {
+    "slug": "nutmeg-hickory",
+    "common_name": "Nutmeg Hickory",
+    "scientific_name": "Carya myristiciformis",
+    "category": "fruit",
+    "subcategory": "native nut tree",
+    "days_to_germination": {
+      "min": 30,
+      "max": 120
+    },
+    "germination_soil_temp_f": {
+      "min": 40,
+      "max": 55
+    },
+    "days_to_maturity": {
+      "min": 3650,
+      "max": 7300
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -2
+      },
+      "note": "Direct sow fresh nuts in fall at 2–3 inch depth in moist, deep, slightly acidic, loamy bottomland soil in full sun; cold stratification of 90–120 days over winter is required before spring germination. Nutmeg Hickory develops a deep taproot early and transplants poorly once established — direct seeding or very young container stock is strongly preferred."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 360,
+      "max": 600
+    },
+    "height_in": {
+      "min": 960,
+      "max": 1440
+    },
+    "spread_in": {
+      "min": 360,
+      "max": 600
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Nutmeg Hickory is the rarest of the true hickories native to North America, found scattered in moist to wet bottomlands, alluvial flats, and river swamps of the southeastern coastal plain from South Carolina west to southeastern Texas, where it reaches its greatest abundance in Louisiana and Mississippi. The round, dark nuts — resembling nutmegs in shape and borne in thick, 4-parted husks — are smaller than those of most hickories but are relished by squirrels, white-tailed deer, and wild turkeys, and were historically gathered and eaten by Native Americans. Plant fresh nuts directly in fall in deep, moist, slightly acidic loamy soil in full sun, allowing 90–120 days of cold stratification over winter before spring germination; the deep taproot that forms in the first growing season makes older trees virtually impossible to transplant. Trees grow steadily in bottomland soils and develop spectacular golden-yellow fall color and deeply furrowed gray bark that make them outstanding additions to naturalized floodplain or riparian plantings.",
+    "sources": [
+      "USDA PLANTS Database",
+      "Lady Bird Johnson Wildflower Center",
+      "Silvics of North America (USDA Forest Service)"
+    ]
+  },
+  {
+    "slug": "winged-elm",
+    "common_name": "Winged Elm",
+    "scientific_name": "Ulmus alata",
+    "category": "flower",
+    "subcategory": "native shade tree",
+    "days_to_germination": {
+      "min": 14,
+      "max": 30
+    },
+    "germination_soil_temp_f": {
+      "min": 55,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 1825,
+      "max": 5475
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant container-grown transplants in early spring in well-drained to moderately moist, loamy or clay soil in full sun to light shade. Winged Elm seeds ripen in early spring before leafout and must be sown fresh immediately upon collection, as viability is lost within days; transplanting from nursery stock is the practical choice for most gardeners."
+    },
+    "usda_zones": {
+      "min": 6,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 300,
+      "max": 480
+    },
+    "height_in": {
+      "min": 480,
+      "max": 840
+    },
+    "spread_in": {
+      "min": 300,
+      "max": 540
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Winged Elm is a medium-sized native tree of dry to mesic upland woods, rocky slopes, fence rows, and disturbed roadsides across the southeastern and south-central United States from Virginia to Florida and west to Kansas, readily identified by the distinctive corky, wing-like ridges that develop along younger branches — a feature unique among eastern elms. The seeds ripen in early spring before the leaves emerge and must be sown fresh in moist, well-drained soil immediately upon collection, as germination viability drops to near zero within days of ripening; nursery transplants are the practical method for establishing this species. Winged Elm is among the toughest and most adaptable of the native elms, tolerating drought, compacted clay, alkaline soils, and periodic flooding, and shows some tolerance to Dutch elm disease, making it a useful native tree for difficult urban sites and naturalized roadsides. The vase-shaped canopy, small rough-textured leaves, and light-yellow fall color provide multi-season ornamental interest with minimal maintenance.",
+    "sources": [
+      "USDA PLANTS Database",
+      "Lady Bird Johnson Wildflower Center",
+      "Native Trees of the Southeast (Kirkman, Brown, Leopold)"
+    ]
+  },
+  {
+    "slug": "sand-hickory",
+    "common_name": "Sand Hickory",
+    "scientific_name": "Carya pallida",
+    "category": "fruit",
+    "subcategory": "native nut tree",
+    "days_to_germination": {
+      "min": 30,
+      "max": 90
+    },
+    "germination_soil_temp_f": {
+      "min": 40,
+      "max": 55
+    },
+    "days_to_maturity": {
+      "min": 3650,
+      "max": 7300
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -2
+      },
+      "note": "Direct sow fresh nuts in fall at 2–3 inch depth in dry, sandy, acidic, well-drained soil in full sun; cold stratification of 90 days over winter is required before spring germination. Sand Hickory develops a long taproot and is best established by direct seeding or very young container-grown transplants."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 300,
+      "max": 480
+    },
+    "height_in": {
+      "min": 600,
+      "max": 960
+    },
+    "spread_in": {
+      "min": 300,
+      "max": 540
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Sand Hickory is a native nut tree specially adapted to the dry, sandy, acidic soils of pine-oak barrens, sandhills, and upland forest margins across the southeastern coastal plain from New Jersey south to Florida and west to Kansas, where it thrives in conditions too infertile and dry for most other nut trees. The compound leaves are distinctively pale and silvery-hairy on the undersides — a useful field character separating it from the similar Pignut and Mockernut hickories — and produce brilliant gold fall color. Nuts are moderately thin-shelled with mildly bitter to slightly sweet kernels eaten by squirrels, white-tailed deer, wild turkeys, and black bears; direct sow fresh nuts in fall at 2–3 inch depth in sandy, well-drained, acidic soil in full sun, allowing 90 days of cold stratification before spring germination. Once established, Sand Hickory is highly drought-tolerant and requires no supplemental irrigation, making it the ideal native nut tree for dry, infertile, xeric sites.",
+    "sources": [
+      "USDA PLANTS Database",
+      "Lady Bird Johnson Wildflower Center",
+      "Silvics of North America (USDA Forest Service)"
+    ]
+  },
+  {
+    "slug": "scrub-hickory",
+    "common_name": "Scrub Hickory",
+    "scientific_name": "Carya floridana",
+    "category": "fruit",
+    "subcategory": "native nut tree",
+    "days_to_germination": {
+      "min": 30,
+      "max": 90
+    },
+    "germination_soil_temp_f": {
+      "min": 50,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 2555,
+      "max": 5475
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -2
+      },
+      "note": "Direct sow fresh nuts in fall at 1–2 inch depth in dry, pure sandy, acidic, infertile, extremely well-drained soil in full sun; Scrub Hickory will not tolerate clay, wet feet, or excessive organic amendments. Mimicking the open Florida scrub habitat is essential for successful establishment."
+    },
+    "usda_zones": {
+      "min": 8,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 120,
+      "max": 180
+    },
+    "height_in": {
+      "min": 180,
+      "max": 300
+    },
+    "spread_in": {
+      "min": 120,
+      "max": 240
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Scrub Hickory is a rare and imperiled native nut tree endemic to the ancient, fire-maintained Florida scrub habitats of the central Florida ridge, where it grows in pure white sand soils of extremely low fertility that are inhospitable to most other plants. A small tree rarely exceeding 25 feet, it produces small, round, thick-shelled nuts with bitter kernels that are eaten by Florida Scrub-Jays, fox squirrels, gopher tortoises, and other scrub wildlife, making it a keystone component of the Florida scrub food web. Plant fresh nuts in fall in pure, infertile, sandy, extremely well-drained soil in full sun — excessive water, clay, or organic matter quickly kills this species. In cultivation, Scrub Hickory performs best in open xeric settings that mimic native scrub conditions, and benefits from the periodic, low-intensity fire that characterizes and maintains the Florida scrub ecosystem.",
+    "sources": [
+      "USDA PLANTS Database",
+      "Florida Natural Areas Inventory",
+      "Archbold Biological Station Research Publications"
+    ]
+  },
+  {
+    "slug": "ogeechee-tupelo",
+    "common_name": "Ogeechee Tupelo",
+    "scientific_name": "Nyssa ogeche",
+    "category": "flower",
+    "subcategory": "native swamp tree",
+    "days_to_germination": {
+      "min": 30,
+      "max": 90
+    },
+    "germination_soil_temp_f": {
+      "min": 40,
+      "max": 60
+    },
+    "days_to_maturity": {
+      "min": 1825,
+      "max": 5475
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -6,
+        "max": -2
+      },
+      "note": "Plant container-grown transplants in fall in permanently wet, acidic, humus-rich, seasonally to permanently flooded soil in partial shade to full sun. Ogeechee Tupelo is intolerant of drought and high pH and must have constant moisture; standing water is tolerated and often preferred."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 240,
+      "max": 420
+    },
+    "height_in": {
+      "min": 480,
+      "max": 720
+    },
+    "spread_in": {
+      "min": 240,
+      "max": 420
+    },
+    "sun": "partial",
+    "water": "high",
+    "directions": "Ogeechee Tupelo is a native swamp tree of the coastal plain river bottomlands and freshwater swamps of Georgia and northern Florida, most abundant along the Ogeechee, Altamaha, and Suwannee rivers, where it grows in soils that are seasonally to permanently flooded. The large, oblong red drupes — sometimes called Ogeechee limes — are intensely sour and were historically used by Native Americans and early settlers as a substitute for lime in cooking and preserves; they remain a prized wild foraged ingredient in the modern era. The fragrant white flowers are the renowned source of prized tupelo honey, a light-colored, mild-flavored honey with unique fructose chemistry that resists crystallization and commands premium prices at market. Plant in permanently wet, acidic, humus-rich soil in partial shade to full sun; this species is intolerant of drought or alkaline conditions and grows best where roots reach permanent water.",
+    "sources": [
+      "USDA PLANTS Database",
+      "Lady Bird Johnson Wildflower Center",
+      "A Guide to the Wildflowers of South Carolina (Porcher & Rayner)"
+    ]
+  },
+  {
+    "slug": "planer-water-elm",
+    "common_name": "Planer Tree",
+    "scientific_name": "Planera aquatica",
+    "category": "flower",
+    "subcategory": "native wetland tree",
+    "days_to_germination": {
+      "min": 14,
+      "max": 30
+    },
+    "germination_soil_temp_f": {
+      "min": 55,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 1825,
+      "max": 5475
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant container-grown transplants in early spring in moist to wet, acidic, humus-rich soil in partial shade to full sun; Planer Tree tolerates and prefers seasonally flooded conditions. Seeds should be sown fresh in moist, saturated soil as soon as they ripen in spring, as viability diminishes quickly."
+    },
+    "usda_zones": {
+      "min": 6,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 180,
+      "max": 360
+    },
+    "height_in": {
+      "min": 360,
+      "max": 600
+    },
+    "spread_in": {
+      "min": 180,
+      "max": 360
+    },
+    "sun": "partial",
+    "water": "high",
+    "directions": "Planer Tree — also called Water Elm — is a small and uncommon native tree of permanently wet swamps, river floodplains, and cypress-tupelo bottomlands of the coastal plain from South Carolina to Florida and west to Texas, where it often grows in the understory beneath bald cypress, water tupelo, and swamp cottonwood. The small, rough-textured leaves and warty, inconspicuous drupes superficially resemble those of the closely related elms, but the single nutlet with a distinctly rough, tuberculate surface is the diagnostic feature that separates Planera from Ulmus. Seeds should be collected and planted fresh in moist to wet, acidic soil under light shade, as viability drops quickly; container-grown nursery transplants are the most reliable method for establishing this species in cultivation. Planer Tree is rarely grown in ornamental settings but makes a distinctive small specimen for rain gardens, pond margins, and naturalized floodplain plantings where saturated soils and periodic flooding prevent most woody plants from thriving.",
+    "sources": [
+      "USDA PLANTS Database",
+      "Lady Bird Johnson Wildflower Center",
+      "Flora of the Southeastern United States (Weakley)"
+    ]
+  },
+  {
+    "slug": "carolina-cherry-laurel",
+    "common_name": "Carolina Cherry Laurel",
+    "scientific_name": "Prunus caroliniana",
+    "category": "flower",
+    "subcategory": "native evergreen tree",
+    "days_to_germination": {
+      "min": 30,
+      "max": 90
+    },
+    "germination_soil_temp_f": {
+      "min": 40,
+      "max": 55
+    },
+    "days_to_maturity": {
+      "min": 1095,
+      "max": 2555
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant container-grown transplants in spring in well-drained, loamy to sandy-loam soil in full sun to partial shade; established plants tolerate drought and moderate clay. All parts of Carolina Cherry Laurel contain hydrogen cyanide compounds — never eat leaves, bark, or seeds."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 120,
+      "max": 240
+    },
+    "height_in": {
+      "min": 180,
+      "max": 480
+    },
+    "spread_in": {
+      "min": 180,
+      "max": 300
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Carolina Cherry Laurel is an evergreen native tree or large shrub of the coastal plain and piedmont from North Carolina to central Florida and west to Texas, where it grows at forest edges, in disturbed sites, and along stream banks in full sun to partial shade. The glossy, lance-shaped evergreen leaves, fragrant white flower clusters in early spring, and dense branching habit make it one of the most popular native plants for hedges, privacy screens, and naturalized windbreaks in the Southeast, especially in Zones 8–10 where it grows vigorously year-round. Clusters of glossy black drupes ripen in fall and winter and are eagerly consumed by mockingbirds, cedar waxwings, robins, and other fruit-eating birds, though all parts of the plant contain hydrogen cyanide compounds and must never be eaten by humans or livestock. Plant in well-drained, loamy to sandy-loam soil in full sun for best flowering and fruiting; established plants tolerate extended drought, moderate clay, and salt spray in coastal settings.",
+    "sources": [
+      "USDA PLANTS Database",
+      "Lady Bird Johnson Wildflower Center",
+      "Florida Native Plant Society"
+    ]
+  },
+  {
+    "slug": "silk-bay",
+    "common_name": "Silk Bay",
+    "scientific_name": "Persea humilis",
+    "category": "flower",
+    "subcategory": "native understory tree",
+    "days_to_germination": {
+      "min": 14,
+      "max": 60
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 2190,
+      "max": 3650
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant container-grown transplants in spring in extremely well-drained, infertile, acidic, sandy soil in full sun to partial shade; Silk Bay will quickly decline in heavy, wet, or overly fertile soils. It is highly susceptible to laurel wilt disease spread by the redbay ambrosia beetle — plant in isolated or protected settings."
+    },
+    "usda_zones": {
+      "min": 8,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 96,
+      "max": 180
+    },
+    "height_in": {
+      "min": 120,
+      "max": 300
+    },
+    "spread_in": {
+      "min": 96,
+      "max": 180
+    },
+    "sun": "partial",
+    "water": "low",
+    "directions": "Silk Bay is a Florida endemic member of the laurel family, native to the ancient, fire-maintained scrub habitats of the central and southern Florida peninsula, where it grows in pure white sand alongside Scrub Hickory, Florida Rosemary, and scrub oaks in conditions of extreme infertility and drainage. The leaves are smaller and silkier than those of the closely related Red Bay and Swamp Bay, with a distinctive silky pubescence on the undersides; small, dark blue-black drupes produced in summer and fall provide important food for Florida Scrub-Jays, fish crows, and migratory songbirds. Like all native bays in the genus Persea, Silk Bay is highly susceptible to laurel wilt disease, an exotic fungal pathogen spread by the redbay ambrosia beetle that has devastated native bay populations across the Southeast. Plant in extremely well-drained, infertile, acidic, sandy soil in full sun to partial shade; this species demands perfect drainage and will quickly decline in heavy, wet, irrigated, or highly amended soils.",
+    "sources": [
+      "USDA PLANTS Database",
+      "Florida Natural Areas Inventory",
+      "Archbold Biological Station Research Publications"
+    ]
+  },
+  {
+    "slug": "scrub-palmetto",
+    "common_name": "Scrub Palmetto",
+    "scientific_name": "Sabal etonia",
+    "category": "flower",
+    "subcategory": "native palm",
+    "days_to_germination": {
+      "min": 30,
+      "max": 90
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 90
+    },
+    "days_to_maturity": {
+      "min": 2555,
+      "max": 5475
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 6
+      },
+      "note": "Plant container-grown transplants in spring in pure, infertile, sandy, extremely well-drained soil in full sun; Scrub Palmetto requires the xeric, nutrient-poor conditions of Florida scrub and will decline in clay, irrigated, or heavily amended soils. No supplemental fertilizer or irrigation is needed once established."
+    },
+    "usda_zones": {
+      "min": 8,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 60,
+      "max": 96
+    },
+    "height_in": {
+      "min": 24,
+      "max": 72
+    },
+    "spread_in": {
+      "min": 72,
+      "max": 120
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Scrub Palmetto is a small, ground-hugging native palm endemic to the ancient, fire-maintained Florida scrub habitats of the central Florida peninsula, growing in pure white sand soils of extreme infertility and drainage alongside the rarest plants and animals in North America. This palmetto typically remains stemless or develops a very short trunk at or below ground level, producing a cluster of bluish-green, fan-shaped leaves 4–6 feet across that emerge directly from the root mass in a way that makes it fire-resistant and able to regenerate rapidly after scrub burns. The small, black, marble-sized fruits are eaten by Florida Scrub-Jays, gopher tortoises, black bears, and other scrub wildlife, making Scrub Palmetto a keystone species in this imperiled ecosystem. Plant seeds in well-drained, infertile, sandy soil in full sun in warm weather; once the root system is established, the slow-growing plants require no supplemental fertilizer, no irrigation, and no soil amendments.",
+    "sources": [
+      "USDA PLANTS Database",
+      "Florida Natural Areas Inventory",
+      "Archbold Biological Station Research Publications"
+    ]
+  },
+  {
+    "slug": "key-thatch-palm",
+    "common_name": "Key Thatch Palm",
+    "scientific_name": "Leucothrinax morrisii",
+    "category": "flower",
+    "subcategory": "native palm",
+    "days_to_germination": {
+      "min": 60,
+      "max": 120
+    },
+    "germination_soil_temp_f": {
+      "min": 75,
+      "max": 90
+    },
+    "days_to_maturity": {
+      "min": 3650,
+      "max": 5475
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant container-grown transplants in spring in well-drained, sandy to sandy-loam soil in full sun; Key Thatch Palm is highly salt-tolerant and thrives in coastal Florida conditions of Zone 10–11. Fresh seeds germinate in 2–4 months in warm, moist, well-drained medium."
+    },
+    "usda_zones": {
+      "min": 10,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 96,
+      "max": 144
+    },
+    "height_in": {
+      "min": 180,
+      "max": 300
+    },
+    "spread_in": {
+      "min": 60,
+      "max": 96
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Key Thatch Palm is a small, slender native palm of the Florida Keys and Caribbean islands, growing in coastal strand, pine rocklands, and scrub habitats where its graceful trunk reaches 15–25 feet topped by a compact crown of fan-shaped leaves with distinctive silvery-white undersides that shimmer in the wind. The small, round white fruits are eaten by white-crowned pigeons, other fruit-eating birds, and small mammals, and the supple, long-lasting leaves were traditionally harvested by Caribbean and Florida Keys communities for thatching roofs, weaving hats, and making baskets. Requiring full sun, excellent drainage, and high salt tolerance, Key Thatch Palm is an excellent choice for coastal landscapes in Zones 10–11 where frost is rare or absent, and its slender, non-invasive root system makes it appropriate for tight spaces near hardscape. Plant fresh seeds in warm, moist, well-drained soil in full sun for germination in 2–4 months; seedlings develop slowly for several years before accelerating in their characteristic warm, sunny, frost-free environment.",
+    "sources": [
+      "USDA PLANTS Database",
+      "University of Florida IFAS Extension",
+      "Florida Native Plant Society"
+    ]
+  }
+]

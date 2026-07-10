@@ -1,0 +1,552 @@
+[
+  {
+    "slug": "achira",
+    "common_name": "Achira (Edible Canna)",
+    "scientific_name": "Canna edulis",
+    "category": "vegetable",
+    "subcategory": "tropical root crop",
+    "days_to_germination": {
+      "min": 21,
+      "max": 45
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 80
+    },
+    "days_to_maturity": {
+      "min": 270,
+      "max": 360
+    },
+    "maturity_from": "transplant",
+    "sow_method": "tuber",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 4
+      },
+      "note": "Plant rhizomes 3–4 inches deep after the last frost once soil has warmed; in zone 8 and south, rhizomes can overwinter in the ground with heavy mulch — harvest the largest rhizomes for food and replant the smaller ones each spring."
+    },
+    "usda_zones": {
+      "min": 8,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 24,
+      "max": 36
+    },
+    "height_in": {
+      "min": 48,
+      "max": 96
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 30
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Achira is the oldest cultivated plant in South America, grown for thousands of years by Andean civilizations for its large, starchy rhizomes that produce a superior arrowroot starch used in gluten-free cooking and baking — distinct from ornamental cannas (Canna indica and hybrids) because the rhizomes are the primary crop, though the tall plants also produce showy flowers. Rhizomes are harvested 8–10 months after planting when plants begin to die back; they can be cooked like a starchy root vegetable, peeled and steamed, or dried and ground into a fine white starch known as 'canna starch' or 'Queensland arrowroot' that is an excellent thickener for sauces and soups. In zone 9 Gulf Coast gardens, achira grows vigorously as a warm-season perennial that fills in quickly from spring through fall, providing both edible harvest and tropical visual interest; the leaves are also traditionally used to wrap foods for cooking like corn husks. Divide and replant small side rhizomes each spring to maintain a productive colony.",
+    "sources": [
+      "USDA ARS Germplasm Resources Information Network (GRIN)",
+      "Lost Crops of the Incas (National Academy of Sciences)",
+      "University of Florida IFAS Tropical Edibles"
+    ]
+  },
+  {
+    "slug": "pepino",
+    "common_name": "Pepino (Pepino Melon)",
+    "scientific_name": "Solanum muricatum",
+    "category": "fruit",
+    "subcategory": "tropical perennial fruit",
+    "days_to_germination": {
+      "min": 14,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 80
+    },
+    "days_to_maturity": {
+      "min": 75,
+      "max": 100
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 4
+      },
+      "note": "Start from cuttings (roots readily) or transplant after last frost in rich, well-drained soil in full sun; pepino performs as a short-lived perennial in zone 9 and south, surviving mild winters and producing fruit repeatedly — protect from frost below 28°F."
+    },
+    "usda_zones": {
+      "min": 9,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 24,
+      "max": 36
+    },
+    "height_in": {
+      "min": 24,
+      "max": 48
+    },
+    "spread_in": {
+      "min": 24,
+      "max": 36
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Pepino melon is a perennial fruiting shrub from the Andes of South America, belonging to the same genus as tomatoes and eggplants — its smooth-skinned, oval fruits are pale golden-yellow with distinctive purple streaks when ripe, with sweet, mild, melon-like flesh that has been compared to a blend of cantaloupe and cucumber. The plant blooms and sets fruit best in cool to mild temperatures (50–75°F) rather than peak summer heat, making the fall through early spring season the most productive in the subtropical Gulf Coast; in zone 9 it often survives mild winters to fruit again the following cool season. Propagate easily from stem cuttings like tomatoes — a rooted cutting can fruit within 75–100 days of transplanting. Stake plants like a tomato or pepper to keep fruits off the ground; harvest when fruits develop a fully golden background color and give slightly to thumb pressure, typically 3–4 months after transplanting; let fully ripen at room temperature after picking for peak sweetness.",
+    "sources": [
+      "USDA National Germplasm System",
+      "University of California Cooperative Extension",
+      "Lost Crops of the Incas (National Academy of Sciences)"
+    ]
+  },
+  {
+    "slug": "arrowroot",
+    "common_name": "Arrowroot",
+    "scientific_name": "Maranta arundinacea",
+    "category": "vegetable",
+    "subcategory": "tropical root crop",
+    "days_to_germination": {
+      "min": 21,
+      "max": 45
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 270,
+      "max": 365
+    },
+    "maturity_from": "transplant",
+    "sow_method": "tuber",
+    "season": "warm",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 4
+      },
+      "note": "Plant rhizome sections 2–3 inches deep in moist, humus-rich, well-drained to moderately moist soil after last frost; in zone 8 and south, rhizomes can overwinter in the ground under mulch — harvest mature rhizomes in fall when foliage begins to die back."
+    },
+    "usda_zones": {
+      "min": 8,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 24,
+      "max": 60
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 18
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "True arrowroot is a tropical perennial native to the Caribbean and northern South America, cultivated for its slender, white rhizomes that produce the purest, most digestible starch of any root crop — genuine arrowroot starch is almost flavorless, dissolves crystal-clear in cooking (unlike cornstarch which turns cloudy), and is prized in gluten-free baking and as a thickener for delicate sauces, jellies, and gravies. In Gulf Coast gardens, it grows vigorously as a shade-tolerant understory crop under fruit trees and along the edges of covered patios — one of the few starchy root vegetables that thrives in partial shade, making it ideal for interplanting beneath taller tropical crops. Harvest slender, finger-like rhizomes 10–12 months after planting when the leafy tops begin to yellow; the rhizomes can be eaten boiled or baked, or processed into starch by grinding, washing, and drying. Start rhizome sections each spring; in frost-free areas it grows as a true perennial, expanding into spreading clumps.",
+    "sources": [
+      "USDA ARS Germplasm Resources Information Network (GRIN)",
+      "University of Florida IFAS Extension",
+      "FAO Plant Production and Protection Series"
+    ]
+  },
+  {
+    "slug": "sea-lavender",
+    "common_name": "Sea Lavender (Marsh Rosemary)",
+    "scientific_name": "Limonium carolinianum",
+    "category": "flower",
+    "subcategory": "native coastal wildflower",
+    "days_to_germination": {
+      "min": 14,
+      "max": 30
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 365,
+      "max": 730
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant in moist to wet, salty or brackish, well-drained sandy or silty soil in full sun; sea lavender is a salt marsh specialist that is difficult to establish from seed but transplants well from container-grown nursery stock — do not attempt in alkaline clay or fresh water sites."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 12,
+      "max": 24
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 18
+    },
+    "sun": "full",
+    "water": "high",
+    "directions": "Sea lavender is a native perennial wildflower of Atlantic and Gulf Coast salt marshes, producing dense basal rosettes of leathery, paddle-shaped leaves and tall, branching flower stalks covered in masses of tiny, papery lavender-blue flowers in late summer and fall — the dried flowers retain their color indefinitely and are highly prized in floral arrangements, giving sea lavender enduring commercial value as a cut flower crop. The plant grows naturally in the high salt marsh zone alongside glasswort, saltmarsh cordgrass, and seaside goldenrod, thriving in conditions that kill most garden plants: high salinity, periodic flooding, and exposed coastal wind. In coastal gardens and tidal restoration plantings, it serves as a critical late-season nectar source for monarchs and native bees making their fall southward migration along the Gulf Coast, and the dried seedheads persist through winter as bird habitat. Because it tolerates salt spray and sandy, saline soil, sea lavender is also an excellent choice for stabilizing coastal buffer zones, rain gardens near the coast, and any site with brackish soil conditions.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "USDA Plants Database",
+      "North Carolina State Extension Plant Toolbox"
+    ]
+  },
+  {
+    "slug": "marsh-elder",
+    "common_name": "Marsh Elder (High-Tide Bush)",
+    "scientific_name": "Iva frutescens",
+    "category": "flower",
+    "subcategory": "native coastal shrub",
+    "days_to_germination": {
+      "min": 14,
+      "max": 30
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 365,
+      "max": 1095
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant container-grown specimens in spring in moist to wet, saline or brackish, sandy soil in full sun along the high tide line; marsh elder is a tidal wetland obligate and should not be planted in fresh water or upland sites."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 36,
+      "max": 72
+    },
+    "height_in": {
+      "min": 36,
+      "max": 120
+    },
+    "spread_in": {
+      "min": 36,
+      "max": 72
+    },
+    "sun": "full",
+    "water": "high",
+    "directions": "Marsh elder, also called high-tide bush, is a native deciduous shrub of the Atlantic and Gulf Coast salt marshes, growing precisely at the upper limit of regular tidal flooding — its common name 'high-tide bush' describes its ecological niche as the shrubby fringe that marks the upper boundary of the tidal marsh zone on both Atlantic and Gulf shorelines. Despite its unglamorous appearance for most of the year — a stiff, woody shrub with small, succulent leaves and inconspicuous late-summer flowers — marsh elder is ecologically critical: it provides nesting cover for marsh wrens, seaside sparrows, and clapper rails, and its seeds are consumed by dabbling ducks and shorebirds; it stabilizes the marsh-upland ecotone against erosion. In coastal restoration plantings along the Gulf, it is a primary native shrub for establishing the high marsh zone on restored or disturbed shorelines, often planted in combination with black needle rush (Juncus roemerianus) and saltmarsh cordgrass. It also serves as a windbreak and salt spray filter for adjacent upland plantings.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "NOAA National Estuarine Research Reserve",
+      "USDA Plants Database"
+    ]
+  },
+  {
+    "slug": "blue-curls",
+    "common_name": "Blue Curls",
+    "scientific_name": "Trichostema dichotomum",
+    "category": "flower",
+    "subcategory": "native wildflower",
+    "days_to_germination": {
+      "min": 14,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 90
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 2
+      },
+      "note": "Direct sow on dry, sandy, or gravelly soil in full sun after the last frost; blue curls germinates readily in warm soil but requires excellent drainage and low soil fertility — it thrives in barren, open patches where it has little competition from grass."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 6,
+      "max": 12
+    },
+    "height_in": {
+      "min": 6,
+      "max": 18
+    },
+    "spread_in": {
+      "min": 6,
+      "max": 12
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Blue curls is a native annual wildflower of pine barrens, dry sandy clearings, and open woodland paths across the eastern United States — tiny but dazzling when in bloom, bearing intricate blue to violet flowers with dramatically long, arching stamens (the 'curls') that give the plant its evocative name and distinguish it from all other wildflowers in the landscape. The strongly aromatic foliage has a pungent, camphor-like scent similar to basil and other members of the mint family; blue curls has historically been used as an insect repellent and minor herbal remedy. It is one of the most important native annual wildflowers for supporting specialist bees in dry, sandy, barren habitats — bombylius flies and small native bees are primary pollinators. Direct sow on disturbed sandy soil in full sun; it thrives in poor, dry conditions and competition-free open ground where few other plants grow well, self-seeding from late summer through fall to return the following year.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "North Carolina State Extension Plant Toolbox",
+      "Illinois Wildflowers"
+    ]
+  },
+  {
+    "slug": "smooth-cordgrass",
+    "common_name": "Smooth Cordgrass (Saltmarsh Cordgrass)",
+    "scientific_name": "Sporobolus alterniflorus",
+    "category": "flower",
+    "subcategory": "native coastal grass",
+    "days_to_germination": {
+      "min": 14,
+      "max": 30
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 365,
+      "max": 730
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant plugs or bare-root divisions in spring in regularly flooded tidal flats, muddy marsh edges, or constructed tidal wetlands; smooth cordgrass must be planted in the intertidal zone where it is flooded by saltwater twice daily — it will not persist in fresh water or fully upland sites."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 24
+    },
+    "height_in": {
+      "min": 24,
+      "max": 84
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "high",
+    "directions": "Smooth cordgrass (formerly Spartina alterniflora) is the dominant grass of tidal salt marshes along the Atlantic and Gulf coasts of North America — arguably the single most ecologically important native grass on the eastern seaboard, as it forms the structural foundation of the salt marsh ecosystem. Dense monocultures of smooth cordgrass trap sediment, reduce shoreline erosion, export enormous amounts of organic material (detritus) that feeds estuarine food webs, provide nesting habitat for clapper rails, marsh wrens, and seaside sparrows, and serve as the primary nursery habitat for shrimp, blue crab, flounder, and dozens of commercially important fish species. In coastal restoration projects, smooth cordgrass is the primary plant used to revegetate denuded tidal mudflats, eroding shorelines, and disturbed salt marsh: it establishes from plugs or bare-root divisions within a single growing season and spreads by rhizomes to form self-sustaining colonies. Use for tidal marsh restoration, living shoreline projects, and coastal erosion control where intertidal conditions are present.",
+    "sources": [
+      "USDA Plants Database",
+      "NOAA National Estuarine Research Reserve System",
+      "Lady Bird Johnson Wildflower Center"
+    ]
+  },
+  {
+    "slug": "gulf-cordgrass",
+    "common_name": "Gulf Cordgrass (Sacaton)",
+    "scientific_name": "Sporobolus spartinae",
+    "category": "flower",
+    "subcategory": "native coastal grass",
+    "days_to_germination": {
+      "min": 14,
+      "max": 30
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 365,
+      "max": 1095
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant divisions in spring in full sun in saline, alkaline, or brackish wet to seasonally flooded soils along Gulf Coast bay margins, salt flats, and transition zones; gulf cordgrass tolerates both salt and alkaline conditions that would kill most grasses."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 24,
+      "max": 48
+    },
+    "height_in": {
+      "min": 24,
+      "max": 60
+    },
+    "spread_in": {
+      "min": 24,
+      "max": 48
+    },
+    "sun": "full",
+    "water": "high",
+    "directions": "Gulf cordgrass (formerly Spartina spartinae) is a dominant warm-season perennial grass of Gulf Coast salt flats, tidal margins, and alkaline coastal prairies from Texas to Florida, forming dense monocultures that bridge the ecological transition zone between tidal salt marsh and upland prairie. Its stiff, round, sharply pointed leaf blades make it distinctive and somewhat prickly to handle, but the plant is invaluable for stabilizing saline, alkaline, or brackish coastal soils where few other plants establish — it has exceptional salt tolerance that exceeds most native coastal grasses. Historically, gulf cordgrass prairies were important feeding and nesting habitat for Attwater's prairie chickens and migratory shorebirds; coastal prairie bird species including horned larks, savannah sparrows, and sedge wrens use the dense stands for winter foraging. In Gulf Coast coastal restoration projects and living shoreline designs, gulf cordgrass is planted in the transition zone between smooth cordgrass tidal marsh and upland black needle rush or salt flat communities, where it reliably establishes and spreads via rhizomes.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "Texas A&M AgriLife Extension",
+      "USDA Plants Database"
+    ]
+  },
+  {
+    "slug": "seashore-dropseed",
+    "common_name": "Seashore Dropseed",
+    "scientific_name": "Sporobolus virginicus",
+    "category": "flower",
+    "subcategory": "native coastal grass",
+    "days_to_germination": {
+      "min": 14,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 365,
+      "max": 730
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant divisions or plugs in spring in sandy, well-drained to moist, saline or brackish soils in full sun; seashore dropseed is ideal for sandy beach margins, salt flats, coastal erosion buffers, and stabilizing sandy soils in full sun with high salt spray."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 24
+    },
+    "height_in": {
+      "min": 6,
+      "max": 18
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Seashore dropseed is a low, mat-forming native perennial grass of coastal sand dunes, beach margins, and salt flats throughout the Gulf and Atlantic coasts — one of the most salt-tolerant of all native grasses, it thrives directly behind the beach berm where salt spray and occasional saltwater flooding eliminate nearly all competition. Dense, creeping rhizomes and stolons knit sandy coastal soils together tightly, making seashore dropseed one of the most effective native plants for stabilizing sandy beaches, eroding shorelines, and coastal buffer strips without the invasiveness problems of non-native beach grasses. The fine-textured, wiry green leaves form attractive low mounds that turn tawny in winter; small, upright seed spikes provide food for ground-feeding birds. In coastal gardens and seaside landscapes, use seashore dropseed as a low-maintenance edging or groundcover grass in areas exposed to salt spray, sandy alkaline soil, and reflected heat from pavement or sea walls — conditions where ornamental grasses and lawn species fail.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "Florida Native Plant Society",
+      "USDA Plants Database"
+    ]
+  },
+  {
+    "slug": "salt-meadow-cordgrass",
+    "common_name": "Salt Meadow Cordgrass (Salt Hay)",
+    "scientific_name": "Sporobolus pumilus",
+    "category": "flower",
+    "subcategory": "native coastal grass",
+    "days_to_germination": {
+      "min": 14,
+      "max": 30
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 365,
+      "max": 730
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant plugs or divisions in spring in irregularly flooded high marsh zones, salt flats, or moist brackish soils; salt meadow cordgrass occupies the high marsh zone flooded only by storm tides, above the daily inundation zone of smooth cordgrass."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 24
+    },
+    "height_in": {
+      "min": 12,
+      "max": 36
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "high",
+    "directions": "Salt meadow cordgrass (formerly Spartina patens) is the characteristic grass of the high salt marsh zone — the broad expanses of short, dense, cowlick-patterned grass visible from coastal roads and causeways along both the Atlantic and Gulf coasts. Its lower height, finer texture, and characteristic 'cowlick' growth pattern (where wind and tidal currents lay the grass in whirling mats) easily distinguish it from the taller smooth cordgrass of the lower marsh. Historically harvested as 'salt hay' for bedding and fodder from colonial times through the early 20th century, salt meadow cordgrass was the backbone of colonial coastal agriculture; today it is a primary plant for high marsh restoration, living shoreline construction, and tidal wetland mitigation projects throughout the eastern United States. Dense stands provide critical nesting habitat for salt marsh sparrows, seaside sparrows, and willets, and the seeds are consumed by migrating birds; the grass also functions as important muskrat, vole, and meadow mouse habitat in coastal marshes.",
+    "sources": [
+      "NOAA National Estuarine Research Reserve System",
+      "Lady Bird Johnson Wildflower Center",
+      "USDA Plants Database"
+    ]
+  }
+]
