@@ -1,0 +1,281 @@
+[
+  {
+    "slug": "gardenia",
+    "common_name": "Common Gardenia",
+    "scientific_name": "Gardenia jasminoides",
+    "category": "flower",
+    "subcategory": "shade shrub",
+    "days_to_germination": { "min": 30, "max": 60 },
+    "germination_soil_temp_f": { "min": 65, "max": 75 },
+    "days_to_maturity": { "min": 365, "max": 730 },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": { "min": 2, "max": 6 },
+      "note": "Plant container specimens in moist, acidic (pH 5.0–6.0), well-drained soil in full sun to partial shade in spring; afternoon shade in zones 8–10 reduces leaf scorch and prolongs bloom."
+    },
+    "usda_zones": { "min": 7, "max": 11 },
+    "spacing_in": { "min": 36, "max": 60 },
+    "height_in": { "min": 36, "max": 72 },
+    "spread_in": { "min": 36, "max": 60 },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Plant in moist, acidic (pH 5.0–6.0), well-drained soil with afternoon shade in zones 8–10 to prevent leaf scorch; gardenia is prized for its intensely fragrant, waxy white flowers that bloom in late spring to midsummer and makes one of the most effective landscape shrubs in the Deep South when sited correctly. Maintain consistent soil moisture but never allow roots to sit in standing water — drought stress triggers bud drop. Fertilize monthly from spring through summer with an acid-type fertilizer; yellowing leaves between the veins (interveinal chlorosis) signal iron or manganese deficiency and respond to applications of chelated iron. Root semi-hardwood stem cuttings in late summer for propagation.",
+    "sources": [
+      "University of Florida IFAS Extension",
+      "Clemson Cooperative Extension Home & Garden Information Center",
+      "North Carolina State Extension — Plants Database"
+    ]
+  },
+  {
+    "slug": "christmas-rose",
+    "common_name": "Christmas Rose",
+    "scientific_name": "Helleborus niger",
+    "category": "flower",
+    "subcategory": "shade perennial",
+    "days_to_germination": { "min": 60, "max": 180 },
+    "germination_soil_temp_f": { "min": 50, "max": 60 },
+    "days_to_maturity": { "min": 365, "max": 730 },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": { "min": -8, "max": -4 },
+      "note": "Plant container-grown specimens or fresh divisions in early fall in moist, alkaline to neutral, humus-rich, well-drained soil in partial to full shade; Christmas rose requires 2–3 years to establish and bloom freely."
+    },
+    "usda_zones": { "min": 3, "max": 8 },
+    "spacing_in": { "min": 12, "max": 18 },
+    "height_in": { "min": 9, "max": 15 },
+    "spread_in": { "min": 12, "max": 18 },
+    "sun": "shade",
+    "water": "moderate",
+    "directions": "Plant in moist, humus-rich, well-drained soil in partial to full shade, ideally on a slope or raised position where winter drainage is reliable; Christmas rose produces pristine white flowers in midwinter to early spring, often blooming through snow, when scarcely any other garden plant shows color. Unlike most garden plants, helleborus niger prefers neutral to slightly alkaline soil — work lime into acidic beds before planting. Do not divide established plants unnecessarily, as they resent disturbance and take 1–2 seasons to recover. Remove old foliage in late fall to reduce fungal issues and allow a clear view of the winter blooms.",
+    "sources": [
+      "Missouri Botanical Garden Plant Finder",
+      "Royal Horticultural Society — Plant Selector",
+      "North Carolina State Extension — Plants Database"
+    ]
+  },
+  {
+    "slug": "astrantia",
+    "common_name": "Masterwort",
+    "scientific_name": "Astrantia major",
+    "category": "flower",
+    "subcategory": "shade perennial",
+    "days_to_germination": { "min": 30, "max": 90 },
+    "germination_soil_temp_f": { "min": 50, "max": 65 },
+    "days_to_maturity": { "min": 90, "max": 180 },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": { "min": 0, "max": 4 },
+      "note": "Plant divisions or fresh seed in moist, humus-rich soil in partial shade in early spring; in cool climates masterwort tolerates full sun if soil stays consistently moist."
+    },
+    "usda_zones": { "min": 4, "max": 7 },
+    "spacing_in": { "min": 18, "max": 24 },
+    "height_in": { "min": 24, "max": 36 },
+    "spread_in": { "min": 18, "max": 24 },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Plant in moist, humus-rich soil in partial shade, spacing 18–24 inches apart; masterwort produces intricate, old-fashioned flowers that look like pincushions or small Victorian posies — a papery star-shaped collar of white or pink bracts surrounds a dome of tiny individual florets — from late spring through midsummer, with repeat bloom if deadheaded promptly. It performs best where summers are cool and moist; hot, dry conditions cause premature dormancy. Cut flowering stems to the ground after bloom to encourage a fresh flush of foliage and a second round of flowers in early fall in cooler zones. Divide congested clumps every 3 years in early spring.",
+    "sources": [
+      "Missouri Botanical Garden Plant Finder",
+      "Royal Horticultural Society — Plant Selector",
+      "North Carolina State Extension — Plants Database"
+    ]
+  },
+  {
+    "slug": "thalictrum",
+    "common_name": "Meadow Rue",
+    "scientific_name": "Thalictrum aquilegiifolium",
+    "category": "flower",
+    "subcategory": "shade perennial",
+    "days_to_germination": { "min": 21, "max": 60 },
+    "germination_soil_temp_f": { "min": 55, "max": 65 },
+    "days_to_maturity": { "min": 90, "max": 120 },
+    "maturity_from": "transplant",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": { "min": -6, "max": -2 },
+      "note": "Direct sow fresh seed in fall for spring germination or start divisions in early spring; meadow rue self-sows freely in moist, partially shaded situations and requires no cold stratification when sown immediately after harvest."
+    },
+    "usda_zones": { "min": 4, "max": 9 },
+    "spacing_in": { "min": 18, "max": 24 },
+    "height_in": { "min": 36, "max": 60 },
+    "spread_in": { "min": 18, "max": 24 },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Sow fresh seed in fall or set out container plants in early spring in moist, humus-rich, well-drained soil in partial shade; meadow rue produces delicate, columbine-like glaucous blue-green foliage throughout the season that is handsome even without the fluffy mauve-pink flower clusters that emerge in early summer on stems reaching 3–5 feet. The feathery floral display is excellent for cutting and attracts beneficial insects. Plants are largely self-sufficient in moist shaded borders and woodland edges where they self-sow and naturalize over time. Staking is rarely necessary if plants are grown in sheltered, partially shaded sites; they may flop in exposed positions.",
+    "sources": [
+      "Missouri Botanical Garden Plant Finder",
+      "Royal Horticultural Society — Plant Selector",
+      "Pennsylvania Horticultural Society — Gold Medal Plants"
+    ]
+  },
+  {
+    "slug": "disporum",
+    "common_name": "Fairy Bells",
+    "scientific_name": "Disporum sessile",
+    "category": "flower",
+    "subcategory": "shade native",
+    "days_to_germination": { "min": 30, "max": 90 },
+    "germination_soil_temp_f": { "min": 55, "max": 65 },
+    "days_to_maturity": { "min": 180, "max": 365 },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": { "min": 0, "max": 4 },
+      "note": "Plant divisions or container plants in early spring in moist, humus-rich, acidic, well-drained soil in partial to full shade; fairy bells spread steadily by rhizomes and are ideal for naturalizing as a shade groundcover under deciduous trees."
+    },
+    "usda_zones": { "min": 3, "max": 8 },
+    "spacing_in": { "min": 12, "max": 18 },
+    "height_in": { "min": 12, "max": 24 },
+    "spread_in": { "min": 18, "max": 24 },
+    "sun": "shade",
+    "water": "moderate",
+    "directions": "Plant in moist, humus-rich, acidic soil in partial to full shade, spacing 12–18 inches apart; fairy bells is an elegant woodland perennial whose arching stems bear alternate, lance-shaped leaves and hang small creamy-white bell-shaped flowers at each tip in mid-spring, followed by glossy black berries that ripen in late summer. The variegated form 'Variegatum' with white-edged leaves is especially striking in deep shade. Plants spread slowly but steadily by rhizomes to form a refined groundcover that tolerates dry shade under established deciduous trees once established. Divide in early spring every 4–5 years to propagate and share; plants need little other maintenance.",
+    "sources": [
+      "Missouri Botanical Garden Plant Finder",
+      "North Carolina State Extension — Plants Database",
+      "Royal Horticultural Society — Plant Selector"
+    ]
+  },
+  {
+    "slug": "daphne",
+    "common_name": "Winter Daphne",
+    "scientific_name": "Daphne odora",
+    "category": "flower",
+    "subcategory": "shade shrub",
+    "days_to_germination": { "min": 60, "max": 90 },
+    "germination_soil_temp_f": { "min": 55, "max": 65 },
+    "days_to_maturity": { "min": 365, "max": 730 },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": { "min": -8, "max": -4 },
+      "note": "Plant in early fall or spring in sharply drained, slightly acidic, humus-rich soil in partial shade; daphne is notoriously difficult to transplant — choose the permanent location carefully as plants do not move well."
+    },
+    "usda_zones": { "min": 7, "max": 9 },
+    "spacing_in": { "min": 36, "max": 48 },
+    "height_in": { "min": 36, "max": 48 },
+    "spread_in": { "min": 36, "max": 48 },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Plant in sharply drained, humus-rich soil in partial shade and choose the site carefully — winter daphne resents transplanting and should be considered permanent once established. The intensely sweet fragrance of its pink-purple flower clusters from late winter to early spring is one of the most powerful and pleasant in the garden and can perfume the air for 20 feet or more. Excellent drainage is the single most critical cultural requirement; root rot in wet soil kills plants quickly and without warning, a phenomenon so common that gardeners joke that daphne 'dies for no reason.' Keep well-watered during dry spells in summer. All parts of the plant are toxic if ingested — handle with care and wash hands after pruning.",
+    "sources": [
+      "University of California Cooperative Extension",
+      "Missouri Botanical Garden Plant Finder",
+      "North Carolina State Extension — Plants Database"
+    ]
+  },
+  {
+    "slug": "bletilla",
+    "common_name": "Hardy Ground Orchid",
+    "scientific_name": "Bletilla striata",
+    "category": "flower",
+    "subcategory": "shade perennial",
+    "days_to_germination": { "min": 30, "max": 60 },
+    "germination_soil_temp_f": { "min": 60, "max": 70 },
+    "days_to_maturity": { "min": 90, "max": 180 },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": { "min": 0, "max": 4 },
+      "note": "Plant pseudobulb divisions 1–2 inches deep in moist, humus-rich, well-drained soil in partial shade in spring after the last frost; space 6–9 inches apart and mulch in zones 5–6 to protect from deep freeze."
+    },
+    "usda_zones": { "min": 5, "max": 9 },
+    "spacing_in": { "min": 6, "max": 9 },
+    "height_in": { "min": 12, "max": 18 },
+    "spread_in": { "min": 6, "max": 9 },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Plant pseudobulb (corm) divisions 1–2 inches deep in moist, humus-rich, well-drained soil in partial shade after the last frost; bletilla is the most reliably cold-hardy terrestrial orchid for temperate gardens, producing pleated, grass-like foliage and spikes of 5–8 magenta-pink to white miniature orchid flowers in late spring. The plants naturalize slowly by offsetting and over time form impressive clumps under trees or along shaded path edges. Mulch heavily in zones 5–6 in fall to protect the corms from deep frost; remove mulch in spring as shoots emerge. Divide congested clumps every 3–4 years in early spring before new growth begins to maintain vigor and increase your planting.",
+    "sources": [
+      "Missouri Botanical Garden Plant Finder",
+      "North Carolina State Extension — Plants Database",
+      "American Orchid Society"
+    ]
+  },
+  {
+    "slug": "phlox-divaricata",
+    "common_name": "Wild Blue Phlox",
+    "scientific_name": "Phlox divaricata",
+    "category": "flower",
+    "subcategory": "shade native",
+    "days_to_germination": { "min": 21, "max": 42 },
+    "germination_soil_temp_f": { "min": 50, "max": 65 },
+    "days_to_maturity": { "min": 60, "max": 90 },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": { "min": -6, "max": -2 },
+      "note": "Plant divisions or container plants in early fall or early spring in moist, humus-rich, well-drained soil in partial to full shade; wild blue phlox naturalizes well under deciduous trees as a spring-blooming groundcover."
+    },
+    "usda_zones": { "min": 3, "max": 9 },
+    "spacing_in": { "min": 9, "max": 12 },
+    "height_in": { "min": 9, "max": 15 },
+    "spread_in": { "min": 12, "max": 18 },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Plant in moist, humus-rich soil in partial to full shade under deciduous trees or shrubs, spacing 9–12 inches apart; wild blue phlox spreads gently by rooting stems to form a soft groundcover that produces fragrant lavender-blue to pale violet flowers for 3–4 weeks in mid-spring, bridging the gap between spring ephemerals and summer perennials. Unlike the mildew-prone garden phlox, the semi-evergreen foliage stays clean through summer and into fall. Trim stems by half after bloom to encourage denser growth and a possible repeat flush; the plant remains attractive even when not in flower. Self-sows lightly without becoming weedy and naturalizes readily in cool, moist, shaded sites.",
+    "sources": [
+      "Missouri Botanical Garden Plant Finder",
+      "Lady Bird Johnson Wildflower Center",
+      "North Carolina State Extension — Plants Database"
+    ]
+  },
+  {
+    "slug": "erythronium",
+    "common_name": "Trout Lily",
+    "scientific_name": "Erythronium americanum",
+    "category": "flower",
+    "subcategory": "shade native",
+    "days_to_germination": { "min": 180, "max": 365 },
+    "germination_soil_temp_f": { "min": 40, "max": 55 },
+    "days_to_maturity": { "min": 730, "max": 1825 },
+    "maturity_from": "transplant",
+    "sow_method": "bulb",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": { "min": -10, "max": -6 },
+      "note": "Plant fresh corms immediately in early fall — do not allow them to dry out — in deep, humus-rich, moist, well-drained soil in full shade under deciduous hardwoods; plant 3–4 inches deep and 3–4 inches apart."
+    },
+    "usda_zones": { "min": 3, "max": 8 },
+    "spacing_in": { "min": 3, "max": 4 },
+    "height_in": { "min": 4, "max": 8 },
+    "spread_in": { "min": 3, "max": 4 },
+    "sun": "shade",
+    "water": "moderate",
+    "directions": "Plant fresh corms in early fall in deep, humus-rich, moist, acidic soil in full shade under deciduous hardwoods, never allowing them to dry out between digging and replanting; trout lily is a native spring ephemeral of the Eastern U.S. forest floor whose mottled brown-and-green leaves (which resemble a brook trout's speckled flank) and nodding yellow flowers emerge in earliest spring before the tree canopy leafs out and go completely dormant by early summer. Single corms produce only a leaf for the first 3–7 years before producing two leaves and the first bloom — patience is essential. Enrich soil deeply with leaf mold before planting. Purchase only nursery-propagated corms; wild-dug plants almost never establish.",
+    "sources": [
+      "Missouri Botanical Garden Plant Finder",
+      "Lady Bird Johnson Wildflower Center",
+      "North Carolina State Extension — Plants Database"
+    ]
+  }
+]

@@ -1,0 +1,250 @@
+[
+  {
+    "slug": "pea",
+    "common_name": "Garden Pea",
+    "scientific_name": "Pisum sativum",
+    "category": "vegetable",
+    "subcategory": "legume",
+    "days_to_germination": { "min": 7, "max": 14 },
+    "germination_soil_temp_f": { "min": 45, "max": 75 },
+    "days_to_maturity": { "min": 55, "max": 70 },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "soil_workable",
+      "weeks_from_anchor": { "min": 0, "max": 4 },
+      "note": "Direct-sow seeds 1 inch deep as soon as soil can be worked in spring — peas tolerate light frosts and germinate in cool soil; in zone 6–9 a fall crop planted 6–8 weeks before first frost is often the most productive."
+    },
+    "usda_zones": { "min": 2, "max": 11 },
+    "spacing_in": { "min": 4, "max": 6 },
+    "height_in": { "min": 18, "max": 60 },
+    "spread_in": { "min": 4, "max": 8 },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Direct-sow seeds 1 inch deep and 4–6 inches apart as early in spring as the ground can be worked, well before the last frost; garden peas are cool-season vegetables that thrive in cool, moist conditions (45–75°F) and deteriorate rapidly when temperatures exceed 80°F, so early planting is essential for a good harvest before summer heat arrives. Bush types (60–80 cm) need no support; climbing types need a trellis or netting. Keep the soil consistently moist from flowering through pod fill — inconsistent watering causes poor pod fill. Harvest shelling peas when pods are plump but still bright green; snap peas when pods are full and sweet; snow peas when pods are flat and before seeds swell. Peas fix their own nitrogen and improve soil for subsequent crops.",
+    "sources": [
+      "University of Illinois Extension — Watch Your Garden Grow",
+      "Cornell Cooperative Extension Vegetable Growing Guide",
+      "Missouri Botanical Garden Plant Finder"
+    ]
+  },
+  {
+    "slug": "bean",
+    "common_name": "Green Bean",
+    "scientific_name": "Phaseolus vulgaris",
+    "category": "vegetable",
+    "subcategory": "legume",
+    "days_to_germination": { "min": 7, "max": 14 },
+    "germination_soil_temp_f": { "min": 60, "max": 85 },
+    "days_to_maturity": { "min": 50, "max": 65 },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": { "min": 0, "max": 2 },
+      "note": "Direct-sow seeds 1–2 inches deep after last frost when soil has warmed above 60°F; beans rot in cold, wet soil, so waiting for warm soil is more important than planting as early as possible. Succession-sow every 2–3 weeks for a continuous harvest."
+    },
+    "usda_zones": { "min": 2, "max": 11 },
+    "spacing_in": { "min": 4, "max": 6 },
+    "height_in": { "min": 18, "max": 24 },
+    "spread_in": { "min": 6, "max": 9 },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Direct-sow seeds 1–2 inches deep after last frost when soil has warmed above 60°F — inoculating seeds with rhizobium bacteria before planting improves nitrogen fixation and yields in soils where beans have not grown before; beans rot in cold, wet soil so waiting for warmth is essential. Bush beans form compact plants and produce all at once (60 days) while pole beans require a trellis and produce continuously over a longer season (65–80 days). Harvest green beans when pods are firm, snap crisply, and seeds inside are just beginning to swell — overmature pods become tough and stringy. Succession-sow every 2–3 weeks for a steady supply throughout summer. Avoid working in the bean patch when plants are wet to prevent spreading bacterial diseases.",
+    "sources": [
+      "University of Illinois Extension — Watch Your Garden Grow",
+      "Cornell Cooperative Extension Vegetable Growing Guide",
+      "USDA National Nutrient Database"
+    ]
+  },
+  {
+    "slug": "lettuce",
+    "common_name": "Lettuce",
+    "scientific_name": "Lactuca sativa",
+    "category": "vegetable",
+    "subcategory": "leafy green",
+    "days_to_germination": { "min": 7, "max": 10 },
+    "germination_soil_temp_f": { "min": 45, "max": 65 },
+    "days_to_maturity": { "min": 45, "max": 75 },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "soil_workable",
+      "weeks_from_anchor": { "min": 0, "max": 4 },
+      "note": "Scatter seeds thinly on prepared soil and press lightly onto the surface without covering — lettuce seeds need light to germinate; start as early as soil can be worked in spring, 2–4 weeks before last frost. Seeds germinate poorly above 80°F; refrigerate them for 1–2 days before sowing in summer."
+    },
+    "usda_zones": { "min": 2, "max": 11 },
+    "spacing_in": { "min": 6, "max": 12 },
+    "height_in": { "min": 6, "max": 12 },
+    "spread_in": { "min": 6, "max": 12 },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Scatter seeds on the surface of moist, well-drained, moderately fertile soil and press lightly without covering — lettuce seeds need light for germination; succession-sow every 2–3 weeks from early spring through fall for a continuous harvest. Thin seedlings to 6–12 inches apart (wider spacing produces larger heads). Lettuce prefers cool temperatures (60–70°F) and bolts quickly in summer heat, becoming bitter and inedible; choose heat-tolerant varieties for summer planting and provide afternoon shade in hot climates. The four main types — crisphead, butterhead, loose-leaf, and romaine — have different maturity times and uses but similar growing requirements. Harvest leaf types by cutting outer leaves; harvest head types when the head feels firm.",
+    "sources": [
+      "University of Illinois Extension — Watch Your Garden Grow",
+      "Cornell Cooperative Extension Vegetable Growing Guide",
+      "Missouri Botanical Garden Plant Finder"
+    ]
+  },
+  {
+    "slug": "onion",
+    "common_name": "Onion",
+    "scientific_name": "Allium cepa",
+    "category": "vegetable",
+    "subcategory": "allium",
+    "days_to_germination": { "min": 10, "max": 14 },
+    "germination_soil_temp_f": { "min": 60, "max": 75 },
+    "days_to_maturity": { "min": 100, "max": 120 },
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "soil_workable",
+      "weeks_from_anchor": { "min": -10, "max": -8 },
+      "note": "Start seeds indoors 10–12 weeks before transplanting out in early spring, or plant onion sets outdoors as soon as soil is workable; transplant seedlings when about pencil-thick, burying the green tops to 1 inch above the soil to encourage strong bulb development."
+    },
+    "usda_zones": { "min": 2, "max": 11 },
+    "spacing_in": { "min": 4, "max": 6 },
+    "height_in": { "min": 18, "max": 24 },
+    "spread_in": { "min": 4, "max": 6 },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Start seeds indoors 10–12 weeks before the outdoor transplant date in late winter, keeping them in bright light to prevent leggy growth; transplant pencil-thick seedlings outdoors as early as the ground can be worked and plant 4–6 inches apart in well-drained, fertile, slightly acidic soil. Onion bulb size is determined by day length: long-day varieties (zone 3–6) bulb in summer when days exceed 14–16 hours; short-day varieties (zone 7–10) bulb in spring when days are 10–12 hours; intermediate-day varieties work in zone 5–7. Keep well-weeded as onions compete poorly with weeds, and water evenly throughout bulb development to prevent cracking. Stop watering when tops begin to fall over naturally; cure bulbs in a warm, dry, well-ventilated location for 2–4 weeks before storage.",
+    "sources": [
+      "University of Illinois Extension — Watch Your Garden Grow",
+      "Cornell Cooperative Extension Vegetable Growing Guide",
+      "Texas A&M AgriLife Extension"
+    ]
+  },
+  {
+    "slug": "squash",
+    "common_name": "Summer Squash",
+    "scientific_name": "Cucurbita pepo",
+    "category": "vegetable",
+    "subcategory": "fruiting",
+    "days_to_germination": { "min": 5, "max": 10 },
+    "germination_soil_temp_f": { "min": 70, "max": 95 },
+    "days_to_maturity": { "min": 50, "max": 65 },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": { "min": 0, "max": 2 },
+      "note": "Direct-sow 2–3 seeds per hill, 1 inch deep, after last frost when soil has warmed above 65°F; thin to one plant per hill. Can be started indoors 3–4 weeks before last frost in individual pots but resents root disturbance at transplanting."
+    },
+    "usda_zones": { "min": 2, "max": 11 },
+    "spacing_in": { "min": 24, "max": 36 },
+    "height_in": { "min": 18, "max": 36 },
+    "spread_in": { "min": 24, "max": 48 },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Direct-sow seeds 1 inch deep in groups of 2–3 after last frost when soil is warm — squash seeds rot in cool, wet soil; thin to the strongest plant. Summer squash (zucchini, yellow crookneck, patty pan) is the most productive vegetable in the summer garden and is one of the easiest to grow, producing an abundant harvest within 50–65 days. Harvest frequently when fruits are small and tender (6–8 inches for zucchini) to encourage continuous production — fruits overlooked for even a few days become enormous and tough, and the plant stops producing. Water consistently at the base and avoid wetting the leaves to reduce powdery mildew. Squash vine borer is a major pest in the eastern US; row cover early in the season provides protection.",
+    "sources": [
+      "University of Illinois Extension — Watch Your Garden Grow",
+      "Cornell Cooperative Extension Vegetable Growing Guide",
+      "Clemson Cooperative Extension Home & Garden Information Center"
+    ]
+  },
+  {
+    "slug": "pepper",
+    "common_name": "Pepper",
+    "scientific_name": "Capsicum annuum",
+    "category": "vegetable",
+    "subcategory": "fruiting",
+    "days_to_germination": { "min": 10, "max": 14 },
+    "germination_soil_temp_f": { "min": 75, "max": 85 },
+    "days_to_maturity": { "min": 70, "max": 90 },
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": { "min": -10, "max": -8 },
+      "note": "Start seeds indoors 8–10 weeks before last frost at 75–85°F soil temperature — peppers germinate poorly below 70°F; transplant only after nights consistently stay above 55°F as cold soil dramatically stunts growth."
+    },
+    "usda_zones": { "min": 2, "max": 11 },
+    "spacing_in": { "min": 18, "max": 24 },
+    "height_in": { "min": 18, "max": 36 },
+    "spread_in": { "min": 18, "max": 24 },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Start seeds indoors 8–10 weeks before last frost at 75–85°F soil temperature — peppers need warm soil to germinate and grow; transplant after nights consistently stay above 55°F in full sun in fertile, well-drained, slightly acidic soil. Water consistently but do not overwater — even moisture is essential for preventing blossom drop and fruit set; inconsistent watering causes blossom drop during pollination. Peppers are one of the most productive vegetables for hot-summer climates, producing continuous harvests from midsummer through frost. Green peppers can be harvested at any time; allowing them to mature to red, yellow, or orange increases sweetness and vitamin C content significantly. In zone 8–11 peppers can be overwintered as perennials if protected from frost.",
+    "sources": [
+      "University of Illinois Extension — Watch Your Garden Grow",
+      "Clemson Cooperative Extension Home & Garden Information Center",
+      "Cornell Cooperative Extension Vegetable Growing Guide"
+    ]
+  },
+  {
+    "slug": "curly-kale",
+    "common_name": "Curly Kale",
+    "scientific_name": "Brassica oleracea var. sabellica",
+    "category": "vegetable",
+    "subcategory": "leafy green",
+    "days_to_germination": { "min": 5, "max": 8 },
+    "germination_soil_temp_f": { "min": 45, "max": 75 },
+    "days_to_maturity": { "min": 55, "max": 70 },
+    "maturity_from": "transplant",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": { "min": -10, "max": -8 },
+      "note": "Direct-sow seeds 1/4 inch deep 8–10 weeks before first fall frost for the main crop, or start indoors 4–6 weeks before last spring frost for spring planting. Kale is frost-hardy and actually improves in flavor after light frosts convert starches to sugars."
+    },
+    "usda_zones": { "min": 2, "max": 11 },
+    "spacing_in": { "min": 18, "max": 24 },
+    "height_in": { "min": 24, "max": 36 },
+    "spread_in": { "min": 18, "max": 24 },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Direct-sow seeds 1/4 inch deep 8–10 weeks before first fall frost, or start indoors 4–6 weeks before last spring frost; curly kale is one of the most cold-hardy and nutritious leafy vegetables available, withstanding temperatures well below freezing and actually improving dramatically in sweetness and flavor after repeated light frosts convert the leaf starches to sugars. Harvest outer leaves continuously from midsummer or fall onward, leaving the growing center intact — plants will continue producing through winter in zone 7–11 and into early spring in colder zones. Rich in vitamins K, A, and C as well as minerals; the tightly curled, dark-green to blue-green leaves are widely used raw in salads, massaged in dressings, and cooked in soups, stir-fries, and braised dishes. Excellent companion to short-day cover crops and a staple of the fall-to-spring kitchen garden.",
+    "sources": [
+      "University of Illinois Extension — Watch Your Garden Grow",
+      "Cornell Cooperative Extension Vegetable Growing Guide",
+      "Clemson Cooperative Extension Home & Garden Information Center"
+    ]
+  },
+  {
+    "slug": "lacinato-kale",
+    "common_name": "Lacinato Kale",
+    "scientific_name": "Brassica oleracea var. acephala",
+    "category": "vegetable",
+    "subcategory": "leafy green",
+    "days_to_germination": { "min": 5, "max": 8 },
+    "germination_soil_temp_f": { "min": 45, "max": 75 },
+    "days_to_maturity": { "min": 60, "max": 75 },
+    "maturity_from": "transplant",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": { "min": -10, "max": -8 },
+      "note": "Direct-sow seeds 1/4 inch deep 8–10 weeks before first fall frost for the main crop; alternatively start indoors 4–6 weeks before last spring frost. Lacinato kale matures more slowly than curly kale but holds better through winter and regrows vigorously in spring."
+    },
+    "usda_zones": { "min": 2, "max": 11 },
+    "spacing_in": { "min": 18, "max": 24 },
+    "height_in": { "min": 30, "max": 48 },
+    "spread_in": { "min": 18, "max": 24 },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Direct-sow seeds 1/4 inch deep 8–10 weeks before first fall frost or start indoors in early spring; lacinato kale (also called dinosaur kale, Tuscan kale, or cavolo nero) forms tall, upright plants with long, strap-like, deeply puckered, blue-black to dark-green leaves with a more tender texture and milder, slightly sweeter flavor than curly kale. It is one of the foundational vegetables of Tuscan cuisine, essential in ribollita and minestrone. Harvest by removing outer leaves as needed, working from the bottom of the stem upward — plants will continue producing from fall through winter and into spring in mild climates. Flavor intensifies significantly after frost exposure. A more elegant, slower-maturing, and culinary-preferred alternative to curly kale for the kitchen garden.",
+    "sources": [
+      "University of Illinois Extension — Watch Your Garden Grow",
+      "Cornell Cooperative Extension Vegetable Growing Guide",
+      "Missouri Botanical Garden Plant Finder"
+    ]
+  }
+]

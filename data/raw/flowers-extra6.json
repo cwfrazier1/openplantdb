@@ -1,0 +1,250 @@
+[
+  {
+    "slug": "rudbeckia",
+    "common_name": "Black-Eyed Susan",
+    "scientific_name": "Rudbeckia hirta",
+    "category": "flower",
+    "subcategory": "native perennial wildflower",
+    "days_to_germination": { "min": 7, "max": 14 },
+    "germination_soil_temp_f": { "min": 65, "max": 70 },
+    "days_to_maturity": { "min": 60, "max": 90 },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": { "min": -4, "max": 0 },
+      "note": "Direct-sow seeds in early spring on prepared soil surface in full sun — seeds need light and should not be covered; alternatively sow in fall for natural cold stratification and vigorous spring germination. Transplants started indoors 4–6 weeks before last frost bloom the same year."
+    },
+    "usda_zones": { "min": 3, "max": 9 },
+    "spacing_in": { "min": 12, "max": 24 },
+    "height_in": { "min": 18, "max": 36 },
+    "spread_in": { "min": 12, "max": 24 },
+    "sun": "full",
+    "water": "low",
+    "directions": "Direct-sow seeds on prepared soil surface in full sun in early spring or fall, pressing lightly without covering as seeds need light for germination; black-eyed Susan is one of the most reliably beautiful and adaptable native wildflowers of eastern and central North America, blooming with golden-yellow daisy-like flowers with distinctive dark chocolate-brown centers from midsummer through frost. It thrives in lean, dry to moderately fertile, well-drained soil and deteriorates in rich, wet conditions — never amend the soil with heavy fertilizers. A short-lived perennial that self-seeds freely to perpetuate naturally; leave seed heads standing through winter as they are a critical food source for goldfinches and other songbirds. Excellent as a cut flower and as a native companion for grasses and other prairie perennials.",
+    "sources": [
+      "USDA PLANTS Database",
+      "Lady Bird Johnson Wildflower Center",
+      "Missouri Botanical Garden Plant Finder"
+    ]
+  },
+  {
+    "slug": "echinacea-purpurea",
+    "common_name": "Purple Coneflower",
+    "scientific_name": "Echinacea purpurea",
+    "category": "flower",
+    "subcategory": "native perennial",
+    "days_to_germination": { "min": 10, "max": 21 },
+    "germination_soil_temp_f": { "min": 65, "max": 70 },
+    "days_to_maturity": { "min": 90, "max": 150 },
+    "maturity_from": "transplant",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": { "min": 0, "max": 4 },
+      "note": "Direct-sow seeds in fall for natural cold-moist stratification and spring germination, or start indoors 6–8 weeks before last frost after 8 weeks of cold stratification in the refrigerator; established transplants planted in spring or fall bloom reliably in their second year and beyond."
+    },
+    "usda_zones": { "min": 3, "max": 8 },
+    "spacing_in": { "min": 18, "max": 24 },
+    "height_in": { "min": 24, "max": 48 },
+    "spread_in": { "min": 18, "max": 24 },
+    "sun": "full",
+    "water": "low",
+    "directions": "Direct-sow seeds in fall in lean to moderately fertile, well-drained soil in full sun for natural cold stratification, or start from transplants; purple coneflower is one of the most ecologically valuable and widely grown native perennials of the eastern and central US prairie, producing large rosy-purple daisy-like flowers with prominent orange-brown spiny central cones from midsummer through early fall that attract an extraordinary diversity of pollinators. The roots and leaves have a centuries-long history as the most widely used plant in North American traditional medicine, and Echinacea extracts remain among the best-selling herbal supplements for immune support. Allow seed heads to mature and stand through winter — they are a primary food source for American goldfinches and many other songbirds. Grows best in lean soil; excessive fertility produces floppy stems and poor flowering.",
+    "sources": [
+      "USDA PLANTS Database",
+      "Lady Bird Johnson Wildflower Center",
+      "University of Wisconsin-Madison Extension"
+    ]
+  },
+  {
+    "slug": "gaillardia",
+    "common_name": "Blanket Flower",
+    "scientific_name": "Gaillardia x grandiflora",
+    "category": "flower",
+    "subcategory": "perennial wildflower",
+    "days_to_germination": { "min": 10, "max": 14 },
+    "germination_soil_temp_f": { "min": 65, "max": 70 },
+    "days_to_maturity": { "min": 60, "max": 90 },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": { "min": -2, "max": 2 },
+      "note": "Direct-sow seeds on prepared, well-drained soil surface in full sun around last frost date; seeds need light and should only be lightly pressed into the soil without covering. Can also be started indoors 4–6 weeks before last frost for same-year bloom."
+    },
+    "usda_zones": { "min": 3, "max": 10 },
+    "spacing_in": { "min": 12, "max": 18 },
+    "height_in": { "min": 18, "max": 30 },
+    "spread_in": { "min": 18, "max": 24 },
+    "sun": "full",
+    "water": "low",
+    "directions": "Direct-sow seeds on well-drained, lean to moderately fertile soil in full sun around last frost date, pressing lightly into the surface without covering; blanket flower is one of the longest-blooming and most heat-tolerant native perennials available, producing brilliant daisy-like flowers in bold combinations of red, orange, and yellow from early summer through hard frost with almost no care. Excellent drainage is critical — it is native to dry prairies and plainly cannot survive in wet, heavy soil, where it invariably rots. Deadhead spent flowers regularly to extend the season, and cut the plant back hard in midsummer if it becomes sprawling; it will re-bloom within weeks. Short-lived in humid, wet winters but self-seeds freely to maintain a colony; popular compact cultivars include 'Arizona Red Shades' and 'Goblin'.",
+    "sources": [
+      "USDA PLANTS Database",
+      "Lady Bird Johnson Wildflower Center",
+      "Colorado State University Extension"
+    ]
+  },
+  {
+    "slug": "helenium",
+    "common_name": "Sneezeweed",
+    "scientific_name": "Helenium autumnale",
+    "category": "flower",
+    "subcategory": "native perennial",
+    "days_to_germination": { "min": 10, "max": 14 },
+    "germination_soil_temp_f": { "min": 65, "max": 70 },
+    "days_to_maturity": { "min": 120, "max": 150 },
+    "maturity_from": "transplant",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": { "min": 0, "max": 4 },
+      "note": "Direct-sow seeds or plant container divisions in spring in full sun in moist, fertile, well-drained soil; sneezeweed tolerates seasonally wet conditions and is one of the few tall late-season native perennials that will perform in consistently moist to occasionally flooded sites."
+    },
+    "usda_zones": { "min": 3, "max": 8 },
+    "spacing_in": { "min": 18, "max": 24 },
+    "height_in": { "min": 36, "max": 60 },
+    "spread_in": { "min": 24, "max": 36 },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant container divisions or direct-sow seeds in spring in full sun in moist, fertile, well-drained to moderately wet soil; sneezeweed is a stately native perennial of moist eastern prairies and meadows that blooms in late summer through fall — when most other perennials have finished — with large, daisy-like flowers in rich shades of red, copper, bronze, yellow, and bicolors depending on cultivar. The common name comes not from the flowers causing sneezing, but from the historical use of dried leaves as a snuff; the flowers themselves are an important late-season nectar source for monarch butterflies and bumblebees. Pinch stems in early summer to reduce height and encourage branching, or the plants can grow quite tall and may need staking. Divide every 3–4 years in spring to maintain vigor; popular cultivars include 'Moerheim Beauty' (red-bronze) and 'Sahin's Early Flowerer'.",
+    "sources": [
+      "USDA PLANTS Database",
+      "Missouri Botanical Garden Plant Finder",
+      "North Carolina State Extension — Plants Database"
+    ]
+  },
+  {
+    "slug": "nepeta",
+    "common_name": "Catmint",
+    "scientific_name": "Nepeta x faassenii",
+    "category": "flower",
+    "subcategory": "perennial groundcover",
+    "days_to_germination": { "min": 14, "max": 21 },
+    "germination_soil_temp_f": { "min": 65, "max": 70 },
+    "days_to_maturity": { "min": 90, "max": 120 },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": { "min": 0, "max": 4 },
+      "note": "Plant divisions or container plants in spring or fall in well-drained, lean to moderately fertile, neutral to slightly alkaline soil in full sun to partial shade; catmint spreads into mounds and works well as a low groundcover or edging plant along pathways and borders."
+    },
+    "usda_zones": { "min": 4, "max": 8 },
+    "spacing_in": { "min": 18, "max": 24 },
+    "height_in": { "min": 18, "max": 24 },
+    "spread_in": { "min": 18, "max": 36 },
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant divisions or container plants in spring or fall in well-drained, lean to moderately fertile soil in full sun; catmint forms attractive soft mounds of grey-green, aromatic foliage smothered in lavender-blue flower spikes from late spring through early summer, and again in fall after cutting back. It is one of the most reliable, long-blooming, and drought-tolerant perennials for the sunny border, thriving in poor dry soils where other plants fail. Shear the entire plant by one-half after the first flush of bloom fades — typically in early July — and within 3–4 weeks a full second flush of flowers will appear and continue into fall. Note that catmint, like catnip (N. cataria), can attract intense interest from cats; 'Walker's Low' and 'Six Hills Giant' are popular landscape cultivars.",
+    "sources": [
+      "Royal Horticultural Society — Growing Guide",
+      "Missouri Botanical Garden Plant Finder",
+      "Cornell University Cooperative Extension"
+    ]
+  },
+  {
+    "slug": "linaria",
+    "common_name": "Purple Toadflax",
+    "scientific_name": "Linaria purpurea",
+    "category": "flower",
+    "subcategory": "perennial",
+    "days_to_germination": { "min": 10, "max": 21 },
+    "germination_soil_temp_f": { "min": 60, "max": 70 },
+    "days_to_maturity": { "min": 60, "max": 90 },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": { "min": -2, "max": 2 },
+      "note": "Direct-sow seeds on the soil surface in early spring or fall in well-drained, lean to moderately fertile, neutral to slightly alkaline soil in full sun; seeds need light and should not be covered. Linaria self-seeds freely and will naturalize in gravel, dry banks, and cracks in walls."
+    },
+    "usda_zones": { "min": 5, "max": 9 },
+    "spacing_in": { "min": 9, "max": 12 },
+    "height_in": { "min": 24, "max": 36 },
+    "spread_in": { "min": 9, "max": 12 },
+    "sun": "full",
+    "water": "low",
+    "directions": "Scatter seeds on bare, well-drained, lean soil in full sun in early spring or fall, pressing lightly onto the surface without covering; purple toadflax is a slender, airy perennial with delicate narrow leaves and upright spikes of tiny snapdragon-like flowers in lavender-purple (and white in the cultivar 'Canon Went') that bloom from late spring through midsummer and intermittently afterward. Exceptionally drought-tolerant and suited to dry, stony, or poor alkaline soils where it self-seeds and naturalizes freely in gravel gardens, dry banks, old walls, and Mediterranean-style plantings. The main flush of bloom comes in early summer; cutting back spent stems encourages repeat flowering through autumn. Allow some seeds to scatter naturally each year to maintain the colony.",
+    "sources": [
+      "Royal Horticultural Society — Growing Guide",
+      "Missouri Botanical Garden Plant Finder",
+      "Plants For A Future Database"
+    ]
+  },
+  {
+    "slug": "polemonium",
+    "common_name": "Jacob's Ladder",
+    "scientific_name": "Polemonium caeruleum",
+    "category": "flower",
+    "subcategory": "shade perennial",
+    "days_to_germination": { "min": 14, "max": 21 },
+    "germination_soil_temp_f": { "min": 60, "max": 65 },
+    "days_to_maturity": { "min": 120, "max": 150 },
+    "maturity_from": "transplant",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": { "min": 0, "max": 4 },
+      "note": "Direct-sow seeds in fall in partial shade in moist, humus-rich, well-drained soil for spring germination, or start indoors 8–10 weeks before last frost after 4–6 weeks of cold stratification at 35–40°F. Transplant in early spring to partially shaded beds."
+    },
+    "usda_zones": { "min": 3, "max": 7 },
+    "spacing_in": { "min": 12, "max": 18 },
+    "height_in": { "min": 18, "max": 36 },
+    "spread_in": { "min": 12, "max": 18 },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Direct-sow seeds in fall or plant container divisions in early spring in moist, humus-rich, well-drained soil in partial shade; jacob's ladder forms an attractive clump of ladder-like, pinnately compound leaves topped in late spring and early summer with clusters of cup-shaped, lavender-blue flowers with prominent yellow-orange stamens that give the plant an elegant, airy presence in the shade garden. It performs best in cool to moderate climates (zone 3–7) with consistent moisture and afternoon shade; plants often go partially dormant in the heat of summer in warmer climates and may require some shade protection there. Divide congested clumps every 3–4 years in early fall; it self-seeds modestly but not aggressively. The cultivar 'Brise d'Anjou' offers striking cream-variegated foliage that lights up shaded corners.",
+    "sources": [
+      "Missouri Botanical Garden Plant Finder",
+      "Royal Horticultural Society — Growing Guide",
+      "University of Minnesota Extension"
+    ]
+  },
+  {
+    "slug": "siberian-bugloss",
+    "common_name": "Siberian Bugloss",
+    "scientific_name": "Brunnera macrophylla",
+    "category": "flower",
+    "subcategory": "shade perennial",
+    "days_to_germination": { "min": 14, "max": 21 },
+    "germination_soil_temp_f": { "min": 55, "max": 65 },
+    "days_to_maturity": { "min": 90, "max": 150 },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": { "min": 0, "max": 4 },
+      "note": "Plant divisions or container plants in spring or early fall in moist, humus-rich, well-drained soil in partial to full shade; Siberian bugloss is one of the most rewarding shade perennials for zone 3–7 gardens, emerging very early in spring with small blue forget-me-not flowers before the large heart-shaped leaves expand."
+    },
+    "usda_zones": { "min": 3, "max": 7 },
+    "spacing_in": { "min": 12, "max": 18 },
+    "height_in": { "min": 12, "max": 18 },
+    "spread_in": { "min": 18, "max": 24 },
+    "sun": "shade",
+    "water": "moderate",
+    "directions": "Plant divisions or container plants in moist, humus-rich, well-drained soil in partial to full shade in spring or early fall; Siberian bugloss (brunnera) earns its place in any shade garden by blooming in early spring with clouds of tiny, pure-blue forget-me-not flowers that appear almost before any other shade perennial stirs, followed by the large, heart-shaped leaves that expand to form a handsome, weed-suppressing groundcover through summer and fall. The foliage is the main long-season asset — keep soil consistently moist to prevent the leaf edges from scorching in heat or drought. The silver-leafed cultivar 'Jack Frost' and the deep-veined 'Looking Glass' are outstanding forms whose heavily silver-marked leaves provide exceptional shade-garden impact even when not in bloom. Divide congested clumps every 4–5 years in early spring.",
+    "sources": [
+      "Missouri Botanical Garden Plant Finder",
+      "Royal Horticultural Society — Growing Guide",
+      "University of Minnesota Extension"
+    ]
+  }
+]

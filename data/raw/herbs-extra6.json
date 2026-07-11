@@ -1,0 +1,219 @@
+[
+  {
+    "slug": "tarragon",
+    "common_name": "French Tarragon",
+    "scientific_name": "Artemisia dracunculus var. sativa",
+    "category": "herb",
+    "subcategory": "culinary perennial",
+    "days_to_germination": { "min": 14, "max": 21 },
+    "germination_soil_temp_f": { "min": 60, "max": 70 },
+    "days_to_maturity": { "min": 60, "max": 90 },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": { "min": 0, "max": 4 },
+      "note": "Plant rooted stem cuttings or divisions in spring in well-drained, lean, slightly alkaline soil in full sun; French tarragon does not produce viable seed and must be propagated vegetatively — purchase only plants labeled Artemisia dracunculus var. sativa to ensure the true French culinary variety."
+    },
+    "usda_zones": { "min": 4, "max": 8 },
+    "spacing_in": { "min": 18, "max": 24 },
+    "height_in": { "min": 18, "max": 30 },
+    "spread_in": { "min": 18, "max": 24 },
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant rooted cuttings or divisions in spring in well-drained, lean to moderately fertile, slightly alkaline soil in full sun; French tarragon is one of the defining herbs of classical French cuisine, with long, narrow, glossy dark-green leaves that carry an intense, distinctive anise-like flavor irreplaceable in béarnaise sauce, fines herbes blends, tarragon vinegar, and chicken dishes. It does not produce viable seed and must be propagated vegetatively — any plant sold as 'tarragon' from seed is the inferior Russian tarragon (A. dracunculus) with little flavor. Harvest by snipping stem tips regularly from spring through fall; the plant dies back to the ground in winter and re-emerges from the roots in spring. Divide established clumps every 2–3 years in spring, replanting vigorous outer portions to maintain flavor intensity.",
+    "sources": [
+      "University of Illinois Extension — Herb Gardening",
+      "Purdue University Horticultural Sciences — Herbs",
+      "Missouri Botanical Garden Plant Finder"
+    ]
+  },
+  {
+    "slug": "savory",
+    "common_name": "Summer Savory",
+    "scientific_name": "Satureja hortensis",
+    "category": "herb",
+    "subcategory": "culinary annual",
+    "days_to_germination": { "min": 10, "max": 14 },
+    "germination_soil_temp_f": { "min": 60, "max": 70 },
+    "days_to_maturity": { "min": 60, "max": 75 },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": { "min": 0, "max": 2 },
+      "note": "Direct-sow seeds on the surface of prepared soil after last frost date in full sun in well-drained, lean, slightly alkaline to neutral soil; summer savory germinates readily in warm soil and can also be started indoors 4–6 weeks before the last frost."
+    },
+    "usda_zones": { "min": 2, "max": 11 },
+    "spacing_in": { "min": 12, "max": 15 },
+    "height_in": { "min": 12, "max": 18 },
+    "spread_in": { "min": 12, "max": 18 },
+    "sun": "full",
+    "water": "low",
+    "directions": "Sow seeds directly on the surface of well-drained, lean to moderately fertile, neutral to slightly alkaline soil in full sun after last frost; summer savory germinates quickly in warm conditions and thins to 12–15 inches apart for best branching. It has a peppery, thyme-like flavor with slightly more intensity than its perennial relative winter savory, and it is the classic herb for seasoning fresh or dried beans (in German it is called Bohnenkraut, bean herb), as well as poultry, sausages, stuffings, and herb vinegars. Harvest regularly by cutting stem tips to keep plants bushy and delay flowering, as flavor declines after bloom; leaves are most aromatic just before the small pink or white flowers open. Dry whole sprigs tied in small bundles in a warm, well-ventilated place — summer savory dries well and retains excellent flavor.",
+    "sources": [
+      "University of Illinois Extension — Herb Gardening",
+      "Purdue University Horticultural Sciences — Herbs",
+      "Herb Society of America"
+    ]
+  },
+  {
+    "slug": "agastache",
+    "common_name": "Anise Hyssop",
+    "scientific_name": "Agastache foeniculum",
+    "category": "herb",
+    "subcategory": "culinary native perennial",
+    "days_to_germination": { "min": 10, "max": 14 },
+    "germination_soil_temp_f": { "min": 65, "max": 70 },
+    "days_to_maturity": { "min": 60, "max": 90 },
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": { "min": -6, "max": -4 },
+      "note": "Start seeds indoors 4–6 weeks before last frost at 65–70°F, pressing seeds onto moist mix surface without covering; transplant after last frost in full sun in well-drained, moderately fertile soil. Seeds can also be direct-sown in fall for natural cold stratification and spring germination."
+    },
+    "usda_zones": { "min": 4, "max": 9 },
+    "spacing_in": { "min": 12, "max": 18 },
+    "height_in": { "min": 24, "max": 48 },
+    "spread_in": { "min": 12, "max": 24 },
+    "sun": "full",
+    "water": "low",
+    "directions": "Start seeds indoors 4–6 weeks before last frost, pressing them onto moist seed-starting mix without covering as they need light for germination, then transplant after last frost in full sun in well-drained, moderately fertile soil; anise hyssop is a beautiful native prairie herb with tall lavender-blue flower spikes from midsummer through fall that butterflies, hummingbirds, and native bees find irresistible. The anise-scented leaves and flowers are used to make a pleasant herbal tea, as a garnish for salads and desserts, and as a flavoring in baked goods. Once established it is drought-tolerant and reliably self-seeds to persist in the garden; deadhead some but not all spent flowers to control the colony size. In the upper Midwest it is one of the most productive pollinator plants for the summer prairie garden.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "USDA PLANTS Database",
+      "University of Wisconsin-Madison Extension"
+    ]
+  },
+  {
+    "slug": "monarda",
+    "common_name": "Bee Balm",
+    "scientific_name": "Monarda didyma",
+    "category": "herb",
+    "subcategory": "culinary native perennial",
+    "days_to_germination": { "min": 14, "max": 21 },
+    "germination_soil_temp_f": { "min": 60, "max": 70 },
+    "days_to_maturity": { "min": 90, "max": 120 },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": { "min": 0, "max": 4 },
+      "note": "Plant divisions or container plants in spring or fall in moist, well-drained, moderately fertile soil in full sun to partial shade; space 18–24 inches apart as bee balm spreads vigorously by underground runners and needs room. Improve air circulation by avoiding overcrowding to reduce powdery mildew."
+    },
+    "usda_zones": { "min": 3, "max": 9 },
+    "spacing_in": { "min": 18, "max": 24 },
+    "height_in": { "min": 24, "max": 48 },
+    "spread_in": { "min": 18, "max": 36 },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant divisions or container plants in moist, well-drained, moderately fertile soil in full sun to partial shade, spacing 18–24 inches apart; bee balm is an eastern North American native herb with shaggy, whorled, scarlet or pink flower heads from midsummer through early fall that are the preferred nectar source of ruby-throated hummingbirds in eastern gardens. The leaves and flowers have a bergamot-orange flavor and aroma, making them valuable for brewing Oswego tea (historically used by the Oswego nation and early American colonists), garnishing salads, and flavoring jellies. Powdery mildew is a persistent issue in humid climates — choose resistant cultivars like 'Jacob Cline', 'Raspberry Wine', or 'Gardenview Scarlet'. Divide overcrowded clumps every 2–3 years in spring; replant vigorous outer portions and discard the worn-out center.",
+    "sources": [
+      "USDA PLANTS Database",
+      "Lady Bird Johnson Wildflower Center",
+      "Missouri Botanical Garden Plant Finder"
+    ]
+  },
+  {
+    "slug": "tricolor-sage",
+    "common_name": "Tricolor Sage",
+    "scientific_name": "Salvia officinalis 'Tricolor'",
+    "category": "herb",
+    "subcategory": "culinary perennial",
+    "days_to_germination": { "min": 14, "max": 21 },
+    "germination_soil_temp_f": { "min": 65, "max": 70 },
+    "days_to_maturity": { "min": 60, "max": 90 },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": { "min": 0, "max": 4 },
+      "note": "Root tip cuttings in moist potting mix in spring or take semi-ripe cuttings in summer; tricolor sage does not come true from seed and must be propagated by cuttings. Plant in well-drained, neutral to slightly alkaline, lean soil in full sun after last frost."
+    },
+    "usda_zones": { "min": 6, "max": 9 },
+    "spacing_in": { "min": 18, "max": 24 },
+    "height_in": { "min": 18, "max": 24 },
+    "spread_in": { "min": 18, "max": 24 },
+    "sun": "full",
+    "water": "low",
+    "directions": "Root tip cuttings in moist potting mix in spring or take semi-ripe cuttings in summer and plant in well-drained, lean, neutral to slightly alkaline soil in full sun after last frost; tricolor sage is an ornamental-culinary variety of common sage whose leaves are splashed with irregular cream, pink, and green variegation that makes it one of the most striking foliage herbs for the ornamental kitchen garden. The flavor and fragrance are the same as common sage — used for the same culinary purposes in poultry, stuffings, bean dishes, and herb butters — but the striking leaf coloration adds decorative value that green sage cannot match. Less cold-hardy than the plain-leaf species and may die back in zone 6 winters; take cuttings each fall as insurance. Prune lightly in spring to remove winter-damaged stems and encourage bushy growth.",
+    "sources": [
+      "Royal Horticultural Society — Growing Guide",
+      "Missouri Botanical Garden Plant Finder",
+      "Herb Society of America"
+    ]
+  },
+  {
+    "slug": "salvia-elegans",
+    "common_name": "Pineapple Sage",
+    "scientific_name": "Salvia elegans",
+    "category": "herb",
+    "subcategory": "tropical culinary sage",
+    "days_to_germination": { "min": 14, "max": 21 },
+    "germination_soil_temp_f": { "min": 65, "max": 75 },
+    "days_to_maturity": { "min": 90, "max": 120 },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": { "min": 0, "max": 2 },
+      "note": "Root stem cuttings in moist potting mix at 65–75°F in spring and plant after all frost danger has passed in full sun to partial shade in fertile, well-drained soil in zone 8–11; in colder climates grow as a container plant and bring indoors before frost."
+    },
+    "usda_zones": { "min": 8, "max": 11 },
+    "spacing_in": { "min": 24, "max": 36 },
+    "height_in": { "min": 36, "max": 60 },
+    "spread_in": { "min": 24, "max": 36 },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Root stem cuttings in moist potting mix in spring and plant after all frost danger has passed in full sun to partial shade in fertile, well-drained soil; pineapple sage is a large-leaved Mexican native with a striking, true pineapple fragrance that makes it one of the most popular ornamental-culinary herbs for Gulf Coast and zone 8–11 gardens. The soft, bright-green leaves are used fresh in fruit salads, herbal teas, cocktails, and desserts where the pineapple-mint flavor adds an unexpected tropical note; the long stems are also attractive in floral arrangements. Brilliant scarlet tubular flowers appear in late fall and winter in warm climates, making pineapple sage one of the best late-season hummingbird plants for southern gardens. In zone 8 it may freeze to the ground but re-emerges from the roots in spring; take cuttings before first frost in colder climates to overwinter indoors.",
+    "sources": [
+      "University of Florida IFAS Extension",
+      "Texas A&M AgriLife Extension",
+      "Herb Society of America"
+    ]
+  },
+  {
+    "slug": "violet",
+    "common_name": "Sweet Violet",
+    "scientific_name": "Viola odorata",
+    "category": "herb",
+    "subcategory": "shade edible perennial",
+    "days_to_germination": { "min": 14, "max": 21 },
+    "germination_soil_temp_f": { "min": 55, "max": 65 },
+    "days_to_maturity": { "min": 60, "max": 90 },
+    "maturity_from": "transplant",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": { "min": 0, "max": 4 },
+      "note": "Direct-sow seeds in fall or early spring in moist, humus-rich, well-drained soil in partial shade to dappled light under deciduous trees; sweet violet self-seeds freely and spreads by stolons to form fragrant groundcover carpets. Cold stratification improves germination rate."
+    },
+    "usda_zones": { "min": 5, "max": 9 },
+    "spacing_in": { "min": 6, "max": 9 },
+    "height_in": { "min": 4, "max": 6 },
+    "spread_in": { "min": 9, "max": 12 },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Direct-sow seeds in fall or early spring in moist, humus-rich, well-drained soil in partial shade, pressing seeds lightly onto the surface; sweet violet is one of the oldest and most beloved edible flowers in the Western culinary tradition, producing intensely fragrant purple, white, or pink flowers in early spring that are crystallized as cake decorations, used fresh in salads and cocktails, infused into syrups and liqueurs, and made into jelly and jam with a delicate floral flavor. The heart-shaped leaves are also edible and nutritious, rich in vitamins A and C. It spreads freely by stolons and self-seeding to form a fragrant groundcover under deciduous trees; this self-spreading habit makes it excellent for naturalizing under shrubs and along shaded path edges. In zone 5–9 it is reliably hardy and essentially evergreen in mild winters.",
+    "sources": [
+      "Royal Horticultural Society — Growing Guide",
+      "Plants For A Future Database",
+      "Herb Society of America"
+    ]
+  }
+]

@@ -1,0 +1,157 @@
+[
+  {
+    "slug": "sunchoke",
+    "common_name": "Jerusalem Artichoke",
+    "scientific_name": "Helianthus tuberosus",
+    "category": "vegetable",
+    "subcategory": "root vegetable",
+    "days_to_germination": { "min": 14, "max": 21 },
+    "germination_soil_temp_f": { "min": 50, "max": 65 },
+    "days_to_maturity": { "min": 120, "max": 150 },
+    "maturity_from": "transplant",
+    "sow_method": "tuber",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": { "min": -2, "max": 2 },
+      "note": "Plant tuber sections (each with 2–3 eyes) 3–5 inches deep and 12–18 inches apart in any well-drained soil in full sun; Jerusalem artichoke spreads aggressively by underground tubers and should be contained or given a dedicated bed."
+    },
+    "usda_zones": { "min": 3, "max": 9 },
+    "spacing_in": { "min": 12, "max": 18 },
+    "height_in": { "min": 72, "max": 120 },
+    "spread_in": { "min": 18, "max": 36 },
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant tuber sections 3–5 inches deep around the last frost date in any well-drained soil — Jerusalem artichoke is remarkably tolerant of poor soils, drought, and neglect, producing masses of crunchy, nutty, sweet tubers in autumn that can be harvested after frost improves their flavor by converting inulin to sugars. The plants reach 6–10 feet tall and produce small yellow sunflowers in late summer. Harvest tubers from fall through early spring by digging; leave some tubers in the ground to re-sprout and produce next year's crop. Note that inulin is not digested by most people and can cause significant gas — start with small servings and cook thoroughly to reduce this effect.",
+    "sources": [
+      "University of Minnesota Extension",
+      "Penn State Extension",
+      "Johnny's Selected Seeds Growers Library"
+    ]
+  },
+  {
+    "slug": "yard-long-bean",
+    "common_name": "Yard-Long Bean",
+    "scientific_name": "Vigna unguiculata subsp. sesquipedalis",
+    "category": "vegetable",
+    "subcategory": "legume",
+    "days_to_germination": { "min": 7, "max": 14 },
+    "germination_soil_temp_f": { "min": 65, "max": 85 },
+    "days_to_maturity": { "min": 55, "max": 80 },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": { "min": 2, "max": 4 },
+      "note": "Direct sow after all frost danger passes and soil is warm (at least 65°F) near a trellis, fence, or other climbing support at least 5 feet tall; plants produce best in hot weather and are an excellent summer crop in zones 8-11."
+    },
+    "usda_zones": { "min": 7, "max": 11 },
+    "spacing_in": { "min": 6, "max": 12 },
+    "height_in": { "min": 72, "max": 120 },
+    "spread_in": { "min": 12, "max": 18 },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Direct sow seeds 1 inch deep after the soil reaches 65°F and all frost danger has passed, spacing 6–12 inches apart along a sturdy trellis or fence at least 5 feet tall; yard-long beans (also called asparagus beans or Chinese long beans) are vigorous tropical vines that thrive in hot, humid summers and outperform standard snap beans in zones 8–11, producing slender pods that can reach 18–24 inches long and should be harvested when they reach pencil thickness, typically at 12–18 inches, before seeds bulge. Harvest every 2–3 days to keep vines productive through the season. Unlike common beans, these plants are drought-tolerant once established but perform best with consistent moisture and do not require staking if pods are kept picked.",
+    "sources": [
+      "University of Florida IFAS Extension",
+      "Johnny's Selected Seeds Growers Library",
+      "Asian Vegetable Research and Development Center"
+    ]
+  },
+  {
+    "slug": "fennel",
+    "common_name": "Florence Fennel",
+    "scientific_name": "Foeniculum vulgare var. azoricum",
+    "category": "vegetable",
+    "subcategory": "bulb vegetable",
+    "days_to_germination": { "min": 7, "max": 14 },
+    "germination_soil_temp_f": { "min": 60, "max": 75 },
+    "days_to_maturity": { "min": 65, "max": 90 },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": { "min": -4, "max": 0 },
+      "note": "Direct sow in spring 4 weeks before last frost or in late summer for a fall crop; fennel bolts readily in hot weather and should be timed to mature in cool weather. Transplanting is not recommended as fennel dislikes root disturbance."
+    },
+    "usda_zones": { "min": 4, "max": 11 },
+    "spacing_in": { "min": 6, "max": 12 },
+    "height_in": { "min": 18, "max": 36 },
+    "spread_in": { "min": 12, "max": 18 },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Direct sow seeds 1/4 inch deep in spring 4 weeks before last frost or in late summer for fall harvest, thinning to 6–12 inches apart; Florence fennel (finocchio) forms a crisp, anise-flavored bulb at the base of overlapping leaf sheaths and should be harvested when the bulb reaches 3–4 inches in diameter before it bolts in heat. Hill soil up around the bulb base 2–3 weeks before harvest to blanch it to a sweeter, more tender white. Succession-sow every 3 weeks for an extended harvest. Keep fennel away from tomatoes, peppers, and most garden vegetables as it produces allelochemicals that inhibit their growth — plant it at the garden edge or in its own dedicated bed.",
+    "sources": [
+      "Cornell Cooperative Extension",
+      "University of California Cooperative Extension",
+      "Johnny's Selected Seeds Growers Library"
+    ]
+  },
+  {
+    "slug": "nigella",
+    "common_name": "Love-in-a-Mist",
+    "scientific_name": "Nigella damascena",
+    "category": "flower",
+    "subcategory": "annual",
+    "days_to_germination": { "min": 10, "max": 14 },
+    "germination_soil_temp_f": { "min": 60, "max": 70 },
+    "days_to_maturity": { "min": 65, "max": 80 },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": { "min": -4, "max": 0 },
+      "note": "Direct sow in early spring as soon as soil can be worked; press seeds into the soil surface or barely cover with 1/8 inch of fine soil. Succession-sow every 2 weeks through spring for continuous bloom."
+    },
+    "usda_zones": { "min": 2, "max": 11 },
+    "spacing_in": { "min": 6, "max": 9 },
+    "height_in": { "min": 12, "max": 18 },
+    "spread_in": { "min": 6, "max": 9 },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Direct sow in early spring 4 weeks before last frost by pressing seeds lightly into the soil surface in full sun; nigella does not transplant well because of its taproot, so sow in place and thin seedlings to 6–9 inches apart after they emerge. The delicate blue, white, or pink flowers are surrounded by a wispy cage of thread-like green bracts that give the plant its fanciful name, and the inflated, papery seed pods that follow are equally ornamental and dry beautifully for flower arrangements. Succession-plant every 2–3 weeks through spring for continuous bloom; plants decline and set seed in summer heat. Nigella self-sows reliably and will naturalize in cool-season beds once established.",
+    "sources": [
+      "Royal Horticultural Society — Plant Selector",
+      "Missouri Botanical Garden Plant Finder",
+      "Johnny's Selected Seeds Growers Library"
+    ]
+  },
+  {
+    "slug": "rice",
+    "common_name": "Rice",
+    "scientific_name": "Oryza sativa",
+    "category": "vegetable",
+    "subcategory": "grain",
+    "days_to_germination": { "min": 7, "max": 14 },
+    "germination_soil_temp_f": { "min": 70, "max": 90 },
+    "days_to_maturity": { "min": 90, "max": 150 },
+    "maturity_from": "seed",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": { "min": 4, "max": 8 },
+      "note": "Start seeds indoors 6–8 weeks before transplanting; transplant when soil temperature reaches 70°F. In warm climates (zones 9–11) direct sow in flooded beds after last frost."
+    },
+    "usda_zones": { "min": 8, "max": 11 },
+    "spacing_in": { "min": 6, "max": 9 },
+    "height_in": { "min": 18, "max": 48 },
+    "spread_in": { "min": 6, "max": 9 },
+    "sun": "full",
+    "water": "high",
+    "directions": "Start seeds in shallow flats of moist potting mix at 70–80°F, then transplant 6–9-inch seedlings to flooded paddies, water gardens, or large containers filled with heavy garden soil and submerged under 2–4 inches of standing water; upland (dry-land) varieties can be grown in moist garden beds without flooding but require consistently wet soil throughout the season. Rice matures in 90–150 days depending on variety — grain is ready when the panicle droops and grains turn golden-yellow. Drain standing water 3–4 weeks before harvest and allow the plant to dry on the stalk before cutting. Threshing by hand is practical for small plots.",
+    "sources": [
+      "University of Arkansas Cooperative Extension Service",
+      "Texas A&M AgriLife Extension",
+      "USDA National Agricultural Library"
+    ]
+  }
+]

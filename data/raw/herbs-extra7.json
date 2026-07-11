@@ -1,0 +1,157 @@
+[
+  {
+    "slug": "pycnanthemum",
+    "common_name": "Mountain Mint",
+    "scientific_name": "Pycnanthemum virginianum",
+    "category": "herb",
+    "subcategory": "native herb",
+    "days_to_germination": { "min": 14, "max": 30 },
+    "germination_soil_temp_f": { "min": 60, "max": 70 },
+    "days_to_maturity": { "min": 90, "max": 120 },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": { "min": 0, "max": 4 },
+      "note": "Plant divisions or container plants in moist to average, well-drained soil in full sun in spring; mountain mint spreads aggressively by rhizomes and is best contained or given space to naturalize in a pollinator garden or meadow planting."
+    },
+    "usda_zones": { "min": 4, "max": 9 },
+    "spacing_in": { "min": 18, "max": 24 },
+    "height_in": { "min": 18, "max": 36 },
+    "spread_in": { "min": 24, "max": 36 },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant divisions in moist to average, well-drained soil in full sun, spacing 18–24 inches apart; mountain mint is a native Eastern North American herb whose square stems and small white flowers appear in mid-to-late summer and are among the most powerful pollinator attractors in the native plant palette, drawing dozens of bee, wasp, and butterfly species simultaneously. The foliage has an intense peppermint-spearmint fragrance when brushed and can be dried for tea, used fresh in beverages, or as a culinary mint substitute. Plants spread vigorously by underground rhizomes — contain in raised beds or mow surrounding areas annually to limit spread. Fresh or dried leaves repel insects effectively.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "Missouri Botanical Garden Plant Finder",
+      "North Carolina State Extension — Plants Database"
+    ]
+  },
+  {
+    "slug": "tulbaghia",
+    "common_name": "Society Garlic",
+    "scientific_name": "Tulbaghia violacea",
+    "category": "herb",
+    "subcategory": "aromatic perennial",
+    "days_to_germination": { "min": 14, "max": 21 },
+    "germination_soil_temp_f": { "min": 65, "max": 75 },
+    "days_to_maturity": { "min": 90, "max": 180 },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": { "min": 2, "max": 6 },
+      "note": "Plant divisions or container plants in well-drained soil in full sun to partial shade in spring after the last frost; society garlic is drought-tolerant once established and thrives in the heat of zones 7–11."
+    },
+    "usda_zones": { "min": 7, "max": 11 },
+    "spacing_in": { "min": 9, "max": 12 },
+    "height_in": { "min": 12, "max": 24 },
+    "spread_in": { "min": 9, "max": 12 },
+    "sun": "partial",
+    "water": "low",
+    "directions": "Plant divisions in well-drained soil in full sun to partial shade after the last frost; society garlic is a South African native that produces strap-like, garlic-scented foliage and clusters of lilac-pink star-shaped flowers nearly year-round in frost-free climates, making it one of the most reliably long-blooming edible ornamentals for the Gulf South. The leaves, flowers, and bulbs are edible and carry a mild garlic-chive flavor without causing garlic breath (hence the 'society' in the name). Extremely drought-tolerant once established and useful as a deer-resistant border plant or container specimen. Divide congested clumps every 3–4 years to maintain vigor; plants in zone 7 benefit from a heavy mulch over winter.",
+    "sources": [
+      "University of Florida IFAS Extension",
+      "Missouri Botanical Garden Plant Finder",
+      "Clemson Cooperative Extension Home & Garden Information Center"
+    ]
+  },
+  {
+    "slug": "spanish-sage",
+    "common_name": "Spanish Sage",
+    "scientific_name": "Salvia lavandulifolia",
+    "category": "herb",
+    "subcategory": "culinary herb",
+    "days_to_germination": { "min": 14, "max": 21 },
+    "germination_soil_temp_f": { "min": 60, "max": 70 },
+    "days_to_maturity": { "min": 90, "max": 120 },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": { "min": 2, "max": 6 },
+      "note": "Take semi-hardwood cuttings in late summer or plant container-grown specimens in spring in sharply drained, poor to average soil in full sun; Spanish sage is drought-tolerant and resents wet winter soils."
+    },
+    "usda_zones": { "min": 5, "max": 9 },
+    "spacing_in": { "min": 18, "max": 24 },
+    "height_in": { "min": 12, "max": 18 },
+    "spread_in": { "min": 18, "max": 24 },
+    "sun": "full",
+    "water": "low",
+    "directions": "Root semi-hardwood cuttings in late summer or plant container-grown specimens in spring in sharply drained, poor to average soil in full sun; Spanish sage is a Mediterranean subshrub with narrow gray-green, lavender-scented leaves that are interchangeable with garden sage in the kitchen and are considered superior for making herbal extracts and infusions. It is more drought-tolerant, more compact, and harder to kill than Salvia officinalis, performing well in dry gardens, rock gardens, and gravel paths where the soil drains quickly even in winter. Trim lightly after each flush of small blue-purple flowers to maintain shape and prevent woodiness. Avoid heavy clay soils — perfect drainage is essential to year-round survival.",
+    "sources": [
+      "Royal Horticultural Society — Plant Selector",
+      "Missouri Botanical Garden Plant Finder",
+      "Herb Society of America"
+    ]
+  },
+  {
+    "slug": "corn-mint",
+    "common_name": "Corn Mint",
+    "scientific_name": "Mentha arvensis",
+    "category": "herb",
+    "subcategory": "culinary herb",
+    "days_to_germination": { "min": 10, "max": 21 },
+    "germination_soil_temp_f": { "min": 55, "max": 70 },
+    "days_to_maturity": { "min": 60, "max": 90 },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": { "min": 0, "max": 4 },
+      "note": "Plant rooted divisions or stem cuttings in moist, well-drained soil in partial shade to full sun in spring; contain in pots or bottomless containers sunk into the ground to prevent the aggressive rhizomatous spread typical of all mints."
+    },
+    "usda_zones": { "min": 3, "max": 9 },
+    "spacing_in": { "min": 12, "max": 18 },
+    "height_in": { "min": 9, "max": 24 },
+    "spread_in": { "min": 12, "max": 24 },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Plant rooted divisions in moist soil in partial shade to full sun, containing the plant in a buried pot or raised bed to limit rhizome spread; corn mint is the most widely distributed of all mints and the primary commercial source of natural menthol, producing a strong, clean, true peppermint-like fragrance and flavor that makes it excellent for tea, beverages, cooking, and distillation. Harvest stems for fresh use throughout the growing season, cutting plants back by half monthly to promote fresh, tender growth and delay flowering. The plant tolerates wetter, shadier, and more challenging conditions than many other mints. Dry harvested stems in bundles for winter use.",
+    "sources": [
+      "Missouri Botanical Garden Plant Finder",
+      "Herb Society of America",
+      "Penn State Extension"
+    ]
+  },
+  {
+    "slug": "pineapple-mint",
+    "common_name": "Pineapple Mint",
+    "scientific_name": "Mentha suaveolens 'Variegata'",
+    "category": "herb",
+    "subcategory": "culinary herb",
+    "days_to_germination": { "min": 10, "max": 21 },
+    "germination_soil_temp_f": { "min": 60, "max": 70 },
+    "days_to_maturity": { "min": 60, "max": 90 },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": { "min": 0, "max": 4 },
+      "note": "Plant stem cuttings or divisions in moist, well-drained, moderately fertile soil in partial shade to full sun in spring; the variegated form grows more slowly than plain mints and performs best with some afternoon shade in hot climates."
+    },
+    "usda_zones": { "min": 5, "max": 9 },
+    "spacing_in": { "min": 12, "max": 18 },
+    "height_in": { "min": 12, "max": 24 },
+    "spread_in": { "min": 12, "max": 24 },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Plant stem cuttings or divisions in moist, well-drained soil in partial shade to full sun, containing in a buried pot to limit spread; pineapple mint is a variegated form of apple mint with cream-edged, textured, rounded leaves that carry a fruity, tropical fragrance somewhere between pineapple and mint that makes it popular in fruit salads, cocktails, mojitos, and desserts. The plants are striking enough to use as ornamental container plants, with the white-edged leaves providing bright contrast in shade gardens. Not as aggressively invasive as spearmint or peppermint, but still spreads by rhizome and benefits from containment. Harvest regularly to keep growth compact and fresh.",
+    "sources": [
+      "Missouri Botanical Garden Plant Finder",
+      "Herb Society of America",
+      "University of Florida IFAS Extension"
+    ]
+  }
+]

@@ -1,0 +1,312 @@
+[
+  {
+    "slug": "cherry-tomato",
+    "common_name": "Cherry Tomato",
+    "scientific_name": "Solanum lycopersicum var. cerasiforme",
+    "category": "vegetable",
+    "subcategory": "fruiting",
+    "days_to_germination": { "min": 5, "max": 10 },
+    "germination_soil_temp_f": { "min": 70, "max": 85 },
+    "days_to_maturity": { "min": 55, "max": 75 },
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": { "min": -8, "max": -6 },
+      "note": "Start seeds indoors 6–8 weeks before last frost at 70–85°F; transplant after nights consistently stay above 50°F in full sun in fertile, well-drained, slightly acidic (pH 6.2–6.8) soil with a cage or tall stake for support."
+    },
+    "usda_zones": { "min": 2, "max": 11 },
+    "spacing_in": { "min": 24, "max": 36 },
+    "height_in": { "min": 36, "max": 72 },
+    "spread_in": { "min": 24, "max": 36 },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Start seeds 1/4 inch deep indoors 6–8 weeks before last frost at 70–85°F and transplant in full sun in fertile, well-drained, slightly acidic soil after nights consistently stay above 50°F; cherry tomatoes are the most prolific and carefree of all tomato types, producing hundreds of small, intensely sweet fruits per plant from midsummer through frost with minimal attention. Most cherry types are indeterminate (continue growing and fruiting all season) and need a tall cage or stake; compact determinate cherry types like 'Tumbling Tom' and 'Tumbler' are ideal for containers. Water consistently to prevent blossom-end rot and fruit cracking; irregular watering causes cherry tomatoes to split their skins. Harvest when fruits are fully colored and come off the vine easily with gentle pressure. Outstanding for container growing, children's gardens, and fresh snacking.",
+    "sources": [
+      "University of Illinois Extension — Watch Your Garden Grow",
+      "Clemson Cooperative Extension Home & Garden Information Center",
+      "University of Florida IFAS Extension"
+    ]
+  },
+  {
+    "slug": "beefsteak-tomato",
+    "common_name": "Beefsteak Tomato",
+    "scientific_name": "Solanum lycopersicum",
+    "category": "vegetable",
+    "subcategory": "fruiting",
+    "days_to_germination": { "min": 5, "max": 10 },
+    "germination_soil_temp_f": { "min": 70, "max": 85 },
+    "days_to_maturity": { "min": 78, "max": 95 },
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": { "min": -8, "max": -6 },
+      "note": "Start seeds indoors 6–8 weeks before last frost at 70–85°F; transplant in full sun in very fertile, deeply prepared, well-drained soil and provide heavy-duty caging or staking as beefsteak plants grow large and carry heavy fruit that requires strong support."
+    },
+    "usda_zones": { "min": 2, "max": 11 },
+    "spacing_in": { "min": 30, "max": 48 },
+    "height_in": { "min": 60, "max": 96 },
+    "spread_in": { "min": 30, "max": 48 },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Start seeds 1/4 inch deep indoors 6–8 weeks before last frost at 70–85°F and transplant in full sun in deeply cultivated, very fertile, well-drained, slightly acidic soil; beefsteak tomatoes produce the largest fruits of any tomato type, with individual fruits commonly weighing 1–2 pounds and sometimes exceeding 3 pounds in favored varieties. They are indeterminate and long-season (78–95 days to first harvest), requiring heavy-duty caging or staking and consistent, deep watering throughout the season. Prune to one or two main stems for the largest individual fruits; allowing multiple stems produces more but smaller fruits. The unrivaled flavor and meaty, low-seed flesh make beefsteaks the top choice for fresh slicing, caprese salads, and sandwiches. Popular heirloom varieties include 'Brandywine' (pink), 'Cherokee Purple', and 'German Johnson'.",
+    "sources": [
+      "University of Illinois Extension — Watch Your Garden Grow",
+      "Clemson Cooperative Extension Home & Garden Information Center",
+      "Cornell Cooperative Extension Vegetable Growing Guide"
+    ]
+  },
+  {
+    "slug": "head-cabbage",
+    "common_name": "Head Cabbage",
+    "scientific_name": "Brassica oleracea var. capitata",
+    "category": "vegetable",
+    "subcategory": "head vegetable",
+    "days_to_germination": { "min": 5, "max": 8 },
+    "germination_soil_temp_f": { "min": 45, "max": 75 },
+    "days_to_maturity": { "min": 70, "max": 120 },
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": { "min": -6, "max": -4 },
+      "note": "Start seeds indoors 4–6 weeks before last frost and transplant 2–4 weeks before last frost in spring; alternately start cabbage for the fall crop in midsummer (10–12 weeks before first fall frost) for transplanting in early fall."
+    },
+    "usda_zones": { "min": 2, "max": 11 },
+    "spacing_in": { "min": 18, "max": 24 },
+    "height_in": { "min": 12, "max": 18 },
+    "spread_in": { "min": 18, "max": 24 },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Start seeds indoors 4–6 weeks before last frost and transplant out 2–4 weeks before last frost in fertile, well-drained, slightly alkaline soil in full sun; cabbage is a cool-season crop that tolerates hard frosts once established, and fall crops initiated in midsummer often produce the best heads as the crop matures into cool autumn weather. Space plants widely — 18–24 inches — as crowding produces smaller heads. Water consistently throughout head development, as irregular watering causes the heads to crack open; harvest immediately if heads show any cracking. Cabbage is susceptible to clubroot, cabbage worms, and aphids; row covers over young transplants provide excellent pest protection. Head types range from small early varieties (70 days) to large late storage types (120 days) suitable for long-term kraut fermentation.",
+    "sources": [
+      "University of Illinois Extension — Watch Your Garden Grow",
+      "Cornell Cooperative Extension Vegetable Growing Guide",
+      "Clemson Cooperative Extension Home & Garden Information Center"
+    ]
+  },
+  {
+    "slug": "yellow-onion",
+    "common_name": "Yellow Onion",
+    "scientific_name": "Allium cepa",
+    "category": "vegetable",
+    "subcategory": "allium",
+    "days_to_germination": { "min": 10, "max": 14 },
+    "germination_soil_temp_f": { "min": 60, "max": 75 },
+    "days_to_maturity": { "min": 100, "max": 120 },
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "soil_workable",
+      "weeks_from_anchor": { "min": -10, "max": -8 },
+      "note": "Start seeds indoors 10–12 weeks before outdoor transplant date in late winter, or plant onion sets (small bulbs) outdoors as soon as soil is workable in spring; choose long-day varieties for zone 3–6 and short-day varieties for zone 7–10 for best bulb development."
+    },
+    "usda_zones": { "min": 2, "max": 11 },
+    "spacing_in": { "min": 4, "max": 6 },
+    "height_in": { "min": 18, "max": 24 },
+    "spread_in": { "min": 4, "max": 6 },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Start seeds or transplant pencil-thick seedlings in full sun in well-drained, fertile, neutral to slightly acidic soil early in spring; yellow onions are the most versatile and widely grown culinary onion, with their characteristic balance of sulfurous pungency and underlying sweetness that mellows to a rich sweetness when cooked, making them essential in virtually every cuisine worldwide. Long-day varieties (required for zone 3–6 where summer days exceed 14 hours) include 'Copra' and 'Patterson'; short-day varieties (zone 7–10) include 'Texas 1015', 'Candy', and 'Georgia Sweet'. Harvest when most tops have fallen over naturally; cure in a warm, dry, well-ventilated spot for 2–4 weeks. Well-cured yellow onions store for 3–6 months.",
+    "sources": [
+      "Texas A&M AgriLife Extension",
+      "Cornell Cooperative Extension Vegetable Growing Guide",
+      "University of Illinois Extension — Watch Your Garden Grow"
+    ]
+  },
+  {
+    "slug": "red-onion",
+    "common_name": "Red Onion",
+    "scientific_name": "Allium cepa",
+    "category": "vegetable",
+    "subcategory": "allium",
+    "days_to_germination": { "min": 10, "max": 14 },
+    "germination_soil_temp_f": { "min": 60, "max": 75 },
+    "days_to_maturity": { "min": 100, "max": 120 },
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "soil_workable",
+      "weeks_from_anchor": { "min": -10, "max": -8 },
+      "note": "Start seeds indoors 10–12 weeks before outdoor transplant date in late winter, or plant red onion sets outdoors as soon as soil is workable in spring; select long-day varieties for northern gardens (zone 3–6) and short-day or intermediate varieties for southern gardens (zone 7–10)."
+    },
+    "usda_zones": { "min": 2, "max": 11 },
+    "spacing_in": { "min": 4, "max": 6 },
+    "height_in": { "min": 18, "max": 24 },
+    "spread_in": { "min": 4, "max": 6 },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Grow identically to yellow onions, starting seeds indoors 10–12 weeks before transplanting or planting sets as early as soil can be worked in spring in well-drained, fertile soil in full sun; red onions get their distinctive color from anthocyanin pigments concentrated in the outer layers and are the premier choice for fresh use in salads, salsas, pickles, and raw preparations where their mild, slightly sweet flavor and dramatic purple-red color provide visual impact alongside their culinary role. The color fades when cooked, making them less suitable for long-cooked dishes than yellow onions. Popular varieties include 'Red Burgundy' (short-day, for zone 7–10), 'Red Wethersfield' (long-day, for zone 3–6), and 'Redwing' (intermediate-day). Quick-pickled red onion in lime juice or vinegar is one of the most versatile condiments in modern cooking.",
+    "sources": [
+      "Cornell Cooperative Extension Vegetable Growing Guide",
+      "University of Illinois Extension — Watch Your Garden Grow",
+      "Texas A&M AgriLife Extension"
+    ]
+  },
+  {
+    "slug": "butter-lettuce",
+    "common_name": "Butterhead Lettuce",
+    "scientific_name": "Lactuca sativa var. capitata",
+    "category": "vegetable",
+    "subcategory": "leafy green",
+    "days_to_germination": { "min": 7, "max": 10 },
+    "germination_soil_temp_f": { "min": 45, "max": 65 },
+    "days_to_maturity": { "min": 55, "max": 75 },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "soil_workable",
+      "weeks_from_anchor": { "min": 0, "max": 4 },
+      "note": "Scatter seeds on the surface of moist, well-drained, fertile soil — lettuce seeds need light, so do not cover — and thin to 8–12 inches apart; direct sow as early as soil can be worked in spring, or for fall crops, 6–8 weeks before first frost."
+    },
+    "usda_zones": { "min": 2, "max": 11 },
+    "spacing_in": { "min": 8, "max": 12 },
+    "height_in": { "min": 6, "max": 10 },
+    "spread_in": { "min": 8, "max": 12 },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Scatter seeds on the surface of moist, moderately fertile, well-drained soil in partial shade to full sun and thin to 8–12 inches apart; butterhead (Boston/Bibb) lettuce forms a loose, soft, irregular head with velvety-tender, mild-flavored leaves that are more delicate and buttery-textured than the crisp crunchiness of romaine or crisphead types. It is more heat-sensitive than loose-leaf types and should be grown as a spring or fall crop in most climates — high heat causes rapid bolting and bitterness. Harvest the entire head when formed and compact, or harvest outer leaves individually for a cut-and-come-again approach. Excellent in simple green salads dressed with vinaigrette; the cupped leaves are also ideal for individual salad presentations. 'Bibb', 'Tom Thumb', 'Buttercrunch', and 'Boston' are classic varieties.",
+    "sources": [
+      "University of Illinois Extension — Watch Your Garden Grow",
+      "Cornell Cooperative Extension Vegetable Growing Guide",
+      "Missouri Botanical Garden Plant Finder"
+    ]
+  },
+  {
+    "slug": "slicing-cucumber",
+    "common_name": "Slicing Cucumber",
+    "scientific_name": "Cucumis sativus",
+    "category": "vegetable",
+    "subcategory": "fruiting",
+    "days_to_germination": { "min": 5, "max": 10 },
+    "germination_soil_temp_f": { "min": 65, "max": 90 },
+    "days_to_maturity": { "min": 55, "max": 70 },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": { "min": 0, "max": 2 },
+      "note": "Direct-sow seeds 1 inch deep in groups of 2–3 seeds per hill after last frost when soil is above 65°F; cucumbers can be started indoors 3–4 weeks before last frost in individual peat pots to minimize root disturbance at transplanting, but they resent transplanting and direct sowing is preferred."
+    },
+    "usda_zones": { "min": 3, "max": 11 },
+    "spacing_in": { "min": 18, "max": 36 },
+    "height_in": { "min": 12, "max": 24 },
+    "spread_in": { "min": 24, "max": 48 },
+    "sun": "full",
+    "water": "high",
+    "directions": "Direct-sow seeds 1 inch deep in fertile, well-drained, slightly acidic soil in full sun after last frost when soil has warmed above 65°F; slicing cucumbers are bred for fresh eating with smooth, glossy, dark-green skins, mild flavor, and few seeds compared to pickling types. Provide a trellis for vining varieties to keep fruits straight and clean and improve air circulation; bush types are more compact and work well in raised beds. Water deeply and consistently — inconsistent moisture causes bitter fruit and misshapen cucumbers. Harvest when fruits are 7–9 inches long before the skin yellows or seeds harden. Pick frequently — leaving overripe fruits on the vine signals the plant to stop producing. Cucumber beetles are the primary pest; row covers until flowering provide effective protection.",
+    "sources": [
+      "University of Illinois Extension — Watch Your Garden Grow",
+      "Cornell Cooperative Extension Vegetable Growing Guide",
+      "Clemson Cooperative Extension Home & Garden Information Center"
+    ]
+  },
+  {
+    "slug": "melon",
+    "common_name": "Cantaloupe",
+    "scientific_name": "Cucumis melo var. reticulatus",
+    "category": "vegetable",
+    "subcategory": "fruiting",
+    "days_to_germination": { "min": 5, "max": 10 },
+    "germination_soil_temp_f": { "min": 70, "max": 90 },
+    "days_to_maturity": { "min": 75, "max": 90 },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": { "min": 0, "max": 2 },
+      "note": "Direct-sow seeds 1 inch deep in groups of 2–3 after last frost when soil is above 70°F; alternatively start indoors 3–4 weeks before last frost in individual pots to avoid root disturbance. Melons need at least 90–100 frost-free days and warm nights for sweetest fruit development."
+    },
+    "usda_zones": { "min": 4, "max": 11 },
+    "spacing_in": { "min": 36, "max": 60 },
+    "height_in": { "min": 18, "max": 24 },
+    "spread_in": { "min": 48, "max": 72 },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Direct-sow seeds 1 inch deep in fertile, well-drained, slightly acidic to neutral, sandy-loam soil in full sun after last frost when soil exceeds 70°F; cantaloupe requires consistently warm temperatures (over 70°F days and over 60°F nights) for fruit to develop maximum sugar content — cool, cloudy summers produce watery, bland melons. Reduce watering significantly about 1 week before harvest to concentrate the sugars; overwatering near maturity is the most common cause of bland, watery flavor. Harvest when the stem slips easily from the vine ('full slip') and the blossom end gives slightly to pressure with a sweet, musky fragrance; these indicators are more reliable than days-to-maturity. The cultivar 'Hales Best Jumbo', 'Ambrosia', and 'Athena' are standard slippage-type cantaloupes.",
+    "sources": [
+      "University of Illinois Extension — Watch Your Garden Grow",
+      "Texas A&M AgriLife Extension",
+      "Purdue University Cooperative Extension"
+    ]
+  },
+  {
+    "slug": "pak-choi",
+    "common_name": "Bok Choy",
+    "scientific_name": "Brassica rapa subsp. chinensis",
+    "category": "vegetable",
+    "subcategory": "leafy green",
+    "days_to_germination": { "min": 4, "max": 7 },
+    "germination_soil_temp_f": { "min": 45, "max": 75 },
+    "days_to_maturity": { "min": 45, "max": 60 },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": { "min": -10, "max": -8 },
+      "note": "Direct-sow seeds 1/4 inch deep 8–10 weeks before first fall frost for the main crop; bok choy grows best in cool weather (50–70°F) and bolts to seed quickly in heat or when days lengthen in spring. Fall plantings are more successful than spring plantings in most climates."
+    },
+    "usda_zones": { "min": 2, "max": 11 },
+    "spacing_in": { "min": 6, "max": 12 },
+    "height_in": { "min": 12, "max": 18 },
+    "spread_in": { "min": 8, "max": 12 },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Direct-sow seeds 1/4 inch deep in fertile, moist, well-drained, slightly acidic soil in partial shade to full sun, spacing 6–12 inches apart; bok choy (pak choi) is the most widely grown Chinese vegetable outside of Asia, producing compact plants with crisp, white-ribbed stalks and dark-green, spoon-shaped leaves used in stir-fries, soups, braises, and salads. It grows rapidly in cool weather and is one of the best fall vegetables for zone 5–11, tolerating light frosts and continuing to produce into early winter in mild climates. Harvest either the entire plant when mature or individual outer leaves for a cut-and-come-again harvest. Baby bok choy varieties (Shanghai, Toy Choy) mature in 30–40 days and are ideal for tender whole-plant harvest. Keep evenly moist to prevent premature bolting.",
+    "sources": [
+      "University of Illinois Extension — Watch Your Garden Grow",
+      "Cornell Cooperative Extension Vegetable Growing Guide",
+      "University of California Cooperative Extension"
+    ]
+  },
+  {
+    "slug": "daikon",
+    "common_name": "Daikon Radish",
+    "scientific_name": "Raphanus sativus var. longipinnatus",
+    "category": "vegetable",
+    "subcategory": "root vegetable",
+    "days_to_germination": { "min": 4, "max": 7 },
+    "germination_soil_temp_f": { "min": 45, "max": 70 },
+    "days_to_maturity": { "min": 45, "max": 70 },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": { "min": -10, "max": -8 },
+      "note": "Direct-sow seeds 1/2 inch deep, 2–3 inches apart, and thin to 6 inches as they grow; daikon bolts quickly in long days and summer heat, making fall planting (8–10 weeks before first frost) far more successful than spring planting in most climates."
+    },
+    "usda_zones": { "min": 2, "max": 11 },
+    "spacing_in": { "min": 6, "max": 9 },
+    "height_in": { "min": 12, "max": 24 },
+    "spread_in": { "min": 6, "max": 9 },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Direct-sow seeds 1/2 inch deep and thin to 6 inches apart in deep, loose, stone-free, moderately fertile, well-drained soil in full sun; daikon is a large, long-rooted Japanese radish that develops roots 12–18 inches long and 2–4 inches wide with mild, crisp, slightly peppery white flesh that is essential in Japanese, Korean, and Southeast Asian cuisines for pickling (takuan), salads (daikon salad), braising (oden), and grated as a fresh condiment (oroshi daikon) for tempura and sashimi. Fall planting (8–10 weeks before first frost) avoids the premature bolting that ruins spring-planted crops. In cover-cropping applications, 'tillage radish' varieties (deep-rooting daikon types) are grown as cover crops to break up compacted soil and capture nitrogen; the large roots freeze and decompose over winter, creating channels for water infiltration. Harvest when roots reach full size but before they become pithy.",
+    "sources": [
+      "University of Illinois Extension — Watch Your Garden Grow",
+      "Cornell Cooperative Extension Vegetable Growing Guide",
+      "University of California Cooperative Extension"
+    ]
+  }
+]

@@ -1,0 +1,188 @@
+[
+  {
+    "slug": "chinese-eggplant",
+    "common_name": "Chinese Eggplant",
+    "scientific_name": "Solanum melongena",
+    "category": "vegetable",
+    "subcategory": "fruiting vegetable",
+    "days_to_germination": { "min": 7, "max": 14 },
+    "germination_soil_temp_f": { "min": 75, "max": 85 },
+    "days_to_maturity": { "min": 55, "max": 80 },
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": { "min": 2, "max": 4 },
+      "note": "Start seeds indoors 8–10 weeks before last frost date; transplant after soil warms to 65°F and all frost danger has passed. Chinese eggplant requires a longer growing season than peppers so do not delay starting seeds indoors."
+    },
+    "usda_zones": { "min": 5, "max": 11 },
+    "spacing_in": { "min": 18, "max": 24 },
+    "height_in": { "min": 24, "max": 36 },
+    "spread_in": { "min": 18, "max": 24 },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Start seeds indoors at 75–85°F soil temperature 8–10 weeks before last frost, then transplant into warm, deeply tilled, well-drained, fertile soil in full sun after nighttime temperatures stay above 55°F; Chinese eggplant varieties produce long, slender, lavender to deep purple fruits that are less bitter, have thinner skin, and contain fewer seeds than standard Italian-type eggplants, making them ideal for stir-frying, grilling, and steaming. Plants are highly productive in hot, humid climates and are better adapted to the Gulf South than globe types. Keep soil consistently moist and mulch heavily to conserve moisture and moderate soil temperature. Support plants with stakes if fruit load causes stem breakage.",
+    "sources": [
+      "University of Florida IFAS Extension",
+      "Texas A&M AgriLife Extension",
+      "Johnny's Selected Seeds Growers Library"
+    ]
+  },
+  {
+    "slug": "anasazi-bean",
+    "common_name": "Anasazi Bean",
+    "scientific_name": "Phaseolus vulgaris",
+    "category": "vegetable",
+    "subcategory": "legume",
+    "days_to_germination": { "min": 7, "max": 14 },
+    "germination_soil_temp_f": { "min": 60, "max": 80 },
+    "days_to_maturity": { "min": 75, "max": 90 },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": { "min": 0, "max": 2 },
+      "note": "Direct sow after all frost danger has passed and soil reaches 60°F; Anasazi beans are bush varieties that need no staking and mature relatively quickly for a dry bean type."
+    },
+    "usda_zones": { "min": 4, "max": 10 },
+    "spacing_in": { "min": 4, "max": 6 },
+    "height_in": { "min": 18, "max": 24 },
+    "spread_in": { "min": 12, "max": 18 },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Direct sow seeds 1–2 inches deep after last frost in well-drained, moderately fertile soil in full sun, thinning to 4–6 inches apart; Anasazi beans are an ancient Southwest Native American dry bean with distinctive burgundy-and-white speckled seeds that cook faster than most dry beans due to thinner seed coats and produce a sweet, rich, mealy flavor. Unlike many heirloom dry beans, they are reputed to cause less flatulence because their lower oligosaccharide levels. Harvest pods when they are fully dry and yellow-brown before rainfall can cause mold. In humid climates, pull whole plants and hang to finish drying in a sheltered location. Seeds remain viable for 3–5 years when stored in cool, dry conditions.",
+    "sources": [
+      "New Mexico State University Cooperative Extension",
+      "USDA National Agricultural Library",
+      "Seed Savers Exchange"
+    ]
+  },
+  {
+    "slug": "french-shallot",
+    "common_name": "French Gray Shallot",
+    "scientific_name": "Allium oschaninii",
+    "category": "vegetable",
+    "subcategory": "bulb vegetable",
+    "days_to_germination": { "min": 7, "max": 14 },
+    "germination_soil_temp_f": { "min": 50, "max": 65 },
+    "days_to_maturity": { "min": 90, "max": 120 },
+    "maturity_from": "transplant",
+    "sow_method": "bulb",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": { "min": -4, "max": 0 },
+      "note": "Plant sets (small bulbs) in early spring 4 weeks before last frost or in fall in zone 7 and warmer for overwintering; set each bulb pointy-end up, 1 inch deep, spaced 6–9 inches apart in well-drained, fertile, slightly acidic soil."
+    },
+    "usda_zones": { "min": 3, "max": 10 },
+    "spacing_in": { "min": 6, "max": 9 },
+    "height_in": { "min": 12, "max": 18 },
+    "spread_in": { "min": 6, "max": 9 },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant small bulbs (sets) pointy-end up, 1 inch deep and 6–9 inches apart in well-drained, fertile soil in early spring or fall; the true French gray shallot (échalote grise) is considered the premier shallot of French haute cuisine, with a distinctive grayish-purple skin, elongated teardrop shape, and more complex, less harsh flavor than common shallots. Each planted bulb divides into a cluster of 8–12 daughter bulbs by harvest time in midsummer when the tops fall over. Lift, clean, and cure in a warm, dry, well-ventilated location for 2–3 weeks before storing. Save the smallest bulbs as next year's planting sets. Do not overwater — shallots are prone to rot in wet soils.",
+    "sources": [
+      "Cornell Cooperative Extension",
+      "University of California Cooperative Extension",
+      "Seed Savers Exchange"
+    ]
+  },
+  {
+    "slug": "pickling-cucumber",
+    "common_name": "Pickling Cucumber",
+    "scientific_name": "Cucumis sativus",
+    "category": "vegetable",
+    "subcategory": "fruiting vegetable",
+    "days_to_germination": { "min": 3, "max": 10 },
+    "germination_soil_temp_f": { "min": 70, "max": 90 },
+    "days_to_maturity": { "min": 48, "max": 60 },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": { "min": 1, "max": 3 },
+      "note": "Direct sow in hills or rows 1–2 weeks after last frost when soil reaches 70°F; pickling cucumbers are typically bush or short-vine types that produce prolifically over a short concentrated harvest period suited to batch pickling."
+    },
+    "usda_zones": { "min": 3, "max": 11 },
+    "spacing_in": { "min": 12, "max": 18 },
+    "height_in": { "min": 18, "max": 36 },
+    "spread_in": { "min": 18, "max": 36 },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Direct sow seeds 1 inch deep in moist, fertile, well-drained soil in full sun 1–2 weeks after last frost, thinning to 12–18 inches apart; pickling varieties such as National Pickling, Calypso, and Boston Pickling bear shorter, blockier, thinner-skinned fruits than slicing types and set fruit more uniformly over a compressed harvest window — ideal for making dill pickles and bread-and-butter chips in a single session. Harvest at 2–4 inches for gherkins, 4–5 inches for standard dills; leaving even one overripe fruit on the vine significantly slows further production. Keep soil evenly moist — irregular watering causes bitter fruits. Succession-plant every 3 weeks for a season-long supply.",
+    "sources": [
+      "University of Illinois Extension",
+      "Cornell Cooperative Extension",
+      "Johnny's Selected Seeds Growers Library"
+    ]
+  },
+  {
+    "slug": "calabaza",
+    "common_name": "Calabaza",
+    "scientific_name": "Cucurbita moschata",
+    "category": "vegetable",
+    "subcategory": "squash",
+    "days_to_germination": { "min": 5, "max": 10 },
+    "germination_soil_temp_f": { "min": 70, "max": 90 },
+    "days_to_maturity": { "min": 90, "max": 120 },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": { "min": 2, "max": 4 },
+      "note": "Direct sow after last frost in large hills with 3–4 seeds per hill, thinning to 2 plants per hill; calabaza requires more space than butternut squash and performs best in warm, humid climates from Florida through the Gulf Coast and Caribbean."
+    },
+    "usda_zones": { "min": 8, "max": 12 },
+    "spacing_in": { "min": 36, "max": 60 },
+    "height_in": { "min": 12, "max": 18 },
+    "spread_in": { "min": 72, "max": 120 },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Direct sow 3–4 seeds per hill 1 inch deep after last frost in warm, well-amended, well-drained soil in full sun, thinning each hill to the 2 strongest plants; calabaza (also called West Indian pumpkin or Cuban squash) is the quintessential winter squash of the Caribbean and Gulf South, producing large, round to pear-shaped fruits with mottled green-to-tan skin and deep-orange, sweet, dry flesh that rivals butternut squash in flavor. Plants are notably more heat-tolerant and disease-resistant than other Cucurbita species and produce well through hot, humid Gulf Coast summers. Harvest when the skin is hard and the stem corky-dry; fruits store for 2–5 months in a cool, dry location. Excellent for soup, stews, and tamales.",
+    "sources": [
+      "University of Florida IFAS Extension",
+      "Texas A&M AgriLife Extension",
+      "Caribbean Agricultural Research and Development Institute"
+    ]
+  },
+  {
+    "slug": "corn-salad",
+    "common_name": "Corn Salad",
+    "scientific_name": "Valerianella locusta",
+    "category": "vegetable",
+    "subcategory": "salad green",
+    "days_to_germination": { "min": 7, "max": 14 },
+    "germination_soil_temp_f": { "min": 40, "max": 65 },
+    "days_to_maturity": { "min": 40, "max": 65 },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": { "min": -8, "max": -4 },
+      "note": "Direct sow in late summer for fall harvest or in early spring 4–6 weeks before last frost; corn salad germinates best in cool soil and will self-sow to provide spring and fall crops with no replanting effort once established."
+    },
+    "usda_zones": { "min": 3, "max": 9 },
+    "spacing_in": { "min": 4, "max": 6 },
+    "height_in": { "min": 4, "max": 8 },
+    "spread_in": { "min": 4, "max": 6 },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Direct sow thinly in late summer or early spring in moist, fertile, well-drained soil in partial shade to full sun, barely covering seeds with fine soil; corn salad (mâche) produces rosettes of tender, spoon-shaped, dark-green leaves with a mild, slightly nutty flavor that is sweeter and less assertive than arugula or watercress. It grows through frost and even light snow — the foliage sweetens with cold — making it one of the most valuable winter salad crops in zones 5–9. In the Gulf South sow in fall for winter and early spring harvest; it will struggle in summer heat. Self-sows freely and can naturalize as a seasonal gap-filler in kitchen gardens. Cut individual outer leaves or harvest whole rosettes as needed.",
+    "sources": [
+      "University of California Cooperative Extension",
+      "Cornell Cooperative Extension",
+      "Johnny's Selected Seeds Growers Library"
+    ]
+  }
+]

@@ -1,0 +1,250 @@
+[
+  {
+    "slug": "agapanthus",
+    "common_name": "Lily of the Nile",
+    "scientific_name": "Agapanthus africanus",
+    "category": "flower",
+    "subcategory": "perennial",
+    "days_to_germination": { "min": 14, "max": 30 },
+    "germination_soil_temp_f": { "min": 65, "max": 75 },
+    "days_to_maturity": { "min": 180, "max": 365 },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": { "min": 2, "max": 6 },
+      "note": "Plant rhizome divisions or container plants in well-drained, moderately fertile soil in full sun to partial shade in spring; pot-bound clumps bloom most freely — divide only when clumps are truly congested."
+    },
+    "usda_zones": { "min": 8, "max": 11 },
+    "spacing_in": { "min": 18, "max": 24 },
+    "height_in": { "min": 18, "max": 36 },
+    "spread_in": { "min": 18, "max": 24 },
+    "sun": "partial",
+    "water": "low",
+    "directions": "Plant in well-drained, moderately fertile soil in full sun to partial shade after the last frost; lily of the Nile is one of the most effective summer-blooming perennials for the Gulf South, producing large globular heads of tubular blue or white flowers on tall naked scapes rising above strap-like evergreen foliage from early to midsummer. Water regularly during the growing season but reduce watering in fall and winter to trigger the rest period that promotes heavy flowering. Clumps perform best when somewhat pot-bound and should be divided only every 5–7 years. In zones 7–8, protect crowns with a heavy mulch over winter or grow in containers to move indoors.",
+    "sources": [
+      "University of Florida IFAS Extension",
+      "Clemson Cooperative Extension Home & Garden Information Center",
+      "North Carolina State Extension — Plants Database"
+    ]
+  },
+  {
+    "slug": "cycas-revoluta",
+    "common_name": "Sago Palm",
+    "scientific_name": "Cycas revoluta",
+    "category": "flower",
+    "subcategory": "tropical perennial",
+    "days_to_germination": { "min": 60, "max": 180 },
+    "germination_soil_temp_f": { "min": 70, "max": 85 },
+    "days_to_maturity": { "min": 730, "max": 3650 },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": { "min": 2, "max": 8 },
+      "note": "Plant container-grown specimens in well-drained soil in full sun to partial shade in spring; sago palms grow extremely slowly (1–2 new leaf flushes per year) so purchase the largest specimen the budget allows for immediate impact."
+    },
+    "usda_zones": { "min": 8, "max": 12 },
+    "spacing_in": { "min": 60, "max": 120 },
+    "height_in": { "min": 36, "max": 120 },
+    "spread_in": { "min": 60, "max": 96 },
+    "sun": "partial",
+    "water": "low",
+    "directions": "Plant in sharply drained, moderately fertile soil in full sun to partial shade, allowing adequate space for the symmetrical ring of arching, dark-green, feather-like fronds that characterize the plant's ancient tropical silhouette; sago palm is a cycad, not a true palm, and one of the most primitive plants in cultivation, essentially unchanged since the Jurassic period. It grows very slowly — gaining only a few inches of trunk height per year — but is virtually indestructible once established in warm climates, tolerating drought, salt spray, and poor soils. Flush offsets (pups) from the base of the trunk with a chisel or knife and root in sandy mix to propagate. All parts are highly toxic to humans and pets.",
+    "sources": [
+      "University of Florida IFAS Extension",
+      "Texas A&M AgriLife Extension",
+      "North Carolina State Extension — Plants Database"
+    ]
+  },
+  {
+    "slug": "dasylirion",
+    "common_name": "Desert Spoon",
+    "scientific_name": "Dasylirion wheeleri",
+    "category": "flower",
+    "subcategory": "xeric perennial",
+    "days_to_germination": { "min": 21, "max": 60 },
+    "germination_soil_temp_f": { "min": 70, "max": 85 },
+    "days_to_maturity": { "min": 1095, "max": 3650 },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": { "min": 2, "max": 8 },
+      "note": "Plant container specimens in full sun in sharply drained, rocky or sandy soil; desert spoon is highly drought-tolerant once established and demands excellent drainage — clay soils cause fatal root rot."
+    },
+    "usda_zones": { "min": 7, "max": 11 },
+    "spacing_in": { "min": 48, "max": 72 },
+    "height_in": { "min": 36, "max": 60 },
+    "spread_in": { "min": 48, "max": 72 },
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant in full sun in sharply drained, rocky or sandy soil; desert spoon forms a dramatic, spherical rosette of narrow blue-green leaves with toothed, saw-like margins and a spoon-shaped base that gives the plant its common name. After many years (sometimes 10–20), mature plants send up a spectacular flowering spike reaching 10–15 feet tall bearing thousands of small cream-colored flowers. The plant dies after flowering but produces offsets. Desert spoon is native to the Chihuahuan Desert and thrives in hot, dry conditions across the Gulf South and Southwest; it requires absolutely no irrigation once established and is among the most drought-tolerant landscape plants available for zone 7–10 gardens.",
+    "sources": [
+      "Texas A&M AgriLife Extension",
+      "University of Arizona Cooperative Extension",
+      "Lady Bird Johnson Wildflower Center"
+    ]
+  },
+  {
+    "slug": "nolina",
+    "common_name": "Bear Grass",
+    "scientific_name": "Nolina texana",
+    "category": "flower",
+    "subcategory": "xeric perennial",
+    "days_to_germination": { "min": 21, "max": 60 },
+    "germination_soil_temp_f": { "min": 70, "max": 85 },
+    "days_to_maturity": { "min": 730, "max": 3650 },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": { "min": 2, "max": 8 },
+      "note": "Plant container specimens in full sun in sharply drained, rocky, sandy, or caliche soil; bear grass demands excellent drainage and is adapted to alkaline soils. Zero supplemental irrigation is needed after the first growing season."
+    },
+    "usda_zones": { "min": 7, "max": 10 },
+    "spacing_in": { "min": 36, "max": 60 },
+    "height_in": { "min": 18, "max": 36 },
+    "spread_in": { "min": 36, "max": 60 },
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant in full sun in sharply drained, rocky or sandy, slightly alkaline soil that mimics its native Hill Country and Trans-Pecos habitat; bear grass forms a ground-hugging rosette of long, thin, strap-like leaves that are tougher than they appear and send up tall, branched flowering spikes covered in small cream-white flowers in late spring to early summer. It is one of the most drought-tolerant, low-maintenance plants available for Texas and the Gulf South, requiring zero irrigation once established and tolerating both extreme heat and occasional hard freezes. The dried leaves are traditionally used by Indigenous peoples for basket weaving. Excellent in rock gardens, dry slopes, and xeriscape plantings.",
+    "sources": [
+      "Texas A&M AgriLife Extension",
+      "Lady Bird Johnson Wildflower Center",
+      "University of Arizona Cooperative Extension"
+    ]
+  },
+  {
+    "slug": "iris-tectorum",
+    "common_name": "Roof Iris",
+    "scientific_name": "Iris tectorum",
+    "category": "flower",
+    "subcategory": "shade perennial",
+    "days_to_germination": { "min": 30, "max": 60 },
+    "germination_soil_temp_f": { "min": 60, "max": 70 },
+    "days_to_maturity": { "min": 90, "max": 180 },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": { "min": -8, "max": -4 },
+      "note": "Plant rhizome divisions just below the soil surface in late summer to early fall in moist, humus-rich, well-drained soil in partial shade; roof iris is among the most shade-tolerant of all iris species."
+    },
+    "usda_zones": { "min": 4, "max": 9 },
+    "spacing_in": { "min": 12, "max": 18 },
+    "height_in": { "min": 10, "max": 15 },
+    "spread_in": { "min": 12, "max": 18 },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Plant rhizomes with the tops just at or slightly below the soil surface in late summer in moist, humus-rich, well-drained soil in partial shade; roof iris (named because Japanese gardeners traditionally planted it on thatched roof ridges) is the most shade-tolerant iris species, producing lilac-blue or white flowers with distinctive dark-veined crests in late spring on stems to 15 inches, followed by flat fans of fresh green foliage that remain attractive all season. Unlike bearded iris, it performs beautifully under trees and in dappled light, making it invaluable for shaded borders and woodland edges. Divide congested rhizomes every 4–5 years in late summer to early fall after bloom. The white form 'Album' is equally vigorous.",
+    "sources": [
+      "Missouri Botanical Garden Plant Finder",
+      "North Carolina State Extension — Plants Database",
+      "American Iris Society"
+    ]
+  },
+  {
+    "slug": "dicentra-formosa",
+    "common_name": "Western Bleeding Heart",
+    "scientific_name": "Dicentra formosa",
+    "category": "flower",
+    "subcategory": "shade native",
+    "days_to_germination": { "min": 30, "max": 90 },
+    "germination_soil_temp_f": { "min": 40, "max": 55 },
+    "days_to_maturity": { "min": 90, "max": 180 },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": { "min": 0, "max": 4 },
+      "note": "Plant rhizome divisions in early spring in moist, humus-rich, well-drained, slightly acidic soil in partial to full shade; western bleeding heart spreads by rhizomes and self-sows to form attractive groundcover colonies in cool, moist, shaded sites."
+    },
+    "usda_zones": { "min": 3, "max": 8 },
+    "spacing_in": { "min": 12, "max": 18 },
+    "height_in": { "min": 9, "max": 18 },
+    "spread_in": { "min": 12, "max": 24 },
+    "sun": "shade",
+    "water": "moderate",
+    "directions": "Plant in moist, humus-rich, slightly acidic soil in partial to full shade, spacing 12–18 inches apart; western bleeding heart is a Pacific Coast native that differs from the Eastern Dicentra spectabilis (which goes dormant in summer) by remaining in active growth and bloom through most of the season in cool, moist climates, producing delicate, dissected blue-green ferny foliage and dangling chains of rose-pink heart-shaped flowers from spring into summer. In hot climates it may go summer-dormant but reliably re-emerges in fall. It spreads pleasantly by rhizomes and self-sowing to colonize shaded areas, and is an excellent groundcover under conifers and deciduous trees on the West Coast and in cool-summer regions. Divide in early spring to increase plantings.",
+    "sources": [
+      "Missouri Botanical Garden Plant Finder",
+      "Lady Bird Johnson Wildflower Center",
+      "University of California Cooperative Extension"
+    ]
+  },
+  {
+    "slug": "lychnis",
+    "common_name": "Rose Campion",
+    "scientific_name": "Lychnis coronaria",
+    "category": "flower",
+    "subcategory": "biennial",
+    "days_to_germination": { "min": 10, "max": 21 },
+    "germination_soil_temp_f": { "min": 55, "max": 70 },
+    "days_to_maturity": { "min": 90, "max": 365 },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": { "min": -8, "max": -4 },
+      "note": "Direct sow in fall or early spring in poor to average, well-drained soil in full sun; rose campion prefers lean conditions and self-sows prolifically, filling in gaps in dry, sunny borders year after year."
+    },
+    "usda_zones": { "min": 4, "max": 9 },
+    "spacing_in": { "min": 12, "max": 18 },
+    "height_in": { "min": 18, "max": 30 },
+    "spread_in": { "min": 12, "max": 18 },
+    "sun": "full",
+    "water": "low",
+    "directions": "Direct sow in fall in well-drained, average to poor soil in full sun; rose campion is a short-lived perennial or biennial that self-sows abundantly to maintain itself in the garden, producing dense rosettes of silver-white, woolly leaves the first year and branching stems bearing vivid magenta-crimson flowers for 4–6 weeks in early to midsummer the second year. The silver foliage provides excellent contrast with blue- and purple-flowered neighbors throughout the season even when plants are not in bloom. Do not over-fertilize or plant in rich soil — lean, dry conditions produce the best silver coloring and most compact growth. Leave some spent flowerheads to set seed for next year's colony.",
+    "sources": [
+      "Missouri Botanical Garden Plant Finder",
+      "Royal Horticultural Society — Plant Selector",
+      "North Carolina State Extension — Plants Database"
+    ]
+  },
+  {
+    "slug": "silene",
+    "common_name": "Fire Pink",
+    "scientific_name": "Silene virginica",
+    "category": "flower",
+    "subcategory": "native perennial",
+    "days_to_germination": { "min": 10, "max": 21 },
+    "germination_soil_temp_f": { "min": 55, "max": 70 },
+    "days_to_maturity": { "min": 60, "max": 90 },
+    "maturity_from": "transplant",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": { "min": -8, "max": -4 },
+      "note": "Direct sow in fall in well-drained, average to rocky, acidic soil in partial shade to full sun; fire pink self-sows freely and is best treated as a short-lived perennial that renews by seedlings."
+    },
+    "usda_zones": { "min": 4, "max": 9 },
+    "spacing_in": { "min": 9, "max": 12 },
+    "height_in": { "min": 12, "max": 24 },
+    "spread_in": { "min": 9, "max": 12 },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Direct sow in fall or early spring in well-drained, average to rocky, slightly acidic soil in partial to full shade; fire pink is a native Eastern North American wildflower that produces some of the most vivid scarlet-red flowers in the spring garden, with deeply notched five-petaled blooms on sticky-stemmed plants that hummingbirds visit eagerly from April through June. Plants are short-lived (2–3 years) but self-sow freely in suitable conditions and maintain colonies in rocky woodland edges, dry slopes, and shaded roadsides. Plant in groups for the best visual impact; individual plants are sparse in habit. Combine with native ferns, wild columbine, and foamflower for a diverse native understory planting.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "Missouri Botanical Garden Plant Finder",
+      "North Carolina State Extension — Plants Database"
+    ]
+  }
+]

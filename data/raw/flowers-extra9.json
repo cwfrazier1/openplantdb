@@ -1,0 +1,250 @@
+[
+  {
+    "slug": "chamaecrista",
+    "common_name": "Partridge Pea",
+    "scientific_name": "Chamaecrista fasciculata",
+    "category": "flower",
+    "subcategory": "native annual",
+    "days_to_germination": { "min": 7, "max": 21 },
+    "germination_soil_temp_f": { "min": 65, "max": 80 },
+    "days_to_maturity": { "min": 60, "max": 90 },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": { "min": 0, "max": 2 },
+      "note": "Direct sow after last frost in poor, sandy, well-drained, slightly acidic soil in full sun; scarify seeds with sandpaper or soak 24 hours before sowing to improve germination. Partridge pea self-sows abundantly to perpetuate itself."
+    },
+    "usda_zones": { "min": 4, "max": 10 },
+    "spacing_in": { "min": 12, "max": 18 },
+    "height_in": { "min": 12, "max": 36 },
+    "spread_in": { "min": 12, "max": 18 },
+    "sun": "full",
+    "water": "low",
+    "directions": "Direct sow scarified or soaked seeds after last frost in poor, sandy, well-drained soil in full sun; partridge pea is a native Eastern North American annual legume that fixes nitrogen, produces cheerful yellow flowers from midsummer through fall, and provides essential food and cover for quail, pheasants, and songbirds that eat the seeds and nest in the dense foliage. It thrives on neglect in dry, infertile soils where most ornamentals struggle, naturalizing by prolific self-seeding to fill roadsides, meadows, and wildlife gardens. Do not enrich the planting soil — excess nitrogen reduces flowering. It is a larval host plant for several native sulfur butterfly species. Plant in sweeps of at least 10–20 plants for best ecological impact.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "Missouri Botanical Garden Plant Finder",
+      "North Carolina State Extension — Plants Database"
+    ]
+  },
+  {
+    "slug": "scabiosa",
+    "common_name": "Pincushion Flower",
+    "scientific_name": "Scabiosa columbaria",
+    "category": "flower",
+    "subcategory": "perennial",
+    "days_to_germination": { "min": 10, "max": 14 },
+    "germination_soil_temp_f": { "min": 65, "max": 75 },
+    "days_to_maturity": { "min": 90, "max": 120 },
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": { "min": -8, "max": -6 },
+      "note": "Start seeds indoors 8 weeks before last frost date and transplant after last frost into well-drained, neutral to slightly alkaline, average-fertility soil in full sun; pincushion flower blooms most freely in lean conditions and resents acid or wet soil."
+    },
+    "usda_zones": { "min": 3, "max": 9 },
+    "spacing_in": { "min": 12, "max": 18 },
+    "height_in": { "min": 12, "max": 24 },
+    "spread_in": { "min": 12, "max": 18 },
+    "sun": "full",
+    "water": "low",
+    "directions": "Start seeds indoors 8 weeks before last frost and transplant into well-drained, neutral to slightly alkaline, average-to-lean soil in full sun; pincushion flower produces a long succession of lavender-blue, lilac, or white domed flower heads on wiry stems from early summer through frost that are excellent for cutting and highly attractive to butterflies and native bees. Deadhead spent blooms regularly to prolong the season. Plants are relatively short-lived in hot, humid climates and in acidic soils; top-dress with garden lime in acidic beds. In zones 8–9, treat as a cool-season annual and sow in fall for winter-to-spring bloom. The similar annual species S. atropurpurea blooms in a single season from seed.",
+    "sources": [
+      "Missouri Botanical Garden Plant Finder",
+      "Royal Horticultural Society — Plant Selector",
+      "North Carolina State Extension — Plants Database"
+    ]
+  },
+  {
+    "slug": "agastache-mexicana",
+    "common_name": "Mexican Hyssop",
+    "scientific_name": "Agastache mexicana",
+    "category": "flower",
+    "subcategory": "perennial",
+    "days_to_germination": { "min": 10, "max": 21 },
+    "germination_soil_temp_f": { "min": 65, "max": 75 },
+    "days_to_maturity": { "min": 90, "max": 120 },
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": { "min": -8, "max": -6 },
+      "note": "Start seeds indoors 6–8 weeks before last frost and transplant after last frost into well-drained, poor to average, slightly alkaline soil in full sun; in zones 9–10 plants can be direct sown in fall for spring bloom."
+    },
+    "usda_zones": { "min": 7, "max": 10 },
+    "spacing_in": { "min": 12, "max": 18 },
+    "height_in": { "min": 18, "max": 30 },
+    "spread_in": { "min": 12, "max": 18 },
+    "sun": "full",
+    "water": "low",
+    "directions": "Start seeds indoors and transplant to well-drained, lean soil in full sun; Mexican hyssop is among the best hummingbird and pollinator plants for hot, dry, alkaline conditions across the Southwest and Gulf South, producing dense spikes of tubular rose-pink to cherry-red flowers from midsummer through fall that hummingbirds, hawk moths, and butterflies work heavily. The crushed foliage has a pleasant licorice-mint fragrance. Unlike North American Agastache species, Mexican hyssop is adapted to alkaline, rocky, dry conditions and performs poorly in acidic, heavy soils. Short-lived as a perennial in warm climates but self-sows readily to maintain a colony without replanting. Drought-tolerant once established.",
+    "sources": [
+      "Missouri Botanical Garden Plant Finder",
+      "Lady Bird Johnson Wildflower Center",
+      "Texas A&M AgriLife Extension"
+    ]
+  },
+  {
+    "slug": "verbena-hastata",
+    "common_name": "Blue Vervain",
+    "scientific_name": "Verbena hastata",
+    "category": "flower",
+    "subcategory": "native perennial",
+    "days_to_germination": { "min": 14, "max": 30 },
+    "germination_soil_temp_f": { "min": 55, "max": 65 },
+    "days_to_maturity": { "min": 90, "max": 120 },
+    "maturity_from": "transplant",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": { "min": -8, "max": -4 },
+      "note": "Direct sow in fall or start indoors and transplant in spring into moist to wet, average to fertile soil in full sun to partial shade; blue vervain thrives in rain gardens, pond margins, wet meadows, and roadside ditches."
+    },
+    "usda_zones": { "min": 3, "max": 8 },
+    "spacing_in": { "min": 18, "max": 24 },
+    "height_in": { "min": 36, "max": 60 },
+    "spread_in": { "min": 18, "max": 24 },
+    "sun": "full",
+    "water": "high",
+    "directions": "Direct sow fresh seed in fall in moist to wet, average soil in full sun to partial shade, pressing seeds onto the soil surface; blue vervain is a native North American wetland perennial that produces dense candelabra-like clusters of tiny violet-blue flowers from midsummer through early fall on branching, square stems to 5 feet tall. The sequential upward blooming pattern along each spike creates a dynamic appearance as blooms progress over several weeks. It is an important nectar source for native bees and the seeds are eaten by songbirds, especially sparrows and finches, in winter. Excellent for rain gardens, bioswales, and wet meadow plantings where soil stays reliably moist. Self-sows freely in wet conditions.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "Missouri Botanical Garden Plant Finder",
+      "North Carolina State Extension — Plants Database"
+    ]
+  },
+  {
+    "slug": "phlox-paniculata",
+    "common_name": "Garden Phlox",
+    "scientific_name": "Phlox paniculata",
+    "category": "flower",
+    "subcategory": "perennial",
+    "days_to_germination": { "min": 25, "max": 30 },
+    "germination_soil_temp_f": { "min": 55, "max": 65 },
+    "days_to_maturity": { "min": 90, "max": 120 },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": { "min": 0, "max": 4 },
+      "note": "Plant divisions or container plants in moist, well-drained, organically rich, slightly acidic soil in full sun to partial shade in spring; space 18–24 inches apart with good air circulation to minimize powdery mildew problems."
+    },
+    "usda_zones": { "min": 4, "max": 8 },
+    "spacing_in": { "min": 18, "max": 24 },
+    "height_in": { "min": 24, "max": 48 },
+    "spread_in": { "min": 18, "max": 24 },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Plant divisions in moist, organically rich, well-drained soil in full sun to partial shade, spacing 18–24 inches apart with excellent air circulation; garden phlox is a native Eastern North American perennial that produces large, rounded heads of fragrant flowers in pink, red, white, lavender, or bicolor shades from midsummer into fall — one of the best summer perennials for cutting. Powdery mildew is the primary challenge: thin stems to 5–7 per clump, water at the base only, and choose mildew-resistant cultivars such as 'David' (white) or 'Robert Poore' (purple). Deadhead faded flower heads to prevent seedlings that revert to magenta. Divide every 3 years in early spring to maintain vigor and prevent the center of the clump from dying out.",
+    "sources": [
+      "Missouri Botanical Garden Plant Finder",
+      "North Carolina State Extension — Plants Database",
+      "Lady Bird Johnson Wildflower Center"
+    ]
+  },
+  {
+    "slug": "eryngium",
+    "common_name": "Sea Holly",
+    "scientific_name": "Eryngium planum",
+    "category": "flower",
+    "subcategory": "perennial",
+    "days_to_germination": { "min": 21, "max": 30 },
+    "germination_soil_temp_f": { "min": 55, "max": 65 },
+    "days_to_maturity": { "min": 90, "max": 150 },
+    "maturity_from": "transplant",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": { "min": -8, "max": -4 },
+      "note": "Direct sow in fall without stratification in very well-drained, poor to average, slightly alkaline soil in full sun; sea holly develops a deep taproot and dislikes transplanting — sow in place or use biodegradable pots for indoor starts."
+    },
+    "usda_zones": { "min": 4, "max": 8 },
+    "spacing_in": { "min": 12, "max": 18 },
+    "height_in": { "min": 18, "max": 36 },
+    "spread_in": { "min": 12, "max": 18 },
+    "sun": "full",
+    "water": "low",
+    "directions": "Direct sow in fall in very well-drained, poor to average soil in full sun, or use biodegradable pots for indoor starts to avoid disturbing the taproot at transplanting; sea holly produces striking metallic blue-violet flowers surrounded by spiky bracts from early to midsummer that are among the most architectural elements available for the sunny border or dry garden. The steel-blue coloring is exceptional for cut flowers both fresh and dried. Sea holly thrives in sandy, gravelly, alkaline soils and is highly drought-tolerant once its deep taproot is established — rich soils cause floppy growth. Plants resent wet winters more than cold; excellent drainage is essential for survival. Self-sows moderately in suitable conditions.",
+    "sources": [
+      "Missouri Botanical Garden Plant Finder",
+      "Royal Horticultural Society — Plant Selector",
+      "North Carolina State Extension — Plants Database"
+    ]
+  },
+  {
+    "slug": "echinops",
+    "common_name": "Globe Thistle",
+    "scientific_name": "Echinops ritro",
+    "category": "flower",
+    "subcategory": "perennial",
+    "days_to_germination": { "min": 10, "max": 21 },
+    "germination_soil_temp_f": { "min": 60, "max": 70 },
+    "days_to_maturity": { "min": 90, "max": 120 },
+    "maturity_from": "transplant",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": { "min": -8, "max": -4 },
+      "note": "Direct sow in fall or spring in very well-drained, poor to average, slightly alkaline soil in full sun; globe thistle develops a deep taproot and performs best in lean, dry conditions — rich or wet soils cause floppy growth and shorter life."
+    },
+    "usda_zones": { "min": 3, "max": 9 },
+    "spacing_in": { "min": 18, "max": 24 },
+    "height_in": { "min": 24, "max": 48 },
+    "spread_in": { "min": 18, "max": 24 },
+    "sun": "full",
+    "water": "low",
+    "directions": "Direct sow in poor, well-drained, slightly alkaline soil in full sun; globe thistle produces perfectly spherical, metallic blue flower heads on branching, silvery-white stems with deeply lobed, thistle-like leaves from midsummer into fall, providing a bold architectural element and an exceptional magnet for bees and butterflies, especially bumblebees. Cut stems at three-quarter stage and hang upside down to dry — the round heads hold their color and shape for months in dried arrangements. Plants are drought-tolerant and long-lived in poor, dry soils but short-lived in heavy, wet clay. Divide or transplant only in early spring before roots become too deep; established plants resent disturbance.",
+    "sources": [
+      "Missouri Botanical Garden Plant Finder",
+      "Royal Horticultural Society — Plant Selector",
+      "North Carolina State Extension — Plants Database"
+    ]
+  },
+  {
+    "slug": "salvia-azurea",
+    "common_name": "Azure Blue Sage",
+    "scientific_name": "Salvia azurea",
+    "category": "flower",
+    "subcategory": "native perennial",
+    "days_to_germination": { "min": 14, "max": 21 },
+    "germination_soil_temp_f": { "min": 65, "max": 75 },
+    "days_to_maturity": { "min": 90, "max": 120 },
+    "maturity_from": "transplant",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": { "min": -8, "max": -4 },
+      "note": "Direct sow in fall or early spring in well-drained, dry to average, sandy or rocky soil in full sun; pinch stems in spring and early summer to promote bushy, self-supporting growth — unpinched plants flop in late summer."
+    },
+    "usda_zones": { "min": 4, "max": 9 },
+    "spacing_in": { "min": 18, "max": 24 },
+    "height_in": { "min": 36, "max": 60 },
+    "spread_in": { "min": 18, "max": 24 },
+    "sun": "full",
+    "water": "low",
+    "directions": "Direct sow in fall in dry, well-drained, sandy or rocky soil in full sun and pinch the growing tips two or three times from spring through July to produce a bushier plant that does not require staking; azure blue sage is a native North American prairie sage that produces some of the deepest, truest sky-blue flowers in the autumn garden on plants that reach 3–5 feet, blooming from late summer through frost when most other flowers are winding down. The intense blue color makes it exceptional in combination with yellow and orange fall-blooming plants. It is highly drought-tolerant, long-lived in dry soils, and beloved by bumblebees, honeybees, and migrating monarch butterflies. Cut back hard in early spring before new growth begins.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "Missouri Botanical Garden Plant Finder",
+      "North Carolina State Extension — Plants Database"
+    ]
+  }
+]

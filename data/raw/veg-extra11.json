@@ -1,0 +1,157 @@
+[
+  {
+    "slug": "savoy-cabbage",
+    "common_name": "Savoy Cabbage",
+    "scientific_name": "Brassica oleracea var. sabauda",
+    "category": "vegetable",
+    "subcategory": "cool-season heading vegetable",
+    "days_to_germination": { "min": 4, "max": 7 },
+    "germination_soil_temp_f": { "min": 65, "max": 75 },
+    "days_to_maturity": { "min": 80, "max": 110 },
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": { "min": -14, "max": -10 },
+      "note": "Start transplants 6–8 weeks before setting out; set out 10–14 weeks before first fall frost for the classic autumn crop, or set out 4–6 weeks before last spring frost for a spring crop. Savoy cabbage is significantly more cold-tolerant than regular cabbage — hard frosts markedly improve sweetness and texture."
+    },
+    "usda_zones": { "min": 3, "max": 10 },
+    "spacing_in": { "min": 18, "max": 24 },
+    "height_in": { "min": 12, "max": 18 },
+    "spread_in": { "min": 18, "max": 24 },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Start seeds indoors 6–8 weeks before transplanting; set out in full sun in fertile, well-drained, slightly alkaline to neutral, deeply prepared soil; savoy cabbage is distinguished from standard green or red cabbages by its deeply wrinkled, crinkled, blistered leaves that form a less tightly packed, more loosely structured head — the deeply textured leaves are more tender, delicate, and sweet than smooth-leaved cabbages and are prized for raw salads, braising, stuffed cabbage rolls, and colcannon. The plant is markedly more cold-hardy than standard cabbages, tolerating hard frosts below 20°F when mature, and improves considerably in sweetness after exposure to frost. The spring crop tends to be less satisfying than fall-harvested heads; time fall planting so heads mature in cool autumn temperatures. Excellent varieties include 'Savoy Express' (early, compact), 'Savoy King' (large, late), and 'Deadon' (very cold-hardy). Rotate brassica family crops on a 3-year cycle to prevent clubroot buildup.",
+    "sources": [
+      "Johnny's Selected Seeds Growers Library",
+      "Cornell University Cooperative Extension",
+      "North Carolina State Extension — Plants Database"
+    ]
+  },
+  {
+    "slug": "soup-celery",
+    "common_name": "Soup Celery",
+    "scientific_name": "Apium graveolens var. secalinum",
+    "category": "vegetable",
+    "subcategory": "cool-season herb vegetable",
+    "days_to_germination": { "min": 10, "max": 21 },
+    "germination_soil_temp_f": { "min": 60, "max": 70 },
+    "days_to_maturity": { "min": 70, "max": 90 },
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": { "min": -4, "max": 0 },
+      "note": "Start seeds indoors 8–10 weeks before transplanting; do not cover seeds — they require light to germinate. Set transplants out in moist, fertile soil up to 4 weeks before last frost; soup celery is far more tolerant of heat, drought, and poor growing conditions than standard stalk celery and will produce in gardens where regular celery fails."
+    },
+    "usda_zones": { "min": 3, "max": 10 },
+    "spacing_in": { "min": 8, "max": 12 },
+    "height_in": { "min": 18, "max": 24 },
+    "spread_in": { "min": 8, "max": 12 },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Start seeds indoors 8–10 weeks before transplanting (seeds need light — do not cover); set transplants in moist, fertile, slightly acidic to neutral soil in partial shade to full sun; soup celery (cutting celery, leaf celery, smallage) is the ancestral form of cultivated celery, grown for its intensely flavored, aromatic leaves and slender stems used as an herb rather than a stalk vegetable. Plants produce dense, bushy clumps of dark-green, deeply cut celery-flavored leaves throughout the growing season, cut repeatedly like parsley. A single plant provides an essentially unlimited supply of celery flavor for soups, stews, salads, and stocks without the exacting cultural demands of stalk celery — no blanching is needed, and the plant tolerates some heat, drought, and partial shade that would devastate standard celery. Can be grown year-round in mild-winter climates (zones 8–10) and will self-sow in suitable conditions. 'Afina' and 'Amsterdam Cutting' are reliable selections.",
+    "sources": [
+      "Johnny's Selected Seeds Growers Library",
+      "Cornell University Cooperative Extension",
+      "Royal Horticultural Society — Plant Selector"
+    ]
+  },
+  {
+    "slug": "mibuna",
+    "common_name": "Mibuna",
+    "scientific_name": "Brassica rapa var. nipposinica",
+    "category": "vegetable",
+    "subcategory": "Asian cool-season green",
+    "days_to_germination": { "min": 5, "max": 10 },
+    "germination_soil_temp_f": { "min": 50, "max": 70 },
+    "days_to_maturity": { "min": 40, "max": 60 },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": { "min": -4, "max": 0 },
+      "note": "Direct sow in moist, fertile soil 4 weeks before last spring frost or 8–10 weeks before first fall frost for the main autumn crop; mibuna is closely related to mizuna but bears smooth, narrow, strap-like leaves rather than mizuna's feathery, deeply lobed fronds — both are excellent cut-and-come-again greens."
+    },
+    "usda_zones": { "min": 2, "max": 11 },
+    "spacing_in": { "min": 6, "max": 12 },
+    "height_in": { "min": 12, "max": 20 },
+    "spread_in": { "min": 8, "max": 12 },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Direct sow in moist, fertile, well-drained, slightly acidic to neutral soil in partial shade to full sun 4 weeks before last frost in spring or 8–10 weeks before first frost in fall; mibuna is a Japanese mustard green that produces smooth, narrow, rounded-tip, dark-green leaves distinctly different from the deeply lobed, feathery leaves of its close relative mizuna — the mild, slightly peppery, clean flavor of mibuna is excellent raw in salads and wilted in stir-fries, soups, and noodle dishes. It is harvested by cut-and-come-again method — cut outer leaves at 4–6 inches tall, leaving the center growing point intact, and plants regrow multiple times. Extremely cold-tolerant (withstands light frost) and among the fastest-maturing of all brassica greens. Bolt-resistant in cool conditions but seeds quickly in heat. Outstanding value as a winter salad green in zones 7–10 where it can be grown year-round with cold frame protection.",
+    "sources": [
+      "Johnny's Selected Seeds Growers Library",
+      "Cornell University Cooperative Extension",
+      "North Carolina State Extension — Plants Database"
+    ]
+  },
+  {
+    "slug": "claytonia-sibirica",
+    "common_name": "Pink Purslane",
+    "scientific_name": "Claytonia sibirica",
+    "category": "vegetable",
+    "subcategory": "cool-season shade salad green",
+    "days_to_germination": { "min": 7, "max": 14 },
+    "germination_soil_temp_f": { "min": 50, "max": 65 },
+    "days_to_maturity": { "min": 30, "max": 45 },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "soil_workable",
+      "weeks_from_anchor": { "min": 0, "max": 2 },
+      "note": "Direct sow in moist, well-drained, slightly acidic to neutral, humus-rich soil in partial to full shade as soon as soil can be worked in spring; pink purslane self-sows prolifically in suitable shaded, moist conditions and will naturalize to provide a self-replenishing supply of edible greens in the woodland garden."
+    },
+    "usda_zones": { "min": 4, "max": 9 },
+    "spacing_in": { "min": 6, "max": 9 },
+    "height_in": { "min": 6, "max": 12 },
+    "spread_in": { "min": 6, "max": 9 },
+    "sun": "shade",
+    "water": "moderate",
+    "directions": "Direct sow in moist, humus-rich, slightly acidic to neutral soil in partial to full shade as soon as soil can be worked; pink purslane (Siberian miner's lettuce) is a small, delicate annual or biennial native to Siberia and the Pacific Coast of North America that produces a rosette of fleshy, pale-green, succulent leaves and distinctive stems that pierce directly through their paired leaves (perfoliate, like its American relative Claytonia perfoliata), topped with clusters of small, pink, five-petaled flowers in spring. All parts are edible — the tender leaves, stems, and flowers are mild, slightly succulent, and pleasant in salads. Unlike most salad greens, pink purslane grows enthusiastically in full shade and can be naturalized as a self-sowing edible groundcover in shaded woodland gardens and under deciduous trees, where it self-sows to provide a recurring supply of early spring greens. Goes to seed quickly in heat but will resow for fall crops.",
+    "sources": [
+      "Royal Horticultural Society — Plant Selector",
+      "Missouri Botanical Garden Plant Finder",
+      "North Carolina State Extension — Plants Database"
+    ]
+  },
+  {
+    "slug": "landcress",
+    "common_name": "Land Cress",
+    "scientific_name": "Barbarea verna",
+    "category": "vegetable",
+    "subcategory": "cool-season salad green",
+    "days_to_germination": { "min": 5, "max": 10 },
+    "germination_soil_temp_f": { "min": 50, "max": 65 },
+    "days_to_maturity": { "min": 40, "max": 60 },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "soil_workable",
+      "weeks_from_anchor": { "min": 0, "max": 2 },
+      "note": "Direct sow in moist, fertile, slightly acidic to neutral soil in full sun to partial shade as early in spring as soil can be worked, or sow in late summer for a fall and overwintering crop; land cress is a cold-hardy watercress substitute that thrives in ordinary garden soil without the running water watercress requires."
+    },
+    "usda_zones": { "min": 3, "max": 9 },
+    "spacing_in": { "min": 6, "max": 9 },
+    "height_in": { "min": 6, "max": 12 },
+    "spread_in": { "min": 6, "max": 9 },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Direct sow in moist, fertile, slightly acidic to neutral soil in partial shade to full sun as soon as soil can be worked in spring or in late summer for fall harvest; land cress (upland cress, American cress, creasy greens) is a biennial European native grown as an annual salad herb that provides a peppery, watercress-like flavor in ordinary, moist garden soil — without the stream or pond edge that true watercress (Nasturtium officinale) requires. The deeply lobed, rounded basal leaves have intense, hot, peppery bite that mellows considerably with cooking. Plants remain edible through light frosts and can often be overwintered under cold frames in zones 5–7, providing very early spring greens. Harvest outer leaves beginning at 4–6 inches in height; plants withstand multiple pickings before bolting in warm weather. Sow every 4 weeks for succession harvests through the cool season. Excellent raw in small quantities to add zip to salads, or blanched and wilted as a cooked green.",
+    "sources": [
+      "Johnny's Selected Seeds Growers Library",
+      "Cornell University Cooperative Extension",
+      "Royal Horticultural Society — Plant Selector"
+    ]
+  }
+]

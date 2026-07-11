@@ -1,0 +1,157 @@
+[
+  {
+    "slug": "ruscus",
+    "common_name": "Butcher's Broom",
+    "scientific_name": "Ruscus aculeatus",
+    "category": "flower",
+    "subcategory": "shade evergreen shrub",
+    "days_to_germination": { "min": 60, "max": 120 },
+    "germination_soil_temp_f": { "min": 45, "max": 60 },
+    "days_to_maturity": { "min": 365, "max": 730 },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": { "min": 0, "max": 6 },
+      "note": "Plant divisions or container-grown specimens in moist to dry, well-drained, slightly acidic to alkaline soil in partial to full shade in spring; butcher's broom is one of the most shade and drought-tolerant shrubs for difficult, deeply shaded, dry conditions."
+    },
+    "usda_zones": { "min": 7, "max": 9 },
+    "spacing_in": { "min": 24, "max": 36 },
+    "height_in": { "min": 24, "max": 36 },
+    "spread_in": { "min": 24, "max": 36 },
+    "sun": "shade",
+    "water": "low",
+    "directions": "Plant divisions or container specimens in moist to dry, well-drained, slightly acidic to alkaline soil in partial to full shade; butcher's broom is a Mediterranean native evergreen subshrub that fills a nearly unique niche — it thrives in the deep, dry shade under mature evergreens and dense broadleaf trees where almost no other ornamental plant survives, producing stiff, spine-tipped, dark-green cladodes (flattened stem segments that function as leaves) with tiny greenish-white flowers in midwinter followed by ornamental bright-red berries (on female plants only, requiring a male in proximity) that persist through winter. The plant is extremely drought-tolerant and salt-resistant once established. The stiff, prickly branches were historically used to sweep butcher's blocks. An invaluable plant for the most challenging dry-shade conditions in zone 7–9 gardens.",
+    "sources": [
+      "Missouri Botanical Garden Plant Finder",
+      "Royal Horticultural Society — Plant Selector",
+      "North Carolina State Extension — Plants Database"
+    ]
+  },
+  {
+    "slug": "clethra-alnifolia",
+    "common_name": "Summersweet",
+    "scientific_name": "Clethra alnifolia",
+    "category": "flower",
+    "subcategory": "native deciduous shrub",
+    "days_to_germination": { "min": 14, "max": 30 },
+    "germination_soil_temp_f": { "min": 60, "max": 70 },
+    "days_to_maturity": { "min": 365, "max": 730 },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": { "min": 0, "max": 6 },
+      "note": "Root softwood cuttings in late spring or plant container-grown specimens in moist, well-drained, acidic, humus-rich soil in partial shade to full sun in spring; summersweet tolerates seasonally wet, boggy conditions and thrives along stream banks and pond margins."
+    },
+    "usda_zones": { "min": 3, "max": 9 },
+    "spacing_in": { "min": 48, "max": 72 },
+    "height_in": { "min": 36, "max": 72 },
+    "spread_in": { "min": 48, "max": 72 },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Root softwood cuttings in late spring or plant container specimens in moist, well-drained, acidic, humus-rich soil in partial shade to full sun; summersweet (sweet pepperbush) is one of the finest native shrubs for shaded, moist gardens, producing upright spikes of small, pure-white to pale-pink, intensely and deliciously fragrant flowers in mid- to late summer — filling a bloom gap when few shade-tolerant shrubs flower. The clean, lustrous, dark-green foliage turns bright golden-yellow to orange in fall. It suckers to form multi-stemmed colonies in suitable conditions. Excellent for stream banks, rain gardens, woodland edges, and shaded borders with consistently moist soil. 'Hummingbird' (compact, 2–3 feet), 'Ruby Spice' (deep pink flowers), and 'Sixteen Candles' are superb cultivars. Butterflies and hummingbirds visit the fragrant flowers heavily.",
+    "sources": [
+      "Missouri Botanical Garden Plant Finder",
+      "Lady Bird Johnson Wildflower Center",
+      "North Carolina State Extension — Plants Database"
+    ]
+  },
+  {
+    "slug": "sambucus-canadensis",
+    "common_name": "American Elderberry",
+    "scientific_name": "Sambucus canadensis",
+    "category": "berry",
+    "subcategory": "native deciduous shrub",
+    "days_to_germination": { "min": 14, "max": 30 },
+    "germination_soil_temp_f": { "min": 55, "max": 65 },
+    "days_to_maturity": { "min": 365, "max": 730 },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": { "min": 0, "max": 6 },
+      "note": "Root hardwood cuttings in late winter or plant container-grown specimens in moist to wet, slightly acidic to neutral soil in partial shade to full sun in spring; plant two different cultivars near each other for reliable cross-pollination and heavy berry set."
+    },
+    "usda_zones": { "min": 3, "max": 9 },
+    "spacing_in": { "min": 72, "max": 120 },
+    "height_in": { "min": 72, "max": 144 },
+    "spread_in": { "min": 72, "max": 120 },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Root hardwood cuttings or plant container specimens in moist to wet, slightly acidic to neutral soil in partial shade to full sun, planting two different cultivars for cross-pollination; American elderberry is a fast-growing native shrub of floodplains and woodland edges that produces large, flat-topped clusters of tiny, white, fragrant flowers in early summer followed by hanging clusters of small, dark-purple to black berries in late summer that are among the most nutritious and medicinally valued native fruits in North America — the basis of elderberry syrup, wine, pies, jams, and traditional immune-support preparations. Never eat raw elderberries in quantity (mildly toxic); cooking destroys the problematic compounds. The flowers are also edible and delicious battered and fried or infused into cordials. Excellent wildlife plant, supporting over 50 bird species. Named varieties 'Bob Gordon', 'Adams', and 'Nova' have larger berries and heavier yields.",
+    "sources": [
+      "Missouri Botanical Garden Plant Finder",
+      "Lady Bird Johnson Wildflower Center",
+      "University of Missouri Extension"
+    ]
+  },
+  {
+    "slug": "nectaroscordum",
+    "common_name": "Honey Garlic",
+    "scientific_name": "Nectaroscordum siculum",
+    "category": "flower",
+    "subcategory": "ornamental bulb",
+    "days_to_germination": { "min": 14, "max": 30 },
+    "germination_soil_temp_f": { "min": 45, "max": 55 },
+    "days_to_maturity": { "min": 90, "max": 180 },
+    "maturity_from": "transplant",
+    "sow_method": "bulb",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": { "min": -10, "max": -6 },
+      "note": "Plant bulbs 3–4 inches deep in fall in well-drained, average to poor, slightly acidic to neutral soil in partial shade to full sun; honey garlic naturalizes reliably by self-seeding and bulb offsets in suitable, freely draining conditions."
+    },
+    "usda_zones": { "min": 5, "max": 9 },
+    "spacing_in": { "min": 4, "max": 6 },
+    "height_in": { "min": 24, "max": 48 },
+    "spread_in": { "min": 4, "max": 6 },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Plant bulbs 3–4 inches deep in fall in well-drained, average to poor soil in partial shade to full sun; honey garlic (Sicilian honey garlic, Mediterranean bells) is an aristocratic ornamental related to alliums, producing slender, tall stems in late spring topped with pendulous umbels of elegant, bell-shaped flowers in a subtle, shaded color palette of creamy-white flushed with rose-purple and green stripes — particularly charming and understated compared to the bolder alliums. After bloom the papery seed heads turn upward and dry to a beautiful silvery-beige, providing weeks of ornamental structure through summer. The plant naturalizes steadily by self-seeding in well-drained soils and once established requires no attention. Useful for filling the late-spring gap between tulips and summer perennials in both sunny and partially shaded borders.",
+    "sources": [
+      "Royal Horticultural Society — Plant Selector",
+      "Missouri Botanical Garden Plant Finder",
+      "North Carolina State Extension — Plants Database"
+    ]
+  },
+  {
+    "slug": "fritillaria-imperialis",
+    "common_name": "Crown Imperial",
+    "scientific_name": "Fritillaria imperialis",
+    "category": "flower",
+    "subcategory": "spring bulb",
+    "days_to_germination": { "min": 30, "max": 90 },
+    "germination_soil_temp_f": { "min": 40, "max": 55 },
+    "days_to_maturity": { "min": 90, "max": 180 },
+    "maturity_from": "transplant",
+    "sow_method": "bulb",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": { "min": -10, "max": -6 },
+      "note": "Plant large bulbs 6–8 inches deep on their sides (to prevent water accumulating in the hollow crown and causing rot) in fall in very well-drained, alkaline to neutral, moderately fertile soil in full sun to partial shade; crown imperials demand excellent drainage and resent wet, compacted soil."
+    },
+    "usda_zones": { "min": 5, "max": 8 },
+    "spacing_in": { "min": 12, "max": 18 },
+    "height_in": { "min": 36, "max": 48 },
+    "spread_in": { "min": 12, "max": 18 },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Plant large bulbs 6–8 inches deep, tilted slightly on their side to prevent crown rot, in fall in very well-drained, alkaline to neutral, moderately fertile soil in full sun to partial shade; crown imperial is one of the most magnificent and dramatic spring bulbs, producing bold, upright stems topped with a crown-like ring of large, pendant, orange, red, or yellow bell flowers surmounted by a tuft of glossy green leaves — a regal display unlike any other bulb. Emerging shoots are highly frost-tolerant and may be undamaged even after a hard late freeze. After flowering, the foliage dies back by early summer; mark the location to avoid accidental disturbance. The bulbs have a strong foxy-musky scent that reportedly deters deer, voles, and squirrels. Excellent for imposing structure in spring borders, mixed with tulips and late narcissus. Requires a dry summer dormancy — avoid sites with summer irrigation.",
+    "sources": [
+      "Royal Horticultural Society — Plant Selector",
+      "Missouri Botanical Garden Plant Finder",
+      "North Carolina State Extension — Plants Database"
+    ]
+  }
+]

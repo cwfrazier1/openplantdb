@@ -1,0 +1,312 @@
+[
+  {
+    "slug": "dianthus",
+    "common_name": "Garden Pinks",
+    "scientific_name": "Dianthus plumarius",
+    "category": "flower",
+    "subcategory": "perennial",
+    "days_to_germination": { "min": 10, "max": 21 },
+    "germination_soil_temp_f": { "min": 60, "max": 70 },
+    "days_to_maturity": { "min": 90, "max": 150 },
+    "maturity_from": "transplant",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": { "min": -4, "max": 0 },
+      "note": "Direct-sow seeds on the soil surface in early spring as soon as the ground can be worked, or start indoors 6–8 weeks before last frost; garden pinks can also be sown in fall for established plants that bloom freely in their first spring."
+    },
+    "usda_zones": { "min": 3, "max": 9 },
+    "spacing_in": { "min": 9, "max": 12 },
+    "height_in": { "min": 9, "max": 18 },
+    "spread_in": { "min": 9, "max": 18 },
+    "sun": "full",
+    "water": "low",
+    "directions": "Direct-sow seeds on the surface of well-drained, neutral to slightly alkaline soil in full sun in early spring or start indoors 6–8 weeks before last frost; garden pinks are among the most fragrant border perennials, producing spicy clove-scented single or double flowers in pink, red, white, and bicolor combinations in late spring and early summer above blue-grey grassy foliage. Excellent drainage is essential — they rot quickly in wet, heavy, or acidic soils. Deadhead spent flowers to encourage a second flush of bloom, and shear the entire plant by about one-third after the main flowering season to maintain a compact, tidy mound. Short-lived in humid climates but easily propagated by cuttings taken in summer or by division in early fall every 2–3 years.",
+    "sources": [
+      "Royal Horticultural Society — Growing Guide",
+      "Missouri Botanical Garden Plant Finder",
+      "Colorado State University Extension"
+    ]
+  },
+  {
+    "slug": "field-poppy",
+    "common_name": "Corn Poppy",
+    "scientific_name": "Papaver rhoeas",
+    "category": "flower",
+    "subcategory": "cool annual",
+    "days_to_germination": { "min": 7, "max": 14 },
+    "germination_soil_temp_f": { "min": 55, "max": 65 },
+    "days_to_maturity": { "min": 60, "max": 90 },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "soil_workable",
+      "weeks_from_anchor": { "min": 0, "max": 4 },
+      "note": "Direct-sow seeds in fall or as early in spring as the soil can be worked by scattering and lightly raking into place; corn poppies do not transplant well and germinate best in cool soil — fall sowing in mild climates produces the most prolific spring display."
+    },
+    "usda_zones": { "min": 3, "max": 9 },
+    "spacing_in": { "min": 6, "max": 9 },
+    "height_in": { "min": 18, "max": 36 },
+    "spread_in": { "min": 9, "max": 12 },
+    "sun": "full",
+    "water": "low",
+    "directions": "Scatter seeds in fall or as early in spring as the soil can be worked by mixing seed with sand and broadcasting over prepared well-drained, lean, slightly alkaline soil in full sun; corn poppy is a classic European wildflower meadow plant that germinates only in cool soil and dislikes transplanting. Thin seedlings to 6–9 inches apart — crowding prevents good flowering — and expect blooms within 60–90 days of germination with large, four-petaled, crinkled flowers in scarlet red, salmon, pink, white, and bicolors. Allow seed pods to ripen and shatter in place for natural self-seeding, which will produce larger and larger sweeps in subsequent years. In hot climates the plants die after setting seed in early summer; combine with warm-season annuals to fill the gap.",
+    "sources": [
+      "Royal Horticultural Society — Growing Guide",
+      "Missouri Botanical Garden Plant Finder",
+      "Royal Botanic Gardens Kew"
+    ]
+  },
+  {
+    "slug": "wallflower",
+    "common_name": "English Wallflower",
+    "scientific_name": "Erysimum cheiri",
+    "category": "flower",
+    "subcategory": "biennial",
+    "days_to_germination": { "min": 10, "max": 14 },
+    "germination_soil_temp_f": { "min": 60, "max": 70 },
+    "days_to_maturity": { "min": 180, "max": 365 },
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": { "min": -6, "max": -2 },
+      "note": "Start seeds 6–8 weeks before transplanting in late summer and set established transplants into the garden in fall for spring bloom; wallflowers are biennials that overwinter as leafy rosettes and bloom profusely in mid-spring. In zone 8–10 a fall-planted transplant may bloom the same winter-spring season."
+    },
+    "usda_zones": { "min": 6, "max": 10 },
+    "spacing_in": { "min": 9, "max": 15 },
+    "height_in": { "min": 12, "max": 24 },
+    "spread_in": { "min": 9, "max": 15 },
+    "sun": "full",
+    "water": "low",
+    "directions": "Start seeds in late summer in well-drained seed mix and set transplants into the garden in fall in full sun in well-drained, neutral to slightly alkaline, moderately fertile soil; wallflowers overwinter as leafy rosettes and burst into bloom in mid-spring with intensely fragrant four-petaled flowers in gold, orange, crimson, cream, and burgundy — one of the richest scents in the spring garden. Excellent drainage is non-negotiable; they rot quickly in wet, heavy soils. In zone 8–10 they can behave as short-lived perennials or nearly year-round bloomers in cool seasons. Pull plants after flowering and replace with summer annuals, or allow them to self-seed; volunteer seedlings will often appear but may not come true to the parent cultivar's color.",
+    "sources": [
+      "Royal Horticultural Society — Growing Guide",
+      "Missouri Botanical Garden Plant Finder",
+      "University of California Cooperative Extension"
+    ]
+  },
+  {
+    "slug": "ox-eye-daisy",
+    "common_name": "Ox-Eye Daisy",
+    "scientific_name": "Leucanthemum vulgare",
+    "category": "flower",
+    "subcategory": "perennial wildflower",
+    "days_to_germination": { "min": 10, "max": 21 },
+    "germination_soil_temp_f": { "min": 60, "max": 70 },
+    "days_to_maturity": { "min": 90, "max": 120 },
+    "maturity_from": "transplant",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": { "min": -2, "max": 2 },
+      "note": "Direct-sow seeds in early spring or fall in full sun in lean to moderately fertile, well-drained soil; ox-eye daisy thrives in poor, dry soil and self-seeds prolifically — it is listed as invasive or noxious in several western US states, so check local regulations before planting."
+    },
+    "usda_zones": { "min": 3, "max": 8 },
+    "spacing_in": { "min": 12, "max": 18 },
+    "height_in": { "min": 18, "max": 36 },
+    "spread_in": { "min": 12, "max": 18 },
+    "sun": "full",
+    "water": "low",
+    "directions": "Direct-sow seeds in early spring or fall in full sun in lean, well-drained, moderately fertile soil; ox-eye daisy is the classic white-and-yellow European meadow daisy that has naturalized across most of North America, producing a reliable and long-lasting display of 2-inch flowers on tall branching stems from late spring through midsummer. It thrives in poor, rocky, or disturbed soil and performs poorly in rich, moist, heavily fertilized conditions where it becomes floppy and disease-prone. Deadhead to prevent the prolific self-seeding that makes it weedy in some settings — it is listed as invasive in several western states. Divide overcrowded clumps every 2–3 years in early fall to maintain vigor; ox-eye daisy is an excellent cut flower and a valuable pollen source for generalist bees.",
+    "sources": [
+      "Missouri Botanical Garden Plant Finder",
+      "USDA PLANTS Database",
+      "Pennsylvania State Extension"
+    ]
+  },
+  {
+    "slug": "geum",
+    "common_name": "Avens",
+    "scientific_name": "Geum coccineum",
+    "category": "flower",
+    "subcategory": "perennial",
+    "days_to_germination": { "min": 21, "max": 28 },
+    "germination_soil_temp_f": { "min": 60, "max": 70 },
+    "days_to_maturity": { "min": 90, "max": 150 },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": { "min": 0, "max": 4 },
+      "note": "Plant divisions or container plants in spring or early fall in moist, humus-rich, well-drained soil in full sun to partial shade; geum requires good drainage to prevent crown rot in winter and performs best with afternoon shade in hot summer climates."
+    },
+    "usda_zones": { "min": 4, "max": 7 },
+    "spacing_in": { "min": 12, "max": 18 },
+    "height_in": { "min": 12, "max": 24 },
+    "spread_in": { "min": 12, "max": 18 },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant divisions or container plants in spring or early fall in moist, humus-rich, well-drained soil in full sun to partial shade in zone 4–7; avens (geum) produces brilliant bowl-shaped flowers in warm shades of scarlet, orange, apricot, and yellow in late spring and early summer above a neat mound of hairy, strawberry-like basal foliage. Deadhead spent flowers regularly to prolong the bloom period and encourage a repeat flush in late summer. In hot climates protect from afternoon sun and ensure consistent moisture — plants struggle and may die back in sustained summer heat above 85°F. Divide congested clumps in early fall every 2–3 years; popular garden hybrids such as 'Mrs. J. Bradshaw' (scarlet) and 'Lady Stratheden' (yellow) are easily found at nurseries.",
+    "sources": [
+      "Royal Horticultural Society — Growing Guide",
+      "Missouri Botanical Garden Plant Finder",
+      "North Carolina State Extension — Plants Database"
+    ]
+  },
+  {
+    "slug": "acalypha",
+    "common_name": "Copper Plant",
+    "scientific_name": "Acalypha wilkesiana",
+    "category": "flower",
+    "subcategory": "tropical foliage",
+    "days_to_germination": { "min": 14, "max": 21 },
+    "germination_soil_temp_f": { "min": 70, "max": 80 },
+    "days_to_maturity": { "min": 60, "max": 90 },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": { "min": 0, "max": 2 },
+      "note": "Root stem cuttings in moist potting mix at 70–80°F and transplant after all frost danger has passed in full sun to partial shade in fertile, well-drained soil in zone 10–12, or use as an annual container specimen in colder climates."
+    },
+    "usda_zones": { "min": 10, "max": 12 },
+    "spacing_in": { "min": 24, "max": 36 },
+    "height_in": { "min": 36, "max": 72 },
+    "spread_in": { "min": 24, "max": 48 },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Root stem cuttings in moist potting mix at 70–80°F and transplant after last frost in full sun to partial shade in fertile, well-drained soil; copper plant is a bold tropical foliage shrub whose large, oval, copper-bronze to reddish-burgundy leaves streaked with pink, orange, and green provide unmatched color intensity in summer beds and containers. In full sun the leaf coloration is most vibrant — partial shade produces larger but less intensely colored leaves. Plants grow rapidly to 4–6 feet in a warm season, making them excellent privacy screens and bold border backdrops in zone 10–12. Fertilize monthly with a balanced fertilizer for the best leaf color and take cuttings in late summer before frost to overwinter rooted plants indoors; in frost-free zone 10–12 it is a year-round landscape shrub.",
+    "sources": [
+      "University of Florida IFAS Extension",
+      "Missouri Botanical Garden Plant Finder",
+      "Hawaii Tropical Botanical Garden"
+    ]
+  },
+  {
+    "slug": "mexican-bird-of-paradise",
+    "common_name": "Mexican Bird of Paradise",
+    "scientific_name": "Caesalpinia pulcherrima",
+    "category": "flower",
+    "subcategory": "tropical shrub",
+    "days_to_germination": { "min": 7, "max": 14 },
+    "germination_soil_temp_f": { "min": 70, "max": 80 },
+    "days_to_maturity": { "min": 90, "max": 120 },
+    "maturity_from": "transplant",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": { "min": 0, "max": 4 },
+      "note": "Sow scarified seeds directly in warm soil after last frost in full sun in very well-drained, lean to moderately fertile, alkaline-tolerant soil; Mexican bird of paradise blooms in its first year from seed when planted in warm conditions and grows very quickly to flowering size."
+    },
+    "usda_zones": { "min": 9, "max": 12 },
+    "spacing_in": { "min": 48, "max": 72 },
+    "height_in": { "min": 60, "max": 120 },
+    "spread_in": { "min": 48, "max": 72 },
+    "sun": "full",
+    "water": "low",
+    "directions": "Sow scarified seeds directly in warm soil after last frost, or nick the hard seed coat and soak overnight before planting in full sun in very well-drained, lean to moderately fertile, alkaline-tolerant soil; Mexican bird of paradise grows rapidly to produce large clusters of brilliant orange-and-yellow or all-red flowers with long, showy stamens from summer through fall that are among the finest hummingbird plants in the Southwest and Gulf Coast. Highly drought-tolerant once established, it thrives in the heat, reflected sun, and dry conditions that challenge most other flowering shrubs. In zone 9 it may freeze to the ground in hard winters but regrows vigorously from the deep roots in spring; in zone 10–12 it is a large, semi-evergreen shrub. Prune hard in late winter to maintain shape and renew flowering vigor.",
+    "sources": [
+      "University of Arizona Cooperative Extension",
+      "University of Florida IFAS Extension",
+      "Texas A&M AgriLife Extension"
+    ]
+  },
+  {
+    "slug": "blue-salvia",
+    "common_name": "Blue Salvia",
+    "scientific_name": "Salvia farinacea",
+    "category": "flower",
+    "subcategory": "perennial sage",
+    "days_to_germination": { "min": 14, "max": 21 },
+    "germination_soil_temp_f": { "min": 70, "max": 75 },
+    "days_to_maturity": { "min": 90, "max": 120 },
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": { "min": -6, "max": -4 },
+      "note": "Start seeds indoors 4–6 weeks before last frost at 70–75°F; do not cover seeds as they need light for germination. Transplant after last frost in full sun in well-drained, moderately fertile soil."
+    },
+    "usda_zones": { "min": 8, "max": 11 },
+    "spacing_in": { "min": 12, "max": 18 },
+    "height_in": { "min": 18, "max": 36 },
+    "spread_in": { "min": 12, "max": 18 },
+    "sun": "full",
+    "water": "low",
+    "directions": "Start seeds on the surface of moist seed-starting mix indoors 4–6 weeks before last frost at 70–75°F without covering — blue salvia needs light to germinate — and transplant after last frost in full sun in well-drained, moderately fertile soil. It blooms continuously from early summer through frost with upright spikes of small violet-blue flowers above neat, mealy-textured foliage that butterflies and hummingbirds visit steadily throughout the season. In zone 8–11 it is a short-lived perennial; in cooler climates it is treated as a warm-season annual but is one of the longest-blooming and most heat-tolerant blue flowers available for the summer garden. Deadhead or shear lightly to prevent setting seed and extend the bloom season; 'Victoria Blue' and 'Henry Duelberg' are popular cultivars for zone 8–9 gardens.",
+    "sources": [
+      "Texas A&M AgriLife Extension",
+      "University of Florida IFAS Extension",
+      "Missouri Botanical Garden Plant Finder"
+    ]
+  },
+  {
+    "slug": "cestrum",
+    "common_name": "Night-Blooming Jasmine",
+    "scientific_name": "Cestrum nocturnum",
+    "category": "flower",
+    "subcategory": "tropical shrub",
+    "days_to_germination": { "min": 14, "max": 21 },
+    "germination_soil_temp_f": { "min": 70, "max": 80 },
+    "days_to_maturity": { "min": 90, "max": 180 },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": { "min": 0, "max": 4 },
+      "note": "Root stem cuttings in moist potting mix at 70–80°F in spring and plant in fertile, well-drained soil in full sun to partial shade after all frost danger has passed; in zone 9–12 plant container-grown specimens directly into the landscape."
+    },
+    "usda_zones": { "min": 9, "max": 12 },
+    "spacing_in": { "min": 36, "max": 60 },
+    "height_in": { "min": 60, "max": 120 },
+    "spread_in": { "min": 36, "max": 60 },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Root stem cuttings or plant container-grown specimens in spring after frost danger has passed in full sun to partial shade in fertile, well-drained, moist soil in zone 9–12; night-blooming jasmine is the most powerfully fragrant shrub for warm-climate gardens, releasing an almost overwhelming sweet tropical scent from small, tubular, white-to-yellowish-green flowers that open only after dark and fill the evening air for considerable distances. Flowers appear in clusters multiple times per year in frost-free climates, making it an exceptional plant for near patios, porches, and bedroom windows where the nocturnal fragrance can be enjoyed. Though not a true jasmine (it is in the nightshade family), its fragrance is incomparable; note that the plant is toxic if ingested. Prune lightly after each flowering flush to maintain a tidy, compact shrub form.",
+    "sources": [
+      "University of Florida IFAS Extension",
+      "Louisiana State University AgCenter",
+      "Missouri Botanical Garden Plant Finder"
+    ]
+  },
+  {
+    "slug": "wood-avens",
+    "common_name": "Wood Avens",
+    "scientific_name": "Geum urbanum",
+    "category": "herb",
+    "subcategory": "shade edible perennial",
+    "days_to_germination": { "min": 14, "max": 21 },
+    "germination_soil_temp_f": { "min": 55, "max": 65 },
+    "days_to_maturity": { "min": 90, "max": 120 },
+    "maturity_from": "transplant",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": { "min": 0, "max": 4 },
+      "note": "Direct-sow seeds in fall or early spring in partial shade to full shade in moist, humus-rich, well-drained soil under trees or shrubs; wood avens colonizes shaded woodland edges and naturalizes freely once established."
+    },
+    "usda_zones": { "min": 4, "max": 8 },
+    "spacing_in": { "min": 9, "max": 12 },
+    "height_in": { "min": 12, "max": 24 },
+    "spread_in": { "min": 9, "max": 15 },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Direct-sow seeds in fall or early spring in partial to full shade in moist, humus-rich, well-drained soil under trees or shrubs; wood avens is a versatile woodland herb long used in traditional European herbal medicine and as a flavoring, with roots that carry a mild clove-like fragrance and were historically used to flavor ale and preserve linens. The small, five-petaled yellow flowers appear from late spring through summer and are followed by burr-like seedheads that cling to clothing and fur, dispersing the plant throughout the woodland garden. Both the young leaves and roots are edible — add young leaves to salads and use the dried roots as a mild clove substitute in cooking or herbal infusions. Establishes readily under deciduous canopy and self-seeds to form a low, naturalistic groundcover that tolerates root competition.",
+    "sources": [
+      "Plants For A Future Database",
+      "Royal Horticultural Society — Growing Guide",
+      "Kew Gardens Medicinal Plant Records"
+    ]
+  }
+]

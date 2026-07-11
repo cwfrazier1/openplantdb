@@ -1,0 +1,250 @@
+[
+  {
+    "slug": "hot-pepper",
+    "common_name": "Hot Pepper",
+    "scientific_name": "Capsicum annuum",
+    "category": "vegetable",
+    "subcategory": "fruiting",
+    "days_to_germination": { "min": 10, "max": 14 },
+    "germination_soil_temp_f": { "min": 75, "max": 85 },
+    "days_to_maturity": { "min": 70, "max": 100 },
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": { "min": -10, "max": -8 },
+      "note": "Start hot pepper seeds indoors 8–10 weeks before last frost at 80–85°F soil temperature; hot peppers are slower to germinate and develop than sweet peppers and need the longest indoor head start of any common vegetable. Transplant only after nights consistently stay above 60°F."
+    },
+    "usda_zones": { "min": 2, "max": 11 },
+    "spacing_in": { "min": 18, "max": 24 },
+    "height_in": { "min": 18, "max": 48 },
+    "spread_in": { "min": 18, "max": 24 },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Start seeds indoors 8–10 weeks before last frost at 80–85°F soil temperature — hot peppers need warm conditions to germinate and grow; transplant in full sun in well-drained, fertile soil only after nights stay above 60°F consistently. Hot peppers range from mildly pungent (Anaheim, poblano) to fiercely hot (habanero, ghost pepper, Carolina Reaper) depending on variety, with heat measured in Scoville heat units (SHU). The capsaicin compound that produces heat is concentrated in the inner white ribs and seeds rather than the flesh. In zone 8–11 hot peppers are short-lived perennials that can be overwintered if protected from frost, often producing more prolifically in their second and third years than in their first.",
+    "sources": [
+      "University of Illinois Extension — Watch Your Garden Grow",
+      "Clemson Cooperative Extension Home & Garden Information Center",
+      "Chile Pepper Institute, New Mexico State University"
+    ]
+  },
+  {
+    "slug": "swiss-chard",
+    "common_name": "Swiss Chard",
+    "scientific_name": "Beta vulgaris subsp. cicla",
+    "category": "vegetable",
+    "subcategory": "leafy green",
+    "days_to_germination": { "min": 5, "max": 10 },
+    "germination_soil_temp_f": { "min": 50, "max": 85 },
+    "days_to_maturity": { "min": 50, "max": 60 },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "soil_workable",
+      "weeks_from_anchor": { "min": 0, "max": 4 },
+      "note": "Direct-sow seeds 1/2 inch deep as soon as soil can be worked in spring, or for the main crop in zone 6–10, plant in late summer 6–8 weeks before first fall frost. Each chard 'seed' is actually a cluster containing multiple seeds; thin to one seedling per spot."
+    },
+    "usda_zones": { "min": 2, "max": 11 },
+    "spacing_in": { "min": 9, "max": 12 },
+    "height_in": { "min": 18, "max": 24 },
+    "spread_in": { "min": 12, "max": 18 },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Direct-sow seeds 1/2 inch deep in fertile, well-drained, slightly acidic to neutral soil in full sun to partial shade as early as spring soil can be worked; Swiss chard is the most heat-tolerant and adaptable of the cool-season leafy greens, bridging the gap between the cool spring lettuce season and the fall crops by continuing to produce through summer heat that would bolt most other leafy greens. Each chard seed cluster contains 2–4 seeds; thin to one seedling per 9–12 inches. Harvest outer leaves continuously, leaving the growing center to continue producing — a well-tended planting can produce for 6 months or more. Rainbow chard types with red, orange, yellow, and pink stems are highly ornamental as well as edible. Mildly earthy flavor that is more versatile than spinach.",
+    "sources": [
+      "University of Illinois Extension — Watch Your Garden Grow",
+      "Cornell Cooperative Extension Vegetable Growing Guide",
+      "Missouri Botanical Garden Plant Finder"
+    ]
+  },
+  {
+    "slug": "spinach",
+    "common_name": "Spinach",
+    "scientific_name": "Spinacia oleracea",
+    "category": "vegetable",
+    "subcategory": "leafy green",
+    "days_to_germination": { "min": 7, "max": 14 },
+    "germination_soil_temp_f": { "min": 45, "max": 65 },
+    "days_to_maturity": { "min": 40, "max": 50 },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "soil_workable",
+      "weeks_from_anchor": { "min": -4, "max": 0 },
+      "note": "Direct-sow seeds 1/2 inch deep in early spring as soon as soil can be worked; spinach germinates best in cool soil (45–65°F) and bolts rapidly in hot weather. A fall sowing 4–6 weeks before first frost often produces the best crop, as cool autumn temperatures improve flavor and delay bolting."
+    },
+    "usda_zones": { "min": 2, "max": 11 },
+    "spacing_in": { "min": 3, "max": 6 },
+    "height_in": { "min": 6, "max": 10 },
+    "spread_in": { "min": 6, "max": 9 },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Direct-sow seeds 1/2 inch deep in fertile, well-drained, slightly alkaline soil as early as 4 weeks before last frost in spring or 4–6 weeks before first fall frost; spinach is a cool-season crop that thrives in soil temperatures below 65°F and bolts rapidly when days lengthen and temperatures exceed 75°F in late spring. Choose slow-bolting varieties for spring planting; fall-planted spinach often overwinters in zone 6–9 and produces an abundant early spring harvest before heat sets in. Harvest outer leaves frequently once plants have 5–6 leaves; baby spinach can be cut-and-come-again at 3 inches tall for the highest yield per square foot. Rich in iron, folate, vitamin K, and lutein; oxalic acid in the leaves binds some minerals and is reduced by light cooking.",
+    "sources": [
+      "University of Illinois Extension — Watch Your Garden Grow",
+      "Cornell Cooperative Extension Vegetable Growing Guide",
+      "Clemson Cooperative Extension Home & Garden Information Center"
+    ]
+  },
+  {
+    "slug": "arugula",
+    "common_name": "Arugula",
+    "scientific_name": "Eruca vesicaria subsp. sativa",
+    "category": "vegetable",
+    "subcategory": "leafy green",
+    "days_to_germination": { "min": 5, "max": 7 },
+    "germination_soil_temp_f": { "min": 45, "max": 65 },
+    "days_to_maturity": { "min": 30, "max": 45 },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "soil_workable",
+      "weeks_from_anchor": { "min": -2, "max": 2 },
+      "note": "Scatter seeds thinly over moist, prepared, well-drained soil and press without covering — arugula germinates in cool soil almost immediately; succession-sow every 2–3 weeks from early spring through fall for continuous harvests. Fall crops are sweeter and slower to bolt than spring crops."
+    },
+    "usda_zones": { "min": 2, "max": 11 },
+    "spacing_in": { "min": 4, "max": 6 },
+    "height_in": { "min": 8, "max": 14 },
+    "spread_in": { "min": 4, "max": 8 },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Scatter seeds on the surface of moist, well-drained, moderately fertile soil and press lightly without covering; arugula is one of the fastest-maturing and easiest-to-grow leafy vegetables, germinating within 5–7 days in cool conditions and ready to harvest as baby greens in 3 weeks or full-size leaves in 4–6 weeks. The peppery, nutty, mustardy flavor is most mild and complex in cool weather; leaves become intensely bitter and peppery in hot weather. Succession-sow every 2–3 weeks from early spring through fall for a continuous supply; cut-and-come-again harvesting (cutting 1 inch above soil) extends each planting significantly. Both flowers and leaves are edible; the white flowers with purple veins are excellent salad garnishes. Fall-planted arugula has superior flavor to spring plantings in most climates.",
+    "sources": [
+      "University of Illinois Extension — Watch Your Garden Grow",
+      "Cornell Cooperative Extension Vegetable Growing Guide",
+      "University of California Cooperative Extension"
+    ]
+  },
+  {
+    "slug": "mustard-greens",
+    "common_name": "Mustard Greens",
+    "scientific_name": "Brassica juncea",
+    "category": "vegetable",
+    "subcategory": "leafy green",
+    "days_to_germination": { "min": 4, "max": 7 },
+    "germination_soil_temp_f": { "min": 45, "max": 70 },
+    "days_to_maturity": { "min": 40, "max": 60 },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "soil_workable",
+      "weeks_from_anchor": { "min": 0, "max": 4 },
+      "note": "Direct-sow seeds 1/4 inch deep in full sun in well-drained, fertile, slightly acidic soil as early as 2–3 weeks before last frost; mustard greens are extremely fast-growing and can be harvested within 40 days of sowing. Fall crops are preferred in zone 7–10 where they continue producing through mild winters."
+    },
+    "usda_zones": { "min": 2, "max": 11 },
+    "spacing_in": { "min": 6, "max": 12 },
+    "height_in": { "min": 12, "max": 24 },
+    "spread_in": { "min": 9, "max": 18 },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Direct-sow seeds 1/4 inch deep in fertile, well-drained, slightly acidic soil in full sun as early as 2–3 weeks before last frost in spring, or 4–6 weeks before first fall frost for the preferred fall crop; mustard greens are a staple leafy vegetable of Asian and Southern US cuisines, prized for their pungent, peppery, mustardy flavor that ranges from mildly spicy to intensely sharp depending on variety. Young leaves are used raw in salads; mature leaves are braised, stir-fried, or cooked with salt pork and vinegar in Southern tradition. They bolt quickly in summer heat but tolerate light frosts, improving in flavor after cold exposure. In zone 7–10 fall-planted mustard greens can produce through winter; Southern flat-pod varieties like 'Florida Broadleaf' and Asian varieties like 'Mizuna' and 'Red Giant' are popular choices.",
+    "sources": [
+      "University of Illinois Extension — Watch Your Garden Grow",
+      "North Carolina State Extension — Plants Database",
+      "Texas A&M AgriLife Extension"
+    ]
+  },
+  {
+    "slug": "collard-greens",
+    "common_name": "Collard Greens",
+    "scientific_name": "Brassica oleracea var. viridis",
+    "category": "vegetable",
+    "subcategory": "leafy green",
+    "days_to_germination": { "min": 5, "max": 8 },
+    "germination_soil_temp_f": { "min": 45, "max": 75 },
+    "days_to_maturity": { "min": 60, "max": 80 },
+    "maturity_from": "transplant",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": { "min": -12, "max": -10 },
+      "note": "Direct-sow seeds 1/4 inch deep 10–12 weeks before first fall frost for the main crop, or transplant in early fall; in zone 7–10 collards can be grown as a year-round biennial, harvesting through winter and spring before the plants bolt in their second year."
+    },
+    "usda_zones": { "min": 6, "max": 11 },
+    "spacing_in": { "min": 18, "max": 24 },
+    "height_in": { "min": 30, "max": 48 },
+    "spread_in": { "min": 18, "max": 24 },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Direct-sow seeds 1/4 inch deep or transplant in fertile, well-drained, slightly acidic to neutral soil in full sun 10–12 weeks before first fall frost; collard greens are the signature leafy vegetable of the American South, producing large, broad, blue-green, somewhat waxy leaves with a mild, slightly bitter, cabbage-like flavor that mellows considerably after frost or slow cooking. More heat-tolerant than most brassicas, collards can grow year-round in zone 8–11 and are the most cold-hardy of all the non-kale brassica greens. The traditional Southern preparation is slow-braising with smoked pork, but the leaves are also excellent blanched, stir-fried, and used as a low-carbohydrate wrap. Harvest outer leaves continuously; well-maintained plants can produce for a full year or more in mild climates.",
+    "sources": [
+      "North Carolina State Extension — Plants Database",
+      "University of Florida IFAS Extension",
+      "Clemson Cooperative Extension Home & Garden Information Center"
+    ]
+  },
+  {
+    "slug": "turnip",
+    "common_name": "Turnip",
+    "scientific_name": "Brassica rapa subsp. rapa",
+    "category": "vegetable",
+    "subcategory": "root vegetable",
+    "days_to_germination": { "min": 4, "max": 7 },
+    "germination_soil_temp_f": { "min": 45, "max": 75 },
+    "days_to_maturity": { "min": 40, "max": 60 },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "soil_workable",
+      "weeks_from_anchor": { "min": 0, "max": 4 },
+      "note": "Direct-sow seeds 1/4 inch deep in full sun in well-drained, moderately fertile, slightly acidic soil as early as 2–3 weeks before last frost in spring; fall plantings 6–8 weeks before first frost often produce the sweetest, most tender roots."
+    },
+    "usda_zones": { "min": 2, "max": 11 },
+    "spacing_in": { "min": 4, "max": 6 },
+    "height_in": { "min": 12, "max": 18 },
+    "spread_in": { "min": 6, "max": 9 },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Direct-sow seeds 1/4 inch deep in well-drained, moderately fertile, slightly acidic soil in full sun as early as 2–3 weeks before last frost in spring, or 6–8 weeks before first fall frost; turnips are among the fastest-maturing root vegetables available, producing edible roots in 40–60 days and providing both edible roots and edible greens from a single planting. The roots are sweetest and most tender when harvested at 2–3 inches in diameter — larger roots become pithy and bitter. In zone 7–10 fall-planted turnips can overwinter in the ground and are sweetened by frost exposure. The greens of varieties like 'Seven Top' and 'Purple Top White Globe' are prized in Southern cooking and highly nutritious. Turnips also function as a quick-maturing catch crop, cover crop, and forage plant.",
+    "sources": [
+      "University of Illinois Extension — Watch Your Garden Grow",
+      "Cornell Cooperative Extension Vegetable Growing Guide",
+      "North Carolina State Extension — Plants Database"
+    ]
+  },
+  {
+    "slug": "corn",
+    "common_name": "Sweet Corn",
+    "scientific_name": "Zea mays var. saccharata",
+    "category": "vegetable",
+    "subcategory": "grain vegetable",
+    "days_to_germination": { "min": 7, "max": 10 },
+    "germination_soil_temp_f": { "min": 60, "max": 85 },
+    "days_to_maturity": { "min": 65, "max": 90 },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": { "min": 0, "max": 2 },
+      "note": "Direct-sow seeds 1–1.5 inches deep after last frost when soil has warmed above 60°F; sow in blocks of at least 4 rows (not single rows) for adequate wind pollination and good ear fill. Plant successive blocks every 2–3 weeks for extended harvest."
+    },
+    "usda_zones": { "min": 3, "max": 11 },
+    "spacing_in": { "min": 9, "max": 12 },
+    "height_in": { "min": 60, "max": 96 },
+    "spread_in": { "min": 18, "max": 24 },
+    "sun": "full",
+    "water": "high",
+    "directions": "Direct-sow seeds 1–1.5 inches deep after last frost when soil is above 60°F, planting in blocks of at least 4 rows rather than single rows to ensure adequate wind pollination of the silks — poor pollination produces ears with scattered missing kernels. Provide consistent, deep watering especially during tasseling and silking, as moisture stress during pollination is the leading cause of poor ear development. Harvest when silks have turned brown and dry, ears feel filled to the tip, and a kernel punctured with a fingernail releases a milky juice (clear juice = immature; no juice = overripe). Sweet corn sugars convert to starch rapidly after harvest; cook or refrigerate immediately. Plant well away from popcorn or field corn to prevent cross-pollination, which reduces sweetness.",
+    "sources": [
+      "University of Illinois Extension — Watch Your Garden Grow",
+      "Cornell Cooperative Extension Vegetable Growing Guide",
+      "Purdue University Extension"
+    ]
+  }
+]

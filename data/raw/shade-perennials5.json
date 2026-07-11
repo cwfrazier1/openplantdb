@@ -1,0 +1,280 @@
+[
+  {
+    "slug": "clivia",
+    "common_name": "Clivia",
+    "scientific_name": "Clivia miniata",
+    "category": "flower",
+    "subcategory": "shade bulb",
+    "days_to_germination": { "min": 30, "max": 60 },
+    "germination_soil_temp_f": { "min": 65, "max": 75 },
+    "days_to_maturity": { "min": 365, "max": 730 },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": { "min": 0, "max": 4 },
+      "note": "Plant offsets in well-drained, organically rich soil in full shade to bright indirect light; pot-bound clumps bloom more freely so resist dividing unless necessary."
+    },
+    "usda_zones": { "min": 9, "max": 11 },
+    "spacing_in": { "min": 18, "max": 24 },
+    "height_in": { "min": 18, "max": 24 },
+    "spread_in": { "min": 18, "max": 24 },
+    "sun": "shade",
+    "water": "moderate",
+    "directions": "Plant offsets or container plants in well-drained, organically enriched soil in full shade to bright indirect light, keeping the fleshy roots slightly pot-bound to encourage flowering; clivia produces clusters of brilliant orange or yellow trumpet flowers on tall scapes in late winter to spring when given a 6-week cool, dry rest period (50–55°F) in autumn. Water regularly during active growth but reduce watering sharply in fall to trigger the rest period that promotes next season's bloom. In zone 9 and cooler, grow in containers and bring indoors before frost. Divide large clumps after flowering by severing rooted offsets with a clean knife and allowing cuts to callus before repotting.",
+    "sources": [
+      "University of Florida IFAS Extension",
+      "Missouri Botanical Garden Plant Finder",
+      "Royal Horticultural Society — Plant Selector"
+    ]
+  },
+  {
+    "slug": "cyclamen",
+    "common_name": "Hardy Cyclamen",
+    "scientific_name": "Cyclamen hederifolium",
+    "category": "flower",
+    "subcategory": "shade tuber",
+    "days_to_germination": { "min": 30, "max": 60 },
+    "germination_soil_temp_f": { "min": 55, "max": 65 },
+    "days_to_maturity": { "min": 90, "max": 180 },
+    "maturity_from": "transplant",
+    "sow_method": "tuber",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": { "min": -8, "max": -4 },
+      "note": "Plant dry tubers in late summer to early fall, barely covered with soil, in well-drained, humus-rich soil under deciduous trees or shrubs in partial to full shade."
+    },
+    "usda_zones": { "min": 5, "max": 9 },
+    "spacing_in": { "min": 4, "max": 6 },
+    "height_in": { "min": 4, "max": 6 },
+    "spread_in": { "min": 4, "max": 8 },
+    "sun": "shade",
+    "water": "low",
+    "directions": "Plant dry tubers barely below the soil surface in late summer in sharply drained, humus-rich soil under deciduous trees where they will receive dappled light; hardy cyclamen naturalize freely under conditions that defeat most shade perennials, producing nodding pink-to-white swept-back flowers in autumn before the ivy-patterned silver-marbled leaves emerge and carpet the ground through winter and spring. The tubers expand slowly into flat pancake-like corms that can live for decades; never bury them deeply or they will rot. Allow the summer dormancy period (foliage yellows and disappears) naturally — do not water when plants are dormant. Self-sown seedlings take 3–4 years to reach flowering size but eventually colonize shady spots without any management.",
+    "sources": [
+      "Missouri Botanical Garden Plant Finder",
+      "North Carolina State Extension — Plants Database",
+      "Royal Horticultural Society — Plant Selector"
+    ]
+  },
+  {
+    "slug": "corydalis",
+    "common_name": "Yellow Corydalis",
+    "scientific_name": "Corydalis lutea",
+    "category": "flower",
+    "subcategory": "shade perennial",
+    "days_to_germination": { "min": 21, "max": 60 },
+    "germination_soil_temp_f": { "min": 50, "max": 65 },
+    "days_to_maturity": { "min": 60, "max": 90 },
+    "maturity_from": "transplant",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": { "min": 0, "max": 4 },
+      "note": "Sow fresh seed in late summer or early fall directly in cool, moist, well-drained soil in partial to full shade; plants self-sow abundantly and often establish in wall crevices and shaded rock garden pockets."
+    },
+    "usda_zones": { "min": 5, "max": 8 },
+    "spacing_in": { "min": 9, "max": 12 },
+    "height_in": { "min": 9, "max": 15 },
+    "spread_in": { "min": 9, "max": 12 },
+    "sun": "shade",
+    "water": "moderate",
+    "directions": "Sow fresh seed directly in fall or set out container plants in spring in partial to full shade in well-drained, average to humus-rich soil; yellow corydalis produces lacy blue-green ferny foliage and a near-continuous display of golden-yellow spurred flowers from spring through frost, blooming even when most shade plants are between cycles. It self-sows prolifically and naturalizes quickly in cool, shaded spots including wall crevices, gaps in flagstone, and the dry shade under evergreens. Plants go summer-dormant in hot climates but regrow in fall where winters are mild. Deadhead spent flowering stems to limit unwanted spread if needed.",
+    "sources": [
+      "Missouri Botanical Garden Plant Finder",
+      "Pennsylvania Horticultural Society — Gold Medal Plants"
+    ]
+  },
+  {
+    "slug": "chelone",
+    "common_name": "Rose Turtlehead",
+    "scientific_name": "Chelone obliqua",
+    "category": "flower",
+    "subcategory": "shade perennial",
+    "days_to_germination": { "min": 21, "max": 30 },
+    "germination_soil_temp_f": { "min": 55, "max": 65 },
+    "days_to_maturity": { "min": 90, "max": 120 },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": { "min": 0, "max": 4 },
+      "note": "Plant divisions or container plants in moist to wet, organically rich soil in partial shade in spring; turtlehead thrives along stream banks, pond margins, and rain gardens where soil stays consistently moist."
+    },
+    "usda_zones": { "min": 3, "max": 9 },
+    "spacing_in": { "min": 18, "max": 24 },
+    "height_in": { "min": 24, "max": 36 },
+    "spread_in": { "min": 18, "max": 24 },
+    "sun": "partial",
+    "water": "high",
+    "directions": "Plant divisions or nursery plants in consistently moist, organically enriched soil in partial shade, spacing 18–24 inches apart; rose turtlehead produces deep pink hooded flowers that really do resemble a turtle's head from late summer into fall when most shade perennials have finished blooming, making it valuable for extending the season in wet spots and rain gardens. It is a native nectar plant and larval host for the Baltimore checkerspot butterfly. Pinch stems by half in early June to promote bushier growth and prevent flopping. Divide clumps every 3–4 years in spring to maintain vigor and spread to new areas.",
+    "sources": [
+      "Missouri Botanical Garden Plant Finder",
+      "North Carolina State Extension — Plants Database",
+      "Lady Bird Johnson Wildflower Center"
+    ]
+  },
+  {
+    "slug": "fothergilla",
+    "common_name": "Dwarf Fothergilla",
+    "scientific_name": "Fothergilla gardenii",
+    "category": "flower",
+    "subcategory": "shade shrub",
+    "days_to_germination": { "min": 90, "max": 180 },
+    "germination_soil_temp_f": { "min": 55, "max": 65 },
+    "days_to_maturity": { "min": 365, "max": 730 },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": { "min": 0, "max": 4 },
+      "note": "Plant container or balled-and-burlapped specimens in moist, acidic, well-drained soil in partial shade in spring or early fall; fothergilla requires acidic soil (pH 4.5–6.0) and performs best alongside azaleas and rhododendrons."
+    },
+    "usda_zones": { "min": 4, "max": 9 },
+    "spacing_in": { "min": 36, "max": 60 },
+    "height_in": { "min": 24, "max": 36 },
+    "spread_in": { "min": 36, "max": 48 },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Plant in moist, acidic (pH 4.5–6.0), well-drained soil amended with peat or leaf mold in partial shade, spacing plants 3–5 feet apart; dwarf fothergilla is a native Eastern U.S. shrub that delivers two seasons of peak interest — fragrant white bottlebrush flowers in early spring before the leaves unfurl, and sensational orange-red-yellow multi-color fall foliage that rivals the best maples. It performs equally well in full sun but tolerates considerable shade and is exceptionally low-maintenance once established. No pruning is required; if shaping is desired, trim lightly immediately after flowering. Combines naturally with azaleas, leucothoe, and native ferns.",
+    "sources": [
+      "Missouri Botanical Garden Plant Finder",
+      "North Carolina State Extension — Plants Database",
+      "Lady Bird Johnson Wildflower Center"
+    ]
+  },
+  {
+    "slug": "pieris",
+    "common_name": "Japanese Andromeda",
+    "scientific_name": "Pieris japonica",
+    "category": "flower",
+    "subcategory": "shade shrub",
+    "days_to_germination": { "min": 30, "max": 60 },
+    "germination_soil_temp_f": { "min": 60, "max": 70 },
+    "days_to_maturity": { "min": 365, "max": 730 },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": { "min": 0, "max": 4 },
+      "note": "Plant in moist, acidic, well-drained soil in partial shade in spring or early fall; avoid heavy clay and alkaline soil — pH 4.5–6.0 is optimal and drainage is essential to prevent root rot."
+    },
+    "usda_zones": { "min": 5, "max": 8 },
+    "spacing_in": { "min": 48, "max": 72 },
+    "height_in": { "min": 48, "max": 96 },
+    "spread_in": { "min": 48, "max": 72 },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Plant in moist, acidic (pH 4.5–6.0), well-drained soil in partial shade, giving each plant 4–6 feet of space; Japanese andromeda is a four-season evergreen shrub notable for chains of white urn-shaped flowers in early spring that hang like lily-of-the-valley, glossy red or bronze new growth that gradually matures to dark green, and persistent buds that decorate the plant through winter. Protect from afternoon sun in hotter zones to prevent leaf scorch; afternoon shade extends its range into zone 7 and 8. Prune lightly after flowering to shape; deadhead spent flower clusters to encourage stronger bud-set for the following year. All parts are toxic if ingested.",
+    "sources": [
+      "Missouri Botanical Garden Plant Finder",
+      "North Carolina State Extension — Plants Database",
+      "Royal Horticultural Society — Plant Selector"
+    ]
+  },
+  {
+    "slug": "toadshade",
+    "common_name": "Toadshade Trillium",
+    "scientific_name": "Trillium sessile",
+    "category": "flower",
+    "subcategory": "shade native",
+    "days_to_germination": { "min": 365, "max": 730 },
+    "germination_soil_temp_f": { "min": 50, "max": 65 },
+    "days_to_maturity": { "min": 1095, "max": 1825 },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": { "min": -8, "max": -4 },
+      "note": "Plant rhizome divisions in late summer to early fall in deep, humus-rich, moist, well-drained soil under deciduous trees; trillium requires at least 2 stratification cycles to germinate from seed and takes 5–7 years to flower."
+    },
+    "usda_zones": { "min": 4, "max": 9 },
+    "spacing_in": { "min": 6, "max": 9 },
+    "height_in": { "min": 8, "max": 15 },
+    "spread_in": { "min": 6, "max": 9 },
+    "sun": "shade",
+    "water": "moderate",
+    "directions": "Plant rhizome divisions in late summer in deep, humus-rich, moist, well-drained soil under deciduous hardwoods in full shade; toadshade is one of the most shade-tolerant spring ephemerals in the Eastern U.S., producing mottled, marbled leaves marked in silver-green and deep maroon stalkless flowers that emerge directly from the center of the three-leaf whorl in mid-spring. Plants go completely dormant by early summer — mark locations carefully and never disturb the rhizomes when dormant. Enrich planting beds with aged leaf mold and avoid compost or fertilizer that raises pH. Purchase nursery-propagated plants only; wild-collected trilliums rarely transplant successfully and are often illegally harvested.",
+    "sources": [
+      "Missouri Botanical Garden Plant Finder",
+      "Lady Bird Johnson Wildflower Center",
+      "North Carolina State Extension — Plants Database"
+    ]
+  },
+  {
+    "slug": "dieffenbachia",
+    "common_name": "Dumb Cane",
+    "scientific_name": "Dieffenbachia seguine",
+    "category": "flower",
+    "subcategory": "shade tropical",
+    "days_to_germination": { "min": 21, "max": 42 },
+    "germination_soil_temp_f": { "min": 70, "max": 80 },
+    "days_to_maturity": { "min": 180, "max": 365 },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": { "min": 0, "max": 8 },
+      "note": "Root stem cuttings in moist potting mix at 70–80°F in bright indirect light to deep shade; in zones 10–12 plant outdoors in moist, humus-rich, well-drained soil in partial to full shade."
+    },
+    "usda_zones": { "min": 10, "max": 12 },
+    "spacing_in": { "min": 24, "max": 36 },
+    "height_in": { "min": 36, "max": 72 },
+    "spread_in": { "min": 24, "max": 36 },
+    "sun": "shade",
+    "water": "moderate",
+    "directions": "Root stem cuttings by laying cut sections horizontally on moist potting mix or inserting upright sections in perlite and peat at 70–80°F; dieffenbachia grows vigorously in deep shade and tolerates the low-light conditions of interior spaces that defeat most ornamental plants, producing large paddle-shaped leaves strikingly patterned in cream, white, and various shades of green. Outdoors in zones 10–12, use in mass plantings under trees or along shaded foundations where its bold tropical texture creates lush contrast. All parts contain calcium oxalate crystals that cause intense burning and temporary loss of speech if chewed — keep away from children and pets, and wear gloves when cutting. Flush soil occasionally to prevent fertilizer salt buildup.",
+    "sources": [
+      "University of Florida IFAS Extension",
+      "Missouri Botanical Garden Plant Finder",
+      "Clemson Cooperative Extension Home & Garden Information Center"
+    ]
+  },
+  {
+    "slug": "wake-robin",
+    "common_name": "Purple Trillium",
+    "scientific_name": "Trillium erectum",
+    "category": "flower",
+    "subcategory": "shade native",
+    "days_to_germination": { "min": 365, "max": 730 },
+    "germination_soil_temp_f": { "min": 50, "max": 65 },
+    "days_to_maturity": { "min": 1095, "max": 1825 },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": { "min": -8, "max": -4 },
+      "note": "Plant nursery-propagated rhizome divisions in late summer or early fall in deep, humus-rich, moist, well-drained soil in full shade under deciduous trees."
+    },
+    "usda_zones": { "min": 4, "max": 7 },
+    "spacing_in": { "min": 6, "max": 9 },
+    "height_in": { "min": 8, "max": 18 },
+    "spread_in": { "min": 6, "max": 9 },
+    "sun": "shade",
+    "water": "moderate",
+    "directions": "Plant nursery-propagated rhizomes in late summer in deep, humus-rich, moist, acidic soil in full shade under deciduous hardwoods; purple trillium is a native woodland wildflower of the Appalachians and Northeast that emerges in mid-spring on erect stems bearing a whorl of three broad leaves and a single dark red to purple flower with a distinctive musky odor that attracts carrion-fly pollinators. Plants enter full summer dormancy by July — mark planting locations to avoid accidental disturbance. Enrich soil with generous amounts of aged leaf mold and fallen oak leaves to mimic the rich forest floor conditions these plants evolved in. Only purchase from reputable nurseries selling nursery-propagated, not wild-collected, stock.",
+    "sources": [
+      "Missouri Botanical Garden Plant Finder",
+      "Lady Bird Johnson Wildflower Center",
+      "North Carolina State Extension — Plants Database"
+    ]
+  }
+]

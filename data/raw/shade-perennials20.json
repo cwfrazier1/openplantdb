@@ -1,0 +1,157 @@
+[
+  {
+    "slug": "epimedium-grandiflorum",
+    "common_name": "Longspur Barrenwort",
+    "scientific_name": "Epimedium grandiflorum",
+    "category": "flower",
+    "subcategory": "shade groundcover perennial",
+    "days_to_germination": { "min": 30, "max": 90 },
+    "germination_soil_temp_f": { "min": 55, "max": 65 },
+    "days_to_maturity": { "min": 180, "max": 365 },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": { "min": -4, "max": 0 },
+      "note": "Divide clumps in early spring (before new growth begins) or fall, or plant container-grown specimens in well-drained, slightly acidic, humus-rich to average soil in partial to full shade; longspur barrenwort is exceptional among shade groundcovers in its ability to spread and bloom under the root competition and drought of large deciduous trees — established plants require remarkably little supplemental water once the root system is well established."
+    },
+    "usda_zones": { "min": 4, "max": 8 },
+    "spacing_in": { "min": 9, "max": 12 },
+    "height_in": { "min": 8, "max": 14 },
+    "spread_in": { "min": 9, "max": 18 },
+    "sun": "shade",
+    "water": "low",
+    "directions": "Divide clumps in early spring or fall, or plant container specimens in well-drained, humus-rich to average soil in partial to full shade; longspur barrenwort is a Japanese and Korean woodland perennial that is one of the most versatile, tough, and ultimately rewarding shade groundcovers for temperate gardens — it produces a weed-suppressing carpet of heart-shaped, compound leaves that emerge in spring with striking copper-bronze to rose-red new-growth coloring before maturing to medium-green, and in mid-spring bears airy sprays of delicate, spidery flowers with four prominent long spurs in white, pink, purple, or bicolor combinations depending on the variety. The species is among the most drought-tolerant of all shade-garden perennials once established, thriving in the dry, competitive root zone of mature deciduous trees where most other groundcovers would languish. Many species and cultivars are semi-evergreen, with the previous season's foliage persisting through winter in a rust-bronze color that is ornamental in its own right. 'Album' (white), 'Rose Queen' (pink), and 'Violet Queen' (violet-purple) are among the best-known cultivars; the Japanese nursery industry has produced hundreds of species hybrids.",
+    "sources": [
+      "Missouri Botanical Garden Plant Finder",
+      "North Carolina State Extension — Plants Database",
+      "Royal Horticultural Society — Plant Selector"
+    ]
+  },
+  {
+    "slug": "epimedium-versicolor",
+    "common_name": "Versicolor Barrenwort",
+    "scientific_name": "Epimedium × versicolor",
+    "category": "flower",
+    "subcategory": "shade groundcover perennial",
+    "days_to_germination": { "min": 30, "max": 90 },
+    "germination_soil_temp_f": { "min": 55, "max": 65 },
+    "days_to_maturity": { "min": 90, "max": 180 },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": { "min": -4, "max": 0 },
+      "note": "Divide clumps in early spring before new growth begins or in fall, or plant container-grown specimens in well-drained, slightly acidic to neutral, humus-rich to average soil in partial to full shade; versicolor barrenwort tolerates dry shade under large conifers and shallow-rooted trees better than almost any other ornamental groundcover — it is one of the first plants to try in those notoriously difficult positions."
+    },
+    "usda_zones": { "min": 4, "max": 8 },
+    "spacing_in": { "min": 9, "max": 15 },
+    "height_in": { "min": 10, "max": 16 },
+    "spread_in": { "min": 12, "max": 24 },
+    "sun": "shade",
+    "water": "low",
+    "directions": "Divide clumps or plant container specimens in well-drained, humus-rich to average soil in partial to full shade; versicolor barrenwort (Epimedium × versicolor) is a hybrid between E. grandiflorum and E. pinnatum subsp. colchicum that is widely regarded as the most vigorous, adaptable, and drought-tolerant of the garden epimediums — the cultivar 'Sulphureum' is particularly popular, with semi-evergreen, heart-shaped, compound leaves that emerge with a rich copper-red mottling in spring before maturing to medium green, and bright-yellow, four-spurred flowers produced in loose, airy sprays in mid-spring. The plant spreads more vigorously than the straight species epimediums by rhizomes, forming an increasingly dense, weed-suppressing groundcover mat that is exceptional in dry shade under conifers, maples, beeches, and other notoriously difficult root-competitive trees. In mild winters the foliage is semi-evergreen, providing year-round cover. Once established it is extraordinarily drought-tolerant and requires essentially no supplemental irrigation. 'Sulphureum' remains the standard against which other yellow-flowered epimediums are measured.",
+    "sources": [
+      "Missouri Botanical Garden Plant Finder",
+      "Royal Horticultural Society — Plant Selector",
+      "North Carolina State Extension — Plants Database"
+    ]
+  },
+  {
+    "slug": "polygonatum-odoratum",
+    "common_name": "Fragrant Solomon's Seal",
+    "scientific_name": "Polygonatum odoratum",
+    "category": "flower",
+    "subcategory": "shade woodland perennial",
+    "days_to_germination": { "min": 60, "max": 120 },
+    "germination_soil_temp_f": { "min": 55, "max": 65 },
+    "days_to_maturity": { "min": 180, "max": 365 },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": { "min": -4, "max": 0 },
+      "note": "Divide rhizomes in early spring before shoots emerge, or plant container-grown specimens in moist, slightly acidic, humus-rich, well-drained soil in partial to full shade; fragrant Solomon's seal establishes slowly in the first year but expands steadily thereafter — rhizome divisions should include at least one growth bud and be planted horizontally just below the soil surface."
+    },
+    "usda_zones": { "min": 4, "max": 9 },
+    "spacing_in": { "min": 12, "max": 18 },
+    "height_in": { "min": 18, "max": 30 },
+    "spread_in": { "min": 12, "max": 24 },
+    "sun": "shade",
+    "water": "moderate",
+    "directions": "Divide rhizomes or plant container specimens in moist, humus-rich, well-drained soil in partial to full shade; fragrant Solomon's seal is a Japanese and European woodland perennial celebrated for the extraordinary architectural grace of its arching stems — each unbranched, leafy, gently arching stem carries two alternating rows of oval, deep-green, pointed leaves from whose axils hang paired, small, pendant, white, tubular, bell-shaped flowers with faint green tips in spring, and the flowers are delicately and sweetly fragrant in the cultivar 'Variegatum' (the most widely grown form, with leaves elegantly edged in creamy-white). The naturally arching habit of the stems is one of the most beautiful and refined forms in the woodland garden. After flowering, dark-blue berries develop along the underside of the stems. In fall the foliage turns a warm, clear yellow before dying back to the ground. 'Variegatum' (syn. 'Striatum') is the primary cultivar in commerce, its white-margined leaves providing luminous, long-season color in deep shade. Fragrant Solomon's seal is more strongly scented than the common species (P. multiflorum) and is indispensable in the classic shade garden.",
+    "sources": [
+      "Missouri Botanical Garden Plant Finder",
+      "North Carolina State Extension — Plants Database",
+      "Royal Horticultural Society — Plant Selector"
+    ]
+  },
+  {
+    "slug": "carex-buchananii",
+    "common_name": "Leatherleaf Sedge",
+    "scientific_name": "Carex buchananii",
+    "category": "flower",
+    "subcategory": "ornamental sedge",
+    "days_to_germination": { "min": 21, "max": 42 },
+    "germination_soil_temp_f": { "min": 60, "max": 70 },
+    "days_to_maturity": { "min": 90, "max": 180 },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": { "min": 0, "max": 4 },
+      "note": "Divide clumps in spring or plant container-grown specimens in well-drained, slightly acidic to neutral, average to humus-rich soil in partial shade to full sun in spring; leatherleaf sedge can be difficult to establish in the hot, humid summers of the Deep South — it performs best in zone 6–8 where temperatures are moderate, and in zone 9 it is often grown as a cool-season perennial or annual in partially shaded, well-ventilated sites."
+    },
+    "usda_zones": { "min": 6, "max": 9 },
+    "spacing_in": { "min": 12, "max": 18 },
+    "height_in": { "min": 18, "max": 30 },
+    "spread_in": { "min": 12, "max": 18 },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Divide clumps or plant container specimens in well-drained, average to humus-rich soil in partial shade to full sun; leatherleaf sedge is a New Zealand ornamental sedge that has become a widely used foliage accent plant in contemporary gardens for its distinctive, intensely copper-bronze to reddish-brown, hair-fine, arching leaf blades that form elegant, cascading tussocks with a characteristic twist and spiral curl at the leaf tips. The warm, reddish-copper foliage color is unique among commonly grown ornamental sedges and grasses and associates beautifully with blue-green hostas, silver artemisias, and deep-green ferns in partial-shade compositions. The color is most vivid in full sun but the plant performs acceptably in partial shade. The foliage is evergreen in mild climates and creates a striking winter texture when most other garden plants have died back. Small, brownish flower spikes appear in summer but are relatively inconspicuous compared to the outstanding foliage. An excellent accent plant in modern garden design, container arrangements, and mixed borders.",
+    "sources": [
+      "Missouri Botanical Garden Plant Finder",
+      "North Carolina State Extension — Plants Database",
+      "Royal Horticultural Society — Plant Selector"
+    ]
+  },
+  {
+    "slug": "dianella-tasmanica",
+    "common_name": "Tasman Flax Lily",
+    "scientific_name": "Dianella tasmanica",
+    "category": "flower",
+    "subcategory": "shade-tolerant grass-like perennial",
+    "days_to_germination": { "min": 21, "max": 60 },
+    "germination_soil_temp_f": { "min": 60, "max": 70 },
+    "days_to_maturity": { "min": 90, "max": 180 },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": { "min": 0, "max": 4 },
+      "note": "Divide clumps in spring or fall, or plant container-grown specimens in well-drained, slightly acidic, humus-rich to average soil in partial shade to full sun in spring; Tasman flax lily establishes quickly and spreads steadily by underground runners — plant 18–24 inches apart and divide every 3–4 years when the center of large clumps begins to die out."
+    },
+    "usda_zones": { "min": 8, "max": 11 },
+    "spacing_in": { "min": 18, "max": 24 },
+    "height_in": { "min": 24, "max": 36 },
+    "spread_in": { "min": 18, "max": 30 },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Divide clumps or plant container specimens in well-drained, humus-rich to average soil in partial shade to full sun; Tasman flax lily is an Australian evergreen perennial groundcover that combines ornamental foliage, flowers, and berries across a long season — it grows in spreading, grass-like clumps of narrow, strap-shaped, dark-green, stiff, arching leaves and in late spring produces loose, delicate, branching panicles of small, sky-blue to soft-lilac, six-petaled, star-shaped flowers on tall, wiry stems. The flowers are followed by the plant's most ornamental feature: clusters of intensely vivid, shining, deep-blue to purple-blue berries that persist on the plant for weeks and are striking against the dark foliage. The berries are the primary ornamental feature that distinguishes Dianella from similar grass-like perennials. The plant is notably shade-tolerant and drought-tolerant once established and spreads steadily by underground stolons to form a dense, weed-suppressing groundcover. An excellent, easy-care, low-maintenance shade groundcover for zone 8–11 with four-season interest.",
+    "sources": [
+      "University of Florida IFAS Extension",
+      "Missouri Botanical Garden Plant Finder",
+      "Royal Horticultural Society — Plant Selector"
+    ]
+  }
+]
