@@ -1,0 +1,157 @@
+[
+  {
+    "slug": "honeyberry",
+    "common_name": "Honeyberry (Haskap)",
+    "scientific_name": "Lonicera caerulea",
+    "category": "berry",
+    "subcategory": "native fruiting shrub",
+    "days_to_germination": {"min": 14, "max": 28},
+    "germination_soil_temp_f": {"min": 60, "max": 68},
+    "days_to_maturity": {"min": 1095, "max": 1460},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 2},
+      "note": "Plant bare-root or container shrubs in early spring as soon as the ground can be worked; plant at least two different cultivars for cross-pollination, as most cultivars are self-infertile."
+    },
+    "usda_zones": {"min": 2, "max": 6},
+    "spacing_in": {"min": 48, "max": 72},
+    "height_in": {"min": 48, "max": 72},
+    "spread_in": {"min": 48, "max": 72},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant two or more different cultivars for cross-pollination in well-drained, slightly acidic soil (pH 5.5\u20137.0) in full sun; honeyberry is an edible-fruited honeysuckle native to boreal regions of Russia, Japan, and Canada that produces sweet-tart blue berries resembling elongated blueberries in late spring \u2014 the first fresh fruit of the season in cold climates. Plants tolerate temperatures to -40\u00b0F and the flowers survive spring frosts to -8\u00b0F. Fruit is borne on second-year wood, so avoid heavy pruning in the first three years. Cultivars 'Tundra', 'Indigo Gem', and 'Borealis' are among the most productive for North American gardens.",
+    "sources": [
+      "University of Saskatchewan Fruit Program",
+      "Oregon State University Extension",
+      "Agriculture and Agri-Food Canada"
+    ]
+  },
+  {
+    "slug": "hawthorn",
+    "common_name": "Common Hawthorn",
+    "scientific_name": "Crataegus monogyna",
+    "category": "fruit",
+    "subcategory": "native fruiting shrub",
+    "days_to_germination": {"min": 365, "max": 540},
+    "germination_soil_temp_f": {"min": 60, "max": 70},
+    "days_to_maturity": {"min": 1825, "max": 3650},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": -2, "max": 2},
+      "note": "Plant bare-root transplants in late winter or early spring while dormant; seed requires warm stratification (3 months) followed by cold stratification (3 months) and takes 2 seasons to germinate naturally when fall-sown."
+    },
+    "usda_zones": {"min": 4, "max": 8},
+    "spacing_in": {"min": 120, "max": 240},
+    "height_in": {"min": 120, "max": 360},
+    "spread_in": {"min": 120, "max": 240},
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant in any well-drained soil in full sun; common hawthorn is an exceptionally tough small tree or large shrub valued for its dense thorny habit providing excellent wildlife cover, profuse white spring flowers, and abundant red berries (haws) that feed birds through winter. The haws are edible \u2014 mildly flavored, slightly mealy, and high in antioxidant flavonoids \u2014 and are used to make jellies, wines, and medicinal syrups with a long history in European herbal medicine. Tolerates urban pollution, heavy clay, coastal exposure, and severe pruning. For hedging, plant 18 inches apart and shear twice yearly; the dense spiny habit makes a stock-proof barrier within a few years.",
+    "sources": [
+      "Royal Horticultural Society",
+      "Plants for a Future Database",
+      "USDA Natural Resources Conservation Service"
+    ]
+  },
+  {
+    "slug": "wild-plum",
+    "common_name": "American Wild Plum",
+    "scientific_name": "Prunus americana",
+    "category": "fruit",
+    "subcategory": "native fruiting shrub",
+    "days_to_germination": {"min": 90, "max": 120},
+    "germination_soil_temp_f": {"min": 60, "max": 70},
+    "days_to_maturity": {"min": 1095, "max": 1825},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": -4, "max": -2},
+      "note": "Plant bare-root stock in late winter or early spring while dormant; direct sow stratified seed (90 days cold) in fall or early spring. Plant multiple individuals to ensure cross-pollination and maximum fruit set."
+    },
+    "usda_zones": {"min": 3, "max": 8},
+    "spacing_in": {"min": 120, "max": 180},
+    "height_in": {"min": 120, "max": 240},
+    "spread_in": {"min": 120, "max": 240},
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant in well-drained soil in full sun; American wild plum is a rugged native shrub or small thicket-forming tree that produces fragrant white flower clusters in early spring before the leaves emerge, then bright red or yellow-orange tart plums 3/4\u20131 inch in diameter in July through August. The thickets provide excellent wildlife cover and nesting sites. Wild plum suckers heavily and can naturalize into large hedgerows \u2014 a valuable feature in permaculture designs. The tart fruits are excellent for jams, jellies, sauces, and fruit leathers; deer, foxes, raccoons, and dozens of bird species rely on them. Tolerates drought, clay, alkaline soils, and extreme cold once established.",
+    "sources": [
+      "USDA Natural Resources Conservation Service",
+      "Lady Bird Johnson Wildflower Center",
+      "University of Nebraska Extension"
+    ]
+  },
+  {
+    "slug": "chokecherry",
+    "common_name": "Chokecherry",
+    "scientific_name": "Prunus virginiana",
+    "category": "fruit",
+    "subcategory": "native fruiting shrub",
+    "days_to_germination": {"min": 60, "max": 90},
+    "germination_soil_temp_f": {"min": 60, "max": 70},
+    "days_to_maturity": {"min": 1095, "max": 1825},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": -4, "max": -2},
+      "note": "Plant bare-root stock in late winter or early spring; seed requires 90\u2013120 days cold stratification and is best sown outdoors in fall for spring germination."
+    },
+    "usda_zones": {"min": 2, "max": 7},
+    "spacing_in": {"min": 120, "max": 240},
+    "height_in": {"min": 120, "max": 300},
+    "spread_in": {"min": 120, "max": 240},
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant in well-drained to dry soil in full sun to partial shade; chokecherry is one of North America\u2019s most cold-hardy and adaptable native fruiting shrubs, ranging from Alaska to Tennessee and coast to coast. Fragrant white flower racemes appear in spring followed by clusters of small dark red to purple-black fruits in mid-summer. The astringent, very tart fruits are too acidic to eat raw in quantity but cook into outstanding jams, syrups, and wines with a flavor reminiscent of Concord grape; the juice has been used by indigenous peoples for centuries as a food, dye, and medicine. It suckers freely to form thickets, providing excellent wildlife habitat. Cultivars 'Schubert' and 'Canada Red' have striking purple summer foliage.",
+    "sources": [
+      "USDA Natural Resources Conservation Service",
+      "University of Wisconsin Extension",
+      "Lady Bird Johnson Wildflower Center"
+    ]
+  },
+  {
+    "slug": "rugosa-rose",
+    "common_name": "Rugosa Rose",
+    "scientific_name": "Rosa rugosa",
+    "category": "fruit",
+    "subcategory": "fruiting shrub",
+    "days_to_germination": {"min": 30, "max": 90},
+    "germination_soil_temp_f": {"min": 60, "max": 68},
+    "days_to_maturity": {"min": 730, "max": 1095},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": -4, "max": -2},
+      "note": "Plant bare-root shrubs in late winter or early spring; rugosa rose establishes quickly and begins producing hips in its second or third year."
+    },
+    "usda_zones": {"min": 2, "max": 7},
+    "spacing_in": {"min": 48, "max": 72},
+    "height_in": {"min": 48, "max": 72},
+    "spread_in": {"min": 48, "max": 72},
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant in well-drained soil including poor sandy or salty soils where few shrubs survive; rugosa rose is extraordinarily tough and requires almost no maintenance once established. The intensely fragrant single or semi-double flowers in magenta, pink, or white bloom repeatedly from late spring to fall, followed by the largest and most nutritious rose hips of any commonly grown species \u2014 orange-red to scarlet tomato-shaped hips up to 1 inch in diameter that are exceptionally rich in vitamin C. Hips are harvested after the first frost when fully soft and red for rosehip tea, syrup, jam, and wine. The dense, thorny habit makes an excellent barrier hedge. Remove only dead wood; avoid hard pruning, which disrupts repeat flowering.",
+    "sources": [
+      "Royal Horticultural Society",
+      "USDA Natural Resources Conservation Service",
+      "Plants for a Future Database"
+    ]
+  }
+]

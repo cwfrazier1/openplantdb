@@ -1,0 +1,157 @@
+[
+  {
+    "slug": "tree-collard",
+    "common_name": "Tree Collard",
+    "scientific_name": "Brassica oleracea var. acephala",
+    "category": "vegetable",
+    "subcategory": "perennial brassica",
+    "days_to_germination": {"min": 4, "max": 7},
+    "germination_soil_temp_f": {"min": 50, "max": 75},
+    "days_to_maturity": {"min": 60, "max": 90},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Root stem cuttings 6\u20138 inches long in moist soil or water; tree collard roots easily from cuttings and is not commonly grown from seed. In zones 9\u201311 it grows as an evergreen perennial shrub and can be planted and harvested year-round."
+    },
+    "usda_zones": {"min": 7, "max": 11},
+    "spacing_in": {"min": 24, "max": 48},
+    "height_in": {"min": 48, "max": 96},
+    "spread_in": {"min": 24, "max": 36},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Root 6\u20138 inch stem cuttings from an existing plant in moist compost; tree collard is a long-lived perennial brassica that grows as a woody shrub 4\u20138 feet tall, producing continuously harvestable blue-green to purple leaves with the same flavor as regular collard greens. Unlike annual collards that must be replanted each season, a single tree collard plant can produce edible leaves for a decade or more. They are propagated only by stem cuttings, never true to seed. In hot climates, tree collards perform best with some afternoon shade. Two main types exist: green-leaved (more vigorous) and purple-leaved (more ornamental). An outstanding plant for permaculture and food forest systems where perennial productivity is valued over annual yields.",
+    "sources": [
+      "University of California Cooperative Extension",
+      "University of Florida IFAS Extension",
+      "Plants for a Future Database"
+    ]
+  },
+  {
+    "slug": "nine-star-broccoli",
+    "common_name": "Nine Star Perennial Broccoli",
+    "scientific_name": "Brassica oleracea 'Nine Star'",
+    "category": "vegetable",
+    "subcategory": "perennial brassica",
+    "days_to_germination": {"min": 4, "max": 7},
+    "germination_soil_temp_f": {"min": 50, "max": 75},
+    "days_to_maturity": {"min": 180, "max": 365},
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": -8, "max": -6},
+      "note": "Start indoors 6\u20138 weeks before last frost; transplant to its permanent position as nine star broccoli is a long-lived perennial that does not want to be moved once established. It requires a permanent, deeply dug, fertile position."
+    },
+    "usda_zones": {"min": 5, "max": 9},
+    "spacing_in": {"min": 24, "max": 36},
+    "height_in": {"min": 24, "max": 48},
+    "spread_in": {"min": 24, "max": 36},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Transplant to deeply dug, richly amended soil in full sun; nine star is a remarkable perennial broccoli variety that sends up multiple small white or pale yellow broccoli-like heads in early spring, year after year, for up to 4\u20135 years from a single planting. The key to maintaining the perennial habit is to harvest all the heads before any can flower and set seed \u2014 once a plant is allowed to flower, it may cease to perennial and become biennial. The heads are smaller than commercial broccoli (tennis ball-sized) but very numerous on established plants, and the flavor is excellent. After harvesting the heads, the plant sends up side shoots producing cut-and-come-again broccoli for weeks. Feed heavily after harvest to support the following year's growth.",
+    "sources": [
+      "Royal Horticultural Society",
+      "Plants for a Future Database",
+      "Thompson & Morgan Seed Company"
+    ]
+  },
+  {
+    "slug": "african-basil",
+    "common_name": "African Basil (Clove Basil)",
+    "scientific_name": "Ocimum gratissimum",
+    "category": "herb",
+    "subcategory": "tropical perennial herb",
+    "days_to_germination": {"min": 7, "max": 14},
+    "germination_soil_temp_f": {"min": 70, "max": 85},
+    "days_to_maturity": {"min": 60, "max": 90},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 2, "max": 4},
+      "note": "Root stem cuttings in water or moist soil; African basil grows as a woody perennial shrub in zones 9\u201311 and can reach 3\u20136 feet tall. In colder climates it can be wintered indoors as a container plant and brought outside in summer."
+    },
+    "usda_zones": {"min": 9, "max": 11},
+    "spacing_in": {"min": 18, "max": 36},
+    "height_in": {"min": 24, "max": 60},
+    "spread_in": {"min": 18, "max": 36},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Root cuttings in warm conditions and transplant to rich, well-drained soil in full sun; African basil is a large, woody, heat-tolerant basil relative native to tropical Africa and widely grown across West Africa, East Africa, and South Asia as a culinary and medicinal herb. The flavor differs substantially from European sweet basil \u2014 it has a strong clove-like note, more eucalyptus, and a camphor-like medicinal quality rather than the sweet anise of Italian basil. Used in soups, stews, and pepper sauces across Nigeria, Ghana, and Ethiopia; the dried leaves are an ingredient in berbere spice blend. In hot, humid Gulf Coast gardens it thrives and produces prolifically where annual basil struggles with disease. Small white flowers attract pollinators profusely.",
+    "sources": [
+      "University of Florida IFAS Extension",
+      "FAO Food and Agriculture Organization, African Leafy Vegetables",
+      "Royal Botanic Gardens Kew"
+    ]
+  },
+  {
+    "slug": "cleveland-sage",
+    "common_name": "Cleveland Sage",
+    "scientific_name": "Salvia clevelandii",
+    "category": "flower",
+    "subcategory": "native aromatic shrub",
+    "days_to_germination": {"min": 14, "max": 21},
+    "germination_soil_temp_f": {"min": 65, "max": 75},
+    "days_to_maturity": {"min": 365, "max": 730},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 2, "max": 4},
+      "note": "Root semi-hardwood cuttings in summer or plant container-grown shrubs in spring in very well-drained, sunny conditions; Cleveland sage requires excellent drainage and dislikes summer irrigation \u2014 it is truly a dry-climate plant that thrives on neglect."
+    },
+    "usda_zones": {"min": 8, "max": 11},
+    "spacing_in": {"min": 36, "max": 48},
+    "height_in": {"min": 36, "max": 60},
+    "spread_in": {"min": 36, "max": 48},
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant in sharply drained, lean, sandy or rocky soil in full sun; Cleveland sage is a California native aromatic shrub with one of the strongest and most complex sage fragrances in the genus \u2014 deeply resinous, herbaceous, and intensely medicinal. The gray-green, deeply textured leaves are used as a culinary sage substitute (particularly appropriate with poultry and game) and were traditionally used by Kumeyaay and other indigenous peoples for ceremonial smudging. It blooms profusely in spring with whorls of lavender-blue flowers on tall spikes that are outstanding for hummingbirds and native bees. In summer-dry Mediterranean climates and warm dry gardens, it is one of the best ornamental shrubs available \u2014 extremely drought-tolerant, deer-resistant, and low-maintenance once established.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "University of California Cooperative Extension",
+      "Royal Horticultural Society"
+    ]
+  },
+  {
+    "slug": "purple-sage",
+    "common_name": "Purple Sage",
+    "scientific_name": "Salvia officinalis 'Purpurascens'",
+    "category": "herb",
+    "subcategory": "culinary perennial",
+    "days_to_germination": {"min": 10, "max": 21},
+    "germination_soil_temp_f": {"min": 65, "max": 70},
+    "days_to_maturity": {"min": 60, "max": 90},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Root stem cuttings in spring or summer; purple sage is the same species as common garden sage but with ornamental purple-toned leaves. Grow from cuttings as the cultivar does not come true from seed."
+    },
+    "usda_zones": {"min": 5, "max": 8},
+    "spacing_in": {"min": 18, "max": 24},
+    "height_in": {"min": 12, "max": 24},
+    "spread_in": {"min": 18, "max": 24},
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant in well-drained, alkaline to neutral soil in full sun; purple sage is a handsome ornamental-culinary cultivar of common garden sage whose young leaves emerge in rich purple tones that soften to purple-green as they mature. The flavor is fully equivalent to common sage \u2014 warm, peppery, slightly bitter, and intensely aromatic with notes of camphor and eucalyptus \u2014 and it can be used as a complete substitute in all sage-seasoned dishes. The purple foliage provides attractive contrast in herb gardens where it pairs visually with silver thyme and golden oregano. It requires the same excellent drainage and full sun as common sage and is equally deer-resistant. Trim lightly in spring to prevent woodiness and promote compact, leafy new growth.",
+    "sources": [
+      "Royal Horticultural Society",
+      "Missouri Botanical Garden Plant Finder",
+      "North Carolina State Extension"
+    ]
+  }
+]

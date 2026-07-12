@@ -1,0 +1,157 @@
+[
+  {
+    "slug": "boltonia-asteroides",
+    "common_name": "Boltonia (False Aster)",
+    "scientific_name": "Boltonia asteroides",
+    "category": "flower",
+    "subcategory": "late-blooming native prairie perennial",
+    "days_to_germination": { "min": 10, "max": 21 },
+    "germination_soil_temp_f": { "min": 60, "max": 70 },
+    "days_to_maturity": { "min": 180, "max": 365 },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": { "min": -4, "max": 0 },
+      "note": "Direct sow seeds in early spring or divide established clumps in spring; boltonia spreads by short rhizomes and self-sows freely in favorable conditions. Tall plants in rich soil may require staking; in lean, dry soil plants are more compact and self-supporting. The cultivar 'Snowbank' is the most widely grown and most compact selection, reaching 3–4 feet rather than the species' 5–6 feet."
+    },
+    "usda_zones": { "min": 3, "max": 9 },
+    "spacing_in": { "min": 24, "max": 36 },
+    "height_in": { "min": 48, "max": 72 },
+    "spread_in": { "min": 24, "max": 36 },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in well-drained to moist, moderately fertile soil in full sun; boltonia is a native North American prairie and wetland-edge perennial that earns its place in the late-season garden through sheer prolificacy — a tall, somewhat spreading plant that in August and September transforms itself into a cloud of thousands of tiny, asterlike daisy flowers in white to pale lavender, each only 3/4 inch across but produced in such extravagant abundance over the entire branch canopy that the plant becomes a mound of white or lavender from mid-summer through frost. The display at peak bloom resembles a multi-branched, five-foot shrub covered in snow — one of the most generous late-season bloomers available in the native plant palette. It thrives in wet or moderately moist soils and is naturally found along stream banks and wet meadows. The widely planted cultivar 'Snowbank' has particularly pure white flowers and a more manageable height. Excellent at the back of the border for late-season impact and valuable to migrating monarch butterflies and other late pollinators. Combines well with ornamental grasses, Joe-Pye weed, and late goldenrods.",
+    "sources": [
+      "Missouri Botanical Garden Plant Finder",
+      "Lady Bird Johnson Wildflower Center",
+      "North Carolina State Extension"
+    ]
+  },
+  {
+    "slug": "helianthus-mollis",
+    "common_name": "Ashy Sunflower (Downy Sunflower)",
+    "scientific_name": "Helianthus mollis",
+    "category": "flower",
+    "subcategory": "native prairie perennial sunflower",
+    "days_to_germination": { "min": 7, "max": 14 },
+    "germination_soil_temp_f": { "min": 65, "max": 75 },
+    "days_to_maturity": { "min": 90, "max": 150 },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": { "min": -2, "max": 2 },
+      "note": "Direct sow seeds in spring in lean, sandy, or gravelly, well-drained soil in full sun; ashy sunflower spreads aggressively by underground rhizomes in rich soils and can become invasive — grow in poor, lean, dry soil to limit spread or confine with a root barrier. It is better behaved in difficult, dry conditions that simulate its native habitat of dry, rocky, limestone glades."
+    },
+    "usda_zones": { "min": 4, "max": 9 },
+    "spacing_in": { "min": 24, "max": 36 },
+    "height_in": { "min": 36, "max": 60 },
+    "spread_in": { "min": 24, "max": 48 },
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant in lean, well-drained, slightly alkaline to neutral soil in full sun; ashy sunflower is a drought-tolerant native perennial sunflower of the central and eastern United States prairies and rocky glades, distinguished from other perennial sunflowers by its covering of soft, dense, gray-white hairs that give the leaves, stems, and even the flower heads a downy, silvery-gray 'ashy' appearance — creating a noticeably silver-gray foliage mass that provides good contrast with the clear, bright golden-yellow daisy flowers (2–3 inches across) produced abundantly in late summer and fall. It is rhizomatous and can spread aggressively in rich, moist soils, but in poor, dry, rocky conditions — its natural habitat — it stays better-contained and is a genuinely useful, drought-tolerant, late-season pollinator plant. Outstanding for dry, lean prairie gardens, naturalistic meadows, and wildflower areas in difficult, dry, sunny conditions where more refined perennials would struggle. The abundant flowers in late August and September are among the most important fall nectar sources for migrating monarchs, native bees, and goldenfinches that consume the seeds.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "Missouri Botanical Garden Plant Finder",
+      "North Carolina State Extension"
+    ]
+  },
+  {
+    "slug": "buphthalmum-salicifolium",
+    "common_name": "Willow-Leaf Ox-Eye (Yellow Ox-Eye)",
+    "scientific_name": "Buphthalmum salicifolium",
+    "category": "flower",
+    "subcategory": "long-blooming European daisy",
+    "days_to_germination": { "min": 14, "max": 21 },
+    "germination_soil_temp_f": { "min": 60, "max": 70 },
+    "days_to_maturity": { "min": 90, "max": 150 },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": { "min": -4, "max": 0 },
+      "note": "Sow seeds in early spring in well-drained, lean to moderately fertile, alkaline to neutral soil in full sun; willow-leaf ox-eye thrives in poor, dry, alkaline, limestone-derived soils that are typical of its native Alpine meadow habitat. In rich soils it becomes floppy and short-lived. Deadhead regularly for a long bloom season; divide every 3–4 years to maintain vigor."
+    },
+    "usda_zones": { "min": 3, "max": 8 },
+    "spacing_in": { "min": 12, "max": 18 },
+    "height_in": { "min": 18, "max": 24 },
+    "spread_in": { "min": 12, "max": 18 },
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant in lean, well-drained, alkaline to neutral soil in full sun; willow-leaf ox-eye is a useful and underused European native perennial from Alpine and subalpine meadows of central and southern Europe, producing slender, willow-like leaves on upright stems and a prolonged succession of yellow, asterlike daisy flowers (1.5–2 inches across) with slightly twisted ray petals and darker yellow disc centers from June through September — one of the longest natural bloom seasons of any daisy-type perennial in undemanding conditions. The slightly twisted ray petals give the flowers an informal, loosely spidery quality distinguishing them from the more precisely regular rays of Leucanthemum or Helenium. It thrives in the poor, dry, alkaline soils of limestone gardens where more demanding perennials decline, making it a good choice for difficult, free-draining situations. Excellent for prairie-style plantings, gravel gardens, and naturalistic wildflower areas on calcareous soils. Long-lived in lean conditions, shorter-lived in rich soils. Attractive to bees and butterflies throughout its long season.",
+    "sources": [
+      "Royal Horticultural Society",
+      "Missouri Botanical Garden Plant Finder",
+      "North Carolina State Extension"
+    ]
+  },
+  {
+    "slug": "telekia-speciosa",
+    "common_name": "Heartleaf Oxeye (Showy Telekia)",
+    "scientific_name": "Telekia speciosa",
+    "category": "flower",
+    "subcategory": "bold-leafed woodland-edge perennial",
+    "days_to_germination": { "min": 14, "max": 28 },
+    "germination_soil_temp_f": { "min": 60, "max": 70 },
+    "days_to_maturity": { "min": 90, "max": 180 },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": { "min": -4, "max": 0 },
+      "note": "Sow seeds in early spring or direct-sow in fall in moist, moderately fertile, slightly acidic to neutral soil in part shade; telekia self-sows prolifically and can naturalize aggressively — it is better managed at woodland edges where some naturalization is welcome. The large, coarse leaves provide bold structural contrast to finer-textured plants in the semi-shaded border."
+    },
+    "usda_zones": { "min": 4, "max": 8 },
+    "spacing_in": { "min": 24, "max": 36 },
+    "height_in": { "min": 60, "max": 84 },
+    "spread_in": { "min": 36, "max": 48 },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Plant in moist, moderately fertile, slightly acidic to neutral soil in part shade; heartleaf oxeye is a large-scale, architecturally dramatic perennial from the Caucasus and southeastern Europe that dominates the semi-shaded woodland edge or large back-of-border position with its enormous, coarsely-toothed, heart-shaped lower leaves (up to 20 inches across) and tall, branched stems reaching 5–7 feet, which in July through September carry loose clusters of bright, golden-yellow, ray daisy flowers (3–4 inches across) with narrow, spreading yellow rays and yellowish-green central discs. The foliage alone is bold and architectural enough to provide strong structural presence through the season, and the tall, branched flower stems create a large, airy cloud of yellow daisies at height in late summer. It self-sows aggressively and is best placed where naturalization is desirable — at the back of large borders, at the woodland edge, or in a wilder part of the garden. The flowers smell strongly, which some find unpleasant at close range. A bold plant for bold situations where its large scale and spreading habit can be accommodated.",
+    "sources": [
+      "Royal Horticultural Society",
+      "Missouri Botanical Garden Plant Finder",
+      "North Carolina State Extension"
+    ]
+  },
+  {
+    "slug": "inula-hookeri",
+    "common_name": "Hooker's Inula",
+    "scientific_name": "Inula hookeri",
+    "category": "flower",
+    "subcategory": "spreading late-season daisy perennial",
+    "days_to_germination": { "min": 14, "max": 21 },
+    "germination_soil_temp_f": { "min": 60, "max": 70 },
+    "days_to_maturity": { "min": 90, "max": 180 },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": { "min": -4, "max": 0 },
+      "note": "Sow seeds in early spring or divide established clumps in spring in moist, moderately fertile soil in full sun to part shade; Hooker's inula spreads by underground rhizomes and can colonize large areas in moist, fertile soils. Deadhead regularly to extend the bloom season. Divide every 3 years to prevent clumps from becoming sparse in the center."
+    },
+    "usda_zones": { "min": 4, "max": 8 },
+    "spacing_in": { "min": 18, "max": 24 },
+    "height_in": { "min": 24, "max": 36 },
+    "spread_in": { "min": 24, "max": 36 },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Plant in moist, moderately fertile, slightly acidic to neutral soil in full sun to part shade; Hooker's inula is a Himalayan perennial producing an exceptional late-summer and autumn display — large, soft, somewhat hairy, oval leaves and, from August through October, an abundance of golden-yellow daisy flowers with extraordinarily fine, thread-like ray petals so narrow and numerous (often 100 or more per flower head) that they give each bloom a distinctly shaggy, spidery, or mop-headed appearance quite different from the clean, regular rays of ordinary daisies. The overall effect of each flower is of a golden, shaggy star with a cheerful burst of fine petals radiating outward. It is more floriferous and slightly more compact than the giant Inula magnifica (which can reach 8–10 feet). It spreads by rhizomes in moist soils, eventually forming substantial colonies that provide bold late-season color. Outstanding for the naturalistic border or woodland edge in moist, fertile conditions where other late-season daisies would be routine. One of the finest texturally interesting late-summer perennials for its spidery flower form.",
+    "sources": [
+      "Royal Horticultural Society",
+      "Missouri Botanical Garden Plant Finder",
+      "North Carolina State Extension"
+    ]
+  }
+]

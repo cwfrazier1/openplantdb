@@ -1,0 +1,157 @@
+[
+  {
+    "slug": "nigella-sativa",
+    "common_name": "Black Seed (Black Cumin)",
+    "scientific_name": "Nigella sativa",
+    "category": "herb",
+    "subcategory": "annual spice",
+    "days_to_germination": {"min": 10, "max": 14},
+    "germination_soil_temp_f": {"min": 55, "max": 68},
+    "days_to_maturity": {"min": 90, "max": 120},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": -4, "max": -2},
+      "note": "Direct sow in early spring, 2\u20134 weeks before last frost; black seed is a cool-season annual that bolts in summer heat and is harvested in late spring to early summer. In zones 8\u201311, sow in fall for a winter to spring crop."
+    },
+    "usda_zones": {"min": 3, "max": 11},
+    "spacing_in": {"min": 6, "max": 9},
+    "height_in": {"min": 18, "max": 24},
+    "spread_in": {"min": 6, "max": 9},
+    "sun": "full",
+    "water": "low",
+    "directions": "Broadcast or direct sow in well-drained soil in full sun; black seed (Nigella sativa) is the source of one of the oldest and most significant medicinal spices in the world, used continuously for 3,000 years in Middle Eastern, South Asian, and African medicine. It is entirely distinct from love-in-a-mist (Nigella damascena), though both share the same feathery foliage and ornamental seed capsules. The peppery, slightly bitter, toasted seeds are used to top breads in Egypt and Turkey, are a key component of Indian panch phoron spice blend, and flavored Ethiopian berbere. Allow seed capsules to fully ripen and dry on the plant before harvesting, then shake seeds into a bag. Plants self-sow reliably in suitable climates.",
+    "sources": [
+      "Oxford Companion to Food, Davidson, 2014",
+      "Royal Botanic Gardens Kew",
+      "Purdue University Center for New Crops"
+    ]
+  },
+  {
+    "slug": "sumac",
+    "common_name": "Culinary Sumac",
+    "scientific_name": "Rhus coriaria",
+    "category": "herb",
+    "subcategory": "spice shrub",
+    "days_to_germination": {"min": 30, "max": 60},
+    "germination_soil_temp_f": {"min": 60, "max": 70},
+    "days_to_maturity": {"min": 1095, "max": 1825},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Plant container-grown shrubs in spring in well-drained, even poor soil; culinary sumac is extremely drought-tolerant once established and does not need irrigation or fertilizing in most climates."
+    },
+    "usda_zones": {"min": 7, "max": 10},
+    "spacing_in": {"min": 60, "max": 96},
+    "height_in": {"min": 60, "max": 120},
+    "spread_in": {"min": 60, "max": 96},
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant in well-drained, rocky, or sandy soil in full sun; culinary sumac (Rhus coriaria) is the source of the brilliant deep-red, intensely tart spice used throughout Middle Eastern cooking as the primary acidifying agent before lemons became available. The dried, ground berries coat kebabs, top hummus, season fattoush salad, and form the backbone of za'atar spice blend. Harvest berry clusters (drupes) in late summer when fully red and dark but before rain softens them; dry completely before grinding. This species is distinct from the ornamental staghorn sumac (Rhus typhina) of North American gardens \u2014 culinary sumac is a Mediterranean species grown specifically for its tart, lemony fruit. The shrub is extremely drought-adapted and well-suited to zone 7\u201310 gardens.",
+    "sources": [
+      "Oxford Companion to Food, Davidson, 2014",
+      "Purdue University Center for New Crops",
+      "Royal Botanic Gardens Kew"
+    ]
+  },
+  {
+    "slug": "sichuan-pepper",
+    "common_name": "Sichuan Pepper",
+    "scientific_name": "Zanthoxylum simulans",
+    "category": "herb",
+    "subcategory": "spice shrub",
+    "days_to_germination": {"min": 14, "max": 30},
+    "germination_soil_temp_f": {"min": 65, "max": 75},
+    "days_to_maturity": {"min": 1095, "max": 1825},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Plant container-grown shrubs in spring in a sheltered, sunny position; Sichuan pepper shrubs have sharp spines and should be sited away from foot traffic. Wear gloves when harvesting."
+    },
+    "usda_zones": {"min": 6, "max": 9},
+    "spacing_in": {"min": 60, "max": 96},
+    "height_in": {"min": 60, "max": 120},
+    "spread_in": {"min": 60, "max": 96},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in well-drained, fertile soil in full sun; Sichuan pepper (not related to black pepper or chili peppers) is the dried husk of the fruit of Zanthoxylum shrubs, whose defining characteristic is a numbing, buzzing sensation on the tongue caused by the compound hydroxy-alpha-sanshool \u2014 a sensation called ma (tingling/numbing) that is the foundation of the ma-la (numbing-spicy) flavor profile of Sichuan Chinese cuisine. Harvest the small red fruits in fall when fully ripe, then dry and separate the husks from the black seeds \u2014 only the husks are used, as the seeds are bitter and gritty. The shrub is spiny and produces attractive clusters of small red fruits on female plants. Plant at least one male for pollination.",
+    "sources": [
+      "Royal Botanic Gardens Kew",
+      "Oxford Companion to Food, Davidson, 2014",
+      "University of California Cooperative Extension"
+    ]
+  },
+  {
+    "slug": "turkey-berry",
+    "common_name": "Turkey Berry",
+    "scientific_name": "Solanum torvum",
+    "category": "vegetable",
+    "subcategory": "tropical shrub",
+    "days_to_germination": {"min": 14, "max": 21},
+    "germination_soil_temp_f": {"min": 70, "max": 85},
+    "days_to_maturity": {"min": 90, "max": 180},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 2, "max": 4},
+      "note": "Start from seed indoors 6\u20138 weeks before last frost or purchase transplants; turkey berry grows as a woody perennial shrub in zones 9\u201311 and may be used as a rootstock for grafting eggplant in commercial production."
+    },
+    "usda_zones": {"min": 9, "max": 11},
+    "spacing_in": {"min": 36, "max": 60},
+    "height_in": {"min": 48, "max": 96},
+    "spread_in": {"min": 36, "max": 60},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in well-drained, fertile soil in full sun; turkey berry is a sprawling tropical nightshade shrub producing prolific clusters of small (marble-sized) green berries that are an essential ingredient in Thai green curry \u2014 they add a distinctive bitter, slightly crunchy texture and are used whole or halved. In Caribbean and West African cooking the cooked berries appear in stews and salt fish dishes, including the Jamaican classic susumber in salt fish. Unlike many nightshades, the berries are always cooked before eating. In zone 9\u201311 the shrub becomes a large multi-stemmed perennial that produces year-round; in zone 8 it may dieback and resprout from the roots. The stems have scattered spines \u2014 wear gloves when harvesting.",
+    "sources": [
+      "University of Florida IFAS Extension",
+      "FAO Food and Agriculture Organization",
+      "Asian Vegetable Research and Development Center"
+    ]
+  },
+  {
+    "slug": "salvia-regla",
+    "common_name": "Mountain Sage",
+    "scientific_name": "Salvia regla",
+    "category": "flower",
+    "subcategory": "native perennial shrub",
+    "days_to_germination": {"min": 14, "max": 21},
+    "germination_soil_temp_f": {"min": 65, "max": 75},
+    "days_to_maturity": {"min": 365, "max": 730},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 2, "max": 4},
+      "note": "Root stem cuttings in spring or summer, or plant container-grown shrubs in spring; mountain sage blooms in fall when photoperiod shortens and is at its peak in October and November when hummingbirds are migrating through Texas and the Gulf Coast."
+    },
+    "usda_zones": {"min": 8, "max": 11},
+    "spacing_in": {"min": 36, "max": 48},
+    "height_in": {"min": 48, "max": 72},
+    "spread_in": {"min": 36, "max": 48},
+    "sun": "partial",
+    "water": "low",
+    "directions": "Plant in well-drained to dry soil in partial shade to full sun; mountain sage is a large-leafed, shrubby Texas native salvia that lights up in fall with brilliant scarlet-orange tubular flowers precisely when migrating ruby-throated hummingbirds need fuel for their journey to Central America. The flowers are spectacularly hummingbird-attractive and among the showiest of all the fall-blooming salvias. In zones 9\u201311 it grows as a large, dense evergreen shrub 4\u20136 feet tall; in zone 8 it is killed to the ground by frost but typically regrows from the roots in spring. It tolerates the dry, rocky, alkaline soils of the Chihuahuan Desert and Hill Country, making it excellent for xeric Gulf Coast gardens with poor, calcareous soil.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "Texas A&M AgriLife Extension",
+      "USDA Natural Resources Conservation Service"
+    ]
+  }
+]

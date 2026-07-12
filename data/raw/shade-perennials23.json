@@ -1,0 +1,157 @@
+[
+  {
+    "slug": "great-merrybells",
+    "common_name": "Great Merrybells",
+    "scientific_name": "Uvularia grandiflora",
+    "category": "flower",
+    "subcategory": "shade perennial",
+    "days_to_germination": {"min": 30, "max": 90},
+    "germination_soil_temp_f": {"min": 60, "max": 70},
+    "days_to_maturity": {"min": 365, "max": 730},
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 2},
+      "note": "Plant bare-root divisions or container stock in early spring before new growth emerges; seed requires complex double-dormancy stratification and takes 2 or more seasons to germinate \u2014 divisions are far more reliable."
+    },
+    "usda_zones": {"min": 3, "max": 9},
+    "spacing_in": {"min": 12, "max": 18},
+    "height_in": {"min": 18, "max": 24},
+    "spread_in": {"min": 12, "max": 18},
+    "sun": "shade",
+    "water": "moderate",
+    "directions": "Plant in moist, humus-rich, slightly acidic to neutral soil in partial to full shade; great merrybells is a graceful native woodland perennial that unfurls from tightly rolled shoots in early spring alongside bloodroot and trillium. The arching stems carry large, creamy-yellow pendant bell flowers at the tips \u2014 some of the most elegantly proportioned flowers in the native woodland plant palette. After flowering the stems straighten and support handsome, bright green leaves through summer. The plant spreads slowly by rhizomes to form a clump; it is not aggressive and pairs beautifully with Solomon's seal, ferns, and wild ginger in a shade garden. Provide consistent moisture and topdress with leaf compost each fall.",
+    "sources": [
+      "Missouri Botanical Garden Plant Finder",
+      "Lady Bird Johnson Wildflower Center",
+      "North Carolina State Extension"
+    ]
+  },
+  {
+    "slug": "lamium-maculatum",
+    "common_name": "Spotted Dead Nettle",
+    "scientific_name": "Lamium maculatum",
+    "category": "flower",
+    "subcategory": "shade groundcover",
+    "days_to_germination": {"min": 10, "max": 14},
+    "germination_soil_temp_f": {"min": 65, "max": 70},
+    "days_to_maturity": {"min": 60, "max": 90},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 2},
+      "note": "Root stem cuttings in moist perlite or plant divisions in spring; spotted dead nettle establishes quickly and begins spreading within the first season."
+    },
+    "usda_zones": {"min": 3, "max": 8},
+    "spacing_in": {"min": 12, "max": 18},
+    "height_in": {"min": 8, "max": 12},
+    "spread_in": {"min": 18, "max": 24},
+    "sun": "shade",
+    "water": "moderate",
+    "directions": "Plant in moist, well-drained soil in partial to full shade; spotted dead nettle is one of the most reliable shade groundcovers available, prized for its silver-marked leaves that light up dim spaces under trees. The small hooded flowers in pink, white, or purple appear in spring and continue sporadically through summer. Shear plants back by one-third in midsummer if they become straggly to promote fresh new growth. Named cultivars with highly silvered or patterned foliage \u2014 'White Nancy', 'Beacon Silver', 'Hermann's Pride' \u2014 are superior to the straight species. Tolerates dry shade once established but performs best in consistently moist conditions.",
+    "sources": [
+      "Missouri Botanical Garden Plant Finder",
+      "Royal Horticultural Society",
+      "Pennsylvania State Extension"
+    ]
+  },
+  {
+    "slug": "aconitum",
+    "common_name": "Monkshood",
+    "scientific_name": "Aconitum napellus",
+    "category": "flower",
+    "subcategory": "shade perennial",
+    "days_to_germination": {"min": 14, "max": 28},
+    "germination_soil_temp_f": {"min": 55, "max": 65},
+    "days_to_maturity": {"min": 365, "max": 730},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {"min": -4, "max": 0},
+      "note": "Sow fresh seed in fall for natural cold stratification; seedlings appear in spring. Established clumps can be divided in early spring or fall. CAUTION: all parts of this plant are extremely toxic \u2014 wear gloves when handling."
+    },
+    "usda_zones": {"min": 3, "max": 7},
+    "spacing_in": {"min": 18, "max": 24},
+    "height_in": {"min": 36, "max": 60},
+    "spread_in": {"min": 18, "max": 24},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Plant in cool, moist, humus-rich soil in partial shade; monkshood is a stately perennial producing dramatic spikes of hooded blue-violet flowers in late summer, providing color at a time when many shade perennials have finished blooming. IMPORTANT: all parts of this plant are acutely poisonous (aconitine) \u2014 wear gloves when working with it and keep away from children and pets. It performs best in climates with cool summers and may struggle in zones warmer than 7. Never divide or transplant in late spring or summer. The rich blue flower spikes pair beautifully with golden rudbeckia, white snakeroot, and white turtlehead in naturalistic late-summer plantings.",
+    "sources": [
+      "Missouri Botanical Garden Plant Finder",
+      "Royal Horticultural Society",
+      "University of Wisconsin Extension"
+    ]
+  },
+  {
+    "slug": "ceratostigma",
+    "common_name": "Blue Plumbago (Leadwort)",
+    "scientific_name": "Ceratostigma plumbaginoides",
+    "category": "flower",
+    "subcategory": "shade groundcover",
+    "days_to_germination": {"min": 14, "max": 21},
+    "germination_soil_temp_f": {"min": 65, "max": 70},
+    "days_to_maturity": {"min": 60, "max": 90},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 2, "max": 4},
+      "note": "Plant after the soil has warmed in late spring \u2014 ceratostigma emerges late and can be mistaken for dead if planted too early. Space 12\u201318 inches apart to allow for spreading."
+    },
+    "usda_zones": {"min": 5, "max": 9},
+    "spacing_in": {"min": 12, "max": 18},
+    "height_in": {"min": 8, "max": 12},
+    "spread_in": {"min": 18, "max": 24},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Plant in well-drained soil in partial shade; blue plumbago is a low-growing groundcover that delivers brilliant cobalt-blue flowers from August through first frost \u2014 some of the most intensely colored blue flowers of any autumn-blooming plant. As temperatures drop in fall the foliage transforms to vivid crimson-bronze, creating a striking display alongside the continuing blue flowers. Plants emerge very late in spring, so mark their location and do not disturb. Once established, ceratostigma spreads steadily by underground runners to form a weed-smothering mat and tolerates moderate drought. Shear to the ground in early spring to encourage fresh, dense growth.",
+    "sources": [
+      "Missouri Botanical Garden Plant Finder",
+      "Royal Horticultural Society",
+      "Fine Gardening, Taunton Press"
+    ]
+  },
+  {
+    "slug": "turtlehead",
+    "common_name": "White Turtlehead",
+    "scientific_name": "Chelone glabra",
+    "category": "flower",
+    "subcategory": "shade perennial",
+    "days_to_germination": {"min": 14, "max": 28},
+    "germination_soil_temp_f": {"min": 60, "max": 65},
+    "days_to_maturity": {"min": 365, "max": 730},
+    "maturity_from": "seed",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 2},
+      "note": "Plant divisions in early spring or set out container plants; seed requires 60\u201390 days of cold stratification and is best sown outdoors in fall for spring germination."
+    },
+    "usda_zones": {"min": 3, "max": 8},
+    "spacing_in": {"min": 18, "max": 24},
+    "height_in": {"min": 24, "max": 48},
+    "spread_in": {"min": 18, "max": 24},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Plant in consistently moist, humus-rich soil in partial shade; turtlehead is a native North American perennial named for its tubular white to pale pink flowers whose closed lips resemble a turtle's head. It blooms in late summer and early fall at a time when few other shade perennials flower, making it invaluable in the woodland garden. It is the exclusive larval host plant for the Baltimore checkerspot butterfly (Euphydryas phaeton) \u2014 planting a patch of turtlehead is the surest way to attract and support this beautiful native butterfly. The plant prefers consistently wet, even boggy soil and is ideal for rain gardens, stream banks, and moist shade beneath deciduous trees. Plants increase slowly from the base and are best left undisturbed once established.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "Missouri Botanical Garden Plant Finder",
+      "USDA Natural Resources Conservation Service"
+    ]
+  }
+]

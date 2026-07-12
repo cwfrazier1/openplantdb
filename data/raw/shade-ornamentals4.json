@@ -1,0 +1,157 @@
+[
+  {
+    "slug": "lobelia",
+    "common_name": "Edging Lobelia",
+    "scientific_name": "Lobelia erinus",
+    "category": "flower",
+    "subcategory": "shade annual",
+    "days_to_germination": {"min": 14, "max": 21},
+    "germination_soil_temp_f": {"min": 65, "max": 75},
+    "days_to_maturity": {"min": 70, "max": 90},
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": -10, "max": -8},
+      "note": "Surface sow seed without covering \u2014 seed needs light \u2014 8\u201310 weeks before last frost; lobelia is slow from seed and requires a long lead time to reach transplant size."
+    },
+    "usda_zones": {"min": 2, "max": 11},
+    "spacing_in": {"min": 6, "max": 8},
+    "height_in": {"min": 4, "max": 8},
+    "spread_in": {"min": 6, "max": 8},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Surface sow dust-fine seed on moist starting mix at 65\u201370\u00b0F and cover the flat with plastic to retain humidity \u2014 do not cover the seeds with mix. Prick out carefully when seedlings are 1/2 inch tall and pot on before transplanting after last frost. Lobelia blooms most heavily in cool weather and often pauses in midsummer heat; cut plants back by one-third and fertilize for a flush of fall bloom. In Gulf Coast and warm-winter gardens it performs best as a fall-through-spring annual. Trailing forms excel in hanging baskets and containers; compact forms create dense ribbons of blue, violet, white, or rose at the edge of beds in partial shade.",
+    "sources": [
+      "Royal Horticultural Society",
+      "University of Florida IFAS Extension",
+      "Ball Horticultural Company cultural guide"
+    ]
+  },
+  {
+    "slug": "begonia-tuberous",
+    "common_name": "Tuberous Begonia",
+    "scientific_name": "Begonia x tuberhybrida",
+    "category": "flower",
+    "subcategory": "shade annual",
+    "days_to_germination": {"min": 14, "max": 21},
+    "germination_soil_temp_f": {"min": 70, "max": 75},
+    "days_to_maturity": {"min": 90, "max": 120},
+    "maturity_from": "transplant",
+    "sow_method": "tuber",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": -8, "max": -6},
+      "note": "Start tubers hollow-side up in shallow trays of moist peat-free starting mix 6\u20138 weeks before last frost; move outdoors only after all frost danger has passed and nights remain above 50\u00b0F."
+    },
+    "usda_zones": {"min": 3, "max": 11},
+    "spacing_in": {"min": 12, "max": 18},
+    "height_in": {"min": 12, "max": 18},
+    "spread_in": {"min": 12, "max": 18},
+    "sun": "shade",
+    "water": "moderate",
+    "directions": "Place tubers concave-side up, barely covered with moist growing medium, at 65\u201370\u00b0F until sprouts appear, then move to bright indirect light and keep evenly moist. Tuberous begonias produce spectacular 3\u20136 inch double flowers in every color but blue and thrive in the cool, shaded spots where few flowering annuals succeed. Remove the small single flowers (male) flanking the large showy central bloom to direct energy to the main display. As nights cool in fall, reduce watering; after the first frost blackens the foliage, dig tubers, cure for two weeks in a warm dry spot, and store in barely moist peat at 45\u201350\u00b0F for replanting the following spring.",
+    "sources": [
+      "Royal Horticultural Society",
+      "American Begonia Society",
+      "University of Wisconsin Extension"
+    ]
+  },
+  {
+    "slug": "begonia-wax",
+    "common_name": "Wax Begonia",
+    "scientific_name": "Begonia x semperflorens-cultorum",
+    "category": "flower",
+    "subcategory": "shade annual",
+    "days_to_germination": {"min": 14, "max": 21},
+    "germination_soil_temp_f": {"min": 70, "max": 75},
+    "days_to_maturity": {"min": 90, "max": 120},
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": -12, "max": -10},
+      "note": "Surface sow dust-fine seed on moist starting mix without covering 10\u201312 weeks before last frost; transplant after all frost danger has passed."
+    },
+    "usda_zones": {"min": 2, "max": 11},
+    "spacing_in": {"min": 8, "max": 12},
+    "height_in": {"min": 6, "max": 12},
+    "spread_in": {"min": 8, "max": 12},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Surface sow seed on moistened fine-textured starting mix at 70\u00b0F and cover the tray with plastic to retain humidity \u2014 seeds need light and consistent moisture to germinate. Seedlings emerge in 2\u20133 weeks and are among the slowest-growing bedding plants; prick out when cotyledons are fully open and grow on under bright lights. Wax begonias flower continuously from transplant until hard frost without deadheading, making them among the most reliable shade-tolerant bedding annuals. Green-leaved types tolerate deeper shade; bronze-leaved types handle more sun and heat. In zones 10\u201311 they naturalize as tender perennials; elsewhere take cuttings in fall to overwinter on a sunny windowsill.",
+    "sources": [
+      "University of Florida IFAS Extension",
+      "Pennsylvania State Extension",
+      "American Begonia Society"
+    ]
+  },
+  {
+    "slug": "ivy-english",
+    "common_name": "English Ivy",
+    "scientific_name": "Hedera helix",
+    "category": "flower",
+    "subcategory": "shade groundcover",
+    "days_to_germination": {"min": 14, "max": 28},
+    "germination_soil_temp_f": {"min": 60, "max": 70},
+    "days_to_maturity": {"min": 365, "max": 730},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Plant rooted cuttings or container transplants in spring or early fall; stem cuttings root easily in water or moist perlite in 3\u20134 weeks."
+    },
+    "usda_zones": {"min": 4, "max": 9},
+    "spacing_in": {"min": 12, "max": 18},
+    "height_in": {"min": 6, "max": 9},
+    "spread_in": {"min": 18, "max": 24},
+    "sun": "shade",
+    "water": "moderate",
+    "directions": "Root stem cuttings in moist perlite or plant nursery transplants in well-drained soil in partial to full shade; English ivy covers difficult shaded areas quickly once established. Note that English ivy is considered invasive across much of the United States, where it escapes cultivation and smothers native woodland understory \u2014 check local regulations and consider native alternatives such as pachysandra, wild ginger, or foam flower before planting. In non-invasive ranges or contained settings, it provides fast-growing evergreen groundcover under trees where few other plants thrive. Variegated cultivars are slightly less vigorous and somewhat less likely to spread aggressively.",
+    "sources": [
+      "Missouri Botanical Garden Plant Finder",
+      "North Carolina Invasive Plant Council",
+      "Royal Horticultural Society"
+    ]
+  },
+  {
+    "slug": "cerinthe",
+    "common_name": "Honeywort",
+    "scientific_name": "Cerinthe major",
+    "category": "flower",
+    "subcategory": "annual",
+    "days_to_germination": {"min": 7, "max": 14},
+    "germination_soil_temp_f": {"min": 55, "max": 65},
+    "days_to_maturity": {"min": 70, "max": 90},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": -4, "max": -2},
+      "note": "Direct sow 2\u20134 weeks before last frost; in zones 8\u201311 sow in fall for winter and spring bloom. Cerinthe resents root disturbance and performs best when direct sown."
+    },
+    "usda_zones": {"min": 2, "max": 11},
+    "spacing_in": {"min": 12, "max": 18},
+    "height_in": {"min": 18, "max": 24},
+    "spread_in": {"min": 12, "max": 18},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Direct sow seed 1/4 inch deep in cool weather \u2014 cerinthe dislikes transplanting and self-sows freely where happy. The glaucous blue-gray foliage is beautifully paired with deep indigo-purple nodding bracts that surround small tubular flowers adored by bumblebees; the whole plant has a striking silver-blue quality that stands out in a planting. Cerinthe matures quickly and begins flowering in about 10 weeks from seed; in mild-winter areas it blooms from fall through spring as a cool-season annual. The plant self-seeds prolifically in loose soil, returning year after year in the same spot. It pairs well with other cool-season pollinator plants such as phacelia, borage, and annual phlox.",
+    "sources": [
+      "Royal Horticultural Society",
+      "Chiltern Seeds cultural guide",
+      "Thompson and Morgan Seeds cultural notes"
+    ]
+  }
+]

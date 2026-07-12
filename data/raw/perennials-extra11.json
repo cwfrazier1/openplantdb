@@ -1,0 +1,157 @@
+[
+  {
+    "slug": "primula-veris",
+    "common_name": "Cowslip",
+    "scientific_name": "Primula veris",
+    "category": "flower",
+    "subcategory": "woodland wildflower perennial",
+    "days_to_germination": { "min": 14, "max": 30 },
+    "germination_soil_temp_f": { "min": 55, "max": 65 },
+    "days_to_maturity": { "min": 180, "max": 365 },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": { "min": -8, "max": -4 },
+      "note": "Sow seeds in fall (they require cold stratification to break dormancy and will germinate in spring), or cold-stratify seeds in the refrigerator for 4–6 weeks before indoor sowing in late winter; cowslip grows best in moist, slightly alkaline, humus-rich soil in part shade or dappled sun. It self-sows freely where happy and forms naturalized colonies in meadows and woodland edges over time."
+    },
+    "usda_zones": { "min": 4, "max": 8 },
+    "spacing_in": { "min": 8, "max": 12 },
+    "height_in": { "min": 6, "max": 10 },
+    "spread_in": { "min": 8, "max": 12 },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Plant in moist, slightly alkaline, humus-rich soil in part shade to dappled sun; cowslip is one of the most beloved and historically significant wildflowers of the European countryside — a spring primrose relative producing rosettes of crinkled, oval, downy leaves at ground level and, in April and May, umbels of pendant, deep-golden-yellow, tubular flowers with distinctive orange spots in the throat, all nodding together on a single stem and carrying a sweet, honeyed fragrance uniquely their own. The flowers have been used since medieval times in cowslip wine, mead, and vinegar, and the plant's association with English meadows, hedgerow banks, and woodland clearings is so deep that its decline from agricultural intensification is a touchstone of British conservation. In the garden it naturalizes beautifully in damp meadows, shaded lawns left uncut until after seeding, and lightly shaded borders alongside wood anemones, bluebells, and early forget-me-nots. It hybridizes freely with Primula vulgaris (primrose) to produce the naturally occurring oxlip hybrid Primula x polyantha, from which most garden polyanthus are derived.",
+    "sources": [
+      "Royal Horticultural Society",
+      "Missouri Botanical Garden Plant Finder",
+      "North Carolina State Extension"
+    ]
+  },
+  {
+    "slug": "potentilla-fruticosa",
+    "common_name": "Shrubby Cinquefoil (Bush Cinquefoil)",
+    "scientific_name": "Potentilla fruticosa",
+    "category": "flower",
+    "subcategory": "tough long-blooming deciduous shrub",
+    "days_to_germination": { "min": 21, "max": 45 },
+    "germination_soil_temp_f": { "min": 55, "max": 65 },
+    "days_to_maturity": { "min": 365, "max": 730 },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": { "min": 0, "max": 4 },
+      "note": "Root softwood cuttings in early summer or plant container-grown plants in well-drained, moderately fertile, neutral to slightly acidic soil in full sun; shrubby cinquefoil is tolerant of clay, alkaline soils, and cold once established. Prune out oldest stems to the base every few years to maintain vigorous flowering. It blooms on new wood and benefits from light shearing after the main flush."
+    },
+    "usda_zones": { "min": 2, "max": 7 },
+    "spacing_in": { "min": 30, "max": 48 },
+    "height_in": { "min": 24, "max": 48 },
+    "spread_in": { "min": 30, "max": 48 },
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant in well-drained, moderately fertile to lean soil in full sun; shrubby cinquefoil is among the toughest, most cold-hardy, and longest-blooming deciduous shrubs in cultivation — a circumboreal native of arctic and alpine regions of the Northern Hemisphere that produces a dense mound of fine-textured, small, pinnate leaves and, from late spring through autumn, a near-continuous succession of cheerful five-petaled flowers resembling small wild roses in yellow, white, cream, pink, or orange depending on the cultivar. The bloom season is exceptionally long — often six months in favorable conditions — making it one of the most reliably flowering shrubs per season of any woody plant in cold climates. It tolerates cold to zone 2, clay soil, alkaline soil, drought once established, and salt spray. Dozens of named cultivars are available including 'Goldfinger' (deep yellow), 'Primrose Beauty' (pale yellow), 'Abbotswood' (pure white), 'Pink Beauty' (soft pink), and 'Red Ace' (orange-red, which fades to yellow in heat). Outstanding for low-maintenance shrub borders, highway medians, and mass plantings in cold climates.",
+    "sources": [
+      "Missouri Botanical Garden Plant Finder",
+      "North Carolina State Extension",
+      "Royal Horticultural Society"
+    ]
+  },
+  {
+    "slug": "physocarpus-opulifolius",
+    "common_name": "Eastern Ninebark",
+    "scientific_name": "Physocarpus opulifolius",
+    "category": "flower",
+    "subcategory": "native ornamental shrub",
+    "days_to_germination": { "min": 14, "max": 30 },
+    "germination_soil_temp_f": { "min": 55, "max": 65 },
+    "days_to_maturity": { "min": 365, "max": 730 },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": { "min": 0, "max": 4 },
+      "note": "Root softwood cuttings in early summer or plant container-grown plants in any well-drained to moist, acidic to slightly alkaline soil in full sun to part shade; eastern ninebark is one of the most adaptable and tough native shrubs — tolerating clay, poor soil, drought, flooding, and partial shade once established. Prune out the oldest stems to the base every 2–3 years to maintain vigorous growth; the shrub can also be rejuvenated by cutting to within 6 inches of the ground in late winter."
+    },
+    "usda_zones": { "min": 2, "max": 8 },
+    "spacing_in": { "min": 60, "max": 96 },
+    "height_in": { "min": 60, "max": 120 },
+    "spread_in": { "min": 60, "max": 96 },
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant in any well-drained to moist soil in full sun to part shade; eastern ninebark is a native shrub of eastern North America prized for two distinct ornamental features — exfoliating bark that peels and shreds in layers on mature stems (creating year-round textural interest in winter, when the orange-brown inner and grayish outer bark peel apart in curling strips, hence 'ninebark') and, in late spring, dense clusters of small, creamy-white to pale-pink flowers attractive to many native pollinators. The dark-purple to burgundy foliage cultivars such as 'Diabolo' (very deep purple-black leaves) and 'Summer Wine' (somewhat more compact, wine-red foliage) have become mainstays of the mixed shrub border, providing a bold, dark, non-green foliage contrast through the entire growing season. 'Coppertina' has coppery-orange new growth fading to burgundy. The compact cultivar 'Little Devil' stays 3–4 feet. Native across a huge range from Ontario to Georgia in river banks, woodland edges, and bluffs, it is exceptionally tolerant of difficult sites including clay, flooding, and urban conditions.",
+    "sources": [
+      "Missouri Botanical Garden Plant Finder",
+      "North Carolina State Extension",
+      "Lady Bird Johnson Wildflower Center"
+    ]
+  },
+  {
+    "slug": "geranium-x-magnificum",
+    "common_name": "Showy Cranesbill (Magnificent Geranium)",
+    "scientific_name": "Geranium x magnificum",
+    "category": "flower",
+    "subcategory": "bold-blooming hardy geranium hybrid",
+    "days_to_germination": { "min": 14, "max": 30 },
+    "germination_soil_temp_f": { "min": 60, "max": 70 },
+    "days_to_maturity": { "min": 180, "max": 365 },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": { "min": -4, "max": 2 },
+      "note": "Divide established clumps in early spring or fall and replant immediately in moist, moderately fertile, well-drained soil in full sun to part shade; Geranium x magnificum is a sterile hybrid and cannot be grown from seed — propagate only by division. After the main June flowering, cut back hard to encourage a fresh rosette of foliage (with occasional scattered rebloom in summer and autumn)."
+    },
+    "usda_zones": { "min": 4, "max": 8 },
+    "spacing_in": { "min": 18, "max": 24 },
+    "height_in": { "min": 18, "max": 24 },
+    "spread_in": { "min": 24, "max": 36 },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Plant in moist, moderately fertile, well-drained soil in full sun to part shade; showy cranesbill is arguably the finest and most reliable of the large-flowered hardy geraniums — a robust sterile hybrid (G. ibericum x G. platypetalum) producing dense mounds of large, deeply lobed, richly textured leaves and in June, a spectacular and prolonged flush of large (1.5–2 inch) flowers in vivid violet-blue with finely veined darker purple veining that gives the flowers a luminous, saturated intensity unusual among blue-flowered perennials. The flowers are produced in such density that they nearly cover the foliage at peak bloom. It is notably heat-tolerant among the large-flowered hardy geraniums. Because it is a sterile hybrid it does not self-sow. After the June display, cutting the entire plant back hard to 4–6 inches stimulates a fresh crop of deeply lobed, ornamental leaves for summer and autumn — the foliage alone is attractive through the season. The autumn foliage turns red and orange. An indispensable component of the mixed perennial border, particularly in sun-to-shade transition zones.",
+    "sources": [
+      "Royal Horticultural Society",
+      "Missouri Botanical Garden Plant Finder",
+      "North Carolina State Extension"
+    ]
+  },
+  {
+    "slug": "spiraea-nipponica",
+    "common_name": "Nippon Spirea (Snowmound Spirea)",
+    "scientific_name": "Spiraea nipponica",
+    "category": "flower",
+    "subcategory": "white-flowered deciduous shrub",
+    "days_to_germination": { "min": 14, "max": 28 },
+    "germination_soil_temp_f": { "min": 60, "max": 70 },
+    "days_to_maturity": { "min": 365, "max": 730 },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": { "min": 0, "max": 4 },
+      "note": "Root softwood cuttings in early summer or plant container-grown plants in well-drained, moist to average, slightly acidic to neutral soil in full sun; Nippon spirea blooms on old wood — prune immediately after flowering (never in fall or late winter) to avoid removing flower buds for the following year. Deadheading extends the flowering display and maintains a tidy appearance."
+    },
+    "usda_zones": { "min": 4, "max": 8 },
+    "spacing_in": { "min": 48, "max": 72 },
+    "height_in": { "min": 36, "max": 60 },
+    "spread_in": { "min": 48, "max": 72 },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in well-drained, moist to average, slightly acidic to neutral soil in full sun; Nippon spirea is a Japanese native and one of the finest white-flowering deciduous shrubs for the temperate garden — a rounded, arching shrub producing small, dark blue-green, oval leaves and in late spring through early summer, an exceptional display in which flat clusters of small, pure-white, button-like flowers cover every branch and arching stem so completely that the shrub appears to be draped in white lace, creating the characteristic mounded, snowdrift effect that earns the cultivar 'Snowmound' its name. The small, dark leaves provide an effective foil for the white flowers, and the contrast of the dark foliage and white bloom gives the plant a particularly fresh, clean appearance. Blue-green foliage color is distinctive throughout summer after bloom. Compact enough for foundation plantings and mixed shrub borders, it performs best with consistent moisture and full sun. Other cultivars include 'Halward's Silver' (lower and more compact) and 'June Bride' (particularly dense flower clusters). Widely used in residential landscaping across the northern United States.",
+    "sources": [
+      "Missouri Botanical Garden Plant Finder",
+      "North Carolina State Extension",
+      "Royal Horticultural Society"
+    ]
+  }
+]

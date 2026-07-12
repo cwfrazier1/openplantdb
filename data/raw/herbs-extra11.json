@@ -1,0 +1,157 @@
+[
+  {
+    "slug": "mexican-mint",
+    "common_name": "Mexican Mint (Cuban Oregano)",
+    "scientific_name": "Plectranthus amboinicus",
+    "category": "herb",
+    "subcategory": "aromatic perennial",
+    "days_to_germination": {"min": 7, "max": 14},
+    "germination_soil_temp_f": {"min": 65, "max": 75},
+    "days_to_maturity": {"min": 60, "max": 90},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 0, "max": 2},
+      "note": "Root stem cuttings in water or moist potting mix indoors; plant outdoors after last frost. In zones 9\u201311 it grows as a perennial year-round."
+    },
+    "usda_zones": {"min": 9, "max": 11},
+    "spacing_in": {"min": 18, "max": 24},
+    "height_in": {"min": 18, "max": 24},
+    "spread_in": {"min": 18, "max": 24},
+    "sun": "partial",
+    "water": "low",
+    "directions": "Root 4\u20136 inch stem cuttings in water or moist perlite at room temperature; Mexican mint roots quickly and is one of the easiest herbs to propagate. The thick, velvety leaves have an intense oregano-thyme-sage fragrance much stronger than true oregano \u2014 a small amount seasons an entire dish. It is used widely in Caribbean, Indian, and Southeast Asian cooking for meat marinades, bean dishes, and stuffings. The plant tolerates heat and drought extremely well, making it ideal for hot, humid Gulf Coast conditions. Bring containers indoors before frost; a single overwintered plant provides cuttings to replant each spring.",
+    "sources": [
+      "University of Florida IFAS Extension",
+      "Purdue University Center for New Crops",
+      "Caribbean Food and Nutrition Institute"
+    ]
+  },
+  {
+    "slug": "patchouli",
+    "common_name": "Patchouli",
+    "scientific_name": "Pogostemon cablin",
+    "category": "herb",
+    "subcategory": "aromatic perennial",
+    "days_to_germination": {"min": 10, "max": 21},
+    "germination_soil_temp_f": {"min": 70, "max": 80},
+    "days_to_maturity": {"min": 90, "max": 120},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 0, "max": 2},
+      "note": "Root semi-hardwood stem cuttings in moist perlite at 75\u00b0F indoors; plant outside after last frost in a sheltered spot. In frost-free zones 10\u201311 it persists as a woody perennial subshrub."
+    },
+    "usda_zones": {"min": 10, "max": 11},
+    "spacing_in": {"min": 24, "max": 30},
+    "height_in": {"min": 24, "max": 36},
+    "spread_in": {"min": 24, "max": 30},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Root semi-hardwood cuttings in moist perlite at 75\u00b0F and provide high humidity during rooting; commercial patchouli rarely sets viable seed and is almost universally propagated vegetatively. Plant in rich, well-drained, slightly acidic soil in partial shade with protection from hot afternoon sun. The broad, irregularly toothed leaves release the characteristic heavy, earthy patchouli fragrance when touched or bruised, a scent that intensifies as leaves dry and ferment. Harvest branches before flowering for maximum essential oil content by cutting stems back to a node; the plant re-sprouts vigorously. Essential oil is steam-distilled from dried leaves and used widely in perfumery and aromatherapy.",
+    "sources": [
+      "University of Florida IFAS Tropical Herbs",
+      "Purdue University Center for New Crops and Plant Products",
+      "Lawless, J. The Encyclopedia of Essential Oils, 1992"
+    ]
+  },
+  {
+    "slug": "wild-leek",
+    "common_name": "Ramps (Wild Leek)",
+    "scientific_name": "Allium tricoccum",
+    "category": "vegetable",
+    "subcategory": "allium",
+    "days_to_germination": {"min": 365, "max": 540},
+    "germination_soil_temp_f": {"min": 60, "max": 70},
+    "days_to_maturity": {"min": 1825, "max": 2555},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {"min": -8, "max": -4},
+      "note": "Direct sow fresh seed in late summer to early fall for natural double-dormancy stratification; seeds require a warm period then a cold period and typically germinate the second spring. Division of established bulb clusters in early fall establishes a harvest-ready patch far faster."
+    },
+    "usda_zones": {"min": 3, "max": 7},
+    "spacing_in": {"min": 3, "max": 6},
+    "height_in": {"min": 6, "max": 12},
+    "spread_in": {"min": 3, "max": 6},
+    "sun": "shade",
+    "water": "moderate",
+    "directions": "Plant in rich, moist, deciduous woodland soil with abundant leaf litter; ramps are ephemeral spring woodland plants that emerge in early spring, develop broad elliptical leaves with a garlicky onion scent, go dormant by early summer, and produce small white flowers in midsummer after the leaves die back. From seed, plants take 5\u20137 years to reach harvestable size \u2014 buy small bulb divisions to start a productive patch sooner. Never harvest more than one in ten plants from a wild stand, as wild populations have been severely depleted by over-harvesting. In the garden, topdress annually with shredded leaves and plant in drifts under deciduous trees where spring sunlight reaches the ground before the canopy closes.",
+    "sources": [
+      "USDA Forest Service, National Agroforestry Center",
+      "University of Vermont Extension",
+      "National Gardening Association, Edible Wild Plants"
+    ]
+  },
+  {
+    "slug": "nemophila",
+    "common_name": "Baby Blue Eyes",
+    "scientific_name": "Nemophila menziesii",
+    "category": "flower",
+    "subcategory": "annual",
+    "days_to_germination": {"min": 7, "max": 14},
+    "germination_soil_temp_f": {"min": 55, "max": 65},
+    "days_to_maturity": {"min": 60, "max": 90},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": -4, "max": -2},
+      "note": "Direct sow 2\u20134 weeks before last frost; in zones 8\u201311 sow in fall for winter and spring bloom \u2014 nemophila performs best in cool weather and declines in summer heat."
+    },
+    "usda_zones": {"min": 2, "max": 11},
+    "spacing_in": {"min": 6, "max": 9},
+    "height_in": {"min": 6, "max": 12},
+    "spread_in": {"min": 6, "max": 9},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Direct sow seed 1/4 inch deep in cool, moist soil in partial shade; baby blue eyes is a California native annual that produces cheerful sky-blue flowers with white centers on low spreading mounds of delicate ferny foliage from early spring through early summer. It is an excellent cool-season companion for spring bulbs and woodland edges where dappled shade keeps plants cool. In Gulf Coast and mild-winter gardens, fall sowing produces a carpet of blue flowers from November through March. Plants die back in summer heat and self-sow lightly to naturalize in suitable sites. Regular moisture during dry spells is the key to prolonging the bloom season.",
+    "sources": [
+      "Las Pilitas Nursery California Native Plant Guide",
+      "Lady Bird Johnson Wildflower Center",
+      "UC Santa Cruz Arboretum"
+    ]
+  },
+  {
+    "slug": "collinsia",
+    "common_name": "Chinese Houses",
+    "scientific_name": "Collinsia heterophylla",
+    "category": "flower",
+    "subcategory": "annual",
+    "days_to_germination": {"min": 7, "max": 21},
+    "germination_soil_temp_f": {"min": 50, "max": 65},
+    "days_to_maturity": {"min": 60, "max": 90},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": -4, "max": -2},
+      "note": "Direct sow in early spring 2\u20134 weeks before last frost; in mild-winter zones sow in fall for spring bloom. Collinsia resents transplanting and always performs best from direct sowing."
+    },
+    "usda_zones": {"min": 2, "max": 11},
+    "spacing_in": {"min": 6, "max": 9},
+    "height_in": {"min": 12, "max": 24},
+    "spread_in": {"min": 6, "max": 9},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Scatter seed on the soil surface and press lightly; Chinese houses germinates readily in cool weather and does not transplant well. The two-lipped flowers in white and purple are arranged in diminishing whorls up the stem like tiers of a pagoda, giving the plant its whimsical common name. It is a California native annual adapted to partially shaded woodland edges and performs beautifully as a spring-flowering groundcover under deciduous shrubs or in dappled shade. Plants self-sow to naturalize in suitable sites. In warm climates it completes its cycle quickly; in zone 9\u201311 a fall sowing and a late-winter sowing extend the season of bloom.",
+    "sources": [
+      "Las Pilitas Nursery California Native Plant Guide",
+      "Calflora Database, University of California",
+      "Lady Bird Johnson Wildflower Center"
+    ]
+  }
+]

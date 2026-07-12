@@ -1,0 +1,157 @@
+[
+  {
+    "slug": "talinum",
+    "common_name": "Philippine Spinach (Waterleaf)",
+    "scientific_name": "Talinum fruticosum",
+    "category": "vegetable",
+    "subcategory": "leafy green",
+    "days_to_germination": {"min": 7, "max": 14},
+    "germination_soil_temp_f": {"min": 70, "max": 85},
+    "days_to_maturity": {"min": 30, "max": 60},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 0, "max": 2},
+      "note": "Direct sow after last frost in warm, moist soil; in zone 9\u201311 sow year-round as a perennial, cutting plants back periodically to encourage fresh tender growth."
+    },
+    "usda_zones": {"min": 9, "max": 11},
+    "spacing_in": {"min": 12, "max": 18},
+    "height_in": {"min": 18, "max": 30},
+    "spread_in": {"min": 12, "max": 18},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Sow seed shallowly in warm, moist soil; talinum is an exceptionally heat-tolerant tropical leafy vegetable used across West Africa, the Caribbean, and Southeast Asia as a spinach substitute that thrives in hot weather that destroys most other greens. The thick, succulent leaves and stems cook quickly and have a mild, slightly mucilaginous texture similar to purslane. Harvest by cutting stem tips with young leaves regularly; plants regenerate vigorously from the base. In zones 9\u201311 it becomes a woody perennial subshrub 2\u20133 feet tall; cut back to 6 inches periodically to keep growth tender. Very drought-tolerant once established and requires little fertilizer. Also known as Lagos spinach and waterleaf.",
+    "sources": [
+      "University of Florida IFAS Extension",
+      "FAO Leafy Vegetables of the Tropics",
+      "Grubben, G.J.H. Plant Resources of Tropical Africa, 2004"
+    ]
+  },
+  {
+    "slug": "smallage",
+    "common_name": "Smallage (Cutting Celery)",
+    "scientific_name": "Apium graveolens var. secalinum",
+    "category": "vegetable",
+    "subcategory": "leafy green",
+    "days_to_germination": {"min": 10, "max": 21},
+    "germination_soil_temp_f": {"min": 60, "max": 70},
+    "days_to_maturity": {"min": 60, "max": 90},
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": -8, "max": -6},
+      "note": "Start indoors 6\u20138 weeks before last frost; surface sow as seeds need light to germinate. In zones 8\u201311 it can be direct sown in early fall for a winter and spring harvest."
+    },
+    "usda_zones": {"min": 5, "max": 10},
+    "spacing_in": {"min": 9, "max": 12},
+    "height_in": {"min": 18, "max": 30},
+    "spread_in": {"min": 9, "max": 12},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Surface sow seed on moist starting mix at 65\u00b0F and provide bright light; smallage is the ancient, semi-wild form of celery with thin, hollow stems and very intensely flavored leaves \u2014 flavor is perhaps 10 times stronger than modern celery and reminiscent of the finest celery seed spice. It is grown primarily for its leaves, not its stalks, and a small amount goes a long way in soups, stews, and sauces. Unlike stalk celery, smallage is relatively easy to grow, tolerates partial shade, and does not require blanching. It is the celery of most historical European recipes before hybridization for thick stalks. A biennial or short-lived perennial that self-sows readily to establish a permanent presence in the herb garden.",
+    "sources": [
+      "Royal Horticultural Society",
+      "Plants for a Future Database",
+      "Tozer, F. The Kitchen Herb Garden, 2014"
+    ]
+  },
+  {
+    "slug": "white-yam",
+    "common_name": "White Yam",
+    "scientific_name": "Dioscorea rotundata",
+    "category": "vegetable",
+    "subcategory": "root",
+    "days_to_germination": {"min": 14, "max": 21},
+    "germination_soil_temp_f": {"min": 75, "max": 85},
+    "days_to_maturity": {"min": 210, "max": 270},
+    "maturity_from": "transplant",
+    "sow_method": "tuber",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 2, "max": 4},
+      "note": "Plant sett tubers (sections of yam with at least one eye) 4\u20136 inches deep after last frost when soil has warmed to 75\u00b0F; provide a trellis or sturdy support for the twining vines."
+    },
+    "usda_zones": {"min": 9, "max": 11},
+    "spacing_in": {"min": 24, "max": 36},
+    "height_in": {"min": 120, "max": 240},
+    "spread_in": {"min": 24, "max": 36},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant sett pieces 4\u20136 inches deep in loose, deeply dug, well-drained soil \u2014 white yam tubers grow straight down and require at least 18 inches of loose, stone-free soil. Provide a sturdy trellis or fence for the twining vines, which can reach 15\u201320 feet. The large, starchy white or cream-fleshed tubers (distinctly different from sweet potatoes, which are Ipomoea) are the most important traditional food crop in West Africa, where yam is eaten pounded into fufu, roasted, boiled, or fried as chips. Unlike the common yam varieties in Western grocery stores (which are often actually sweet potatoes), true white yam has a dry, starchy texture and neutral flavor that complements bold sauces and stews. Harvest when vines yellow in fall, dig carefully to avoid breaking tubers.",
+    "sources": [
+      "FAO Food and Agriculture Organization",
+      "International Institute of Tropical Agriculture (IITA)",
+      "University of Florida IFAS Tropical Crops"
+    ]
+  },
+  {
+    "slug": "moth-bean",
+    "common_name": "Moth Bean",
+    "scientific_name": "Vigna aconitifolia",
+    "category": "vegetable",
+    "subcategory": "legume",
+    "days_to_germination": {"min": 5, "max": 10},
+    "germination_soil_temp_f": {"min": 70, "max": 90},
+    "days_to_maturity": {"min": 75, "max": 90},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 2, "max": 4},
+      "note": "Direct sow after last frost when soil is warm; moth bean thrives in hot, dry conditions and should not be overwatered or grown in heavy, poorly drained soil."
+    },
+    "usda_zones": {"min": 5, "max": 11},
+    "spacing_in": {"min": 4, "max": 6},
+    "height_in": {"min": 12, "max": 18},
+    "spread_in": {"min": 6, "max": 12},
+    "sun": "full",
+    "water": "low",
+    "directions": "Direct sow 1 inch deep in hot, dry conditions; moth bean is one of the most drought-tolerant grain legumes in the world, capable of producing a crop on as little as 8 inches of annual rainfall. The small, cylindrical pods contain tiny tan or speckled seeds prized in South Asian cooking \u2014 sprouted or cooked whole in dal preparations, ground into flour for papadums, and used in the Rajasthani specialty moth ki dal. The spreading, leafy vines make an excellent cover crop for hot, arid, or sandy soils with the added benefit of nitrogen fixation. An outstanding plant for warm, dry climates where most legumes struggle; ideal for zone 9\u201311 summer gardens.",
+    "sources": [
+      "ICRISAT International Crops Research Institute",
+      "Purdue University Center for New Crops",
+      "FAO Food and Agriculture Organization"
+    ]
+  },
+  {
+    "slug": "cluster-bean",
+    "common_name": "Cluster Bean (Guar)",
+    "scientific_name": "Cyamopsis tetragonoloba",
+    "category": "vegetable",
+    "subcategory": "legume",
+    "days_to_germination": {"min": 5, "max": 10},
+    "germination_soil_temp_f": {"min": 70, "max": 90},
+    "days_to_maturity": {"min": 60, "max": 90},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 2, "max": 4},
+      "note": "Direct sow after last frost in warm soil; cluster bean does not transplant well and performs best in hot, dry summer conditions similar to the arid tropics of South Asia."
+    },
+    "usda_zones": {"min": 5, "max": 11},
+    "spacing_in": {"min": 6, "max": 9},
+    "height_in": {"min": 24, "max": 48},
+    "spread_in": {"min": 6, "max": 9},
+    "sun": "full",
+    "water": "low",
+    "directions": "Sow seeds 1 inch deep in well-drained, warm soil after last frost; cluster bean (guar) is a summer-annual legume with clusters of small pods along the stems that are harvested young as a vegetable \u2014 particularly popular in Indian cooking, where the tender young pods (called gawar phalli) are stir-fried with spices. Mature seeds are the source of guar gum, a key industrial thickener used worldwide in food production, oil drilling, and manufacturing. The plant is a nitrogen-fixing cover crop adapted to hot, dry conditions and marginal soils. In South Asia it is grown over millions of acres. In the home garden it provides an unusual, prolific summer vegetable with minimal water requirements, excellent for Gulf Coast and arid Southwest climates.",
+    "sources": [
+      "Purdue University Center for New Crops",
+      "ICRISAT International Crops Research Institute",
+      "Texas AgriLife Extension"
+    ]
+  }
+]

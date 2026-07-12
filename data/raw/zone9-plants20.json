@@ -1,0 +1,157 @@
+[
+  {
+    "slug": "dendromecon-rigida",
+    "common_name": "Bush Poppy (Tree Poppy)",
+    "scientific_name": "Dendromecon rigida",
+    "category": "flower",
+    "subcategory": "California native drought-tolerant shrub",
+    "days_to_germination": { "min": 21, "max": 60 },
+    "germination_soil_temp_f": { "min": 65, "max": 75 },
+    "days_to_maturity": { "min": 365, "max": 730 },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": { "min": -6, "max": -2 },
+      "note": "Root semi-hardwood cuttings in summer or plant container-grown plants in very well-drained, lean, slightly acidic to neutral soil in full sun; bush poppy does not transplant well and should be established from small container plants with minimal root disturbance. Seed germination requires smoke treatment or scarification. Established plants resent supplemental summer irrigation. Cut back by one-third after flowering to maintain compact shape."
+    },
+    "usda_zones": { "min": 8, "max": 10 },
+    "spacing_in": { "min": 48, "max": 72 },
+    "height_in": { "min": 48, "max": 96 },
+    "spread_in": { "min": 48, "max": 72 },
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant in very well-drained, lean, slightly acidic to neutral soil in full sun; bush poppy is a California chaparral native that produces a uniquely beautiful combination — narrow, gray-green, willow-like, glaucous leaves on an arching shrub and, from spring through summer, large (2–3 inch), bright golden-yellow, four-petaled poppy flowers that open to a pure, clear, unornamented yellow of exceptional purity against the glaucous foliage. The simple, clean flower form — each petal a perfect, softly-textured quarter-circle of yellow — combined with the silver-blue foliage creates an effect of cool, refined beauty appropriate to the dry, sunny California garden. It is native to chaparral slopes throughout the California coast ranges and Sierra Nevada foothills, growing on dry, rocky, lean soils in full sun and requiring no summer irrigation once established. Seed germination in the wild is triggered by the heat and chemicals of chaparral fires. In the garden, fire-adapted plants like this one can be started from cuttings or from smoke-treated seed. Outstanding for drought-tolerant California native plantings where it provides yellow flowers and silvery foliage contrast.",
+    "sources": [
+      "University of California Cooperative Extension",
+      "Calflora Database",
+      "Lady Bird Johnson Wildflower Center"
+    ]
+  },
+  {
+    "slug": "eriophyllum-lanatum",
+    "common_name": "Oregon Sunshine (Woolly Sunflower)",
+    "scientific_name": "Eriophyllum lanatum",
+    "category": "flower",
+    "subcategory": "Pacific coast native drought-tolerant perennial",
+    "days_to_germination": { "min": 14, "max": 21 },
+    "germination_soil_temp_f": { "min": 60, "max": 70 },
+    "days_to_maturity": { "min": 90, "max": 150 },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": { "min": -6, "max": -2 },
+      "note": "Direct sow seeds in fall or spring in lean, sharply drained, slightly acidic to neutral soil in full sun; Oregon sunshine is drought-tolerant once established and is best adapted to the lean, rocky, or sandy soils of its Pacific Coast native habitat. In rich, moist garden soil it becomes floppy and short-lived. An outstanding front-of-border perennial for dry, sunny western gardens."
+    },
+    "usda_zones": { "min": 4, "max": 9 },
+    "spacing_in": { "min": 12, "max": 18 },
+    "height_in": { "min": 8, "max": 18 },
+    "spread_in": { "min": 12, "max": 18 },
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant in lean, sharply drained, slightly acidic to neutral soil in full sun; Oregon sunshine is a widespread Pacific Coast native perennial of rocky outcrops, dry slopes, and lean, sandy soils from British Columbia to northern California, producing a low mound of densely woolly-white, deeply lobed, silver-gray leaves and from late spring through summer, a generous display of bright, clear golden-yellow daisy flowers (1–1.5 inches across) with yellow central discs that appear to float above the silver foliage. The combination of the felty, woolly, white-silver foliage and the clear yellow flowers creates a striking, drought-tolerant, rock-garden effect in full sun. The name reflects both the woolly (lanatum = woolly) leaf surface and the Oregon origin of the species. It is highly variable across its range, with many recognized subspecies and geographical forms varying from compact 6-inch cushions to taller, looser plants 18 inches high. Outstanding for western rock gardens, dry slope stabilization, and the front of the sunny, drought-tolerant border where its silver foliage provides good contrast. Attracts native bees and is one of the primary native bee foraging plants in its range.",
+    "sources": [
+      "University of California Cooperative Extension",
+      "Lady Bird Johnson Wildflower Center",
+      "Missouri Botanical Garden Plant Finder"
+    ]
+  },
+  {
+    "slug": "gilia-capitata",
+    "common_name": "Blue-Head Gilia (Blue Thimble Flower)",
+    "scientific_name": "Gilia capitata",
+    "category": "flower",
+    "subcategory": "California native pollinator annual",
+    "days_to_germination": { "min": 7, "max": 14 },
+    "germination_soil_temp_f": { "min": 55, "max": 65 },
+    "days_to_maturity": { "min": 50, "max": 70 },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": { "min": -4, "max": -2 },
+      "note": "Direct sow seeds in early spring or fall in lean to moderately fertile, well-drained, slightly acidic to neutral soil in full sun; blue-head gilia is a cool-season annual that performs best before summer heat and declines in hot weather. It self-sows freely in appropriate conditions. Sow in broad drifts for the best display — individual plants are not very showy but masses create a beautiful blue haze."
+    },
+    "usda_zones": { "min": 3, "max": 10 },
+    "spacing_in": { "min": 6, "max": 10 },
+    "height_in": { "min": 12, "max": 24 },
+    "spread_in": { "min": 6, "max": 10 },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Direct sow seeds in cool weather in moderately fertile, well-drained soil in full sun; blue-head gilia is a California and Pacific Northwest native annual prized as one of the finest and most easily grown native annual bee plants — producing branching, wiry, finely-dissected-leaved stems topped by dense, round flower heads (like a spherical blue thimble) composed of many tiny, tubular, sky-blue to pale blue-violet florets packed tightly together in a tight ball. The spherical flower heads, carried on branching stems above the fine-textured foliage, create an airy, blue-haze effect in mass plantings reminiscent of meadow wildflower fields. It is exceptionally attractive to native bees — particularly small native bees, sweat bees, and mining bees — making it one of the highest-ranked native annual plants for supporting native bee populations. The fine texture of the foliage and the airy, branching habit combine with the unusual spherical, blue thimble flower heads to create a wildflower that is distinctive and ornamental without being showy. Outstanding in native plant meadow mixes, cutting gardens, and any sunny position where a bee-supporting blue annual is desired for spring through early summer.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "University of California Cooperative Extension",
+      "Calflora Database"
+    ]
+  },
+  {
+    "slug": "linanthus-grandiflorus",
+    "common_name": "Mountain Phlox (Large-Flowered Linanthus)",
+    "scientific_name": "Linanthus grandiflorus",
+    "category": "flower",
+    "subcategory": "California native cool-season annual",
+    "days_to_germination": { "min": 7, "max": 14 },
+    "germination_soil_temp_f": { "min": 55, "max": 65 },
+    "days_to_maturity": { "min": 40, "max": 60 },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": { "min": -4, "max": -2 },
+      "note": "Direct sow seeds in early spring or fall in lean, well-drained, slightly acidic to neutral soil in full sun; mountain phlox is a cool-season annual that performs best before summer heat arrives — time sowing for the cool season in your climate. It does not transplant well; always sow in place. In mild-winter climates (zones 8b–10) fall sowing for winter and spring bloom is ideal."
+    },
+    "usda_zones": { "min": 5, "max": 10 },
+    "spacing_in": { "min": 4, "max": 8 },
+    "height_in": { "min": 10, "max": 18 },
+    "spread_in": { "min": 6, "max": 10 },
+    "sun": "full",
+    "water": "low",
+    "directions": "Direct sow seeds in cool weather in lean, well-drained soil in full sun; mountain phlox is a California native annual of the coastal hills and chaparral that, despite the common name 'mountain phlox,' is unrelated to true phlox — belonging instead to the Polemoniaceae family alongside gilia and cobaea. It produces upright, wiry stems with narrow, divided leaves and large (for its plant size), five-petaled, funnel-shaped flowers in pure white to soft lavender-pink that strongly resemble phlox flowers, opening in the morning and fading by evening, with a faint, sweet fragrance. In mass, it creates a delicate, fresh display of white to pale-pink flowers in spring. The simple, clean, somewhat translucent flower petals have a papery, refined quality that rewards close examination. Outstanding in California native wildflower meadow mixes, cottage garden edges, and as a cool-season filler in dry, sunny gardens before summer annuals take over. Self-sows modestly in appropriate conditions to maintain colonies in mild climates.",
+    "sources": [
+      "Calflora Database",
+      "University of California Cooperative Extension",
+      "Lady Bird Johnson Wildflower Center"
+    ]
+  },
+  {
+    "slug": "clarkia-breweri",
+    "common_name": "Pinkfairy (Brewer's Clarkia)",
+    "scientific_name": "Clarkia breweri",
+    "category": "flower",
+    "subcategory": "California native fragrant annual",
+    "days_to_germination": { "min": 7, "max": 14 },
+    "germination_soil_temp_f": { "min": 55, "max": 65 },
+    "days_to_maturity": { "min": 50, "max": 70 },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": { "min": -4, "max": -2 },
+      "note": "Direct sow seeds in early spring in lean to moderately fertile, well-drained soil in full sun; Brewer's clarkia does not transplant well and should always be sown in place. In mild-winter climates, fall sowing for spring bloom is ideal. It performs best in cool weather and declines in summer heat. Self-sows freely in appropriate lean, open soils."
+    },
+    "usda_zones": { "min": 5, "max": 10 },
+    "spacing_in": { "min": 6, "max": 10 },
+    "height_in": { "min": 12, "max": 20 },
+    "spread_in": { "min": 6, "max": 10 },
+    "sun": "full",
+    "water": "low",
+    "directions": "Direct sow seeds in cool weather in lean to moderately fertile, well-drained soil in full sun; Brewer's clarkia (pinkfairy) is a California native annual notable for being one of the very few annual wildflowers with a pronounced, sweet floral fragrance — the delicate, lavender-pink to rose-pink, four-petaled flowers, each only about 1 inch across with deeply fan-shaped petals notched at the tip, carry a light, rose-like fragrance that makes them pleasant both in the garden and as a cut flower, unusual among California native annuals. Named for the American botanist William Brewer, it grows naturally in the open, chaparral and oak woodland understory of the Sierra Nevada foothills and Coast Ranges of California. The flowers are produced in loose racemes on branching stems from spring through early summer. Outstanding as a companion to other California native annuals — California poppies, gilia, clarkia species — in native plant meadow mixes and cottage gardens. The fragrance, rare in the genus, makes it particularly valuable near garden seating areas and along paths where the flowers can be appreciated up close.",
+    "sources": [
+      "Calflora Database",
+      "Lady Bird Johnson Wildflower Center",
+      "University of California Cooperative Extension"
+    ]
+  }
+]

@@ -1,0 +1,157 @@
+[
+  {
+    "slug": "schlumbergera",
+    "common_name": "Christmas Cactus (Holiday Cactus, Thanksgiving Cactus)",
+    "scientific_name": "Schlumbergera x buckleyi",
+    "category": "flower",
+    "subcategory": "epiphytic holiday cactus",
+    "days_to_germination": { "min": 14, "max": 30 },
+    "germination_soil_temp_f": { "min": 65, "max": 75 },
+    "days_to_maturity": { "min": 365, "max": 730 },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": { "min": 0, "max": 4 },
+      "note": "Root 2–3 segment stem tip cuttings in well-drained cactus mix or perlite; Christmas cactus needs bright indirect light indoors and benefits from a summer vacation outdoors in a shaded location. To induce blooming in November–December, expose to cool temperatures (50–55°F) and 12–14 hours of darkness for 4–6 weeks in fall. Move to brighter, warmer conditions once buds form."
+    },
+    "usda_zones": { "min": 10, "max": 12 },
+    "spacing_in": { "min": 12, "max": 18 },
+    "height_in": { "min": 8, "max": 18 },
+    "spread_in": { "min": 12, "max": 24 },
+    "sun": "shade",
+    "water": "moderate",
+    "directions": "Grow in bright indirect light indoors in well-drained cactus mix; Christmas cactus is one of the most widely grown houseplants in the world, a Brazilian forest epiphyte that blooms in winter — producing vivid tubular flowers in red, pink, white, coral, or purple at the stem tips in November through January, timed perfectly for the holiday season. The flat, segmented, spineless green 'leaves' are actually stems (phylloclades). Unlike desert cacti, Christmas cactus is a forest epiphyte from cloud forests and requires more moisture, organic matter, and indirect light than most cacti. Blooming is triggered by shortening day length and cool temperatures in fall — a dark garage or cool room for 4–6 weeks in October initiates the bud set. The plant is long-lived: specimens can be passed down through generations and grow for 30–50+ years. 'Christmas cactus' versus 'Thanksgiving cactus' (S. truncata) are often confused — the Thanksgiving cactus has pointed segment margins and blooms in November, while the Christmas cactus has rounded margins and blooms in December. Both are commonly sold under the same name.",
+    "sources": [
+      "University of Florida IFAS Extension",
+      "Missouri Botanical Garden Plant Finder",
+      "North Carolina State Extension"
+    ]
+  },
+  {
+    "slug": "opuntia-phaeacantha",
+    "common_name": "Tulip Prickly Pear (Twistspine Prickly Pear)",
+    "scientific_name": "Opuntia phaeacantha",
+    "category": "fruit",
+    "subcategory": "edible native cactus",
+    "days_to_germination": { "min": 14, "max": 30 },
+    "germination_soil_temp_f": { "min": 65, "max": 75 },
+    "days_to_maturity": { "min": 1095, "max": 1825 },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": { "min": 2, "max": 6 },
+      "note": "Propagate by detaching and allowing pads to callus for 2 weeks before planting in very well-drained, lean, alkaline to neutral soil in full sun; tulip prickly pear requires excellent drainage and establishes in almost any well-drained, dry condition. Handle with extreme care using thick gloves and tongs — the tiny glochids (hairlike spines) embed in skin and are difficult to remove."
+    },
+    "usda_zones": { "min": 4, "max": 10 },
+    "spacing_in": { "min": 36, "max": 60 },
+    "height_in": { "min": 24, "max": 48 },
+    "spread_in": { "min": 36, "max": 72 },
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant in very well-drained, lean, alkaline to neutral soil in full sun; tulip prickly pear is one of the most widely distributed native cacti of the American Southwest and southern Plains, producing large, satiny, lemon-yellow flowers with orange centers in May and June that are among the most beautiful cactus flowers — 2–3 inches across, silky-textured, and glowing in full sun. The pads are flat, blue-green, and covered with clusters of spines. The fruits (tunas) ripen from green to deep red-purple in late summer and fall and are edible fresh or cooked into juice, jelly, candy, and syrup, having a sweet, watermelon-like flavor. The young pads (nopales) are also edible as a vegetable when the spines are removed. This species is one of the most cold-hardy prickly pears, surviving to zone 4 in well-drained conditions. It naturalizes across the Southwest and Texas and is an important wildlife plant — the fruit feeds desert tortoises, coyotes, javelinas, and birds. CAUTION: the tiny glochid spines embed invisibly in skin and cause intense, persistent irritation.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "University of Arizona Cooperative Extension",
+      "Texas A&M AgriLife Extension"
+    ]
+  },
+  {
+    "slug": "yucca-rupicola",
+    "common_name": "Texas Rock Yucca (Twisted Leaf Yucca)",
+    "scientific_name": "Yucca rupicola",
+    "category": "flower",
+    "subcategory": "Texas Hill Country native yucca",
+    "days_to_germination": { "min": 14, "max": 30 },
+    "germination_soil_temp_f": { "min": 65, "max": 75 },
+    "days_to_maturity": { "min": 1095, "max": 2190 },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": { "min": 2, "max": 6 },
+      "note": "Plant container-grown plants in very well-drained, alkaline to neutral, lean, rocky or gritty soil in full sun; Texas rock yucca is endemic to the limestone outcrops of the Texas Hill Country and Edwards Plateau and thrives in the thin, rocky, alkaline soil conditions of that region. It is smaller and more compact than most yuccas, making it better suited to residential gardens than the large tree yuccas."
+    },
+    "usda_zones": { "min": 7, "max": 11 },
+    "spacing_in": { "min": 24, "max": 36 },
+    "height_in": { "min": 18, "max": 30 },
+    "spread_in": { "min": 24, "max": 36 },
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant in very well-drained, alkaline to neutral, lean, rocky soil in full sun; Texas rock yucca is an endemic Texas Hill Country species producing the most distinctively twisted and curving leaves of any common yucca — flat, dark-green, strap-like leaves with yellow-green margins that twist and curl as they lengthen, creating a characteristic spiral effect on the rosette. Unlike most yuccas, which produce straight, upright leaves, the twisted leaves of Y. rupicola give it an immediately recognizable and distinctive appearance. It stays compact — reaching only 18–30 inches in spread without the stiff trunk of larger yuccas — making it more manageable in residential garden settings. Excellent for Texas Hill Country-style native gardens, rock gardens, limestone soil gardens, and dry xeriscapes in zone 7–11. Summer flower spikes of white, bell-shaped, fragrant yucca flowers are visited by yucca moths. The plant slowly produces offsets over many years to form modest clumps.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "Texas A&M AgriLife Extension",
+      "Native Plant Society of Texas"
+    ]
+  },
+  {
+    "slug": "carnegiea-gigantea",
+    "common_name": "Saguaro Cactus",
+    "scientific_name": "Carnegiea gigantea",
+    "category": "flower",
+    "subcategory": "iconic Sonoran Desert columnar cactus",
+    "days_to_germination": { "min": 14, "max": 30 },
+    "germination_soil_temp_f": { "min": 70, "max": 80 },
+    "days_to_maturity": { "min": 3650, "max": 18250 },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": { "min": 2, "max": 6 },
+      "note": "Plant container-grown transplants in very well-drained, alkaline, sandy or gravelly soil in full sun; saguaro is extremely slow-growing (one inch in the first year from seed) and grows best in the desert Southwest where it is protected by law in Arizona — it is illegal to harvest or damage saguaro on public land or to transplant wild specimens without a permit. Purchase only from reputable nurseries that propagate them legally."
+    },
+    "usda_zones": { "min": 9, "max": 11 },
+    "spacing_in": { "min": 120, "max": 240 },
+    "height_in": { "min": 60, "max": 480 },
+    "spread_in": { "min": 24, "max": 72 },
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant legally sourced transplants in very well-drained, alkaline, desert-type soil in full sun; saguaro is the iconic columnar cactus of the Sonoran Desert of Arizona and northwestern Mexico — recognized worldwide as the symbol of the American Southwest, appearing on the Arizona state seal and in countless Western films. The great columnar stems, which can reach 40–50 feet in extreme old age (100–200 years), develop 'arms' only after 75–100 years of growth. The fluted, ribbed trunks store enormous quantities of water during monsoon rains, allowing the plant to survive extreme drought. In May and June, large, white, night-blooming flowers open at the stem tips — the Arizona state wildflower — attracting white-winged doves, bats, and native bees. The red, fig-like fruits are sweet, edible, and culturally significant to the Tohono O'odham people, who harvest the fruit with long poles to make syrup, wine, and jelly. LEGAL NOTE: saguaro are protected by Arizona law — obtain only from licensed nurseries.",
+    "sources": [
+      "Arizona-Sonora Desert Museum",
+      "University of Arizona Cooperative Extension",
+      "Lady Bird Johnson Wildflower Center"
+    ]
+  },
+  {
+    "slug": "galega-officinalis",
+    "common_name": "Goat's Rue (Professor Weed)",
+    "scientific_name": "Galega officinalis",
+    "category": "flower",
+    "subcategory": "European medicinal legume",
+    "days_to_germination": { "min": 7, "max": 21 },
+    "germination_soil_temp_f": { "min": 55, "max": 70 },
+    "days_to_maturity": { "min": 365, "max": 730 },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": { "min": -4, "max": 0 },
+      "note": "Direct-sow in moist, average to fertile soil in full sun to part shade; INVASIVE WARNING: Galega officinalis is a listed noxious weed in Colorado, Montana, Washington, and other western US states and is prohibited from sale and planting in those states. It spreads by seed and rhizomes and has colonized moist roadsides and riparian areas in western mountain states. Verify local regulations before planting."
+    },
+    "usda_zones": { "min": 4, "max": 8 },
+    "spacing_in": { "min": 18, "max": 24 },
+    "height_in": { "min": 36, "max": 60 },
+    "spread_in": { "min": 18, "max": 36 },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Sow in moist, average soil in full sun to part shade — VERIFY LEGALITY: listed noxious weed in several western US states; Goat's rue is a European legume with considerable historical significance: it was used for centuries as a treatment for diabetes in European folk medicine, and in the 20th century, chemists isolated the compound galegine from its leaves — the study of galegine's guanidine chemistry directly led to the development of metformin, now the world's most widely prescribed diabetes medication. The plant itself produces attractive racemes of white, pink, or lilac pea flowers in early summer above pinnate foliage and is ornamental in bloom. As a nitrogen-fixing legume it improves soil fertility. However, it has become a significant invasive weed in riparian and moist disturbed areas of the western United States (listed as a noxious weed in Colorado, Montana, and Washington states). In areas where it is legal to grow, it is an interesting historical medicinal and ornamental plant.",
+    "sources": [
+      "Missouri Botanical Garden Plant Finder",
+      "Royal Horticultural Society",
+      "USDA Natural Resources Conservation Service"
+    ]
+  }
+]

@@ -1,0 +1,157 @@
+[
+  {
+    "slug": "indian-grass",
+    "common_name": "Indian Grass",
+    "scientific_name": "Sorghastrum nutans",
+    "category": "flower",
+    "subcategory": "native ornamental grass",
+    "days_to_germination": {"min": 10, "max": 21},
+    "germination_soil_temp_f": {"min": 65, "max": 75},
+    "days_to_maturity": {"min": 365, "max": 730},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": -2, "max": 0},
+      "note": "Direct sow in early spring, lightly covering seed; Indian grass can also be planted from plugs in spring or fall. Weed competition is the primary threat in the establishment year."
+    },
+    "usda_zones": {"min": 4, "max": 9},
+    "spacing_in": {"min": 18, "max": 24},
+    "height_in": {"min": 48, "max": 84},
+    "spread_in": {"min": 18, "max": 24},
+    "sun": "full",
+    "water": "low",
+    "directions": "Sow seed in early spring in well-drained soil in full sun; Indian grass is a tall warm-season native grass that anchors native meadows and prairie gardens across North America. It is one of the dominant grasses of the tallgrass prairie, growing alongside big bluestem and switchgrass. The distinctive golden-orange seed heads on arching stems glow in late summer and fall light, and the foliage turns a brilliant copper-orange in autumn before drying to a warm buff that persists through winter. As with all warm-season grasses, growth is slow in spring and accelerates after summer heat arrives. Cut to 4\u20136 inches in late winter before new growth begins. Excellent for birds, which feed heavily on the seeds.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "USDA Natural Resources Conservation Service",
+      "Wasowski, Sally and Andy. Native Texas Plants, 2002"
+    ]
+  },
+  {
+    "slug": "pickerelweed",
+    "common_name": "Pickerelweed",
+    "scientific_name": "Pontederia cordata",
+    "category": "flower",
+    "subcategory": "native aquatic perennial",
+    "days_to_germination": {"min": 14, "max": 30},
+    "germination_soil_temp_f": {"min": 70, "max": 75},
+    "days_to_maturity": {"min": 60, "max": 90},
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 2, "max": 4},
+      "note": "Plant rhizome divisions or container stock in spring in shallow water or saturated mud at the pond or stream margin; pickerelweed grows in 4\u201312 inches of water depth."
+    },
+    "usda_zones": {"min": 3, "max": 10},
+    "spacing_in": {"min": 18, "max": 24},
+    "height_in": {"min": 24, "max": 36},
+    "spread_in": {"min": 18, "max": 24},
+    "sun": "full",
+    "water": "high",
+    "directions": "Plant in shallow water or saturated mud at the edges of ponds, streams, rain gardens, and water features; pickerelweed is a native aquatic perennial with glossy, heart-shaped leaves and dense violet-blue flower spikes that bloom from June through frost. It is an outstanding plant for wildlife: bees and butterflies work the flowers constantly, and the seeds are an important food source for wood ducks and other waterfowl. Divide clumps every 2\u20133 years in spring to prevent overcrowding. The young leaves and shoots are edible and have been eaten by indigenous peoples; mature seeds can be dried and eaten as grain or ground into flour. Plants naturalize readily to form colonies along pond margins.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "USDA Natural Resources Conservation Service",
+      "Missouri Botanical Garden Plant Finder"
+    ]
+  },
+  {
+    "slug": "spiraea",
+    "common_name": "Japanese Spirea",
+    "scientific_name": "Spiraea japonica",
+    "category": "flower",
+    "subcategory": "deciduous shrub",
+    "days_to_germination": {"min": 14, "max": 28},
+    "germination_soil_temp_f": {"min": 65, "max": 70},
+    "days_to_maturity": {"min": 365, "max": 730},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 2},
+      "note": "Plant container shrubs or root semi-hardwood cuttings in early summer; Japanese spirea transplants easily and establishes quickly in most soils."
+    },
+    "usda_zones": {"min": 4, "max": 8},
+    "spacing_in": {"min": 36, "max": 48},
+    "height_in": {"min": 24, "max": 48},
+    "spread_in": {"min": 36, "max": 48},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Plant in well-drained soil in full sun to partial shade; Japanese spirea is a tough, adaptable deciduous shrub that earns its place in the landscape through months of ornamental interest \u2014 colorful new foliage in spring (gold in 'Gold Flame', chartreuse in 'Gold Mound'), dense flat-topped clusters of pink to deep rose flowers in early summer, good fall color, and attractive twiggy winter form. Deadhead after first flowering and shear lightly to encourage a second flush of bloom. Hard rejuvenation pruning to 6\u20138 inches in early spring every 3\u20134 years keeps plants vigorous. Note that Japanese spirea is invasive in parts of the eastern United States; check local invasive plant lists and consider using native spiraea relatives (Physocarpus, Fothergilla) where appropriate.",
+    "sources": [
+      "Missouri Botanical Garden Plant Finder",
+      "North Carolina State Extension",
+      "Royal Horticultural Society"
+    ]
+  },
+  {
+    "slug": "blue-grama",
+    "common_name": "Blue Grama",
+    "scientific_name": "Bouteloua gracilis",
+    "category": "flower",
+    "subcategory": "native ornamental grass",
+    "days_to_germination": {"min": 7, "max": 21},
+    "germination_soil_temp_f": {"min": 65, "max": 80},
+    "days_to_maturity": {"min": 365, "max": 730},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 0, "max": 2},
+      "note": "Direct sow in spring after last frost, or sow in late summer for fall and spring germination; blue grama requires well-drained to dry soil and establishes slowly, reaching full size in its second or third year."
+    },
+    "usda_zones": {"min": 3, "max": 9},
+    "spacing_in": {"min": 12, "max": 18},
+    "height_in": {"min": 12, "max": 24},
+    "spread_in": {"min": 12, "max": 18},
+    "sun": "full",
+    "water": "low",
+    "directions": "Sow seed in well-drained to dry soil in full sun; blue grama is one of the most drought-tolerant native grasses of the short-grass prairie, once covering vast areas of the central and western United States. Its most distinctive feature is the unusual curved seed heads, shaped like sideways combs or eyelashes that stand on stiff wiry stems and sway in the breeze from midsummer through fall. It forms a fine-textured, low, blue-green turf in natural settings and is increasingly used as a lawn substitute in arid and semi-arid climates that require dramatically reduced water use. In garden settings it mixes beautifully with wildflowers and is highly resistant to deer browsing. Leave seed heads standing through winter for maximum ornamental value.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "USDA Natural Resources Conservation Service",
+      "Darke, Rick. The Encyclopedia of Grasses for Livable Landscapes, 2007"
+    ]
+  },
+  {
+    "slug": "narrow-leaf-mountain-mint",
+    "common_name": "Narrow-Leaf Mountain Mint",
+    "scientific_name": "Pycnanthemum tenuifolium",
+    "category": "flower",
+    "subcategory": "native perennial herb",
+    "days_to_germination": {"min": 14, "max": 21},
+    "germination_soil_temp_f": {"min": 65, "max": 70},
+    "days_to_maturity": {"min": 365, "max": 730},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": -2, "max": 0},
+      "note": "Direct sow in early spring on the soil surface, pressing seeds in lightly; narrow-leaf mountain mint also grows readily from stem cuttings taken in late spring or divisions of established clumps."
+    },
+    "usda_zones": {"min": 4, "max": 8},
+    "spacing_in": {"min": 18, "max": 24},
+    "height_in": {"min": 24, "max": 36},
+    "spread_in": {"min": 18, "max": 24},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Sow surface in moist, well-drained soil in full sun to partial shade; narrow-leaf mountain mint is one of the single most valuable native plants for pollinators, producing tiny white flowers with purple spots from July through September that attract an extraordinary diversity of native bees, beetles, wasps, butterflies, and other beneficial insects. Research has documented more than 100 pollinator species visiting Pycnanthemum in a single season. The slender, needle-like leaves release a strong, pleasant minty fragrance when brushed; the plant can be used as a culinary mint substitute and brewed as a tea. It spreads slowly by rhizomes and self-sows modestly. An essential plant for any pollinator or native plant garden.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "Tallamy, Doug. Bringing Nature Home, Timber Press, 2007",
+      "USDA Natural Resources Conservation Service"
+    ]
+  }
+]

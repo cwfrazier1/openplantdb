@@ -1,0 +1,157 @@
+[
+  {
+    "slug": "fig-lsu-purple",
+    "common_name": "LSU Purple Fig",
+    "scientific_name": "Ficus carica 'LSU Purple'",
+    "category": "fruit",
+    "subcategory": "fig",
+    "days_to_germination": {"min": 21, "max": 42},
+    "germination_soil_temp_f": {"min": 65, "max": 75},
+    "days_to_maturity": {"min": 365, "max": 730},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Root hardwood cuttings in late winter or plant container-grown trees in spring; LSU Purple was specifically developed for the humid, disease-prone Gulf Coast climate and significantly outperforms other fig varieties under these conditions."
+    },
+    "usda_zones": {"min": 7, "max": 11},
+    "spacing_in": {"min": 96, "max": 144},
+    "height_in": {"min": 60, "max": 120},
+    "spread_in": {"min": 96, "max": 120},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in well-drained soil in full sun; LSU Purple fig was developed by Louisiana State University specifically for the Gulf Coast and Deep South, where high humidity, summer rains, and soil fungal diseases typically prevent figs from performing as reliably as in Mediterranean or California climates. It produces an abundant main crop in summer of medium-sized, deep purple-skinned figs with a rich, sweet, dark-red interior. The variety has superior resistance to fruit splitting and souring \u2014 common problems in humid regions where rain during ripening ruins the crop on other varieties. It ripens earlier than most, avoiding the worst of hurricane season. An outstanding choice for zone 8\u20119 gardeners in the humid Southeast.",
+    "sources": [
+      "Louisiana State University AgCenter",
+      "University of Florida IFAS Extension",
+      "Texas A&M AgriLife Extension"
+    ]
+  },
+  {
+    "slug": "fig-black-mission",
+    "common_name": "Black Mission Fig",
+    "scientific_name": "Ficus carica 'Black Mission'",
+    "category": "fruit",
+    "subcategory": "fig",
+    "days_to_germination": {"min": 21, "max": 42},
+    "germination_soil_temp_f": {"min": 65, "max": 75},
+    "days_to_maturity": {"min": 365, "max": 730},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Root hardwood cuttings in late winter or plant container-grown trees; Black Mission is the standard commercial California fig and performs best in hot, dry summer climates with low humidity."
+    },
+    "usda_zones": {"min": 7, "max": 10},
+    "spacing_in": {"min": 120, "max": 180},
+    "height_in": {"min": 120, "max": 240},
+    "spread_in": {"min": 120, "max": 180},
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant in deep, well-drained soil in full sun; Black Mission fig is the most widely grown commercial fig in California, introduced by Spanish Franciscan missionaries in the 1700s and now the cornerstone of the California fig industry. It produces two crops yearly in favorable climates \u2014 a breba crop on last year's wood in early summer, and a main crop in late summer to fall. The large, purplish-black figs have pink to reddish flesh with an intensely rich, complex, sweet-jammy flavor that is among the finest of all fig varieties. Excellent fresh, dried, or made into preserves. It thrives in hot, dry conditions and is relatively drought-tolerant once established. In humid climates, fruit splitting and souring can be problematic; select LSU Purple or Celeste for the Southeast.",
+    "sources": [
+      "University of California Cooperative Extension",
+      "California Rare Fruit Growers",
+      "Texas A&M AgriLife Extension"
+    ]
+  },
+  {
+    "slug": "bergamot-orange",
+    "common_name": "Bergamot Orange",
+    "scientific_name": "Citrus bergamia",
+    "category": "fruit",
+    "subcategory": "citrus",
+    "days_to_germination": {"min": 14, "max": 28},
+    "germination_soil_temp_f": {"min": 70, "max": 80},
+    "days_to_maturity": {"min": 1095, "max": 1825},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Plant grafted trees in well-drained, fertile soil in full sun; bergamot orange requires a subtropical climate similar to coastal Calabria in southern Italy where the commercial crop is grown. In zones below 9, grow as a container plant and bring indoors during frost."
+    },
+    "usda_zones": {"min": 9, "max": 11},
+    "spacing_in": {"min": 120, "max": 180},
+    "height_in": {"min": 96, "max": 144},
+    "spread_in": {"min": 96, "max": 144},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in well-drained, fertile soil in full sun in a frost-free location; bergamot orange is a small citrus tree grown almost exclusively in Calabria, Italy, for the essential oil extracted from the peel \u2014 the aromatic compound that gives Earl Grey tea its distinctive floral-citrus character. The fruit is yellow-green when ripe, roughly lemon-sized, and inedible raw due to intense bitterness. The peel oil is also used extensively in high-end perfumery, providing the top notes to Chanel No. 5 and countless other classic fragrances. In the garden it is an ornamental conversation piece; harvest peels from ripe fruit and dry them, or make a simple extract by steeping fresh peel in vodka. A reliable performer in zone 9\u201311 with minimal maintenance beyond regular citrus feeding.",
+    "sources": [
+      "University of Florida IFAS Extension",
+      "California Rare Fruit Growers",
+      "Oxford Companion to Food, Davidson, 2014"
+    ]
+  },
+  {
+    "slug": "navel-orange",
+    "common_name": "Navel Orange",
+    "scientific_name": "Citrus sinensis 'Washington'",
+    "category": "fruit",
+    "subcategory": "citrus",
+    "days_to_germination": {"min": 14, "max": 21},
+    "germination_soil_temp_f": {"min": 70, "max": 80},
+    "days_to_maturity": {"min": 1095, "max": 1825},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Plant grafted trees in spring in well-drained, fertile soil; navel oranges require hot summers and mild winters to produce the sweetest fruit and are best grown in zone 9\u201311 or in large containers moved indoors during frost."
+    },
+    "usda_zones": {"min": 9, "max": 11},
+    "spacing_in": {"min": 120, "max": 180},
+    "height_in": {"min": 120, "max": 180},
+    "spread_in": {"min": 96, "max": 144},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant grafted trees in well-drained, fertile, slightly acidic soil in full sun; the Washington Navel is the world's most widely grown eating orange, identifiable by the small secondary fruit (the 'navel') embedded in the blossom end of each fruit. Navel oranges are seedless, easy to peel, and have exceptionally rich, sweet, non-bitter flavor when fully ripe. They ripen in winter (November through March), making them a precious fresh fruit at a time of year when few other fruit trees are bearing. Trees are self-fruitful and require no pollinators. Feed monthly with a citrus fertilizer, maintain good drainage, and protect from frost \u2014 even brief exposure to 28\u00b0F will damage fruit. In zone 9 the trees are hardy but fruit may be damaged in hard freezes.",
+    "sources": [
+      "University of California Cooperative Extension",
+      "University of Florida IFAS Extension",
+      "Texas A&M AgriLife Extension"
+    ]
+  },
+  {
+    "slug": "sesbania",
+    "common_name": "Sesbania (Dhaincha)",
+    "scientific_name": "Sesbania bispinosa",
+    "category": "cover-crop",
+    "subcategory": "tropical legume",
+    "days_to_germination": {"min": 3, "max": 7},
+    "germination_soil_temp_f": {"min": 70, "max": 90},
+    "days_to_maturity": {"min": 60, "max": 90},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 2, "max": 4},
+      "note": "Direct sow after last frost when soil has warmed to 70\u00b0F; sesbania germinates and establishes extremely rapidly and can grow 6\u20138 feet in a single season. Terminate by mowing or incorporating before it sets seed to prevent naturalization."
+    },
+    "usda_zones": {"min": 8, "max": 11},
+    "spacing_in": {"min": 6, "max": 12},
+    "height_in": {"min": 60, "max": 96},
+    "spread_in": {"min": 12, "max": 18},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Broadcast or drill seed in warm, moist soil; sesbania is one of the fastest-growing nitrogen-fixing legumes in the world, capable of producing 4\u20136 tons of organic matter per acre in a single season in warm climates. In South Asia it is the premier green manure for flooded rice paddies, incorporated at tillage to supply nitrogen equivalent to 100+ lbs/acre urea. For Gulf Coast home gardeners it is a superb summer cover crop that grows rapidly in the intense summer heat when cool-season covers are impossible and provides deep-rooted biomass for improving heavy clay soils. Terminate by mowing when 3\u20134 feet tall and allow residue to decompose before planting fall vegetables. Tolerates temporary flooding and poor soils.",
+    "sources": [
+      "FAO Food and Agriculture Organization",
+      "ICRISAT International Crops Research Institute",
+      "USDA Natural Resources Conservation Service"
+    ]
+  }
+]

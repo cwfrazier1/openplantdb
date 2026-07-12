@@ -1,0 +1,157 @@
+[
+  {
+    "slug": "indigofera-tinctoria",
+    "common_name": "True Indigo (Indigo Plant)",
+    "scientific_name": "Indigofera tinctoria",
+    "category": "herb",
+    "subcategory": "tropical dye plant",
+    "days_to_germination": { "min": 5, "max": 14 },
+    "germination_soil_temp_f": { "min": 70, "max": 80 },
+    "days_to_maturity": { "min": 90, "max": 120 },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": { "min": 2, "max": 4 },
+      "note": "Direct-sow after last frost in well-drained, fertile to average soil in full sun; true indigo grows as a perennial in zones 9–11 and as an annual grown for dye in cooler climates. Leaves are harvested when the plant is in flower for maximum dye concentration. The extraction process involves fermenting the leaves in water, oxidizing the liquid, and drying the precipitate to yield indigo pigment."
+    },
+    "usda_zones": { "min": 9, "max": 12 },
+    "spacing_in": { "min": 12, "max": 18 },
+    "height_in": { "min": 24, "max": 60 },
+    "spread_in": { "min": 12, "max": 18 },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Sow after last frost in fertile, well-drained soil in full sun; true indigo is the historical source of indigo blue dye — one of the oldest and most important natural pigments in human history, used for 6,000 years to dye textiles from ancient Egypt and India to colonial America, where indigo was South Carolina's most valuable colonial export crop. The blue compound (indigotin) is extracted from the leaves through a multi-step fermentation and oxidation process. The plant itself is a tropical shrub or subshrub with small, pinnate leaves and inconspicuous small pink-mauve pea flowers. It is nitrogen-fixing and improves soil fertility. Indigo dye has experienced a revival among natural dye artists and sustainable textile producers. In zone 9–11, the plant grows as a perennial shrub and can be harvested multiple times per season; in cooler climates it is grown as an annual specifically for dye production. Woad (Isatis tinctoria) provides the same dye compound but from a European temperate plant. The pure, rich blue of indigo dye is not achievable from any other widely cultivated plant.",
+    "sources": [
+      "USDA Agricultural Research Service",
+      "Dye Plants and Dyeing (Brooklyn Botanic Garden)",
+      "Royal Botanic Gardens Kew"
+    ]
+  },
+  {
+    "slug": "desmanthus-illinoensis",
+    "common_name": "Illinois Bundle-flower (Prairie Mimosa)",
+    "scientific_name": "Desmanthus illinoensis",
+    "category": "cover-crop",
+    "subcategory": "native prairie legume",
+    "days_to_germination": { "min": 7, "max": 21 },
+    "germination_soil_temp_f": { "min": 65, "max": 75 },
+    "days_to_maturity": { "min": 365, "max": 730 },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": { "min": -2, "max": 2 },
+      "note": "Scarify or nick seeds before sowing in well-drained, lean to average, slightly acidic to neutral soil in full sun; Illinois bundle-flower is drought-tolerant and fixes nitrogen as a legume. It is very slow to germinate and establish — patience is required in the first season. Once established, it is long-lived and increasingly productive. The seeds contain 38% crude protein, among the highest of any native prairie plant."
+    },
+    "usda_zones": { "min": 4, "max": 9 },
+    "spacing_in": { "min": 12, "max": 18 },
+    "height_in": { "min": 24, "max": 48 },
+    "spread_in": { "min": 12, "max": 18 },
+    "sun": "full",
+    "water": "low",
+    "directions": "Sow scarified seeds in lean to average, well-drained soil in full sun; Illinois bundle-flower is a native prairie legume found throughout the central United States that is attracting significant interest as a perennial grain crop — its seeds contain approximately 38% crude protein, making them among the most protein-rich of any native plant, and researchers at the Land Institute and elsewhere have been working to develop it as a domesticated perennial grain crop that would not require annual tillage. The plant produces dense, spherical, mimosa-like flower heads of tiny white flowers on upright stems, followed by bundles of curved seed pods that give rise to the common names. As a deep-rooted prairie legume, it fixes nitrogen and is highly drought-tolerant — evolved to thrive in the droughty Great Plains climate. It is also ornamentally attractive: the finely divided, sensitive-plant-like foliage closes in response to touch, the spherical flower heads are interesting, and the seed bundles are ornamental in the fall garden. An important plant for native prairie restoration and an emerging candidate for sustainable grain agriculture.",
+    "sources": [
+      "The Land Institute",
+      "Lady Bird Johnson Wildflower Center",
+      "Missouri Botanical Garden Plant Finder"
+    ]
+  },
+  {
+    "slug": "sophora-davidii",
+    "common_name": "Vetchleaf Sophora (Shrubby Sophora)",
+    "scientific_name": "Sophora davidii",
+    "category": "flower",
+    "subcategory": "drought-tolerant ornamental shrub",
+    "days_to_germination": { "min": 7, "max": 21 },
+    "germination_soil_temp_f": { "min": 60, "max": 70 },
+    "days_to_maturity": { "min": 730, "max": 1825 },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": { "min": 0, "max": 6 },
+      "note": "Root hardwood cuttings in late autumn or plant container-grown plants in well-drained, lean, alkaline to neutral soil in full sun; vetchleaf sophora is adapted to dry, rocky, alkaline hillsides in China and tolerates drought, poor soils, and extreme heat better than most flowering shrubs. Avoid rich, moist soils which produce lush but uncharacteristically vigorous growth."
+    },
+    "usda_zones": { "min": 5, "max": 8 },
+    "spacing_in": { "min": 48, "max": 96 },
+    "height_in": { "min": 60, "max": 120 },
+    "spread_in": { "min": 60, "max": 120 },
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant in well-drained, lean, alkaline to neutral soil in full sun; vetchleaf sophora is a spreading, elegant Chinese shrub in the pea family producing silvery-gray, pinnately divided foliage that has a delicate, fern-like texture throughout the season — and producing in May and June loose clusters of small, pale-blue to lilac-white pea flowers flushed with purple that are attractive to bees and butterflies. The combination of silvery, soft-textured foliage and subtle blue-white flowers gives the shrub a refined, mediterranean quality, somewhat resembling a drought-tolerant version of false indigo (Baptisia). It develops a somewhat stiff, twiggy branching structure that can be shaped to enhance the garden form, and the dried seed pods are ornamental in winter. Very drought-tolerant once established, it thrives in lean, rocky, alkaline soils similar to those of the Chinese highland slopes where it grows naturally — an excellent plant for dry, alkaline sites where most flowering shrubs perform poorly.",
+    "sources": [
+      "Royal Horticultural Society",
+      "Arnold Arboretum of Harvard University",
+      "Missouri Botanical Garden Plant Finder"
+    ]
+  },
+  {
+    "slug": "fagopyrum-tataricum",
+    "common_name": "Tartary Buckwheat (Bitter Buckwheat)",
+    "scientific_name": "Fagopyrum tataricum",
+    "category": "cover-crop",
+    "subcategory": "high-altitude grain and cover crop",
+    "days_to_germination": { "min": 5, "max": 10 },
+    "germination_soil_temp_f": { "min": 45, "max": 65 },
+    "days_to_maturity": { "min": 60, "max": 90 },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": { "min": -4, "max": 0 },
+      "note": "Direct-sow as early as possible in spring in well-drained, average to lean soil in full sun; Tartary buckwheat tolerates cool soil temperatures and light frosts that would damage common buckwheat and is significantly more cold-tolerant at germination. It matures quickly and can be sown as a succession cover crop in fall in mild climates. Historically grown at high altitudes in the Himalayas and Tibet where common buckwheat fails."
+    },
+    "usda_zones": { "min": 2, "max": 9 },
+    "spacing_in": { "min": 2, "max": 4 },
+    "height_in": { "min": 24, "max": 48 },
+    "spread_in": { "min": 4, "max": 6 },
+    "sun": "full",
+    "water": "low",
+    "directions": "Direct-sow in well-drained, average to lean soil in early spring or fall; Tartary buckwheat is a cool-tolerant relative of common buckwheat native to the high-altitude plateaus of the Himalayas, Tibet, and Yunnan, grown for 4,000 years as a grain crop in conditions too cold and harsh for most cereals. It differs from common buckwheat in germinating at lower temperatures, tolerating light frosts, and having significantly higher concentrations of rutin (a bioflavonoid with antioxidant properties) — up to 100 times more rutin than common buckwheat. In Bhutan, Nepal, and Tibet, Tartary buckwheat flour is used to make traditional foods such as Bhutan's staple 'puta' noodles. As a cover crop, it establishes rapidly, suppresses weeds through dense canopy and allelopathic root exudates, and its residue breaks down quickly in the soil. More tolerant of cold and more adaptable to cool, wet climates than common buckwheat. An excellent cool-season cover crop for spring or fall use in zone 2–9.",
+    "sources": [
+      "USDA Agricultural Research Service",
+      "Cornell University Small Farms Program",
+      "Sustainable Agriculture Research and Education (SARE)"
+    ]
+  },
+  {
+    "slug": "mammea-americana",
+    "common_name": "Mamey Apple (Mammee Apple)",
+    "scientific_name": "Mammea americana",
+    "category": "fruit",
+    "subcategory": "Caribbean tropical fruit tree",
+    "days_to_germination": { "min": 30, "max": 60 },
+    "germination_soil_temp_f": { "min": 75, "max": 85 },
+    "days_to_maturity": { "min": 2190, "max": 3650 },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": { "min": 2, "max": 4 },
+      "note": "Plant container-grown trees in fertile, well-drained, slightly acidic to neutral soil in full sun in frost-free conditions; mamey apple is killed by any frost and requires a truly tropical or subtropical climate. It is slow-growing but extremely long-lived — trees in the Caribbean are known to exceed 100 years in age. Grafted trees bear fruit earlier than seedlings."
+    },
+    "usda_zones": { "min": 10, "max": 12 },
+    "spacing_in": { "min": 240, "max": 360 },
+    "height_in": { "min": 180, "max": 480 },
+    "spread_in": { "min": 180, "max": 360 },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in fertile, well-drained, slightly acidic to neutral soil in full sun in frost-free conditions; mamey apple is a large, stately fruit tree native to the Caribbean, Mexico, and northern South America, producing round to oval fruits 3–8 inches across with a thick, rough, bitter brown-russet skin enclosing firm, apricot-orange to yellow flesh with a sweet, aromatic flavor suggesting apricot, vanilla, and almond — quite unlike most other tropical fruits. The flavor is complex and distinctive: the outer flesh directly under the skin can be slightly bitter, while the inner flesh is sweet and aromatic. The tree is magnificent as a landscape specimen — densely leafy, with thick, glossy, oval leaves and a formal, dome-shaped crown. Small, white, fragrant flowers appear on the branches directly. The timber is dense and valuable. Not to be confused with Mamey Sapote (Pouteria sapota), an entirely different fruit despite the similar name. Mamey apple was a staple food of the Taino people of the Caribbean before European contact and was described by Columbus's men. It is now primarily grown in Cuba, the Dominican Republic, and Mexico.",
+    "sources": [
+      "University of Florida IFAS Tropical Fruit",
+      "California Rare Fruit Growers",
+      "FAO Food and Agriculture Organization"
+    ]
+  }
+]

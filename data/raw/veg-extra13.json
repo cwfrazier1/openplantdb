@@ -1,0 +1,157 @@
+[
+  {
+    "slug": "mirliton",
+    "common_name": "Mirliton (Chayote)",
+    "scientific_name": "Sechium edule",
+    "category": "vegetable",
+    "subcategory": "cucurbit",
+    "days_to_germination": {"min": 10, "max": 21},
+    "germination_soil_temp_f": {"min": 65, "max": 80},
+    "days_to_maturity": {"min": 90, "max": 150},
+    "maturity_from": "transplant",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 2, "max": 4},
+      "note": "Plant the entire fruit (not just the seed inside) sideways in a hole with the narrow tip pointed slightly upward and the stem end just below the soil surface; the whole fruit germinates and sprouts a single vine."
+    },
+    "usda_zones": {"min": 8, "max": 11},
+    "spacing_in": {"min": 72, "max": 120},
+    "height_in": {"min": 180, "max": 480},
+    "spread_in": {"min": 120, "max": 240},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant the entire fruit whole \u2014 chayote has a single large seed that cannot be separated from the flesh and the whole fruit is the planting unit. Dig a hole 4 inches deep and set the fruit at an angle with the narrow stem end barely covered. Once sprouted, provide a sturdy trellis, fence, or arbor; the vine grows 20\u201340 feet and is extremely productive in zones 9\u201311 where it overwinters and bears fruit in fall and again in early spring. In New Orleans and the Gulf Coast, a single vine can produce hundreds of mirlitons per season. Fruits are eaten at all stages: stuffed and baked when large, stir-fried or pickled when small. The tender young leaves and shoot tips are edible greens, and the large starchy tubers that develop on established plants are edible as well.",
+    "sources": [
+      "Louisiana State University AgCenter",
+      "University of Florida IFAS Extension",
+      "USDA Agricultural Research Service"
+    ]
+  },
+  {
+    "slug": "cooking-plantain",
+    "common_name": "Cooking Plantain",
+    "scientific_name": "Musa x paradisiaca",
+    "category": "vegetable",
+    "subcategory": "tropical",
+    "days_to_germination": {"min": 30, "max": 90},
+    "germination_soil_temp_f": {"min": 70, "max": 80},
+    "days_to_maturity": {"min": 365, "max": 540},
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 2, "max": 4},
+      "note": "Plant rhizome divisions (corms or pups) after soil has warmed to 65\u00b0F or above; in zones 9\u201311 plants may be set out year-round in frost-free periods."
+    },
+    "usda_zones": {"min": 9, "max": 11},
+    "spacing_in": {"min": 60, "max": 120},
+    "height_in": {"min": 120, "max": 240},
+    "spread_in": {"min": 60, "max": 120},
+    "sun": "full",
+    "water": "high",
+    "directions": "Plant corms or rooted pups in deep, rich, well-drained soil amended heavily with compost; cooking plantains require consistent moisture, warmth, and fertility to produce heavy fruit bunches. Unlike dessert bananas, plantains are starchy and low in sugar when unripe, requiring cooking at all stages \u2014 green plantains are fried (tostones), boiled, or baked; yellow-ripe plantains are sweet-fried (maduros). Each pseudostem produces one bunch of 100\u2013200 fruits over 12\u201318 months, then dies back \u2014 remove it at the base and allow suckers to replace it. Mulch heavily in zones 8\u20139 where tops may freeze back to the rhizome; established rhizomes often survive to 20\u00b0F. Fertilize monthly with a balanced fertilizer high in potassium.",
+    "sources": [
+      "University of Florida IFAS Extension",
+      "Louisiana State University AgCenter",
+      "FAO Food and Agriculture Organization"
+    ]
+  },
+  {
+    "slug": "chinese-water-chestnut",
+    "common_name": "Chinese Water Chestnut",
+    "scientific_name": "Eleocharis dulcis",
+    "category": "vegetable",
+    "subcategory": "root",
+    "days_to_germination": {"min": 10, "max": 14},
+    "germination_soil_temp_f": {"min": 70, "max": 80},
+    "days_to_maturity": {"min": 150, "max": 180},
+    "maturity_from": "transplant",
+    "sow_method": "tuber",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 2, "max": 4},
+      "note": "Plant small brown corms 2 inches deep in pots of wet soil or directly in a pond or container with standing water 2\u20134 inches deep; transplant container-started plants outdoors after the last frost."
+    },
+    "usda_zones": {"min": 7, "max": 11},
+    "spacing_in": {"min": 12, "max": 18},
+    "height_in": {"min": 24, "max": 36},
+    "spread_in": {"min": 12, "max": 18},
+    "sun": "full",
+    "water": "high",
+    "directions": "Plant corms in large containers or pond margins filled with fertile soil kept saturated or covered with 2\u20134 inches of standing water; Chinese water chestnuts are aquatic sedges that produce sweet, crisp, walnut-sized brown corms in fall after the above-ground foliage dies back. Start corms in pots indoors 4\u20136 weeks before last frost, keep them sitting in shallow water in a warm, sunny spot, then move containers outdoors after last frost. In October or November when the hollow cylindrical foliage yellows and collapses, drain the container and harvest corms by rummaging through the mud. Fresh-harvested corms are intensely sweet and crunchy \u2014 a completely different experience from the bland canned version.",
+    "sources": [
+      "University of Florida IFAS Extension",
+      "UC Cooperative Extension",
+      "Asian Vegetable Research and Development Center"
+    ]
+  },
+  {
+    "slug": "baby-pak-choi",
+    "common_name": "Baby Pak Choi",
+    "scientific_name": "Brassica rapa var. chinensis",
+    "category": "vegetable",
+    "subcategory": "brassica",
+    "days_to_germination": {"min": 4, "max": 7},
+    "germination_soil_temp_f": {"min": 50, "max": 80},
+    "days_to_maturity": {"min": 30, "max": 45},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": -4, "max": -2},
+      "note": "Direct sow 2\u20134 weeks before last frost for spring harvest; make a second planting 6\u20138 weeks before first fall frost for a fall crop. Succession sow every 2\u20133 weeks for continuous harvest."
+    },
+    "usda_zones": {"min": 3, "max": 11},
+    "spacing_in": {"min": 4, "max": 6},
+    "height_in": {"min": 6, "max": 10},
+    "spread_in": {"min": 4, "max": 6},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Sow seed 1/4 inch deep and thin to 4\u20136 inches; baby pak choi matures much faster than full-size bok choy and is harvested as a complete, tender plant rather than by removing individual leaves. The entire head \u2014 including the thick, juicy white or light green stems and soft jade leaves \u2014 is cut at soil level when 4\u20136 inches tall. Mild, sweet, and slightly mustardy in flavor, it needs only a very brief stir-fry or a quick blanch. Baby pak choi is excellent for cut-and-come-again growing: cut above the growing crown and plants will resprout several times before bolting. Consistent moisture is essential; drought stress causes premature bolting.",
+    "sources": [
+      "Johnny's Selected Seeds cultural guide",
+      "University of California Cooperative Extension",
+      "Asian Vegetable Research and Development Center"
+    ]
+  },
+  {
+    "slug": "bitter-leaf",
+    "common_name": "Bitter Leaf",
+    "scientific_name": "Vernonia amygdalina",
+    "category": "vegetable",
+    "subcategory": "leafy green",
+    "days_to_germination": {"min": 7, "max": 14},
+    "germination_soil_temp_f": {"min": 70, "max": 80},
+    "days_to_maturity": {"min": 90, "max": 180},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 0, "max": 2},
+      "note": "Root 6\u20138 inch stem cuttings in moist soil; bitter leaf roots readily in warm weather and can be planted outdoors after the last frost. In zones 9\u201311 it persists as a woody perennial shrub."
+    },
+    "usda_zones": {"min": 9, "max": 11},
+    "spacing_in": {"min": 24, "max": 36},
+    "height_in": {"min": 48, "max": 120},
+    "spread_in": {"min": 24, "max": 48},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Root stem cuttings in moist soil at 75\u00b0F; bitter leaf establishes quickly from cuttings in warm weather and begins producing harvestable leaves within a few months. The large, dark green leaves have an intensely bitter flavor that is fundamental to West African cooking \u2014 particularly egusi soup, ofe akwu (palm nut soup), and a wide range of Nigerian, Cameroonian, and Ghanaian stews. Fresh leaves are squeezed and rinsed repeatedly in water to reduce bitterness before cooking; or bitter leaf powder (dried, ground leaves) is used in smaller quantities. The bitterness decreases with cooking. The plant is used medicinally throughout sub-Saharan Africa for treating fever, malaria, and hypertension. In Gulf Coast gardens it grows as a large semi-woody perennial.",
+    "sources": [
+      "FAO Food and Agriculture Organization, African leafy vegetables",
+      "University of Florida IFAS Tropical Vegetables",
+      "Grubben, G.J.H. and Denton, O.A. Plant Resources of Tropical Africa, 2004"
+    ]
+  }
+]

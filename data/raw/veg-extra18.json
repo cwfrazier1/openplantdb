@@ -1,0 +1,157 @@
+[
+  {
+    "slug": "kabocha",
+    "common_name": "Kabocha Squash (Japanese Pumpkin)",
+    "scientific_name": "Cucurbita maxima 'Kabocha'",
+    "category": "vegetable",
+    "subcategory": "winter squash",
+    "days_to_germination": {"min": 5, "max": 10},
+    "germination_soil_temp_f": {"min": 65, "max": 85},
+    "days_to_maturity": {"min": 95, "max": 115},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 0, "max": 2},
+      "note": "Direct sow after last frost or start indoors 3\u20134 weeks early; kabocha squash produces sprawling vines that need 6\u20138 feet in all directions. In zone 8\u20119, plant in early spring for summer harvest or plant in late summer for a fall crop to avoid the most intense heat."
+    },
+    "usda_zones": {"min": 3, "max": 11},
+    "spacing_in": {"min": 48, "max": 72},
+    "height_in": {"min": 12, "max": 18},
+    "spread_in": {"min": 60, "max": 96},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Sow seeds 1 inch deep in fertile, well-drained soil in full sun; kabocha is a Japanese-style winter squash with a dumpling-shaped, dark green (or orange in some types) skin and incredibly dense, dry, sweet bright-orange flesh that has a texture more like sweet potato or chestnut than watery summer squash. The flavor is distinctive \u2014 nutty, sweet, and complex \u2014 and kabocha is prized in Japanese, Korean, and Thai cuisines for tempura, braised dishes, soups, and desserts. It stores 3\u20135 months in a cool, dry location. Harvest when the skin resists fingernail puncture and the stem has dried and corked over. The flavor actually improves after 2\u20133 weeks of curing at room temperature as starches convert to sugars.",
+    "sources": [
+      "Johnny's Selected Seeds cultural guide",
+      "University of California Cooperative Extension",
+      "Asian Vegetable Research and Development Center"
+    ]
+  },
+  {
+    "slug": "pattypan",
+    "common_name": "Pattypan Squash",
+    "scientific_name": "Cucurbita pepo var. clypeata",
+    "category": "vegetable",
+    "subcategory": "summer squash",
+    "days_to_germination": {"min": 5, "max": 10},
+    "germination_soil_temp_f": {"min": 65, "max": 85},
+    "days_to_maturity": {"min": 50, "max": 65},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 0, "max": 2},
+      "note": "Direct sow after last frost; pattypan grows on a compact bush plant about half the size of trailing squash. In Gulf Coast gardens, sow in spring and make a second planting in late summer for a fall crop."
+    },
+    "usda_zones": {"min": 3, "max": 11},
+    "spacing_in": {"min": 24, "max": 36},
+    "height_in": {"min": 18, "max": 24},
+    "spread_in": {"min": 24, "max": 36},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Sow seeds 1 inch deep in warm, fertile soil after last frost; pattypan (also called scallop or flying-saucer squash) is a bush summer squash producing flat, round, scallop-edged fruits in white, yellow, green, or bicolored versions that look entirely different from the cylindrical zucchini or yellow straightneck. Harvest at 2\u20133 inches in diameter for the most tender flesh; larger fruits become tough and seedy. The hollow center makes them ideal for stuffing: scoop out the interior, fill with cheese, herbs, or seasoned meat, and bake. The compact bush habit makes pattypan suitable for smaller gardens. 'Sunburst' (yellow) and 'Patio Star' (white) are popular named cultivars.",
+    "sources": [
+      "Johnny's Selected Seeds cultural guide",
+      "University of California Cooperative Extension",
+      "Missouri Botanical Garden Plant Finder"
+    ]
+  },
+  {
+    "slug": "yellow-crookneck",
+    "common_name": "Yellow Crookneck Squash",
+    "scientific_name": "Cucurbita pepo var. torticollia",
+    "category": "vegetable",
+    "subcategory": "summer squash",
+    "days_to_germination": {"min": 5, "max": 10},
+    "germination_soil_temp_f": {"min": 65, "max": 85},
+    "days_to_maturity": {"min": 50, "max": 65},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 0, "max": 2},
+      "note": "Direct sow 1 inch deep after last frost; yellow crookneck is a traditional Southern summer squash and a warm-season staple in Gulf Coast vegetable gardens. Make a second planting in late July or August for a fall crop."
+    },
+    "usda_zones": {"min": 3, "max": 11},
+    "spacing_in": {"min": 24, "max": 36},
+    "height_in": {"min": 18, "max": 24},
+    "spread_in": {"min": 24, "max": 36},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Sow seeds 1 inch deep in fertile, warm soil after last frost; yellow crookneck is one of the oldest continuously grown summer squash types in North American gardens, with its distinctive curved neck and bumpy, golden-yellow skin being immediately recognizable. Harvest when 6\u20138 inches long for the best texture; fully mature fruits become tough-skinned and seedy. The sweet, mild flavor is excellent saut\u00e9ed in butter with onions, grilled, or added to casseroles. Bush types have largely replaced the older spreading vine types; they produce heavily over a long season if harvested regularly. In humid climates, powdery mildew is common in midsummer \u2014 select modern disease-resistant cultivars like 'Supersett' or 'Gentry' for best results.",
+    "sources": [
+      "Johnny's Selected Seeds cultural guide",
+      "Louisiana State University AgCenter",
+      "University of Florida IFAS Extension"
+    ]
+  },
+  {
+    "slug": "tromboncino",
+    "common_name": "Tromboncino Squash",
+    "scientific_name": "Cucurbita moschata 'Tromboncino'",
+    "category": "vegetable",
+    "subcategory": "climbing squash",
+    "days_to_germination": {"min": 5, "max": 10},
+    "germination_soil_temp_f": {"min": 65, "max": 85},
+    "days_to_maturity": {"min": 55, "max": 70},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 0, "max": 2},
+      "note": "Direct sow after last frost and provide a trellis or sturdy fence immediately; tromboncino climbs vigorously and produces better-formed, straighter fruits when grown vertically than when sprawling on the ground."
+    },
+    "usda_zones": {"min": 3, "max": 11},
+    "spacing_in": {"min": 24, "max": 36},
+    "height_in": {"min": 72, "max": 144},
+    "spread_in": {"min": 24, "max": 36},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Sow seeds and train the vine up a strong trellis or chain-link fence; tromboncino is an Italian heirloom climbing zucchini with long, curved fruits shaped like a trombone \u2014 reaching 20\u201330 inches when mature \u2014 harvested young at 10\u201315 inches as a summer squash substitute with a nutty, buttery flavor. Being Cucurbita moschata rather than C. pepo, tromboncino has excellent resistance to squash vine borer \u2014 the borer does not prefer this species, making it the best choice for gardeners who have lost zucchini crops to this destructive pest. It also tolerates heat and humidity better than most summer squash. Fruits left to mature fully develop into golden winter squash with superb flavor; the seeds are also edible roasted.",
+    "sources": [
+      "Johnny's Selected Seeds cultural guide",
+      "University of Florida IFAS Extension",
+      "Baker Creek Heirloom Seeds"
+    ]
+  },
+  {
+    "slug": "manzano-pepper",
+    "common_name": "Manzano Pepper (Rocoto)",
+    "scientific_name": "Capsicum pubescens",
+    "category": "vegetable",
+    "subcategory": "pepper",
+    "days_to_germination": {"min": 14, "max": 30},
+    "germination_soil_temp_f": {"min": 75, "max": 85},
+    "days_to_maturity": {"min": 120, "max": 180},
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": -10, "max": -8},
+      "note": "Start indoors 10\u201312 weeks before last frost due to the long germination and growing period; manzano peppers prefer cooler temperatures than other peppers (60\u201370\u00b0F ideal) and may not set fruit well in very hot summer climates. They perform best in the mild coastal climates of California and the Pacific Northwest."
+    },
+    "usda_zones": {"min": 8, "max": 11},
+    "spacing_in": {"min": 18, "max": 24},
+    "height_in": {"min": 24, "max": 48},
+    "spread_in": {"min": 18, "max": 24},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Start indoors early and transplant after all frost danger has passed; Capsicum pubescens is a unique pepper species easily identified by its distinctive purple flowers, hairy leaves and stems, and black seeds \u2014 features shared by no other cultivated Capsicum. The apple-shaped (manzano = apple in Spanish) fruits ripen from green to red, orange, or yellow and contain extremely hot flesh (100,000\u2013200,000 SHU) with a thick, fruity wall \u2014 quite different from the thin, papery walls of most hot peppers. In Peru and Bolivia, rocoto is used whole to make rocoto relleno (stuffed pepper), as the thick walls hold up to cooking. Unlike other Capsicum species, it tolerates light frost and can survive as a perennial in mild climates. The black seeds are distinctive in culinary use.",
+    "sources": [
+      "Purdue University Center for New Crops",
+      "University of California Cooperative Extension",
+      "USDA Agricultural Research Service"
+    ]
+  }
+]

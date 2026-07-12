@@ -1,0 +1,157 @@
+[
+  {
+    "slug": "chipilin",
+    "common_name": "Chipilin",
+    "scientific_name": "Crotalaria longirostrata",
+    "category": "vegetable",
+    "subcategory": "perennial legume",
+    "days_to_germination": {"min": 7, "max": 14},
+    "germination_soil_temp_f": {"min": 70, "max": 85},
+    "days_to_maturity": {"min": 60, "max": 90},
+    "maturity_from": "transplant",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 2, "max": 4},
+      "note": "Direct sow after last frost in warm soil, or start indoors 4\u20136 weeks early; chipilin grows as a perennial shrub in zones 9\u201311 and can reach 4\u20136 feet. Scarify seeds before planting to improve germination."
+    },
+    "usda_zones": {"min": 9, "max": 11},
+    "spacing_in": {"min": 24, "max": 36},
+    "height_in": {"min": 36, "max": 72},
+    "spread_in": {"min": 24, "max": 36},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Scarify and sow seeds 1 inch deep in warm, fertile soil after last frost; chipilin is a traditional leafy vegetable and nitrogen-fixing shrub-legume of Central America and southern Mexico, where the young leaves, shoots, and tender pods are eaten as a cooked green vegetable with a mild, slightly sweet, nutty flavor. It is a dietary staple in Chiapas, Guatemala, and El Salvador, added to soups, tamales, and rice. The plant is a prolific nitrogen fixer that can improve soil fertility significantly over a few seasons. Young growth is harvested continuously \u2014 cutting the stem tips promotes bushy, tender new growth. The yellow flowers are also edible and attract pollinators. In Gulf Coast zones 9\u201311 it grows as a multi-year perennial subshrub.",
+    "sources": [
+      "FAO Food and Agriculture Organization",
+      "University of Florida IFAS Tropical Vegetables",
+      "USDA Agricultural Research Service"
+    ]
+  },
+  {
+    "slug": "grevillea",
+    "common_name": "Grevillea (Spider Flower)",
+    "scientific_name": "Grevillea robusta",
+    "category": "flower",
+    "subcategory": "Australian native shrub",
+    "days_to_germination": {"min": 14, "max": 28},
+    "germination_soil_temp_f": {"min": 65, "max": 75},
+    "days_to_maturity": {"min": 365, "max": 730},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Plant container-grown shrubs or trees in spring in very well-drained, slightly acidic soil; grevillea does not tolerate phosphorus-rich fertilizers \u2014 use low-phosphorus formulas specifically designed for Australian natives. Most species dislike excessive moisture around the roots."
+    },
+    "usda_zones": {"min": 8, "max": 11},
+    "spacing_in": {"min": 60, "max": 120},
+    "height_in": {"min": 120, "max": 480},
+    "spread_in": {"min": 60, "max": 120},
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant in well-drained, slightly acidic, low-phosphorus soil in full sun; Grevillea robusta (silky oak) is the most cold-hardy and widely grown grevillea, a fast-growing Australian native that can reach 20\u201340 feet in frost-free climates and produces spectacular orange-yellow spider-like flowers in spring that are intensely attractive to hummingbirds, honeyeaters, and native bees. Smaller shrubby grevillea species (G. thelemanniana, G. lanigera, G. rosmarinifolia) are excellent for xeriscaping in zones 8\u201311 and produce red, pink, or orange flowers over much of the year. All grevilleas require excellent drainage and minimal fertilization, as phosphorus-sensitive root systems are easily damaged by standard garden fertilizers. Once established, they are extremely drought-tolerant.",
+    "sources": [
+      "University of California Cooperative Extension",
+      "University of Florida IFAS Extension",
+      "Australian National Botanic Gardens"
+    ]
+  },
+  {
+    "slug": "anigozanthos",
+    "common_name": "Kangaroo Paw",
+    "scientific_name": "Anigozanthos flavidus",
+    "category": "flower",
+    "subcategory": "Australian native perennial",
+    "days_to_germination": {"min": 21, "max": 42},
+    "germination_soil_temp_f": {"min": 65, "max": 75},
+    "days_to_maturity": {"min": 365, "max": 730},
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Plant rhizome divisions or container-grown plants in spring; kangaroo paw requires very well-drained, sandy to loamy, slightly acidic soil. High humidity and wet soil are the main threats \u2014 raise beds or plant on slopes in humid climates."
+    },
+    "usda_zones": {"min": 9, "max": 11},
+    "spacing_in": {"min": 18, "max": 24},
+    "height_in": {"min": 24, "max": 60},
+    "spread_in": {"min": 18, "max": 24},
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant in extremely well-drained, sandy, low-nutrient soil in full sun; kangaroo paw is a grass-like Australian native perennial producing the most unusual tubular flower clusters in horticulture \u2014 densely woolly, claw-shaped flower tubes in red, orange, yellow, pink, or bicolored combinations that are irresistible to hummingbirds and the floral emblem of Western Australia. The tall (2\u20135 foot) flower stems rise above the strap-shaped basal leaves in spring and summer. The major challenge in humid climates is ink disease (Alternaria), a fungal disease that turns leaves black \u2014 Anigozanthos flavidus is the most disease-resistant and robust species, making it the best choice for Gulf Coast gardens. Remove spent flower stems by cutting to the base after blooming.",
+    "sources": [
+      "University of California Cooperative Extension",
+      "University of Florida IFAS Extension",
+      "Australian National Botanic Gardens"
+    ]
+  },
+  {
+    "slug": "bottlebrush",
+    "common_name": "Crimson Bottlebrush",
+    "scientific_name": "Callistemon citrinus",
+    "category": "flower",
+    "subcategory": "Australian native shrub",
+    "days_to_germination": {"min": 14, "max": 28},
+    "germination_soil_temp_f": {"min": 65, "max": 75},
+    "days_to_maturity": {"min": 365, "max": 730},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Root semi-hardwood cuttings in summer or plant container-grown shrubs in spring; crimson bottlebrush is exceptionally adaptable and establishes quickly. It tolerates brief flooding, salt spray, and a wide range of soil types."
+    },
+    "usda_zones": {"min": 8, "max": 11},
+    "spacing_in": {"min": 60, "max": 96},
+    "height_in": {"min": 60, "max": 120},
+    "spread_in": {"min": 60, "max": 96},
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant in well-drained soil in full sun; the crimson bottlebrush is one of the most versatile and widely planted Australian natives in Gulf Coast and California gardens, producing spectacular cylindrical flower spikes 4\u20136 inches long with hundreds of bright crimson stamens that give the flower its distinctive bottlebrush shape. The nectar-rich flowers attract hummingbirds and butterflies and appear primarily in spring and often reflower in fall. Unlike Callistemon viminalis (weeping bottlebrush), C. citrinus grows as a dense, upright to spreading shrub rather than a pendulous tree. It tolerates poor soils, salt spray, drought, and occasional standing water \u2014 making it one of the most adaptable ornamental shrubs for challenging coastal and urban conditions. Excellent as a screen, foundation plant, or specimen.",
+    "sources": [
+      "University of Florida IFAS Extension",
+      "University of California Cooperative Extension",
+      "Texas A&M AgriLife Extension"
+    ]
+  },
+  {
+    "slug": "blue-java-banana",
+    "common_name": "Blue Java Banana (Ice Cream Banana)",
+    "scientific_name": "Musa acuminata x balbisiana 'Blue Java'",
+    "category": "fruit",
+    "subcategory": "banana",
+    "days_to_germination": {"min": 30, "max": 90},
+    "germination_soil_temp_f": {"min": 65, "max": 80},
+    "days_to_maturity": {"min": 365, "max": 540},
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "warm",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 2, "max": 4},
+      "note": "Plant rhizome divisions or pups in well-prepared soil after last frost; Blue Java is more cold-tolerant than most bananas and can handle brief dips to 22\u00b0F with some protection. In zone 8, established rhizomes often survive winters even when tops freeze."
+    },
+    "usda_zones": {"min": 8, "max": 11},
+    "spacing_in": {"min": 60, "max": 120},
+    "height_in": {"min": 120, "max": 180},
+    "spread_in": {"min": 60, "max": 96},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant rhizome divisions in rich, deeply prepared, well-drained soil in full sun; Blue Java banana is a cold-hardy hybrid distinguished by its striking silvery-blue unripe fruit that turns pale yellow when ripe and by the remarkably creamy, vanilla-like flavor of the flesh \u2014 so reminiscent of vanilla ice cream that it is commonly called the ice cream banana. The silver-blue color of the unripe fruit is caused by a natural wax coating on the skin. It is one of the hardiest bananas available, tolerating temperatures to 22\u00b0F without damage when established, which expands its range significantly compared to Cavendish and plantain types. The fruits are eaten fresh (with a scoopable ice cream-like texture) or frozen for a natural one-ingredient ice cream. A single pup planted in spring will produce a full bunch within 18 months in zone 9+.",
+    "sources": [
+      "University of Florida IFAS Extension",
+      "Louisiana State University AgCenter",
+      "California Rare Fruit Growers"
+    ]
+  }
+]

@@ -1,0 +1,157 @@
+[
+  {
+    "slug": "foam-flower",
+    "common_name": "Foam Flower",
+    "scientific_name": "Tiarella cordifolia",
+    "category": "flower",
+    "subcategory": "shade perennial",
+    "days_to_germination": {"min": 14, "max": 30},
+    "germination_soil_temp_f": {"min": 60, "max": 70},
+    "days_to_maturity": {"min": 365, "max": 730},
+    "maturity_from": "seed",
+    "sow_method": "indoor-start",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": -8, "max": -6},
+      "note": "Cold stratify seed 60\u201390 days before sowing; surface sow on moist mix under lights 6\u20138 weeks before spring for first-year transplants. Easier to propagate by dividing established clumps in early spring or fall."
+    },
+    "usda_zones": {"min": 3, "max": 8},
+    "spacing_in": {"min": 12, "max": 18},
+    "height_in": {"min": 6, "max": 12},
+    "spread_in": {"min": 12, "max": 24},
+    "sun": "shade",
+    "water": "moderate",
+    "directions": "Plant in moist, humus-rich, slightly acidic soil in full to partial shade; foam flower is a native Eastern North American woodland groundcover that spreads gently by stolons to form a weed-suppressing mat. The maple-leaf-shaped foliage is attractive all season and often develops bronze or reddish marbling in fall; in late spring, airy white flower spikes rise above the foliage for several weeks. Divide clumps every 2\u20133 years in early spring to maintain vigor. The plant is deer-resistant and extremely low-maintenance once established in a cool, shaded site with consistently moist soil.",
+    "sources": [
+      "Missouri Botanical Garden Plant Finder",
+      "Lady Bird Johnson Wildflower Center",
+      "North Carolina State Extension"
+    ]
+  },
+  {
+    "slug": "primula",
+    "common_name": "Primrose",
+    "scientific_name": "Primula vulgaris",
+    "category": "flower",
+    "subcategory": "shade perennial",
+    "days_to_germination": {"min": 14, "max": 28},
+    "germination_soil_temp_f": {"min": 55, "max": 65},
+    "days_to_maturity": {"min": 180, "max": 365},
+    "maturity_from": "seed",
+    "sow_method": "indoor-start",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": -12, "max": -10},
+      "note": "Surface sow seed on moistened starting mix without covering \u2014 primrose seed needs light to germinate and germinates best below 65\u00b0F; start 10\u201312 weeks before last frost or in late summer for fall planting."
+    },
+    "usda_zones": {"min": 3, "max": 8},
+    "spacing_in": {"min": 9, "max": 12},
+    "height_in": {"min": 4, "max": 8},
+    "spread_in": {"min": 8, "max": 12},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Grow in cool, moist, humus-rich soil in partial to full shade; primrose blooms in late winter or early spring and struggles in climates with hot, dry summers, where it benefits from deeper shade and consistent moisture. Surface sow seed at 55\u201360\u00b0F and provide strong light to prevent damping off; seedlings are tiny and slow-growing in early stages. In mild climates plants are nearly evergreen; in colder zones they die back and re-emerge in early spring. Divide established clumps every 2\u20133 years immediately after flowering to maintain vigor and prevent die-out in the center.",
+    "sources": [
+      "Royal Horticultural Society",
+      "Missouri Botanical Garden Plant Finder",
+      "University of Wisconsin Extension"
+    ]
+  },
+  {
+    "slug": "fairy-bells",
+    "common_name": "Fairy Bells",
+    "scientific_name": "Disporum sessile",
+    "category": "flower",
+    "subcategory": "shade perennial",
+    "days_to_germination": {"min": 30, "max": 90},
+    "germination_soil_temp_f": {"min": 60, "max": 70},
+    "days_to_maturity": {"min": 365, "max": 730},
+    "maturity_from": "seed",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": -2, "max": 0},
+      "note": "Plant bare-root divisions or container stock in early spring before new growth emerges; seed requires cold stratification and takes 2 or more seasons to germinate \u2014 divisions are strongly preferred for reliable establishment."
+    },
+    "usda_zones": {"min": 4, "max": 8},
+    "spacing_in": {"min": 18, "max": 24},
+    "height_in": {"min": 18, "max": 30},
+    "spread_in": {"min": 18, "max": 24},
+    "sun": "shade",
+    "water": "moderate",
+    "directions": "Plant in well-drained, humus-rich soil in partial to full shade; fairy bells is a graceful Japanese woodland perennial with arching bamboo-like stems clothed in bright green leaves and tipped with small, nodding, cream to pale yellow bell-shaped flowers in spring. The plant spreads slowly by underground rhizomes to form an elegant colony. Blue-black berries follow the flowers and provide wildlife food in autumn. It tolerates dry shade better than many woodland perennials once established, but performs best with consistent moisture. The gold-variegated form 'Variegatum' is particularly luminous in deep shade.",
+    "sources": [
+      "Missouri Botanical Garden Plant Finder",
+      "Royal Horticultural Society",
+      "Fine Gardening, Taunton Press"
+    ]
+  },
+  {
+    "slug": "bugbane",
+    "common_name": "Black Cohosh (Bugbane)",
+    "scientific_name": "Actaea racemosa",
+    "category": "flower",
+    "subcategory": "shade perennial",
+    "days_to_germination": {"min": 30, "max": 90},
+    "germination_soil_temp_f": {"min": 65, "max": 70},
+    "days_to_maturity": {"min": 730, "max": 1095},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {"min": -4, "max": 0},
+      "note": "Direct sow fresh seed in fall to allow natural double dormancy (warm then cold cycles both required); expect germination the second spring after sowing. Division of established clumps in early spring is a more reliable propagation method."
+    },
+    "usda_zones": {"min": 3, "max": 8},
+    "spacing_in": {"min": 24, "max": 36},
+    "height_in": {"min": 48, "max": 84},
+    "spread_in": {"min": 24, "max": 36},
+    "sun": "shade",
+    "water": "moderate",
+    "directions": "Plant in deep, rich, consistently moist, slightly acidic soil in partial to full shade; black cohosh is a stately North American native that produces towering wand-like racemes of small white flowers in mid- to late summer, rising dramatically above large, deeply cut compound foliage. The musky fragrance of the flowers was thought historically to repel insects, giving rise to the common name bugbane. Plants take several years to establish from seed or divisions but are long-lived and require little care beyond maintaining soil moisture. This species plays an important ecological role as a larval host and nectar source for native bees and other insects.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "Missouri Botanical Garden Plant Finder",
+      "USDA Forest Service, Medicinal Botany"
+    ]
+  },
+  {
+    "slug": "mazus",
+    "common_name": "Mazus",
+    "scientific_name": "Mazus reptans",
+    "category": "flower",
+    "subcategory": "shade groundcover",
+    "days_to_germination": {"min": 14, "max": 21},
+    "germination_soil_temp_f": {"min": 65, "max": 70},
+    "days_to_maturity": {"min": 60, "max": 90},
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 2},
+      "note": "Plant plugs or divisions in spring after the soil warms; mazus spreads rapidly by surface runners to fill gaps and is suitable for planting between stepping stones."
+    },
+    "usda_zones": {"min": 5, "max": 8},
+    "spacing_in": {"min": 4, "max": 6},
+    "height_in": {"min": 1, "max": 2},
+    "spread_in": {"min": 6, "max": 12},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Plant in moist, well-drained soil in partial shade to full sun in cool climates; mazus is a mat-forming groundcover barely 1\u20132 inches tall that spreads vigorously by surface runners to carpet shaded areas, banks, and the gaps between stepping stones. Small bright purple-blue flowers with white and yellow throats appear in spring and early summer, giving the mat a carpet-of-flowers effect. The plant tolerates light foot traffic, making it useful along garden paths. It goes partly dormant in winter in zones 5\u20136 but re-emerges reliably each spring. Divide and replant crowded mats every 2\u20133 years to maintain density.",
+    "sources": [
+      "Missouri Botanical Garden Plant Finder",
+      "Pennsylvania State Extension",
+      "Fine Gardening, Taunton Press"
+    ]
+  }
+]

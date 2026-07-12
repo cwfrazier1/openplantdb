@@ -1,0 +1,157 @@
+[
+  {
+    "slug": "chufa",
+    "common_name": "Chufa (Tiger Nut)",
+    "scientific_name": "Cyperus esculentus var. sativus",
+    "category": "vegetable",
+    "subcategory": "root",
+    "days_to_germination": {"min": 7, "max": 14},
+    "germination_soil_temp_f": {"min": 65, "max": 80},
+    "days_to_maturity": {"min": 90, "max": 120},
+    "maturity_from": "seed",
+    "sow_method": "tuber",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 2, "max": 4},
+      "note": "Plant small tubers (the chufa nuts themselves) 1\u20132 inches deep and 4\u20136 inches apart after last frost when soil has warmed to 65\u00b0F; chufa grows as a clump of grass-like sedge and produces dozens of sweet tubers around each plant by fall."
+    },
+    "usda_zones": {"min": 7, "max": 11},
+    "spacing_in": {"min": 4, "max": 6},
+    "height_in": {"min": 18, "max": 30},
+    "spread_in": {"min": 6, "max": 12},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant tubers 2 inches deep in loose, sandy to loamy soil in full sun; chufa is the cultivated, sweet form of yellow nutsedge \u2014 the weedy species that is a pest in lawns is its wild relative \u2014 and produces clusters of small, sweet, nutty tubers around the roots that are harvested in fall after the tops die back. The flavor is distinctly sweet and nutty, often compared to almonds or coconut, and the tubers are eaten raw, dried, roasted, or pressed for milk. In Spain, tiger nuts are the traditional ingredient in horchata de chufa, a cold sweet drink. The plants are also an outstanding wildlife food plot species and deer attractant. Soak dried tubers overnight before planting for best germination.",
+    "sources": [
+      "University of Florida IFAS Extension",
+      "Purdue University Center for New Crops",
+      "USDA Natural Resources Conservation Service"
+    ]
+  },
+  {
+    "slug": "rice-bean",
+    "common_name": "Rice Bean",
+    "scientific_name": "Vigna umbellata",
+    "category": "vegetable",
+    "subcategory": "legume",
+    "days_to_germination": {"min": 5, "max": 10},
+    "germination_soil_temp_f": {"min": 70, "max": 85},
+    "days_to_maturity": {"min": 90, "max": 120},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 2, "max": 4},
+      "note": "Direct sow after last frost in warm soil; rice bean is adapted to hot, humid conditions and is extremely productive in the heat and humidity of the Gulf Coast summer. It can be trellised for pod harvest or left bushy."
+    },
+    "usda_zones": {"min": 5, "max": 11},
+    "spacing_in": {"min": 6, "max": 9},
+    "height_in": {"min": 18, "max": 36},
+    "spread_in": {"min": 9, "max": 12},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Sow 1 inch deep in warm, well-drained soil; rice bean is a heat-tolerant tropical legume widely grown across Southeast and South Asia, where it is often intercropped with rice and maize. The small, oval seeds range from yellow to red to brownish-red and are cooked in the same ways as adzuki beans \u2014 in soups, dals, sweet red bean paste, and as a dried bean staple. The plant is semi-vining or bushy and fixes atmospheric nitrogen. It is one of the more underutilized warm-season legumes for Gulf Coast and tropical climates where cowpeas and yard-long beans already perform well. Nutritionally the seeds are high in protein (20\u201325%) and iron. Young pods may also be eaten as snap beans.",
+    "sources": [
+      "FAO Food and Agriculture Organization",
+      "ICRISAT International Crops Research Institute",
+      "Asian Vegetable Research and Development Center"
+    ]
+  },
+  {
+    "slug": "caigua",
+    "common_name": "Caigua (Stuffing Cucumber)",
+    "scientific_name": "Cyclanthera pedata",
+    "category": "vegetable",
+    "subcategory": "cucurbit",
+    "days_to_germination": {"min": 7, "max": 14},
+    "germination_soil_temp_f": {"min": 70, "max": 85},
+    "days_to_maturity": {"min": 60, "max": 90},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 2, "max": 4},
+      "note": "Direct sow after last frost in warm soil, or start indoors 3\u20134 weeks early; provide a trellis or fence immediately as caigua climbs rapidly by tendrils and produces heavily in hot weather."
+    },
+    "usda_zones": {"min": 8, "max": 11},
+    "spacing_in": {"min": 18, "max": 24},
+    "height_in": {"min": 60, "max": 120},
+    "spread_in": {"min": 24, "max": 36},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Sow 1 inch deep in fertile, well-drained soil and provide a trellis; caigua is an Andean climbing cucurbit that produces hollow, oblong fruits 3\u20134 inches long with a soft interior cavity perfect for stuffing \u2014 the hollow fruits are filled with meat, cheese, or vegetable mixtures and baked in Peruvian cuisine. The flavor is mild and crisp, similar to cucumber or chayote. Fruits are harvested when young and still tender; if left on the vine they develop soft, black seeds. The plant climbs vigorously and produces prolifically in hot summer conditions in zones 8\u201311. In traditional Andean medicine the plant has a long history of use for managing blood sugar and cholesterol. An unusual and conversation-starting vegetable for adventurous gardens.",
+    "sources": [
+      "FAO Food and Agriculture Organization",
+      "Purdue University Center for New Crops",
+      "USDA Agricultural Research Service"
+    ]
+  },
+  {
+    "slug": "shungiku",
+    "common_name": "Shungiku (Chrysanthemum Greens)",
+    "scientific_name": "Glebionis coronaria",
+    "category": "vegetable",
+    "subcategory": "leafy green",
+    "days_to_germination": {"min": 7, "max": 14},
+    "germination_soil_temp_f": {"min": 50, "max": 68},
+    "days_to_maturity": {"min": 30, "max": 50},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": -4, "max": -2},
+      "note": "Direct sow 2\u20134 weeks before last frost for spring harvest; make a second sowing 6\u20138 weeks before first fall frost. In zones 8\u201311 sow in fall for a winter crop. Succession sow every 2\u20133 weeks."
+    },
+    "usda_zones": {"min": 3, "max": 11},
+    "spacing_in": {"min": 4, "max": 6},
+    "height_in": {"min": 12, "max": 24},
+    "spread_in": {"min": 4, "max": 6},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Broadcast seed or sow in rows 1/4 inch deep and thin to 4\u20136 inches; shungiku is a cool-season Asian vegetable in the chrysanthemum family grown for its highly aromatic, slightly bitter leaves that are fundamental to Japanese hot pot (nabe), sukiyaki, and Korean soups. The flavor is herbal, slightly medicinal, and distinctly chrysanthemum-like \u2014 beloved in East Asian cooking, particularly in winter one-pot dishes where the leaves add fragrance as well as nutrition. Harvest outer leaves when plants reach 6\u20138 inches; or cut whole plants at soil level for a cut-and-come-again crop. It bolts quickly in heat, producing bright yellow daisy-like flowers \u2014 these are also edible as a garnish. Sow in succession for continuous harvest through cool seasons.",
+    "sources": [
+      "University of California Cooperative Extension",
+      "Johnny's Selected Seeds cultural guide",
+      "Asian Vegetable Research and Development Center"
+    ]
+  },
+  {
+    "slug": "fingerroot",
+    "common_name": "Fingerroot (Chinese Ginger)",
+    "scientific_name": "Boesenbergia rotunda",
+    "category": "herb",
+    "subcategory": "culinary",
+    "days_to_germination": {"min": 14, "max": 28},
+    "germination_soil_temp_f": {"min": 70, "max": 85},
+    "days_to_maturity": {"min": 120, "max": 180},
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 2, "max": 4},
+      "note": "Plant rhizome divisions 2 inches deep in warm, moist soil after last frost; in zone 9\u201311 divisions may be planted outdoors year-round. Fingerroot can also be grown in containers indoors in colder climates."
+    },
+    "usda_zones": {"min": 9, "max": 11},
+    "spacing_in": {"min": 12, "max": 18},
+    "height_in": {"min": 12, "max": 24},
+    "spread_in": {"min": 12, "max": 18},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Plant rhizomes in rich, moist, well-drained soil in partial shade; fingerroot is a compact tropical ginger relative that produces clusters of elongated, finger-shaped rhizomes 3\u20135 inches long with an intense, camphor-ginger-citrus aroma that is unmistakable and quite different from common ginger. It is an essential ingredient in Thai cuisine \u2014 particularly in fish curries, kaeng khiao wan (green curry), and traditional Thai spice pastes where it adds fragrance and a slightly medicinal quality. The slender rhizomes are used fresh, pickled, or dried and powdered. In zones 9\u201311 the plant persists as a clumping perennial; in colder climates dig and store rhizomes frost-free for winter, then replant in spring.",
+    "sources": [
+      "University of Florida IFAS Tropical Herbs",
+      "Royal Botanic Gardens Kew",
+      "FAO Food and Agriculture Organization"
+    ]
+  }
+]

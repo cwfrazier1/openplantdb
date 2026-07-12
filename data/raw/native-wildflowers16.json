@@ -1,0 +1,157 @@
+[
+  {
+    "slug": "phlox-bifida",
+    "common_name": "Sand Phlox",
+    "scientific_name": "Phlox bifida",
+    "category": "flower",
+    "subcategory": "native perennial",
+    "days_to_germination": {"min": 21, "max": 30},
+    "germination_soil_temp_f": {"min": 55, "max": 65},
+    "days_to_maturity": {"min": 365, "max": 730},
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Plant rooted cuttings or divisions in spring in very well-drained, sandy to rocky soil; sand phlox requires excellent drainage and will rot in heavy, wet soils. It also performs well in slightly alkaline soils."
+    },
+    "usda_zones": {"min": 3, "max": 8},
+    "spacing_in": {"min": 9, "max": 12},
+    "height_in": {"min": 4, "max": 8},
+    "spread_in": {"min": 12, "max": 18},
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant in well-drained to dry, sandy or rocky soil in full sun; sand phlox is a low-growing native prairie groundcover that covers itself with fragrant lavender to white flowers with distinctively notched or cleft petals in early spring. It forms a dense mat of needle-like evergreen foliage and blooms so profusely that the foliage is completely hidden by flowers. Unlike the creeping phlox (P. subulata) of garden centers, sand phlox is native to the midwestern prairies and is adapted to slightly drier conditions. Shear or mow lightly immediately after blooming to encourage compact, dense new growth. An outstanding plant for rock gardens, dry slopes, and edging in well-drained sites.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "Missouri Botanical Garden Plant Finder",
+      "USDA Natural Resources Conservation Service"
+    ]
+  },
+  {
+    "slug": "gypsophila",
+    "common_name": "Baby's Breath",
+    "scientific_name": "Gypsophila paniculata",
+    "category": "flower",
+    "subcategory": "cut flower perennial",
+    "days_to_germination": {"min": 10, "max": 21},
+    "germination_soil_temp_f": {"min": 60, "max": 70},
+    "days_to_maturity": {"min": 365, "max": 730},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": -2, "max": 0},
+      "note": "Direct sow in early spring in well-drained, alkaline to neutral soil; baby's breath requires very well-drained soil and full sun and will not tolerate heavy, acidic, or wet conditions. Amend acid soils with lime before planting."
+    },
+    "usda_zones": {"min": 3, "max": 9},
+    "spacing_in": {"min": 24, "max": 36},
+    "height_in": {"min": 24, "max": 48},
+    "spread_in": {"min": 24, "max": 36},
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant in deep, well-drained, slightly alkaline soil in full sun; baby's breath produces enormous clouds of tiny white or pale pink flowers on airy, branching stems from early to midsummer that are indispensable as a filler in fresh and dried flower arrangements. The delicate, misty appearance belies a tough, long-lived perennial that thrives in poor, dry, alkaline soil where many plants fail. Cutting stems regularly for arrangements encourages continuous blooming. For drying, harvest stems when flowers are fully open and hang upside-down in bundles. The cultivar 'Bristol Fairy' (double-flowered) is the most widely grown; 'Perfecta' has especially large double flowers. Best suited to zones 3\u20137; may be short-lived in humid hot climates.",
+    "sources": [
+      "Missouri Botanical Garden Plant Finder",
+      "Royal Horticultural Society",
+      "North Carolina State Extension"
+    ]
+  },
+  {
+    "slug": "salvia-splendens",
+    "common_name": "Scarlet Sage",
+    "scientific_name": "Salvia splendens",
+    "category": "flower",
+    "subcategory": "tender annual",
+    "days_to_germination": {"min": 12, "max": 21},
+    "germination_soil_temp_f": {"min": 70, "max": 75},
+    "days_to_maturity": {"min": 60, "max": 90},
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 0, "max": 2},
+      "note": "Start indoors 6\u20138 weeks before last frost; do not plant out until nighttime temperatures remain above 50\u00b0F. In zones 9\u201311, scarlet sage grows as a perennial subshrub and can be planted year-round."
+    },
+    "usda_zones": {"min": 9, "max": 11},
+    "spacing_in": {"min": 12, "max": 18},
+    "height_in": {"min": 12, "max": 24},
+    "spread_in": {"min": 12, "max": 18},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Start seed in warm conditions 6\u20138 weeks before last frost; scarlet sage is a Brazilian perennial grown as an annual in most climates, producing dense spikes of vivid scarlet flowers that are among the most hummingbird-attractive of all bedding plants. Modern cultivars have expanded the color range to include salmon, coral, white, purple, and bicolors. It performs best in partial shade in hot climates (zone 8 and above), where full sun causes bleaching; in cooler climates it tolerates full sun. The plants bloom continuously from summer until frost without deadheading. In zones 9\u201311 it grows as a perennial and may persist for several years, becoming more woody at the base. Excellent for mass plantings, containers, and hummingbird gardens.",
+    "sources": [
+      "University of Florida IFAS Extension",
+      "Missouri Botanical Garden Plant Finder",
+      "Ball Horticultural Company cultural guide"
+    ]
+  },
+  {
+    "slug": "dianthus-deltoides",
+    "common_name": "Maiden Pinks",
+    "scientific_name": "Dianthus deltoides",
+    "category": "flower",
+    "subcategory": "groundcover perennial",
+    "days_to_germination": {"min": 10, "max": 21},
+    "germination_soil_temp_f": {"min": 60, "max": 70},
+    "days_to_maturity": {"min": 365, "max": 730},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": -4, "max": -2},
+      "note": "Direct sow in early spring in well-drained soil; maiden pinks germinate readily in cool conditions. Thin to 6 inches and expect first-year flowering. They can also be planted from divisions or plugs in spring or fall."
+    },
+    "usda_zones": {"min": 3, "max": 9},
+    "spacing_in": {"min": 6, "max": 9},
+    "height_in": {"min": 6, "max": 12},
+    "spread_in": {"min": 12, "max": 18},
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant in well-drained, slightly alkaline to neutral soil in full sun; maiden pinks is a low, mat-forming European native dianthus that covers itself with small, richly colored flowers in shades of rose, crimson, white, and bicolored combinations. The flowers have toothed or fringed petal margins and many have a darker central ring ('eye'), giving them a jewel-like quality. In flower from late spring through summer, maiden pinks self-sows to naturalize readily in gravel paths, between paving stones, and on dry sunny slopes. It is excellent for rock gardens, cottage garden edging, and low green roofs. The blue-green, needle-like foliage forms an attractive evergreen mat through winter.",
+    "sources": [
+      "Missouri Botanical Garden Plant Finder",
+      "Royal Horticultural Society",
+      "North Carolina State Extension"
+    ]
+  },
+  {
+    "slug": "allium-stellatum",
+    "common_name": "Prairie Onion",
+    "scientific_name": "Allium stellatum",
+    "category": "vegetable",
+    "subcategory": "native edible bulb",
+    "days_to_germination": {"min": 14, "max": 28},
+    "germination_soil_temp_f": {"min": 55, "max": 65},
+    "days_to_maturity": {"min": 365, "max": 730},
+    "maturity_from": "transplant",
+    "sow_method": "bulb",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {"min": -8, "max": -4},
+      "note": "Plant small bulbs 2\u20133 inches deep in fall in well-drained soil; prairie onion naturalizes readily and will self-seed to expand its colony over time. Seeds can also be sown in fall for spring germination."
+    },
+    "usda_zones": {"min": 3, "max": 8},
+    "spacing_in": {"min": 4, "max": 6},
+    "height_in": {"min": 12, "max": 24},
+    "spread_in": {"min": 4, "max": 6},
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant bulbs in well-drained to dry soil in full sun; prairie onion is a native North American allium of the central prairies and upper South, producing attractive spherical clusters of rose-pink to lavender flowers in late summer when few other bulbs bloom. All parts are edible \u2014 bulbs, leaves, and flowers \u2014 with a mild onion flavor used by Plains indigenous peoples as a wild food and flavoring. The upright, flat leaves emerge in spring, provide texture through summer, and the flowers appear in August and September when hummingbirds and late-season butterflies are active. It is both a functional edible garden plant and a beautiful native wildflower for dry, sunny prairie or meadow gardens. Increases steadily by bulb division and self-seeding.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "USDA Natural Resources Conservation Service",
+      "Missouri Botanical Garden Plant Finder"
+    ]
+  }
+]

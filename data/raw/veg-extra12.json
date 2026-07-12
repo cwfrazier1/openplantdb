@@ -1,0 +1,155 @@
+[
+  {
+    "slug": "hon-tsai-tai",
+    "common_name": "Hon Tsai Tai",
+    "scientific_name": "Brassica rapa var. purpurea",
+    "category": "vegetable",
+    "subcategory": "brassica",
+    "days_to_germination": {"min": 3, "max": 7},
+    "germination_soil_temp_f": {"min": 50, "max": 80},
+    "days_to_maturity": {"min": 30, "max": 45},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": -4, "max": -2},
+      "note": "Direct sow 2\u20134 weeks before last frost for spring harvest; in zones 8\u201311 make a second sowing in early fall for a mild-winter crop."
+    },
+    "usda_zones": {"min": 3, "max": 11},
+    "spacing_in": {"min": 4, "max": 6},
+    "height_in": {"min": 10, "max": 18},
+    "spread_in": {"min": 4, "max": 8},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Broadcast or row-sow seed 1/4 inch deep and thin to 4\u20136 inches; plants establish quickly in cool weather and are ready to harvest in about a month. Cut the entire plant at 3\u20134 inches above the soil or snap off individual stems with leaves and emerging flower buds, the most prized part. The vivid purple stems, dark green leaves, and yellow flower buds are equally edible \u2014 stir-fry briefly over high heat or blanch and toss with sesame oil. Flavor is mild and sweet before the plant bolts; harvest frequently to delay bolting.",
+    "sources": [
+      "University of California Cooperative Extension",
+      "Johnny's Selected Seeds cultural guide"
+    ]
+  },
+  {
+    "slug": "leaf-amaranth",
+    "common_name": "Leaf Amaranth",
+    "scientific_name": "Amaranthus tricolor",
+    "category": "vegetable",
+    "subcategory": "leafy green",
+    "days_to_germination": {"min": 7, "max": 14},
+    "germination_soil_temp_f": {"min": 65, "max": 85},
+    "days_to_maturity": {"min": 30, "max": 50},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 0, "max": 2},
+      "note": "Sow after last frost when soil is reliably above 65\u00b0F; in zones 9\u201311 continue succession sowing through summer, as leaf amaranth handles heat that defeats most other leafy greens."
+    },
+    "usda_zones": {"min": 2, "max": 11},
+    "spacing_in": {"min": 12, "max": 18},
+    "height_in": {"min": 24, "max": 60},
+    "spread_in": {"min": 12, "max": 18},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Scatter seed thinly on the soil surface and press in lightly \u2014 seeds need some light to germinate; thin to 12\u201318 inches once seedlings are 3 inches tall, using thinnings as baby greens. Young leaves and stem tips are harvested continuously as the plant grows; pinch the growing tip to encourage branching and delay flowering. Cook as a spinach substitute \u2014 the leaves wilt quickly and are mildly earthy with a slight mucilaginous texture that thickens soups and stews. Rich, moist soil and full sun produce the most vigorous plants, though leaf amaranth tolerates poor soils better than most vegetables.",
+    "sources": [
+      "FAO Plant Production and Protection Division",
+      "Asian Vegetable Research and Development Center (AVRDC)"
+    ]
+  },
+  {
+    "slug": "lambs-quarters",
+    "common_name": "Lamb's Quarters",
+    "scientific_name": "Chenopodium album",
+    "category": "vegetable",
+    "subcategory": "leafy green",
+    "days_to_germination": {"min": 10, "max": 21},
+    "germination_soil_temp_f": {"min": 45, "max": 65},
+    "days_to_maturity": {"min": 35, "max": 55},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": -2, "max": 0},
+      "note": "Direct sow around the time of last frost; seeds are very small and germinate best when pressed into moist soil without covering. Plants self-sow prolifically once established."
+    },
+    "usda_zones": {"min": 3, "max": 10},
+    "spacing_in": {"min": 12, "max": 18},
+    "height_in": {"min": 24, "max": 72},
+    "spread_in": {"min": 12, "max": 24},
+    "sun": "full",
+    "water": "low",
+    "directions": "Scatter seeds on bare soil and press firmly; lamb\u2019s quarters germinates readily and requires virtually no care once established. Harvest young leaves and stem tips continuously \u2014 they taste similar to spinach, raw or cooked, and are exceptionally high in vitamins A, C, and calcium. The mealy white coating on new leaves is a natural wax secretion. Allow a few plants to set seed each year to maintain a self-sowing colony; mature seeds can be dried and cooked like quinoa. Plants grow rapidly in rich soil and may reach 6 feet if left unchecked.",
+    "sources": [
+      "USDA PLANTS Database",
+      "University of Minnesota Extension",
+      "Duke, J.A. Handbook of Energy Crops, Purdue University, 1983"
+    ]
+  },
+  {
+    "slug": "sprouting-broccoli",
+    "common_name": "Sprouting Broccoli",
+    "scientific_name": "Brassica oleracea var. italica",
+    "category": "vegetable",
+    "subcategory": "brassica",
+    "days_to_germination": {"min": 4, "max": 7},
+    "germination_soil_temp_f": {"min": 50, "max": 85},
+    "days_to_maturity": {"min": 90, "max": 130},
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {"min": -16, "max": -12},
+      "note": "Start seeds indoors 12\u201316 weeks before first fall frost; transplant to the garden 8\u201310 weeks before first frost so plants establish before cold weather arrives."
+    },
+    "usda_zones": {"min": 3, "max": 10},
+    "spacing_in": {"min": 18, "max": 24},
+    "height_in": {"min": 24, "max": 36},
+    "spread_in": {"min": 18, "max": 24},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Start seeds at 65\u201375\u00b0F in small pots and grow under bright light to prevent leggy transplants; harden off over 7\u201310 days before setting in the garden. Unlike heading broccoli, sprouting types produce many small floret clusters on branched side shoots rather than a single large central head \u2014 harvest shoots when tight and before flowers open, cutting with 4\u20136 inches of stem to encourage continued production. Regular harvesting extends the season for weeks; uncut shoots quickly flower and the plant stops producing. Mulch heavily for overwintering in zones 6\u20138 to harvest the earliest spring shoots, often before any other fresh vegetable is available.",
+    "sources": [
+      "Royal Horticultural Society",
+      "North Carolina State Extension",
+      "Cornell Cooperative Extension"
+    ]
+  },
+  {
+    "slug": "crosne",
+    "common_name": "Crosne (Chinese Artichoke)",
+    "scientific_name": "Stachys affinis",
+    "category": "vegetable",
+    "subcategory": "root",
+    "days_to_germination": {"min": 14, "max": 21},
+    "germination_soil_temp_f": {"min": 50, "max": 65},
+    "days_to_maturity": {"min": 150, "max": 180},
+    "maturity_from": "transplant",
+    "sow_method": "tuber",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": -2, "max": 0},
+      "note": "Plant tubers 2\u20133 inches deep around the time of last frost; crosne prefers cool growing conditions and produces its best tubers in fall before heavy frost."
+    },
+    "usda_zones": {"min": 5, "max": 9},
+    "spacing_in": {"min": 9, "max": 12},
+    "height_in": {"min": 12, "max": 18},
+    "spread_in": {"min": 9, "max": 12},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant small knobbly tubers 2\u20133 inches deep in loose, well-drained soil enriched with compost; crosne has a straggly growth habit with square stems and small lavender flowers typical of the mint family. The tops die back in fall, signaling that tubers have reached full size \u2014 harvest by digging carefully, as the small spiral tubers break easily. Leave some tubers in the ground for next season\u2019s planting stock. Tubers are eaten unpeeled; the thin ivory skin is too delicate and intricate to remove. Steam or saut\u00e9 briefly \u2014 the texture is crunchy like a water chestnut with a mild, slightly nutty flavor.",
+    "sources": [
+      "Royal Horticultural Society",
+      "Plants for a Future Database",
+      "Vilmorin-Andrieux, The Vegetable Garden, 1885"
+    ]
+  }
+]

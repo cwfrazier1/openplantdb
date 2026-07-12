@@ -1,0 +1,157 @@
+[
+  {
+    "slug": "vaccinium-ashei",
+    "common_name": "Rabbiteye Blueberry",
+    "scientific_name": "Vaccinium virgatum",
+    "category": "fruit",
+    "subcategory": "Gulf Coast native blueberry",
+    "days_to_germination": { "min": 14, "max": 30 },
+    "germination_soil_temp_f": { "min": 65, "max": 75 },
+    "days_to_maturity": { "min": 730, "max": 1825 },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": { "min": -8, "max": 0 },
+      "note": "Plant container-grown bushes in fall or late winter in acidic (pH 4.5–5.5), moist, well-drained, highly organic soil in full sun to part shade; rabbiteye blueberry is the heat- and low-chill-tolerant species specifically adapted to the Gulf Coast region from Texas to Florida. Plant two or more different cultivars to ensure cross-pollination and maximum yield. Recommended cultivars for zone 9: 'Climax,' 'Premier,' 'Tifblue,' 'Brightwell.'"
+    },
+    "usda_zones": { "min": 7, "max": 9 },
+    "spacing_in": { "min": 48, "max": 72 },
+    "height_in": { "min": 60, "max": 180 },
+    "spread_in": { "min": 48, "max": 96 },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in well-drained, very acidic (pH 4.5–5.5), humus-rich soil in full sun with at least two different cultivars for cross-pollination; rabbiteye blueberry is the blueberry of the Gulf Coast South — native to the coastal plain from Texas to Florida and naturally adapted to hot summers, mild winters, and the low-chill conditions (below 45°F hours) that prevent highbush blueberries from fruiting reliably in zone 8–9. The name 'rabbiteye' refers to the pale, pinkish color of the unripe berries before they turn deep blue-purple at maturity. Plants are large, vigorous, and long-lived — potentially producing for 40–50 years — with spring flowers that attract early native bees, summer berries that ripen over an extended period from May through August depending on cultivar, and attractive red-orange fall foliage. A fundamental food plant for Gulf Coast edible gardens that produces abundantly with minimal care in appropriate acidic soil conditions. The primary challenge in the Gulf Coast is achieving and maintaining the necessary soil acidity; soil acidification with sulfur or planting in raised beds filled with peat, pine bark, and acidic compost is often necessary.",
+    "sources": [
+      "University of Florida IFAS Extension",
+      "Texas A&M AgriLife Extension",
+      "Louisiana State University AgCenter"
+    ]
+  },
+  {
+    "slug": "montia-perfoliata",
+    "common_name": "Miner's Lettuce (Winter Purslane)",
+    "scientific_name": "Claytonia perfoliata",
+    "category": "vegetable",
+    "subcategory": "cool-season salad green",
+    "days_to_germination": { "min": 7, "max": 14 },
+    "germination_soil_temp_f": { "min": 40, "max": 60 },
+    "days_to_maturity": { "min": 40, "max": 60 },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": { "min": -6, "max": -2 },
+      "note": "Direct-sow in fall (or spring in cool climates) in almost any soil in shade to part shade; miner's lettuce germinates best in cool, even cold soil and will germinate through winter in mild climates. It self-sows prolifically once established, creating a permanent volunteer colony that reappears each autumn without replanting. In zone 9, fall through spring is the prime growing window."
+    },
+    "usda_zones": { "min": 3, "max": 10 },
+    "spacing_in": { "min": 4, "max": 8 },
+    "height_in": { "min": 4, "max": 8 },
+    "spread_in": { "min": 4, "max": 8 },
+    "sun": "shade",
+    "water": "moderate",
+    "directions": "Direct-sow in fall in moist, well-drained soil in part shade to full shade; miner's lettuce is a western North American native cool-season annual producing the most distinctive leaf form of any salad green — later-produced stem leaves are perfectly round, like a disc, with the stem growing through the center of the leaf, giving the appearance of a small lily-pad with the flower stalk emerging from the middle. Earlier leaves are long-stalked and spade-shaped. The plant was a critical winter and spring food source for California Native Americans and was later eaten by gold rush miners (hence the name) to prevent scurvy. The flavor is mild and succulent, similar to spinach or purslane, and the entire plant is edible raw or cooked — leaves, stems, and small white flowers. It thrives in shade where most vegetables fail, making it invaluable for shaded vegetable gardens. In zone 8–10, it grows abundantly through fall, winter, and spring and dies back in summer heat. Self-sows reliably to maintain a self-perpetuating colony that requires no maintenance.",
+    "sources": [
+      "University of California Cooperative Extension",
+      "Oregon State University Extension",
+      "Lady Bird Johnson Wildflower Center"
+    ]
+  },
+  {
+    "slug": "ribes-aureum",
+    "common_name": "Golden Currant (Clove Currant)",
+    "scientific_name": "Ribes aureum",
+    "category": "fruit",
+    "subcategory": "native edible shrub",
+    "days_to_germination": { "min": 30, "max": 60 },
+    "germination_soil_temp_f": { "min": 55, "max": 65 },
+    "days_to_maturity": { "min": 730, "max": 1095 },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": { "min": -4, "max": 2 },
+      "note": "Root hardwood cuttings in late winter or plant container-grown shrubs in moist to dry, well-drained, slightly acidic to neutral soil in full sun to part shade; golden currant is adaptable to a wide range of soils including clay and dry rocky soils, and tolerates partial shade well. It spreads by suckers to form colonies — remove unwanted suckers to contain its spread."
+    },
+    "usda_zones": { "min": 3, "max": 8 },
+    "spacing_in": { "min": 48, "max": 72 },
+    "height_in": { "min": 48, "max": 96 },
+    "spread_in": { "min": 48, "max": 72 },
+    "sun": "partial",
+    "water": "low",
+    "directions": "Plant in moist to moderately dry, adaptable soil in full sun to part shade; golden currant is a broadly adaptable native shrub of western and central North America producing intensely fragrant yellow flowers in spring — fragrant with a spicy clove-like scent that carries in the air, giving rise to the alternate common name 'clove currant' — that are followed in summer by round currants ripening from red to black-purple, sweet-tart and edible fresh or made into jelly, jam, and wine. The spring floral fragrance is among the most remarkable of any native shrub, detectable at a distance on warm spring days. The attractive foliage turns red and orange in fall. Unlike European black currant (Ribes nigrum), golden currant has no unpleasant 'catty' flavor and produces a pleasant, gently flavored fruit. It is one of the most important nectar sources for early hummingbirds and long-tongued native bees in the western states. Drought-tolerant once established, adaptable to part shade, and much more garden-friendly than many currant species.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "North Carolina State Extension",
+      "Missouri Botanical Garden Plant Finder"
+    ]
+  },
+  {
+    "slug": "robinia-pseudoacacia",
+    "common_name": "Black Locust (False Acacia)",
+    "scientific_name": "Robinia pseudoacacia",
+    "category": "flower",
+    "subcategory": "nitrogen-fixing honey tree",
+    "days_to_germination": { "min": 7, "max": 14 },
+    "germination_soil_temp_f": { "min": 65, "max": 75 },
+    "days_to_maturity": { "min": 1095, "max": 2190 },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": { "min": 0, "max": 6 },
+      "note": "Plant in almost any well-drained soil in full sun — black locust is one of the most adaptable trees available, tolerating drought, poor soil, clay, compacted soil, and urban pollution. It spreads vigorously by root suckers and by seed and is classified as invasive in many eastern states and parts of Europe — verify local regulations before planting and plan to manage suckering. Seeds, bark, and leaves are toxic if ingested."
+    },
+    "usda_zones": { "min": 3, "max": 8 },
+    "spacing_in": { "min": 120, "max": 360 },
+    "height_in": { "min": 240, "max": 600 },
+    "spread_in": { "min": 120, "max": 240 },
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant in any well-drained soil in full sun; black locust is a large, fast-growing native tree of the central Appalachians that has spread across North America and much of the world, valued and controversial in equal measure. In late May to June, mature trees produce spectacular, pendulous clusters of fragrant white pea flowers — some of the most intensely honey-scented flowers of any tree — that are the primary source of the prized 'acacia honey' of Europe (where black locust is widely grown as a honey crop). In the United States, it yields exceptional amounts of nectar for beekeepers. The flowers are edible, with a sweet, floral flavor, and are traditionally dipped in batter and fried as fritters in Appalachian and Eastern European cuisines. Black locust fixes atmospheric nitrogen and rapidly improves poor soil — a valuable quality for reclamation and agroforestry. The wood is extremely rot-resistant and harder than white oak, used for fence posts, outdoor furniture, and boat-building. CAUTION: the tree spreads aggressively by root suckers and seed and is invasive in many states and countries — manage carefully. Seeds, bark, and inner wood are toxic to horses, cattle, and humans if ingested.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "North Carolina State Extension",
+      "Missouri Botanical Garden Plant Finder"
+    ]
+  },
+  {
+    "slug": "styphnolobium-japonicum",
+    "common_name": "Japanese Pagoda Tree (Scholar Tree)",
+    "scientific_name": "Styphnolobium japonicum",
+    "category": "flower",
+    "subcategory": "summer-blooming large tree",
+    "days_to_germination": { "min": 7, "max": 21 },
+    "germination_soil_temp_f": { "min": 65, "max": 75 },
+    "days_to_maturity": { "min": 1825, "max": 3650 },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": { "min": 0, "max": 6 },
+      "note": "Plant container-grown or balled-and-burlapped trees in well-drained, adaptable, slightly acidic to neutral soil in full sun; Japanese pagoda tree is exceptionally tolerant of urban stresses including air pollution, compacted soil, heat, and drought once established. It may not flower until 10 or more years of age from seedlings, but grafted trees flower younger."
+    },
+    "usda_zones": { "min": 4, "max": 8 },
+    "spacing_in": { "min": 240, "max": 480 },
+    "height_in": { "min": 240, "max": 480 },
+    "spread_in": { "min": 240, "max": 480 },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in well-drained, adaptable, slightly acidic to neutral soil in full sun; Japanese pagoda tree is a large, wide-spreading shade tree native to China (despite the common name 'Japanese') that produces large panicles of creamy-white, pea-like flowers in July and August — one of the very few large trees that blooms in mid to late summer when the landscape is starved for flowering trees. The flowers are produced in enormous numbers on mature specimens and are highly attractive to honeybees and native bees, making it a significant honey and pollen source. The flowers are followed by distinctive, bright-green, bead-like seed pods that remain on the tree through winter and ornamental even after the leaves drop. The bark is attractively furrowed and the overall form is graceful, with pinnate leaves giving light, dappled shade. Long planted as a sacred tree in China along temple approaches, it was brought to Europe in the 18th century and has been a standard urban street tree in Europe and North America for its drought tolerance, heat tolerance, and summer blooms. The cultivar 'Regent' grows faster and blooms more reliably at a younger age.",
+    "sources": [
+      "Arnold Arboretum of Harvard University",
+      "Missouri Botanical Garden Plant Finder",
+      "North Carolina State Extension"
+    ]
+  }
+]

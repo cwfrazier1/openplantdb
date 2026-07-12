@@ -1,0 +1,157 @@
+[
+  {
+    "slug": "aloe-arborescens",
+    "common_name": "Torch Aloe (Candelabra Aloe)",
+    "scientific_name": "Aloe arborescens",
+    "category": "flower",
+    "subcategory": "large branching aloe",
+    "days_to_germination": { "min": 14, "max": 30 },
+    "germination_soil_temp_f": { "min": 65, "max": 75 },
+    "days_to_maturity": { "min": 730, "max": 1825 },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": { "min": 2, "max": 6 },
+      "note": "Take offsets or stem cuttings and allow to callus for a week before planting in very well-drained, lean, alkaline to neutral soil in full sun; torch aloe is one of the most cold-tolerant of the large, branching aloes, surviving brief dips to 25°F once established. It is widely planted along the California coast and Gulf Coast and is an outstanding hummingbird plant throughout the winter when few other flowers are available."
+    },
+    "usda_zones": { "min": 8, "max": 11 },
+    "spacing_in": { "min": 36, "max": 72 },
+    "height_in": { "min": 60, "max": 120 },
+    "spread_in": { "min": 60, "max": 96 },
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant in very well-drained, lean, alkaline to neutral soil in full sun; torch aloe is a large, branching, multi-stemmed aloe from South Africa that makes one of the most dramatic winter-blooming landscape plants for zone 8–11, producing tall, erect torches of brilliant red-orange tubular flowers from November through February — the peak of the hummingbird-lean winter season — in such abundance that mature clumps appear ablaze with color. Each established clump can have dozens of flower spikes simultaneously, creating a spectacular display that attracts Anna's hummingbirds, Allen's hummingbirds, and other hummingbird species in the Pacific Coast states in large numbers. The plant itself is strongly architectural: many-stemmed and branching, with rosettes of thick, gray-green, toothed leaves at each branch tip, reaching 6–10 feet tall on mature specimens. It is faster-growing and more vigorous than Aloe vera, eventually forming large, impressive clumps. Like aloe vera, the gel is soothing and medicinal. More cold-tolerant than most large aloes, surviving brief freezes to 25°F once established.",
+    "sources": [
+      "University of California Cooperative Extension",
+      "Royal Horticultural Society",
+      "University of Florida IFAS Extension"
+    ]
+  },
+  {
+    "slug": "aloe-ferox",
+    "common_name": "Cape Aloe (Bitter Aloe, Red Aloe)",
+    "scientific_name": "Aloe ferox",
+    "category": "herb",
+    "subcategory": "large medicinal architectural aloe",
+    "days_to_germination": { "min": 14, "max": 30 },
+    "germination_soil_temp_f": { "min": 65, "max": 75 },
+    "days_to_maturity": { "min": 1095, "max": 2190 },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": { "min": 2, "max": 6 },
+      "note": "Plant container-grown plants in very well-drained, lean, alkaline to neutral soil in full sun; Cape aloe develops a single, upright trunk over many years and is slower-growing than aloe arborescens. It is more cold-tolerant than most trunk-forming aloes and tolerates brief dips to 25°F. It is a major commercial crop in South Africa for the cosmetics and natural medicine industries."
+    },
+    "usda_zones": { "min": 8, "max": 11 },
+    "spacing_in": { "min": 36, "max": 60 },
+    "height_in": { "min": 60, "max": 180 },
+    "spread_in": { "min": 36, "max": 60 },
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant in very well-drained, lean, alkaline to neutral soil in full sun; Cape aloe is a magnificent large aloe from South Africa that develops a single upright trunk over time, crowned by a rosette of large, glaucous, spiny-toothed leaves that may develop reddish or copper tints in strong sun. It produces tall (4–5 foot) candelabra-like flower spikes in winter and spring bearing dense clusters of orange-red to orange tubular flowers that attract sunbirds in South Africa and hummingbirds in cultivation. The plant is one of the primary sources of commercial aloe latex (used in laxative preparations and cosmetics) — distinct from aloe gel — produced as a dark, bitter exudate from the cut leaves. The botanical name 'ferox' (meaning fierce) refers to the prominent spines on the leaf margins and surfaces, which are more numerous than in aloe vera. As a landscape plant it is outstanding for large, bold, architectural effect in zone 8–11 gardens, developing impressive specimens over decades. The commercial production of Aloe ferox bitter is centered in the Eastern Cape of South Africa.",
+    "sources": [
+      "Royal Horticultural Society",
+      "University of Florida IFAS Extension",
+      "South African National Biodiversity Institute"
+    ]
+  },
+  {
+    "slug": "haworthiopsis-attenuata",
+    "common_name": "Zebra Haworthia (Zebra Plant)",
+    "scientific_name": "Haworthiopsis attenuata",
+    "category": "flower",
+    "subcategory": "shade-tolerant succulent houseplant",
+    "days_to_germination": { "min": 14, "max": 30 },
+    "germination_soil_temp_f": { "min": 65, "max": 75 },
+    "days_to_maturity": { "min": 365, "max": 730 },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": { "min": 0, "max": 6 },
+      "note": "Separate offsets from established rosettes and pot in well-drained cactus mix or gritty succulent soil; zebra haworthia requires bright indirect light indoors — a north or east window or a position several feet from a bright south or west window. It is one of the best succulents for low-light conditions and succeeds where most cacti and succulents would fail. Outdoors, grow in shade or dappled light in zone 9–11."
+    },
+    "usda_zones": { "min": 9, "max": 11 },
+    "spacing_in": { "min": 4, "max": 8 },
+    "height_in": { "min": 4, "max": 8 },
+    "spread_in": { "min": 4, "max": 8 },
+    "sun": "shade",
+    "water": "low",
+    "directions": "Grow in bright indirect light in well-drained cactus mix; zebra haworthia is one of the most widely grown succulent houseplants in the world — a small, compact South African succulent forming a neat rosette of dark-green, firm, triangular leaves marked with distinctive horizontal bands of white, pebbly tubercles that exactly resemble zebra stripes, making it immediately recognizable. Unlike most succulents which require bright direct sun, zebra haworthia is naturally adapted to growing in shade under shrubs and rocks in South Africa's Eastern Cape, making it an outstanding indoor succulent for bright but indirect light conditions — windowsill plants, offices, and rooms with east or north light. It produces offsets freely, forming multi-rosette clumps, and can be divided regularly to propagate new plants. Small, tubular, whitish flowers appear on long, thin stems in summer. Easy to grow, forgiving of occasional neglect in watering (but not of overwatering), and remarkably long-lived — a well-maintained plant can grow for decades. Formerly classified as Haworthia fasciata or H. attenuata.",
+    "sources": [
+      "Missouri Botanical Garden Plant Finder",
+      "Royal Horticultural Society",
+      "University of Florida IFAS Extension"
+    ]
+  },
+  {
+    "slug": "stenocereus-griseus",
+    "common_name": "Mexican Pitaya (Dagger Cactus, Pitaya Agria)",
+    "scientific_name": "Stenocereus griseus",
+    "category": "fruit",
+    "subcategory": "columnar cactus fruit",
+    "days_to_germination": { "min": 7, "max": 21 },
+    "germination_soil_temp_f": { "min": 70, "max": 80 },
+    "days_to_maturity": { "min": 2190, "max": 3650 },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": { "min": 2, "max": 6 },
+      "note": "Root large stem cuttings (allow cut ends to callus 1–2 weeks) in very well-drained cactus mix in full sun; Mexican pitaya is damaged below 28°F and requires frost-free conditions for long-term success. It is cultivated in dry regions of Mexico and the Caribbean for its edible fruit, which ripens in early summer and is a prized seasonal treat in the markets of Oaxaca, Yucatan, and Colombia."
+    },
+    "usda_zones": { "min": 9, "max": 12 },
+    "spacing_in": { "min": 60, "max": 120 },
+    "height_in": { "min": 120, "max": 360 },
+    "spread_in": { "min": 60, "max": 120 },
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant in very well-drained, lean, dry, alkaline to neutral soil in full sun; Mexican pitaya is a large, multi-stemmed columnar cactus native to the dry coastal and lowland regions of Venezuela, Colombia, the Caribbean islands, and Mexico, grown for centuries in tropical America for its edible fruits — the pitayas are oval to round, 2–3 inches long, with a thin, red or yellowish skin studded with clusters of spines and translucent white to reddish, sweet, refreshing flesh surrounding the seeds, with a flavor combining gentle sweetness with a slightly acidic, wine-like finish. In Oaxacan markets, fresh pitayas are a beloved seasonal delicacy sold from June through August. The plant grows as an upright, branching, candelabra-shaped cactus that makes an impressive landscape specimen reaching 10–20 feet. The white, night-blooming flowers are adapted for bat pollination. Different from the pitahaya/dragon fruit (Selenicereus undatus) in being a columnar cactus rather than a climbing vine cactus. An outstanding ornamental and edible cactus for zone 9–12 landscapes.",
+    "sources": [
+      "University of Florida IFAS Tropical Fruit",
+      "California Rare Fruit Growers",
+      "Botanical Research Institute of Texas"
+    ]
+  },
+  {
+    "slug": "kalanchoe-luciae",
+    "common_name": "Paddle Plant (Flap Jacks, Desert Cabbage)",
+    "scientific_name": "Kalanchoe luciae",
+    "category": "flower",
+    "subcategory": "dramatic foliage succulent",
+    "days_to_germination": { "min": 14, "max": 30 },
+    "germination_soil_temp_f": { "min": 65, "max": 75 },
+    "days_to_maturity": { "min": 365, "max": 730 },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": { "min": 0, "max": 6 },
+      "note": "Propagate from offsets or leaf cuttings in very well-drained cactus mix; paddle plant develops the most intense red-orange leaf color when exposed to bright full sun and cool temperatures (below 50°F). In warm, shaded conditions the leaves remain mostly green. It is monocarpic — the rosette dies after flowering — but leaves numerous offsets before doing so."
+    },
+    "usda_zones": { "min": 9, "max": 11 },
+    "spacing_in": { "min": 12, "max": 18 },
+    "height_in": { "min": 12, "max": 24 },
+    "spread_in": { "min": 12, "max": 18 },
+    "sun": "full",
+    "water": "low",
+    "directions": "Grow in very well-drained, lean cactus mix in full sun; paddle plant is a dramatic South African succulent grown primarily for its extraordinary foliage — large, flat, rounded, paddle-shaped leaves arranged in a stacked, overlapping rosette pattern like a fan of stacked poker chips or a head of red-tinted cabbage, each leaf reaching 4–6 inches across. In full sun and cool temperatures, the leaves develop vivid, coral-red to orange-red margins and suffused coloring, with the intensity of red color directly proportional to sun and cold stress. In winter sun, the entire rosette can become a burning red-orange — one of the most dramatic color effects achievable with any succulent. The plant is monocarpic, producing a tall flower spike of tubular yellow flowers after several years of growth and then dying, but it generates offsets that continue the colony. Long confused with the similar K. thyrsiflora, which has yellow flowers and powdery-white leaf coatings — K. luciae has red-edged leaves and is the true 'paddle plant.' Excellent in containers, rock gardens, and succulent borders in zone 9–11.",
+    "sources": [
+      "Missouri Botanical Garden Plant Finder",
+      "Royal Horticultural Society",
+      "University of Florida IFAS Extension"
+    ]
+  }
+]
