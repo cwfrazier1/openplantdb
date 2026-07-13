@@ -1,0 +1,64 @@
+[
+  {
+    "slug": "portuguese-kale",
+    "common_name": "Portuguese Kale (Tronchuda Kale, Couve Tronchuda, Caldo Verde Cabbage)",
+    "scientific_name": "Brassica oleracea var. tronchuda",
+    "category": "vegetable",
+    "subcategory": "brassica",
+    "days_to_germination": {"min": 4, "max": 7},
+    "germination_soil_temp_f": {"min": 45, "max": 85},
+    "days_to_maturity": {"min": 60, "max": 90},
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": -8, "max": -6},
+      "note": "Start seed indoors 6–8 weeks before last frost for spring planting; for fall production in zones 7–10, direct sow or transplant 10–12 weeks before first fall frost."
+    },
+    "usda_zones": {"min": 6, "max": 10},
+    "spacing_in": {"min": 18, "max": 24},
+    "height_in": {"min": 18, "max": 30},
+    "spread_in": {"min": 18, "max": 30},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Start seed indoors 6–8 weeks before last frost and transplant to well-enriched, slightly acidic to neutral soil in full sun; Portuguese kale (couve tronchuda) forms large, loose heads with broad leaves featuring wide white midribs that are milder and more tender than common kale — both the leaf blades and the thick midribs are cooked, the midribs simmered until very tender in the traditional Portuguese soup caldo verde where the leaves are sliced into thin chiffonade with potatoes and chouriço. More heat-tolerant than most kales and excellent in zone 8–10 gardens where it can be grown nearly year-round; harvest leaves from the outside in, leaving the center growing point intact.",
+    "sources": [
+      "Cornell Cooperative Extension",
+      "University of Massachusetts Amherst Extension",
+      "USDA PLANTS Database"
+    ]
+  },
+  {
+    "slug": "pak-choi-rosette",
+    "common_name": "Rosette Pak Choi (Tai Sai, Flat Cabbage, Taisai)",
+    "scientific_name": "Brassica rapa var. rosularis",
+    "category": "vegetable",
+    "subcategory": "asian green",
+    "days_to_germination": {"min": 3, "max": 5},
+    "germination_soil_temp_f": {"min": 45, "max": 75},
+    "days_to_maturity": {"min": 45, "max": 70},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": -4, "max": -2},
+      "note": "Direct sow 2–4 weeks before last frost for spring crop; sow again in late summer (8–10 weeks before first fall frost) for fall crop; an excellent shade-tolerant spring and fall green."
+    },
+    "usda_zones": {"min": 3, "max": 10},
+    "spacing_in": {"min": 10, "max": 14},
+    "height_in": {"min": 6, "max": 10},
+    "spread_in": {"min": 10, "max": 14},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Direct sow seed 1/4 inch deep and thin to 10–12 inches when seedlings are 2 inches tall; rosette pak choi (tai sai) forms a distinctive flat, spreading rosette of dark green spoon-shaped leaves with broad white midribs — entirely different in shape from upright pak choi but equally tender and excellent in stir-fries, soups, and quick braises. The flat growth habit makes it wind-tolerant and very space-efficient as a cut-and-come-again crop or whole heads spaced wider for full size. Extremely fast to harvest at baby stage (25–30 days); cold-hardy to about 22°F and less bolt-prone than standard pak choi. Grows well in light shade, making it suitable for interplanting under taller crops in spring.",
+    "sources": [
+      "UC Davis Vegetable Research and Information Center",
+      "Cornell Cooperative Extension",
+      "Asian Vegetable Research and Development Center (AVRDC)"
+    ]
+  }
+]

@@ -1,0 +1,95 @@
+[
+  {
+    "slug": "boniato",
+    "common_name": "Boniato (White Sweet Potato, Cuban Sweet Potato, Batata)",
+    "scientific_name": "Ipomoea batatas 'Boniato'",
+    "category": "vegetable",
+    "subcategory": "sweet potato",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 90, "max": 120},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 2, "max": 4},
+      "note": "Plant slips (rooted cuttings) after last frost when soil is thoroughly warm above 65°F; boniato slips root readily; plant in well-mounded ridges for best tuber development and drainage."
+    },
+    "usda_zones": {"min": 8, "max": 12},
+    "spacing_in": {"min": 12, "max": 18},
+    "height_in": {"min": 12, "max": 18},
+    "spread_in": {"min": 48, "max": 72},
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant rooted slips in well-drained, sandy-loam, enriched ridges in full sun after last frost when soil is warm; boniato is the traditional sweet potato of Cuban, Caribbean, and Latin American cuisine, prized for its dry, fluffy, white to pale cream flesh that is less sweet, less moist, and more starchy than orange sweet potatoes — more similar in texture to a russet potato and much preferred in savory preparations. The skin is irregularly shaped, pinkish to light brown, and the plants are slightly more drought-tolerant than standard sweet potatoes. Excellent roasted, mashed, or fried; does not have the cloying sweetness that makes American orange sweet potatoes unsuitable for some savory applications. Stores well in a cool, dry location.",
+    "sources": [
+      "University of Florida IFAS Extension",
+      "Louisiana State University AgCenter",
+      "National Sweetpotato Collaborators Group"
+    ]
+  },
+  {
+    "slug": "okinawan-sweet-potato",
+    "common_name": "Okinawan Sweet Potato (Purple Sweet Potato, Hawaiian Purple Yam)",
+    "scientific_name": "Ipomoea batatas 'Okinawan'",
+    "category": "vegetable",
+    "subcategory": "sweet potato",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 100, "max": 130},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 2, "max": 4},
+      "note": "Plant slips in warm soil (above 65°F) after last frost; Okinawan purple sweet potato requires a longer growing season (100–130 days) than standard varieties — plant as early as possible in the season in the South."
+    },
+    "usda_zones": {"min": 8, "max": 12},
+    "spacing_in": {"min": 12, "max": 18},
+    "height_in": {"min": 12, "max": 18},
+    "spread_in": {"min": 48, "max": 72},
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant rooted slips in well-drained, loose, warm soil in full sun after last frost; Okinawan sweet potato has creamy-white skin concealing spectacularly vivid purple-violet flesh — the deep purple color comes from extremely high anthocyanin content (among the highest of any sweet potato), making it a genuine superfood with powerful antioxidant properties. The flavor is mildly sweet, slightly nutty, and drier than orange-flesh types; it is prized in Hawaiian cuisine (where it's called 'Hawaiian purple sweet potato'), Japanese cuisine, and modern farm-to-table cooking for its dramatic color that holds remarkably well through most cooking methods. Excellent roasted, steamed, in ice cream, and in colorful desserts.",
+    "sources": [
+      "University of Hawaii Cooperative Extension",
+      "Louisiana State University AgCenter",
+      "National Sweetpotato Collaborators Group"
+    ]
+  },
+  {
+    "slug": "vardaman-sweet-potato",
+    "common_name": "Vardaman Sweet Potato (Bush Porto Rico)",
+    "scientific_name": "Ipomoea batatas 'Vardaman'",
+    "category": "vegetable",
+    "subcategory": "sweet potato",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 85, "max": 110},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 2, "max": 4},
+      "note": "Plant slips in warm soil after last frost; Vardaman is an exceptionally compact sweet potato whose naturally short vines (24–30 inches) make it the best choice for small beds, containers, and home gardens with limited space."
+    },
+    "usda_zones": {"min": 6, "max": 11},
+    "spacing_in": {"min": 12, "max": 18},
+    "height_in": {"min": 6, "max": 12},
+    "spread_in": {"min": 24, "max": 36},
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant rooted slips in well-drained, sandy-loam soil in full sun after last frost when soil reaches 65°F; Vardaman is a compact, short-vined sweet potato (24–30 inch vines versus 6–10 feet for standard varieties) developed at Mississippi State University specifically for the home garden, where its restrained spread and ornamental purple foliage make it an attractive edible landscape plant. The orange-flesh tubers are typically smaller than commercial varieties but have excellent rich, sweet flavor and moist texture. An outstanding choice for container growing, raised beds, and small garden spaces where standard sweet potatoes would overwhelm their neighbors. Keeps well in storage and is the most popular sweet potato for the home garden in the southeastern United States.",
+    "sources": [
+      "Mississippi State University Extension",
+      "Louisiana State University AgCenter",
+      "National Sweetpotato Collaborators Group"
+    ]
+  }
+]

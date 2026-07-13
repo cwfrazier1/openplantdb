@@ -1,0 +1,127 @@
+[
+  {
+    "slug": "black-peppermint",
+    "common_name": "Black Peppermint (Strong Peppermint)",
+    "scientific_name": "Mentha x piperita f. piperita",
+    "category": "herb",
+    "subcategory": "culinary herb",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 60, "max": 90},
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 0, "max": 2},
+      "note": "Plant divisions or rooted cuttings after last frost in contained beds or pots — black peppermint spreads by vigorous underground runners and becomes invasive in open garden beds; contain with buried barriers or grow in submerged pots."
+    },
+    "usda_zones": {"min": 3, "max": 9},
+    "spacing_in": {"min": 12, "max": 18},
+    "height_in": {"min": 12, "max": 24},
+    "spread_in": {"min": 18, "max": 36},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Plant divisions in moderately moist, fertile soil in partial to full sun and contain spreading runners with buried barriers or grow in submerged pots; black peppermint (Mentha x piperita f. piperita) is distinguished from white peppermint by its dark purple-tinged stems and leaf margins, deeper green leaves, and significantly higher menthol content — the form prized for peppermint tea, essential oil production, and confections where strong clean menthol flavor is essential. Harvest stems just before flowering for maximum oil content, cutting back to 2–3 inches above ground to promote bushy regrowth; a second flush will come before frost. Divide every 2–3 years as older plants lose vigor.",
+    "sources": [
+      "University of Maryland Extension",
+      "North Carolina State Extension",
+      "Herb Society of America"
+    ]
+  },
+  {
+    "slug": "caraway-thyme",
+    "common_name": "Caraway Thyme (Sardinian Thyme)",
+    "scientific_name": "Thymus herba-barona",
+    "category": "herb",
+    "subcategory": "culinary herb",
+    "days_to_germination": {"min": 7, "max": 14},
+    "germination_soil_temp_f": {"min": 60, "max": 75},
+    "days_to_maturity": {"min": 60, "max": 90},
+    "maturity_from": "transplant",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": -2, "max": 0},
+      "note": "Direct sow or plant divisions and cuttings in spring; caraway thyme spreads by layering where stems contact soil, forming a dense weed-suppressing mat in time."
+    },
+    "usda_zones": {"min": 5, "max": 9},
+    "spacing_in": {"min": 12, "max": 18},
+    "height_in": {"min": 2, "max": 4},
+    "spread_in": {"min": 12, "max": 24},
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant in full sun in very well-drained, lean soil — excellent in rock gardens, paving cracks, and dry stone walls where other thymes excel; caraway thyme gets its distinctive name from the strong caraway-like aroma of its leaves, which contain carvone (the same compound that gives caraway seed its character), producing an anise-caraway fragrance quite unlike common thyme. This low-growing prostrate thyme from the mountains of Sardinia and Corsica forms a tight mat of tiny dark green leaves covered in small pink to pale lavender flowers in summer that are excellent for bees and other pollinators. Use fresh or dried in the same applications as caraway seed: potato dishes, sauerkraut, braised meats, and bread.",
+    "sources": [
+      "Royal Horticultural Society",
+      "Herb Society of America",
+      "University of California Cooperative Extension"
+    ]
+  },
+  {
+    "slug": "black-turmeric",
+    "common_name": "Black Turmeric (Blue Ginger, Kali Haldi)",
+    "scientific_name": "Curcuma caesia",
+    "category": "herb",
+    "subcategory": "rhizome herb",
+    "days_to_germination": {"min": 21, "max": 42},
+    "germination_soil_temp_f": {"min": 70, "max": 85},
+    "days_to_maturity": {"min": 270, "max": 365},
+    "maturity_from": "transplant",
+    "sow_method": "tuber",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Plant rhizome sections 2–3 inches deep after last frost when soil is warm; black turmeric goes dormant in winter — dig and store rhizomes above freezing in zones below 8."
+    },
+    "usda_zones": {"min": 8, "max": 12},
+    "spacing_in": {"min": 12, "max": 18},
+    "height_in": {"min": 18, "max": 30},
+    "spread_in": {"min": 12, "max": 18},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Plant rhizome divisions 2–3 inches deep in enriched, loose, moist, well-drained soil in partial shade once soil temperatures reach 65°F; black turmeric is a rare curcuma species from northeastern India with striking blue-gray to nearly black interior flesh in contrast to the familiar orange of common turmeric — the color derives from anthocyanins rather than curcuminoids. Prized primarily in Ayurvedic medicine and traditional tribal use in Odisha and Bengal as an anti-inflammatory and pain reliever; it is less a culinary spice than an important medicinal plant. The attractive large leaves with a dark maroon central midrib stripe make it highly ornamental as a shade garden subject. Lift rhizomes after foliage dies back in fall; store dry above 50°F.",
+    "sources": [
+      "Purdue University New Crops",
+      "USDA Agricultural Research Service",
+      "International Society for Horticultural Science"
+    ]
+  },
+  {
+    "slug": "white-turmeric",
+    "common_name": "White Turmeric (Zedoary, Wild Turmeric, Gajutphal)",
+    "scientific_name": "Curcuma zedoaria",
+    "category": "herb",
+    "subcategory": "rhizome herb",
+    "days_to_germination": {"min": 21, "max": 42},
+    "germination_soil_temp_f": {"min": 70, "max": 85},
+    "days_to_maturity": {"min": 270, "max": 365},
+    "maturity_from": "transplant",
+    "sow_method": "tuber",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Plant rhizome divisions 2–3 inches deep in spring after soil warms; goes fully dormant in winter and regrows reliably from stored rhizomes in zones 8–12."
+    },
+    "usda_zones": {"min": 8, "max": 12},
+    "spacing_in": {"min": 12, "max": 18},
+    "height_in": {"min": 24, "max": 48},
+    "spread_in": {"min": 18, "max": 24},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Plant in loose, well-drained, humus-rich soil in partial shade to full sun; white turmeric (zedoary) has white to pale yellow flesh with a complex camphoraceous, ginger-mango-like aroma and a peppery-bitter flavor quite different from yellow turmeric. An ancient spice from India and Southeast Asia, it was an important medieval European import and remains in use in Indonesian, Sri Lankan, and Japanese cuisines as well as Ayurvedic and Traditional Chinese medicine. Fresh rhizomes are sliced thin and eaten in salads, pickled, or used to flavor rice and curries; the dried powder gives a pale cream-yellow color to foods. The showy cone-like flower bracts are also used in tropical landscaping.",
+    "sources": [
+      "USDA Agricultural Research Service",
+      "Purdue New Crops",
+      "Duke's Handbook of Medicinal Herbs",
+      "University of Florida IFAS Extension"
+    ]
+  }
+]

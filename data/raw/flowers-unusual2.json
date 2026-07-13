@@ -1,0 +1,126 @@
+[
+  {
+    "slug": "kiss-me-garden-gate",
+    "common_name": "Kiss-me-over-the-Garden-Gate (Prince's Feather, Oriential Lady's Thumb)",
+    "scientific_name": "Persicaria orientalis",
+    "category": "flower",
+    "subcategory": "annual",
+    "days_to_germination": {"min": 7, "max": 14},
+    "germination_soil_temp_f": {"min": 65, "max": 75},
+    "days_to_maturity": {"min": 70, "max": 90},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 0, "max": 2},
+      "note": "Direct sow after last frost; self-sows vigorously and will return year after year without replanting in mild climates — one of the easiest cottage garden annuals to establish."
+    },
+    "usda_zones": {"min": 3, "max": 10},
+    "spacing_in": {"min": 18, "max": 36},
+    "height_in": {"min": 48, "max": 84},
+    "spread_in": {"min": 18, "max": 30},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Direct sow seed on the soil surface after last frost — seed needs light to germinate; kiss-me-over-the-garden-gate is a tall, stately Victorian cottage garden annual that produces long, drooping chains of tiny rose-pink to deep crimson button-like flowers from summer until frost, creating a graceful, old-fashioned effect among dahlias, zinnias, and other cottage favorites. It grows very tall (5–7 feet) and may need staking in exposed sites; allow it to lean into neighboring plants as it does in traditional cottage borders. Self-sows prolifically once established, returning reliably each summer. The large, slightly hairy leaves and dramatic arching flower chains also attract butterflies and bees.",
+    "sources": [
+      "American Horticultural Society",
+      "Royal Horticultural Society",
+      "USDA PLANTS Database"
+    ]
+  },
+  {
+    "slug": "evening-stock",
+    "common_name": "Evening Stock (Night-Scented Stock, Perfume Plant)",
+    "scientific_name": "Matthiola longipetala",
+    "category": "flower",
+    "subcategory": "annual",
+    "days_to_germination": {"min": 7, "max": 14},
+    "germination_soil_temp_f": {"min": 55, "max": 65},
+    "days_to_maturity": {"min": 45, "max": 60},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": -4, "max": -2},
+      "note": "Direct sow in early spring 2–4 weeks before last frost; also sow in fall in zones 8–10 for winter bloom; evening stock closes its flowers during the day — plant near windows, patios, or pathways where fragrance is appreciated at dusk."
+    },
+    "usda_zones": {"min": 4, "max": 10},
+    "spacing_in": {"min": 6, "max": 9},
+    "height_in": {"min": 12, "max": 18},
+    "spread_in": {"min": 6, "max": 9},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Direct sow on the soil surface or barely covered in early spring in cool, well-drained, slightly alkaline to neutral soil in full sun; evening stock is grown almost entirely for its intense, sweet, clove-like fragrance that fills the air at dusk and into the night when the small pale purple to white flowers open. Unlike the showy daytime stocks (Matthiola incana), evening stock has modest flowers that close and appear wilted by day — plant it where fragrance matters more than visual impact: beside paths, under windows, or in containers near sitting areas. An outstanding companion to evening gardens, moon gardens, or any planting designed for after-dark enjoyment. Sow in succession every 3–4 weeks for continuous fragrance.",
+    "sources": [
+      "Royal Horticultural Society",
+      "American Horticultural Society",
+      "Ball Seed Company Grower's Guide"
+    ]
+  },
+  {
+    "slug": "cattail",
+    "common_name": "Common Cattail (Broadleaf Cattail)",
+    "scientific_name": "Typha latifolia",
+    "category": "vegetable",
+    "subcategory": "aquatic edible",
+    "days_to_germination": {"min": 7, "max": 21},
+    "germination_soil_temp_f": {"min": 60, "max": 75},
+    "days_to_maturity": {"min": 365, "max": 730},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Plant rhizome divisions in early spring in shallow water or saturated soil at the edge of a pond, stream, or rain garden; cattail is highly invasive in open water — plant only in contained garden ponds or where spread can be managed."
+    },
+    "usda_zones": {"min": 3, "max": 10},
+    "spacing_in": {"min": 18, "max": 36},
+    "height_in": {"min": 48, "max": 96},
+    "spread_in": {"min": 18, "max": 36},
+    "sun": "full",
+    "water": "high",
+    "directions": "Plant rhizome divisions or seeds in saturated soil or up to 12 inches of standing water in full sun; common cattail is one of the most comprehensively edible native plants in North America, with nearly every part edible at different seasons: the tender white shoots in spring are eaten like asparagus, the immature green female flower spikes can be boiled and eaten like corn on the cob in late spring, the golden pollen is collected in early summer and used as a flour supplement, and the starchy rhizomes can be processed into flour year-round. The familiar brown hotdog-shaped seed heads are iconic in wetland and rain gardens. Spreads aggressively by rhizome — grow in contained pond pockets or regularly remove rhizomes from the margins to prevent dominance.",
+    "sources": [
+      "USDA PLANTS Database",
+      "Sam Thayer — Nature's Garden",
+      "Lady Bird Johnson Wildflower Center"
+    ]
+  },
+  {
+    "slug": "gopher-apple",
+    "common_name": "Gopher Apple (Ground Oak)",
+    "scientific_name": "Geobalanus oblongifolius",
+    "category": "berry",
+    "subcategory": "native ground cover shrub",
+    "days_to_germination": {"min": 30, "max": 90},
+    "germination_soil_temp_f": {"min": 65, "max": 80},
+    "days_to_maturity": {"min": 730, "max": 1825},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Plant container-grown specimens in very well-drained, sandy, acidic soil; gopher apple has a very deep taproot system and resents transplanting — plant young container stock and avoid disturbing once established."
+    },
+    "usda_zones": {"min": 8, "max": 11},
+    "spacing_in": {"min": 24, "max": 48},
+    "height_in": {"min": 4, "max": 8},
+    "spread_in": {"min": 24, "max": 48},
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant in very well-drained, sandy, infertile, acidic soil in full sun — gopher apple is native to the xeric scrub and dry pinelands of the southeastern coastal plain and is exceptionally drought-tolerant, thriving on soils too poor and dry for most plants. The small, low-growing shrub produces white apple-like edible fruits about 1 inch long that are sweet and mild when fully ripe, eaten by gopher tortoises (for which the plant is named), bears, deer, and other wildlife. A critically important food source for gopher tortoises in Florida. Spreads slowly via an extensive root system; once established, this tough native is essentially maintenance-free. Excellent for butterfly gardens and native scrub restorations in the deep South.",
+    "sources": [
+      "University of Florida IFAS Extension",
+      "Florida Native Plant Society",
+      "USDA PLANTS Database"
+    ]
+  }
+]

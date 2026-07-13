@@ -1,0 +1,64 @@
+[
+  {
+    "slug": "red-dragon-fruit",
+    "common_name": "Red Dragon Fruit (Costa Rica Pitaya, Red-Flesh Pitahaya)",
+    "scientific_name": "Selenicereus costaricensis",
+    "category": "fruit",
+    "subcategory": "tropical cactus fruit",
+    "days_to_germination": {"min": 7, "max": 14},
+    "germination_soil_temp_f": {"min": 75, "max": 85},
+    "days_to_maturity": {"min": 365, "max": 730},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Root stem cuttings 12–18 inches long in well-drained sandy mix in warm conditions; red dragon fruit requires cross-pollination from a different plant or variety — hand-pollinate large night-blooming flowers with a brush."
+    },
+    "usda_zones": {"min": 10, "max": 12},
+    "spacing_in": {"min": 120, "max": 180},
+    "height_in": {"min": 60, "max": 120},
+    "spread_in": {"min": 60, "max": 120},
+    "sun": "full",
+    "water": "low",
+    "directions": "Root stem cuttings in gritty, well-drained cactus mix and grow in full sun with a sturdy trellis or post for the sprawling succulent stems to climb; red-flesh dragon fruit (Selenicereus costaricensis) is distinguished from the common white-flesh variety by its dramatically vivid magenta-red flesh with a sweeter, more pronounced flavor and significantly higher antioxidant content (including betalains that turn urine temporarily pink). The spectacular dinner-plate-sized white flowers open for only one night and must be hand-pollinated in gardens outside the tropics. Fruits follow 30–50 days after successful pollination and ripen to striking deep red skin. Drought-tolerant once established; overwatering is the most common cause of decline.",
+    "sources": [
+      "University of Florida IFAS Extension",
+      "Purdue University Tropical Fruit Crops",
+      "California Rare Fruit Growers Association"
+    ]
+  },
+  {
+    "slug": "yellow-pitahaya",
+    "common_name": "Yellow Dragon Fruit (Yellow Pitahaya, Cactus Pear Pitaya)",
+    "scientific_name": "Selenicereus megalanthus",
+    "category": "fruit",
+    "subcategory": "tropical cactus fruit",
+    "days_to_germination": {"min": 7, "max": 14},
+    "germination_soil_temp_f": {"min": 75, "max": 85},
+    "days_to_maturity": {"min": 365, "max": 730},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Root stem cuttings in well-drained cactus mix in warm conditions; yellow pitahaya is self-fertile — a single plant will set fruit without hand pollination, unlike most other dragon fruit species."
+    },
+    "usda_zones": {"min": 10, "max": 12},
+    "spacing_in": {"min": 120, "max": 180},
+    "height_in": {"min": 60, "max": 120},
+    "spread_in": {"min": 60, "max": 120},
+    "sun": "full",
+    "water": "low",
+    "directions": "Root stem cuttings in gritty, well-drained cactus mix and grow on a strong post or trellis in full sun; yellow pitahaya is considered by many tasters to be the sweetest and most flavorful dragon fruit — its white interior flesh with tiny edible black seeds is measurably higher in sugar than red or white-flesh types, with a rich, tropical, almost honey-like sweetness and no bitterness. The fruits have yellow, spiny (not scaly) skin without the prominent pink 'scales' of other types. A significant advantage over other dragon fruits: yellow pitahaya is self-fertile and does not require hand pollination or a second plant to set abundant crops. Grows slower than Selenicereus undatus but the superior flavor makes it the most prized of the dragon fruit species.",
+    "sources": [
+      "Purdue University Tropical Fruit Crops",
+      "University of Florida IFAS Extension",
+      "California Rare Fruit Growers Association"
+    ]
+  }
+]

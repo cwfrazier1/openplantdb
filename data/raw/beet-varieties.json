@@ -1,0 +1,95 @@
+[
+  {
+    "slug": "bull-blood-beet",
+    "common_name": "Bull's Blood Beet",
+    "scientific_name": "Beta vulgaris 'Bull's Blood'",
+    "category": "vegetable",
+    "subcategory": "beet",
+    "days_to_germination": {"min": 5, "max": 10},
+    "germination_soil_temp_f": {"min": 50, "max": 85},
+    "days_to_maturity": {"min": 35, "max": 70},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": -6, "max": -4},
+      "note": "Direct sow 4–6 weeks before last frost; harvest baby greens at 35 days and roots at 65–70 days; baby Bull's Blood greens are among the most prized microgreens and salad additions for their stunning color and mild flavor."
+    },
+    "usda_zones": {"min": 3, "max": 10},
+    "spacing_in": {"min": 3, "max": 4},
+    "height_in": {"min": 8, "max": 14},
+    "spread_in": {"min": 6, "max": 10},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Soak multi-seeded beet 'seed balls' in water for 1 hour, then direct sow 1/2 inch deep, thinning to 3–4 inches; Bull's Blood is a historic heirloom (documented in the 1840s) prized primarily for its extraordinarily deep burgundy-maroon foliage that is strikingly ornamental in the garden and border. The young leaves are harvested as microgreens (20–25 days) and baby salad greens (30–40 days) with a mild, earthy-sweet beet flavor; the mature roots are medium-sized with deep red flesh and a good flavor, though many gardeners grow it primarily as a leafy green. An exceptional dual-purpose ornamental and edible beet.",
+    "sources": [
+      "Seed Savers Exchange",
+      "Baker Creek Heirloom Seeds",
+      "Cornell Cooperative Extension"
+    ]
+  },
+  {
+    "slug": "mangel-beet",
+    "common_name": "Mangel-Wurzel (Mangold, Stock Beet, Field Beet)",
+    "scientific_name": "Beta vulgaris subsp. vulgaris var. crassa",
+    "category": "vegetable",
+    "subcategory": "storage beet",
+    "days_to_germination": {"min": 5, "max": 10},
+    "germination_soil_temp_f": {"min": 50, "max": 85},
+    "days_to_maturity": {"min": 90, "max": 120},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": -4, "max": -2},
+      "note": "Direct sow after last frost in a deep, loose seedbed; mangel-wurzel produces very large roots (5–20 lbs) requiring deep, stone-free soil to develop properly; widely adapted to poor soils and drought conditions."
+    },
+    "usda_zones": {"min": 3, "max": 9},
+    "spacing_in": {"min": 8, "max": 12},
+    "height_in": {"min": 18, "max": 30},
+    "spread_in": {"min": 12, "max": 18},
+    "sun": "full",
+    "water": "low",
+    "directions": "Direct sow seed 1/2 inch deep in deeply worked, loose, fertile to moderately fertile soil after last frost; mangel-wurzel is a large-rooted beet developed in Europe for winter livestock feed and human food in times of scarcity, producing enormous roots (up to 20 lbs) with reddish-yellow or white flesh that stores through winter in a root cellar. Young leaves are edible as greens, and the roots (when young, under 3 lbs) can be cooked and eaten like regular beets with a slightly coarser, starchier flavor. Of growing interest to market gardeners, homesteaders, and traditional food preservers for its extraordinary storage qualities and very high yields per square foot.",
+    "sources": [
+      "Seed Savers Exchange",
+      "Baker Creek Heirloom Seeds",
+      "Cornell Cooperative Extension"
+    ]
+  },
+  {
+    "slug": "rainbow-chard",
+    "common_name": "Rainbow Chard (Five-Color Silverbeet)",
+    "scientific_name": "Beta vulgaris var. cicla 'Rainbow'",
+    "category": "vegetable",
+    "subcategory": "swiss chard",
+    "days_to_germination": {"min": 5, "max": 10},
+    "germination_soil_temp_f": {"min": 50, "max": 85},
+    "days_to_maturity": {"min": 55, "max": 65},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": -4, "max": -2},
+      "note": "Direct sow 2–4 weeks before last frost or direct sow again in late summer for fall crop; rainbow chard is biennial but grown as an annual; one of the most ornamental edible garden plants suitable for flower borders as well as vegetable beds."
+    },
+    "usda_zones": {"min": 6, "max": 10},
+    "spacing_in": {"min": 6, "max": 12},
+    "height_in": {"min": 18, "max": 30},
+    "spread_in": {"min": 12, "max": 18},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Direct sow seed 1/2 inch deep in fertile, well-drained, slightly alkaline to neutral soil, thinning to 6–12 inches; rainbow chard is a mixture of white, yellow, orange, red, and vivid pink-stemmed chard varieties grown together, producing an exceptional display of color in the garden while providing the same mild, earthy leaves as single-colored chard. The stems of different colors have slightly different flavor intensities (red-stemmed are earthier, white-stemmed milder) but all are equally nutritious and versatile in cooking. Harvest outer leaves regularly to keep plants productive for months. An outstanding cut-and-come-again green for the productive ornamental garden.",
+    "sources": [
+      "Seed Savers Exchange",
+      "Johnny's Selected Seeds",
+      "Cornell Cooperative Extension"
+    ]
+  }
+]

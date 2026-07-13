@@ -1,0 +1,95 @@
+[
+  {
+    "slug": "salak",
+    "common_name": "Salak (Snake Fruit, Sala)",
+    "scientific_name": "Salacca zalacca",
+    "category": "fruit",
+    "subcategory": "tropical palm fruit",
+    "days_to_germination": {"min": 30, "max": 60},
+    "germination_soil_temp_f": {"min": 80, "max": 90},
+    "days_to_maturity": {"min": 1095, "max": 1825},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Plant in frost-free, humid tropical conditions with deep, moist, well-drained, slightly acidic soil; salak is a clumping spiny palm — plant male and female plants together for fruiting, or obtain a hermaphroditic variety."
+    },
+    "usda_zones": {"min": 10, "max": 12},
+    "spacing_in": {"min": 120, "max": 180},
+    "height_in": {"min": 60, "max": 120},
+    "spread_in": {"min": 120, "max": 180},
+    "sun": "partial",
+    "water": "high",
+    "directions": "Plant in deep, moist, humus-rich, well-drained, slightly acidic soil in partial shade in frost-free tropical conditions; salak (snake fruit) is a dramatic spiny clustering palm from Indonesia and Malaysia producing clusters of pear-shaped fruits with distinctive reddish-brown scaly skin that closely resembles a snake's skin — hence the common name. The fruit has three lobes of crisp, dry, sweet-acidic flesh (texture somewhat like a dry apple) with a complex flavor variously described as sweet, astringent, honey-like, and reminiscent of cinnamon, varying considerably by variety. The most prized variety is 'Salak Bali' from Bali. High humidity and consistent moisture are essential; this is one of the most challenging tropical fruits to grow outside its native range.",
+    "sources": [
+      "Purdue University Tropical Fruit Crops",
+      "FAO",
+      "USDA Agricultural Research Service"
+    ]
+  },
+  {
+    "slug": "chocolate-sapote",
+    "common_name": "Black Sapote (Chocolate Pudding Fruit)",
+    "scientific_name": "Diospyros digyna",
+    "category": "fruit",
+    "subcategory": "tropical fruit tree",
+    "days_to_germination": {"min": 14, "max": 30},
+    "germination_soil_temp_f": {"min": 75, "max": 85},
+    "days_to_maturity": {"min": 1095, "max": 1825},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Plant in frost-free conditions with well-drained soil; black sapote is more drought-tolerant than many tropical fruits once established and tolerates mild neglect in zone 10 conditions."
+    },
+    "usda_zones": {"min": 10, "max": 12},
+    "spacing_in": {"min": 180, "max": 240},
+    "height_in": {"min": 180, "max": 360},
+    "spread_in": {"min": 120, "max": 240},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in full sun in well-drained, moderately fertile soil in frost-free conditions; black sapote produces tomato-sized fruits with thin green skin that turns olive-yellow at full ripeness, concealing soft black pulp with a rich, sweet, chocolate-like flavor that famously resembles chocolate pudding — often eaten directly from the skin with a spoon. A relative of persimmons, it must be completely soft before eating; hard fruits are extremely astringent. Excellent used in smoothies, ice cream, mousses, and as a low-fat substitute for chocolate in baked goods. Trees are moderately fast-growing and begin bearing 3–5 years from transplant; an outstanding conversation piece and genuinely delicious tropical fruit for zone 10–12 gardens.",
+    "sources": [
+      "Purdue University Tropical Fruit Crops",
+      "University of Florida IFAS Extension",
+      "California Rare Fruit Growers Association"
+    ]
+  },
+  {
+    "slug": "water-caltrop",
+    "common_name": "Water Caltrop (Bat Nut, Water Chestnut of Europe)",
+    "scientific_name": "Trapa natans",
+    "category": "vegetable",
+    "subcategory": "aquatic edible",
+    "days_to_germination": {"min": 7, "max": 14},
+    "germination_soil_temp_f": {"min": 65, "max": 75},
+    "days_to_maturity": {"min": 90, "max": 120},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 2, "max": 4},
+      "note": "Drop nuts into still, shallow water (1–6 feet deep) after last frost; water caltrop is invasive in many US states and banned in several — check local regulations before planting; grow only in contained garden ponds where escape into natural waterways is prevented."
+    },
+    "usda_zones": {"min": 5, "max": 10},
+    "spacing_in": {"min": 18, "max": 24},
+    "height_in": {"min": 1, "max": 2},
+    "spread_in": {"min": 12, "max": 24},
+    "sun": "full",
+    "water": "high",
+    "directions": "Place fresh nuts in shallow, still water in full sun after last frost; water caltrop is a floating aquatic annual with attractive diamond-shaped floating leaves and distinctive 4-horned nut fruits (resembling a bat or medieval caltrop weapon) that have been consumed in Asia and Europe since the Neolithic period. The large starchy nuts are boiled, roasted, or eaten raw and have a pleasant chestnut-like flavor; they are still commonly sold in Chinese, Japanese, and South Asian markets. Listed as invasive in many US states due to rapid spread and choking of natural waterways — only cultivate in well-contained, sealed garden ponds from which fruits are thoroughly collected to prevent seed escape. Historically important in China, where it is among the most ancient cultivated aquatic crops.",
+    "sources": [
+      "USDA PLANTS Database",
+      "FAO",
+      "Cornell Cooperative Extension"
+    ]
+  }
+]

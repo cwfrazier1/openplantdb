@@ -1,0 +1,127 @@
+[
+  {
+    "slug": "white-plumeria",
+    "common_name": "White Plumeria (Frangipani, White Frangipani)",
+    "scientific_name": "Plumeria alba",
+    "category": "flower",
+    "subcategory": "tropical flowering tree",
+    "days_to_germination": {"min": 7, "max": 21},
+    "germination_soil_temp_f": {"min": 75, "max": 85},
+    "days_to_maturity": {"min": 365, "max": 1095},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Root cuttings 12–18 inches long in dry, gritty mix — allow cut ends to callus for 1–2 weeks before planting; grows readily as a container plant brought indoors in frost-prone areas."
+    },
+    "usda_zones": {"min": 10, "max": 12},
+    "spacing_in": {"min": 120, "max": 180},
+    "height_in": {"min": 120, "max": 240},
+    "spread_in": {"min": 120, "max": 180},
+    "sun": "full",
+    "water": "low",
+    "directions": "Root branch cuttings (allow cut ends to callus for 1–2 weeks) in gritty, very well-drained soil in full sun in frost-free conditions; white plumeria (Plumeria alba) is the species native to the Caribbean and Puerto Rico, prized for its narrow leaves and pure white flowers with a yellow eye that are intensely fragrant with a sweet, tropical, honeysuckle-like scent. The flowers are the classic blooms used to make Hawaiian leis and Indian garlands (gajra). Grows as a deciduous to semi-deciduous shrubby tree in the tropics and subtropics; in zone 10 it loses its leaves during the cool dry season but is cold-sensitive and damaged below 32°F. Extremely drought-tolerant and resistant to most pests once established. An iconic tropical ornamental suited to containers for gardeners in cooler zones.",
+    "sources": [
+      "University of Florida IFAS Extension",
+      "University of Hawaii Cooperative Extension",
+      "USDA PLANTS Database"
+    ]
+  },
+  {
+    "slug": "jojoba",
+    "common_name": "Jojoba (Goatnut, Deer Nut, Pignut)",
+    "scientific_name": "Simmondsia chinensis",
+    "category": "fruit",
+    "subcategory": "desert shrub",
+    "days_to_germination": {"min": 14, "max": 30},
+    "germination_soil_temp_f": {"min": 70, "max": 85},
+    "days_to_maturity": {"min": 1095, "max": 1825},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Plant male and female plants for seed production; approximately one male per five females suffices for cross-pollination by wind; jojoba grows best in hot, dry desert conditions and resents overwatering."
+    },
+    "usda_zones": {"min": 8, "max": 11},
+    "spacing_in": {"min": 120, "max": 180},
+    "height_in": {"min": 48, "max": 180},
+    "spread_in": {"min": 60, "max": 180},
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant in full sun in very well-drained, sandy to loamy desert soil; jojoba is a remarkable desert shrub native to the Sonoran Desert of Arizona, California, and Mexico whose seeds produce a liquid wax (not technically an oil) used extensively in cosmetics, pharmaceuticals, and lubricants as a spermaceti whale-oil substitute. The seeds are edible but contain a waxy compound (simmondsin) that causes nausea if eaten in quantity; indigenous peoples roasted or ground them into a paste. The shrub is among the most drought-tolerant woody plants in North America, surviving on 10 inches of rainfall annually, and provides important cover and food for desert wildlife. Excellent for erosion control and dryland restoration in zone 8–11.",
+    "sources": [
+      "University of Arizona Cooperative Extension",
+      "USDA Agricultural Research Service",
+      "California Rare Fruit Growers Association"
+    ]
+  },
+  {
+    "slug": "terebinth",
+    "common_name": "Terebinth (Turpentine Tree, Cyprus Terebinth)",
+    "scientific_name": "Pistacia terebinthus",
+    "category": "fruit",
+    "subcategory": "Mediterranean shrub/tree",
+    "days_to_germination": {"min": 30, "max": 90},
+    "germination_soil_temp_f": {"min": 55, "max": 70},
+    "days_to_maturity": {"min": 1825, "max": 3650},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Plant in well-drained, alkaline to neutral, rocky or sandy soil in full sun; terebinth is extremely drought-tolerant once established and grows slowly but lives for centuries in the wild."
+    },
+    "usda_zones": {"min": 7, "max": 11},
+    "spacing_in": {"min": 120, "max": 240},
+    "height_in": {"min": 96, "max": 240},
+    "spread_in": {"min": 120, "max": 240},
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant in full sun in well-drained, calcareous to neutral, poor to moderately fertile soil; terebinth is an ancient Mediterranean tree whose small red fruits (similar to tiny pistachios) have been consumed since prehistoric times and are still eaten in Greece and Turkey, where they are roasted, ground into a coffee-like drink, used to flavor spirits, and pickled in brine. The tree also historically yielded the original terebinth resin (turpentine) used in ancient medicine and as a paint vehicle. Closely related to the pistachio (Pistacia vera) and sometimes used as a pistachio rootstock. Extremely drought-adapted, thriving on poor limestone hillsides where little else will grow. The autumn foliage turns brilliant red before leaf drop.",
+    "sources": [
+      "Royal Botanic Gardens Kew",
+      "FAO Mediterranean Forest Trees",
+      "USDA PLANTS Database",
+      "Plants for a Future Database"
+    ]
+  },
+  {
+    "slug": "maqui",
+    "common_name": "Maqui (Chilean Wineberry, Maqui Berry)",
+    "scientific_name": "Aristotelia chilensis",
+    "category": "berry",
+    "subcategory": "Chilean native shrub",
+    "days_to_germination": {"min": 14, "max": 30},
+    "germination_soil_temp_f": {"min": 60, "max": 70},
+    "days_to_maturity": {"min": 730, "max": 1460},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Plant in moist, fertile, well-drained soil in full sun to partial shade; maqui is dioecious — plant both male and female shrubs for fruit production, or purchase self-fertile cultivars."
+    },
+    "usda_zones": {"min": 8, "max": 11},
+    "spacing_in": {"min": 72, "max": 120},
+    "height_in": {"min": 72, "max": 180},
+    "spread_in": {"min": 60, "max": 120},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Plant in moist, well-drained, fertile, slightly acidic soil in full sun to partial shade; maqui berry is a Chilean native shrub prized for its small, intensely purple-black berries with the highest reported anthocyanin content of any known berry — significantly higher than acai, blueberries, or pomegranates, giving it extraordinary antioxidant properties. The berries have a pleasant sweet-tart flavor with herbal overtones; they are eaten fresh, made into juice, jams, and wine, and used extensively in Mapuche traditional medicine. It grows naturally in the coastal and Andean ranges of Chile and Argentina, tolerating mild frost, and adapts to a Mediterranean climate with dry summers. An emerging superfood crop with increasing commercial cultivation in Chile.",
+    "sources": [
+      "University of Chile Faculty of Pharmacy",
+      "Purdue University New Crops",
+      "USDA Agricultural Research Service"
+    ]
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "slug": "filbert",
+    "common_name": "Filbert (Giant Filbert, Lambert's Filbert)",
+    "scientific_name": "Corylus maxima",
+    "category": "fruit",
+    "subcategory": "deciduous nut shrub",
+    "days_to_germination": {"min": 90, "max": 180},
+    "germination_soil_temp_f": {"min": 35, "max": 45},
+    "days_to_maturity": {"min": 730, "max": 1825},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Plant bare-root stock in early spring while dormant, or container-grown plants any time in the growing season; plant at least two different varieties or seedlings for cross-pollination, as filberts are largely self-infertile."
+    },
+    "usda_zones": {"min": 4, "max": 8},
+    "spacing_in": {"min": 120, "max": 180},
+    "height_in": {"min": 96, "max": 180},
+    "spread_in": {"min": 96, "max": 180},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in deep, well-drained, slightly acidic to neutral soil in full sun, spacing at least 10–15 feet from other plants to allow for the naturally wide-spreading form; filbert (Corylus maxima) is the large-fruited European hazelnut, distinguished from Corylus avellana by its longer tubular husk that completely encloses the nut, and is the parent of many named cultivars including 'Butler', 'Ennis', and 'Tonda di Giffoni'. A multi-stemmed deciduous shrub that bears pollen-heavy catkins in late winter while fully dormant — one of the earliest signs of spring — with small red pistillate flowers that require wind cross-pollination from a second genetically distinct plant to set nuts. Harvest when husks begin to brown and nuts release easily; dry in a single layer before storage to prevent mold.",
+    "sources": [
+      "Oregon State University Extension Service",
+      "University of California Cooperative Extension",
+      "USDA PLANTS Database"
+    ]
+  },
+  {
+    "slug": "allegheny-chinkapin",
+    "common_name": "Allegheny Chinkapin (Eastern Chinkapin)",
+    "scientific_name": "Castanea pumila",
+    "category": "fruit",
+    "subcategory": "native nut shrub",
+    "days_to_germination": {"min": 30, "max": 90},
+    "germination_soil_temp_f": {"min": 40, "max": 55},
+    "days_to_maturity": {"min": 730, "max": 1825},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Plant in early spring; fresh seed should be cold-moist stratified for 60–90 days and planted immediately — viability drops quickly on drying; a single plant is self-fertile, unlike many hybrid chestnuts."
+    },
+    "usda_zones": {"min": 5, "max": 9},
+    "spacing_in": {"min": 120, "max": 240},
+    "height_in": {"min": 96, "max": 240},
+    "spread_in": {"min": 96, "max": 180},
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant in well-drained, slightly acidic, sandy to loamy soil in full sun; the Allegheny chinkapin is the smaller native cousin of the American chestnut and is fully resistant to chestnut blight (Cryphonectria parasitica) — making it an irreplaceable food plant in regions where the American chestnut was eliminated. It produces small but richly flavored sweet nuts enclosed in a spiny bur, just one nut per bur (unlike 2–3 per bur in true chestnuts); they are superb eaten raw or roasted. Forms a thicket-like shrub to small tree via root-sprouting and is heavily used by deer, turkeys, and squirrels as mast. Best performance is on well-drained, acidic upland soils; heavy or wet soils cause decline.",
+    "sources": [
+      "USDA Forest Service",
+      "University of Tennessee Extension",
+      "American Chestnut Foundation",
+      "USDA PLANTS Database"
+    ]
+  },
+  {
+    "slug": "shellbark-hickory",
+    "common_name": "Shellbark Hickory (Big Shellbark, Kingnut Hickory)",
+    "scientific_name": "Carya laciniosa",
+    "category": "fruit",
+    "subcategory": "deciduous nut tree",
+    "days_to_germination": {"min": 90, "max": 180},
+    "germination_soil_temp_f": {"min": 40, "max": 55},
+    "days_to_maturity": {"min": 1825, "max": 3650},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {"min": -8, "max": -4},
+      "note": "Plant fresh nuts 1–2 inches deep in fall immediately after collection for natural stratification; container-grown trees may be planted in spring; shellbark hickory develops a very deep taproot and transplants poorly — choose the planting site carefully."
+    },
+    "usda_zones": {"min": 5, "max": 8},
+    "spacing_in": {"min": 360, "max": 480},
+    "height_in": {"min": 480, "max": 900},
+    "spread_in": {"min": 360, "max": 600},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in deep, moist but well-drained bottomland or alluvial soil in full sun, allowing ample space for this eventually massive tree; shellbark hickory bears the largest nuts of any hickory — up to 2.5 inches wide — with a rich, sweet, buttery flavor prized as the finest native hickory nut. It is a slow-growing but very long-lived bottomland tree of river floodplains; young trees may require 5–10 years before setting significant crops, but established trees become reliable producers for 150 years or more. The bark develops characteristic loose, curling, shaggy plates even more pronounced than shagbark hickory. Plant in deep organic-rich soil with consistent moisture; drought stress in the first few seasons significantly delays establishment and nut production.",
+    "sources": [
+      "USDA Forest Service Silvics Manual",
+      "Missouri Botanical Garden Plant Finder",
+      "USDA PLANTS Database",
+      "Northern Nut Growers Association"
+    ]
+  },
+  {
+    "slug": "hachiya-persimmon",
+    "common_name": "Hachiya Persimmon",
+    "scientific_name": "Diospyros kaki 'Hachiya'",
+    "category": "fruit",
+    "subcategory": "deciduous fruit tree",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 1095, "max": 1825},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Plant bare-root or container-grown trees in early spring in well-drained, slightly acidic soil; Hachiya must be completely soft and jelly-like before eating — firm Hachiya fruits contain high soluble tannins and are intensely astringent."
+    },
+    "usda_zones": {"min": 7, "max": 10},
+    "spacing_in": {"min": 180, "max": 240},
+    "height_in": {"min": 180, "max": 360},
+    "spread_in": {"min": 180, "max": 240},
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant in full sun in well-drained, slightly acidic to neutral soil; Hachiya is the classic large acorn-shaped astringent Japanese persimmon, with deeply orange 6–12 oz fruits harvested in late October and November that must fully soften (bleten) to jelly-like consistency before eating — frozen overnight or left on the counter for 1–3 weeks achieves this, producing a rich honeyed, spiced flavor. Excellent for making Japanese dried persimmon (hoshigaki), baked goods, puddings, and purées. Trees are remarkably drought-tolerant once established, require minimal spraying, and bear reliably in warm temperate to subtropical gardens — one of the most rewarding and lowest-maintenance fruit trees for zones 7–10.",
+    "sources": [
+      "University of California Cooperative Extension",
+      "USDA Agricultural Research Service",
+      "California Rare Fruit Growers Association"
+    ]
+  }
+]

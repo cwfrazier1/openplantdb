@@ -1,0 +1,159 @@
+[
+  {
+    "slug": "huauzontle",
+    "common_name": "Huauzontle (Mexican Tree Spinach, Aztec Broccoli)",
+    "scientific_name": "Chenopodium berlandieri",
+    "category": "vegetable",
+    "subcategory": "ancient grain and leaf vegetable",
+    "days_to_germination": {"min": 5, "max": 10},
+    "germination_soil_temp_f": {"min": 60, "max": 75},
+    "days_to_maturity": {"min": 60, "max": 90},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 0, "max": 2},
+      "note": "Direct sow after last frost once soil warms above 60°F; huauzontle self-sows vigorously in warm climates — deadhead plants you do not want to naturalize."
+    },
+    "usda_zones": {"min": 8, "max": 12},
+    "spacing_in": {"min": 12, "max": 18},
+    "height_in": {"min": 24, "max": 60},
+    "spread_in": {"min": 12, "max": 24},
+    "sun": "full",
+    "water": "low",
+    "directions": "Direct sow on the soil surface or barely covered after last frost in well-drained to average soil in full sun; huauzontle is a wild relative of lamb's quarters domesticated by the Aztecs and still a traditional food in Mexico, where the dense broccoli-like seed heads are harvested while still immature and green, dipped in egg batter, and fried in a fritter-like style, or simmered in tomato sauce. The young leaves are also excellent cooked like spinach. Highly drought-tolerant and heat-loving, it thrives in the same conditions as corn and requires little irrigation once established. Harvest seed heads while green and before seeds begin to harden for best eating quality; allow a few plants to set seed to guarantee a self-sowing colony.",
+    "sources": [
+      "USDA Agricultural Research Service",
+      "Native Seeds/SEARCH",
+      "Cornell Cooperative Extension"
+    ]
+  },
+  {
+    "slug": "bambara-groundnut",
+    "common_name": "Bambara Groundnut (Ground Bean, Njugo Bean)",
+    "scientific_name": "Vigna subterranea",
+    "category": "vegetable",
+    "subcategory": "legume",
+    "days_to_germination": {"min": 7, "max": 14},
+    "germination_soil_temp_f": {"min": 65, "max": 85},
+    "days_to_maturity": {"min": 120, "max": 180},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 0, "max": 2},
+      "note": "Direct sow after last frost when soil temperature exceeds 65°F; like peanuts, the flowers bend downward and developing pods push underground to mature — grow in loose, easily penetrated, well-drained soil."
+    },
+    "usda_zones": {"min": 9, "max": 12},
+    "spacing_in": {"min": 8, "max": 12},
+    "height_in": {"min": 12, "max": 18},
+    "spread_in": {"min": 18, "max": 24},
+    "sun": "full",
+    "water": "low",
+    "directions": "Sow seeds 1–2 inches deep after last frost in loose, sandy to loamy, well-drained soil in full sun; bambara groundnut is a West African staple legume that forms its nutritious pods underground after pollination — a fascinating growth habit that requires loose, easily penetrated soil for the gynophore (pod peg) to bury itself. The seeds contain 19–21% protein and 40–65% carbohydrate with a nutty, slightly sweet flavor; they are boiled fresh or dried for storage, ground into flour, or fermented into condiments. Among the most drought-tolerant and heat-tolerant legumes in cultivation, outperforming cowpeas and soybeans on poor dry soils where other legumes fail while fixing nitrogen and improving soil structure.",
+    "sources": [
+      "FAO",
+      "USDA Agricultural Research Service",
+      "International Center for Tropical Agriculture (CIAT)"
+    ]
+  },
+  {
+    "slug": "bladder-campion",
+    "common_name": "Bladder Campion (Maidenstears)",
+    "scientific_name": "Silene vulgaris",
+    "category": "vegetable",
+    "subcategory": "edible wild herb",
+    "days_to_germination": {"min": 7, "max": 14},
+    "germination_soil_temp_f": {"min": 60, "max": 70},
+    "days_to_maturity": {"min": 60, "max": 90},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": -4, "max": -2},
+      "note": "Direct sow in early spring or fall; bladder campion self-sows freely once established and naturalizes readily in meadow conditions."
+    },
+    "usda_zones": {"min": 3, "max": 9},
+    "spacing_in": {"min": 12, "max": 18},
+    "height_in": {"min": 12, "max": 24},
+    "spread_in": {"min": 12, "max": 18},
+    "sun": "full",
+    "water": "low",
+    "directions": "Direct sow in early spring or fall in poor to moderately fertile, well-drained, preferably neutral to slightly alkaline soil in full sun; bladder campion is a European native naturalized throughout North America that has long been eaten in Mediterranean countries — particularly Italy and Spain — where the young spring shoots and leaves are gathered and cooked like asparagus or used raw in salads, with a flavor often described as fresh, pea-like, and slightly peppery. The inflated silvery-white balloon-like calyx is highly ornamental, and white five-petaled deeply notched flowers appear from late spring through fall with an evening fragrance. Naturalizes readily in dry meadows and borders and is fully drought-tolerant once established.",
+    "sources": [
+      "Plants for a Future Database",
+      "Botanical Journal of the Linnean Society",
+      "Euro+Med Plantbase Project",
+      "University of California Jepson Herbarium"
+    ]
+  },
+  {
+    "slug": "wood-nettle",
+    "common_name": "Wood Nettle (Canada Wood Nettle)",
+    "scientific_name": "Laportea canadensis",
+    "category": "vegetable",
+    "subcategory": "wild edible herb",
+    "days_to_germination": {"min": 7, "max": 14},
+    "germination_soil_temp_f": {"min": 55, "max": 65},
+    "days_to_maturity": {"min": 30, "max": 60},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": -6, "max": -2},
+      "note": "Sow in early spring in moist shaded conditions; wood nettle spreads aggressively by both seed and rhizome in suitable conditions — plant where naturalization is acceptable or confine in raised beds."
+    },
+    "usda_zones": {"min": 3, "max": 8},
+    "spacing_in": {"min": 18, "max": 24},
+    "height_in": {"min": 24, "max": 48},
+    "spread_in": {"min": 18, "max": 30},
+    "sun": "shade",
+    "water": "moderate",
+    "directions": "Sow seed in early spring in consistently moist, fertile, slightly acidic soil in dappled shade to full shade — the natural habitat is rich woodland floodplains and stream banks; wood nettle bears stinging hairs on both stems and leaves that are completely deactivated by cooking, making the young leaves and stem tips harvested before flowering excellent when boiled, steamed, or sautéed, with a flavor comparable to stinging nettle but perhaps more delicate. Rich in iron, calcium, and vitamins. An important larval host plant for the red admiral butterfly (Vanessa atalanta). Always handle with gloves to avoid stinging; once wilted by heat or drying, all sting is gone.",
+    "sources": [
+      "USDA PLANTS Database",
+      "Moerman's Native American Ethnobotany Database",
+      "Lady Bird Johnson Wildflower Center",
+      "University of Michigan Ethnobotany Project"
+    ]
+  },
+  {
+    "slug": "purple-shiso",
+    "common_name": "Purple Shiso (Red Perilla, Aka Shiso)",
+    "scientific_name": "Perilla frutescens var. purpurascens",
+    "category": "herb",
+    "subcategory": "culinary herb",
+    "days_to_germination": {"min": 7, "max": 14},
+    "germination_soil_temp_f": {"min": 65, "max": 75},
+    "days_to_maturity": {"min": 60, "max": 90},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 0, "max": 2},
+      "note": "Press seed onto surface without covering — light aids germination; requires fresh seed as viability drops sharply after one season; self-sows freely once established."
+    },
+    "usda_zones": {"min": 8, "max": 12},
+    "spacing_in": {"min": 12, "max": 18},
+    "height_in": {"min": 18, "max": 36},
+    "spread_in": {"min": 12, "max": 18},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Press seed onto the soil surface without covering (light aids germination) after last frost in fertile, moist, well-drained soil in full sun to partial shade; purple shiso is the red-leafed cultivar group of perilla, with deep burgundy leaves essential in Japanese pickling — umeboshi (pickled plum) gets its characteristic pink-red color and complex flavor from red shiso leaves layered with the salted plums. The entire plant is strongly aromatic, blending mint, anise, and basil; in Korean cuisine the leaves (kkaennip) are used to wrap grilled meats or pickled in soy sauce. Allowed to flower and set seed, it self-sows freely and returns each summer; use leaves whole or finely chiffonaded.",
+    "sources": [
+      "University of California Cooperative Extension",
+      "Cornell Cooperative Extension Asian Vegetable Project",
+      "National Association for the Specialty Food Trade"
+    ]
+  }
+]

@@ -1,0 +1,157 @@
+[
+  {
+    "slug": "nantes-carrot",
+    "common_name": "Nantes Carrot (Half-Long Nantes, Scarlet Nantes)",
+    "scientific_name": "Daucus carota 'Nantes'",
+    "category": "vegetable",
+    "subcategory": "carrot",
+    "days_to_germination": {"min": 10, "max": 21},
+    "germination_soil_temp_f": {"min": 45, "max": 75},
+    "days_to_maturity": {"min": 65, "max": 70},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": -6, "max": -4},
+      "note": "Direct sow 4–6 weeks before last frost in loose, deep, stone-free soil; Nantes-type carrots are virtually coreless and have a nearly cylindrical shape that requires deep loose soil — break up any compaction to 12 inches before sowing."
+    },
+    "usda_zones": {"min": 3, "max": 10},
+    "spacing_in": {"min": 2, "max": 3},
+    "height_in": {"min": 10, "max": 14},
+    "spread_in": {"min": 2, "max": 3},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Sow seed 1/4 inch deep in loose, deep, stone-free, well-drained soil in full sun, thinning to 2–3 inches when 2 inches tall; Nantes is the most widely grown home garden carrot type, originating in Nantes, France — producing 6–7 inch, blunt-tipped, cylindrical carrots with remarkably sweet, crisp, virtually coreless flesh and thin skin that doesn't require peeling. The standard against which other home garden carrots are judged for flavor and tenderness. Requires loose, deep, stone-free soil for best shape; rocky or compacted soils produce forked, stunted roots. Excellent raw, steamed, or roasted; also one of the best for juicing.",
+    "sources": [
+      "Seed Savers Exchange",
+      "Cornell Cooperative Extension",
+      "Johnny's Selected Seeds"
+    ]
+  },
+  {
+    "slug": "chantenay-carrot",
+    "common_name": "Chantenay Carrot (Red Cored Chantenay)",
+    "scientific_name": "Daucus carota 'Chantenay'",
+    "category": "vegetable",
+    "subcategory": "carrot",
+    "days_to_germination": {"min": 10, "max": 21},
+    "germination_soil_temp_f": {"min": 45, "max": 75},
+    "days_to_maturity": {"min": 65, "max": 75},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": -6, "max": -4},
+      "note": "Direct sow 4–6 weeks before last frost; Chantenay is the best carrot for heavy clay soils or stony ground where long varieties would fork or fail — the short, broad shape reaches full size in difficult soil conditions."
+    },
+    "usda_zones": {"min": 3, "max": 10},
+    "spacing_in": {"min": 2, "max": 3},
+    "height_in": {"min": 10, "max": 14},
+    "spread_in": {"min": 2, "max": 4},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Sow seed 1/4 inch deep in any well-drained soil in full sun, thinning to 2–3 inches; Chantenay is the ideal carrot for difficult clay or stony soils where standard longer varieties fork and struggle — the squat, broad-shouldered, 4–6 inch roots with wide tops and tapered tips develop fully in heavy or shallow soils that prevent the growth of Nantes or Imperator types. Despite being originally bred for difficult soils, Chantenay has excellent rich flavor and high sugar content, with crisp orange flesh and a traditional carrot taste. Perfect for canning, juicing, and storage; the broad shoulders and high shoulder content also make it efficient to harvest.",
+    "sources": [
+      "Seed Savers Exchange",
+      "Cornell Cooperative Extension",
+      "Baker Creek Heirloom Seeds"
+    ]
+  },
+  {
+    "slug": "imperator-carrot",
+    "common_name": "Imperator Carrot (Long Imperator)",
+    "scientific_name": "Daucus carota 'Imperator'",
+    "category": "vegetable",
+    "subcategory": "carrot",
+    "days_to_germination": {"min": 10, "max": 21},
+    "germination_soil_temp_f": {"min": 45, "max": 75},
+    "days_to_maturity": {"min": 75, "max": 85},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": -6, "max": -4},
+      "note": "Direct sow 4–6 weeks before last frost in very deep (14–16 inches), loose, stone-free soil; Imperator-type carrots require excellent soil preparation — any stones or compaction causes forking; raised beds filled with light, sandy loam are ideal."
+    },
+    "usda_zones": {"min": 3, "max": 10},
+    "spacing_in": {"min": 2, "max": 3},
+    "height_in": {"min": 12, "max": 16},
+    "spread_in": {"min": 2, "max": 3},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Sow seed 1/4 inch deep in very deeply prepared, loose, stone-free soil in full sun, thinning to 2–3 inches; Imperator is the long, slender carrot of the grocery store — 8–10 inches long with a tapered tip, thin skin, high sugar content, and the satisfying snap of commercial carrots eaten fresh from supermarkets. It requires deep, perfectly loose, stone-free soil to reach full size without forking; raised beds with sandy loam are ideal. The flavor of home-grown Imperators freshly harvested is dramatically better than commercial versions; the high sugar content makes them outstanding for juicing, fresh eating, and the carrot sticks in lunch boxes.",
+    "sources": [
+      "Seed Savers Exchange",
+      "Cornell Cooperative Extension",
+      "Johnny's Selected Seeds"
+    ]
+  },
+  {
+    "slug": "purple-haze-carrot",
+    "common_name": "Purple Haze Carrot",
+    "scientific_name": "Daucus carota 'Purple Haze'",
+    "category": "vegetable",
+    "subcategory": "carrot",
+    "days_to_germination": {"min": 10, "max": 21},
+    "germination_soil_temp_f": {"min": 45, "max": 75},
+    "days_to_maturity": {"min": 70, "max": 80},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": -6, "max": -4},
+      "note": "Direct sow 4–6 weeks before last frost; purple color develops best in cool conditions — fall-harvested roots have deeper color than spring-harvested ones."
+    },
+    "usda_zones": {"min": 3, "max": 10},
+    "spacing_in": {"min": 2, "max": 3},
+    "height_in": {"min": 12, "max": 16},
+    "spread_in": {"min": 2, "max": 3},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Sow seed 1/4 inch deep in loose, deep, well-drained soil in full sun, thinning to 2–3 inches; Purple Haze is an All-America Selection Edible Vegetable winner with striking purple-skinned, orange-fleshed 10-inch carrots that turn purple skin orange when cooked (the purple color fades with heat), with slightly higher anthocyanin content than orange carrots. When eaten raw, the purple exterior provides both visual drama and a hint of earthiness that complements the sweet orange interior. Excellent for rainbow carrot mixes, farmers markets, and home gardens looking for an unusual and conversation-starting variety with genuinely good flavor.",
+    "sources": [
+      "All-America Selections",
+      "Seed Savers Exchange",
+      "Johnny's Selected Seeds"
+    ]
+  },
+  {
+    "slug": "solar-yellow-carrot",
+    "common_name": "Solar Yellow Carrot",
+    "scientific_name": "Daucus carota 'Solar Yellow'",
+    "category": "vegetable",
+    "subcategory": "carrot",
+    "days_to_germination": {"min": 10, "max": 21},
+    "germination_soil_temp_f": {"min": 45, "max": 75},
+    "days_to_maturity": {"min": 65, "max": 70},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": -6, "max": -4},
+      "note": "Direct sow 4–6 weeks before last frost; yellow carrots retain their color both raw and cooked, making them visually distinctive in soups, roasted vegetable dishes, and salads."
+    },
+    "usda_zones": {"min": 3, "max": 10},
+    "spacing_in": {"min": 2, "max": 3},
+    "height_in": {"min": 12, "max": 16},
+    "spread_in": {"min": 2, "max": 3},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Sow seed 1/4 inch deep in loose, deep, well-drained soil in full sun, thinning to 2–3 inches; Solar Yellow is a bright lemon-yellow carrot with Nantes-type cylindrical shape and excellent flavor — somewhat milder and less earthy than orange carrots with a clean, slightly sweet taste and better carotene stability (it holds its yellow color both raw and when cooked, unlike purple carrots that fade to orange). Rich in xanthophylls rather than beta-carotene, with distinct nutritional benefits associated with yellow pigments. An excellent variety for multicolored carrot mixes alongside orange, purple, red, and white types for maximum visual and nutritional diversity.",
+    "sources": [
+      "Seed Savers Exchange",
+      "Baker Creek Heirloom Seeds",
+      "Cornell Cooperative Extension"
+    ]
+  }
+]

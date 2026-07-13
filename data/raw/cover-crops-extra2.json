@@ -1,0 +1,95 @@
+[
+  {
+    "slug": "rose-clover",
+    "common_name": "Rose Clover",
+    "scientific_name": "Trifolium hirtum",
+    "category": "cover-crop",
+    "subcategory": "clover",
+    "days_to_germination": {"min": 5, "max": 10},
+    "germination_soil_temp_f": {"min": 45, "max": 65},
+    "days_to_maturity": {"min": 120, "max": 180},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {"min": -10, "max": -6},
+      "note": "Sow in fall in California and similar Mediterranean climates for winter growth; rose clover is a winter annual that must establish before temperatures drop below 25°F; inoculate seed with Rhizobium leguminosarum biovar. trifolii before sowing."
+    },
+    "usda_zones": {"min": 7, "max": 10},
+    "spacing_in": {"min": 1, "max": 2},
+    "height_in": {"min": 8, "max": 18},
+    "spread_in": {"min": 6, "max": 12},
+    "sun": "full",
+    "water": "low",
+    "directions": "Broadcast seed in fall at 8–12 lbs per acre into a firm seedbed in well-drained, moderately fertile soil in full sun; rose clover is a Mediterranean annual clover widely used in California, Texas, and the Pacific Northwest as a winter cover crop and pasture legume, valued especially for its tolerance of dry, poor, acidic soils where other clovers fail. It fixes significant amounts of atmospheric nitrogen, reseeds itself reliably from hard seed, and is exceptionally drought-tolerant through its summer dormant period as seeds await fall rains. The fuzzy rose-pink to red flower heads attract bees. Mow or turn under at early bloom for maximum nitrogen contribution before the seeds mature.",
+    "sources": [
+      "University of California Cooperative Extension",
+      "USDA Natural Resources Conservation Service",
+      "Sustainable Agriculture Research and Education (SARE)"
+    ]
+  },
+  {
+    "slug": "lana-woolypod-vetch",
+    "common_name": "Lana Woolypod Vetch",
+    "scientific_name": "Vicia villosa var. varia",
+    "category": "cover-crop",
+    "subcategory": "vetch",
+    "days_to_germination": {"min": 5, "max": 10},
+    "germination_soil_temp_f": {"min": 40, "max": 65},
+    "days_to_maturity": {"min": 150, "max": 210},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {"min": -10, "max": -6},
+      "note": "Sow in fall for best performance; lana woolypod vetch establishes quickly and fixes nitrogen through winter; inoculate with appropriate Rhizobium; often mixed with oats or cereal rye for a combined cover crop."
+    },
+    "usda_zones": {"min": 6, "max": 10},
+    "spacing_in": {"min": 1, "max": 2},
+    "height_in": {"min": 24, "max": 60},
+    "spread_in": {"min": 12, "max": 24},
+    "sun": "full",
+    "water": "low",
+    "directions": "Broadcast or drill seed at 20–30 lbs per acre (or mix 10 lbs vetch with 40 lbs cereal rye) in early fall in well-drained to average soil; lana woolypod vetch is a smooth-leafed variety of woolypod vetch developed at UC Davis, with less hairiness than hairy vetch (Vicia villosa) and greater heat tolerance, making it better suited to California valleys and Gulf Coast winters. It fixes 80–150 lbs of nitrogen per acre in a good stand, produces abundant biomass for soil incorporation, and smothers winter weeds effectively. Mow and incorporate at early bloom (before pods form) for maximum nitrogen release. The attractive purple-blue flowers support foraging bees through late winter.",
+    "sources": [
+      "University of California Cooperative Extension",
+      "USDA Natural Resources Conservation Service",
+      "Sustainable Agriculture Research and Education (SARE)"
+    ]
+  },
+  {
+    "slug": "cahaba-vetch",
+    "common_name": "Cahaba White Vetch",
+    "scientific_name": "Vicia sativa subsp. nigra",
+    "category": "cover-crop",
+    "subcategory": "vetch",
+    "days_to_germination": {"min": 5, "max": 10},
+    "germination_soil_temp_f": {"min": 40, "max": 65},
+    "days_to_maturity": {"min": 120, "max": 180},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {"min": -10, "max": -6},
+      "note": "Sow in early fall for Southeast US; Cahaba White Vetch establishes readily and is one of the best vetches for the warm-winter Southeast where hairy vetch may be less reliable."
+    },
+    "usda_zones": {"min": 6, "max": 10},
+    "spacing_in": {"min": 1, "max": 2},
+    "height_in": {"min": 18, "max": 36},
+    "spread_in": {"min": 12, "max": 18},
+    "sun": "full",
+    "water": "low",
+    "directions": "Drill or broadcast at 25–35 lbs per acre in early fall in well-drained, moderately fertile soil in full sun; Cahaba White Vetch is a common vetch selection developed specifically for the southeastern United States, offering faster establishment, better tolerance of mild winters, and more consistent performance than hairy vetch in zones 7–9. It fixes substantial nitrogen (50–100 lbs per acre in a good stand), produces good biomass for soil incorporation, and the white to pale lavender flowers provide late-winter nectar for early bees. Mow or disk before pods form to preserve nitrogen and prevent volunteers; the flat-lying growth habit makes it an excellent smother crop for winter weed suppression.",
+    "sources": [
+      "University of Georgia Cooperative Extension",
+      "Auburn University Extension",
+      "USDA Natural Resources Conservation Service"
+    ]
+  }
+]

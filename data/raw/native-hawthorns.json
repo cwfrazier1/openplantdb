@@ -1,0 +1,157 @@
+[
+  {
+    "slug": "pineapple-mayhaw",
+    "common_name": "Pineapple Mayhaw (Western Mayhaw, Opaca Hawthorn)",
+    "scientific_name": "Crataegus opaca",
+    "category": "fruit",
+    "subcategory": "native fruit tree",
+    "days_to_germination": {"min": 90, "max": 180},
+    "germination_soil_temp_f": {"min": 40, "max": 60},
+    "days_to_maturity": {"min": 1095, "max": 1825},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 8},
+      "note": "Plant container-grown or bare-root trees in spring in moist, acidic, poorly-drained or average soil; pineapple mayhaw is adapted to wet, acidic bottomland soils of the Gulf Coast and Gulf States, producing the largest mayhaw fruits of all native species — up to 1 inch in diameter with a distinctive pineapple-like aroma."
+    },
+    "usda_zones": {"min": 6, "max": 9},
+    "spacing_in": {"min": 120, "max": 240},
+    "height_in": {"min": 120, "max": 240},
+    "spread_in": {"min": 96, "max": 180},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in full sun in moist to wet, acidic soil — this tree tolerates periodic flooding better than most fruit trees and thrives in Gulf Coast bottomland conditions; pineapple mayhaw (Crataegus opaca) produces the largest fruits of all native mayhaws — round, bright red, 1-inch berries with a distinctive fruity, pineapple-like aroma that distinguishes it from the more common Eastern mayhaw (Crataegus aestivalis). The tart, cranberry-like berries ripen in April–May and are prized across the Deep South for mayhaw jelly, syrup, and wine; an excellent crop in zones 6–9 Gulf Coast gardens. Largely overlooked by commercial horticulture despite the outstanding jelly quality; a critical food source for wildlife including cedar waxwings, mockingbirds, and wood ducks.",
+    "sources": [
+      "Texas A&M AgriLife Extension",
+      "Louisiana State University AgCenter",
+      "Native Plant Society of Texas"
+    ]
+  },
+  {
+    "slug": "downy-hawthorn",
+    "common_name": "Downy Hawthorn (Large-Fruited Hawthorn, Red Haw)",
+    "scientific_name": "Crataegus mollis",
+    "category": "fruit",
+    "subcategory": "native fruit tree",
+    "days_to_germination": {"min": 90, "max": 180},
+    "germination_soil_temp_f": {"min": 40, "max": 60},
+    "days_to_maturity": {"min": 1825, "max": 3650},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 8},
+      "note": "Plant balled-and-burlapped or container-grown specimens in spring in full sun in any well-drained to moist soil; downy hawthorn is one of the largest-fruited native hawthorns, producing deep red to orange-red fruits nearly 1 inch in diameter — much larger than most other hawthorn species."
+    },
+    "usda_zones": {"min": 3, "max": 8},
+    "spacing_in": {"min": 180, "max": 300},
+    "height_in": {"min": 180, "max": 360},
+    "spread_in": {"min": 180, "max": 300},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in full sun to light shade in any fertile, well-drained to moist soil; downy hawthorn (Crataegus mollis) is among the largest-fruited native hawthorns in the eastern United States, producing abundant clusters of large, red-orange fruits (haws) nearly 3/4 to 1 inch across in late summer — far more substantial than most hawthorn species — that are suitable for making jelly, jam, and fruit leather with a pleasant, apple-like flavor. The tree itself is large and spreading with downy (hairy) leaves and branchlets and spectacular white flowers in spring. An outstanding wildlife tree providing critical food for over 100 species of birds and mammals, and exceptional browse habitat for deer and rabbits. The thorny branches also provide nesting protection for songbirds.",
+    "sources": [
+      "USDA Forest Service",
+      "Morton Arboretum",
+      "Plants for a Future"
+    ]
+  },
+  {
+    "slug": "chinese-quince",
+    "common_name": "Chinese Quince (Chinese Flowering Quince)",
+    "scientific_name": "Pseudocydonia sinensis",
+    "category": "fruit",
+    "subcategory": "ornamental fruit tree",
+    "days_to_germination": {"min": 30, "max": 60},
+    "germination_soil_temp_f": {"min": 45, "max": 65},
+    "days_to_maturity": {"min": 1825, "max": 3650},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 8},
+      "note": "Plant container-grown specimens in spring in full sun in well-drained, moderately fertile soil; Chinese quince is a spectacular small ornamental tree with beautiful exfoliating bark, large quince-like fruits, and vivid fall color — it is more cold-tolerant and more tree-like than flowering quince (Chaenomeles), reaching 15–20 feet."
+    },
+    "usda_zones": {"min": 5, "max": 9},
+    "spacing_in": {"min": 120, "max": 180},
+    "height_in": {"min": 120, "max": 240},
+    "spread_in": {"min": 96, "max": 180},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in full sun in well-drained, fertile soil; Chinese quince (Pseudocydonia sinensis) is a small ornamental tree related to quince and pear but in its own monotypic genus, producing magnificent exfoliating bark (flaking in irregular puzzle-piece patches of green, cream, and tan like a camouflage pattern), beautiful pale pink spring flowers, and large, 6-inch, yellow, pear-shaped fruits in autumn with a powerful quince-like fragrance that fills a room. The fruits are too astringent to eat raw but make outstanding jelly, paste (membrillo), and syrup; the trees are also spectacular in fall when the leaves turn brilliant orange, red, and yellow. One of the most ornamentally distinguished small trees available for zones 5–9, combining beautiful bark, flowers, fruit, and fall color in a single specimen.",
+    "sources": [
+      "Royal Horticultural Society",
+      "Morton Arboretum",
+      "Plants for a Future"
+    ]
+  },
+  {
+    "slug": "purple-chokeberry",
+    "common_name": "Purple Chokeberry (Hybrid Chokeberry)",
+    "scientific_name": "Aronia prunifolia",
+    "category": "fruit",
+    "subcategory": "native berry shrub",
+    "days_to_germination": {"min": 30, "max": 90},
+    "germination_soil_temp_f": {"min": 40, "max": 60},
+    "days_to_maturity": {"min": 365, "max": 730},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 8},
+      "note": "Plant container or bare-root specimens in spring in any moist to wet, acidic soil; purple chokeberry adapts to a wider range of conditions than either black or red chokeberry, including full shade, wet soils, and dry periods once established. Spreads slowly by suckering."
+    },
+    "usda_zones": {"min": 3, "max": 9},
+    "spacing_in": {"min": 48, "max": 72},
+    "height_in": {"min": 60, "max": 120},
+    "spread_in": {"min": 48, "max": 72},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Plant in partial shade to full sun in moist, acidic, well-drained to wet soil; purple chokeberry (Aronia prunifolia) is a naturally occurring hybrid between black chokeberry (Aronia melanocarpa) and red chokeberry (Aronia arbutifolia), often found growing where the two parent species overlap. The dark purple to purple-black berries are intermediate in size and flavor between the parent species, with very high anthocyanin content (among the highest of any berry), strong tart-bitter flavor excellent for juices, jams, and wine, and exceptional antioxidant properties that have driven significant commercial interest. The shrub offers year-round interest: white flowers in spring, dark glossy leaves in summer, brilliant red to purple fall color, and persistent berries attractive to birds through winter.",
+    "sources": [
+      "USDA Plants Database",
+      "University of Maine Cooperative Extension",
+      "Plants for a Future"
+    ]
+  },
+  {
+    "slug": "saskatoon",
+    "common_name": "Saskatoon (Serviceberry, Western Serviceberry, Pacific Serviceberry)",
+    "scientific_name": "Amelanchier alnifolia",
+    "category": "fruit",
+    "subcategory": "native berry shrub",
+    "days_to_germination": {"min": 30, "max": 90},
+    "germination_soil_temp_f": {"min": 40, "max": 55},
+    "days_to_maturity": {"min": 365, "max": 730},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 8},
+      "note": "Plant container or bare-root specimens in spring; saskatoon is the prairie serviceberry of western Canada and the northern Great Plains, adapted to cold, dry, alkaline to neutral soils — it tolerates pH up to 7.5 and drought far better than eastern serviceberry species."
+    },
+    "usda_zones": {"min": 2, "max": 7},
+    "spacing_in": {"min": 48, "max": 72},
+    "height_in": {"min": 60, "max": 180},
+    "spread_in": {"min": 60, "max": 120},
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant in full sun to light shade in well-drained, neutral to slightly alkaline, moderately fertile soil; saskatoon (Amelanchier alnifolia) is the primary serviceberry of the Great Plains and Canadian prairies, producing abundant clusters of sweet, blueberry-flavored, dark purple berries in June that have been one of the most important food plants of the North American plains — used fresh, dried, and in pemmican by indigenous peoples including the Cree, Assiniboine, and Blackfoot, and now commercially cultivated across western Canada as 'saskatoon berries' for pies, jams, and wine. One of the most cold-hardy edible berry shrubs available, surviving to -40°F. Named cultivars including 'Thiessen', 'Smoky', and 'Martin' produce particularly large, sweet fruits. An outstanding prairie food-forest plant and edible landscape shrub.",
+    "sources": [
+      "University of Saskatchewan Extension",
+      "Alberta Agriculture and Forestry",
+      "Northern Nut Growers Association"
+    ]
+  }
+]

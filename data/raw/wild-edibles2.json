@@ -1,0 +1,158 @@
+[
+  {
+    "slug": "ground-elder",
+    "common_name": "Ground Elder (Goutweed, Bishop's Weed, Herb Gerard)",
+    "scientific_name": "Aegopodium podagraria",
+    "category": "vegetable",
+    "subcategory": "wild edible herb",
+    "days_to_germination": {"min": 14, "max": 28},
+    "germination_soil_temp_f": {"min": 55, "max": 65},
+    "days_to_maturity": {"min": 30, "max": 60},
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "CAUTION — ground elder is one of the most aggressive garden weeds in North America and Europe; once established it is nearly impossible to eradicate; only plant in buried containers or completely isolated beds, and choose the variegated form 'Variegatum' which is less invasive."
+    },
+    "usda_zones": {"min": 3, "max": 9},
+    "spacing_in": {"min": 12, "max": 18},
+    "height_in": {"min": 12, "max": 24},
+    "spread_in": {"min": 18, "max": 36},
+    "sun": "shade",
+    "water": "moderate",
+    "directions": "Plant only in buried containers with solid bottoms, or in walled raised beds with no soil contact — ground elder spreads by deeply rooted, tenacious rhizomes that regenerate from small fragments and are nearly impossible to eradicate once established in open soil. Despite this invasive tendency, it is a genuinely useful shade edible: young spring leaves have a pleasant, lightly celery-like, slightly peppery flavor and have been eaten across Europe and Asia since medieval times, used in salads, soups, and as a potherb. The variegated form 'Variegatum' with cream-edged leaves is less vigorous and a better garden choice. For foragers, it is easily identified in spring before any other look-alikes emerge.",
+    "sources": [
+      "Royal Horticultural Society",
+      "Plants for a Future Database",
+      "Robin Wall Kimmerer — Braiding Sweetgrass"
+    ]
+  },
+  {
+    "slug": "cow-parsley",
+    "common_name": "Cow Parsley (Wild Chervil, Queen Anne's Lace Look-alike)",
+    "scientific_name": "Anthriscus sylvestris",
+    "category": "vegetable",
+    "subcategory": "wild edible herb",
+    "days_to_germination": {"min": 14, "max": 28},
+    "germination_soil_temp_f": {"min": 45, "max": 60},
+    "days_to_maturity": {"min": 60, "max": 90},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {"min": -6, "max": -2},
+      "note": "CRITICAL WARNING — cow parsley closely resembles poison hemlock (Conium maculatum) and other toxic umbellifers; never harvest or eat any plant in this family unless you are 100% certain of identification; consult multiple expert references before consuming."
+    },
+    "usda_zones": {"min": 3, "max": 9},
+    "spacing_in": {"min": 12, "max": 18},
+    "height_in": {"min": 24, "max": 48},
+    "spread_in": {"min": 12, "max": 24},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Sow seed in fall for natural stratification in moist, fertile soil at woodland edges, shaded borders, or hedgerow margins in partial shade; cow parsley is a widespread European biennial or short-lived perennial with frothy white umbel flowers that naturalize readily in hedgerows and woodland margins. Young stems and leaves have a pleasant, mild parsley-carrot flavor and have been eaten in Britain and Europe as a spring potherb, in salads, and cooked as a vegetable. Despite its culinary history, extreme caution is warranted: cow parsley closely resembles the deadly poison hemlock (Conium maculatum) and water hemlock (Cicuta species); even experienced foragers have been poisoned by misidentification. Learn positive identification from multiple authoritative sources before ever considering consumption.",
+    "sources": [
+      "Plants for a Future Database",
+      "Royal Horticultural Society",
+      "Sam Thayer — The Forager's Harvest"
+    ]
+  },
+  {
+    "slug": "blue-elder",
+    "common_name": "Blue Elderberry (Blue Elder, Western Elderberry)",
+    "scientific_name": "Sambucus nigra subsp. cerulea",
+    "category": "berry",
+    "subcategory": "native deciduous shrub",
+    "days_to_germination": {"min": 30, "max": 90},
+    "germination_soil_temp_f": {"min": 40, "max": 55},
+    "days_to_maturity": {"min": 730, "max": 1460},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Root hardwood cuttings in late winter or softwood cuttings in early summer; plant in moist, fertile soil in a position sheltered from desiccating winds; blue elderberry tolerates more drought than eastern elderberry."
+    },
+    "usda_zones": {"min": 4, "max": 9},
+    "spacing_in": {"min": 120, "max": 180},
+    "height_in": {"min": 60, "max": 240},
+    "spread_in": {"min": 60, "max": 180},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in fertile, well-drained to moderately moist soil in full sun to partial shade; blue elderberry is the western counterpart to eastern black elderberry, native from British Columbia to New Mexico, producing large flat-topped clusters (corymbs) of tiny white flowers followed by abundant powder-blue to nearly black fruits with a distinctive waxy blue bloom. The berries are somewhat sweeter and milder than eastern elderberry and were a major food plant for over 50 indigenous nations of the Pacific Coast and interior West — eaten fresh (ripe only), dried, made into jam, syrup, wine, and elderflower cordial. Like eastern elderberry, unripe or raw berries can cause nausea; cook before eating in quantity. An exceptional wildlife plant and one of the most productive native fruiting shrubs.",
+    "sources": [
+      "USDA PLANTS Database",
+      "University of California Cooperative Extension",
+      "Oregon State University Extension",
+      "Lady Bird Johnson Wildflower Center"
+    ]
+  },
+  {
+    "slug": "sweet-rocket",
+    "common_name": "Sweet Rocket (Dame's Rocket, Dame's Violet)",
+    "scientific_name": "Hesperis matronalis",
+    "category": "flower",
+    "subcategory": "biennial",
+    "days_to_germination": {"min": 7, "max": 14},
+    "germination_soil_temp_f": {"min": 55, "max": 70},
+    "days_to_maturity": {"min": 330, "max": 420},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {"min": -8, "max": -4},
+      "note": "Sow in fall or early summer for bloom the following spring; sweet rocket self-sows prolifically and functions as a perennial in most gardens once established; considered invasive in some northern states — check local regulations."
+    },
+    "usda_zones": {"min": 3, "max": 9},
+    "spacing_in": {"min": 12, "max": 18},
+    "height_in": {"min": 24, "max": 48},
+    "spread_in": {"min": 12, "max": 24},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Sow seed on the soil surface in fall or early summer for spring bloom the following year, in moist but well-drained, slightly alkaline to neutral soil in partial shade to full sun; sweet rocket is a European biennial or short-lived perennial producing tall spikes of white, lilac, and purple four-petaled flowers from spring to early summer with an extraordinarily sweet, strong evening fragrance similar to violets and stock that intensifies at dusk — a classic cottage garden and moon garden plant. It self-sows freely once established, functionally making it a perennial. Sometimes confused with garden phlox; sweet rocket has four petals (true phlox has five). Classified as invasive in some northern states; use with awareness of local regulations.",
+    "sources": [
+      "Royal Horticultural Society",
+      "University of Minnesota Extension",
+      "USDA PLANTS Database"
+    ]
+  },
+  {
+    "slug": "harbinger-of-spring",
+    "common_name": "Harbinger of Spring (Salt-and-Pepper Plant, Pepper-and-Salt)",
+    "scientific_name": "Erigenia bulbosa",
+    "category": "flower",
+    "subcategory": "native spring ephemeral",
+    "days_to_germination": {"min": 30, "max": 90},
+    "germination_soil_temp_f": {"min": 35, "max": 50},
+    "days_to_maturity": {"min": 365, "max": 730},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {"min": -8, "max": -4},
+      "note": "Sow fresh seed in fall immediately after collection for natural cold stratification; or purchase dormant corms for fall planting in moist, rich, well-drained woodland soil in light shade."
+    },
+    "usda_zones": {"min": 4, "max": 8},
+    "spacing_in": {"min": 4, "max": 6},
+    "height_in": {"min": 4, "max": 8},
+    "spread_in": {"min": 4, "max": 8},
+    "sun": "shade",
+    "water": "moderate",
+    "directions": "Plant corms 2–3 inches deep in fall in moist, humus-rich, well-drained soil in the dappled shade of deciduous trees; harbinger of spring is among the first native wildflowers to bloom in eastern North American woodlands, appearing as early as February or March with tiny clusters of white flowers with dark reddish-purple anthers — the 'salt and pepper' pattern that gives it its alternate name — often poking through melting snow before any other plants stir. A diminutive spring ephemeral with carrot-family affiliation; foliage emerges briefly with the flowers then disappears completely by late spring. Grows from a small corm and spreads slowly in colonies in moist, rich bottomland forests. A charming and historically significant plant for native woodland and early pollinator gardens.",
+    "sources": [
+      "USDA PLANTS Database",
+      "Lady Bird Johnson Wildflower Center",
+      "Missouri Botanical Garden Plant Finder"
+    ]
+  }
+]

@@ -1,0 +1,64 @@
+[
+  {
+    "slug": "dragon-tongue-cucumber",
+    "common_name": "Dragon's Tongue Cucumber (Dragon Tongue, Dutch Yellow Cucumber)",
+    "scientific_name": "Cucumis sativus 'Dragon's Tongue'",
+    "category": "vegetable",
+    "subcategory": "cucumber",
+    "days_to_germination": {"min": 5, "max": 10},
+    "germination_soil_temp_f": {"min": 65, "max": 85},
+    "days_to_maturity": {"min": 60, "max": 65},
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 0, "max": 2},
+      "note": "Start indoors 3–4 weeks before last frost or direct sow after last frost when soil is above 65°F; harvest while fruits are cream with purple stripes — they become fully yellow and bitter if left on the vine too long."
+    },
+    "usda_zones": {"min": 4, "max": 11},
+    "spacing_in": {"min": 12, "max": 18},
+    "height_in": {"min": 18, "max": 24},
+    "spread_in": {"min": 24, "max": 48},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Direct sow or transplant to well-amended, warm soil in full sun after last frost; Dragon's Tongue is a strikingly beautiful Dutch heirloom cucumber producing medium-sized (5–6 inch) cucumbers with creamy-white skin dramatically streaked and splashed with purple-violet, resulting in an ornamental appearance unlike any standard green cucumber. Harvest when fruits are creamy-white with purple markings and firm to the touch — as they continue to mature they turn yellow then bitter. The flavor when harvested at prime ripeness is mild, crisp, and slightly sweet, excellent for fresh eating and pickling. A productive and prolific vining type that does not require trellis but benefits from it.",
+    "sources": [
+      "Baker Creek Heirloom Seeds",
+      "Seed Savers Exchange",
+      "Southern Exposure Seed Exchange"
+    ]
+  },
+  {
+    "slug": "crystal-lemon-cucumber",
+    "common_name": "Crystal Lemon Cucumber (Lemon Cucumber, Crystal Apple)",
+    "scientific_name": "Cucumis sativus 'Crystal Lemon'",
+    "category": "vegetable",
+    "subcategory": "cucumber",
+    "days_to_germination": {"min": 5, "max": 10},
+    "germination_soil_temp_f": {"min": 65, "max": 85},
+    "days_to_maturity": {"min": 55, "max": 65},
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 0, "max": 2},
+      "note": "Start indoors 3–4 weeks before last frost or direct sow after last frost; harvest when fruits are pale yellow-ivory and 2–3 inches in diameter — they become seedy and bitter if allowed to ripen further to full yellow."
+    },
+    "usda_zones": {"min": 4, "max": 11},
+    "spacing_in": {"min": 12, "max": 24},
+    "height_in": {"min": 18, "max": 24},
+    "spread_in": {"min": 24, "max": 48},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Direct sow or transplant to well-drained, warm, enriched soil in full sun after last frost; Crystal Lemon cucumber (sometimes called Crystal Apple) produces round to oval fruits roughly the size and color of a lemon at harvest — pale ivory to pale yellow, 2–3 inches in diameter, with a very mild, sweet, almost non-existent bitterness and a thin skin that does not need peeling. One of the most productive and heat-tolerant cucumbers available, and excellent for gardeners who find regular cucumbers too bitter or those who want a conversation-starting variety. Fruits should be harvested while still pale ivory-yellow; fully yellow fruits are over-ripe and seedy. Very popular with children for its unusual round shape.",
+    "sources": [
+      "Baker Creek Heirloom Seeds",
+      "Seed Savers Exchange",
+      "University of Florida IFAS Extension"
+    ]
+  }
+]

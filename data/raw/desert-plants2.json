@@ -1,0 +1,157 @@
+[
+  {
+    "slug": "desert-agave",
+    "common_name": "Desert Agave (Mescal Agave, Shaw's Agave)",
+    "scientific_name": "Agave deserti",
+    "category": "vegetable",
+    "subcategory": "desert edible",
+    "days_to_germination": {"min": 14, "max": 30},
+    "germination_soil_temp_f": {"min": 70, "max": 85},
+    "days_to_maturity": {"min": 3650, "max": 7300},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 8},
+      "note": "Plant offsets or container-grown plants in spring in full sun in very well-drained, rocky to sandy desert soil; desert agave requires near-zero summer irrigation once established and is the most drought tolerant agave for the Sonoran Desert region."
+    },
+    "usda_zones": {"min": 8, "max": 11},
+    "spacing_in": {"min": 36, "max": 60},
+    "height_in": {"min": 18, "max": 36},
+    "spread_in": {"min": 36, "max": 60},
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant offset pups or young container specimens in full sun in gravelly, sandy, extremely well-drained desert soil with no summer irrigation once established; desert agave (Agave deserti) is the agave of the Sonoran and Mojave Deserts, historically one of the most important food plants for desert-dwelling indigenous peoples of California, Arizona, and Mexico — the Cahuilla, Kumeyaay, and Coahuilla people harvested the immature flower stalks (quiote) and the heart of the plant (piña) before flowering, roasting them in earth ovens to produce a sweet, molasses-like food that sustained desert communities. Plants live 10–20 years before producing a single tall flower stalk, then dying, leaving behind pup offsets. The leaf tips are sharp and require care during placement.",
+    "sources": [
+      "Desert Botanical Garden",
+      "University of Arizona Cooperative Extension",
+      "USDA Plants Database"
+    ]
+  },
+  {
+    "slug": "agave-mezcal",
+    "common_name": "Espadín Agave (Mezcal Agave, Tobaziche)",
+    "scientific_name": "Agave angustifolia",
+    "category": "vegetable",
+    "subcategory": "desert edible",
+    "days_to_germination": {"min": 14, "max": 30},
+    "germination_soil_temp_f": {"min": 70, "max": 85},
+    "days_to_maturity": {"min": 2555, "max": 5475},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 8},
+      "note": "Plant offsets in spring in full sun in very well-drained, rocky soil; Agave angustifolia (espadín) accounts for roughly 90% of commercial mezcal production in Oaxaca and is the most widely cultivated agave for spirits production, requiring 7–15 years of growth before harvest."
+    },
+    "usda_zones": {"min": 9, "max": 12},
+    "spacing_in": {"min": 48, "max": 72},
+    "height_in": {"min": 36, "max": 72},
+    "spread_in": {"min": 48, "max": 72},
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant in full sun in rocky, well-drained, slightly alkaline to neutral soil with minimal irrigation once established; espadín agave (Agave angustifolia) is the workhorse of the mezcal industry in Oaxaca, Mexico — accounting for approximately 90% of mezcal production globally — and is the most planted agave for spirits production due to its vigorous growth, prolific offsetting, and the distinctive smoky, earthy mezcal flavor its roasted piña produces. The plant produces numerous offsets ('hijuelos') around the base that are used to propagate new plants; after 7–15 years the plant flowers and dies. The young flower stalks are edible when roasted and a significant food source in Oaxacan villages. An attractive, medium-sized agave for warm, dry gardens and a living connection to the ancient mezcal tradition of Mexico.",
+    "sources": [
+      "Desert Botanical Garden",
+      "Universidad Nacional Autónoma de México",
+      "FAO"
+    ]
+  },
+  {
+    "slug": "lechuguilla",
+    "common_name": "Lechuguilla (Shin-Dagger Agave)",
+    "scientific_name": "Agave lechuguilla",
+    "category": "flower",
+    "subcategory": "desert succulent",
+    "days_to_germination": {"min": 14, "max": 30},
+    "germination_soil_temp_f": {"min": 70, "max": 85},
+    "days_to_maturity": {"min": 1825, "max": 3650},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 8},
+      "note": "Plant pup offsets in spring in full sun in extremely well-drained, alkaline, rocky desert soil; lechuguilla is the indicator species of the Chihuahuan Desert — wherever it grows, you are in the Chihuahuan Desert. It is a key component of Chihuahuan Desert garden design and Big Bend National Park landscapes."
+    },
+    "usda_zones": {"min": 7, "max": 10},
+    "spacing_in": {"min": 24, "max": 36},
+    "height_in": {"min": 12, "max": 24},
+    "spread_in": {"min": 24, "max": 36},
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant in full sun in very well-drained, alkaline, rocky, thin desert soil with no supplemental water once established; lechuguilla (Agave lechuguilla) is the defining indicator plant of the Chihuahuan Desert, forming dense colonies on rocky limestone slopes from west Texas through New Mexico and into Mexico. The stiff, narrow, sharply-tipped leaves earned the common name 'shin-dagger' for the painful punctures they inflict on hikers. Indigenous peoples of the Chihuahuan Desert used lechuguilla extensively — the fibers from the leaves were woven into rope, sandals, and baskets; the leaf sap was used medicinally; and the heart was cooked and eaten. The flowering stalk, which can reach 10–15 feet, is spectacular but marks the plant's death. An authentic Chihuahuan Desert specimen plant for Texas and New Mexico landscapes.",
+    "sources": [
+      "USDA Plants Database",
+      "Chihuahuan Desert Research Institute",
+      "University of Texas at El Paso"
+    ]
+  },
+  {
+    "slug": "beargrass",
+    "common_name": "Beargrass (Bear Grass, Turkeybeard, Mountain Lily)",
+    "scientific_name": "Nolina microcarpa",
+    "category": "flower",
+    "subcategory": "desert succulent",
+    "days_to_germination": {"min": 14, "max": 30},
+    "germination_soil_temp_f": {"min": 65, "max": 80},
+    "days_to_maturity": {"min": 730, "max": 1825},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 8},
+      "note": "Plant container-grown specimens in spring in full sun in very well-drained, dry, rocky to sandy soil; beargrass is long-lived and slow-growing but extremely resilient once established; it rarely needs supplemental irrigation in zones 7-10 and is deer-resistant."
+    },
+    "usda_zones": {"min": 5, "max": 10},
+    "spacing_in": {"min": 36, "max": 60},
+    "height_in": {"min": 36, "max": 60},
+    "spread_in": {"min": 36, "max": 60},
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant in full sun in very well-drained, dry, rocky to sandy soil; beargrass (Nolina microcarpa) is a dramatic desert perennial of the Sonoran and Chihuahuan Deserts and adjacent mountains, producing large clumps of long, narrow, grass-like leaves (up to 4 feet long) with finely serrated edges and a tall central flower spike covered in thousands of tiny, cream-white flowers attractive to bees and other pollinators. Despite the grass-like appearance it is related to agaves and yuccas, not grasses. The fibrous, long-lasting leaves were one of the most important weaving materials for Native American peoples across the Southwest for baskets, mats, and ceremonial objects — dried beargrass leaves are still widely sold to florists for arrangements. An outstanding desert specimen plant providing dramatic texture without sharp spines.",
+    "sources": [
+      "Desert Botanical Garden",
+      "Arizona Native Plant Society",
+      "USDA Plants Database"
+    ]
+  },
+  {
+    "slug": "amole",
+    "common_name": "Amole (Schott's Agave, Sotol-leaf Agave)",
+    "scientific_name": "Agave schottii",
+    "category": "flower",
+    "subcategory": "desert succulent",
+    "days_to_germination": {"min": 14, "max": 30},
+    "germination_soil_temp_f": {"min": 65, "max": 80},
+    "days_to_maturity": {"min": 1095, "max": 2555},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 8},
+      "note": "Plant container specimens or offset pups in spring in very well-drained, rocky soil; amole is one of the most compact and easiest agaves for residential gardens — the relatively small size and lack of dangerous terminal spines make it more garden-friendly than many other agaves."
+    },
+    "usda_zones": {"min": 7, "max": 11},
+    "spacing_in": {"min": 18, "max": 30},
+    "height_in": {"min": 12, "max": 24},
+    "spread_in": {"min": 18, "max": 30},
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant in full sun in very well-drained, rocky to gravelly, alkaline to neutral desert soil; amole (Agave schottii) is a compact, clustering agave native to the mountain slopes of Arizona and Sonora, distinctive for its narrow, linear leaves that lack the typical dangerous terminal spine of most agaves — making it one of the most garden-safe agaves for pathways and mixed plantings. The leaves have fine serrations along the margins but no sharp tip. Historically important to the Tohono O'odham people who used the saponin-rich leaves as soap (amole is the Spanish word for a soap plant) and harvested the roasted heart as food. Forms attractive dense rosettes that slowly spread by offsets; the tall flower spike appears after several years and is covered in fragrant yellow flowers. An excellent small-scale agave for dry gardens.",
+    "sources": [
+      "Desert Botanical Garden",
+      "Arizona Native Plant Society",
+      "University of Arizona Cooperative Extension"
+    ]
+  }
+]

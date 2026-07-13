@@ -1,0 +1,64 @@
+[
+  {
+    "slug": "african-yam",
+    "common_name": "Yellow Yam (Twelve-Month Yam, Yellow Guinea Yam)",
+    "scientific_name": "Dioscorea cayenensis",
+    "category": "vegetable",
+    "subcategory": "tropical root/tuber",
+    "days_to_germination": {"min": 14, "max": 28},
+    "germination_soil_temp_f": {"min": 70, "max": 85},
+    "days_to_maturity": {"min": 240, "max": 365},
+    "maturity_from": "transplant",
+    "sow_method": "tuber",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Plant tuber sections (2–3 oz minimum) 4–6 inches deep after last frost when soil is warm; this tropical vine needs 6–8 feet of strong trellis support; do not confuse with sweet potato (Ipomoea batatas) which is unrelated."
+    },
+    "usda_zones": {"min": 9, "max": 12},
+    "spacing_in": {"min": 24, "max": 36},
+    "height_in": {"min": 120, "max": 240},
+    "spread_in": {"min": 24, "max": 48},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant tuber pieces with at least one eye 4–6 inches deep in loose, deep, well-drained, fertile soil in full sun; the yellow guinea yam is a major food staple in West and Central Africa, producing large (up to 10 lb) elongated tubers with yellow-orange flesh and a pleasant earthy flavor quite different from sweet potato — the starchy tubers are boiled, roasted, fried, or pounded into fufu and other traditional preparations. Grows as a perennial tropical vine requiring sturdy staking; in frost-free zones it can remain in the ground year-round, multiplying year after year. Requires a long frost-free growing season of 8–9 months for full tuber development. Harvest when vine begins to die back.",
+    "sources": [
+      "FAO",
+      "USDA Agricultural Research Service",
+      "International Institute of Tropical Agriculture (IITA)"
+    ]
+  },
+  {
+    "slug": "bitter-yam",
+    "common_name": "Bitter Yam (Cluster Yam, Bitter Yam)",
+    "scientific_name": "Dioscorea dumetorum",
+    "category": "vegetable",
+    "subcategory": "tropical root/tuber",
+    "days_to_germination": {"min": 14, "max": 28},
+    "germination_soil_temp_f": {"min": 70, "max": 85},
+    "days_to_maturity": {"min": 180, "max": 270},
+    "maturity_from": "transplant",
+    "sow_method": "tuber",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Plant tuber sections in warm soil in full sun with sturdy trellis support; WARNING — bitter yam contains toxic alkaloids (dihydrodioscorine) that cause paralysis if consumed raw or insufficiently processed — tubers must be peeled, boiled in multiple changes of water, and soaked before eating; do not consume raw under any circumstances."
+    },
+    "usda_zones": {"min": 9, "max": 12},
+    "spacing_in": {"min": 24, "max": 36},
+    "height_in": {"min": 120, "max": 240},
+    "spread_in": {"min": 24, "max": 48},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant tuber pieces in loose, deep, well-drained soil in full sun; bitter yam is a tropical African species of yam that produces clusters of small to medium tubers with intensely bitter flavor from toxic alkaloids — these require thorough processing (peeling, boiling in multiple changes of water, and prolonged soaking) to make safe for consumption. Despite this challenge, it is an important food crop in West Africa during food shortages and is also grown for its edible aerial tubers (bulbils) that have lower toxin levels and require less processing. Primarily of interest to gardeners interested in West African food plants, ethnobotany, or food security crops; properly prepared, the tubers have an earthy, slightly sweet flavor similar to other yams.",
+    "sources": [
+      "FAO",
+      "International Institute of Tropical Agriculture (IITA)",
+      "Purdue University New Crops"
+    ]
+  }
+]

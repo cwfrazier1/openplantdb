@@ -1,0 +1,126 @@
+[
+  {
+    "slug": "long-pepper",
+    "common_name": "Long Pepper (Indian Long Pepper, Pippali)",
+    "scientific_name": "Piper longum",
+    "category": "herb",
+    "subcategory": "culinary spice",
+    "days_to_germination": {"min": 14, "max": 30},
+    "germination_soil_temp_f": {"min": 75, "max": 85},
+    "days_to_maturity": {"min": 180, "max": 270},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Propagate from stem cuttings — seed is rarely available; grow in tropical conditions or in containers brought indoors in winter; requires high humidity and consistent warmth."
+    },
+    "usda_zones": {"min": 10, "max": 12},
+    "spacing_in": {"min": 24, "max": 36},
+    "height_in": {"min": 24, "max": 48},
+    "spread_in": {"min": 24, "max": 36},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Root stem cuttings in warm, humid conditions and grow in well-drained, fertile, humus-rich soil in partial shade to dappled light; long pepper is the historical precursor to black pepper in European and Mediterranean cuisines, used extensively from ancient Rome through the medieval period before the black pepper trade displaced it. The elongated catkin-like fruits (1–2 inches long) have a rich, complex heat distinct from black pepper — sweeter, more aromatic, with a slight numbing quality and notes of cinnamon and ginger. A tropical climbing vine that needs support and high humidity; it performs year-round outdoors in zone 10–12 and makes an unusual and rewarding container plant moved inside during cool months. Harvest green or ripe red and dry completely for long storage.",
+    "sources": [
+      "Purdue University New Crops",
+      "USDA Agricultural Research Service",
+      "Duke's Handbook of Medicinal Herbs"
+    ]
+  },
+  {
+    "slug": "cubeb-pepper",
+    "common_name": "Cubeb Pepper (Tailed Pepper, Java Pepper)",
+    "scientific_name": "Piper cubeba",
+    "category": "herb",
+    "subcategory": "culinary spice",
+    "days_to_germination": {"min": 14, "max": 30},
+    "germination_soil_temp_f": {"min": 75, "max": 85},
+    "days_to_maturity": {"min": 240, "max": 365},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Propagate from stem cuttings in tropical conditions; grow in high humidity with consistent warmth above 60°F; does well in containers brought indoors in cooler climates."
+    },
+    "usda_zones": {"min": 10, "max": 12},
+    "spacing_in": {"min": 24, "max": 36},
+    "height_in": {"min": 36, "max": 72},
+    "spread_in": {"min": 24, "max": 36},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Root stem cuttings in warm, humid conditions and grow in well-drained, fertile, humus-rich soil in partial shade in tropical or subtropical gardens; cubeb is a spice pepper from Indonesia (primarily Java), its dried unripe fruits distinguished by a distinct 'tail' (the dried stalk) that gives it the alternative name 'tailed pepper.' The flavor is complex — peppery, slightly bitter, with eucalyptus, camphor, and allspice overtones distinctly different from black pepper. A major spice in medieval European and Arab cuisines and still used in Moroccan ras el hanout and in Indonesian, East African, and West African cooking. The unique flavor profile is winning new culinary attention as chefs explore historical spice traditions.",
+    "sources": [
+      "Purdue University New Crops",
+      "USDA Agricultural Research Service",
+      "Oxford Companion to Food"
+    ]
+  },
+  {
+    "slug": "sansho",
+    "common_name": "Sansho (Japanese Pepper, Japanese Prickly Ash)",
+    "scientific_name": "Zanthoxylum piperitum",
+    "category": "herb",
+    "subcategory": "culinary spice",
+    "days_to_germination": {"min": 21, "max": 60},
+    "germination_soil_temp_f": {"min": 55, "max": 70},
+    "days_to_maturity": {"min": 1095, "max": 1825},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Plant in spring in well-drained, slightly acidic soil in a sheltered position; seed requires cold stratification for 90 days; container-grown plants establish more readily than bare-root transplants."
+    },
+    "usda_zones": {"min": 6, "max": 9},
+    "spacing_in": {"min": 120, "max": 180},
+    "height_in": {"min": 96, "max": 180},
+    "spread_in": {"min": 96, "max": 150},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in well-drained, slightly acidic to neutral, moderately fertile soil in full sun to partial shade in a sheltered position; sansho is the Japanese pepper of Japanese cuisine, an aromatic shrubby tree of the citrus family unrelated to black pepper but producing a similar numbing, tingling 'hot' sensation on the tongue from compounds called hydroxyl-alpha-sanshool — the same effect as Sichuan pepper from the related Zanthoxylum bungeanum. The ground green unripe berries are sprinkled on broiled eel (unagi), miso soup, and grilled dishes; the fresh aromatic young leaves (kinome) are used to garnish spring dishes. Both male and female plants are needed for berry production. A unique and rewarding specialty crop for culinary enthusiasts.",
+    "sources": [
+      "Japan Pepper Association",
+      "Purdue University New Crops",
+      "University of California Cooperative Extension"
+    ]
+  },
+  {
+    "slug": "alligator-pepper",
+    "common_name": "Alligator Pepper (Hepper Pepper, Mbongo Spice)",
+    "scientific_name": "Aframomum daniellii",
+    "category": "herb",
+    "subcategory": "culinary spice",
+    "days_to_germination": {"min": 14, "max": 28},
+    "germination_soil_temp_f": {"min": 75, "max": 85},
+    "days_to_maturity": {"min": 180, "max": 365},
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Divide rhizomes in spring in tropical conditions; closely related to grains of paradise and ginger in the Zingiberaceae family — grows best in humid tropical conditions similar to ginger."
+    },
+    "usda_zones": {"min": 10, "max": 12},
+    "spacing_in": {"min": 18, "max": 24},
+    "height_in": {"min": 36, "max": 60},
+    "spread_in": {"min": 18, "max": 30},
+    "sun": "partial",
+    "water": "high",
+    "directions": "Plant rhizome divisions in moist, well-drained, humus-rich, slightly acidic soil in partial shade in tropical conditions; alligator pepper is a West African spice plant in the ginger family producing large ridged pods (resembling a small alligator's head, hence the name) packed with numerous seeds that have a complex, resinous, cardamom-like flavor with black pepper heat and citrus overtones. An important ceremonial and culinary spice in Nigeria, Cameroon, and other West African nations, used to season soups, stews, and meat dishes, and traditionally presented to guests as a mark of respect. Related to and used similarly to grains of paradise (Aframomum melegueta) but with a more complex flavor profile. Rare in Western cultivation but rewarding for adventurous tropical gardeners.",
+    "sources": [
+      "FAO",
+      "USDA Agricultural Research Service",
+      "Purdue University New Crops"
+    ]
+  }
+]

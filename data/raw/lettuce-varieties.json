@@ -1,0 +1,95 @@
+[
+  {
+    "slug": "black-seeded-simpson",
+    "common_name": "Black-Seeded Simpson Lettuce",
+    "scientific_name": "Lactuca sativa 'Black-Seeded Simpson'",
+    "category": "vegetable",
+    "subcategory": "leaf lettuce",
+    "days_to_germination": {"min": 3, "max": 7},
+    "germination_soil_temp_f": {"min": 45, "max": 65},
+    "days_to_maturity": {"min": 45, "max": 50},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": -6, "max": -4},
+      "note": "Direct sow 4–6 weeks before last frost; sow succession plantings every 2–3 weeks for continuous harvest; widely available and one of the most heat-tolerant loose-leaf lettuces for warm-climate spring gardens."
+    },
+    "usda_zones": {"min": 3, "max": 10},
+    "spacing_in": {"min": 8, "max": 12},
+    "height_in": {"min": 8, "max": 14},
+    "spread_in": {"min": 8, "max": 12},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Broadcast or direct sow seed on the soil surface (light aids germination — do not cover) in early spring, thinning to 8–12 inches when seedlings are 2 inches tall; Black-Seeded Simpson is the most widely grown American heirloom loose-leaf lettuce, documented since at least 1850 and still one of the best choices for the home garden due to its excellent heat tolerance (bolts much more slowly than most head lettuces), fast maturity (45–50 days), light green crinkled leaves with a pleasant, mild flavor, and the heavy yields of a cut-and-come-again plant. Harvest outer leaves when plants are 6–8 inches tall, leaving the center growing point to continue producing. Self-shades the soil and benefits from afternoon shade in warm climates.",
+    "sources": [
+      "Seed Savers Exchange",
+      "Cornell Cooperative Extension",
+      "Johnny's Selected Seeds"
+    ]
+  },
+  {
+    "slug": "forellenschluss",
+    "common_name": "Forellenschluss Lettuce (Flashy Trout's Back, Speckled Trout)",
+    "scientific_name": "Lactuca sativa 'Forellenschluss'",
+    "category": "vegetable",
+    "subcategory": "butterhead lettuce",
+    "days_to_germination": {"min": 3, "max": 7},
+    "germination_soil_temp_f": {"min": 45, "max": 65},
+    "days_to_maturity": {"min": 55, "max": 65},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": -8, "max": -6},
+      "note": "Direct sow 6–8 weeks before last frost; most beautiful when harvested as a whole head; also excellent as cut-and-come-again greens at baby stage."
+    },
+    "usda_zones": {"min": 3, "max": 10},
+    "spacing_in": {"min": 10, "max": 14},
+    "height_in": {"min": 8, "max": 12},
+    "spread_in": {"min": 10, "max": 14},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Sow seed on the soil surface in early spring in fertile, moist, well-drained soil; Forellenschluss is a legendary Austrian heirloom butterhead lettuce — the name means 'trout's back' in German for its distinctive pattern of bright red-bronze speckles scattered across brilliantly green leaves, giving each leaf the dappled appearance of a brook trout. Considered one of the most beautiful and best-flavored lettuces in the world, with butter-soft, sweet, melt-in-the-mouth leaves. Also sold as 'Flashy Trout's Back' in the United States. Suitable for both spring and fall, it is less tolerant of summer heat than loose-leaf types; harvest heads when full but before bolting.",
+    "sources": [
+      "Seed Savers Exchange",
+      "Baker Creek Heirloom Seeds",
+      "Cornell Cooperative Extension"
+    ]
+  },
+  {
+    "slug": "sierra-lettuce",
+    "common_name": "Sierra Lettuce (Batavian Lettuce)",
+    "scientific_name": "Lactuca sativa 'Sierra'",
+    "category": "vegetable",
+    "subcategory": "batavian lettuce",
+    "days_to_germination": {"min": 3, "max": 7},
+    "germination_soil_temp_f": {"min": 45, "max": 70},
+    "days_to_maturity": {"min": 55, "max": 65},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": -6, "max": -4},
+      "note": "Direct sow 4–6 weeks before last frost; Sierra's exceptional heat and bolt resistance makes it valuable for extending the lettuce season into early summer; an excellent choice for warm-climate gardeners."
+    },
+    "usda_zones": {"min": 3, "max": 10},
+    "spacing_in": {"min": 10, "max": 14},
+    "height_in": {"min": 8, "max": 12},
+    "spread_in": {"min": 10, "max": 14},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Sow seed on or just below the soil surface in fertile, moist, well-drained soil in full sun to partial shade; Sierra is a batavian-type lettuce combining the crisp texture of a crisphead with the loose, outer-leaf harvest convenience of a loose-leaf type — producing green, ruffled, tender-crisp heads with outstanding bolt and heat resistance that extends the spring lettuce season significantly later than butterhead or loose-leaf types. An excellent choice for zone 8–10 gardeners where spring heat arrives quickly, giving a several-week extension window before quality declines. Harvest heads when firm but before any heat stress causes bitterness.",
+    "sources": [
+      "Johnny's Selected Seeds",
+      "Cornell Cooperative Extension",
+      "University of Florida IFAS Extension"
+    ]
+  }
+]

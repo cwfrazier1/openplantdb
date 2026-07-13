@@ -1,0 +1,157 @@
+[
+  {
+    "slug": "japanese-quince",
+    "common_name": "Japanese Quince (Flowering Quince, Maule's Quince)",
+    "scientific_name": "Chaenomeles japonica",
+    "category": "fruit",
+    "subcategory": "ornamental fruit shrub",
+    "days_to_germination": {"min": 60, "max": 120},
+    "germination_soil_temp_f": {"min": 40, "max": 60},
+    "days_to_maturity": {"min": 365, "max": 730},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 8},
+      "note": "Plant container-grown specimens in spring in full sun to partial shade in any well-drained soil; Japanese quince is one of the earliest spring-flowering shrubs, blooming before its leaves emerge — a spectacular sight in late winter. Tolerates poor, rocky, clay, or sandy soils once established."
+    },
+    "usda_zones": {"min": 4, "max": 9},
+    "spacing_in": {"min": 36, "max": 60},
+    "height_in": {"min": 24, "max": 48},
+    "spread_in": {"min": 36, "max": 60},
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant in full sun to partial shade in any well-drained to moderately moist soil; Japanese quince (Chaenomeles japonica) is a compact, thorny, deciduous shrub native to Japan, producing masses of brilliant red-orange to scarlet flowers on bare winter-spring branches — one of the most vivid early spring-flowering shrubs available. The small, apple-scented, greenish-yellow fruits that follow are too astringent to eat raw but make excellent jelly, jam, and cordial with a flavor combining quince, lemon, and apple; very high in pectin and requiring no added pectin when making preserves. The thorny habit makes it an effective barrier hedge. Extremely adaptable and long-lived, thriving in a wide range of soils and tolerating air pollution, drought, and neglect; a reliable garden shrub with multiple seasons of interest.",
+    "sources": [
+      "Royal Horticultural Society",
+      "Plants for a Future",
+      "University of Illinois Extension"
+    ]
+  },
+  {
+    "slug": "cape-elderberry",
+    "common_name": "Cape Elderberry (Bourtree, Southern Elder, Yellow Elderberry)",
+    "scientific_name": "Sambucus australasica",
+    "category": "fruit",
+    "subcategory": "native berry shrub",
+    "days_to_germination": {"min": 30, "max": 90},
+    "germination_soil_temp_f": {"min": 60, "max": 75},
+    "days_to_maturity": {"min": 365, "max": 730},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 6},
+      "note": "Root cuttings in spring or autumn; cape elderberry is an Australian elder native to humid subtropical forests and rainforest margins, suited to zones 9-11 in the US where it can be grown as an alternative to the northern elderberries."
+    },
+    "usda_zones": {"min": 9, "max": 11},
+    "spacing_in": {"min": 48, "max": 72},
+    "height_in": {"min": 60, "max": 120},
+    "spread_in": {"min": 48, "max": 72},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Root stem cuttings in spring or autumn in moist, fertile, well-drained soil; plant in partial shade to full sun; cape elderberry (Sambucus australasica) is an Australian species native to Queensland and New South Wales rainforest edges and creek margins, producing large clusters of small, bright yellow berries (distinct from the dark purple-black of northern elderberries) that ripen in summer. The berries are edible when fully ripe and can be used in the same applications as European elderberries — jams, jellies, syrups, and wines — though they are reportedly less intensely flavored. The flowers are also edible as elderflower tea and fritters. An attractive subtropical alternative to common elderberry for zone 9–11 gardens, with similar wildlife value and similar requirements for moist, moderately fertile soil.",
+    "sources": [
+      "Royal Botanic Gardens Victoria",
+      "Plants for a Future",
+      "Australian Native Plants Society"
+    ]
+  },
+  {
+    "slug": "linden-flower",
+    "common_name": "Littleleaf Linden (Small-Leaved Lime, Linden, Tilia)",
+    "scientific_name": "Tilia cordata",
+    "category": "herb",
+    "subcategory": "medicinal herb tree",
+    "days_to_germination": {"min": 60, "max": 180},
+    "germination_soil_temp_f": {"min": 40, "max": 60},
+    "days_to_maturity": {"min": 3650, "max": 7300},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 8},
+      "note": "Plant balled-and-burlapped or container-grown young trees in spring in deep, moist, well-drained, slightly alkaline to neutral soil; linden is one of the great street and park trees of Europe and North America, tolerating pollution, pruning, and urban conditions better than most large trees."
+    },
+    "usda_zones": {"min": 3, "max": 8},
+    "spacing_in": {"min": 300, "max": 480},
+    "height_in": {"min": 360, "max": 720},
+    "spread_in": {"min": 240, "max": 480},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in full sun in deep, moist, well-drained, slightly alkaline to neutral, fertile soil; littleleaf linden (Tilia cordata) is one of the most important medicinal trees of Europe, grown primarily for its fragrant, pale yellow flower clusters (collected with the distinctive wing-like bract) that are dried to make tilleul tea — one of the classic European herbal teas with a pleasant mild flavor and traditional use for relaxation, sleep, cold and flu, and anxiety. The flowers, which appear in June-July, are intensely attractive to bees and are considered one of the finest sources of honey in Europe; linden honey is a premium product. The tree itself is magnificent, developing deeply furrowed bark and a broad, rounded crown that provides excellent shade. Leaves are edible as salad greens in spring when young and tender.",
+    "sources": [
+      "Herb Society of America",
+      "Royal Horticultural Society",
+      "Plants for a Future"
+    ]
+  },
+  {
+    "slug": "field-horsetail",
+    "common_name": "Field Horsetail (Common Horsetail, Scouring Rush Cousin)",
+    "scientific_name": "Equisetum arvense",
+    "category": "herb",
+    "subcategory": "medicinal herb",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 180, "max": 365},
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Divide rhizome sections in spring and plant in moist to wet, sandy to gravelly, poor soil; field horsetail spreads aggressively by rhizomes and is very difficult to eradicate once established — plant in contained beds, pots, or where naturalizing is acceptable. It thrives in moist disturbed soils."
+    },
+    "usda_zones": {"min": 3, "max": 9},
+    "spacing_in": {"min": 12, "max": 18},
+    "height_in": {"min": 6, "max": 18},
+    "spread_in": {"min": 18, "max": 36},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant rhizome divisions in moist to wet, sandy, poor to moderately fertile soil in full sun; field horsetail (Equisetum arvense) is an ancient, primitive, spore-bearing plant (a living fossil) in the same lineage as 300-million-year-old coal forest horsetails, identifiable by its distinctive jointed, whorled, branched stems. The dried sterile stems are used medicinally as one of the highest-silica herbal remedies available — traditional use includes strengthening nails, hair, and connective tissue; teas made from dried stems are used for urinary tract support and bone health. Young fertile fronds (the brown, non-branched spring shoots) were historically eaten by Native American peoples. Caution: horsetail contains thiaminase and can cause thiamine (vitamin B1) deficiency in livestock and humans if consumed in large quantities; use medicinally in moderate amounts only.",
+    "sources": [
+      "Herb Society of America",
+      "Plants for a Future",
+      "USDA Plants Database"
+    ]
+  },
+  {
+    "slug": "climbing-snapdragon",
+    "common_name": "Climbing Snapdragon (Creeping Snapdragon, Asarina)",
+    "scientific_name": "Asarina procumbens",
+    "category": "flower",
+    "subcategory": "trailing annual vine",
+    "days_to_germination": {"min": 14, "max": 21},
+    "germination_soil_temp_f": {"min": 60, "max": 70},
+    "days_to_maturity": {"min": 70, "max": 90},
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": -8, "max": -6},
+      "note": "Start indoors 6–8 weeks before last frost; climbing snapdragon is a tender perennial from Spain and southwestern Europe typically grown as an annual in North America; it climbs by its petioles and drapes beautifully over walls, containers, and hanging baskets."
+    },
+    "usda_zones": {"min": 7, "max": 10},
+    "spacing_in": {"min": 12, "max": 18},
+    "height_in": {"min": 6, "max": 12},
+    "spread_in": {"min": 24, "max": 48},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Start seeds indoors 6–8 weeks before last frost at 60–70°F; transplant after last frost into partial shade to sun in moist, well-drained soil; climbing snapdragon (Asarina procumbens) is a charming, soft-hairy, trailing vine-like plant native to rocky cliff faces and limestone walls in northeastern Spain, producing snapdragon-like pale yellow flowers with cream-yellow throats throughout the summer. The self-clinging petioles allow it to scramble over rough surfaces and through other plants; it is especially beautiful draping over stone walls, tucked into rock garden crevices, or spilling from containers and hanging baskets. In zone 7–10 it is perennial and can be propagated from cuttings; in colder zones grow as an annual. Distinguished from the related climbing snapdragons (Lophospermum) by its pale yellow flowers rather than pink or red.",
+    "sources": [
+      "Royal Horticultural Society",
+      "Plants for a Future",
+      "American Horticultural Society"
+    ]
+  }
+]

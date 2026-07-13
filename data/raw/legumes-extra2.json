@@ -1,0 +1,157 @@
+[
+  {
+    "slug": "black-gram",
+    "common_name": "Black Gram (Urad Dal, Urid Bean, Black Lentil)",
+    "scientific_name": "Vigna mungo",
+    "category": "vegetable",
+    "subcategory": "legume",
+    "days_to_germination": {"min": 5, "max": 10},
+    "germination_soil_temp_f": {"min": 65, "max": 85},
+    "days_to_maturity": {"min": 65, "max": 90},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 0, "max": 2},
+      "note": "Direct sow after last frost when soil is warm; black gram is extremely heat-tolerant and drought-resistant once established, making it an excellent summer legume for zone 8–11 gardens."
+    },
+    "usda_zones": {"min": 7, "max": 12},
+    "spacing_in": {"min": 4, "max": 6},
+    "height_in": {"min": 12, "max": 24},
+    "spread_in": {"min": 8, "max": 12},
+    "sun": "full",
+    "water": "low",
+    "directions": "Sow seeds 1 inch deep after last frost in well-drained, moderately fertile to poor soil in full sun; black gram (urad dal) is one of the most important legumes in South Asian cuisine — the small, shiny black pods and seeds are the basis of dal makhani, idli, dosa, pappadams, and dozens of other dishes in Indian, Sri Lankan, and Southeast Asian cooking. The mature dried seeds are split (urad dal) for cooking or used whole; young green pods can also be eaten fresh like snap beans. Unlike many legumes, black gram fixes substantial atmospheric nitrogen and thrives in hot, dry conditions where other beans struggle. An outstanding heat-tolerant food-garden legume for the South and Southwest.",
+    "sources": [
+      "FAO",
+      "Purdue University New Crops Profile",
+      "University of Florida IFAS Extension"
+    ]
+  },
+  {
+    "slug": "horse-gram",
+    "common_name": "Horse Gram (Kulthi, Hurali Bean, Madras Gram)",
+    "scientific_name": "Macrotyloma uniflorum",
+    "category": "vegetable",
+    "subcategory": "legume",
+    "days_to_germination": {"min": 5, "max": 10},
+    "germination_soil_temp_f": {"min": 65, "max": 85},
+    "days_to_maturity": {"min": 80, "max": 120},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 0, "max": 2},
+      "note": "Direct sow after last frost; horse gram is exceptionally drought tolerant once established and can produce a crop on rainfall alone in semi-arid conditions — it grows well on marginal soils where other legumes fail."
+    },
+    "usda_zones": {"min": 7, "max": 12},
+    "spacing_in": {"min": 4, "max": 6},
+    "height_in": {"min": 12, "max": 18},
+    "spread_in": {"min": 8, "max": 12},
+    "sun": "full",
+    "water": "low",
+    "directions": "Sow seeds 1 inch deep in well-drained, poor to moderately fertile soil in full sun after last frost; horse gram is a drought-tolerant legume grown across the dry regions of South and Southeast Asia, highly valued in Ayurvedic medicine and increasingly recognized as a nutritional powerhouse with very high protein, iron, and polyphenol content. The small, reddish-brown seeds are used in soups, stews, and sprouted for salads; in South Indian cuisines the seeds are used to make rasam, curries, and thick dals. One of the most heat-tolerant and drought-resistant food legumes available, capable of growing on thin, rocky, sandy soils with minimal inputs — an excellent candidate for permaculture systems and food forests in dry climates.",
+    "sources": [
+      "FAO",
+      "Purdue University New Crops Profile",
+      "Indian Council of Agricultural Research"
+    ]
+  },
+  {
+    "slug": "wood-sage",
+    "common_name": "Wood Sage (Woodland Germander, Garlic Sage)",
+    "scientific_name": "Teucrium scorodonia",
+    "category": "herb",
+    "subcategory": "medicinal herb",
+    "days_to_germination": {"min": 14, "max": 28},
+    "germination_soil_temp_f": {"min": 55, "max": 70},
+    "days_to_maturity": {"min": 90, "max": 180},
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 2, "max": 6},
+      "note": "Divide established clumps in spring or autumn; wood sage naturalizes readily under trees and at woodland edges, self-seeding gently in suitable conditions; prefers well-drained, slightly acidic, poor to moderate soil in partial shade."
+    },
+    "usda_zones": {"min": 5, "max": 9},
+    "spacing_in": {"min": 12, "max": 18},
+    "height_in": {"min": 12, "max": 24},
+    "spread_in": {"min": 12, "max": 18},
+    "sun": "partial",
+    "water": "low",
+    "directions": "Plant divisions or transplants in partial shade to full sun in well-drained, poor to moderately fertile, slightly acidic soil; wood sage (Teucrium scorodonia) is a European woodland perennial with wrinkled, sage-like leaves with a distinctive garlicky-sage aroma, producing graceful spikes of small yellow-green flowers in summer that are excellent for bees and hoverflies. Despite the name it is a germander (Teucrium genus), not a true sage, and has been used historically as a bittering agent in ale before hops became standard and as a medicinal herb in European folk medicine. Naturalizes beautifully under oak trees and at woodland edges, spreading slowly by rhizomes and self-seeding; tolerates dry shade well once established. A valuable shade-tolerant herb for the woodland garden.",
+    "sources": [
+      "Herb Society of America",
+      "Royal Horticultural Society",
+      "Plants for a Future"
+    ]
+  },
+  {
+    "slug": "pepperwort",
+    "common_name": "Pepperwort (Dittander, Perennial Cress)",
+    "scientific_name": "Lepidium latifolium",
+    "category": "herb",
+    "subcategory": "culinary herb",
+    "days_to_germination": {"min": 7, "max": 14},
+    "germination_soil_temp_f": {"min": 50, "max": 70},
+    "days_to_maturity": {"min": 60, "max": 90},
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Plant in spring or autumn; pepperwort spreads aggressively by rhizomes and can become invasive in moist, disturbed soils — contain in raised beds or large containers, or plant where spread is acceptable. It has been cultivated as a horseradish substitute since the Middle Ages."
+    },
+    "usda_zones": {"min": 4, "max": 9},
+    "spacing_in": {"min": 12, "max": 18},
+    "height_in": {"min": 24, "max": 48},
+    "spread_in": {"min": 18, "max": 36},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant rooted divisions in full sun to partial shade in any well-drained soil; pepperwort (Lepidium latifolium) is a vigorous, spreading, perennial cress with large, thick leaves that have a strong, peppery to horseradish-like flavor much more intense than common garden cress — used as a horseradish substitute in medieval European cooking and still used traditionally in parts of Britain and Scandinavia. Young leaves can be eaten raw in small amounts as a condiment or added sparingly to salads and sandwiches; older leaves and the roots are used cooked as a flavoring. Caution: the plant is listed as an invasive weed in parts of the western United States where it colonizes riparian areas and wetlands; plant only in contained situations in those regions. Produces masses of small white flowers attractive to bees.",
+    "sources": [
+      "Plants for a Future",
+      "Royal Horticultural Society",
+      "USDA PLANTS Database"
+    ]
+  },
+  {
+    "slug": "cocona",
+    "common_name": "Cocona (Orinoco Apple, Peach Tomato)",
+    "scientific_name": "Solanum sessiliflorum",
+    "category": "fruit",
+    "subcategory": "tropical fruit shrub",
+    "days_to_germination": {"min": 14, "max": 30},
+    "germination_soil_temp_f": {"min": 70, "max": 85},
+    "days_to_maturity": {"min": 180, "max": 270},
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Start indoors 8–10 weeks before transplanting; transplant in warm season in frost-free or container conditions; cocona is a short-lived perennial grown as an annual in temperate gardens and as a productive perennial in zone 10–12."
+    },
+    "usda_zones": {"min": 10, "max": 12},
+    "spacing_in": {"min": 24, "max": 36},
+    "height_in": {"min": 36, "max": 72},
+    "spread_in": {"min": 24, "max": 48},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Start seeds in warm, moist mix at 75–85°F indoors 8–10 weeks before transplanting; plant in full sun in rich, well-drained, moist soil after soil warms; cocona (Solanum sessiliflorum) is a tomato relative from the Amazon basin of Colombia, Peru, and Brazil, producing 2–4 inch yellow to orange fruits that resemble a slightly fuzzy tomato with a pleasant, acidic, tomato-citrus flavor widely used in Amazonian cuisine for juices, jams, and salsas. The plants are large-leafed and fast-growing, producing fruit 6–9 months after transplanting in suitable tropical conditions. Rich in iron and an important component of the diet of indigenous Amazonian peoples; increasingly available as a specialty crop in Florida and Hawaii. Thrives in humid tropical conditions with good rainfall or irrigation.",
+    "sources": [
+      "Purdue University New Crops Profile",
+      "FAO",
+      "University of Florida IFAS Extension"
+    ]
+  }
+]

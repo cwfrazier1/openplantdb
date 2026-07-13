@@ -1,0 +1,126 @@
+[
+  {
+    "slug": "kiwano",
+    "common_name": "Kiwano (Horned Melon, African Horned Cucumber, Jelly Melon)",
+    "scientific_name": "Cucumis metuliferus",
+    "category": "vegetable",
+    "subcategory": "cucurbit",
+    "days_to_germination": {"min": 7, "max": 14},
+    "germination_soil_temp_f": {"min": 70, "max": 85},
+    "days_to_maturity": {"min": 100, "max": 120},
+    "maturity_from": "seed",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": -4, "max": -3},
+      "note": "Start indoors 3–4 weeks before last frost; transplant when soil is thoroughly warm above 65°F; kiwano requires a long growing season and performs best in zone 9-11 where it can be grown with minimal protection."
+    },
+    "usda_zones": {"min": 9, "max": 12},
+    "spacing_in": {"min": 24, "max": 36},
+    "height_in": {"min": 36, "max": 72},
+    "spread_in": {"min": 36, "max": 72},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Start seeds indoors in warm mix at 75–85°F; transplant after last frost into rich, well-drained soil in full sun, providing a trellis for the vigorous climbing vines; kiwano is a wild-flavored African cucurbit producing spiky, orange-yellow fruits about 4 inches long with luminously green, jellylike interior flesh surrounding white seeds — the flavor is mild, watery, and faintly banana-like with hints of cucumber and lime. Harvest when the orange exterior color is fully developed; the flesh is eaten with a spoon or squeezed over food and the mild flavor makes it a refreshing addition to fruit salads, smoothies, and cocktails. Widely sold in specialty grocery stores as an exotic garnish and cocktail ingredient but easy to grow in warm-summer climates.",
+    "sources": [
+      "Purdue University New Crops Profile",
+      "University of Florida IFAS Extension",
+      "Baker Creek Heirloom Seeds"
+    ]
+  },
+  {
+    "slug": "burr-gherkin",
+    "common_name": "Burr Gherkin (West Indian Gherkin, Maroon Cucumber)",
+    "scientific_name": "Cucumis anguria",
+    "category": "vegetable",
+    "subcategory": "cucurbit",
+    "days_to_germination": {"min": 7, "max": 14},
+    "germination_soil_temp_f": {"min": 70, "max": 85},
+    "days_to_maturity": {"min": 55, "max": 75},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 0, "max": 2},
+      "note": "Direct sow after last frost when soil is warm; burr gherkin is extremely heat-tolerant and one of the few cucumbers that performs reliably through Gulf Coast summers without collapsing from heat or disease."
+    },
+    "usda_zones": {"min": 8, "max": 12},
+    "spacing_in": {"min": 12, "max": 24},
+    "height_in": {"min": 24, "max": 60},
+    "spread_in": {"min": 18, "max": 36},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Sow seeds 1 inch deep after last frost in well-drained, fertile soil in full sun; burr gherkin is a West Indian species distinct from common cucumber (Cucumis sativus), producing 2–3 inch oval fruits densely covered with short spines or warts — it has been grown in the Caribbean and Gulf South for centuries and is extremely heat and drought tolerant compared to regular cucumbers. The fruits are harvested young for pickling or sliced fresh with a flavor somewhere between cucumber and zucchini; mature fruits become bitter and dry. Excellent for hot-summer gardens in zones 8–12 where standard cucumbers decline in midsummer heat; the vines are vigorous, prolific, and resistant to cucumber mosaic virus and most diseases that afflict common cucumbers.",
+    "sources": [
+      "University of Florida IFAS Extension",
+      "Louisiana State University AgCenter",
+      "Purdue University New Crops Profile"
+    ]
+  },
+  {
+    "slug": "ivy-gourd",
+    "common_name": "Ivy Gourd (Tindora, Kovakka, Baby Watermelon)",
+    "scientific_name": "Coccinia grandis",
+    "category": "vegetable",
+    "subcategory": "cucurbit",
+    "days_to_germination": {"min": 10, "max": 21},
+    "germination_soil_temp_f": {"min": 75, "max": 90},
+    "days_to_maturity": {"min": 60, "max": 90},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Propagate from stem cuttings (roots most easily); plant in full sun after soil warms; ivy gourd is a dioecious vine requiring both male and female plants for fruiting — in tropical gardens it spreads aggressively; contain in large containers in zone 9 where it may freeze back but resprout from roots."
+    },
+    "usda_zones": {"min": 9, "max": 12},
+    "spacing_in": {"min": 24, "max": 48},
+    "height_in": {"min": 60, "max": 120},
+    "spread_in": {"min": 36, "max": 72},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Propagate from stem cuttings taken from female and male plants; plant in full sun in well-drained, fertile soil after soil warms above 70°F, providing a sturdy trellis or fence; ivy gourd is a perennial tropical vine widely grown across South and Southeast Asia for its tender young shoots and immature green fruits (tindora), used stir-fried, curried, or pickled with a mild flavor similar to young zucchini. The 2–3 inch fruits should be harvested green before they ripen to vivid red — fully ripe fruits are sweet but mushy and unsuitable for cooking. Caution: ivy gourd is invasive in Hawaii and parts of south Florida where it escapes cultivation and smothers native vegetation; grow in containers or managed plots where spread can be controlled. Young shoots and leaves are also edible as greens.",
+    "sources": [
+      "University of Hawaii CTAHR Extension",
+      "University of Florida IFAS Extension",
+      "FAO"
+    ]
+  },
+  {
+    "slug": "pointed-gourd",
+    "common_name": "Pointed Gourd (Parwal, Patol)",
+    "scientific_name": "Trichosanthes dioica",
+    "category": "vegetable",
+    "subcategory": "cucurbit",
+    "days_to_germination": {"min": 14, "max": 21},
+    "germination_soil_temp_f": {"min": 75, "max": 90},
+    "days_to_maturity": {"min": 60, "max": 90},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Propagate from stem or root cuttings — both male and female plants are required for fruit production, so plant at least one of each; pointed gourd is dioecious and does not fruit from seeds alone without confirmed plant sex. Grows perennially in zones 10–12 and as an annual in zones 8–9."
+    },
+    "usda_zones": {"min": 9, "max": 12},
+    "spacing_in": {"min": 24, "max": 36},
+    "height_in": {"min": 48, "max": 120},
+    "spread_in": {"min": 36, "max": 60},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Propagate from rooted stem cuttings or root sections, planting male and female plants together (ratio of 1 male per 4–6 females); train on a strong trellis in well-drained, fertile soil in full sun; pointed gourd is one of the most popular vegetables in Bengali, Odia, and North Indian cuisine, prized for its tender 2–6 inch elongated fruits with green-and-white striped skin that are stuffed, curried, fried, or used in sweets when fully mature. Distinct from snake gourd (Trichosanthes cucumerina) in being much smaller, more compact, and preferred for cooking fresh and stuffed. Plants in zone 9 may freeze to the ground in winter but resprout from the roots in spring; mulch heavily in the first winter. Harvest fruits when they reach 3–4 inches for best culinary quality.",
+    "sources": [
+      "Purdue University New Crops Profile",
+      "FAO",
+      "National Horticultural Research and Development Foundation (India)"
+    ]
+  }
+]

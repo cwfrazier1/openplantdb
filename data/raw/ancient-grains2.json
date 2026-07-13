@@ -1,0 +1,66 @@
+[
+  {
+    "slug": "emmer-wheat",
+    "common_name": "Emmer Wheat (Farro Medio, Hulled Wheat)",
+    "scientific_name": "Triticum dicoccum",
+    "category": "cover-crop",
+    "subcategory": "ancient grain",
+    "days_to_germination": {"min": 5, "max": 10},
+    "germination_soil_temp_f": {"min": 35, "max": 50},
+    "days_to_maturity": {"min": 100, "max": 130},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {"min": -10, "max": -6},
+      "note": "Sow in fall as a winter annual in mild climates or spring in cold climates; emmer is a hulled wheat requiring special threshing or purchase of pre-hulled grain for milling — factor this into production planning."
+    },
+    "usda_zones": {"min": 4, "max": 9},
+    "spacing_in": {"min": 1, "max": 3},
+    "height_in": {"min": 36, "max": 60},
+    "spread_in": {"min": 2, "max": 4},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Drill or broadcast at 90–120 lbs per acre in fall for winter growth or early spring in cold climates in well-drained, moderately fertile soil; emmer wheat (the farro medio of Italian cuisine) is one of humanity's oldest cultivated grains, domesticated in the Fertile Crescent around 10,000 BC and still grown in Ethiopia, Italy, and the Near East where it is prized for a nutty, complex flavor and high nutritional value including higher protein and fiber than modern wheat. It is a hulled grain — the hull adheres tightly and must be removed by specialized processing; purchase pre-hulled or 'pearled' emmer for cooking, or grow it as an attractive ornamental grain. Highly disease-resistant, drought-tolerant, and productive on poor, rocky soils where modern wheat struggles.",
+    "sources": [
+      "USDA Agricultural Research Service",
+      "Oldways Whole Grain Council",
+      "FAO",
+      "Cornell University Small Grains Program"
+    ]
+  },
+  {
+    "slug": "khorasan-wheat",
+    "common_name": "Khorasan Wheat (Kamut, Oriental Wheat)",
+    "scientific_name": "Triticum turgidum subsp. turanicum",
+    "category": "cover-crop",
+    "subcategory": "ancient grain",
+    "days_to_germination": {"min": 5, "max": 10},
+    "germination_soil_temp_f": {"min": 35, "max": 50},
+    "days_to_maturity": {"min": 110, "max": 140},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {"min": -10, "max": -6},
+      "note": "Sow in fall for winter growth in mild climates; Khorasan is a large-kerneled free-threshing durum relative that can be stored and milled without special hulling equipment — it is easier to process than emmer."
+    },
+    "usda_zones": {"min": 4, "max": 9},
+    "spacing_in": {"min": 1, "max": 3},
+    "height_in": {"min": 48, "max": 72},
+    "spread_in": {"min": 2, "max": 4},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Drill or broadcast at 100–120 lbs per acre in fall in well-drained, moderately fertile to poor soil; Khorasan wheat (trademarked as KAMUT® when meeting specific organic and quality standards) is an ancient durum wheat relative from the Fertile Crescent region, producing very large kernels twice the size of modern wheat with a distinctive buttery, nutty flavor and higher protein (17–18%), selenium, zinc, and magnesium content than common wheat. A free-threshing grain (unlike emmer or einkorn), it processes easily with standard equipment. Tall, stately plants with long beards are ornamental in the garden. Grows well on dryland and lower-fertility soils and is notably drought-tolerant; many people with wheat sensitivities (not celiac) report tolerating Khorasan better than modern wheat.",
+    "sources": [
+      "USDA Agricultural Research Service",
+      "Montana State University Extension",
+      "Oldways Whole Grain Council",
+      "KAMUT International Ltd."
+    ]
+  }
+]

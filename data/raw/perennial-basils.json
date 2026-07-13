@@ -1,0 +1,95 @@
+[
+  {
+    "slug": "african-blue-basil",
+    "common_name": "African Blue Basil (Perennial Basil, Camphor Basil Hybrid)",
+    "scientific_name": "Ocimum kilimandscharicum x basilicum",
+    "category": "herb",
+    "subcategory": "culinary herb",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 60, "max": 90},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 0, "max": 2},
+      "note": "Propagate from stem cuttings — this hybrid is sterile and does not produce viable seed; root cuttings in water or moist potting mix at 70–80°F; can be overwintered indoors in a sunny window in cold climates."
+    },
+    "usda_zones": {"min": 9, "max": 12},
+    "spacing_in": {"min": 18, "max": 24},
+    "height_in": {"min": 24, "max": 48},
+    "spread_in": {"min": 18, "max": 30},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Root stem cuttings in water or moist mix and plant in full sun after last frost in well-drained, fertile soil; African blue basil is a sterile interspecific hybrid (camphor basil x sweet basil) that cannot be grown from seed — all plants must be propagated by cuttings. It produces a continuous supply of purple-tinged leaves with a complex, camphorous, spicy flavor distinct from common sweet basil; the flavor profile includes hints of clove, camphor, and anise. Exceptionally ornamental with dark purple stems, green and purple-flushed leaves, and abundant spikes of small lilac-purple flowers that attract enormous numbers of bees and butterflies from summer until frost. The flowers are edible and beautiful scattered over salads.",
+    "sources": [
+      "Herb Society of America",
+      "University of California Cooperative Extension",
+      "American Horticultural Society"
+    ]
+  },
+  {
+    "slug": "perennial-basil",
+    "common_name": "Perennial Basil (East African Basil, Tree Basil)",
+    "scientific_name": "Ocimum gratissimum",
+    "category": "herb",
+    "subcategory": "culinary herb",
+    "days_to_germination": {"min": 5, "max": 10},
+    "germination_soil_temp_f": {"min": 70, "max": 80},
+    "days_to_maturity": {"min": 60, "max": 90},
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 0, "max": 2},
+      "note": "Start indoors 6–8 weeks before last frost or root cuttings; grows as a large perennial shrub in frost-free zones 9–12; bring containers indoors before first frost in cooler climates."
+    },
+    "usda_zones": {"min": 9, "max": 12},
+    "spacing_in": {"min": 24, "max": 36},
+    "height_in": {"min": 36, "max": 72},
+    "spread_in": {"min": 24, "max": 48},
+    "sun": "full",
+    "water": "low",
+    "directions": "Start from seed or cuttings and plant in full sun after last frost in well-drained, moderately fertile soil; perennial basil (Ocimum gratissimum, also called East African or tree basil) is a large woody-based perennial subshrub native to tropical Africa and Asia that grows year-round in frost-free gardens, eventually reaching 4–6 feet tall and requiring no replanting. The flavor is more pungent and medicinal than sweet basil — strongly clove-like with hints of eucalyptus and camphor — and is the basil of choice in West African, Southeast Asian, and South American cooking rather than Italian cuisine. Used fresh or dried in stews, soups, bean dishes, and rice preparations. An excellent container plant for northern gardeners overwintered indoors on a sunny sill.",
+    "sources": [
+      "Herb Society of America",
+      "University of Florida IFAS Extension",
+      "FAO"
+    ]
+  },
+  {
+    "slug": "coffee-plum",
+    "common_name": "Coffee Plum (Indian Plum, Rhoea Plum, Puneala Plum)",
+    "scientific_name": "Flacourtia jangomas",
+    "category": "fruit",
+    "subcategory": "tropical fruit shrub",
+    "days_to_germination": {"min": 14, "max": 30},
+    "germination_soil_temp_f": {"min": 75, "max": 85},
+    "days_to_maturity": {"min": 365, "max": 730},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Plant in well-drained tropical conditions; this species has some hermaphroditic flowers and can set fruit without a separate male plant, making it more garden-friendly than Flacourtia indica."
+    },
+    "usda_zones": {"min": 10, "max": 12},
+    "spacing_in": {"min": 120, "max": 180},
+    "height_in": {"min": 120, "max": 240},
+    "spread_in": {"min": 96, "max": 180},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in full sun in well-drained, fertile soil in frost-free tropical conditions; coffee plum (also known as Indian plum or Puneala plum in India and Sri Lanka) is a Southeast Asian Flacourtia related to governor's plum but distinctly different — producing attractive clusters of small red to deep red-purple fruits with a sweet-acidic, slightly astringent flavor reminiscent of sour plum combined with cherry. The name 'coffee plum' is used in southern India where it is made into jams and pickles and eaten fresh when fully ripe. Often hermaphroditic and self-fertile, making it easier to grow than most Flacourtia species. An attractive thorny shrub with glossy leaves, useful as a security hedge in subtropical gardens.",
+    "sources": [
+      "Purdue University Tropical Fruit Crops",
+      "FAO",
+      "USDA Agricultural Research Service"
+    ]
+  }
+]
