@@ -1,0 +1,223 @@
+[
+  {
+    "slug": "asparagus-pea",
+    "common_name": "Asparagus Pea (Winged Pea, Asparagus Vetch)",
+    "scientific_name": "Lotus tetragonolobus",
+    "category": "vegetable",
+    "subcategory": "legume",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 55,
+      "max": 68
+    },
+    "days_to_maturity": {
+      "min": 70,
+      "max": 90
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -2,
+        "max": 0
+      },
+      "note": "Direct sow 1/2 inch deep in early spring as soon as soil can be worked; asparagus pea germinates best at cool temperatures and bolts quickly in summer heat — in zone 9 treat as a late-fall to early-spring crop, sowing in October through February."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 6,
+      "max": 12
+    },
+    "height_in": {
+      "min": 18,
+      "max": 36
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 24
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Sow 1/2 inch deep in fertile, well-drained soil in full sun to partial shade in cool weather; the asparagus pea is a Mediterranean annual legume with attractive brick-red flowers and uniquely four-winged seed pods. Pods must be harvested when they are tiny — no more than 1 inch long — because they become woody and inedible extremely quickly. At the correct size they have a mild flavor reminiscent of asparagus, delicious lightly steamed, stir-fried, or pickled. The plant fixes atmospheric nitrogen and improves soil for subsequent crops. It is low-growing and sprawling rather than climbing, often used as a flowering groundcover in cool-season borders in addition to its edible value. The deep red flowers attract pollinators. In mild-winter climates sow in fall and harvest through winter.",
+    "sources": [
+      "Royal Horticultural Society Vegetable Growing Guides",
+      "USDA PLANTS Database",
+      "Joy Larkcom: Oriental Vegetables, Kodansha 1991"
+    ]
+  },
+  {
+    "slug": "lambsquarters",
+    "common_name": "Lambsquarters (Fat Hen, White Goosefoot, Pigweed)",
+    "scientific_name": "Chenopodium album",
+    "category": "vegetable",
+    "subcategory": "wild edible",
+    "days_to_germination": {
+      "min": 5,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 50,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 30,
+      "max": 60
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": -2
+      },
+      "note": "Lambsquarters is more typically managed as a welcome weed than deliberately sown; if intentionally growing, scatter seeds on the soil surface as they need light to germinate, from early spring through early summer. Self-sows prolifically and will naturalize in any disturbed garden soil."
+    },
+    "usda_zones": {
+      "min": 2,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 6,
+      "max": 12
+    },
+    "height_in": {
+      "min": 18,
+      "max": 60
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 24
+    },
+    "sun": "partial",
+    "water": "low",
+    "directions": "Allow to grow voluntarily in garden beds or scatter seeds on soil surface in early spring; lambsquarters is arguably the most nutritious common garden weed available as a potherb, with leaves containing more calcium, iron, and vitamins A and C than most cultivated greens. The young growing tips and leaves have a mild, spinach-like flavor that is excellent raw in salads when small or steamed, sautéed, or added to soups and egg dishes when older. The mealy white coating on young leaves is normal and edible — it is not pesticide or mildew. The seed heads, when mature in late summer, can be eaten cooked as a grain similar to quinoa (they are closely related). Control by harvesting regularly before seed set; one plant can produce 70,000 seeds that remain viable for decades.",
+    "sources": [
+      "Samuel Thayer: The Forager's Harvest",
+      "USDA PLANTS Database",
+      "Peterson Field Guides: Edible Wild Plants",
+      "Nutritional Composition of Common Edible Wild Plants, Journal of Food Composition and Analysis"
+    ]
+  },
+  {
+    "slug": "lychee-tomato",
+    "common_name": "Lychee Tomato (Litchi Tomato, Morelle de Balbis)",
+    "scientific_name": "Solanum sisymbriifolium",
+    "category": "vegetable",
+    "subcategory": "fruiting vegetable",
+    "days_to_germination": {
+      "min": 10,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 68,
+      "max": 80
+    },
+    "days_to_maturity": {
+      "min": 90,
+      "max": 120
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 4
+      },
+      "note": "Start seeds indoors 8–10 weeks before last frost; germination can be slow and erratic — nick the seed coat or soak seeds for 24 hours before sowing. Transplant after frost danger passes in full sun. In zone 9, start in January–February for the best spring crop."
+    },
+    "usda_zones": {
+      "min": 8,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 24,
+      "max": 36
+    },
+    "height_in": {
+      "min": 36,
+      "max": 60
+    },
+    "spread_in": {
+      "min": 24,
+      "max": 36
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant in full sun in well-drained soil — lychee tomato is remarkably drought-tolerant and thrives in poor soils where other nightshades would struggle; provide gloves when handling since the entire plant is covered in sharp spines up to 1.5 inches long. The cherry-sized, bright red fruits are enclosed in spiny green husks that split open at full ripeness, revealing smooth, glossy berries with sweet-tart, lychee-flavored flesh containing small seeds. Fruits are delicious eaten fresh when fully red or cooked into sauces, jams, and pies. In zone 8–9 this perennial-in-origin plant often naturalizes and re-seeds, becoming a productive self-sustaining patch. It is also studied as a biocontrol host against nematodes and as a trap crop for Colorado potato beetle. Wear thick gloves during any maintenance or harvest.",
+    "sources": [
+      "USDA PLANTS Database",
+      "University of Florida IFAS",
+      "European Journal of Plant Pathology — Solanum sisymbriifolium as nematode biocontrol host"
+    ]
+  },
+  {
+    "slug": "garden-huckleberry",
+    "common_name": "Garden Huckleberry (Sunberry, Wonderberry)",
+    "scientific_name": "Solanum scabrum",
+    "category": "vegetable",
+    "subcategory": "fruiting vegetable",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 80
+    },
+    "days_to_maturity": {
+      "min": 70,
+      "max": 90
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 2
+      },
+      "note": "Start indoors 6–8 weeks before last frost; transplant after frost danger passes in a partially shaded to full-sun spot. Garden huckleberry grows quickly in warm conditions and tolerates more shade than most fruiting vegetables — a good choice for lightly shaded food gardens in zones 3–10 (grown as annual)."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 24,
+      "max": 48
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 30
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Plant in full sun to partial shade in fertile, moist but well-drained soil; garden huckleberry is an African cultivated nightshade that produces abundant clusters of small, round, glossy black fruits about the size of a large pea. Unlike its wild nightshade relatives, the ripe fruits are edible but ONLY when fully cooked — raw berries contain solasodine alkaloids that cause digestive upset. When properly cooked, they lose their bitterness and make good pies, jams, and preserves with an earthy, slightly tart flavor. Harvest only fully black, ripe berries. The plant is extremely productive in warm climates and tolerates partial shade, making it useful for lightly shaded food gardens. It is distinct from the true huckleberry (Gaylussacia species) and true blueberry, and should not be eaten raw under any circumstances.",
+    "sources": [
+      "USDA PLANTS Database",
+      "University of Wisconsin Extension",
+      "FAO: Diversifying Food and Diets — African indigenous vegetables"
+    ]
+  }
+]

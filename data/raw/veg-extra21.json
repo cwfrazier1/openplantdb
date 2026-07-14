@@ -1,0 +1,279 @@
+[
+  {
+    "slug": "chiltepin-pepper",
+    "common_name": "Chiltepin Pepper (Chile Tepin, Bird Pepper)",
+    "scientific_name": "Capsicum annuum var. glabriusculum",
+    "category": "vegetable",
+    "subcategory": "pepper",
+    "days_to_germination": {
+      "min": 14,
+      "max": 28
+    },
+    "germination_soil_temp_f": {
+      "min": 75,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 90,
+      "max": 120
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 4
+      },
+      "note": "Start seeds indoors 10–12 weeks before last frost; germination is slow and erratic, sometimes taking up to 6 weeks — bottom heat at 80°F and light scarification improve rates. Transplant after all frost danger passes in full sun; in zones 8b–11 established plants may re-sprout perennially from the base if mulched heavily."
+    },
+    "usda_zones": {
+      "min": 8,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 24,
+      "max": 36
+    },
+    "height_in": {
+      "min": 24,
+      "max": 60
+    },
+    "spread_in": {
+      "min": 24,
+      "max": 36
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant in full sun in well-drained, lean to moderately fertile soil; the chiltepin is the only wild chile pepper native to the United States, growing in rocky canyon bottoms and shaded washes from Texas through Arizona and south into Mexico. The tiny round to oval fruits — barely the size of a pea — ripen from green to vivid red and pack an intense, clean heat (50,000–100,000 Scoville) that fades quickly unlike cultivated chiles. Birds disperse the seeds and are unaffected by capsaicin, making this a superb wildlife plant as well as a culinary one. In mild winter zones (8b+) plants are truly perennial and can reach shrub size over several seasons; in colder climates grow as an annual started indoors. Harvest fruits as they redden or allow birds to disperse naturally for a self-seeding colony.",
+    "sources": [
+      "Texas A&M AgriLife Extension",
+      "USDA PLANTS Database",
+      "University of Arizona Cooperative Extension",
+      "Bosland & Votava: Peppers: Vegetable and Spice Capsicums, CABI 2012"
+    ]
+  },
+  {
+    "slug": "crowder-pea",
+    "common_name": "Crowder Pea (Iron and Clay, Mississippi Purple)",
+    "scientific_name": "Vigna unguiculata subsp. unguiculata",
+    "category": "vegetable",
+    "subcategory": "legume",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 95
+    },
+    "days_to_maturity": {
+      "min": 65,
+      "max": 80
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 4
+      },
+      "note": "Direct sow 1 inch deep after soil warms to at least 65°F; crowder peas are extremely heat-tolerant and thrive in the deep South when planted through summer — successive plantings every 3–4 weeks extend the harvest season through first fall frost."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 3,
+      "max": 6
+    },
+    "height_in": {
+      "min": 12,
+      "max": 24
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 18
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Sow seeds 1 inch deep in rows 18–24 inches apart in full sun in warm, well-drained, moderately fertile soil; crowder peas get their name because the seeds are crowded so tightly in the pod that they press against each other and develop flat sides. They are a cornerstone of Southern cuisine — shelled fresh and cooked with pot likker and fatback, or dried for winter storage — and also a superb summer cover crop that fixes atmospheric nitrogen at high rates in hot weather. Bush-type plants need no support and mature quickly even in poor, sandy soils. Pick pods when they have turned fully colored (purple, tan, or buff depending on variety) and the seeds feel firm but not hard for fresh-shell use; allow pods to dry completely on the vine for dry peas.",
+    "sources": [
+      "Alabama Cooperative Extension System",
+      "LSU AgCenter",
+      "Texas A&M AgriLife Extension",
+      "Southern Exposure Seed Exchange cultural notes"
+    ]
+  },
+  {
+    "slug": "grape-tomato",
+    "common_name": "Grape Tomato",
+    "scientific_name": "Solanum lycopersicum",
+    "category": "vegetable",
+    "subcategory": "tomato",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 80
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 2
+      },
+      "note": "Start seeds indoors 6–8 weeks before last frost; transplant after frost danger passes and soil has warmed above 60°F. In the Gulf Coast (zone 9), plant in late February to March for a spring crop and again in late August for a fall crop — the plants struggle in peak summer heat above 95°F."
+    },
+    "usda_zones": {
+      "min": 2,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 48,
+      "max": 84
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in full sun in fertile, well-drained, slightly acidic soil (pH 6.0–6.8) with consistent moisture; grape tomatoes are distinguished by their small, elongated, thick-walled fruits — typically 1–2 inches long and grape-shaped — with a sweeter, less acidic flavor and firmer texture than cherry tomatoes, making them excellent for eating fresh, roasting, and salads. Most varieties are indeterminate and highly productive, setting fruit prolifically in large pendant clusters throughout the growing season. The thick skin resists cracking even when watering is inconsistent, a significant advantage over round cherry types. Provide a sturdy cage or stake early, keep soil evenly moist to prevent blossom-end rot, and side-dress with balanced fertilizer when the first flowers open.",
+    "sources": [
+      "University of Florida IFAS Extension",
+      "Texas A&M AgriLife Extension",
+      "North Carolina State University Extension"
+    ]
+  },
+  {
+    "slug": "land-cress",
+    "common_name": "Land Cress (Upland Cress, American Cress, Early Yellow Rocket)",
+    "scientific_name": "Barbarea verna",
+    "category": "vegetable",
+    "subcategory": "brassica",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 45,
+      "max": 65
+    },
+    "days_to_maturity": {
+      "min": 50,
+      "max": 70
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": -2
+      },
+      "note": "Direct sow as early as soil can be worked in spring, 4–6 weeks before last frost; make a second sowing 6–8 weeks before first fall frost for the main harvest season — the flavor improves markedly after light frost exposure. Land cress overwinters as a rosette in zones 6–9 when sown in fall."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 6,
+      "max": 9
+    },
+    "height_in": {
+      "min": 8,
+      "max": 14
+    },
+    "spread_in": {
+      "min": 6,
+      "max": 10
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Sow seeds thinly 1/4 inch deep in rows or broadcast in beds; land cress is a practical substitute for watercress that grows on ordinary garden soil without the need for flowing water. The dark, glossy, pinnate leaves have a pungent peppery flavor similar to watercress — making them excellent in salads, sandwiches, and as a garnish — but the plant is far more adaptable, tolerating drier conditions and surviving light frost. Flavor sharpens after frost exposure in fall and winter. Harvest outer leaves continuously from 50 days onward or cut whole rosettes. Plants bolt to flower in warm weather, producing edible yellow flowers; re-sow for the next season before temperatures exceed 70°F. Partial shade in warm climates extends the harvest and reduces bitterness.",
+    "sources": [
+      "Cornell University Vegetable Growing Guides",
+      "National Gardening Association",
+      "RHS Vegetable Garden Handbook"
+    ]
+  },
+  {
+    "slug": "puntarelle",
+    "common_name": "Puntarelle (Catalogna Chicory, Asparagus Chicory)",
+    "scientific_name": "Cichorium intybus var. foliosum",
+    "category": "vegetable",
+    "subcategory": "chicory",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 50,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 120,
+      "max": 150
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -14,
+        "max": -10
+      },
+      "note": "For the traditional Italian winter harvest, direct sow in late summer (late July to August in zone 9) so heads form during cool weather; puntarelle is a cool-season biennial that bolts quickly in warm weather — its distinctive hollow asparagus-like shoots only form after the plant experiences cool autumn temperatures."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 18,
+      "max": 30
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Sow seeds 1/4 inch deep and thin to 18–24 inches; puntarelle is a treasured Italian winter vegetable from the Lazio region, prized for its hollow, asparagus-like inner shoots that emerge from the center of the large chicory head. After harvest, the shoots are shaved or sliced thin, soaked in cold water to curl and reduce bitterness, and served raw in the classic Roman preparation with anchovy-garlic-lemon dressing. The outer leaves are also edible and mildly bitter in the chicory style. Sow in late summer for fall and winter harvest — in zone 8–10 this is an excellent late-season crop that matures when few other vegetables are producing. The plant is a biennial that sends up a tall flower stalk in its second spring; grow as an annual for the best eating shoots.",
+    "sources": [
+      "Slow Food International Ark of Taste",
+      "Orto Botanico di Roma research notes",
+      "University of Gastronomic Sciences — Italian Heritage Vegetables"
+    ]
+  }
+]

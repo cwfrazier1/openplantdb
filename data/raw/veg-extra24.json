@@ -1,0 +1,280 @@
+[
+  {
+    "slug": "grain-sorghum",
+    "common_name": "Grain Sorghum (Milo, Kafir Corn)",
+    "scientific_name": "Sorghum bicolor",
+    "category": "vegetable",
+    "subcategory": "grain crop",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 75,
+      "max": 110
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 4
+      },
+      "note": "Direct sow 1 inch deep after soil warms to at least 65°F; grain sorghum is more drought-tolerant than corn and performs better in hot, dry summers — it is an excellent warm-season grain for Southern gardens in zone 8–11 where summer heat and drought stress corn. Plant in rows 30–36 inches apart."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 4,
+      "max": 8
+    },
+    "height_in": {
+      "min": 36,
+      "max": 72
+    },
+    "spread_in": {
+      "min": 8,
+      "max": 12
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Direct sow 1 inch deep in warm soil in full sun in rows 30–36 inches apart; grain sorghum is one of the most drought-tolerant of all cereal grains, adapted to hot, dry conditions that would devastate corn. In the South it is called 'milo' and is traditionally grown as a feed grain for livestock, but the grain is also edible for humans — it can be popped like popcorn, ground into gluten-free flour for flatbreads and porridges, cooked as a rice-like grain, or fermented into traditional African and South American beverages. White and tan grain varieties are milder-flavored than red varieties for human consumption. The upright plants top out with a dense grain head; harvest when seeds are hard and the heads have dried on the plant. Sorghum's deep root system makes it exceptionally drought-resistant once established, and it responds well to brief dry spells that would reduce corn yields.",
+    "sources": [
+      "Texas A&M AgriLife Extension",
+      "LSU AgCenter",
+      "Oklahoma State University Extension",
+      "National Sorghum Producers Association"
+    ]
+  },
+  {
+    "slug": "sweet-sorghum",
+    "common_name": "Sweet Sorghum (Sorghum Cane, Sorgo)",
+    "scientific_name": "Sorghum bicolor var. saccharatum",
+    "category": "vegetable",
+    "subcategory": "grain crop",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 90,
+      "max": 120
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 4
+      },
+      "note": "Direct sow 1 inch deep after last frost when soil has warmed to 65°F; in the Gulf South, May is traditionally the preferred planting month for sweet sorghum to ensure the plant matures before the hot summer peak while still achieving the high sugar accumulation in the stalks that requires a long season."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 6,
+      "max": 10
+    },
+    "height_in": {
+      "min": 72,
+      "max": 180
+    },
+    "spread_in": {
+      "min": 8,
+      "max": 12
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Sow seeds 1 inch deep in warm, well-drained soil in full sun; sweet sorghum is grown for its tall, juicy, sugar-rich stalks rather than for grain — the canes are milled to extract sweet sap that is then boiled into sorghum molasses (sorghum syrup), a traditional Southern sweetener with a distinctive robust, complex flavor quite different from sugar cane molasses. The tall canes reach 6–15 feet with loose seed heads at the top; they are harvested at soft dough stage before the seeds fully harden. Children can chew raw pieces of stalk as a field snack with mildly sweet, refreshing juice. Growing your own sweet sorghum for syrup is a true farm-to-table tradition in the Appalachian South and Gulf States, requiring a simple press or roller mill to extract the juice and an outdoor evaporating pan to boil it into syrup.",
+    "sources": [
+      "LSU AgCenter — Sweet Sorghum Production Guide",
+      "University of Kentucky Cooperative Extension",
+      "USDA Agricultural Research Service — Grain and Oilseed Crops",
+      "National Sweet Sorghum Producers and Processors Association"
+    ]
+  },
+  {
+    "slug": "wild-rice",
+    "common_name": "Wild Rice (Northern Wild Rice)",
+    "scientific_name": "Zizania palustris",
+    "category": "vegetable",
+    "subcategory": "aquatic grain",
+    "days_to_germination": {
+      "min": 14,
+      "max": 30
+    },
+    "germination_soil_temp_f": {
+      "min": 50,
+      "max": 65
+    },
+    "days_to_maturity": {
+      "min": 100,
+      "max": 120
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -2,
+        "max": 2
+      },
+      "note": "Sow fresh, water-stored seeds in early spring in shallow water 1–3 feet deep; wild rice seeds lose viability quickly when dried and must be stored wet in cold water throughout winter. Stratify seeds in wet storage at 35–45°F for 60–90 days before spring planting. This is a lake plant requiring persistent shallow water, not a garden vegetable in the traditional sense."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 8
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 48,
+      "max": 96
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 18
+    },
+    "sun": "full",
+    "water": "high",
+    "directions": "Sow wet-stored seeds in 6–24 inches of clean, still or slow-moving fresh water in full sun over a muddy bottom — wild rice requires specific aquatic conditions and will not grow in conventional garden beds. It is an annual grass of northern North American lakes that produces one of the most prized indigenous food grains in its season, with a distinctively nutty, earthy, chewy character that is incomparably superior to the paddy-cultivated product sold commercially. The tall plants emerge from submerged seeds in spring, grow through summer, and produce loose, open grain heads above the water in late summer — traditionally harvested by canoe, knocking the ripe seeds into the hull. Because the seeds ripen unevenly and shatter easily when ripe, harvesting requires repeat passes or netting under the heads. An outstanding wildlife food for ducks, geese, and marsh birds. Best grown in a controlled pond, large rain garden, or constructed wetland.",
+    "sources": [
+      "University of Minnesota Extension — Wild Rice Production",
+      "USDA Natural Resources Conservation Service",
+      "Boreal Forest Crops Institute of Canada",
+      "Nokomis Farms wild rice cultivation notes"
+    ]
+  },
+  {
+    "slug": "tongue-of-fire-bean",
+    "common_name": "Tongue of Fire Bean (Borlotto Lingua di Fuoco)",
+    "scientific_name": "Phaseolus vulgaris",
+    "category": "vegetable",
+    "subcategory": "bean",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 65,
+      "max": 80
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 1,
+        "max": 3
+      },
+      "note": "Direct sow 1 inch deep after all frost danger passes in warm soil; Tongue of Fire is a bush bean that also has a pole-type strain — check the seed packet. In zone 9, plant for a spring crop (February–March) and a fall crop (September–October) to avoid peak summer heat, which causes pod set failure above 90°F."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 4,
+      "max": 6
+    },
+    "height_in": {
+      "min": 18,
+      "max": 30
+    },
+    "spread_in": {
+      "min": 6,
+      "max": 10
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Sow 1 inch deep in full sun in fertile, well-drained, slightly acidic soil; Tongue of Fire is an Italian heirloom bean with extraordinary visual appeal — the pods are cream-colored with vivid red-orange streaks and splashes, as if painted with fire. The seeds inside are cranberry-colored with dark red stripes. The beans are harvested green as a snap or shell bean, or left to dry for storage as a dry bean. As a fresh shell bean the flavor is rich, creamy, and nutty — superior to most commercial beans. The striped coloring unfortunately fades when cooked, but the flavor more than compensates. An excellent choice for Italian and Mediterranean-style cooking, particularly in minestrone, pasta e fagioli, and bean salads.",
+    "sources": [
+      "Seed Savers Exchange heritage variety documentation",
+      "Johnny's Selected Seeds trial notes",
+      "Alberto Sironi: Il Fagiolo Italiano — traditional Italian bean cultivars"
+    ]
+  },
+  {
+    "slug": "jacob-cattle-bean",
+    "common_name": "Jacob's Cattle Bean (Trout Bean, Dalmatian Bean)",
+    "scientific_name": "Phaseolus vulgaris",
+    "category": "vegetable",
+    "subcategory": "bean",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 80
+    },
+    "days_to_maturity": {
+      "min": 85,
+      "max": 100
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 1,
+        "max": 3
+      },
+      "note": "Direct sow 1 inch deep after all frost danger passes; Jacob's Cattle is primarily a dry bean grown to maturity — allow pods to dry fully on the vine before harvesting. It performs best in cool, northern climates but grows as a productive spring or fall crop in zone 9 with the right timing."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 4,
+      "max": 6
+    },
+    "height_in": {
+      "min": 18,
+      "max": 24
+    },
+    "spread_in": {
+      "min": 6,
+      "max": 10
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Sow 1 inch deep in full sun in fertile, well-drained soil; Jacob's Cattle is one of New England's oldest heirloom dry beans, with a distinctive white seed marked with dark red-maroon splotches in a bold, cattle-hide-like pattern that inspired its name. The beans are extraordinarily creamy and rich-flavored when cooked, with a texture that stays firm without becoming mushy — excellent in baked beans, soups, and cassoulet-style dishes. The traditional New England baked beans were made with this variety, slow-cooked with salt pork and molasses. A true bush bean, it grows compactly and requires minimal staking. The pods should be left to dry and yellow-brown on the vine; harvest when the seeds rattle loosely inside and cure indoors in a dry, ventilated area to finish drying before storage.",
+    "sources": [
+      "Seed Savers Exchange — Jacob's Cattle bean documentation",
+      "John Navazio: The Organic Seed Grower, Chelsea Green 2012",
+      "Maine Organic Farmers and Gardeners Association heirloom bean records"
+    ]
+  }
+]

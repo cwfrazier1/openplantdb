@@ -1,0 +1,335 @@
+[
+  {
+    "slug": "amaranth-leaf",
+    "common_name": "Leaf Amaranth (Chinese Spinach, Callaloo, Joseph's Coat)",
+    "scientific_name": "Amaranthus tricolor",
+    "category": "vegetable",
+    "subcategory": "leafy green",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 30,
+      "max": 60
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 1,
+        "max": 3
+      },
+      "note": "Direct sow on the soil surface or barely covered — seeds need light to germinate; in zone 9 plant from March through September for continuous warm-season production. Leaf amaranth is one of the most heat-tolerant leafy greens available, thriving when spinach and lettuce have long since bolted."
+    },
+    "usda_zones": {
+      "min": 2,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 6,
+      "max": 12
+    },
+    "height_in": {
+      "min": 18,
+      "max": 48
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 18
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Sow seeds on the soil surface or barely 1/8 inch deep in full sun in fertile, well-drained soil; leaf amaranth germinates quickly in warm conditions and grows rapidly to a productive harvest-ready size in as little as 30 days. The young leaves taste mild and spinach-like when harvested small; older leaves are cooked like spinach, steamed, sautéed, or stewed into the Caribbean callaloo and West African soups that this plant anchors. It is one of the most heat-tolerant leafy greens for southern gardens, producing abundantly through summer temperatures that wilt most other greens. The tricolor varieties display striking red, gold, and green foliage useful as an ornamental. Pinch the growing tip frequently to encourage bushy lateral branching and delay seed formation; once the plant flowers heavily, leaf quality declines.",
+    "sources": [
+      "USDA Agricultural Research Service",
+      "University of Florida IFAS Extension",
+      "FAO: Promotion of Traditional Vegetables in Africa"
+    ]
+  },
+  {
+    "slug": "amaranth-grain",
+    "common_name": "Grain Amaranth (Kiwicha, Inca Wheat, Prince's Feather)",
+    "scientific_name": "Amaranthus hypochondriacus",
+    "category": "vegetable",
+    "subcategory": "grain crop",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 90,
+      "max": 120
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 1,
+        "max": 3
+      },
+      "note": "Direct sow on the soil surface after last frost once soil temperature exceeds 65°F; in the Gulf Coast (zone 9) plant in spring through early summer. Amaranth is drought-tolerant once established but germinates best with consistent surface moisture for the first week."
+    },
+    "usda_zones": {
+      "min": 2,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 48,
+      "max": 84
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 18
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Scatter seeds thinly on firm, moist, weed-free soil and press gently without covering — seeds are tiny and need light to germinate well; thin seedlings to 12–18 inches when they reach 3 inches tall. Grain amaranth is a tall, drought-resistant warm-season annual producing enormous plume-like flower heads packed with thousands of tiny seeds that are 13–16% complete protein and rich in lysine, an amino acid deficient in most grains. The seeds pop like popcorn, cook into porridge, or grind into gluten-free flour. Young leaves are edible as a potherb. Harvest when the seed heads begin to dry but before rain can cause mold — cut the stalks and dry in a ventilated space, then thresh by rubbing between hands or rolling in a cloth sack. One plant can produce several pounds of grain in a good season.",
+    "sources": [
+      "National Academy of Sciences: Lost Crops of the Incas",
+      "USDA Agricultural Research Service Beltsville",
+      "Purdue University NewCROP database",
+      "Rodale Institute grain amaranth trials"
+    ]
+  },
+  {
+    "slug": "blue-hubbard-squash",
+    "common_name": "Blue Hubbard Squash",
+    "scientific_name": "Cucurbita maxima",
+    "category": "vegetable",
+    "subcategory": "winter squash",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 100,
+      "max": 110
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 1,
+        "max": 2
+      },
+      "note": "Sow 2–3 seeds per hill after last frost, 1 inch deep; thin to the strongest plant. Blue Hubbard needs a long season — count back 100–110 days from your first fall frost date to find the latest safe planting date. In zone 9, plant in late February to March for a summer harvest before peak heat."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 36,
+      "max": 60
+    },
+    "height_in": {
+      "min": 12,
+      "max": 18
+    },
+    "spread_in": {
+      "min": 72,
+      "max": 120
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in fertile, deeply tilled, well-drained soil amended with compost; Blue Hubbard is a massive heirloom winter squash that can weigh 15–40 pounds with a hard, blue-gray warted skin and dense, fine-grained, bright orange flesh prized for its rich, sweet, nut-like flavor in soups, pies, and roasting. The vines are vigorous and sprawling, requiring at least 6 feet of space in every direction or training up a very sturdy trellis. Cure harvested squash at 80–85°F for two weeks to harden the skin, then store in a cool, dry location where it keeps 4–6 months. The hard shell makes cutting challenging — some gardeners drop the squash on concrete or use a mallet and chisel. Blue Hubbard is also used as a trap crop: the sweet, sticky vines attract squash vine borers and cucumber beetles, drawing them away from more tender squash varieties.",
+    "sources": [
+      "Cornell University Vegetable Varieties for Gardeners",
+      "University of Vermont Extension",
+      "Seed Savers Exchange variety documentation"
+    ]
+  },
+  {
+    "slug": "carnival-squash",
+    "common_name": "Carnival Squash (Festival Squash)",
+    "scientific_name": "Cucurbita pepo",
+    "category": "vegetable",
+    "subcategory": "winter squash",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 85,
+      "max": 100
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 1,
+        "max": 2
+      },
+      "note": "Direct sow 1 inch deep in hills of 2–3 seeds after last frost; thin to one plant per hill. In zone 9 plant in late February for a spring-summer harvest or in late July for a fall harvest — the cooler fall season often produces better-flavored, more colorful fruits."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 24,
+      "max": 36
+    },
+    "height_in": {
+      "min": 12,
+      "max": 18
+    },
+    "spread_in": {
+      "min": 48,
+      "max": 72
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in full sun in fertile, well-drained soil with ample compost; carnival squash is a hybrid acorn-type winter squash with uniquely multicolored skin — a striking mosaic of orange, yellow, cream, and green that deepens and brightens as the season cools. The compact, semi-bush vines fit smaller gardens better than most winter squash. Individual fruits weigh 1–2 pounds and have sweet, dense, orange-yellow flesh with good nutty flavor for roasting, baking, or steaming in halves. Fruits that have been exposed to light frost tend to develop richer color and sweeter flavor. Cure for 7–10 days at room temperature and store up to 3 months in a cool, dry location. The colorful fruits make excellent decorative gourds through autumn and into winter.",
+    "sources": [
+      "University of Illinois Extension — Watch Your Garden Grow",
+      "Cornell University Vegetable Varieties for Gardeners",
+      "Johnny's Selected Seeds variety trials"
+    ]
+  },
+  {
+    "slug": "turnip-tops",
+    "common_name": "Turnip Tops (Turnip Greens, Cima di Rapa)",
+    "scientific_name": "Brassica rapa subsp. rapa",
+    "category": "vegetable",
+    "subcategory": "brassica",
+    "days_to_germination": {
+      "min": 3,
+      "max": 7
+    },
+    "germination_soil_temp_f": {
+      "min": 45,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 30,
+      "max": 60
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -10,
+        "max": -6
+      },
+      "note": "For the finest flavor, sow in late summer to early fall for a late-fall through winter harvest; turnip greens are among the best fall garden crops in zones 8–10, growing through mild winters and improving in sweetness and tenderness after repeated frost exposure. Spring sowing works in cooler climates but is secondary to fall production in the Gulf Coast."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 4,
+      "max": 8
+    },
+    "height_in": {
+      "min": 12,
+      "max": 18
+    },
+    "spread_in": {
+      "min": 8,
+      "max": 12
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Broadcast or row-sow seeds thinly and cover with 1/4 inch of soil, thinning to 4–8 inches for greens production; when grown specifically for greens rather than root turnips, dense spacing produces tender young leaves more quickly and the roots remain small and edible as a bonus harvest. Turnip greens are one of the most nutritious and productive winter vegetables for the Southern garden — far superior in flavor after frost than when cut in warm weather. The traditional Southern pot of turnip greens slow-cooked with a smoked hock concentrates their earthy, slightly bitter, mineral richness into a deeply savory dish. Whole young plants can be harvested, roots and all, or cut repeatedly above the crown for ongoing regrowth. Italian cima di rapa strains are grown specifically for the tender florets and top leaves and are harvested before the flower buds fully open.",
+    "sources": [
+      "LSU AgCenter",
+      "Alabama Cooperative Extension System",
+      "Texas A&M AgriLife Extension",
+      "North Carolina A&T State University Small Farm Unit"
+    ]
+  },
+  {
+    "slug": "curly-dock",
+    "common_name": "Curly Dock (Yellow Dock, Sour Dock)",
+    "scientific_name": "Rumex crispus",
+    "category": "vegetable",
+    "subcategory": "wild edible",
+    "days_to_germination": {
+      "min": 7,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 50,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 90
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": -2
+      },
+      "note": "Sow in early spring or fall in a dedicated patch; curly dock is a very vigorous perennial that naturalizes readily and can become difficult to remove once established — choose the site carefully, as the deep taproot is hard to eradicate. It thrives in disturbed ground, roadsides, and moist areas in virtually every temperate climate."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 18,
+      "max": 48
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 24
+    },
+    "sun": "partial",
+    "water": "low",
+    "directions": "Plant in a controlled bed or harvest wild populations growing in moist, disturbed soils; the young spring leaves of curly dock are one of the first edible wild greens available in early spring, with a pleasantly tart, lemony flavor from the oxalic acid content. They are excellent raw in small quantities in salads, or cooked briefly to reduce the oxalates in soups, stews, and egg dishes. Larger, older leaves are tougher and more strongly flavored — cook with one change of water to moderate the sourness. The seeds, which form on tall russet-colored stalks in summer, can be winnowed, ground into meal, and added to flatbread or porridge. The thick yellow taproot (yellow dock) has a long history of use in herbal medicine as a digestive bitter. Moderately invasive in the garden; contain by removing seed stalks before they mature.",
+    "sources": [
+      "USDA PLANTS Database",
+      "Samuel Thayer: The Forager's Harvest",
+      "Peterson Field Guides: Edible Wild Plants",
+      "University of Wisconsin Extension — Weed Science"
+    ]
+  }
+]

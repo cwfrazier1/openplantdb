@@ -1,0 +1,281 @@
+[
+  {
+    "slug": "jabuticaba",
+    "common_name": "Jabuticaba (Brazilian Grape Tree)",
+    "scientific_name": "Plinia cauliflora",
+    "category": "fruit",
+    "subcategory": "tropical fruit tree",
+    "days_to_germination": {
+      "min": 14,
+      "max": 30
+    },
+    "germination_soil_temp_f": {
+      "min": 75,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 1825,
+      "max": 3650
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant in spring after all frost danger passes in a sheltered, frost-free site with rich, consistently moist, slightly acidic soil; jabuticaba is extremely slow-growing but rewards patience with a spectacular fruiting habit — the grape-sized fruits emerge directly from the trunk and main branches rather than on new shoots."
+    },
+    "usda_zones": {
+      "min": 9,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 120,
+      "max": 180
+    },
+    "height_in": {
+      "min": 96,
+      "max": 240
+    },
+    "spread_in": {
+      "min": 96,
+      "max": 180
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in full sun to partial shade in deep, fertile, consistently moist, slightly acidic (pH 5.5–6.5), well-drained soil; jabuticaba is one of the most spectacular food plants in the world, producing dark purple to black grape-like fruits that burst directly from the bark of the trunk and major branches in a phenomenon called cauliflory, which causes the whole tree to turn dark with fruit clusters several times per year in its native Brazil. The fruits are eaten fresh within a day or two of harvest (they ferment rapidly on the tree), pressed into wine, or made into jelly and liqueur. The skin is thick and slightly astringent while the white flesh is sweet, gelatinous, and fragrant with a flavor suggesting muscadine grape. In zone 9 the tree benefits from a sheltered position and protection when temperatures dip below 26°F. Though extremely slow to fruit from seed — sometimes 5–10 years — air-layered or grafted plants can bear in 2–3 years.",
+    "sources": [
+      "University of Florida IFAS Rare Fruit Factsheets",
+      "California Rare Fruit Growers Association",
+      "Embrapa Genetic Resources Brazil",
+      "Morton: Fruits of Warm Climates, IFAS 1987"
+    ]
+  },
+  {
+    "slug": "gumi",
+    "common_name": "Gumi (Cherry Elaeagnus, Goumi Berry)",
+    "scientific_name": "Elaeagnus multiflora",
+    "category": "fruit",
+    "subcategory": "berry shrub",
+    "days_to_germination": {
+      "min": 30,
+      "max": 90
+    },
+    "germination_soil_temp_f": {
+      "min": 40,
+      "max": 65
+    },
+    "days_to_maturity": {
+      "min": 730,
+      "max": 1095
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": -2,
+        "max": 2
+      },
+      "note": "Plant in early spring or fall as bare-root or container stock; gumi establishes best in cool soil and is very adaptable to poor soils — its nitrogen-fixing root nodules allow it to thrive where most fruiting shrubs struggle. A single plant can self-fruit but cross-pollination with a second plant increases yields substantially."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 60,
+      "max": 84
+    },
+    "height_in": {
+      "min": 60,
+      "max": 96
+    },
+    "spread_in": {
+      "min": 60,
+      "max": 84
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant in full sun in well-drained soil of any fertility — gumi fixes atmospheric nitrogen through root symbiosis with Frankia bacteria, improving the surrounding soil and feeding itself even in infertile, sandy, or rocky ground. The shrub produces silvery-speckled dark red to cherry-red fruits in early summer that are sweet-tart with a slight astringency that some compare to a tangy cherry; they are excellent eaten fresh, dried, or made into preserves and juice. The fragrant creamy-yellow flowers in spring attract pollinators. Unlike its invasive relative autumn olive (E. umbellata), gumi is a well-behaved garden shrub that doesn't spread aggressively. It makes an excellent companion plant in food forests and permaculture systems, enriching the soil for neighboring fruit trees and shrubs.",
+    "sources": [
+      "University of Vermont Center for Sustainable Agriculture",
+      "Martin Crawford: Creating a Forest Garden, Green Books 2010",
+      "USDA PLANTS Database",
+      "Fedco Trees catalog notes"
+    ]
+  },
+  {
+    "slug": "coco-plum",
+    "common_name": "Coco Plum (Icaco, Paradise Plum)",
+    "scientific_name": "Chrysobalanus icaco",
+    "category": "fruit",
+    "subcategory": "tropical shrub",
+    "days_to_germination": {
+      "min": 21,
+      "max": 60
+    },
+    "germination_soil_temp_f": {
+      "min": 75,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 365,
+      "max": 730
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant in spring in a frost-free site in moist to wet, sandy or alkaline coastal soil; coco plum is extremely tolerant of salt spray, waterlogged soils, and alkaline conditions that challenge most fruiting plants, making it one of the few edible fruiting shrubs well-suited to South Florida and Gulf Coast coastal conditions."
+    },
+    "usda_zones": {
+      "min": 9,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 48,
+      "max": 72
+    },
+    "height_in": {
+      "min": 36,
+      "max": 180
+    },
+    "spread_in": {
+      "min": 48,
+      "max": 120
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Plant in full sun to partial shade in moist, well-drained to seasonally wet, sandy, alkaline, or coastal soil; coco plum is a versatile South Florida and Caribbean native that ranges from a 3-foot groundcover to a 15-foot shrub depending on the cultivar and site conditions. The round to oval fruits ripen to white, red, or dark purple depending on variety and are eaten fresh when ripe — they have starchy, mildly sweet, coconut-flavored flesh around a large seed — or made into jam and jelly. The seed kernel contains a fat that is extracted for cosmetics in South America. Coco plum is both a valuable wildlife plant, supporting many birds and butterflies, and one of the few edible natives for South Florida's challenging alkaline, salty, and wet conditions. Tolerates periodic flooding and salt spray better than almost any other fruiting plant.",
+    "sources": [
+      "University of Florida IFAS Extension",
+      "Florida Native Plant Society",
+      "USDA PLANTS Database",
+      "Morton: Fruits of Warm Climates, IFAS 1987"
+    ]
+  },
+  {
+    "slug": "white-sapote",
+    "common_name": "White Sapote (Casimiroa, Matasano)",
+    "scientific_name": "Casimiroa edulis",
+    "category": "fruit",
+    "subcategory": "subtropical fruit tree",
+    "days_to_germination": {
+      "min": 14,
+      "max": 30
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 730,
+      "max": 1825
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant grafted trees in spring for fastest fruiting — seedlings may take 7–10 years to bear while grafted trees often begin in 2–4 years. White sapote is somewhat frost-hardy for a tropical fruit, surviving brief dips to 22°F on established trees, making it one of the best choices for zone 9 subtropical gardens."
+    },
+    "usda_zones": {
+      "min": 9,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 180,
+      "max": 300
+    },
+    "height_in": {
+      "min": 180,
+      "max": 480
+    },
+    "spread_in": {
+      "min": 180,
+      "max": 300
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in full sun in deep, well-drained, fertile to moderately fertile soil with regular irrigation until established; white sapote is one of the most cold-tolerant subtropical fruit trees available for zone 9 gardens, producing apple-sized fruits with smooth green to yellowish skin and creamy white, custardy flesh that tastes like a blend of peach, pear, vanilla, and banana. The fruit is harvested when it begins to soften and yields slightly to gentle pressure — overripe fruit falls from the tree and ferments quickly, so harvest 3–5 days before full ripeness and ripen at room temperature. Some varieties bear twice per year. The tree can grow quite large in ideal conditions; prune annually after harvest to maintain a manageable fruiting canopy. The seeds contain alkaloids and should not be eaten; discard them.",
+    "sources": [
+      "University of California Riverside Citrus Variety Collection / subtropical crops",
+      "University of Florida IFAS",
+      "California Rare Fruit Growers Association",
+      "Morton: Fruits of Warm Climates, IFAS 1987"
+    ]
+  },
+  {
+    "slug": "miracle-fruit",
+    "common_name": "Miracle Fruit (Miracle Berry, Synsepalum)",
+    "scientific_name": "Synsepalum dulcificum",
+    "category": "fruit",
+    "subcategory": "tropical fruit shrub",
+    "days_to_germination": {
+      "min": 21,
+      "max": 60
+    },
+    "germination_soil_temp_f": {
+      "min": 75,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 730,
+      "max": 1095
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant in a container or frost-free garden site; miracle fruit requires strongly acidic, well-drained soil (pH 4.5–5.5) and will fail in alkaline soils — most Gulf Coast garden soils need amendment with sulfur and peat moss. Container culture in a peat-based mix allows the plant to be brought indoors during cold snaps."
+    },
+    "usda_zones": {
+      "min": 10,
+      "max": 12
+    },
+    "spacing_in": {
+      "min": 36,
+      "max": 60
+    },
+    "height_in": {
+      "min": 24,
+      "max": 72
+    },
+    "spread_in": {
+      "min": 24,
+      "max": 48
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Plant in partial shade to full sun in very strongly acidic (pH 4.5–5.5), consistently moist, well-drained, organic-rich soil; miracle fruit is a West African shrub famous for the glycoprotein miraculin in its small red berries, which binds to sweet taste receptors and causes sour foods eaten afterward to taste intensely sweet for 30–60 minutes. The berries themselves are mildly sweet and low in sugar; the transformation effect on lemons, limes, and other acids is the remarkable attribute. In zone 10–12 it grows as a landscape shrub; in zone 9 and colder it thrives in containers brought indoors for winter. The plant is slow-growing and slow to fruit but essentially self-sustaining in the right conditions, flowering and fruiting multiple times per year once mature. It requires consistently moist, highly acidic conditions — alkaline tap water should be acidified before irrigation.",
+    "sources": [
+      "University of Florida IFAS Tropical Fruit Factsheets",
+      "Journal of Agricultural and Food Chemistry — miraculin research",
+      "California Rare Fruit Growers Association"
+    ]
+  }
+]
