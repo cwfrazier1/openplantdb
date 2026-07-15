@@ -9,10 +9,64 @@ import csv
 import glob
 import json
 import os
+import re
 import sys
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 RAW = os.path.join(ROOT, "data", "raw")
+
+
+def _norm(s):
+    """Lowercase, drop parentheticals & punctuation for identity matching."""
+    s = (s or "").lower().strip()
+    s = re.sub(r"\(.*?\)", "", s)
+    s = re.sub(r"[^a-z0-9 ]", " ", s)
+    return re.sub(r"\s+", " ", s).strip()
+
+
+def identity(rec):
+    """Two records are the same plant when their common name AND scientific
+    name normalize equal. Cultivars with distinct scientific names stay
+    separate (e.g. Blanket Flower Gaillardia pulchella vs. x grandiflora)."""
+    return _norm(rec.get("common_name")) + "|" + _norm(rec.get("scientific_name"))
+
+
+def _completeness(rec):
+    """Rank duplicates so the richest record wins the slug."""
+    filled = sum(1 for v in rec.values() if v not in (None, "", [], {}))
+    return (filled, len(rec.get("directions") or ""))
+
+
+def dedupe_identity(records):
+    """Collapse same-plant/different-slug rows. Keep the most complete record;
+    on a tie prefer the slug that reads like the common name, then the
+    shortest. Returns (kept_records, removed_count)."""
+    groups = {}
+    order = []
+    for rec in records:
+        key = identity(rec)
+        if key not in groups:
+            groups[key] = []
+            order.append(key)
+        groups[key].append(rec)
+
+    kept, removed = [], 0
+    for key in order:
+        bucket = groups[key]
+        if len(bucket) == 1:
+            kept.append(bucket[0])
+            continue
+        name_slug = _norm(bucket[0].get("common_name")).replace(" ", "-")
+
+        def score(r):
+            comp = _completeness(r)
+            slug = r.get("slug") or ""
+            return (comp[0], comp[1], slug == name_slug, -len(slug), slug)
+
+        winner = max(bucket, key=score)
+        kept.append(winner)
+        removed += len(bucket) - 1
+    return kept, removed
 
 CATEGORIES = {"vegetable", "herb", "fruit", "berry", "flower", "cover-crop"}
 MATURITY_FROM = {"seed", "transplant"}
@@ -141,6 +195,10 @@ def main():
     if bag:
         print("VALIDATION FAILED:\n  " + "\n  ".join(bag), file=sys.stderr)
         return 1
+
+    records, dup_removed = dedupe_identity(records)
+    if dup_removed:
+        print(f"dedupe: collapsed {dup_removed} duplicate record(s)")
 
     records.sort(key=lambda r: (r.get("category", ""), r.get("common_name", "")))
 
