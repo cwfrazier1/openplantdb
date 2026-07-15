@@ -1,0 +1,162 @@
+[
+  {
+    "slug": "datil-pepper",
+    "common_name": "Datil Pepper",
+    "scientific_name": "Capsicum chinense 'Datil'",
+    "category": "vegetable",
+    "subcategory": "pepper",
+    "days_to_germination": {"min": 10, "max": 21},
+    "germination_soil_temp_f": {"min": 75, "max": 90},
+    "days_to_maturity": {"min": 100, "max": 120},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 2, "max": 4},
+      "note": "Start seeds indoors 10–12 weeks before last frost and transplant after all cold risk has passed; in zone 9 transplant March–April. Datil peppers are closely tied to St. Augustine, Florida, and perform exceptionally well in the long, hot, humid growing season of the Gulf Coast and Florida."
+    },
+    "usda_zones": {"min": 8, "max": 11},
+    "spacing_in": {"min": 18, "max": 24},
+    "height_in": {"min": 24, "max": 36},
+    "spread_in": {"min": 18, "max": 24},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Start seeds at 80–85°F soil temperature; germination is slow and benefits from bottom heat. Transplant into well-drained, fertile soil in full sun after nights stay reliably above 55°F. Datil peppers are a habanero-type (Capsicum chinense) variety historically grown in and around St. Augustine, Florida, for at least 200 years — their exact origin is debated but they are deeply embedded in Minorcan and northeast Florida food culture. The small, wrinkled, yellow-orange fruits are fiercely hot (100,000–300,000 Scoville) with a distinctive fruity, citrusy sweetness that sets them apart from pure heat bombs. They are the defining ingredient in St. Augustine's datil pepper sauce tradition, used in chowders, seafood dishes, and condiments. Plants thrive in Florida's humid summers and can be treated as perennials in zone 9b–11 when protected from frost. Mulch heavily, water consistently, and side-dress with compost mid-season to sustain productivity.",
+    "sources": [
+      "University of Florida IFAS Extension — Datil Pepper",
+      "St. Augustine Datil Pepper Project, Flagler College",
+      "Southern Exposure Seed Exchange",
+      "USDA National Plant Germplasm System"
+    ]
+  },
+  {
+    "slug": "hakurei-turnip",
+    "common_name": "Hakurei Turnip (Japanese Salad Turnip)",
+    "scientific_name": "Brassica rapa 'Hakurei'",
+    "category": "vegetable",
+    "subcategory": "root vegetable",
+    "days_to_germination": {"min": 4, "max": 7},
+    "germination_soil_temp_f": {"min": 45, "max": 75},
+    "days_to_maturity": {"min": 38, "max": 45},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": -6, "max": -4},
+      "note": "Direct sow 4–6 weeks before last frost for spring crop; in zone 9 the ideal window is January–February for spring and September–November for fall, when mild temperatures produce the sweetest roots. Fall crops are typically superior in taste and texture."
+    },
+    "usda_zones": {"min": 3, "max": 10},
+    "spacing_in": {"min": 3, "max": 4},
+    "height_in": {"min": 8, "max": 12},
+    "spread_in": {"min": 4, "max": 6},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Sow seeds 1/4 inch deep in well-prepared, loosened soil and thin to 3–4 inches apart; crowding produces forked or stunted roots. Hakurei is a Japanese F1 hybrid turnip bred to be eaten raw: the pure-white, smooth globe roots (2–3 inches in diameter at harvest) are remarkably sweet, mild, and almost fruity — nothing like the sharp, peppery flavor of conventional turnip varieties. Unlike storage turnips, Hakurei is best harvested small and young; roots toughen and lose their fresh crispness if left past 2 inches. The greens are also tender and mild and excellent raw or lightly sautéed. In zone 9, fall-sown Hakurei seeded in October is often the finest salad turnip in the cool-season garden, maturing just before the holidays. A favorite for farmers' market growers because of its eye-catching appearance and reliably sweet flavor.",
+    "sources": [
+      "Johnny's Selected Seeds — Hakurei F1 variety notes",
+      "University of Florida IFAS Extension — Cool Season Vegetables",
+      "Texas A&M AgriLife Extension — Turnips",
+      "High Mowing Organic Seeds"
+    ]
+  },
+  {
+    "slug": "garland-chrysanthemum",
+    "common_name": "Garland Chrysanthemum (Crown Daisy, Shungiku)",
+    "scientific_name": "Glebionis coronaria",
+    "category": "vegetable",
+    "subcategory": "leafy green",
+    "days_to_germination": {"min": 7, "max": 14},
+    "germination_soil_temp_f": {"min": 50, "max": 70},
+    "days_to_maturity": {"min": 40, "max": 70},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": -6, "max": -4},
+      "note": "Direct sow 4–6 weeks before last frost for spring crop; in zone 9 the best window is September–February for a cool-season crop. Tolerates light frost well. Sow densely and harvest as cut-and-come-again, or thin to 4 inches for full plants."
+    },
+    "usda_zones": {"min": 6, "max": 10},
+    "spacing_in": {"min": 4, "max": 6},
+    "height_in": {"min": 12, "max": 24},
+    "spread_in": {"min": 6, "max": 10},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Scatter seeds thinly and press in without covering, or cover very lightly with 1/8 inch of soil; garland chrysanthemum germinates best with light. Glebionis coronaria — called shungiku in Japanese, tong hao in Chinese, and ssukgat in Korean — is one of the most important cool-season cooking greens in East Asian cuisine. The bright green, deeply lobed leaves have a distinctive aromatic, slightly bitter, herby flavor (somewhere between parsley and chrysanthemum tea) that is indispensable in hot pot, sukiyaki, and many stir-fried dishes. Harvest outer leaves continuously beginning at 4 weeks, or cut plants to 2 inches for regrowth. In warm weather the plants quickly bolt to produce cheerful yellow-and-white daisy flowers (which are edible and attractive), but leaf quality declines as they bolt — succession sow every 2–3 weeks to maintain supply through the cool season. A partial shade position extends the harvest season by delaying bolting.",
+    "sources": [
+      "Kitazawa Seed Company — Shungiku/Tong Hao",
+      "University of California Cooperative Extension — Asian Vegetables",
+      "Johnny's Selected Seeds",
+      "Lee Reich: Uncommon Fruits for Every Garden"
+    ]
+  },
+  {
+    "slug": "iron-clay-pea",
+    "common_name": "Iron Clay Pea (Iron and Clay Cowpea)",
+    "scientific_name": "Vigna unguiculata subsp. unguiculata 'Iron and Clay'",
+    "category": "vegetable",
+    "subcategory": "cover crop",
+    "days_to_germination": {"min": 5, "max": 10},
+    "germination_soil_temp_f": {"min": 65, "max": 95},
+    "days_to_maturity": {"min": 80, "max": 100},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 2, "max": 4},
+      "note": "Broadcast or drill after soil reaches 65°F; Iron Clay is typically seeded at 40–80 lbs per acre or 1–2 lbs per 1000 sq ft. In zone 9 the primary window is April–July; a late summer planting (July–August) provides excellent late-season biomass before frost."
+    },
+    "usda_zones": {"min": 6, "max": 11},
+    "spacing_in": {"min": 4, "max": 6},
+    "height_in": {"min": 18, "max": 36},
+    "spread_in": {"min": 12, "max": 24},
+    "sun": "full",
+    "water": "low",
+    "directions": "Broadcast at 40–80 lbs per acre (or 1 lb per 1000 sq ft) onto a loosened seedbed and rake in lightly; no inoculant is required in soil with prior cowpea history, but rhizobium inoculant greatly improves nitrogen fixation in new ground. Iron Clay is a hybrid between iron cowpea and clay cowpea types bred specifically as a summer cover crop and forage legume for the southeastern US. It is one of the most heat- and drought-tolerant summer cover crops available, providing dense weed suppression, substantial nitrogen fixation (80–150 lbs N/acre under ideal conditions), erosion control, and wildlife habitat simultaneously. The vining, semi-prostrate plants knit together to form a dense ground cover; deer and other wildlife browse the foliage heavily, making it popular as a food-plot crop. Terminate before seed set by mowing or incorporation. In a garden context, till under green at peak vegetative growth for maximum nitrogen credit.",
+    "sources": [
+      "USDA NRCS Plant Guide — Cowpea (Vigna unguiculata)",
+      "Southern Exposure Seed Exchange",
+      "Texas A&M AgriLife Extension — Cover Crops for Texas",
+      "Louisiana State University AgCenter — Summer Cover Crops"
+    ]
+  },
+  {
+    "slug": "babington-leek",
+    "common_name": "Babington's Leek (Perennial Leek)",
+    "scientific_name": "Allium ampeloprasum var. babingtonii",
+    "category": "vegetable",
+    "subcategory": "allium",
+    "days_to_germination": {"min": 14, "max": 21},
+    "germination_soil_temp_f": {"min": 50, "max": 70},
+    "days_to_maturity": {"min": 90, "max": 120},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Plant bulbils (tiny bulbs produced in the flower head) or transplants in spring or fall; Babington's leek is best propagated from bulbils, planting them 1 inch deep and 6–8 inches apart. It takes a full season to establish but then persists indefinitely, spreading slowly by underground bulblets and overhead bulbils."
+    },
+    "usda_zones": {"min": 7, "max": 10},
+    "spacing_in": {"min": 6, "max": 8},
+    "height_in": {"min": 24, "max": 48},
+    "spread_in": {"min": 6, "max": 12},
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant bulbils or transplants in well-drained, fertile soil in full sun; Babington's leek is a wild, perennial form of the cultivated leek native to the Atlantic coasts of western Europe, where it naturalizes on cliffs and hedgerows. Unlike annual leeks, it forms a persistent clump that produces new leaves each season, dies back in summer heat, then regrows vigorously in fall — making it particularly well-adapted to Mediterranean-climate and zone 9 gardens where annual leeks struggle in summer. Harvest leaves, stems, and green tops throughout the cool season much like walking onions. In late summer it produces a tall umbel of flowers plus abundant aerial bulbils — collect these and replant to expand your patch. The flavor is mild and leek-like, less pungent than multiplying onions. A classic cottage garden perennial allium valued in permaculture systems for its low maintenance once established.",
+    "sources": [
+      "Plants For A Future database — Allium ampeloprasum var. babingtonii",
+      "Thyme Will Tell: Heritage Seed Library, UK",
+      "Martin Crawford: Creating a Forest Garden, Green Books 2010",
+      "Chelsea Physic Garden seed collection records"
+    ]
+  }
+]

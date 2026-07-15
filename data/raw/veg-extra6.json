@@ -246,5 +246,37 @@
       "Cornell Cooperative Extension Vegetable Growing Guide",
       "Missouri Botanical Garden Plant Finder"
     ]
+  },
+  {
+    "slug": "texas-1015-onion",
+    "common_name": "Texas 1015 Sweet Onion (Texas Super Sweet)",
+    "scientific_name": "Allium cepa 'Texas 1015'",
+    "category": "vegetable",
+    "subcategory": "allium",
+    "days_to_germination": {"min": 7, "max": 14},
+    "germination_soil_temp_f": {"min": 50, "max": 75},
+    "days_to_maturity": {"min": 170, "max": 200},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {"min": -8, "max": -4},
+      "note": "In zone 8–10, set transplants in October through December for spring harvest; Texas 1015 is a short-day onion requiring less than 12 hours of daylight to bulb up — it is specifically adapted to the Gulf Coast climate and should be planted in fall for harvest in April–May. Named '1015' for its ideal planting date of October 15 in South Texas."
+    },
+    "usda_zones": {"min": 7, "max": 10},
+    "spacing_in": {"min": 4, "max": 6},
+    "height_in": {"min": 18, "max": 24},
+    "spread_in": {"min": 4, "max": 6},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Set transplants 1–2 inches deep in well-drained, fertile, slightly acidic to neutral soil in full sun in October–December for Gulf Coast and South Texas; Texas 1015 (Texas Super Sweet) is the premier commercial and home garden short-day sweet onion of Texas and the Gulf Coast, developed by Texas A&M AgriLife Research and named for its recommended planting date of October 15 in the Rio Grande Valley. The large, globe-shaped, golden-yellow onions have exceptionally mild, sweet, low-pyruvate flesh with virtually no sharpness — one of the mildest onions grown anywhere in the world, comparable to Vidalia and Walla Walla in sweetness and suitable for eating raw in salads, sandwiches, and fresh salsas without the bite of storage onions. It has the distinctive pale yellow, thin skin and high moisture content of sweet onions. Harvest when tops fall over naturally; cure in a warm, airy location for 2 weeks before storing in a cool, dry spot (sweet onions have shorter storage life than sharp onions due to high moisture and sugar content).",
+    "sources": [
+      "Texas A&M AgriLife Research and Extension",
+      "Texas A&M AgriLife Extension",
+      "National Onion Association",
+      "Louisiana State University AgCenter"
+    ]
   }
 ]

@@ -1,0 +1,162 @@
+[
+  {
+    "slug": "pepperoncini",
+    "common_name": "Pepperoncini (Tuscan Pepper, Golden Greek Pepper)",
+    "scientific_name": "Capsicum annuum 'Pepperoncini'",
+    "category": "vegetable",
+    "subcategory": "pepper",
+    "days_to_germination": {"min": 7, "max": 14},
+    "germination_soil_temp_f": {"min": 70, "max": 85},
+    "days_to_maturity": {"min": 70, "max": 90},
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": -8, "max": -6},
+      "note": "Start seeds indoors 6–8 weeks before transplanting; in zone 9 start in January and transplant February–March. Pepperoncini is harvested green (2–3 inches long) for pickling, or allowed to turn red for a sweeter, riper flavor. In zone 9, the long warm season enables outstanding production through spring and fall."
+    },
+    "usda_zones": {"min": 5, "max": 10},
+    "spacing_in": {"min": 18, "max": 24},
+    "height_in": {"min": 24, "max": 36},
+    "spread_in": {"min": 18, "max": 24},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Start seeds at 75–80°F and transplant into fertile, well-drained soil in full sun; pepperoncini is the classic Italian pickling and frying pepper, widely grown throughout Tuscany and the Greek Peloponnese for centuries and the pepper that fills the olive bar jars in every American grocery store. The thin-walled, mildly hot (100–500 Scoville), wrinkled fruits are harvested at 2–3 inches when bright green for pickling in white wine vinegar — the standard preparation produces the distinctive brine-pickled pepperoncini familiar from Italian sub sandwiches and antipasto. When allowed to ripen fully red, the fruits sweeten considerably and are excellent fresh or roasted. The plants are productive and undemanding, bearing heavily over a long season in full sun with consistent moisture. In Italian cooking, fresh pepperoncini are used whole in pasta sauces (arrabbiata), braised with olives and capers, and roasted under poultry. The Greek variety (often called 'Golden Greek' or 'Greek Golden') is essentially the same pepper and is the primary type pickled for commercial sale in the US.",
+    "sources": [
+      "Seed Savers Exchange — Pepperoncini variety notes",
+      "Johnny's Selected Seeds — Italian Pepper varieties",
+      "Italian Ministry of Agricultural Policy — Protected traditional pepper varieties",
+      "University of California Cooperative Extension — Specialty Peppers"
+    ]
+  },
+  {
+    "slug": "carolina-reaper",
+    "common_name": "Carolina Reaper Pepper",
+    "scientific_name": "Capsicum chinense 'Carolina Reaper'",
+    "category": "vegetable",
+    "subcategory": "pepper",
+    "days_to_germination": {"min": 14, "max": 28},
+    "germination_soil_temp_f": {"min": 80, "max": 90},
+    "days_to_maturity": {"min": 90, "max": 120},
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": -12, "max": -10},
+      "note": "Start seeds indoors 10–12 weeks before last frost at 85°F with bottom heat; Carolina Reaper is slow to germinate and slow to reach transplant size. In zone 9, start in November–December for February transplant. Plants are perennial in zone 9b–11 and can be kept as multi-year producers with frost protection."
+    },
+    "usda_zones": {"min": 9, "max": 12},
+    "spacing_in": {"min": 24, "max": 36},
+    "height_in": {"min": 36, "max": 60},
+    "spread_in": {"min": 24, "max": 36},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Start seeds at 85–90°F soil temperature with bottom heat — germination is erratic and may take 3–4 weeks; transplant into rich, well-drained soil in full sun after nights stay above 60°F. Carolina Reaper was certified by Guinness World Records as the world's hottest pepper in 2013, averaging 1.57 million Scoville Heat Units (SHU) with peak measurements above 2.2 million SHU — roughly 200 times hotter than a jalapeño and significantly more potent than habaneros. It was bred by Ed Curlin (PuckerButt Pepper Company) in Rock Hill, South Carolina, by crossing a Pakistani Naga with a Red Habanero. The distinctive wrinkled, red-orange fruits are small (1–2 inches) with a characteristic scorpion-tail sting at the tip and a fruity, complex flavor underneath the extreme heat. Handle with nitrile gloves and eye protection — touching eyes or face after handling can cause serious irritation. Used in hot sauces, salsas, and challenge eating. The plants are attractive and productive in warm climates. In zone 9, treat as a long-season annual or overwinter as a perennial in zone 9b.",
+    "sources": [
+      "Guinness World Records 2013 — Carolina Reaper hottest pepper certification",
+      "PuckerButt Pepper Company — Carolina Reaper breeding notes",
+      "Chile Pepper Institute, New Mexico State University",
+      "Journal of Experimental Botany — Capsaicinoid analysis"
+    ]
+  },
+  {
+    "slug": "everglades-tomato",
+    "common_name": "Everglades Tomato (Wild Tomato)",
+    "scientific_name": "Solanum pimpinellifolium",
+    "category": "vegetable",
+    "subcategory": "tomato",
+    "days_to_germination": {"min": 5, "max": 10},
+    "germination_soil_temp_f": {"min": 70, "max": 85},
+    "days_to_maturity": {"min": 60, "max": 75},
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": -8, "max": -6},
+      "note": "Start seeds indoors 6–8 weeks before transplanting; in zone 9 start in January and transplant February–March. Everglades tomato naturalizes readily in warm coastal climates and can reseed prolifically — once established, it may grow as a perennial in frost-free zone 10 or self-seed reliably in zone 9."
+    },
+    "usda_zones": {"min": 9, "max": 12},
+    "spacing_in": {"min": 24, "max": 48},
+    "height_in": {"min": 48, "max": 96},
+    "spread_in": {"min": 36, "max": 60},
+    "sun": "full",
+    "water": "low",
+    "directions": "Transplant into any well-drained soil in full sun; the Everglades tomato is the wild currant tomato (Solanum pimpinellifolium) as it naturalized and adapted to South Florida's extreme subtropical heat, humidity, and occasional drought over generations. It is the most heat-tolerant of all cultivated tomatoes — it reliably sets fruit at temperatures above 95°F and through humidity levels that shut down every commercial variety. The tiny (marble-sized, 1/2 inch) red fruits grow in long clusters of 20–40 and have an intensely rich, sweet-acidic tomato flavor disproportionate to their size — considered by many to have the purest tomato taste of any variety. The vines sprawl and climb enthusiastically (6–8 feet) and are extremely drought-tolerant once established. In South Florida, Everglades tomatoes produce year-round and naturalize along roadsides and garden fences. In zone 9a, they perform as a long-season annual. Seeds are collected easily and the plant passes selected characteristics to offspring, making it an important parent in breeding heat-tolerant tomatoes. Highly recommended for hot, humid, low-maintenance gardens.",
+    "sources": [
+      "University of Florida IFAS Extension — Everglades Tomato for Florida Gardens",
+      "Florida Native Plant Society records",
+      "Southern Exposure Seed Exchange — Currant Tomato varieties",
+      "Rick Martini, UF/IFAS Hendry County Extension — Heritage tomato notes"
+    ]
+  },
+  {
+    "slug": "rio-red-grapefruit",
+    "common_name": "Rio Red Grapefruit",
+    "scientific_name": "Citrus x paradisi 'Rio Red'",
+    "category": "fruit",
+    "subcategory": "citrus",
+    "days_to_germination": {"min": 14, "max": 30},
+    "germination_soil_temp_f": {"min": 70, "max": 85},
+    "days_to_maturity": {"min": 1095, "max": 1825},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 2, "max": 8},
+      "note": "Plant grafted container trees in spring after last cold risk; in zone 9 plant February–April in the warmest location with excellent drainage. Grapefruit requires more accumulated heat units than oranges to develop full sweetness — site in the hottest spot available. Rio Red ripens October through March in Texas and Florida."
+    },
+    "usda_zones": {"min": 9, "max": 11},
+    "spacing_in": {"min": 180, "max": 240},
+    "height_in": {"min": 144, "max": 240},
+    "spread_in": {"min": 144, "max": 192},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in well-drained soil in full sun, the warmest available location; Rio Red is a grapefruit cultivar developed at Texas A&M University through irradiation mutagenesis of Ruby Red stock and released in 1984 — and has since become the dominant commercial grapefruit variety in Texas, replacing both Ruby Red and Star Ruby on most commercial acreage. The fruit is the gold standard for Texas red grapefruit: large, with yellow skin blushed deep red-pink, and flesh that is deep crimson-red, very sweet (low acidity), with complex flavor and very few seeds. Rio Red's flesh has the deepest, most consistent red color of any commercially significant grapefruit variety, a characteristic valued by both fresh market buyers and for appearance when halved. The trees are vigorous and productive. Feed with citrus fertilizer 3–4 times annually and supplement with zinc and manganese chelate if leaves show deficiency symptoms on alkaline soils. Protect below 28°F. In zone 9 the long hot summers develop excellent sweetness and color in the fall crop.",
+    "sources": [
+      "Texas A&M University Agricultural Experiment Station — Rio Red grapefruit release notes 1984",
+      "Texas A&M AgriLife Extension — Grapefruit Industry in the Rio Grande Valley",
+      "Texas Citrus Mutual Association — Commercial variety statistics",
+      "University of Florida IFAS Extension — Red Grapefruit Production"
+    ]
+  },
+  {
+    "slug": "tifblue-blueberry",
+    "common_name": "Tifblue Blueberry",
+    "scientific_name": "Vaccinium ashei 'Tifblue'",
+    "category": "berry",
+    "subcategory": "blueberry",
+    "days_to_germination": {"min": 30, "max": 90},
+    "germination_soil_temp_f": {"min": 60, "max": 70},
+    "days_to_maturity": {"min": 730, "max": 1095},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Plant during winter dormancy in very acidic, well-drained soil; Tifblue requires 400–600 chill hours and a cross-pollinating companion (Climax, Premier, Brightwell) for reliable production. It is not self-fruitful. Late-season (July–August in zone 8–9) ripening extends the blueberry harvest past all other rabbiteye varieties."
+    },
+    "usda_zones": {"min": 7, "max": 9},
+    "spacing_in": {"min": 72, "max": 96},
+    "height_in": {"min": 72, "max": 120},
+    "spread_in": {"min": 60, "max": 84},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Amend soil to pH 4.5–5.0 with peat or sulfur before planting; Tifblue is a rabbiteye blueberry developed by the Georgia Experiment Station (Tifton, Georgia) and released in 1955, becoming the most widely planted rabbiteye blueberry variety in the world for most of the 20th century. Though newer varieties (Climax, Premier, Brightwell) have larger or earlier-ripening fruit, Tifblue maintains a loyal following as the definitive late-season rabbiteye: its berries ripen in late July through August in zone 8–9, extending the blueberry season 4–6 weeks past early varieties. Berries are medium-sized, light blue, mildly sweet, with a firm texture that makes them excellent for shipping, freezing, and baking where texture is important. Tifblue is also one of the most important pollinators for other rabbiteye varieties, its abundant, late-season pollen highly compatible with Fry and other non-self-fertile varieties. Plants are vigorous, productive, and cold-hardy for a rabbiteye (surviving 10–15°F without significant damage in established plants). As a historical benchmark variety and reliable late-season producer, Tifblue remains valuable in zone 7–9 blueberry plantings.",
+    "sources": [
+      "Georgia Experiment Station — Tifblue rabbiteye blueberry release notes 1955",
+      "University of Georgia Cooperative Extension — Historical rabbiteye blueberry varieties",
+      "LSU AgCenter — Blueberry Variety Performance in Louisiana",
+      "North Carolina State Extension — Blueberry Cultivar Evaluations"
+    ]
+  }
+]

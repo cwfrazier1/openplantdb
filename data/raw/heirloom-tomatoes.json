@@ -215,5 +215,193 @@
       "Baker Creek Heirloom Seeds",
       "Italian Seed Saving Network"
     ]
+  },
+  {
+    "slug": "arkansas-traveler-tomato",
+    "common_name": "Arkansas Traveler Tomato",
+    "scientific_name": "Solanum lycopersicum 'Arkansas Traveler'",
+    "category": "vegetable",
+    "subcategory": "tomato",
+    "days_to_germination": {"min": 5, "max": 10},
+    "germination_soil_temp_f": {"min": 70, "max": 85},
+    "days_to_maturity": {"min": 80, "max": 90},
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": -8, "max": -6},
+      "note": "Start indoors 6–8 weeks before last frost; transplant after frost danger passes. In zone 9 this is an outstanding choice for both spring and fall seasons; plant a second crop in late July or August for fall harvest. Arkansas Traveler is notably heat-tolerant and continues setting fruit at temperatures where most tomatoes drop blossoms."
+    },
+    "usda_zones": {"min": 4, "max": 10},
+    "spacing_in": {"min": 24, "max": 36},
+    "height_in": {"min": 60, "max": 84},
+    "spread_in": {"min": 24, "max": 36},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Start seeds indoors 6–8 weeks before last frost in warm (70–85°F) starting mix; transplant to full sun after frost risk passes; Arkansas Traveler is the quintessential heat-tolerant Southern heirloom, developed at the University of Arkansas and introduced around 1939 as a reliable producer through the oppressive midsummer heat of the South and Gulf Coast that causes most other tomatoes to drop blossoms and go dormant. The indeterminate vines produce medium to large (6–8 oz) pink, globe-shaped fruits with mild, low-acid flavor, thin skin, and very good crack resistance — exactly the qualities that make it a top recommendation for zone 8–10 gardeners frustrated by summer tomato failure. The meaty, juicy flesh has classic sweet tomato flavor without sharp acidity. A dependable heirloom for hot climates: one of the best-adapted tomatoes for gardens where summer heat is the limiting factor.",
+    "sources": [
+      "University of Arkansas Cooperative Extension Service",
+      "Seed Savers Exchange",
+      "Baker Creek Heirloom Seeds",
+      "Southern Exposure Seed Exchange"
+    ]
+  },
+  {
+    "slug": "tropic-tomato",
+    "common_name": "Tropic Tomato",
+    "scientific_name": "Solanum lycopersicum 'Tropic'",
+    "category": "vegetable",
+    "subcategory": "tomato",
+    "days_to_germination": {"min": 5, "max": 10},
+    "germination_soil_temp_f": {"min": 70, "max": 85},
+    "days_to_maturity": {"min": 80, "max": 90},
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": -8, "max": -6},
+      "note": "Start indoors 6–8 weeks before transplanting; in zone 9–11 this is an outstanding tomato for both spring and fall production — developed specifically for tropical and subtropical climates where standard varieties fail to set fruit in summer heat. In South Florida and the Gulf Coast, Tropic outlasts other varieties well into summer."
+    },
+    "usda_zones": {"min": 8, "max": 12},
+    "spacing_in": {"min": 24, "max": 36},
+    "height_in": {"min": 48, "max": 72},
+    "spread_in": {"min": 24, "max": 36},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Start seeds indoors at 70–85°F 6–8 weeks before transplanting; set plants in full sun in fertile, well-drained soil; Tropic tomato was developed at the University of Florida IFAS and released in 1963 specifically for tropical and subtropical climates — the most durable, disease-resistant open-pollinated tomato for zone 8b–12. It continues setting fruit at temperatures where most tomatoes stop, has resistance to fusarium wilt, verticillium wilt, and gray leaf spot (the diseases that devastate most tomatoes in South Florida's humid heat), and produces good-sized (6–8 oz), red, globe-shaped fruits with solid, meaty flesh and good flavor from spring well into summer. For Gulf Coast and Florida gardeners who struggle with tomato diseases and summer heat, Tropic remains the benchmark open-pollinated variety after 60 years because no other variety has combined its disease resistance and tropical performance as consistently.",
+    "sources": [
+      "University of Florida IFAS Extension",
+      "Southern Exposure Seed Exchange",
+      "Seed Savers Exchange"
+    ]
+  },
+  {
+    "slug": "porter-tomato",
+    "common_name": "Porter Tomato (Porter's Pride)",
+    "scientific_name": "Solanum lycopersicum 'Porter'",
+    "category": "vegetable",
+    "subcategory": "tomato",
+    "days_to_germination": {"min": 5, "max": 10},
+    "germination_soil_temp_f": {"min": 70, "max": 85},
+    "days_to_maturity": {"min": 70, "max": 80},
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": -8, "max": -6},
+      "note": "Start indoors 6–8 weeks before transplanting; Porter is an outstanding heat and drought-tolerant tomato for Texas and the Gulf Coast — historically the most widely grown home garden tomato in Texas, it performs reliably in hot, dry conditions where other varieties wilt and fail to fruit."
+    },
+    "usda_zones": {"min": 5, "max": 10},
+    "spacing_in": {"min": 24, "max": 36},
+    "height_in": {"min": 60, "max": 84},
+    "spread_in": {"min": 24, "max": 36},
+    "sun": "full",
+    "water": "low",
+    "directions": "Start indoors 6–8 weeks before transplanting; set plants in well-drained, moderately fertile soil in full sun; Porter tomato is a Texas heirloom introduced around 1897–1900 by the Porter & Sons seed company of San Antonio, developed or selected specifically for the demanding conditions of Texas summers — heat, drought, and alkaline soils that would destroy most Eastern varieties. The small to medium (4–6 oz), pinkish-red, slightly oval fruits grow in clusters and have rich, concentrated flavor enhanced by mild water stress. Porter is genuinely drought tolerant and produces in Texas summer heat when standard varieties quit blooming. Historically the most important garden tomato in Central and South Texas, where generations of families grew it through conditions that would kill Brandywine or Cherokee Purple. For any gardener in the hot, dry interior South or Southwest struggling with summer tomato production, Porter is the essential starting point.",
+    "sources": [
+      "Texas A&M AgriLife Extension",
+      "Southern Exposure Seed Exchange",
+      "Seed Savers Exchange",
+      "Baker Creek Heirloom Seeds"
+    ]
+  },
+  {
+    "slug": "manalucie-tomato",
+    "common_name": "Manalucie Tomato",
+    "scientific_name": "Solanum lycopersicum 'Manalucie'",
+    "category": "vegetable",
+    "subcategory": "tomato",
+    "days_to_germination": {"min": 5, "max": 10},
+    "germination_soil_temp_f": {"min": 70, "max": 85},
+    "days_to_maturity": {"min": 80, "max": 90},
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": -8, "max": -6},
+      "note": "Start indoors 6–8 weeks before last frost; in zone 9 both a spring and a fall planting are productive — Manalucie's resistance to gray leaf spot makes it particularly reliable in the high-humidity conditions of Gulf Coast summers where this disease devastates susceptible varieties."
+    },
+    "usda_zones": {"min": 7, "max": 11},
+    "spacing_in": {"min": 24, "max": 36},
+    "height_in": {"min": 60, "max": 96},
+    "spread_in": {"min": 24, "max": 36},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Start seeds indoors at 70–85°F 6–8 weeks before transplanting; set out in full sun, fertile, well-drained soil; Manalucie was developed by the University of Florida in the 1950s and named for the Manalucie experimental farm in Homestead, Florida — one of several important tomato varieties developed by UF plant breeders for subtropical Florida conditions. An indeterminate variety producing large, red, globe-shaped fruits (8–12 oz) with solid flesh, good flavor, and outstanding resistance to gray leaf spot (Stemphylium solani), a fungal disease that is especially destructive in Florida and humid Gulf Coast conditions but for which most tomato varieties have no resistance. Manalucie was for decades the standard large beefsteak-type tomato for Florida home gardens because of this specific disease resistance. It remains valuable today for any gardener in zone 8b–11 who has struggled with leaf spot diseases in tomatoes.",
+    "sources": [
+      "University of Florida IFAS Extension",
+      "Southern Exposure Seed Exchange",
+      "Seed Savers Exchange"
+    ]
+  },
+  {
+    "slug": "walter-tomato",
+    "common_name": "Walter Tomato",
+    "scientific_name": "Solanum lycopersicum 'Walter'",
+    "category": "vegetable",
+    "subcategory": "tomato",
+    "days_to_germination": {"min": 5, "max": 10},
+    "germination_soil_temp_f": {"min": 70, "max": 85},
+    "days_to_maturity": {"min": 75, "max": 85},
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": -8, "max": -6},
+      "note": "Start indoors 6–8 weeks before transplanting; in zone 9 Walter is an outstanding spring and fall tomato with excellent disease resistance for humid Gulf Coast conditions. Determinate habit means a concentrated, predictable harvest good for canning large batches."
+    },
+    "usda_zones": {"min": 7, "max": 11},
+    "spacing_in": {"min": 24, "max": 36},
+    "height_in": {"min": 36, "max": 48},
+    "spread_in": {"min": 24, "max": 36},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Start seeds indoors 6–8 weeks before transplanting; set determinate plants 2–3 feet apart in full sun, fertile, well-drained soil; Walter tomato was released by the University of Florida in 1963, the same year as Tropic, and quickly became a commercial and home garden staple in the Southeast for its reliable production, disease resistance, and compact determinate growth habit. It produces medium-large (6–8 oz), red, round fruits with smooth skin, firm flesh, and good canning and fresh-eating quality, with resistance to fusarium wilt and gray leaf spot. Walter's determinate habit (which concentrates flowering and ripening into a defined period rather than producing continuously like indeterminate types) makes it efficient for gardeners who want a single large harvest for preserving and canning. Once the standard commercial processing tomato in Florida, it remains an important heirloom for Gulf Coast gardeners who need a reliably productive, disease-resistant, compact-season tomato.",
+    "sources": [
+      "University of Florida IFAS Extension",
+      "Southern Exposure Seed Exchange",
+      "Seed Savers Exchange"
+    ]
+  },
+  {
+    "slug": "homestead-24-tomato",
+    "common_name": "Homestead 24 Tomato",
+    "scientific_name": "Solanum lycopersicum 'Homestead 24'",
+    "category": "vegetable",
+    "subcategory": "tomato",
+    "days_to_germination": {"min": 5, "max": 10},
+    "germination_soil_temp_f": {"min": 70, "max": 85},
+    "days_to_maturity": {"min": 80, "max": 90},
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": -8, "max": -6},
+      "note": "Start indoors 6–8 weeks before transplanting; a spring and fall tomato for zone 9–11. Homestead 24 is one of the most heat-tolerant open-pollinated tomatoes available, developed for the intense summer heat of South Florida where standard tomatoes fail."
+    },
+    "usda_zones": {"min": 8, "max": 12},
+    "spacing_in": {"min": 24, "max": 36},
+    "height_in": {"min": 36, "max": 48},
+    "spread_in": {"min": 24, "max": 36},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Start seeds indoors 6–8 weeks before transplanting; set plants in full sun, fertile soil with good drainage; Homestead 24 is a University of Florida IFAS heirloom bred at the Homestead Experiment Station in Homestead, Florida, selected for heat tolerance and disease resistance under South Florida's extreme subtropical growing conditions. The '24' designation indicates a selection within the Homestead series, the result of many generations of selection for performance in tropical heat and humidity. Determinate plants produce medium (6–8 oz), red, globe-shaped fruits with good flavor, firm flesh, and resistance to fusarium wilt and gray leaf spot. An important open-pollinated variety for zone 9b–12 gardeners who want to produce tomatoes reliably in hot, humid summer conditions where most varieties fail to set fruit — one of the trio of UF heirlooms (with Tropic and Walter) that carried South Florida vegetable gardening through decades before modern disease-resistant hybrids became available.",
+    "sources": [
+      "University of Florida IFAS Extension",
+      "Southern Exposure Seed Exchange",
+      "Seed Savers Exchange"
+    ]
   }
 ]

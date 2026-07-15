@@ -1,0 +1,162 @@
+[
+  {
+    "slug": "parlor-palm",
+    "common_name": "Parlor Palm (Neanthe Palm, Good Luck Palm, Bella Palm)",
+    "scientific_name": "Chamaedorea elegans",
+    "category": "flower",
+    "subcategory": "shade palm",
+    "days_to_germination": {"min": 45, "max": 90},
+    "germination_soil_temp_f": {"min": 70, "max": 80},
+    "days_to_maturity": {"min": 1095, "max": 2190},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Grow in containers in zone 9 — Parlor Palm cannot tolerate frost and must be kept above 50°F year-round. In zone 10-11, plant outdoors in deep, consistently shaded spots with moist, well-drained soil. As a container plant, repot every 2–3 years when roots fill the pot; a slightly root-bound plant is fine. Low humidity is the main indoor problem — mist regularly or use a humidity tray. Do not overwater — allow the top inch of soil to dry between waterings."
+    },
+    "usda_zones": {"min": 10, "max": 12},
+    "spacing_in": {"min": 18, "max": 36},
+    "height_in": {"min": 24, "max": 72},
+    "spread_in": {"min": 18, "max": 36},
+    "sun": "shade",
+    "water": "moderate",
+    "directions": "Grow in low to bright indirect light; Parlor Palm is one of the most shade-tolerant palms available, thriving in the reduced light levels of interior rooms, offices, and north-facing windows where most palms would quickly decline. Chamaedorea elegans is a small, graceful, clustering palm native to the cloud forests and rainforest understory of southern Mexico (Veracruz, Oaxaca, San Luis Potosí) and Guatemala at elevations up to 5,000 feet — its adaptation to the deeply shaded forest floor makes it uniquely suited to indoor conditions. Since the 19th century, when cut fronds became popular as floral arrangements and the plants were grown in Victorian parlors (hence the name), Chamaedorea elegans has become one of the most widely sold and cultivated houseplants in the world. The palm forms a slow-growing, multi-stemmed clump of slender, bamboo-like stems carrying dark-green, pinnately-compound fronds 2–3 feet long. It produces small, yellow, bead-like flowers (occasionally borne even on young plants) followed by small black fruits if pollinated. Parlor Palm is on the NASA Clean Air Study list for removing benzene, formaldehyde, and trichloroethylene from indoor air. Non-toxic to pets and children — one of the few large palms confirmed safe for households with cats and dogs.",
+    "sources": [
+      "University of Florida IFAS Extension — Chamaedorea elegans (Parlor Palm)",
+      "NASA Clean Air Study (1989) — Chamaedorea elegans indoor air quality",
+      "Royal Horticultural Society — Chamaedorea elegans (AGM plant)",
+      "ASPCA Animal Poison Control — Chamaedorea elegans (non-toxic to pets)"
+    ]
+  },
+  {
+    "slug": "areca-palm",
+    "common_name": "Areca Palm (Butterfly Palm, Golden Cane Palm, Madagascar Palm)",
+    "scientific_name": "Dypsis lutescens",
+    "category": "flower",
+    "subcategory": "tropical palm",
+    "days_to_germination": {"min": 30, "max": 60},
+    "germination_soil_temp_f": {"min": 75, "max": 85},
+    "days_to_maturity": {"min": 1095, "max": 2190},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 2, "max": 6},
+      "note": "Plant container-grown specimens in late spring in full sun to partial shade with fertile, moist, well-drained, slightly acidic soil; Areca Palm is frost-sensitive (damaged below 32°F) and should be planted in zone 10-11 for outdoor landscape use, or grown in large containers in zone 9. In zone 9, use as a large container specimen on the patio from spring through fall, moving to a greenhouse or heated space in winter. Areca Palm is chlorine-sensitive — use filtered or collected rainwater in hard water areas, and avoid over-fertilizing with fluoride-containing formulations."
+    },
+    "usda_zones": {"min": 10, "max": 11},
+    "spacing_in": {"min": 60, "max": 120},
+    "height_in": {"min": 72, "max": 360},
+    "spread_in": {"min": 72, "max": 120},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Plant in full sun to partial shade in moist, fertile, well-drained, slightly acidic soil; Areca Palm prefers consistently moist conditions and will develop yellowing fronds (potassium deficiency) in the alkaline soils common across the Gulf Coast — acidify soil with sulfur and use palm-formulated fertilizer containing micronutrients. Dypsis lutescens (formerly Chrysalidocarpus lutescens) is the most widely sold palm in the US nursery trade and one of the most commonly planted landscape palms in zone 10-11 Florida, Texas, and Gulf South landscapes — the graceful, arching, feathery fronds on cane-like yellow-green stems form magnificent multi-stemmed clumps reaching 15–25 feet. The yellow-green color of the stems (giving 'Golden Cane Palm' its name) and the softly arching frond tips that sway in the slightest breeze create an exceptionally elegant tropical effect. Native to Madagascar, where it is now endangered in the wild due to habitat loss, Areca Palm has become one of the world's most cultivated ornamental palms. The NASA Clean Air Study ranked it as one of the best air-purifying plants, removing xylene, toluene, and formaldehyde from indoor air. Non-toxic to pets and children.",
+    "sources": [
+      "University of Florida IFAS Extension — Dypsis lutescens (Areca Palm)",
+      "Fairchild Tropical Botanic Garden — Dypsis lutescens cultivation",
+      "NASA Clean Air Study (1989) — Dypsis lutescens (Areca Palm) air cleaning",
+      "ASPCA Animal Poison Control — Dypsis lutescens (non-toxic)"
+    ]
+  },
+  {
+    "slug": "pinstripe-calathea",
+    "common_name": "Pinstripe Calathea (Pin Stripe Plant, Calathea ornata)",
+    "scientific_name": "Calathea ornata",
+    "category": "flower",
+    "subcategory": "shade foliage houseplant",
+    "days_to_germination": {"min": null, "max": null},
+    "germination_soil_temp_f": {"min": 70, "max": 80},
+    "days_to_maturity": {"min": 180, "max": 365},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Grow as a houseplant or shaded patio container plant in zone 9; Calathea ornata cannot tolerate temperatures below 60°F or dry air. It requires consistent moisture, high humidity (above 50%), and bright indirect light to maintain its best appearance. Use filtered, distilled, or rainwater — fluoride and chlorine in tap water cause leaf tip browning. Propagate by dividing the rhizome clump at repotting time in spring. Leaves fold upward at night (nyctinasty) and return to horizontal position in daylight."
+    },
+    "usda_zones": {"min": 11, "max": 12},
+    "spacing_in": {"min": 12, "max": 18},
+    "height_in": {"min": 18, "max": 36},
+    "spread_in": {"min": 12, "max": 24},
+    "sun": "shade",
+    "water": "moderate",
+    "directions": "Grow in bright indirect to moderate shade — Calathea ornata performs best 3–6 feet from a bright window and will not tolerate direct sun which scorches the dramatic leaf markings. Calathea ornata is a tropical prayer plant from Colombia and Venezuela in the family Marantaceae, prized for its extraordinary leaf markings: the large, elongated, dark emerald-green leaves are decorated with precise, parallel, feather-like stripes of pale pink to cream in the juvenile phase (turning white as leaves mature) that radiate from the midrib, creating a pattern resembling elaborate hand-painted porcelain. The underside of each leaf is deep burgundy-purple. At night, the leaves fold upward (nyctinasty) — a behavior common to all Calatheas and Marantas that gives them the collective name 'prayer plants.' Calathea ornata's beautiful patterned foliage has made it one of the most sought-after decorative houseplants of the current era, though it has a well-deserved reputation for sensitivity: it is easily stressed by low humidity, fluoride in tap water, cold drafts, and overwatering, developing brown leaf tips and edges. The key to success is consistently warm temperatures, high humidity, and filtered water. Despite the challenges, a healthy, well-grown specimen is extraordinarily beautiful.",
+    "sources": [
+      "Royal Horticultural Society — Calathea ornata cultivation",
+      "University of Florida IFAS Extension — Calathea species for indoor tropical culture",
+      "American Horticulture Society — Marantaceae: prayer plants for indoor gardens",
+      "ASPCA Animal Poison Control — Calathea (non-toxic to pets and children)"
+    ]
+  },
+  {
+    "slug": "crystal-anthurium",
+    "common_name": "Crystal Anthurium (Crystal Laceleaf, Velvet Anthurium)",
+    "scientific_name": "Anthurium crystallinum",
+    "category": "flower",
+    "subcategory": "shade tropical foliage",
+    "days_to_germination": {"min": 21, "max": 45},
+    "germination_soil_temp_f": {"min": 70, "max": 80},
+    "days_to_maturity": {"min": 180, "max": 365},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Grow in a container in bright indirect light with high humidity (above 60%); Crystal Anthurium is strictly a tropical houseplant or greenhouse specimen in zone 9. It prefers chunky, well-aerated growing media — mix orchid bark, perlite, and potting soil at equal ratios for best results. Water when the top layer of growing medium dries, then water thoroughly. The large leaves are prone to damage from low humidity, tap water fluoride, and direct sun — protect from all three. All parts are toxic if ingested."
+    },
+    "usda_zones": {"min": 11, "max": 12},
+    "spacing_in": {"min": 12, "max": 24},
+    "height_in": {"min": 18, "max": 36},
+    "spread_in": {"min": 18, "max": 36},
+    "sun": "shade",
+    "water": "moderate",
+    "directions": "Grow in bright indirect to moderate shade — Crystal Anthurium needs adequate bright indirect light for vigorous leaf production but cannot tolerate direct sun, which bleaches and burns the dramatic foliage. Anthurium crystallinum is a tropical hemiepiphyte from the cloud forests of Colombia, Panama, and Peru in the Araceae family, prized by tropical plant collectors for its extraordinarily beautiful large leaves — a unique combination of velvety, deep emerald-green to blue-green surface texture and precisely delineated bright silver veins that create an intricate, crystalline pattern resembling etched glass or cut velvet. Young leaves emerge in shades of rose-pink to bronze before expanding and deepening to the mature dark green. As an epiphyte in its native cloud forest habitat, it grows anchored to tree bark in conditions of very high humidity, excellent air circulation, and bright filtered light — conditions that must be approximated in cultivation by using chunky, well-draining growing media and maintaining 60-80% relative humidity. Crystal Anthurium has become one of the most coveted of the 'velvet anthurium' group among tropical plant enthusiasts and collectors worldwide, partly for its exceptional beauty and partly because mature, well-grown specimens are genuinely rare. All parts are toxic due to calcium oxalate crystals.",
+    "sources": [
+      "Royal Botanic Gardens Kew — Anthurium crystallinum species profile",
+      "American Orchid Society — Epiphytic aroids: Anthurium cultivation notes",
+      "University of Florida IFAS Extension — Anthurium species for tropical collections",
+      "ASPCA Animal Poison Control — Anthurium crystallinum (toxic to pets)"
+    ]
+  },
+  {
+    "slug": "showy-jasmine",
+    "common_name": "Showy Jasmine (Florida Jasmine, Yellow Jasmine Shrub)",
+    "scientific_name": "Jasminum floridum",
+    "category": "flower",
+    "subcategory": "semi-evergreen shrub",
+    "days_to_germination": {"min": 14, "max": 30},
+    "germination_soil_temp_f": {"min": 60, "max": 70},
+    "days_to_maturity": {"min": 365, "max": 730},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 6},
+      "note": "Plant container-grown shrubs in spring in partial shade to full sun; Showy Jasmine is more cold-hardy than most jasmines and adapts well to zone 9 conditions, including heavy clay soils and summer humidity. It blooms most heavily in spring (March–May in zone 9) with lighter bloom repeats through fall. Prune after the main spring bloom to shape; avoid hard pruning in fall which removes flower buds. It is more shrubby and less sprawling than some jasmines, forming a mounded 3–5 foot specimen."
+    },
+    "usda_zones": {"min": 7, "max": 9},
+    "spacing_in": {"min": 36, "max": 60},
+    "height_in": {"min": 36, "max": 60},
+    "spread_in": {"min": 36, "max": 60},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Plant in full sun to partial shade in well-drained, average to moderately fertile soil; Showy Jasmine is adaptable to a range of soil types and is more tolerant of clay soils than many ornamental shrubs. Jasminum floridum is a semi-evergreen to evergreen shrubby jasmine native to China (cultivated in Chinese gardens for centuries and naturalized in parts of the southern US, hence its occasional listing as 'Florida Jasmine'). Unlike the vining habit of most popular jasmines (J. officinale, J. polyanthum), Showy Jasmine grows as a compact, mounding, multi-stemmed shrub with arching branches and small, dark-green, glossy, trifoliate or 5-leaflet compound leaves. The bright yellow, 5-petaled, tubular flowers bloom in spring and sporadically through the warm season, providing cheerful color without the fragrance of white-flowering jasmines — the flowers are pleasantly scented but not as intensely aromatic as J. polyanthum or J. officinale. Showy Jasmine is one of the better-adapted jasmines for zone 9 Gulf South conditions — tolerating summer heat, humidity, and clay soils better than the more tender tropical species while providing reliable cold hardiness through zone 7 winters. It makes an excellent landscape shrub for partially shaded foundation plantings, mixed shrub borders, and parking lot islands.",
+    "sources": [
+      "LSU AgCenter — Jasminum floridum (Showy Jasmine) for Louisiana landscapes",
+      "University of Georgia Extension — Jasminum species for Southeast gardens",
+      "Lady Bird Johnson Wildflower Center — Jasminum floridum",
+      "North Carolina State Extension Horticulture — Jasminum floridum"
+    ]
+  }
+]

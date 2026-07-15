@@ -1,0 +1,162 @@
+[
+  {
+    "slug": "anna-apple",
+    "common_name": "Anna Apple (Low-Chill Apple)",
+    "scientific_name": "Malus domestica 'Anna'",
+    "category": "fruit",
+    "subcategory": "pome fruit",
+    "days_to_germination": {"min": 60, "max": 120},
+    "germination_soil_temp_f": {"min": 50, "max": 70},
+    "days_to_maturity": {"min": 1095, "max": 1825},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": -8, "max": -4},
+      "note": "Plant bare-root trees in late winter (December–February in zone 9) or container trees spring through fall; Anna requires only 200–400 chill hours and is the most widely recommended apple for zone 9. Plant with Dorsett Golden or Ein Shemer for cross-pollination — Anna is not fully self-fertile."
+    },
+    "usda_zones": {"min": 6, "max": 10},
+    "spacing_in": {"min": 120, "max": 240},
+    "height_in": {"min": 120, "max": 240},
+    "spread_in": {"min": 96, "max": 180},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in well-drained, fertile, slightly acidic soil (pH 6.0–6.5) in full sun; Anna is a low-chill apple cultivar developed in Israel and introduced to the United States in the 1960s, requiring only 200–400 chill hours (hours below 45°F). This low chill requirement makes it the most successful apple in Florida, south Texas, and the Gulf Coast South where winter temperatures rarely accumulate the 800+ hours needed by most apple varieties. The medium-large fruits are greenish-yellow with a red blush, similar in appearance to Golden Delicious, with crisp, juicy flesh and a pleasant sweet-tart flavor. Anna is an early-season apple ripening in May–June in zone 9 — remarkably early, making fresh Gulf Coast apples available in late spring when no other apple is in season. Cross-pollination with Dorsett Golden or Ein Shemer significantly improves yields; plant them within 50 feet. For the finest flavor, allow fruit to ripen fully on the tree until it lifts easily from the branch. Anna is susceptible to apple scab and fire blight — maintain good air circulation and remove infected wood promptly.",
+    "sources": [
+      "University of Florida IFAS Extension — Apple Varieties for Florida (HS-32)",
+      "Texas A&M AgriLife Extension — Apple Production in Texas",
+      "California Rare Fruit Growers — Anna Apple notes",
+      "Petals from the Past Nursery (Alabama) — Low-chill apple variety guide"
+    ]
+  },
+  {
+    "slug": "dorsett-golden-apple",
+    "common_name": "Dorsett Golden Apple",
+    "scientific_name": "Malus domestica 'Dorsett Golden'",
+    "category": "fruit",
+    "subcategory": "pome fruit",
+    "days_to_germination": {"min": 60, "max": 120},
+    "germination_soil_temp_f": {"min": 50, "max": 70},
+    "days_to_maturity": {"min": 1095, "max": 1825},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": -8, "max": -4},
+      "note": "Plant bare-root trees in winter dormancy (December–February in zone 9); Dorsett Golden requires only 100–200 chill hours — the lowest requirement of any widely grown apple cultivar — making it viable in zone 10 and parts of south Florida where Anna struggles. Partially self-fertile but produces better crops with Anna or Ein Shemer nearby."
+    },
+    "usda_zones": {"min": 7, "max": 11},
+    "spacing_in": {"min": 120, "max": 240},
+    "height_in": {"min": 120, "max": 216},
+    "spread_in": {"min": 96, "max": 180},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in well-drained, fertile soil in full sun; Dorsett Golden originated as a chance seedling discovered in the Bahamas by Irene Dorsett in the 1950s, thriving in a climate with almost no winter chill. It requires only 100–200 chill hours — the lowest of any significant apple cultivar — and produces reliable crops in zone 9b–10a where even Anna struggles. The medium-large, golden-yellow fruits resemble Golden Delicious in appearance but ripen 2–3 weeks before Anna (April–May in zone 9), making it the first ripe apple of the season in the deep South. Flavor is sweet, mild, and pleasant with moderately crisp flesh. Dorsett Golden is partially self-fertile but sets significantly heavier crops when cross-pollinated with Anna or Ein Shemer. In zone 10, this trio of low-chill apple varieties (Anna, Dorsett Golden, Ein Shemer) makes apple growing possible where it would have been considered impossible a generation ago. Fire blight can be a problem — avoid excessive nitrogen fertilization, which promotes lush growth susceptible to infection.",
+    "sources": [
+      "University of Florida IFAS Extension — Apple Cultivars for Florida (HS-32)",
+      "California Rare Fruit Growers — Dorsett Golden Apple",
+      "Texas A&M AgriLife Extension — Low-Chill Apple Production",
+      "Jim Winters, Tropical Fruit Growers of South Florida — Apple notes"
+    ]
+  },
+  {
+    "slug": "leconte-pear",
+    "common_name": "LeConte Pear",
+    "scientific_name": "Pyrus x lecontei",
+    "category": "fruit",
+    "subcategory": "pome fruit",
+    "days_to_germination": {"min": 60, "max": 120},
+    "germination_soil_temp_f": {"min": 50, "max": 70},
+    "days_to_maturity": {"min": 1095, "max": 1825},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": -8, "max": -4},
+      "note": "Plant dormant bare-root trees in late winter (January–February in zone 9); LeConte is partially self-fertile but produces heavier crops when cross-pollinated with Orient, Garber, or Kieffer. It requires 150–200 chill hours — excellent for zone 8–9. Site in full sun with good air circulation to reduce fire blight risk."
+    },
+    "usda_zones": {"min": 7, "max": 9},
+    "spacing_in": {"min": 144, "max": 240},
+    "height_in": {"min": 144, "max": 300},
+    "spread_in": {"min": 120, "max": 180},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in deep, well-drained soil in full sun; LeConte is a historic American hybrid pear (Pyrus communis x Pyrus pyrifolia) developed in the 19th century in the United States and named for John LeConte, Georgia naturalist. It was one of the dominant commercial pear varieties in the Deep South from the 1850s through early 20th century because of its combination of fire blight resistance (far superior to European Bartlett types), low chill requirement (150–200 hours), and productivity under Gulf Coast conditions. The large, yellowish-green pear-shaped fruits are crisp and mildly sweet — good for fresh eating, canning, and preserves, though not as richly flavored as Bartlett. Trees are vigorous, productive, and extremely long-lived; old LeConte pear trees planted before 1900 still stand and fruit in some Southern gardens. Modern pear growers in the humid South should choose LeConte over Bartlett specifically for its far superior fire blight resistance. Prune in winter to an open-center or modified central-leader form; remove water sprouts that attract fire blight. Harvest when fruit lifts easily from the branch but before fully soft.",
+    "sources": [
+      "University of Georgia Cooperative Extension — Pear Varieties for Georgia (Bulletin 916)",
+      "LSU AgCenter — Pear Production in Louisiana",
+      "Texas A&M AgriLife Extension — Pear Varieties for Texas",
+      "Liberty Hyde Bailey: Cyclopedia of Horticulture 1902, LeConte pear notes"
+    ]
+  },
+  {
+    "slug": "orient-pear",
+    "common_name": "Orient Pear",
+    "scientific_name": "Pyrus communis x Pyrus serotina 'Orient'",
+    "category": "fruit",
+    "subcategory": "pome fruit",
+    "days_to_germination": {"min": 60, "max": 120},
+    "germination_soil_temp_f": {"min": 50, "max": 70},
+    "days_to_maturity": {"min": 1095, "max": 1825},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": -8, "max": -4},
+      "note": "Plant dormant bare-root trees January–February in zone 9; Orient is partially self-fertile but benefits from cross-pollination with LeConte, Kieffer, or Garber. Low chill requirement (100–150 hours) makes it one of the best pears for zone 9. Ripens July–August in zone 8–9 — earlier than most European pears."
+    },
+    "usda_zones": {"min": 5, "max": 9},
+    "spacing_in": {"min": 144, "max": 240},
+    "height_in": {"min": 144, "max": 300},
+    "spread_in": {"min": 120, "max": 180},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in deep, fertile, well-drained soil in full sun; Orient is a hybrid between European and Asian pear species released by the USDA in 1945 and one of the most recommended pears for zone 7–9 because of its exceptionally low chill requirement (100–150 hours), outstanding fire blight resistance, and reliable productivity in the humid South. The large, yellow-brown, russeted fruits are sweet and juicy with a slightly gritty, Asian pear texture — firm enough to eat fresh immediately after harvest (unlike European varieties that must ripen off the tree) and excellent for canning, preserves, and cooking. Orient trees are vigorous, productive, and relatively easy to grow in zone 9. The early ripening (July–August in most of the Gulf South) makes fresh pears available in midsummer — a time when pear production from the northern states is still weeks away. Orient is considered slightly more fire blight resistant than Kieffer and a better fresh-eating pear. One of the most reliably productive pear choices for Gulf Coast zone 8–9 home orchards.",
+    "sources": [
+      "USDA Agricultural Research Service — Orient pear release 1945",
+      "University of Georgia Cooperative Extension — Pear Production Guide",
+      "LSU AgCenter — Pear Varieties for Louisiana Home Orchards",
+      "Texas A&M AgriLife Extension — Orient pear for Texas"
+    ]
+  },
+  {
+    "slug": "tropic-snow-peach",
+    "common_name": "Tropic Snow Peach (White Peach)",
+    "scientific_name": "Prunus persica 'Tropic Snow'",
+    "category": "fruit",
+    "subcategory": "stone fruit",
+    "days_to_germination": {"min": 90, "max": 120},
+    "germination_soil_temp_f": {"min": 50, "max": 70},
+    "days_to_maturity": {"min": 1095, "max": 1460},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": -8, "max": -4},
+      "note": "Plant bare-root trees in late winter dormancy (January–February in zone 9); Tropic Snow requires only 200 chill hours — well-suited to zone 9a and reliable in zone 9b. Self-fertile. An early-season variety ripening in April in zone 9 — among the earliest white-flesh peaches for the Gulf Coast."
+    },
+    "usda_zones": {"min": 8, "max": 10},
+    "spacing_in": {"min": 144, "max": 216},
+    "height_in": {"min": 120, "max": 180},
+    "spread_in": {"min": 120, "max": 180},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in well-drained, slightly acidic soil in full sun; Tropic Snow is a low-chill white-flesh peach developed by the University of Florida's fruit research program, requiring approximately 200 chill hours. It is one of the earliest-ripening white peaches in zone 9, typically producing fruit in mid-April — sometimes the first peach of the season in Gulf Coast gardens. The medium-sized fruits have creamy white flesh with a red-blushed, white skin, a freestone pit, and a distinctive sweet, low-acid flavor with floral, honeyed notes characteristic of the finest white peaches. Flavor quality is superior to most yellow-flesh peaches when eaten at perfect ripeness. The trees are productive and self-fertile. White peaches were historically preferred by many southern peach connoisseurs over the higher-acid yellow types, and Tropic Snow is one of the best white varieties for low-chill climates. Prune to an open-center form in late winter; thin fruitlets to 6 inches apart in early spring for full-sized fruit. Protect blooms from late cold snaps.",
+    "sources": [
+      "University of Florida IFAS Extension — Low-Chill Peach Varieties (HS-1282)",
+      "LSU AgCenter — Stone Fruit Variety Trial Results",
+      "Texas A&M AgriLife Extension — Peach Variety Selection for Zone 9",
+      "Florida Foundation Seed Producers peach breeding program"
+    ]
+  }
+]

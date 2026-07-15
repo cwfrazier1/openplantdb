@@ -153,5 +153,37 @@
       "Baker Creek Heirloom Seeds",
       "Cornell Cooperative Extension"
     ]
+  },
+  {
+    "slug": "purple-dragon-carrot",
+    "common_name": "Purple Dragon Carrot",
+    "scientific_name": "Daucus carota subsp. sativus 'Purple Dragon'",
+    "category": "vegetable",
+    "subcategory": "carrot",
+    "days_to_germination": {"min": 10, "max": 21},
+    "germination_soil_temp_f": {"min": 45, "max": 75},
+    "days_to_maturity": {"min": 70, "max": 80},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": -6, "max": -4},
+      "note": "Direct sow 4–6 weeks before last frost in loose, deep, stone-free soil; Purple Dragon develops its deepest, most vivid color when harvested in cool conditions — fall-sown roots grown into winter have significantly more intense purple pigmentation than spring-sown roots harvested in warming temperatures."
+    },
+    "usda_zones": {"min": 3, "max": 10},
+    "spacing_in": {"min": 2, "max": 3},
+    "height_in": {"min": 12, "max": 16},
+    "spread_in": {"min": 2, "max": 3},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Sow seed 1/4 inch deep in loose, deep, stone-free, well-drained soil in full sun, thinning to 2–3 inches; Purple Dragon is among the darkest-colored purple carrots available, producing 6–7 inch Chantenay-type roots with an almost purple-black exterior of extraordinary depth — the highest anthocyanin content of the major purple carrot varieties on the market, with the deep pigment extending well into the shoulder of the carrot. The interior flesh is vivid orange, creating a dramatic two-toned cross-section when sliced that makes Purple Dragon the most visually striking carrot in a rainbow mix. The flavor is earthy and subtly spicy with good sweetness, distinctly more complex than standard orange carrots. Raw eating shows the anthocyanin benefits and full visual impact; cooking at high heat fades the exterior purple toward brown, but moderate-heat roasting preserves considerable color. Outstanding raw in salads, crudités, and juicing where the deep purple color makes an impression.",
+    "sources": [
+      "Baker Creek Heirloom Seeds",
+      "Seed Savers Exchange",
+      "Johnny's Selected Seeds",
+      "Oregon State University Extension"
+    ]
   }
 ]

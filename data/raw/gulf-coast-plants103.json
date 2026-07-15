@@ -1,0 +1,162 @@
+[
+  {
+    "slug": "popcorn-cassia",
+    "common_name": "Popcorn Cassia (Peanut Butter Cassia, Candle Bush, Pois Puant)",
+    "scientific_name": "Senna didymobotrya",
+    "category": "flower",
+    "subcategory": "tropical shrub",
+    "days_to_germination": {"min": 7, "max": 21},
+    "germination_soil_temp_f": {"min": 70, "max": 85},
+    "days_to_maturity": {"min": 90, "max": 180},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 2, "max": 6},
+      "note": "Direct sow scarified seeds or transplant in spring after last frost; Popcorn Cassia germinates quickly in warm soil (70°F+) and grows rapidly to 8–12 feet in zone 9 in a single season. Soak seeds 24 hours before sowing or nick the seed coat to improve germination. In zone 9, treat as an annual or tender perennial; it may resprout from the crown in zone 9b after a mild winter. Self-seeds prolifically — deadhead spent flower spikes to reduce volunteer seedlings. Seeds and foliage are toxic if ingested."
+    },
+    "usda_zones": {"min": 9, "max": 11},
+    "spacing_in": {"min": 36, "max": 60},
+    "height_in": {"min": 60, "max": 144},
+    "spread_in": {"min": 36, "max": 60},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in full sun in any well-drained soil; Popcorn Cassia is adaptable to poor, sandy, or clay soils and tolerates drought once established in zone 9's hot summers. Senna didymobotrya is a large, fast-growing annual to short-lived perennial tropical shrub native to tropical Africa (Kenya, Uganda, Ethiopia), extensively naturalized across the humid tropics as one of the most widely planted ornamental Senna species. The name 'Popcorn Cassia' or 'Peanut Butter Plant' comes from the extraordinary, strong, sweet, peanut-butter-popcorn scent released when the leaves are brushed or crushed — one of the most distinctive and surprising fragrances in the plant world, completely unlike the plant's golden appearance. The flowers themselves are produced in erect, candle-like spikes 6–12 inches long of bright golden-yellow petals emerging from dark brown to black overlapping buds that resemble a stack of poker chips — the visual contrast of black buds and gold flowers is dramatic and unique. The plant blooms from late summer through fall in zone 9 (August–November), providing late-season color when most other ornamentals are past peak. Note that all parts of the plant are toxic, particularly the seeds, which contain anthraquinones causing gastrointestinal distress.",
+    "sources": [
+      "University of Florida IFAS Extension — Senna didymobotrya (Popcorn Cassia)",
+      "Texas A&M AgriLife Extension — Senna species for Gulf Coast landscapes",
+      "Floridata Plant Encyclopedia — Senna didymobotrya",
+      "USDA Plants Database — Senna didymobotrya"
+    ]
+  },
+  {
+    "slug": "elderberry-texas",
+    "common_name": "Texas Elderberry (Mexican Elder, Blue Elderberry, Tapiro)",
+    "scientific_name": "Sambucus mexicana",
+    "category": "berry",
+    "subcategory": "native edible shrub-tree",
+    "days_to_germination": {"min": 30, "max": 120},
+    "germination_soil_temp_f": {"min": 60, "max": 70},
+    "days_to_maturity": {"min": 730, "max": 1095},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Plant container-grown or rooted cuttings in spring in moist, well-drained soil in full sun to partial shade; Texas Elderberry establishes readily and grows quickly in warm, humid conditions. Cuttings root easily in water or moist soil in warm weather — the simplest propagation method. Plant at least 2 plants of different seed origins for better cross-pollination and heavier fruit set. Hardwood cuttings taken in winter also root reliably. Unlike Common Elderberry (S. canadensis), Texas Elderberry is adapted to the heat and alkaline soils of Central and South Texas."
+    },
+    "usda_zones": {"min": 7, "max": 11},
+    "spacing_in": {"min": 96, "max": 180},
+    "height_in": {"min": 96, "max": 360},
+    "spread_in": {"min": 96, "max": 180},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Plant in full sun to partial shade in well-drained, neutral to alkaline soil; Texas Elderberry adapts to a wide range of soil types from sandy loam to limestone caliche, and is more drought-tolerant than the Eastern Common Elderberry (Sambucus canadensis) once established. Sambucus mexicana (also listed as S. nigra subsp. canadensis var. mexicana and S. caerulea in western references) is the native elderberry of Texas, the Desert Southwest, Mexico, and Central America, ranging from the western Edwards Plateau of Texas through the Rio Grande Valley. It overlaps geographically with S. canadensis to the east but is adapted to the more alkaline, hotter, drier conditions of central and south Texas and the Mexican highlands. The plant produces large, flat-topped clusters of small, creamy-white flowers (excellent nectar source for native bees and butterflies) followed by clusters of small, blue-black to dark purple berries similar to common elderberry. The berries ripen in late summer–fall and are used to make elderberry wine, juice, jelly, and the traditional folk medicine elderberry syrup for immune support. CAUTION: Raw berries, bark, leaves, and roots contain cyanogenic glycosides — cook berries thoroughly before consumption; do not eat raw.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center — Sambucus mexicana (Texas Elderberry)",
+      "Texas A&M AgriLife Extension — Sambucus mexicana for Texas landscapes",
+      "USDA Plants Database — Sambucus mexicana",
+      "Native Plant Society of Texas — Sambucus mexicana edible and medicinal uses"
+    ]
+  },
+  {
+    "slug": "sagittaria-lancifolia",
+    "common_name": "Bulltongue Arrowhead (Lanceleaf Arrowhead, Duck Potato, Wapato)",
+    "scientific_name": "Sagittaria lancifolia",
+    "category": "vegetable",
+    "subcategory": "native aquatic edible",
+    "days_to_germination": {"min": 14, "max": 28},
+    "germination_soil_temp_f": {"min": 65, "max": 75},
+    "days_to_maturity": {"min": 90, "max": 180},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Plant rhizomes or container-grown plants in spring in shallow water (0–6 inches deep) or consistently saturated soil at the pond, rain garden, or stream edge; Bulltongue Arrowhead is a native emergent aquatic plant that thrives in the shallow margins of freshwater ponds, marshes, ditches, and slow streams throughout zone 7–11. It spreads by runners to form dense colonies and tolerates both fresh and mildly brackish water. The small, starchy tubers (corms) produced at the ends of the underground runners are the edible portion — harvest in fall when the above-ground foliage begins to die back."
+    },
+    "usda_zones": {"min": 7, "max": 11},
+    "spacing_in": {"min": 18, "max": 36},
+    "height_in": {"min": 24, "max": 60},
+    "spread_in": {"min": 18, "max": 36},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Plant in shallow water, saturated soil, or the wet margins of ponds and rain gardens in full sun to partial shade; Bulltongue Arrowhead is a native Gulf Coast emergent aquatic plant that provides outstanding wildlife habitat, water quality improvement, and ornamental interest in naturalistic water features. Sagittaria lancifolia is one of the most common native aquatic plants of the Gulf Coast from Texas through Florida, growing in freshwater marshes, ditches, bayous, pond edges, and slow-moving streams where it forms dense, productive stands of bold, lance-shaped, upright leaves. The three-petaled white flowers with yellow centers appear throughout summer on tall stalks above the foliage and attract native pollinators including specialist bees that rely on aquatic pollen sources. The small, acorn-sized, starchy tubers or corms produced at the tips of underground runners ('duck potatoes') are an important food source for ducks, geese, muskrats, and other waterbirds — and are edible for humans when cooked like a potato or roasted in coals: mild, slightly nutty, and starchy, they were a staple food for southeastern indigenous peoples. In water gardens and rain garden plantings, Bulltongue Arrowhead is a native alternative to non-native aquatic plants, providing the same bold vertical accent while supporting native wildlife.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center — Sagittaria lancifolia",
+      "University of Florida IFAS Extension — Sagittaria species for Florida water features",
+      "USDA Plants Database — Sagittaria lancifolia",
+      "LSU AgCenter — Native Aquatic Plants for Louisiana Water Gardens"
+    ]
+  },
+  {
+    "slug": "jade-plant",
+    "common_name": "Jade Plant (Money Tree, Friendship Plant, Lucky Plant)",
+    "scientific_name": "Crassula ovata",
+    "category": "flower",
+    "subcategory": "succulent shrub",
+    "days_to_germination": {"min": 7, "max": 21},
+    "germination_soil_temp_f": {"min": 65, "max": 75},
+    "days_to_maturity": {"min": 365, "max": 1095},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Grow as a container specimen in zone 9 — Jade Plant cannot tolerate freezing temperatures and should be brought indoors or moved to a frost-free area when temperatures drop below 40°F. In zone 10-11, it can be planted outdoors in well-drained, sunny to partially-shaded spots. Jade Plant is one of the easiest succulents to propagate: any detached leaf or stem cutting placed on dry soil will root and form a new plant. Water thoroughly, then allow the soil to dry completely before watering again."
+    },
+    "usda_zones": {"min": 10, "max": 11},
+    "spacing_in": {"min": 24, "max": 48},
+    "height_in": {"min": 24, "max": 72},
+    "spread_in": {"min": 24, "max": 48},
+    "sun": "partial",
+    "water": "low",
+    "directions": "Grow in bright indirect to full sun in very well-drained, gritty succulent potting mix; Jade Plant tolerates lower light conditions than most succulents but develops the most compact, well-colored foliage with bright indirect light or morning sun. Crassula ovata is a succulent shrub native to the Eastern Cape and KwaZulu-Natal provinces of South Africa, where it grows in rocky hillsides and dry scrub in dry, well-drained conditions. Over its decades of cultivation as an ornamental houseplant worldwide, it has become one of the most recognizable and widely-owned plants on earth — practically ubiquitous in offices, homes, and gardens across every continent. The thick, oval, glossy, jade-green leaves with red-edged margins and the stout, woody, trunk-like stems that develop over years give well-grown specimens a miniature tree appearance highly prized in bonsai aesthetics. In zone 10–11, established outdoor plants produce clusters of small, star-shaped, pink to white flowers in winter, creating a charming seasonal display. In Asian cultures, Jade Plant is considered a symbol of good luck, financial prosperity, and friendship — 'money plant' is one of its most common names in Chinese and Japanese contexts. Single leaves placed on gritty soil root readily within weeks, making it one of the most freely propagated of all succulents.",
+    "sources": [
+      "University of Florida IFAS Extension — Crassula ovata for container culture",
+      "Royal Horticultural Society — Crassula ovata cultivation notes",
+      "Texas A&M AgriLife Extension — Succulents for Texas Container Gardens",
+      "South African National Biodiversity Institute — Crassula ovata"
+    ]
+  },
+  {
+    "slug": "burros-tail",
+    "common_name": "Burro's Tail (Donkey Tail, Lamb's Tail Sedum, Burro's Tail Sedum)",
+    "scientific_name": "Sedum morganianum",
+    "category": "flower",
+    "subcategory": "succulent hanging basket",
+    "days_to_germination": {"min": 7, "max": 21},
+    "germination_soil_temp_f": {"min": 65, "max": 75},
+    "days_to_maturity": {"min": 180, "max": 365},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Plant in a hanging basket or cascading container in bright indirect light to full morning sun with very fast-draining succulent mix; Burro's Tail is best grown in a hanging basket where its cascading stems (reaching 2–3 feet) display beautifully without the leaves getting dislodged by foot traffic. The plump, blue-green leaves fall off at the slightest touch — handle minimally and place in a location where it won't be brushed. Detached leaves will root on dry succulent mix. In zone 9, grow as a patio or indoor container plant; bring indoors when temperatures drop below 40°F."
+    },
+    "usda_zones": {"min": 10, "max": 11},
+    "spacing_in": {"min": 12, "max": 24},
+    "height_in": {"min": 6, "max": 12},
+    "spread_in": {"min": 18, "max": 36},
+    "sun": "partial",
+    "water": "low",
+    "directions": "Grow in bright indirect light to direct morning sun in very fast-draining succulent or cactus potting mix; the most important cultural requirement for Burro's Tail is excellent drainage — saturated soil causes rapid root rot. Sedum morganianum is a succulent native to southern Mexico (Veracruz and Oaxaca states) that is among the most popular and distinctive trailing succulent plants for hanging baskets and cascading container arrangements worldwide. The plant produces long, pendant stems densely covered in overlapping, swollen, teardrop-shaped, blue-green to gray-green leaves that create the appearance of a thick, plump rope or braided tail — hence both common names. Well-established specimens in large baskets can develop stems 24–36 inches long, forming a striking curtain of silvery-green fleshy leaves that moves with air currents. In late spring and early summer, small, pendant, rose-pink to red star-shaped flowers appear at the stem tips. The notable fragility of the leaves — which drop at the slightest touch, creating a carpet beneath the plant that must be swept regularly or will root as a natural propagation mechanism — requires placing the plant in a protected, low-traffic location. In zone 9 and cooler, it is strictly a container and indoor plant.",
+    "sources": [
+      "Texas A&M AgriLife Extension — Sedum morganianum for container culture",
+      "Royal Horticultural Society — Sedum morganianum cultivation",
+      "Cactus and Succulent Society of America — Sedum morganianum",
+      "University of Arizona Cooperative Extension — Succulents for the Southwest: Sedum"
+    ]
+  }
+]

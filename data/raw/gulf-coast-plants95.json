@@ -1,0 +1,162 @@
+[
+  {
+    "slug": "agati-hummingbird-tree",
+    "common_name": "Agati (Hummingbird Tree, Vegetable Hummingbird, August Tree)",
+    "scientific_name": "Sesbania grandiflora",
+    "category": "vegetable",
+    "subcategory": "tropical edible tree",
+    "days_to_germination": {"min": 5, "max": 14},
+    "germination_soil_temp_f": {"min": 70, "max": 85},
+    "days_to_maturity": {"min": 90, "max": 180},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 2, "max": 6},
+      "note": "Direct sow or transplant after last frost in zone 9; Agati is an extremely fast-growing tropical tree — seedlings can reach 15 feet in their first year in zone 9-10. Sow seeds 1 inch deep; nick or scarify the seed coat or soak overnight in warm water before planting. In zone 9, treat as a warm-season annual or short-lived perennial that regrows from the base if frozen. Harvest leaves and flowers continuously from 2-3 months after germination."
+    },
+    "usda_zones": {"min": 9, "max": 11},
+    "spacing_in": {"min": 60, "max": 120},
+    "height_in": {"min": 120, "max": 360},
+    "spread_in": {"min": 60, "max": 96},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Direct sow in full sun in well-drained, moderately fertile soil after temperatures warm above 70°F; Agati grows equally well in poor, sandy, or clay soils and fixes atmospheric nitrogen, improving soil fertility. Sesbania grandiflora is one of the most useful edible trees in tropical and subtropical agroforestry — a fast-growing, nitrogen-fixing legume tree native to South and Southeast Asia where its white or red flowers (2–4 inches long, the largest flowers in the Fabaceae), young leaves, and tender seed pods are prized vegetables in Thai, Filipino, Indonesian, and Indian cuisines. The flowers are eaten raw in salads, battered and fried, or cooked in curries and soups; the young leaves are used like spinach or kale; the long, flat seed pods are cooked as a vegetable. The tree is also an important fodder and green manure crop. In zone 9, Sesbania grandiflora grows spectacularly fast — often reaching 20+ feet in a single growing season — and produces beautiful pendant flowers continuously. It is killed to the ground by hard frost but may resprout from the crown in zone 9b. Harvest foliage and flowers regularly to stimulate continuous production and prevent the plant from becoming leggy. The large white or red flowers are highly attractive to hummingbirds and native bees.",
+    "sources": [
+      "USDA National Agroforestry Center — Sesbania grandiflora (Agati) in tropical systems",
+      "Purdue University Center for New Crops — Sesbania grandiflora",
+      "PROSEA — Plant Resources of South-East Asia: Sesbania grandiflora",
+      "University of Florida IFAS Extension — Tropical Edible Plants for Florida"
+    ]
+  },
+  {
+    "slug": "white-leadtree",
+    "common_name": "White Lead Tree (Jumbie Bean, Koa Haole, River Tamarind)",
+    "scientific_name": "Leucaena leucocephala",
+    "category": "cover-crop",
+    "subcategory": "tropical nitrogen-fixing tree",
+    "days_to_germination": {"min": 5, "max": 14},
+    "germination_soil_temp_f": {"min": 70, "max": 85},
+    "days_to_maturity": {"min": 60, "max": 120},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 2, "max": 6},
+      "note": "Direct sow scarified seeds after last frost in full sun in well-drained soil; White Lead Tree germinates readily and grows rapidly once established. Scarify seeds by nicking or soaking in hot water (180°F) for 10 minutes, then cooling overnight. In zone 9a, treat as a warm-season annual or fast-growing cover crop; it may survive mild winters in zone 9b. CAUTION: This species is listed as invasive in many tropical and subtropical regions — do not plant near natural areas, riverbanks, or wild lands where it can escape."
+    },
+    "usda_zones": {"min": 9, "max": 11},
+    "spacing_in": {"min": 24, "max": 60},
+    "height_in": {"min": 60, "max": 240},
+    "spread_in": {"min": 36, "max": 96},
+    "sun": "full",
+    "water": "low",
+    "directions": "Direct sow in full sun in any well-drained soil; White Lead Tree is extremely adaptable — tolerating drought, alkaline and acid soils, and nutrient-poor conditions where other nitrogen-fixing legumes fail. Leucaena leucocephala is a fast-growing multi-purpose tropical legume tree native to Central America that has been one of the world's most widely planted agroforestry species for nitrogen fixation, animal fodder, green manure, and biomass production in the humid tropics. Its extensive root system fixes atmospheric nitrogen, dramatically improving poor soils. Young leaves, seeds, and pods contain high protein and are used as livestock fodder; young seeds and leaves are consumed as a vegetable in Mexico and some Asian countries, though the amino acid mimosine limits safe consumption to modest amounts. INVASIVE NOTE: Leucaena leucocephala is considered one of the world's 100 worst invasive species by the IUCN and has naturalized aggressively in Hawaii, Florida, and other tropical/subtropical regions — escape into natural areas is a serious concern. Use only in contained garden settings and manage carefully to prevent spreading.",
+    "sources": [
+      "IUCN Invasive Species Specialist Group — Leucaena leucocephala worst invasives list",
+      "USDA National Agroforestry Center — Leucaena leucocephala multipurpose tree",
+      "Purdue University Center for New Crops — Leucaena leucocephala",
+      "University of Hawaii Cooperative Extension — Leucaena production and invasive risks"
+    ]
+  },
+  {
+    "slug": "violet-iochroma",
+    "common_name": "Violet Iochroma (Violet Tubes, Blue Bells Shrub)",
+    "scientific_name": "Iochroma cyaneum",
+    "category": "flower",
+    "subcategory": "tropical shrub",
+    "days_to_germination": {"min": 14, "max": 28},
+    "germination_soil_temp_f": {"min": 65, "max": 80},
+    "days_to_maturity": {"min": 180, "max": 365},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Plant container-grown shrubs after last frost; in zone 9a, plant in a sheltered south-facing or south-wall-adjacent location and mulch heavily at the base to protect roots from frost. Iochroma cyaneum may freeze to the ground in zone 9a winters but often resprouts vigorously from the root crown in spring if the soil did not freeze deeply. In zone 9b-10, it blooms nearly year-round."
+    },
+    "usda_zones": {"min": 9, "max": 11},
+    "spacing_in": {"min": 48, "max": 72},
+    "height_in": {"min": 72, "max": 120},
+    "spread_in": {"min": 48, "max": 72},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Plant in partial shade to full sun in well-drained, fertile soil; in zone 9's intense summer sun, afternoon shade improves performance and prevents leaf burn. Iochroma cyaneum is a soft-wooded shrub in the Solanaceae family (related to Brunfelsia and nightshade) native to the Andes of Ecuador and Colombia, where it grows in moist montane cloud forests at 6,000–10,000 feet elevation. In zone 9 Gulf Coast and Florida landscapes, it is grown for its spectacular pendant clusters of deep violet-blue, 1.5-inch tubular flowers that dangle from the branch tips in profuse flushes throughout the warm season. The deep, pure violet-blue color is among the most saturated blues available in a large tropical shrub — not lavender, not purple, but true rich violet-blue. The flowers are intensely attractive to hummingbirds, which hover at the pendant clusters throughout the blooming season. The plant grows quickly, reaching 6–10 feet by the end of its first full season. Prune back hard after each major bloom flush to encourage repeat flowering and a more compact, bushy habit. All parts of the plant are mildly toxic if ingested. An outstanding hummingbird and ornamental shrub for zone 9b–11.",
+    "sources": [
+      "University of Florida IFAS Extension — Iochroma species for Florida landscapes",
+      "Floridata Plant Encyclopedia — Iochroma cyaneum",
+      "Fairchild Tropical Botanic Garden — Iochroma cultivation notes",
+      "Texas A&M AgriLife Extension — Tropical Flowering Shrubs for South Texas"
+    ]
+  },
+  {
+    "slug": "blue-sage-eranthemum",
+    "common_name": "Blue Sage (Eranthemum, Directweed, Blue Sage Shrub)",
+    "scientific_name": "Eranthemum pulchellum",
+    "category": "flower",
+    "subcategory": "shade-tolerant tropical shrub",
+    "days_to_germination": {"min": 14, "max": 21},
+    "germination_soil_temp_f": {"min": 65, "max": 80},
+    "days_to_maturity": {"min": 180, "max": 365},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Plant container-grown shrubs in partial to full shade in spring; Eranthemum pulchellum performs best in its Gulf Coast winter bloom cycle when established before summer. It blooms primarily in winter (December–March in zone 9-10) when its vivid blue flowers provide critical late-season color. Mulch the base heavily in zone 9a to protect roots from hard frost; plants may freeze to the ground but resprout from protected roots."
+    },
+    "usda_zones": {"min": 9, "max": 11},
+    "spacing_in": {"min": 24, "max": 48},
+    "height_in": {"min": 24, "max": 48},
+    "spread_in": {"min": 24, "max": 36},
+    "sun": "shade",
+    "water": "moderate",
+    "directions": "Plant in partial to deep shade in moist, well-drained, humus-rich soil; Eranthemum pulchellum is one of the few shrubs that produces its best blooms in shade and actually prefers protection from direct afternoon sun in zone 9. Eranthemum pulchellum (Blue Sage or Directweed) is a small tropical shrub from India, Sri Lanka, and Southeast Asia in the Acanthaceae family, notable for producing its vibrant, true-blue flowers during the cool season — December through March in zone 9 — at a time when blue-flowered plants are exceptionally rare. The individual flowers are small (1/2 inch) but borne in numerous terminal spike clusters that cover the plant in a haze of brilliant sky-blue to deep blue color, providing exceptional winter interest in the Gulf South garden. The deep green, quilted foliage is attractive year-round and the plant tolerates the dry shade under oak trees that defeats most other flowering ornamentals. Eranthemum performs remarkably well as a container specimen on shaded patios and porches, bringing winter blue-flower color to spaces that otherwise have no flowering plants. In zone 9a it may freeze to the ground in hard winters but typically resprouts. Prune hard in early spring after the main bloom flush to encourage bushy new growth.",
+    "sources": [
+      "University of Florida IFAS Extension — Eranthemum pulchellum (Blue Sage)",
+      "Floridata Plant Encyclopedia — Eranthemum pulchellum",
+      "LSU AgCenter — Shade-Tolerant Tropical Shrubs for Louisiana Landscapes",
+      "National Tropical Botanical Garden — Eranthemum species notes"
+    ]
+  },
+  {
+    "slug": "saltmarsh-fleabane",
+    "common_name": "Saltmarsh Fleabane (Camphorweed, Sweetscent)",
+    "scientific_name": "Pluchea odorata",
+    "category": "flower",
+    "subcategory": "native coastal wildflower",
+    "days_to_germination": {"min": 7, "max": 14},
+    "germination_soil_temp_f": {"min": 65, "max": 80},
+    "days_to_maturity": {"min": 60, "max": 90},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Direct sow or transplant after last frost in full sun to partial shade; Saltmarsh Fleabane self-seeds prolifically in zone 9-10 moist conditions and will naturalize in wet garden edges, rain gardens, and coastal plantings. It grows rapidly in warm, humid conditions. In zone 9, it may behave as a short-lived perennial in mild winters, returning from the crown for 2-3 years before dying out."
+    },
+    "usda_zones": {"min": 7, "max": 11},
+    "spacing_in": {"min": 18, "max": 36},
+    "height_in": {"min": 24, "max": 72},
+    "spread_in": {"min": 18, "max": 36},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in full sun to partial shade in moist to wet, average to poor soil; Saltmarsh Fleabane thrives in conditions that challenge most ornamentals — waterlogged clay soils, salt-spray exposure, and the intense summer heat of Gulf Coast wetland margins. Pluchea odorata is a native North American wildflower found in salt marshes, mangrove edges, coastal prairies, disturbed moist areas, and roadsides throughout the Gulf Coast from Texas to Florida and up the Atlantic coast to the Carolinas. The plants produce strongly aromatic, camphor-scented foliage (the source of common names 'Camphorweed' and 'Sweetscent') and flat-topped clusters of small rose-pink to violet-pink flowers from July through October that attract skippers, hairstreak butterflies, and small native bees. The plant is valuable in coastal and wetland restoration plantings, rain gardens, and moist meadow plantings where its tolerance of salt, flooding, and poor soils outperforms most cultivated plants. In the wild, it provides critical late-summer and fall nectar for migrating butterflies along the Gulf Coast. The aromatic leaves have traditional use in folk medicine for fever, arthritis, and respiratory complaints in Gulf Coast and Caribbean traditions.",
+    "sources": [
+      "USDA Plants Database — Pluchea odorata",
+      "Lady Bird Johnson Wildflower Center — Pluchea odorata (Saltmarsh Fleabane)",
+      "Florida Native Plant Society — Pluchea odorata profile",
+      "LSU AgCenter — Native Plants for Wet Coastal Louisiana Sites"
+    ]
+  }
+]

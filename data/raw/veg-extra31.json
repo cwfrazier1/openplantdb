@@ -1,0 +1,162 @@
+[
+  {
+    "slug": "creole-garlic",
+    "common_name": "Creole Garlic",
+    "scientific_name": "Allium sativum subsp. sativum 'Creole'",
+    "category": "vegetable",
+    "subcategory": "allium",
+    "days_to_germination": {"min": 7, "max": 21},
+    "germination_soil_temp_f": {"min": 50, "max": 70},
+    "days_to_maturity": {"min": 180, "max": 240},
+    "maturity_from": "transplant",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Plant individual cloves 2 inches deep in October–November in zone 9; Creole garlic requires less vernalization (cold) than northern hardneck varieties and is specifically adapted to the mild winters of the Gulf South. It is the RECOMMENDED garlic type for zone 9 — hardneck varieties (Rocambole, Porcelain) fail to bulb properly in mild winters without pre-chilling."
+    },
+    "usda_zones": {"min": 7, "max": 10},
+    "spacing_in": {"min": 4, "max": 6},
+    "height_in": {"min": 18, "max": 24},
+    "spread_in": {"min": 4, "max": 6},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant individual cloves pointed-end-up, 2 inches deep and 4–6 inches apart in well-drained, fertile, slightly acidic soil; Creole garlic (Allium sativum subsp. sativum) is a group of softneck garlic varieties historically cultivated in the hot, humid regions of southern Spain and the Americas, and the only garlic group that performs consistently well in zone 9 Gulf Coast conditions. While northern hardneck varieties (Rocambole, Purple Stripe, Porcelain) require 6–8 weeks of cold below 40°F for proper bulb formation, Creole types bulb reliably in zone 9 mild winters without pre-chilling. Named varieties include 'Ajo Rojo,' 'Burgundy,' 'Creole Red,' and 'Pescadero Red.' The bulbs are medium to large with 8–12 purple-streaked cloves per head; flavor is complex, rich, and moderately hot with a lingering sweet aftertaste distinctly different from commercial Chinese garlic. Creole garlic also stores significantly longer than most hardneck types — up to 9–12 months in a cool, dry location. For zone 9 gardeners who struggle to grow garlic successfully, switching to Creole types is transformative. Harvest when lower leaves die and 4–5 green leaves remain; cure for 3–4 weeks in a shaded, airy location.",
+    "sources": [
+      "Southern Exposure Seed Exchange — Creole Garlic notes for the South",
+      "Louisiana Creole Garlic Festival heritage variety documentation",
+      "Chester Aaron: The Great Garlic Book, Ten Speed Press 1997",
+      "Filaree Garlic Farm — Creole garlic variety descriptions"
+    ]
+  },
+  {
+    "slug": "artichoke-garlic",
+    "common_name": "Artichoke Garlic (Softneck Garlic)",
+    "scientific_name": "Allium sativum subsp. sativum 'Artichoke type'",
+    "category": "vegetable",
+    "subcategory": "allium",
+    "days_to_germination": {"min": 7, "max": 21},
+    "germination_soil_temp_f": {"min": 50, "max": 70},
+    "days_to_maturity": {"min": 180, "max": 240},
+    "maturity_from": "transplant",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Plant cloves 2 inches deep in October–November in zone 9; Artichoke types are adaptable softneck garlics that perform in a wide range of climates from cold zone 4 to warm zone 9. They are the garlic most commonly sold in grocery stores and braided in kitchens. Named varieties include California Early, California Late, Inchelium Red, and Red Toch."
+    },
+    "usda_zones": {"min": 4, "max": 9},
+    "spacing_in": {"min": 4, "max": 6},
+    "height_in": {"min": 18, "max": 24},
+    "spread_in": {"min": 4, "max": 6},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant individual cloves pointed-end-up, 2 inches deep in well-drained, fertile soil in full sun; Artichoke garlic (named for its overlapping layers of cloves resembling an artichoke) is the most widely grown garlic group in the world and the standard garlic of commercial production. The large, white to purple-streaked bulbs contain multiple layers of cloves (10–20 per head) with a mild to moderately pungent flavor that is the familiar 'standard' garlic taste of commerce. Artichoke types are softneck garlics (no central flower stalk), making them the type used for braiding and one of the longer-storing types. In zone 9, Artichoke types perform better than most Hardneck varieties (Rocambole, Porcelain, Purple Stripe) because they require somewhat less cold vernalization. Named Artichoke varieties recommended for the South include 'Inchelium Red' (already in the dataset), 'California Early,' 'Red Toch,' and 'Lorz Italian.' Plant in fall, fertilize in late winter with high-nitrogen fertilizer, and harvest in April–May when lower leaves are dry but 4–5 green leaves remain. Cure in a shaded, well-ventilated area for 3–4 weeks.",
+    "sources": [
+      "Southern Exposure Seed Exchange — Artichoke Garlic for the Southeast",
+      "Filaree Garlic Farm — Artichoke garlic type overview",
+      "Ron Engeland: Growing Great Garlic, Filaree Farm Press 1991",
+      "University of California Cooperative Extension — Commercial Garlic Production"
+    ]
+  },
+  {
+    "slug": "rocambole-garlic",
+    "common_name": "Rocambole Garlic (Hardneck Garlic)",
+    "scientific_name": "Allium sativum var. ophioscorodon 'Rocambole type'",
+    "category": "vegetable",
+    "subcategory": "allium",
+    "days_to_germination": {"min": 7, "max": 21},
+    "germination_soil_temp_f": {"min": 50, "max": 70},
+    "days_to_maturity": {"min": 180, "max": 240},
+    "maturity_from": "transplant",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Plant cloves 2–3 inches deep in October–November; Rocambole requires 6–8 weeks of vernalization below 40°F for proper bulb formation, making it best suited to zone 4–7. In zone 9, pre-chill cloves in the refrigerator for 6–8 weeks before planting to compensate for mild winters — or choose Creole garlic instead, which requires no pre-chilling."
+    },
+    "usda_zones": {"min": 4, "max": 8},
+    "spacing_in": {"min": 4, "max": 6},
+    "height_in": {"min": 18, "max": 30},
+    "spread_in": {"min": 4, "max": 6},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant pre-chilled cloves 2–3 inches deep in well-drained, fertile soil in full sun; Rocambole is considered by most garlic connoisseurs to be the finest-flavored garlic group — rich, complex, deeply savory, and mellow with a characteristic lingering warmth and almost chocolate-like earthiness that no other garlic group fully matches. Named varieties include 'Spanish Roja,' 'German Red,' 'Killarney Red,' and 'Music.' The medium-sized, brownish-purple skinned bulbs contain 8–12 cloves per head arranged in a single layer. The paper wrapping is loose, almost shaggy, and the inner skins of individual cloves are characteristically streaked with purple-brown. Rocambole is a hardneck garlic producing a central flower stalk (scape) that should be removed in June to direct energy into bulb formation; scapes are edible and delicious in stir-fries and pestos. In zone 9, Rocambole requires refrigerator pre-chilling of cloves for 6–8 weeks before October planting, or better yet, substitute Creole garlic, which is naturally adapted to mild winters without chilling. Rocambole stores only 3–5 months.",
+    "sources": [
+      "Ron Engeland: Growing Great Garlic, Filaree Farm Press 1991",
+      "Seed Savers Exchange — Rocambole garlic documentation",
+      "Southern Exposure Seed Exchange — Hardneck Garlic notes",
+      "Keene Organics — Rocambole garlic variety descriptions"
+    ]
+  },
+  {
+    "slug": "easter-egg-radish",
+    "common_name": "Easter Egg Radish Blend",
+    "scientific_name": "Raphanus sativus 'Easter Egg'",
+    "category": "vegetable",
+    "subcategory": "root vegetable",
+    "days_to_germination": {"min": 3, "max": 7},
+    "germination_soil_temp_f": {"min": 45, "max": 80},
+    "days_to_maturity": {"min": 25, "max": 35},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": -4, "max": -2},
+      "note": "Direct sow 2–4 weeks before last frost; in zone 9 sow September–February for fall/winter/spring crops. Easter Egg radishes mature in 25–35 days and should be harvested promptly before roots become pithy in warm weather. Succession sow every 10 days for continuous harvest."
+    },
+    "usda_zones": {"min": 2, "max": 11},
+    "spacing_in": {"min": 2, "max": 3},
+    "height_in": {"min": 6, "max": 10},
+    "spread_in": {"min": 3, "max": 4},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Sow seeds 1/4 inch deep and 1 inch apart, thinning to 2–3 inches after germination; Easter Egg is a blend of radish varieties producing a cheerful mix of purple, red, white, and pink round radishes (all similar in size to a chicken egg) in the same row — the variety gets its name from the surprise of digging mixed-color 'eggs' from the soil. Individual plants in the blend mature at slightly different rates over 2–3 weeks, naturally extending the harvest window. The crisp, mild, slightly spicy roots are excellent raw in salads, on veggie platters, or sliced and eaten with butter and salt in the classic French crudités style. This mixed-color planting is particularly popular in children's gardens for its surprise-reveal at harvest. In zone 9, fall and winter plantings (October–January) produce the crispest, mildest roots — spring radishes bolt quickly as temperatures rise. Harvest promptly when roots reach egg size; leaving them too long makes them hollow and pithy. One of the fastest and most satisfying crops for impatient gardeners.",
+    "sources": [
+      "Johnny's Selected Seeds — Easter Egg Radish Blend variety notes",
+      "Renee's Garden Seeds",
+      "Baker Creek Heirloom Seeds — Easter Egg variety",
+      "University of Florida IFAS Extension — Radish Production"
+    ]
+  },
+  {
+    "slug": "white-wonder-beet",
+    "common_name": "Albino White Beet (White Wonder Beet)",
+    "scientific_name": "Beta vulgaris 'Albino White' (Albino)",
+    "category": "vegetable",
+    "subcategory": "root vegetable",
+    "days_to_germination": {"min": 5, "max": 14},
+    "germination_soil_temp_f": {"min": 50, "max": 80},
+    "days_to_maturity": {"min": 50, "max": 65},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": -4, "max": -2},
+      "note": "Direct sow 2–4 weeks before last frost; in zone 9 the prime window is October–February for a fall/winter/spring crop. White beet seed is a cluster like all beets — one 'seed' germinates multiple seedlings that must be thinned to 4 inches apart for full-sized roots."
+    },
+    "usda_zones": {"min": 2, "max": 10},
+    "spacing_in": {"min": 3, "max": 4},
+    "height_in": {"min": 12, "max": 18},
+    "spread_in": {"min": 4, "max": 6},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Sow seed clusters 1/2 inch deep in loose, deep, well-amended soil; thin to 4 inches after seedlings reach 2 inches tall. Albino White Beet is a German heirloom producing smooth, round, pure white-fleshed roots that completely lack the red pigment (betalain) of standard beets. The absence of betalains means Albino White beets do not bleed red — they do not stain cutting boards, hands, clothing, or dishes, solving the primary practical complaint about cooking with beets. Flavor is milder, sweeter, and less earthy than red beets — some tasters describe the flavor as more like a very sweet parsnip than a classic beet. Excellent raw in salads where they won't discolor other ingredients, roasted until caramelized and sweet, or pickled in the traditional manner (they turn slightly golden-pink when pickled in wine vinegar). The greens are pale green and mild, also excellent cooked. White beets are often grown alongside red and golden beets for a colorful root vegetable display. In zone 9, fall-planted white beets mature beautifully through mild winters.",
+    "sources": [
+      "Baker Creek Heirloom Seeds — Albino White Beet variety notes",
+      "Seed Savers Exchange",
+      "Southern Exposure Seed Exchange",
+      "Territorial Seed Company — White Beet documentation"
+    ]
+  }
+]

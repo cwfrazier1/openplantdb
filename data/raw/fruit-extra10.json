@@ -1,0 +1,130 @@
+[
+  {
+    "slug": "valencia-orange",
+    "common_name": "Valencia Orange",
+    "scientific_name": "Citrus sinensis 'Valencia'",
+    "category": "fruit",
+    "subcategory": "citrus",
+    "days_to_germination": {"min": 14, "max": 30},
+    "germination_soil_temp_f": {"min": 70, "max": 85},
+    "days_to_maturity": {"min": 1095, "max": 1825},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 2, "max": 8},
+      "note": "Plant container citrus in spring after cold risk passes; in zone 9 plant February–April. Valencia oranges require 3–5 years from grafted transplant to first significant crop. Site in the warmest, most frost-protected location available — south or southeast exposure near a masonry wall is ideal in zone 9a."
+    },
+    "usda_zones": {"min": 9, "max": 11},
+    "spacing_in": {"min": 144, "max": 240},
+    "height_in": {"min": 144, "max": 240},
+    "spread_in": {"min": 120, "max": 180},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in well-drained, slightly acidic soil (pH 6.0–7.0) in full sun in the warmest available location; Valencia is the world's most important juice orange and the benchmark orange of Florida's commercial citrus industry. The medium-large, thin-skinned, deep-orange fruits mature in March–June — uniquely late for citrus, which is why Valencia becomes the dominant fresh-market and juice orange in late spring when all other oranges have finished. The juice is abundant, sweet-tart, and intensely flavored. Valencia is known for re-greening: mature ripe fruit turns orange during cool weather, then re-greens as temperatures warm in spring — this does not affect juice quality but can confuse growers expecting a uniformly orange skin. In zone 9, Valencia is one of the most cold-tolerant sweet oranges and often survives temperatures to 25°F with minimal damage; below 20°F the tree may be severely damaged. Feed with citrus fertilizer (including zinc, iron, and manganese) three times per year and maintain a 3–4 inch citrus mulch ring. Excellent fresh or for juice.",
+    "sources": [
+      "University of Florida IFAS Extension — Valencia Orange Production (HS-132)",
+      "Texas A&M AgriLife Extension — Citrus Culture in Texas",
+      "California Citrus Research Center, University of California Riverside",
+      "Florida Department of Citrus — Variety Guide"
+    ]
+  },
+  {
+    "slug": "persian-lime",
+    "common_name": "Persian Lime (Tahiti Lime, Bearss Lime)",
+    "scientific_name": "Citrus x latifolia",
+    "category": "fruit",
+    "subcategory": "citrus",
+    "days_to_germination": {"min": 14, "max": 30},
+    "germination_soil_temp_f": {"min": 70, "max": 85},
+    "days_to_maturity": {"min": 730, "max": 1460},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 2, "max": 8},
+      "note": "Plant grafted container trees after last cold risk in spring; in zone 9 plant February–April in a protected southern exposure. Persian lime is seedless and not reproduced true-to-type from seed — always purchase grafted nursery trees. More cold-hardy than Key lime (tolerates 26–28°F briefly) but requires protection in zone 9a during hard freezes."
+    },
+    "usda_zones": {"min": 9, "max": 11},
+    "spacing_in": {"min": 120, "max": 192},
+    "height_in": {"min": 96, "max": 144},
+    "spread_in": {"min": 96, "max": 120},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in excellent drainage in full sun; Persian lime is the lime sold in virtually every grocery store worldwide — the standard 'lime' of commerce in the United States and Europe. The large, seedless, thick-skinned fruits (much larger than Key lime) are harvested green and provide the characteristic lime flavor of margaritas, guacamole, and countless beverages. Unlike Key lime, Persian lime is technically a triploid (3 sets of chromosomes), which makes it seedless and somewhat more vigorous and cold-tolerant than Key lime. It produces fruit year-round in tropical climates and has peak seasons in spring and fall in zone 9. Trees are also more cold-tolerant than Key lime (surviving to 26°F vs. 28–30°F for Key lime) and are larger and more productive under zone 9 conditions. Feed 3–4 times yearly with a complete citrus fertilizer; supplement with chelated micronutrients if leaves show yellowing. Freeze protection below 28°F is recommended; wrap trunks with frost cloth or move container trees indoors.",
+    "sources": [
+      "University of Florida IFAS Extension — Persian Lime Production (HS-199)",
+      "Texas A&M AgriLife Extension — Commercial Lime Production in Texas",
+      "California Rare Fruit Growers — Lime Varieties",
+      "Morton, J. (1987). Fruits of Warm Climates. Miami, FL"
+    ]
+  },
+  {
+    "slug": "pink-grapefruit-star-ruby",
+    "common_name": "Star Ruby Grapefruit (Pink Grapefruit)",
+    "scientific_name": "Citrus x paradisi 'Star Ruby'",
+    "category": "fruit",
+    "subcategory": "citrus",
+    "days_to_germination": {"min": 14, "max": 30},
+    "germination_soil_temp_f": {"min": 70, "max": 85},
+    "days_to_maturity": {"min": 1095, "max": 1825},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 2, "max": 8},
+      "note": "Plant container-grown grafted trees in spring; in zone 9 plant February–April in the warmest, most sheltered location. Grapefruit requires more heat to develop full sweetness than oranges — perform best in the warmest zone 9b locations and in zone 10. Star Ruby ripens October–January in Texas and Florida."
+    },
+    "usda_zones": {"min": 9, "max": 11},
+    "spacing_in": {"min": 180, "max": 240},
+    "height_in": {"min": 144, "max": 240},
+    "spread_in": {"min": 144, "max": 192},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in well-drained, fertile soil in the warmest location with maximum sun exposure; Star Ruby is a red-fleshed grapefruit variety developed by Texas A&M University through irradiation mutagenesis and released in 1970 — the variety that set the standard for deep-red, sweet, low-acid grapefruit. Texas Rio Grande Valley grapefruit production is dominated by Star Ruby and its offspring Rio Red (1984), both producing the deep ruby-red flesh and low-acid, sweet flavor that made Texas red grapefruit internationally famous. The fruits are large, with thin, yellow-blushed skin and deep crimson flesh that is sweeter and less bitter than white grapefruit — so sweet they are often eaten without added sugar. Star Ruby requires a long, hot growing season to develop maximum sweetness and color: in zone 9, summer heat is critical. Trees are vigorous, productive once established, and moderately cold-tolerant to about 26°F. Feed with citrus fertilizer (especially nitrogen and zinc) 3–4 times per year. An excellent landscape tree in warm zone 9 that provides both ornamental value and substantial food production.",
+    "sources": [
+      "Texas A&M University — Star Ruby grapefruit development and release",
+      "Texas A&M AgriLife Extension — Grapefruit Varieties for Texas (SCS-2008-02)",
+      "University of Florida IFAS Extension — Grapefruit for Florida (HS-195)",
+      "Texas Citrus Mutual Industry Association variety records"
+    ]
+  },
+  {
+    "slug": "honey-tangerine",
+    "common_name": "Honey Tangerine (Murcott Tangerine)",
+    "scientific_name": "Citrus reticulata 'Murcott'",
+    "category": "fruit",
+    "subcategory": "citrus",
+    "days_to_germination": {"min": 14, "max": 30},
+    "germination_soil_temp_f": {"min": 70, "max": 85},
+    "days_to_maturity": {"min": 1095, "max": 1825},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 2, "max": 8},
+      "note": "Plant grafted container trees in spring after cold risk; in zone 9 plant February–April in full sun with southern exposure protection. Honey tangerines are tender and more cold-sensitive than navel oranges — require protection below 28°F. Late-season (January–March) ripening makes them the last mandarin of the season."
+    },
+    "usda_zones": {"min": 9, "max": 11},
+    "spacing_in": {"min": 120, "max": 192},
+    "height_in": {"min": 120, "max": 192},
+    "spread_in": {"min": 120, "max": 156},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in well-drained, fertile soil in the warmest available location in full sun; Honey tangerine (also called Murcott or Murcott honey mandarin) is one of the most intensely flavored and sweetest commercial citrus varieties — the name 'Honey' reflects its extraordinary sugar content (Brix up to 14–16) and rich, honeyed, complex flavor that combines mandarin aromatics with tangerine sweetness and a characteristic mild tartness. The fruit is medium-sized, deep orange, with thin, peelable skin and tender, very juicy flesh. Ripening in January–March, Honey tangerines extend the citrus season into late winter and early spring when other citrus is winding down. They have seeded flesh (unlike some modern mandarins) but flavor more than compensates. Trees are productive and attractive landscape specimens; they can have alternate-bearing tendencies (heavy crop one year, lighter the next) that are managed by thinning in the on-year. Feed with citrus fertilizer; protect from temperatures below 28°F. Florida produces commercial quantities in Polk and Highlands counties.",
+    "sources": [
+      "University of Florida IFAS Extension — Murcott Honey Tangerine (HS-165)",
+      "Florida Department of Citrus — Specialty Citrus Varieties",
+      "California Citrus Research Center — Mandarin Varieties",
+      "Texas A&M AgriLife Extension — Mandarin Orange Production in Texas"
+    ]
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "slug": "climax-blueberry",
+    "common_name": "Climax Blueberry",
+    "scientific_name": "Vaccinium ashei 'Climax'",
+    "category": "berry",
+    "subcategory": "blueberry",
+    "days_to_germination": {"min": 30, "max": 90},
+    "germination_soil_temp_f": {"min": 60, "max": 70},
+    "days_to_maturity": {"min": 730, "max": 1095},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Plant 2-year-old container or bare-root plants in well-drained, very acidic soil (pH 4.5–5.5) in winter or early spring; in zone 9 plant November–March during dormancy. Climax requires 400–500 chill hours and a cross-pollinator (Tifblue, Brightwell, or Premier) for best fruit set."
+    },
+    "usda_zones": {"min": 7, "max": 9},
+    "spacing_in": {"min": 72, "max": 96},
+    "height_in": {"min": 72, "max": 120},
+    "spread_in": {"min": 60, "max": 84},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Amend soil with peat moss, pine bark, or sulfur to achieve pH 4.5–5.5 before planting; rabbiteye blueberries like Climax will not thrive in neutral or alkaline soils. Climax is a rabbiteye blueberry (Vaccinium ashei) released by the Georgia Experiment Station in 1974 and remains one of the most widely grown rabbiteye varieties in the Deep South because of its early season (it ripens in late May to early June in zone 8–9, the earliest of the major rabbiteye varieties), consistent productivity, and excellent fruit quality. Berries are medium-sized, light blue with a mild, sweet flavor and small dry scar. Plant in groups of 2–3 varieties for cross-pollination (rabbiteye blueberries are not self-fruitful). Remove flowers the first 2 years to direct energy into root establishment; full crops develop by year 3–4. Mulch 4–6 inches deep with pine bark or wood chips to maintain soil acidity and moisture. Climax is notably upright in growth habit and tolerates the heat and humidity of the Gulf Coast well.",
+    "sources": [
+      "University of Georgia Cooperative Extension — Blueberry Varieties for Georgia (Circular 887)",
+      "Texas A&M AgriLife Extension — Blueberry Production in Texas",
+      "LSU AgCenter — Blueberry Variety Evaluation",
+      "Ison's Nursery and Vineyard variety notes"
+    ]
+  },
+  {
+    "slug": "brightwell-blueberry",
+    "common_name": "Brightwell Blueberry",
+    "scientific_name": "Vaccinium ashei 'Brightwell'",
+    "category": "berry",
+    "subcategory": "blueberry",
+    "days_to_germination": {"min": 30, "max": 90},
+    "germination_soil_temp_f": {"min": 60, "max": 70},
+    "days_to_maturity": {"min": 730, "max": 1095},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Plant in well-drained, highly acidic soil during winter dormancy; Brightwell requires 400–500 chill hours and benefits from cross-pollination with Climax, Tifblue, or Premier. It is the most widely planted rabbiteye blueberry in the South due to its productivity, adaptability, and mechanical harvest suitability."
+    },
+    "usda_zones": {"min": 7, "max": 9},
+    "spacing_in": {"min": 72, "max": 96},
+    "height_in": {"min": 72, "max": 120},
+    "spread_in": {"min": 60, "max": 84},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in highly acidic, well-drained soil amended with peat or pine bark; Brightwell is a rabbiteye blueberry released by the Georgia Experiment Station in 1983 that became the dominant commercial rabbiteye variety in the southeastern US for its outstanding combination of yield, adaptability, and suitability for mechanical harvesting on u-pick and commercial farms. Mid-season ripening (late June to July in zone 8–9) follows the early-ripening Climax and Premier, extending the harvest window. Berries are medium-sized, light blue, firm, with a dry scar and mild, sweet flavor that improves with heat — they tend to sweeten noticeably as they ripen fully over 2–3 weeks, making daily picking rewarding. The upright, vigorous plants are productive and show good disease tolerance under Gulf Coast conditions. As with all rabbiteye blueberries, plant at least two compatible varieties for cross-pollination. Mulch deeply with pine bark or wood chips; never use fresh hardwood mulch as it raises pH.",
+    "sources": [
+      "University of Georgia Cooperative Extension — Rabbiteye Blueberry Production",
+      "Florida Cooperative Extension Service — Rabbiteye Blueberry Culture",
+      "LSU AgCenter — Blueberry Cultivar Evaluation",
+      "Texas A&M AgriLife Extension — Blueberry Variety Trials"
+    ]
+  },
+  {
+    "slug": "premier-blueberry",
+    "common_name": "Premier Blueberry",
+    "scientific_name": "Vaccinium ashei 'Premier'",
+    "category": "berry",
+    "subcategory": "blueberry",
+    "days_to_germination": {"min": 30, "max": 90},
+    "germination_soil_temp_f": {"min": 60, "max": 70},
+    "days_to_maturity": {"min": 730, "max": 1095},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Plant during dormancy (December–February in zone 9) in highly acidic soil; Premier requires 400–500 chill hours. Plant with Climax or Brightwell for cross-pollination; Premier's early-mid season ripening (late May to June) extends the harvest begun by early Climax."
+    },
+    "usda_zones": {"min": 7, "max": 9},
+    "spacing_in": {"min": 72, "max": 96},
+    "height_in": {"min": 72, "max": 120},
+    "spread_in": {"min": 72, "max": 96},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in very acidic soil (pH 4.5–5.0) amended with pine bark, peat, or sulfur; Premier is an early-to-mid-season rabbiteye blueberry released by the Georgia Experiment Station in 1978, valued particularly for its very large berry size — among the largest of the rabbiteye types — and excellent fresh-eating flavor. Berries are light blue, mild, sweet, and ripen from late May through June in zone 8–9. The spreading, vigorous plant is one of the more open-canopied rabbiteye varieties, giving better air circulation that reduces disease problems. Premier is a perennial favorite for u-pick operations and home gardens in the Gulf Coast South because the large berries are showy and harvest quickly. Fertilize with acid-forming fertilizer (ammonium sulfate or cottonseed meal) in early spring and again in late spring; avoid high-nitrogen applications after July. Prune to remove crossing branches and old unproductive wood after the third year of growth.",
+    "sources": [
+      "University of Georgia Cooperative Extension — Rabbiteye Blueberry Varieties",
+      "North Carolina State Extension — Blueberry Variety Profiles",
+      "Texas A&M AgriLife Extension — Commercial Blueberry Production",
+      "Ison's Nursery and Vineyard — Premier Blueberry notes"
+    ]
+  },
+  {
+    "slug": "sharpblue-blueberry",
+    "common_name": "Sharpblue Blueberry",
+    "scientific_name": "Vaccinium corymbosum 'Sharpblue'",
+    "category": "berry",
+    "subcategory": "blueberry",
+    "days_to_germination": {"min": 30, "max": 90},
+    "germination_soil_temp_f": {"min": 60, "max": 70},
+    "days_to_maturity": {"min": 730, "max": 1095},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Plant in well-drained, very acidic soil in winter through early spring; Sharpblue requires only 150–200 chill hours, the lowest requirement of any major blueberry cultivar, making it one of the very few blueberries that perform in zone 9b–10. Plant with O'Neal, Gulf Coast, or Misty for cross-pollination."
+    },
+    "usda_zones": {"min": 8, "max": 10},
+    "spacing_in": {"min": 60, "max": 84},
+    "height_in": {"min": 48, "max": 72},
+    "spread_in": {"min": 48, "max": 60},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in highly acidic, well-drained soil (pH 4.5–5.5) amended with peat or composted pine bark; Sharpblue is a Southern highbush blueberry developed by the University of Florida's fruit research program and released in 1976 as one of the first cultivars specifically bred for extremely low-chill environments — it requires only 150–200 chill hours and thrives in zone 9–10 where rabbiteye varieties often fail to fruit consistently. This makes it particularly valuable for gardeners in coastal zone 9b, south Florida, and similar climates where winter chill accumulation is marginal. Berries are medium-sized, dark blue, very flavorful and aromatic — quality rivals highbush varieties grown in cooler climates. The plant is slightly tender and may be damaged by hard freezes below 15°F, though it recovers quickly. It is nearly evergreen in frost-free areas and can produce two crops per year in very warm locations. An excellent container blueberry for patios in the deep South.",
+    "sources": [
+      "University of Florida IFAS Extension — Southern Highbush Blueberry Production in Florida (HS-57)",
+      "Florida Fruit and Vegetable Association blueberry notes",
+      "Texas A&M AgriLife Extension — Low-Chill Blueberries",
+      "Petals from the Past nursery variety notes"
+    ]
+  },
+  {
+    "slug": "gulf-coast-blueberry",
+    "common_name": "Gulf Coast Blueberry",
+    "scientific_name": "Vaccinium corymbosum 'Gulf Coast'",
+    "category": "berry",
+    "subcategory": "blueberry",
+    "days_to_germination": {"min": 30, "max": 90},
+    "germination_soil_temp_f": {"min": 60, "max": 70},
+    "days_to_maturity": {"min": 730, "max": 1095},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Plant during winter dormancy in extremely acidic, well-drained soil; Gulf Coast requires 200–300 chill hours, lower than rabbiteye varieties but slightly higher than Sharpblue. Excellent choice for zone 8–9 gardens on the Gulf Coast. Plant with O'Neal, Sharpblue, or Emerald for cross-pollination."
+    },
+    "usda_zones": {"min": 7, "max": 9},
+    "spacing_in": {"min": 60, "max": 84},
+    "height_in": {"min": 60, "max": 84},
+    "spread_in": {"min": 48, "max": 72},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Prepare acidic soil to pH 4.5–5.0 before planting; Gulf Coast is a Southern highbush blueberry developed jointly by the USDA and the University of Florida and released in 1987, specifically bred for the lower-chill coastal regions of the Gulf South including Louisiana, Mississippi, Alabama, and the Florida panhandle. It requires 200–300 chill hours and produces reliable crops where northern highbush varieties fail to fruit. Berries are medium-large, blue, firm, with a dry scar and good sweet flavor that develops best with warm, sunny ripening conditions. The plant has a naturally spreading habit and is fairly tolerant of the heavy clay soils found in coastal areas if drainage is adequate — raised beds work excellently. Gulf Coast is also noted for tolerance of the wet winters common on the Gulf Coast, as long as roots are not waterlogged for extended periods. An excellent variety to pair with Climax rabbiteye blueberry to extend season: Gulf Coast ripens 2–3 weeks before Climax begins.",
+    "sources": [
+      "USDA Agricultural Research Service — Gulf Coast blueberry release notes 1987",
+      "LSU AgCenter — Southern Highbush Blueberry Production in Louisiana",
+      "Mississippi State University Extension — Blueberry Production",
+      "University of Florida IFAS — Low-Chill Blueberry Varieties"
+    ]
+  }
+]

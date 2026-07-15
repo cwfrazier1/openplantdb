@@ -1,0 +1,162 @@
+[
+  {
+    "slug": "dangleberry",
+    "common_name": "Dangleberry (Blue Huckleberry, Dwarf Huckleberry)",
+    "scientific_name": "Gaylussacia frondosa",
+    "category": "berry",
+    "subcategory": "native understory berry shrub",
+    "days_to_germination": {"min": 30, "max": 60},
+    "germination_soil_temp_f": {"min": 55, "max": 65},
+    "days_to_maturity": {"min": 1095, "max": 1825},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Plant container-grown or bare-root plants in early spring in acidic, moist, sandy soil; Dangleberry requires the same acidic conditions (pH 4.5–5.5) as blueberries and thrives in the partial shade of longleaf pine and mixed pine-oak forests. In zone 9, plant in morning sun with afternoon shade. Like other huckleberries, it spreads by underground stolons and forms slowly expanding colonies. Very difficult to propagate from seed (requires cold stratification); purchase nursery stock."
+    },
+    "usda_zones": {"min": 5, "max": 9},
+    "spacing_in": {"min": 36, "max": 72},
+    "height_in": {"min": 36, "max": 72},
+    "spread_in": {"min": 36, "max": 72},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Plant in acidic, moist, sandy or organic soil in partial to full shade; Dangleberry tolerates and indeed thrives under open pine forest canopies where acid soil and dappled light create its native habitat. Gaylussacia frondosa is a native deciduous shrub of the Atlantic and Gulf Coastal Plain, found in longleaf pine savannas, flatwoods, and sandy pine-oak barrens from Maine to the Gulf Coast — a classic component of the native understory throughout zone 7–9. The small blue-black berries, ripe July–August, are sweet, distinctly resinous in flavor, and historically among the most prized wild fruits gathered by indigenous peoples and early settlers throughout the Southeast — often preferred over blueberries for their more complex flavor when made into jams, pies, and preserves. Dangleberry is closely related to the Black Huckleberry (G. baccata) but tends to be taller, more open in habit, and more shade-tolerant. The plant spreads by underground stolons to form loose colonies that provide excellent wildlife habitat — birds, black bears, and small mammals rely heavily on huckleberry fruits. In zone 9 Gulf Coast landscapes with acidic, sandy soil, it is an outstanding native understory berry for shaded woodland gardens where blueberries struggle in too much shade.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center — Gaylussacia frondosa (Dangleberry)",
+      "USDA Plants Database — Gaylussacia frondosa",
+      "Weakley, A.S. (2015) Flora of the Southern and Mid-Atlantic States — Gaylussacia",
+      "Dirr, M.A. (2009) Manual of Woody Landscape Plants — Huckleberry species"
+    ]
+  },
+  {
+    "slug": "carolina-silverbell",
+    "common_name": "Carolina Silverbell (Mountain Silverbell, Snowdrop Tree)",
+    "scientific_name": "Halesia tetraptera",
+    "category": "flower",
+    "subcategory": "native understory tree",
+    "days_to_germination": {"min": 90, "max": 180},
+    "germination_soil_temp_f": {"min": 55, "max": 70},
+    "days_to_maturity": {"min": 1825, "max": 3650},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Plant container-grown trees in early spring in moist, well-drained, acidic soil in partial shade; Carolina Silverbell thrives as an understory tree beneath taller oaks, beeches, and tulip poplars. Choose a sheltered site with protection from afternoon sun and drying winds in zone 9's climate. Seed requires warm-cold double dormancy stratification (90 days warm + 90 days cold) before germinating; buy nursery stock for best results. Flowers appear before or with the leaves in spring — the effect is spectacular."
+    },
+    "usda_zones": {"min": 5, "max": 9},
+    "spacing_in": {"min": 120, "max": 240},
+    "height_in": {"min": 180, "max": 480},
+    "spread_in": {"min": 120, "max": 240},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Plant in moist, acidic, humus-rich, well-drained soil in partial shade under the canopy of taller trees; Carolina Silverbell is at its absolute best as a woodland understory tree receiving dappled light rather than direct afternoon sun. Halesia tetraptera (also listed as H. carolina) is a native deciduous tree of the Southern Appalachians and Piedmont, with populations extending to the Gulf Coastal Plain of Louisiana and Mississippi, where it grows in moist ravines, bottomland hardwood forests, and shaded creek banks. In April–May (earlier in zone 9), the branches are literally covered with pendant clusters of pure white, four-petaled bell-shaped flowers just before the leaves emerge — the display earned it the common name 'Snowdrop Tree,' as the dangling white bells cascade along every branch with the appearance of snowflakes frozen in time. The flowers are followed by winged, four-ridged fruits (the source of the species name 'tetraptera,' meaning four-winged) that persist into winter and are eaten by wood ducks, wild turkeys, and songbirds. The tree grows relatively quickly for an understory species — 12–15 feet in 10 years in good conditions — with a naturally attractive multi-stem or single-trunk form, attractive exfoliating bark on mature specimens, and clear yellow fall color. In zone 9 Gulf Coast woodland gardens, Carolina Silverbell provides spring floral interest under large live oaks where most ornamentals fail.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center — Halesia tetraptera (Carolina Silverbell)",
+      "Dirr, M.A. (2009) Manual of Woody Landscape Plants — Halesia tetraptera",
+      "North Carolina State Extension Horticulture — Halesia tetraptera",
+      "USDA Plants Database — Halesia tetraptera"
+    ]
+  },
+  {
+    "slug": "golden-shower-tree",
+    "common_name": "Golden Shower Tree (Indian Laburnum, Cassia, Pudding Pipe Tree)",
+    "scientific_name": "Cassia fistula",
+    "category": "flower",
+    "subcategory": "tropical ornamental tree",
+    "days_to_germination": {"min": 7, "max": 21},
+    "germination_soil_temp_f": {"min": 70, "max": 85},
+    "days_to_maturity": {"min": 1825, "max": 3650},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 2, "max": 6},
+      "note": "Plant container-grown trees in late spring after last frost; Golden Shower Tree is frost-sensitive and killed to the ground or roots by freezing temperatures. In zone 9a, plant in the most protected microclimate available (south-facing wall, urban heat island) and mulch heavily. In zone 9b and zone 10, it performs as a semi-evergreen to briefly deciduous tree and produces its spectacular flowers on bare branches in spring. Seeds have a hard coat — scarify or soak in hot water for 24 hours before sowing."
+    },
+    "usda_zones": {"min": 10, "max": 11},
+    "spacing_in": {"min": 120, "max": 240},
+    "height_in": {"min": 120, "max": 360},
+    "spread_in": {"min": 120, "max": 240},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in full sun in well-drained soil of any type; Golden Shower Tree adapts to alkaline, sandy, or loam soils and is quite drought-tolerant once established in suitable climates. Cassia fistula is widely regarded as one of the most spectacular flowering trees in the tropical and subtropical world — the national flower of Thailand and the state flower of Kerala, India, where it is called 'Kani Konna' (Cassia of the Kani) and its blooming marks the Malayalam New Year. The pendulous, cascading racemes of bright golden-yellow flowers — each 12–18 inches long, draped like golden wisteria from leafless branches in spring — can number in the hundreds on a mature tree, producing an overwhelming display of cascading gold that gives the tree its evocative common name. After flowering, the distinctive seed pods (up to 2 feet long, dark brown, cylindrical) contain sweet, dark brown pulp that has been used medicinally as a laxative in Ayurvedic and folk medicine traditions for millennia — the 'Pudding Pipe Tree' and 'Indian Laburnum' names reference this characteristic. In zone 9, Golden Shower Tree can be grown as a containerized specimen or pushed against a south-facing wall for extra frost protection; in zone 10–11, it becomes a magnificent 20–30 foot landscape specimen. It naturalizes in South Florida and is considered potentially invasive in some natural areas.",
+    "sources": [
+      "University of Florida IFAS Extension — Cassia fistula (Golden Shower Tree)",
+      "Floridata Plant Encyclopedia — Cassia fistula",
+      "Royal Botanic Gardens Kew — Cassia fistula species profile",
+      "Morton, J.F. (1987) Fruits of Warm Climates — Cassia fistula medicinal uses"
+    ]
+  },
+  {
+    "slug": "pink-trumpet-tree",
+    "common_name": "Pink Trumpet Tree (Pink Ipe, Lapacho, Pau d'Arco)",
+    "scientific_name": "Handroanthus impetiginosus",
+    "category": "flower",
+    "subcategory": "tropical ornamental tree",
+    "days_to_germination": {"min": 7, "max": 21},
+    "germination_soil_temp_f": {"min": 65, "max": 80},
+    "days_to_maturity": {"min": 1825, "max": 3650},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Plant container-grown trees in spring after last frost; Pink Trumpet Tree is more cold-tolerant than many tropical trees and established specimens have survived brief dips to 25–28°F in zone 9b. Young trees are more frost-sensitive — protect for the first 2–3 winters with frost cloth and mulch. Plant in a permanent location with excellent drainage; trees flower spectacularly on bare wood in late winter–spring. They grow relatively slowly but are long-lived and increase in magnificence with age."
+    },
+    "usda_zones": {"min": 9, "max": 11},
+    "spacing_in": {"min": 120, "max": 240},
+    "height_in": {"min": 120, "max": 360},
+    "spread_in": {"min": 120, "max": 240},
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant in full sun in well-drained soil; Pink Trumpet Tree is drought-tolerant once established and adapts to poor, sandy, alkaline, and clay soils throughout zone 9–11. Handroanthus impetiginosus (formerly Tabebuia impetiginosa) is a deciduous tropical tree from Central and South America recognized as one of the most spectacular flowering trees in the world — in February–March, the entire leafless canopy erupts in a dense covering of vivid rose-pink to magenta, 2-inch trumpet-shaped flowers that create a breathtaking display visible from a great distance. The flower clusters are borne in such profusion that the tree appears painted — the dark branches and twigs completely hidden under a blanket of bright pink blooms that precede the new leaves by 2–4 weeks. In South America the tree is known as 'Ipe' or 'Lapacho,' and its bark has been used in traditional Andean medicine for centuries — the inner bark of Handroanthus species contains beta-lapachone and lapachol (compounds researched for potential medicinal properties). The extremely hard, dense wood (one of the hardest and most durable in the world) is used for flooring, decking, and tool handles. In zone 9 Gulf Coast landscapes, Pink Trumpet Tree is increasingly planted as a specimen street and garden tree that rewards patience with one of the most stunning winter-to-spring bloom displays possible.",
+    "sources": [
+      "University of Florida IFAS Extension — Handroanthus impetiginosus (Pink Trumpet Tree)",
+      "Texas A&M AgriLife Extension — Tabebuia/Handroanthus species for Gulf Coast",
+      "Floridata Plant Encyclopedia — Tabebuia impetiginosa",
+      "Royal Botanic Gardens Kew — Handroanthus impetiginosus species profile"
+    ]
+  },
+  {
+    "slug": "asparagus-fern",
+    "common_name": "Asparagus Fern (Emerald Fern, Sprengeri Fern, Foxtail Fern)",
+    "scientific_name": "Asparagus densiflorus",
+    "category": "flower",
+    "subcategory": "shade-tolerant ornamental foliage",
+    "days_to_germination": {"min": 21, "max": 45},
+    "germination_soil_temp_f": {"min": 65, "max": 80},
+    "days_to_maturity": {"min": 180, "max": 365},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Plant container-grown specimens in spring in partial shade with well-drained soil; Asparagus Fern establishes quickly and can spread aggressively by bird-dispersed seeds in zone 9b-11 — it is listed as invasive in Florida and Hawaii. Deadhead the red berries to prevent self-seeding. In zone 9a, the plant may be damaged by hard frost but typically resprouts from fleshy, water-storing roots in spring. Excellent in hanging baskets and containers where the arching stems cascade gracefully."
+    },
+    "usda_zones": {"min": 9, "max": 11},
+    "spacing_in": {"min": 18, "max": 36},
+    "height_in": {"min": 18, "max": 36},
+    "spread_in": {"min": 24, "max": 48},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Plant in partial shade in moist, well-drained soil; Asparagus Fern adapts remarkably well to shaded conditions and grows fastest with morning sun and afternoon shade in zone 9 — it tolerates more light than most foliage plants while also performing adequately in fairly deep shade. Asparagus densiflorus is not a true fern but a member of the asparagus family (Asparagaceae), native to southern Africa. Despite the common name, it is closely related to edible garden asparagus (A. officinalis) — the feathery, bright emerald-green foliage that makes it so popular consists of tiny flattened stems (cladodes) that function as leaves. The 'Sprengeri' cultivar produces arching, 2–3-foot stems clothed in fine needlelike cladodes and scarlet berries; the 'Meyeri' (Foxtail Fern) cultivar produces upright, dense, bottle-brush-shaped plumes of bright green. Both forms are outstanding for adding fine-textured, feathery foliage to shaded garden beds, container arrangements, and as groundcovers under trees. The thick, tuberous, fleshy roots store substantial water reserves, giving established plants surprising drought tolerance despite the plant's lush appearance. CAUTION: The berries are mildly toxic if ingested by children or pets. Listed as invasive in some Gulf Coast and Floridian habitats where bird-dispersed seeds colonize disturbed areas.",
+    "sources": [
+      "University of Florida IFAS Extension — Asparagus densiflorus (Asparagus Fern)",
+      "Texas A&M AgriLife Extension — Asparagus densiflorus for Gulf Coast gardens",
+      "Royal Horticultural Society — Asparagus densiflorus cultivar notes",
+      "Florida Exotic Pest Plant Council — Asparagus densiflorus invasive status"
+    ]
+  }
+]

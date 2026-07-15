@@ -1,0 +1,162 @@
+[
+  {
+    "slug": "sugar-cane",
+    "common_name": "Sugar Cane (Noble Cane)",
+    "scientific_name": "Saccharum officinarum",
+    "category": "vegetable",
+    "subcategory": "grass",
+    "days_to_germination": {"min": null, "max": null},
+    "germination_soil_temp_f": {"min": 65, "max": 85},
+    "days_to_maturity": {"min": 270, "max": 365},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 2, "max": 4},
+      "note": "Plant stalk sections (billets) with 2–3 nodes in spring after last frost; in zone 9 plant February–April. Lay sections horizontally 4 inches deep in a furrow or plant vertically with the top node just below soil surface. In zone 9, sugar cane is perennial — freeze back to the ground in cold winters but regrow from the rhizomes."
+    },
+    "usda_zones": {"min": 9, "max": 12},
+    "spacing_in": {"min": 24, "max": 36},
+    "height_in": {"min": 72, "max": 144},
+    "spread_in": {"min": 24, "max": 36},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant stalk cuttings (billets) with 2–3 nodes in loose, fertile, well-drained soil in full sun; Sugar cane (Saccharum officinarum) is the world's largest crop by tonnage and one of the most important agricultural plants in human history, providing approximately 70% of the world's sugar supply. In Louisiana, the Gulf Coast's sugar cane belt, it is a significant commercial crop harvested each fall. For home gardeners in zone 9, sugar cane serves multiple purposes: as a dramatic ornamental grass growing 8–12 feet tall with thick purple, green, or striped stalks; as a source of fresh-pressed cane juice (simply feed stalks through a sugar cane press or juicer); and as chewing cane, where stalks are peeled and chewed to extract the sweet juice — a traditional treat throughout the Gulf South and tropics. Commercial varieties include 'LCP 85-384,' 'HoCP 96-540,' and ornamental types like 'Pele's Smoke' (dark purple) and 'California Striped.' Louisiana cooperative extension services offer specific variety recommendations for the Gulf South. In zone 9, the cane may freeze to the ground in severe winters but returns from rhizomes in spring.",
+    "sources": [
+      "Louisiana State University AgCenter — Sugarcane Production in Louisiana",
+      "USDA National Plant Germplasm System — Saccharum officinarum",
+      "University of Florida IFAS Extension — Sugarcane as a Home Garden Plant",
+      "American Society of Sugar Cane Technologists — Variety documentation"
+    ]
+  },
+  {
+    "slug": "vetiver-grass",
+    "common_name": "Vetiver Grass (Khus Grass)",
+    "scientific_name": "Chrysopogon zizanioides",
+    "category": "herb",
+    "subcategory": "perennial herb",
+    "days_to_germination": {"min": null, "max": null},
+    "germination_soil_temp_f": {"min": 70, "max": 85},
+    "days_to_maturity": {"min": 180, "max": 365},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 2, "max": 4},
+      "note": "Plant divisions or rooted slips in spring after last frost; in zone 9 plant March–May. Vetiver establishes slowly in the first year but develops a deep, extensive root system (reaching 10–15 feet deep) that provides exceptional erosion control on slopes by year 2–3. Plant in rows across slopes for contour erosion barriers."
+    },
+    "usda_zones": {"min": 9, "max": 12},
+    "spacing_in": {"min": 6, "max": 12},
+    "height_in": {"min": 48, "max": 72},
+    "spread_in": {"min": 18, "max": 24},
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant divisions 6–12 inches apart in well-drained or heavy clay soil in full sun; Vetiver is one of the most useful multipurpose plants for zone 9 Gulf Coast gardens. Its roots grow extraordinarily deep (10–15 feet), anchoring slopes and roadsides against severe erosion even in the heavy subtropical rains of the Gulf South — making it the preferred bioengineering plant for slope stabilization in zone 9–12. The roots contain vetiverol and vetivone compounds that are among the most valuable fixatives in high-end perfumery (Chanel No. 5 uses vetiver root) and aromatherapy — dried roots can be used in sachets, potpourri, and natural insect repellents. The tall, upright, blue-green clumps are ornamentally attractive and exceptionally drought-tolerant once established. Vetiver is non-invasive — unlike many ornamental grasses, it does not self-seed prolifically and spreads only by clump expansion. The Vetiver Network International promotes its use for sustainable soil and water conservation throughout tropical and subtropical regions. Harvest roots after 2–3 years for fragrance; divide clumps every 3 years to maintain vigor.",
+    "sources": [
+      "The Vetiver Network International — Vetiver grass applications",
+      "USDA Natural Resources Conservation Service — Vetiver grass for erosion control",
+      "National Vetiver Technology Program, Thailand",
+      "University of Florida IFAS Extension — Vetiver Grass for Erosion Control"
+    ]
+  },
+  {
+    "slug": "pineapple-sage",
+    "common_name": "Pineapple Sage",
+    "scientific_name": "Salvia elegans",
+    "category": "herb",
+    "subcategory": "perennial herb",
+    "days_to_germination": {"min": 14, "max": 21},
+    "germination_soil_temp_f": {"min": 65, "max": 80},
+    "days_to_maturity": {"min": 90, "max": 120},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Plant in spring after frost; in zone 9 Pineapple Sage grows as a perennial, dying back to the roots in cold winters and returning vigorously in spring. Best propagated from cuttings rather than seed. Blooms in fall (October–December), when the bright red tubular flowers attract migrating hummingbirds."
+    },
+    "usda_zones": {"min": 8, "max": 11},
+    "spacing_in": {"min": 24, "max": 36},
+    "height_in": {"min": 36, "max": 60},
+    "spread_in": {"min": 24, "max": 36},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Plant in well-drained, moderately fertile soil in full sun to partial shade; Pineapple Sage is a Mexican native salvia valued for its strongly pineapple-scented leaves and brilliant scarlet-red tubular flower spikes that bloom in October–December, when few other plants are providing nectar for migrating hummingbirds. The large, vivid red flower spikes are unmistakable and the plant is always abuzz with hummingbirds during migration. The leaves smell intensely of fresh pineapple when crushed — used to flavor beverages, fruit salads, and desserts. In zone 9, Pineapple Sage is a robust perennial that may freeze back to the ground in harsh winters but regrows vigorously from roots in spring, often reaching 4–5 feet by fall blooming time. Prune back hard in late winter to encourage vigorous new growth. The combination of fragrant leaves, fall flowers, and hummingbird attraction makes Pineapple Sage one of the most valuable late-season ornamental herbs for Gulf Coast gardens. Easy to propagate from stem cuttings taken in summer.",
+    "sources": [
+      "Texas A&M AgriLife Extension — Pineapple Sage (Salvia elegans)",
+      "LSU AgCenter — Herbs for Louisiana Gardens",
+      "Missouri Botanical Garden Plant Finder — Salvia elegans",
+      "Logee's Plants for Home and Garden — Pineapple Sage notes"
+    ]
+  },
+  {
+    "slug": "blue-porterweed",
+    "common_name": "Blue Porterweed (Blue Snake Herb)",
+    "scientific_name": "Stachytarpheta jamaicensis",
+    "category": "flower",
+    "subcategory": "perennial",
+    "days_to_germination": {"min": 14, "max": 21},
+    "germination_soil_temp_f": {"min": 70, "max": 85},
+    "days_to_maturity": {"min": 90, "max": 180},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 2, "max": 4},
+      "note": "Plant transplants in spring after frost; in zone 9 and warmer areas Blue Porterweed grows as a perennial that may freeze back in severe winters but returns from roots. Also self-seeds readily in zone 9–10. Blooms year-round in frost-free areas."
+    },
+    "usda_zones": {"min": 9, "max": 12},
+    "spacing_in": {"min": 24, "max": 36},
+    "height_in": {"min": 24, "max": 48},
+    "spread_in": {"min": 24, "max": 36},
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant in well-drained, average-fertility soil in full sun; Blue Porterweed (Stachytarpheta jamaicensis) is a sprawling perennial native to the Caribbean, Central America, and South Florida that has become a beloved butterfly and pollinator plant throughout zone 9–10 Gulf Coast and Florida landscapes. The long, thin, rat-tail-like flower spikes carry tiny deep blue-violet flowers that open only a few at a time — deceptively understated individually but continuously attractive to swallowtail butterflies, skippers, Gulf Fritillaries, and numerous other pollinators. In zone 9b–10, it blooms essentially year-round, providing a constant nectar source when other butterfly plants are resting. The plant is somewhat weedy and self-seeds freely in warm climates — valuable for naturalistic butterfly gardens, but should be monitored near wild areas where it can become invasive. The leaves and roots have traditional medicinal uses in Caribbean folk medicine. Drought-tolerant once established; minimal maintenance once plants are growing. An essential Gulf Coast butterfly garden plant.",
+    "sources": [
+      "University of Florida IFAS Extension — Blue Porterweed (Stachytarpheta jamaicensis)",
+      "Florida Native Plant Society — Stachytarpheta profile",
+      "North American Butterfly Association — Porterweed as butterfly plant",
+      "LSU AgCenter — Pollinator Plants for Louisiana"
+    ]
+  },
+  {
+    "slug": "turks-cap",
+    "common_name": "Turk's Cap (Wax Mallow)",
+    "scientific_name": "Malvaviscus arboreus var. drummondii",
+    "category": "flower",
+    "subcategory": "perennial",
+    "days_to_germination": {"min": 14, "max": 30},
+    "germination_soil_temp_f": {"min": 65, "max": 80},
+    "days_to_maturity": {"min": 90, "max": 180},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Plant transplants or rooted cuttings in spring; in zone 9 Turk's Cap is a hardy perennial that freezes back in cold winters but regrows vigorously from its crown in spring. Blooms May–December, peaking in fall. Extremely heat-tolerant and drought-tolerant once established — thrives with no supplemental irrigation after the first year."
+    },
+    "usda_zones": {"min": 7, "max": 11},
+    "spacing_in": {"min": 36, "max": 60},
+    "height_in": {"min": 48, "max": 96},
+    "spread_in": {"min": 48, "max": 72},
+    "sun": "shade",
+    "water": "low",
+    "directions": "Plant in well-drained soil in partial to full shade — Turk's Cap is one of the very few flowering shrubs that produces abundant blooms in DEEP SHADE; transplant into an area with 3–6 hours of sun or even less. Malvaviscus arboreus var. drummondii is a native Texas and Gulf Coast mallow producing spirally-twisted, pendant, brilliant red flowers (the petals never open fully, giving them a Turkish-cap-or-fez appearance that inspired the name) from May through December. The flowers are important hummingbird magnets — Ruby-throated hummingbirds are strongly attracted and can be seen hovering at the nodding blooms throughout summer and fall migration. Bees, butterflies, and other pollinators also visit consistently. The red, apple-sized fruits that follow are edible — tart and sweet with a texture between a plum and a crabapple — used in jams and jellies. Turk's Cap is one of the most heat-, drought-, and shade-tolerant native flowering plants in the Gulf South. Almost impossible to kill once established; thrives in locations where other flowering plants fail completely. An essential Gulf Coast native for low-maintenance gardens.",
+    "sources": [
+      "Texas A&M AgriLife Extension — Malvaviscus arboreus (Turk's Cap)",
+      "Lady Bird Johnson Wildflower Center — Malvaviscus arboreus var. drummondii",
+      "LSU AgCenter — Native Plants for Louisiana Landscapes",
+      "University of Florida IFAS Extension — Turk's Cap for Florida Landscapes"
+    ]
+  }
+]

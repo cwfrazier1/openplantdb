@@ -1,0 +1,162 @@
+[
+  {
+    "slug": "zz-plant",
+    "common_name": "ZZ Plant (Zanzibar Gem, Aroid Palm, Eternity Plant)",
+    "scientific_name": "Zamioculcas zamiifolia",
+    "category": "flower",
+    "subcategory": "shade foliage houseplant",
+    "days_to_germination": {"min": 30, "max": 60},
+    "germination_soil_temp_f": {"min": 70, "max": 80},
+    "days_to_maturity": {"min": 365, "max": 730},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Grow as a houseplant or shaded patio container in zone 9; ZZ Plant cannot tolerate frost or temperatures below 55°F. It is one of the most drought-tolerant foliage plants available — the thick rhizomes store water and the plant can survive neglect that would kill any other indoor plant. Allow the soil to dry completely between waterings (every 2–4 weeks in winter, monthly in summer for bright-lit specimens). Repot every 2–3 years when roots fill the container. Propagate by leaf cuttings inserted in moist mix — roots and a small rhizome develop within 4–6 months. All parts are toxic if ingested."
+    },
+    "usda_zones": {"min": 10, "max": 12},
+    "spacing_in": {"min": 18, "max": 24},
+    "height_in": {"min": 18, "max": 36},
+    "spread_in": {"min": 18, "max": 36},
+    "sun": "shade",
+    "water": "low",
+    "directions": "Grow in low to bright indirect light; ZZ Plant is the definitive choice for extremely low-light situations — it can survive in conditions (dim office corners, fluorescent-lit rooms, north windows) where virtually no other decorative foliage plant remains healthy. Zamioculcas zamiifolia is a tropical perennial from the dry forests of East Africa (Kenya, Tanzania, Zimbabwe, Zambia) that stores water in its underground rhizomes and the thick, succulent stems of its compound leaves — an adaptation to the extended dry seasons of its native habitat that translates to extraordinary drought and neglect tolerance in cultivation. The plant produces arching, glossy, pinnately-compound leaves of glossy, dark, almost waxy, deep green oval leaflets that give it a clean, architectural, perpetually healthy appearance. ZZ Plant has become one of the most universally planted commercial interior foliage plants — used in office lobbies, shopping malls, airports, and dim indoor spaces worldwide precisely because it maintains its attractive appearance under conditions that defeat any other ornamental. The 'Raven' cultivar produces dramatic near-black to dark purple foliage. CAUTION: All parts of the plant contain calcium oxalate crystals and are toxic if ingested; the sap can irritate skin and eyes.",
+    "sources": [
+      "Royal Horticultural Society — Zamioculcas zamiifolia (AGM plant) cultivation",
+      "University of Florida IFAS Extension — Zamioculcas zamiifolia for indoor use",
+      "NASA Clean Air Study — Interior tropical foliage plants",
+      "ASPCA Animal Poison Control — Zamioculcas zamiifolia (toxic to pets)"
+    ]
+  },
+  {
+    "slug": "birds-nest-fern",
+    "common_name": "Bird's Nest Fern (Nest Fern, Spleenwort Bird's Nest)",
+    "scientific_name": "Asplenium nidus",
+    "category": "flower",
+    "subcategory": "shade fern",
+    "days_to_germination": {"min": 21, "max": 45},
+    "germination_soil_temp_f": {"min": 65, "max": 75},
+    "days_to_maturity": {"min": 365, "max": 730},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Grow as a houseplant, shaded patio container, or in zone 9b-11 shade garden; Bird's Nest Fern cannot tolerate frost but is one of the more cold-tolerant large tropical ferns, surviving brief temperatures to 32°F if the rhizome is protected. In zone 9-11, plant outdoors in deeply shaded spots with consistently moist, humus-rich, well-drained soil — outstanding under large trees or in north-facing shaded beds. Avoid getting water into the center rosette cup where it can cause rotting. Do not use neem or oil sprays on the fronds which cause browning."
+    },
+    "usda_zones": {"min": 9, "max": 12},
+    "spacing_in": {"min": 24, "max": 48},
+    "height_in": {"min": 18, "max": 60},
+    "spread_in": {"min": 24, "max": 60},
+    "sun": "shade",
+    "water": "moderate",
+    "directions": "Grow in partial to full shade in moist, humus-rich, well-drained, slightly acidic soil or potting mix; Bird's Nest Fern is one of the most shade-tolerant and adaptable of all large ferns, thriving in the deep, dry shade under large trees where most ferns would fail. Asplenium nidus is a large epiphytic fern native to tropical Asia, eastern Australia, and the Pacific Islands that grows naturally anchored to the bark of large trees, its roots drawing moisture and nutrients from accumulated organic matter. The frond pattern is unlike typical ferns: broad, undivided, strap-like, bright-green, glossy fronds up to 4 feet long arch outward from a central rosette in a shape that perfectly mimics a bird's nest — the dense, brown, fibrous mass of old frond bases at the center closely resembles the construction of a large bird's nest, giving the plant its common name. The fronds have an attractive central black midrib. In zone 9 Gulf Coast gardens, Bird's Nest Fern is one of the finest large-scale shade plants for tropical effect, combining bold architectural form, glossy tropical foliage, and shade tolerance that allows it to thrive under oak trees. It also makes a striking large houseplant for bright-to-moderate indoor light.",
+    "sources": [
+      "University of Florida IFAS Extension — Asplenium nidus for Florida landscapes",
+      "Royal Horticultural Society — Asplenium nidus (AGM plant) cultivation",
+      "LSU AgCenter — Tropical Ferns for Gulf Coast Louisiana Shade Gardens",
+      "Texas A&M AgriLife Extension — Shade Ferns for Gulf Coast Zone 9"
+    ]
+  },
+  {
+    "slug": "fishbone-prayer-plant",
+    "common_name": "Fishbone Prayer Plant (Herringbone Plant, Calathea Burle Marx)",
+    "scientific_name": "Ctenanthe burle-marxii",
+    "category": "flower",
+    "subcategory": "shade foliage houseplant",
+    "days_to_germination": {"min": null, "max": null},
+    "germination_soil_temp_f": {"min": 70, "max": 80},
+    "days_to_maturity": {"min": 90, "max": 180},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Grow as a houseplant or shaded container plant in zone 9; Fishbone Prayer Plant requires warmth, high humidity (50–70%), and consistently moist conditions. Water with filtered, distilled, or rainwater — tap water fluoride causes leaf tip browning. Propagate by rhizome division in spring. Leaves fold upward at night and open horizontally during the day (nyctinasty). More tolerant of lower light and less humidity than many Calathea species, making it a good choice for beginners in the prayer plant group."
+    },
+    "usda_zones": {"min": 11, "max": 12},
+    "spacing_in": {"min": 12, "max": 18},
+    "height_in": {"min": 8, "max": 14},
+    "spread_in": {"min": 12, "max": 24},
+    "sun": "shade",
+    "water": "moderate",
+    "directions": "Grow in bright indirect to moderate shade — Fishbone Prayer Plant maintains its attractive markings best with consistent bright indirect light but tolerates somewhat lower light than many of its relatives. Ctenanthe burle-marxii is a prayer plant (Marantaceae family) from coastal Brazil, named in honor of Roberto Burle Marx (1909–1994), the legendary Brazilian landscape architect and plant collector who transformed tropical garden design. The plant produces spreading rosettes of oval leaves with a distinctive herringbone or fishbone pattern: the ground color is pale gray-green to silver, crossed by darker olive-green bars or chevrons running parallel from the midrib to the leaf edges — a pattern that gives alternate common names 'Fishbone Plant' or 'Herringbone Plant.' The undersides of the leaves are deep magenta-purple. Unlike many of its relatives in the Marantaceae (notably Calathea species), Ctenanthe burle-marxii is generally regarded as more forgiving and adaptable to typical home growing conditions, particularly in its tolerance of lower humidity. It spreads by rhizomes to form a dense, attractive groundcover in zone 11 outdoor shade plantings. Non-toxic to pets and children.",
+    "sources": [
+      "Royal Horticultural Society — Ctenanthe burle-marxii cultivation",
+      "University of Florida IFAS Extension — Ctenanthe and Calathea for indoor use",
+      "Roberto Burle Marx Institute — Eponymous plants of the Brazilian landscape architect",
+      "ASPCA Animal Poison Control — Ctenanthe species (non-toxic to pets)"
+    ]
+  },
+  {
+    "slug": "lipstick-plant",
+    "common_name": "Lipstick Plant (Lipstick Vine, Red Bugle Vine)",
+    "scientific_name": "Aeschynanthus pulcher",
+    "category": "flower",
+    "subcategory": "shade trailing vine",
+    "days_to_germination": {"min": 14, "max": 21},
+    "germination_soil_temp_f": {"min": 70, "max": 80},
+    "days_to_maturity": {"min": 90, "max": 180},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Grow as a hanging basket or trailing container plant in bright indirect to moderate shade; Lipstick Plant is a classic epiphytic trailer that performs beautifully cascading from hanging baskets on shaded porches and patios in zone 9. It cannot tolerate frost or temperatures below 60°F — bring containers indoors when temperatures drop. A 4–6 week cool, dry period (50–65°F) in fall can trigger the spring bloom flush. Propagate from stem cuttings in spring. Avoid overwatering — the succulent, epiphytic stems are prone to rot."
+    },
+    "usda_zones": {"min": 10, "max": 12},
+    "spacing_in": {"min": 12, "max": 18},
+    "height_in": {"min": 6, "max": 12},
+    "spread_in": {"min": 18, "max": 36},
+    "sun": "shade",
+    "water": "low",
+    "directions": "Grow in bright indirect to moderate shade in fast-draining, well-aerated growing medium (an orchid bark mix or coarse potting soil with added perlite); Lipstick Plant is naturally epiphytic and requires excellent drainage to prevent root and stem rot. Aeschynanthus pulcher is a trailing, semi-succulent epiphytic vine from Malaysia and Java in the Gesneriaceae family — the same family as African Violets and Gloxinias. The common name comes from the flowers: vivid scarlet to red tubular blooms 2–3 inches long that emerge from dark maroon or dark brown tubular calyxes — the effect is precisely that of a red lipstick emerging from its case. The flowers are produced at the tips of the trailing stems (and sometimes along the stems) in winter-spring flush and sporadically throughout the year, and are an outstanding hummingbird attractant when the plant is grown outdoors in season. The stems are clothed in fleshy, glossy, dark-green, oval leaves that overlap along the stems. The cascading habit and attractive foliage make it excellent for hanging baskets and wall planters even when not in flower. Numerous hybrids and cultivars offer flowers in orange, yellow, pink, and bicolors in addition to the classic red.",
+    "sources": [
+      "Royal Horticultural Society — Aeschynanthus pulcher cultivation",
+      "American Gesneriad Society — Aeschynanthus (Lipstick Plant) care guide",
+      "University of Florida IFAS Extension — Gesneriads for Florida container gardens",
+      "Floridata Plant Encyclopedia — Aeschynanthus pulcher"
+    ]
+  },
+  {
+    "slug": "goldfish-plant",
+    "common_name": "Goldfish Plant (Flying Goldfish Plant, Columnea gloriosa)",
+    "scientific_name": "Columnea gloriosa",
+    "category": "flower",
+    "subcategory": "shade trailing vine",
+    "days_to_germination": {"min": 14, "max": 21},
+    "germination_soil_temp_f": {"min": 70, "max": 80},
+    "days_to_maturity": {"min": 90, "max": 180},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Grow as a hanging basket or trailing container in bright indirect light to partial shade; Goldfish Plant performs beautifully on shaded porches, patios, and indoors. It cannot tolerate frost and must be kept above 60°F. A cool, slightly dry rest period for 4–6 weeks in fall (dropping temps to 55–60°F, reduced watering) triggers the winter-spring bloom flush. Propagate from stem-tip cuttings in spring. Use a well-draining, peat-based or coir-based potting mix. Feed monthly with a balanced liquid fertilizer during the growing season."
+    },
+    "usda_zones": {"min": 10, "max": 12},
+    "spacing_in": {"min": 10, "max": 18},
+    "height_in": {"min": 6, "max": 12},
+    "spread_in": {"min": 18, "max": 36},
+    "sun": "shade",
+    "water": "moderate",
+    "directions": "Grow in bright indirect to moderate shade — Goldfish Plant flowers most prolifically with good indirect light (bright north or east window or 3–5 feet from a south window) and will produce few flowers in dim conditions. Columnea gloriosa is a trailing, epiphytic vine from Costa Rica and Panama in the Gesneriaceae family, named for its flowers: vivid orange-red, hooded, tubular blooms 2–3 inches long with a small yellow patch in the mouth that, when seen dangling from the trailing stems, precisely resemble a leaping orange goldfish — one of the most charming visual metaphors in the houseplant world. The flowers emerge from small, fleshy, hairy, brown-purple calyx tubes along the trailing stems and at the stem tips, appearing most abundantly after a brief cool, dry rest period in fall. The stems are clothed in pairs of small, thick, fleshy, dark-green, hairy leaves. In excellent conditions with good light and appropriate care, a well-established Goldfish Plant in a large hanging basket produces dozens to hundreds of the characteristic orange flowers simultaneously in winter-spring — an extraordinary display of color at a time of year when few houseplants are blooming. Widely hybridized; many modern hybrids are sold simply as 'Columnea hybrid' with flowers in red, yellow, or bicolor combinations.",
+    "sources": [
+      "American Gesneriad Society — Columnea gloriosa (Goldfish Plant) care guide",
+      "Royal Horticultural Society — Columnea gloriosa cultivation",
+      "University of Florida IFAS Extension — Gesneriad houseplants for Florida",
+      "Floridata Plant Encyclopedia — Columnea species"
+    ]
+  }
+]

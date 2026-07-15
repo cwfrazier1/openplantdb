@@ -275,5 +275,197 @@
       "Orto Botanico di Roma research notes",
       "University of Gastronomic Sciences — Italian Heritage Vegetables"
     ]
+  },
+  {
+    "slug": "whippoorwill-pea",
+    "common_name": "Whippoorwill Pea (Whippoorwill Cowpea)",
+    "scientific_name": "Vigna unguiculata 'Whippoorwill'",
+    "category": "vegetable",
+    "subcategory": "legume",
+    "days_to_germination": {"min": 5, "max": 10},
+    "germination_soil_temp_f": {"min": 65, "max": 95},
+    "days_to_maturity": {"min": 65, "max": 80},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 1, "max": 3},
+      "note": "Direct sow 1–2 inches deep after last frost when soil is warm above 65°F; Whippoorwill is one of the most drought-tolerant and heat-tolerant of the Southern peas and performs well even when planted in poor, sandy soil with little supplemental fertilizer — excess nitrogen from fertilizing reduces pod production in all cowpea types."
+    },
+    "usda_zones": {"min": 5, "max": 11},
+    "spacing_in": {"min": 4, "max": 6},
+    "height_in": {"min": 18, "max": 24},
+    "spread_in": {"min": 12, "max": 18},
+    "sun": "full",
+    "water": "low",
+    "directions": "Sow seeds 1–2 inches deep in any well-drained soil in full sun after last frost; Whippoorwill is one of the oldest and most historically documented American cowpea varieties, named for the distinctive brown mottling on its tan seeds that supposedly resembles the speckled breast of the whippoorwill bird. It is a traditional field pea of the South, used for fresh shelling (green stage), dried beans, and as a nitrogen-fixing cover crop, and is notably tolerant of the heat, drought, and poor sandy soils of the Gulf Coast and Deep South where other legumes struggle. The plants are vigorous, bushy, prolific, and essentially maintenance-free once established — genuine drought tolerance means established plants can survive extended dry periods that would kill modern beans. For fresh eating, shell when pods are full and green; for dry beans, allow pods to brown and dry on the plant before harvest. An outstanding edible cover crop that improves soil while producing food.",
+    "sources": [
+      "Southern Exposure Seed Exchange",
+      "Seed Savers Exchange",
+      "Louisiana State University AgCenter",
+      "USDA National Plant Germplasm System"
+    ]
+  },
+  {
+    "slug": "zipper-cream-pea",
+    "common_name": "Zipper Cream Pea (Cream 40 Pea)",
+    "scientific_name": "Vigna unguiculata 'Zipper Cream'",
+    "category": "vegetable",
+    "subcategory": "legume",
+    "days_to_germination": {"min": 5, "max": 10},
+    "germination_soil_temp_f": {"min": 65, "max": 95},
+    "days_to_maturity": {"min": 65, "max": 75},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 1, "max": 3},
+      "note": "Direct sow 1–2 inches deep after last frost when soil is warm; Zipper Cream is adapted to Gulf Coast and Deep South conditions and performs well in the summer heat. Multiple plantings 3–4 weeks apart extend the harvest season; in zone 9 plant from April through August for successive harvests into fall."
+    },
+    "usda_zones": {"min": 5, "max": 11},
+    "spacing_in": {"min": 3, "max": 6},
+    "height_in": {"min": 18, "max": 24},
+    "spread_in": {"min": 12, "max": 18},
+    "sun": "full",
+    "water": "low",
+    "directions": "Sow seeds 1–2 inches deep in any well-drained soil in full sun; Zipper Cream is one of the most popular Southern peas in home gardens and small farms of the Gulf Coast for its exceptionally easy shelling — the pods split along a natural 'zipper' seam that allows the cream-colored peas to fall out with almost no effort, a practical advantage that makes large harvests much faster to process. The peas themselves are plump, cream-white, and have a mild, sweet, buttery flavor prized in Southern pea dishes, boiled fresh with ham or bacon, or frozen for winter use. A bush-type plant that produces heavily over a long season; heat and drought tolerant once established. One of the most recommended varieties for first-time Southern pea growers because of the easy harvest and reliable production.",
+    "sources": [
+      "Louisiana State University AgCenter",
+      "Southern Exposure Seed Exchange",
+      "University of Georgia Cooperative Extension",
+      "Mississippi State University Extension"
+    ]
+  },
+  {
+    "slug": "lady-cream-pea",
+    "common_name": "Lady Cream Pea (Lady Pea)",
+    "scientific_name": "Vigna unguiculata 'Lady'",
+    "category": "vegetable",
+    "subcategory": "legume",
+    "days_to_germination": {"min": 5, "max": 10},
+    "germination_soil_temp_f": {"min": 65, "max": 95},
+    "days_to_maturity": {"min": 65, "max": 70},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 1, "max": 3},
+      "note": "Direct sow 1–1.5 inches deep in warm soil after last frost; Lady pea is one of the smallest of the Southern peas with very small seeds, so somewhat more of them are required per planting. It is heat tolerant and produces reliably in zone 8–10 Gulf Coast summers."
+    },
+    "usda_zones": {"min": 5, "max": 11},
+    "spacing_in": {"min": 3, "max": 5},
+    "height_in": {"min": 18, "max": 24},
+    "spread_in": {"min": 12, "max": 18},
+    "sun": "full",
+    "water": "low",
+    "directions": "Sow seeds 1–1.5 inches deep in any well-drained, lean soil in full sun after last frost; Lady cream pea is a traditional Southern heirloom cowpea producing small, white, round peas with a notably sweet, mild, delicate flavor — milder and less earthy than crowder peas or black-eyed peas, and considered by many Southern pea aficionados to have the finest flavor of all the cream peas for fresh eating and freezing. The small size and mild sweetness make it the variety most often served to guests unfamiliar with Southern peas, as the flavor is more approachable and universally liked. A true bush-type plant that is drought-tolerant once established; performs reliably in the heat and humidity of the Gulf Coast. Excellent boiled simply with butter and salt and served as a side dish, or incorporated into succotash, hoppin' John, and traditional Southern vegetable plates.",
+    "sources": [
+      "Southern Exposure Seed Exchange",
+      "Seed Savers Exchange",
+      "Louisiana State University AgCenter",
+      "USDA National Plant Germplasm System"
+    ]
+  },
+  {
+    "slug": "vates-collard",
+    "common_name": "Vates Collard",
+    "scientific_name": "Brassica oleracea var. acephala 'Vates'",
+    "category": "vegetable",
+    "subcategory": "leafy",
+    "days_to_germination": {"min": 5, "max": 10},
+    "germination_soil_temp_f": {"min": 45, "max": 85},
+    "days_to_maturity": {"min": 60, "max": 80},
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {"min": -10, "max": -8},
+      "note": "For fall planting in zone 9, start transplants in late August–September and set out October–November; in the Gulf South, collards are primarily a fall through spring vegetable — the mild winters allow nearly year-round harvests. In zone 9 summer heat, plants often go to seed; replant fresh transplants each fall for the best quality greens."
+    },
+    "usda_zones": {"min": 3, "max": 10},
+    "spacing_in": {"min": 18, "max": 24},
+    "height_in": {"min": 24, "max": 36},
+    "spread_in": {"min": 18, "max": 24},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Set transplants 18–24 inches apart in fertile, well-drained soil; in zone 9 plant fall transplants October–November for harvest December through March; Vates is the classic Southern collard variety developed at the Virginia Truck Experiment Station in the 1950s and for decades was the standard garden collard of the South — compact, slow to bolt, very cold hardy (surviving temperatures well below 20°F with frost actually improving the flavor by converting starches to sugars), and producing thick, blue-green leaves of the authentic Southern collard flavor. The name 'Vates' (meaning 'prophet' in Latin) was chosen by the Virginia researchers. Harvest outer leaves regularly from the bottom of the plant upward, leaving the growing tip to continue producing; plants that are allowed to keep their lower leaves become leggy and produce smaller, tougher leaves. The slow-bolt characteristic makes Vates substantially more useful in cool-season gardens than older varieties that rush to flower.",
+    "sources": [
+      "Virginia Cooperative Extension",
+      "Southern Exposure Seed Exchange",
+      "Seed Savers Exchange",
+      "University of Georgia Cooperative Extension"
+    ]
+  },
+  {
+    "slug": "white-half-runner-bean",
+    "common_name": "White Half Runner Bean (Mountaineer Half Runner)",
+    "scientific_name": "Phaseolus vulgaris 'White Half Runner'",
+    "category": "vegetable",
+    "subcategory": "legume",
+    "days_to_germination": {"min": 5, "max": 10},
+    "germination_soil_temp_f": {"min": 60, "max": 85},
+    "days_to_maturity": {"min": 55, "max": 65},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 1, "max": 2},
+      "note": "Direct sow 1–2 inches deep after last frost in any fertile, well-drained soil; white half runner needs only 2–3 feet of support — short stakes or a low fence is sufficient for the semi-vining habit. Successive plantings every 2–3 weeks extend the harvest through the season."
+    },
+    "usda_zones": {"min": 4, "max": 10},
+    "spacing_in": {"min": 4, "max": 6},
+    "height_in": {"min": 24, "max": 36},
+    "spread_in": {"min": 12, "max": 18},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Sow seeds 1–2 inches deep in well-drained, fertile soil in full sun, providing 2–3 feet of support for the semi-vining plants; white half runner is the most popular snap bean in the home gardens and farmers markets of the Appalachian mountains and Southern uplands, occupying the productive middle ground between bush beans (no support needed, shorter production) and full pole beans (requires tall trellis, longer season). The semi-vining plants produce abundantly over a concentrated 2–3 week period, making them excellent for canning and freezing in large batches as well as fresh table use. The pods are round, stringless when young, and have excellent fresh-eating flavor. White seeds make it useful as a dry bean after pods mature fully. The Mountaineer White Half Runner was bred at the West Virginia Extension station specifically for the cool-summer Appalachian region but is equally productive in the Gulf South when planted in spring or fall.",
+    "sources": [
+      "Southern Exposure Seed Exchange",
+      "Seed Savers Exchange",
+      "West Virginia University Extension",
+      "University of Georgia Cooperative Extension"
+    ]
+  },
+  {
+    "slug": "october-bean",
+    "common_name": "October Bean (Peanut Butter Bean, Speckled Pole Bean)",
+    "scientific_name": "Phaseolus vulgaris 'October Bean'",
+    "category": "vegetable",
+    "subcategory": "legume",
+    "days_to_germination": {"min": 5, "max": 10},
+    "germination_soil_temp_f": {"min": 60, "max": 85},
+    "days_to_maturity": {"min": 70, "max": 85},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 1, "max": 4},
+      "note": "Direct sow 1–2 inches deep after last frost; October bean is a pole or half-runner type requiring 4–6 foot support; in zone 9 plant in May–June to mature in September–October when cooler temperatures improve the flavor of the shelled beans."
+    },
+    "usda_zones": {"min": 4, "max": 10},
+    "spacing_in": {"min": 4, "max": 6},
+    "height_in": {"min": 48, "max": 72},
+    "spread_in": {"min": 12, "max": 18},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Sow seeds 1–2 inches deep in fertile, well-drained soil in full sun, providing 4–6 feet of vertical support; October bean is a traditional Appalachian heirloom pole or half-runner bean whose primary value is as a shelling bean — harvested when pods are fully filled but still green to slightly dried ('fall colored'), when the speckled tan-and-maroon seeds shell out easily and cook quickly with a rich, creamy, almost peanut-buttery flavor. Named for October when they traditionally matured in the mountain regions of the southern Appalachians, the plants produce best when planted in late spring to mature into cooler fall temperatures. In zone 9 a June planting produces a September–October shell bean harvest with ideal timing. The shelled beans cook in 45–60 minutes without soaking, absorbing seasoning beautifully, and are outstanding cooked with ham hocks and served over cornbread.",
+    "sources": [
+      "Southern Exposure Seed Exchange",
+      "Seed Savers Exchange",
+      "USDA Plant Introduction Station records",
+      "University of Tennessee Extension"
+    ]
   }
 ]

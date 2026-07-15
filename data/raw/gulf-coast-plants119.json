@@ -1,0 +1,162 @@
+[
+  {
+    "slug": "monstera-karstenianum",
+    "common_name": "Peru Monstera (Karstenianum Monstera, Monstera sp. Peru)",
+    "scientific_name": "Monstera sp. Peru",
+    "category": "flower",
+    "subcategory": "shade tropical vine",
+    "days_to_germination": {"min": 14, "max": 30},
+    "germination_soil_temp_f": {"min": 70, "max": 80},
+    "days_to_maturity": {"min": 90, "max": 180},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Grow as a houseplant or shaded patio vine in zone 9; Peru Monstera cannot tolerate frost or temperatures below 60°F. Unlike many Monsteras that trail well, Peru Monstera is relatively compact and climbs tightly — a small moss pole or trellis is ideal. The leaves remain similar in size whether trailing or climbing, unlike the dramatic juvenile-to-adult size transformation of M. deliciosa. Propagate from stem cuttings with one node. Use a well-draining aroid potting mix. All parts are toxic if ingested."
+    },
+    "usda_zones": {"min": 11, "max": 12},
+    "spacing_in": {"min": 12, "max": 18},
+    "height_in": {"min": 12, "max": 48},
+    "spread_in": {"min": 12, "max": 24},
+    "sun": "shade",
+    "water": "moderate",
+    "directions": "Grow in bright indirect to moderate shade — Peru Monstera maintains attractive foliage in moderate indoor light and is more adaptable to typical room conditions than many of the collector Monsteras. Monstera sp. 'Peru' (sometimes called Monstera karstenianum, though this name has uncertain formal botanical status) is a compact climbing aroid from Peru and neighboring South American countries in the Araceae family, sold widely under the name 'Monstera Peru' in the houseplant trade. The leaves are its defining feature: small to medium-sized (typically 4–8 inches), dark green to nearly blue-green, rigidly leathery, and covered with a distinctive topographic texture — the leaf surface is not smooth but deeply embossed with a pattern of raised veins and sunken areas creating a strongly three-dimensional, almost crinkled or hammered-metal appearance. The leaves are glossy and intensely colored, and the rigid, structural texture of each leaf is the quality that makes the plant immediately recognizable among the many Monsteras now popular in cultivation. Unlike M. deliciosa and M. adansonii, Peru Monstera does not develop fenestrations (holes) even in maturity — the ornamental value is entirely in the texture and color of the solid leaf surface. It is generally adaptable to indoor conditions and grows at a moderate pace. All parts are toxic.",
+    "sources": [
+      "Royal Botanic Gardens Kew — Monstera sp. Peru identification notes",
+      "University of Florida IFAS Extension — Monstera collector species for indoor culture",
+      "American Horticulture Society — Textured-leaf Monsteras: collector varieties",
+      "ASPCA Animal Poison Control — Monstera (toxic to pets)"
+    ]
+  },
+  {
+    "slug": "brugmansia-suaveolens",
+    "common_name": "Angel's Trumpet (White Angel's Trumpet, Moonflower Tree, Toé)",
+    "scientific_name": "Brugmansia suaveolens",
+    "category": "flower",
+    "subcategory": "tropical shrub",
+    "days_to_germination": {"min": 14, "max": 60},
+    "germination_soil_temp_f": {"min": 65, "max": 80},
+    "days_to_maturity": {"min": 180, "max": 365},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Plant container-grown shrubs in spring in full sun to partial shade with consistently moist, fertile, well-drained soil; Brugmansia suaveolens grows rapidly in zone 9 and can reach 8–15 feet in one season. In zone 9a, plants may be killed to the ground by hard frost but resprout vigorously from the root crown in spring. In zone 9b-10, it grows as a large evergreen shrub or small tree. Feed regularly with a balanced fertilizer during the growing season for maximum flower production. Propagate from stem cuttings. CAUTION: All parts are extremely toxic — wear gloves when handling."
+    },
+    "usda_zones": {"min": 9, "max": 11},
+    "spacing_in": {"min": 72, "max": 120},
+    "height_in": {"min": 72, "max": 180},
+    "spread_in": {"min": 72, "max": 120},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Plant in full sun to partial shade in consistently moist, fertile, well-drained soil; Angel's Trumpet grows most vigorously and flowers most heavily in full sun with adequate moisture and fertilization, but appreciates afternoon shade in zone 9 to prevent wilting of the large leaves during peak summer heat. Brugmansia suaveolens is a large, fast-growing soft-stemmed shrub or small tree from the Atlantic rainforest of Brazil in the Solanaceae family, extinct in the wild but widely cultivated throughout the tropical and subtropical world. The plant produces some of the largest and most dramatically beautiful flowers in the plant kingdom: enormous pendulous trumpets 12–18 inches long hanging downward in a cascade of pristine white (in the species) or in various shades of pink, yellow, orange, and peach in cultivars. The flowers are intensely and penetratingly fragrant, especially at dusk and through the night — a sweet, heavy, tropical perfume that carries for remarkable distances on still evenings. In zone 9, a well-established Angel's Trumpet in full bloom may carry dozens to over a hundred simultaneous flowers — a spectacular display. The plant was a sacred ceremonial and medicinal plant to indigenous peoples throughout South and Central America. EXTREME CAUTION: All parts of all Brugmansia species — flowers, leaves, seeds, roots, sap — contain potent tropane alkaloids (hyoscine, hyoscyamine, atropine) causing severe anticholinergic toxicity in humans and animals; fatalities have been recorded.",
+    "sources": [
+      "University of Florida IFAS Extension — Brugmansia species for Florida landscapes",
+      "LSU AgCenter — Angel's Trumpets for Gulf Coast Louisiana",
+      "Floridata Plant Encyclopedia — Brugmansia suaveolens",
+      "ASPCA Animal Poison Control — Brugmansia (highly toxic to pets and humans)"
+    ]
+  },
+  {
+    "slug": "ficus-benghalensis",
+    "common_name": "Banyan Tree (Bengal Fig, Indian Banyan, Strangler Fig)",
+    "scientific_name": "Ficus benghalensis",
+    "category": "fruit",
+    "subcategory": "tropical ornamental tree",
+    "days_to_germination": {"min": 14, "max": 30},
+    "germination_soil_temp_f": {"min": 70, "max": 85},
+    "days_to_maturity": {"min": 1095, "max": 7300},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 2, "max": 6},
+      "note": "Plant container-grown specimens in late spring in full sun to partial shade with well-drained, fertile soil; Banyan Tree is frost-sensitive and only suitable for outdoor planting in zone 10-11. In zone 9, it can be grown as a large indoor container specimen or seasonal patio tree — it tolerates pot culture better than many large figs, growing slowly in containers. Never plant near foundations, pipes, or pavement — the spreading roots and canopy are powerful and have lifted concrete across broad areas. The milky sap is a skin irritant."
+    },
+    "usda_zones": {"min": 10, "max": 12},
+    "spacing_in": {"min": 360, "max": 720},
+    "height_in": {"min": 240, "max": 1200},
+    "spread_in": {"min": 360, "max": 7200},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Plant in full sun to partial shade in deep, well-drained soil with ample space — Banyan Tree is one of the largest living organisms on Earth and requires consideration before planting in any developed landscape. Ficus benghalensis is a massive evergreen fig tree native to the Indian subcontinent (India, Bangladesh, Pakistan, Sri Lanka, Nepal), sacred in Hinduism and one of the national trees of India. The Banyan Tree has produced the largest tree canopy of any living plant species: the famous Great Banyan Tree in the Acharya Jagadish Chandra Bose Indian Botanic Garden near Kolkata, India covers more than 4 acres with approximately 3,500 aerial prop roots and a canopy circumference of more than 1,500 feet. The tree's extraordinary growth mechanism — aerial roots that descend from the branches, root in the soil, and gradually thicken into secondary trunks capable of supporting additional branches — allows an individual tree to expand laterally without limit, progressively creating a multi-trunked 'forest' from a single genetic individual. In zone 10-11 Gulf Coast and Florida, Banyan Trees are major landscape and street trees. Small specimens are excellent as container bonsai or large indoor specimens in zone 9. The milky sap is irritating to skin. The small figs are eaten by birds but are not palatable to humans.",
+    "sources": [
+      "University of Florida IFAS Extension — Ficus benghalensis (Banyan Tree)",
+      "Fairchild Tropical Botanic Garden — Ficus benghalensis cultivation notes",
+      "Royal Botanic Gardens Kew — Ficus benghalensis species profile",
+      "USDA PLANTS Database — Ficus benghalensis"
+    ]
+  },
+  {
+    "slug": "michelia-champaca",
+    "common_name": "Champaka (Joy Perfume Tree, Yellow Champak, Magnolia champaca)",
+    "scientific_name": "Magnolia champaca",
+    "category": "flower",
+    "subcategory": "tropical fragrant tree",
+    "days_to_germination": {"min": 30, "max": 60},
+    "germination_soil_temp_f": {"min": 70, "max": 80},
+    "days_to_maturity": {"min": 730, "max": 2190},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 2, "max": 6},
+      "note": "Plant container-grown specimens in late spring in full sun to partial shade with moist, well-drained, fertile, slightly acidic soil; Champaka grows rapidly in zone 9b-11 and typically begins flowering at 3–5 years from seed. In zone 9a, container culture allows winter protection — large containers can be moved to a greenhouse or enclosed space. In zone 9b-10, plant against a south-facing wall for warmth and frost protection. The intensely fragrant flowers are used for garlands, perfumery, and religious offerings throughout South and Southeast Asia."
+    },
+    "usda_zones": {"min": 10, "max": 12},
+    "spacing_in": {"min": 120, "max": 240},
+    "height_in": {"min": 120, "max": 480},
+    "spread_in": {"min": 60, "max": 240},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Plant in full sun to partial shade in moist, well-drained, fertile, slightly acidic soil — Champaka grows most vigorously in full sun but benefits from afternoon shade in zone 9's intense summer heat. Magnolia champaca (formerly Michelia champaca) is a large, fast-growing evergreen tree from the Himalayan foothills of India and Southeast Asia in the Magnoliaceae family, cultivated throughout the tropical world for one of the most celebrated flower fragrances in perfumery. The small (2–3 inch), creamy-white to golden-yellow flowers are produced in extraordinary abundance from spring through fall on established trees — typically dozens to hundreds of flowers open simultaneously — and release a fragrance variously described as combining orange blossom, ylang ylang, jasmine, and spice in a complex, penetrating, euphoric composition. Jean Patou's 'Joy' perfume (once the world's most expensive perfume per ounce) was built substantially around champaka absolute. In South and Southeast Asia, the flowers are woven into garlands for religious offerings in Hindu and Buddhist temples and worn as hair adornments at weddings and festivals. The flowers are among the most revered in Asian botanical culture. In zone 9-10 Gulf Coast landscapes, Champaka is a fast-growing ornamental tree that blooms for months and fills garden spaces with its remarkable fragrance.",
+    "sources": [
+      "University of Florida IFAS Extension — Magnolia champaca (Champaka) for Florida",
+      "Fairchild Tropical Botanic Garden — Magnolia champaca cultivation notes",
+      "LSU AgCenter — Fragrant Tropical Trees for Gulf Coast Louisiana",
+      "Floridata Plant Encyclopedia — Magnolia champaca"
+    ]
+  },
+  {
+    "slug": "begonia-listada",
+    "common_name": "Striped Begonia (Listada Begonia, Green-Stripe Begonia)",
+    "scientific_name": "Begonia listada",
+    "category": "flower",
+    "subcategory": "shade foliage houseplant",
+    "days_to_germination": {"min": 14, "max": 21},
+    "germination_soil_temp_f": {"min": 65, "max": 75},
+    "days_to_maturity": {"min": 60, "max": 120},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Grow as a houseplant or shaded terrarium plant in zone 9; Begonia listada cannot tolerate frost or temperatures below 55°F. It prefers high humidity (50–70%) and well-draining, slightly acidic potting mix. Allow the top half-inch of soil to dry between waterings. Excellent for terrariums, enclosed plant cases, and high-humidity indoor displays where its striking foliage can be appreciated at close range. Propagate from leaf cuttings or stem tip cuttings."
+    },
+    "usda_zones": {"min": 10, "max": 12},
+    "spacing_in": {"min": 6, "max": 10},
+    "height_in": {"min": 6, "max": 12},
+    "spread_in": {"min": 8, "max": 14},
+    "sun": "shade",
+    "water": "moderate",
+    "directions": "Grow in bright indirect to moderate shade — Striped Begonia prefers the bright indirect light of a north or east window and will bleach in direct sun, though it can flower in lower light levels than many begonias. Begonia listada is a small, upright to slightly trailing begonia native to southern Brazil, one of the most distinctively marked of the many begonia species in cultivation. The leaves are the primary ornamental feature: dark emerald-green, slightly puckered and hairy, with a distinctive pale green to yellow-green stripe that runs precisely along the entire length of the central midrib, creating a two-toned leaf that appears to have been painted with a lime-green brush stroke down the center. The undersides of the leaves are dark red-purple. The combination of the dark green leaf with the bright central stripe and the hairy, textured surface creates a compact plant with strong graphic appeal. Begonia listada produces small but attractive white flowers with a reddish calyx that adds to the ornamental display. The plant's compact size and high-humidity requirements make it well-suited to terrarium culture, where the consistent moisture, gentle air circulation, and close viewing distance allow the detailed foliage markings to be appreciated. A parent species in some hybrid begonia programs, contributing the central-stripe leaf pattern.",
+    "sources": [
+      "American Begonia Society — Begonia listada care guide",
+      "Royal Horticultural Society — Begonia listada cultivation notes",
+      "University of Florida IFAS Extension — Begonia species for indoor culture",
+      "Floridata Plant Encyclopedia — Begonia listada"
+    ]
+  }
+]

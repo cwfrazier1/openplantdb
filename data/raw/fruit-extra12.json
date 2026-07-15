@@ -1,0 +1,162 @@
+[
+  {
+    "slug": "hood-pear",
+    "common_name": "Hood Pear (Low-Chill Pear)",
+    "scientific_name": "Pyrus communis 'Hood'",
+    "category": "fruit",
+    "subcategory": "pome fruit",
+    "days_to_germination": {"min": 60, "max": 120},
+    "germination_soil_temp_f": {"min": 50, "max": 70},
+    "days_to_maturity": {"min": 1095, "max": 1825},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": -8, "max": -4},
+      "note": "Plant bare-root trees in winter dormancy (December–February in zone 9); Hood requires only 100–150 chill hours, making it one of the lowest-chill pear cultivars available and successful in zone 9b–10a where most pears cannot fruit. Plant with Pineapple or Floridahome for cross-pollination."
+    },
+    "usda_zones": {"min": 8, "max": 10},
+    "spacing_in": {"min": 144, "max": 240},
+    "height_in": {"min": 120, "max": 240},
+    "spread_in": {"min": 96, "max": 180},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in deep, well-drained soil in full sun; Hood is a low-chill European pear cultivar developed by the University of Florida's fruit research program, requiring only 100–150 hours of chilling — one of the lowest chill requirements of any successful pear. This makes Hood exceptional for zone 9 and even zone 9b–10a, where most European pear varieties fail to produce consistent crops. The fruit is large, greenish-yellow to yellow at maturity, with sweet, white, juicy flesh ripening in June–July in zone 9 — much earlier than conventional pear season. Flavor is mild and pleasant, suitable for fresh eating and canning. Fire blight can be a problem in humid conditions; prune out infected wood promptly and avoid excessive nitrogen fertilization. Cross-pollination with Pineapple pear or Floridahome significantly improves yields. Hood is one of the three low-chill pears (with Orient and LeConte) most reliably recommended for Gulf Coast zone 9 home orchards where conventional Bartlett and Bosc fail to fruit.",
+    "sources": [
+      "University of Florida IFAS Extension — Hood Pear for Florida (HS-32)",
+      "Florida Department of Agriculture — Pear Production",
+      "Texas A&M AgriLife Extension — Low-Chill Pear Varieties for Texas",
+      "California Rare Fruit Growers — Low Chill Pear Notes"
+    ]
+  },
+  {
+    "slug": "garber-pear",
+    "common_name": "Garber Pear",
+    "scientific_name": "Pyrus x lecontei 'Garber'",
+    "category": "fruit",
+    "subcategory": "pome fruit",
+    "days_to_germination": {"min": 60, "max": 120},
+    "germination_soil_temp_f": {"min": 50, "max": 70},
+    "days_to_maturity": {"min": 1095, "max": 1825},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": -8, "max": -4},
+      "note": "Plant dormant bare-root trees in late winter; Garber requires 150–200 chill hours and is partially self-fertile but crops better with LeConte, Orient, or Kieffer nearby for cross-pollination. Ripens August–September in zone 9 — a mid-season Southern pear."
+    },
+    "usda_zones": {"min": 6, "max": 9},
+    "spacing_in": {"min": 144, "max": 240},
+    "height_in": {"min": 120, "max": 240},
+    "spread_in": {"min": 96, "max": 180},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in deep, fertile, well-drained soil in full sun; Garber is an old American hybrid pear selected around 1880 in Florida and one of the most fire-blight resistant pear varieties known — it is sometimes used as a rootstock for other pears specifically for its superior adaptability to Southern soils and resistance to the fire blight (Erwinia amylovora) that devastates European pear varieties in humid climates. The large, roundish-pear-shaped fruits are yellow to golden at maturity with crisp, gritty, mildly sweet flesh good for fresh eating, canning, and preserves. Garber ripens mid-season (August–September) and is widely planted in the Gulf South as a dual-purpose tree: ornamental landscape specimen with beautiful spring bloom and reliable production under low-spray conditions that would be impossible for Bartlett or d'Anjou. Long-lived, vigorous trees are productive for decades in zone 7–9. Harvest when fruit begins to soften at the blossom end; Garber pears ripen better when picked slightly underripe and allowed to ripen at room temperature.",
+    "sources": [
+      "University of Georgia Cooperative Extension — Southern Pear Varieties",
+      "LSU AgCenter — Pear Production Guide for Louisiana",
+      "Texas A&M AgriLife Extension — Garber Pear for Home Orchards",
+      "Liberty Hyde Bailey: Cyclopedia of Horticulture, Macmillan 1902"
+    ]
+  },
+  {
+    "slug": "kadota-fig",
+    "common_name": "Kadota Fig (Italian Honey Fig, Dottato Fig)",
+    "scientific_name": "Ficus carica 'Kadota'",
+    "category": "fruit",
+    "subcategory": "fig",
+    "days_to_germination": {"min": 14, "max": 30},
+    "germination_soil_temp_f": {"min": 65, "max": 80},
+    "days_to_maturity": {"min": 730, "max": 1095},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Plant rooted cuttings or container trees in spring; in zone 9 plant February–April. Kadota produces a good Breba (first) crop in June on old wood, followed by a heavy main crop in August–October. Self-fertile — no pollinizer needed. Best in full sun with well-drained, alkaline-tolerant soil."
+    },
+    "usda_zones": {"min": 7, "max": 10},
+    "spacing_in": {"min": 120, "max": 180},
+    "height_in": {"min": 96, "max": 144},
+    "spread_in": {"min": 96, "max": 144},
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant in well-drained soil in full sun; Kadota is one of the oldest known fig cultivars, documented in Italian records since at least the 16th century and known as Dottato or Dottato Bianco in Italy, where it has been cultivated around Naples and in Calabria for over 400 years. The American name 'Kadota' is an Anglicized corruption of 'Dottato.' The fruits are small to medium, rounded, pale green to yellowish-white at maturity (not turning brown like most figs) with amber to violet interior flesh that is seedless (no viable seeds) and extraordinarily sweet — among the highest sugar content of any fig. The nearly seed-free flesh is ideal for fig preserves, dried figs, and fresh eating. Kadota is self-fertile, drought-tolerant, and among the most productive figs per tree. It is the most widely used commercial fig in California's Central Valley canning and drying industry. The pale, golden-green skin requires learning when it is ripe — pick when it bends at the stem and yields gently to pressure, the skin turns a barely perceptible yellowish hue, and the neck softens. Excellent for the Gulf Coast Zone 9 garden.",
+    "sources": [
+      "University of California Cooperative Extension — Kadota Fig Production in California",
+      "Italian National Council for Research and Experimentation in Agriculture — Dottato fig cultivar notes",
+      "Sunset Western Garden Book — Kadota fig characteristics",
+      "Texas A&M AgriLife Extension — Figs for Texas (E-397)"
+    ]
+  },
+  {
+    "slug": "violette-de-bordeaux-fig",
+    "common_name": "Violette de Bordeaux Fig (Negronne Fig, Petite Negri Fig)",
+    "scientific_name": "Ficus carica 'Violette de Bordeaux'",
+    "category": "fruit",
+    "subcategory": "fig",
+    "days_to_germination": {"min": 14, "max": 30},
+    "germination_soil_temp_f": {"min": 65, "max": 80},
+    "days_to_maturity": {"min": 730, "max": 1095},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Plant in spring; in zone 9 plant February–April. Violette de Bordeaux is a small-statured fig tree (6–8 feet) highly suited to container growing and small urban gardens. It produces predominantly on the main crop (August–October in zone 9) with a modest Breba crop in June."
+    },
+    "usda_zones": {"min": 7, "max": 10},
+    "spacing_in": {"min": 60, "max": 120},
+    "height_in": {"min": 72, "max": 96},
+    "spread_in": {"min": 60, "max": 96},
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant in well-drained soil in full sun; Violette de Bordeaux (called Negronne in California and known as Petite Negri in some American nurseries) is a small-statured French heirloom fig from the Bordeaux region of France — one of the most beloved fig varieties among connoisseurs because of its extraordinary flavor. The small (1.5–2 inch), deep purple-violet to nearly black berries have blood-red interior flesh with a rich, complex, intense sweetness with strawberry-raspberry undertones — a flavor profile significantly deeper and more complex than larger, milder figs. The tree's compact size (6–8 feet tall and wide) makes it an ideal container specimen for patios, balconies, and small urban gardens where a standard fig would overwhelm the space. Violette de Bordeaux is the go-to container fig recommended by specialty nurseries. The skin is quite thin and fruits bruise easily, limiting its commercial shipping potential but making it perfect for eating fresh off the tree. In zone 9, it fruits reliably August–October and can be moved into protected areas during cold snaps in zone 9a.",
+    "sources": [
+      "San Jose State University — Negronne fig variety notes",
+      "California Rare Fruit Growers — Violette de Bordeaux documentation",
+      "Cooks' Garden and Territorial Seed Company fig variety notes",
+      "Louisiana Food and Wine Festival heritage fig records"
+    ]
+  },
+  {
+    "slug": "ayers-pear",
+    "common_name": "Ayers Pear",
+    "scientific_name": "Pyrus communis 'Ayers'",
+    "category": "fruit",
+    "subcategory": "pome fruit",
+    "days_to_germination": {"min": 60, "max": 120},
+    "germination_soil_temp_f": {"min": 50, "max": 70},
+    "days_to_maturity": {"min": 1095, "max": 1825},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": -8, "max": -4},
+      "note": "Plant dormant bare-root trees in late winter; Ayers requires 600 chill hours and is better suited to zone 7–8b than coastal zone 9. In inland zone 9a areas with colder winters, it performs well. Plant with Kieffer or Orient for cross-pollination."
+    },
+    "usda_zones": {"min": 5, "max": 9},
+    "spacing_in": {"min": 144, "max": 240},
+    "height_in": {"min": 144, "max": 240},
+    "spread_in": {"min": 120, "max": 180},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in deep, well-drained soil in full sun; Ayers is a mid-to-late season pear developed at the Tennessee Agricultural Experiment Station and released in 1939. It is valued in the mid-South and upper Gulf Coast (zone 7–8b) for producing excellent-quality, Bartlett-like pears with moderate fire blight resistance in climates where Bartlett itself succumbs to disease. The medium-large, yellow, bell-shaped fruits have sweet, juicy, white flesh with a smooth texture and excellent Bartlett-like aroma and flavor — considerably better quality than Kieffer for fresh eating. Ayers is widely considered the best-flavored Southern pear for zones 7–8b and is recommended by extension services across Tennessee, Alabama, and Georgia for home orchards. Harvest when green-yellow color appears and the fruit begins to soften at the neck; ripen at room temperature for 3–5 days for best flavor. Fire blight susceptibility requires vigilant pruning and copper spray during bloom in wet springs. Not recommended for zone 9a where insufficient chill accumulation is likely.",
+    "sources": [
+      "Tennessee Agricultural Experiment Station — Ayers pear release notes 1939",
+      "University of Georgia Cooperative Extension — Pear Variety Evaluation",
+      "Alabama Cooperative Extension — Home Orchard Pear Varieties",
+      "LSU AgCenter — Pear Variety Performance in Louisiana"
+    ]
+  }
+]

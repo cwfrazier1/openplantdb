@@ -1,0 +1,162 @@
+[
+  {
+    "slug": "flordaprince-peach",
+    "common_name": "Flordaprince Peach",
+    "scientific_name": "Prunus persica 'Flordaprince'",
+    "category": "fruit",
+    "subcategory": "stone fruit",
+    "days_to_germination": {"min": 90, "max": 120},
+    "germination_soil_temp_f": {"min": 50, "max": 70},
+    "days_to_maturity": {"min": 1095, "max": 1460},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": -8, "max": -4},
+      "note": "Plant bare-root trees in January–February in zone 9, containerized trees through early spring; Flordaprince requires only 150–200 chill hours (hours below 45°F), making it one of the very few peach varieties that fruits reliably in zone 9a–9b and coastal zone 8. Requires a cross-pollinator or self-fruitfulness depends on climate — plant with Tropic Beauty for best yields."
+    },
+    "usda_zones": {"min": 8, "max": 10},
+    "spacing_in": {"min": 180, "max": 240},
+    "height_in": {"min": 120, "max": 180},
+    "spread_in": {"min": 144, "max": 180},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in well-drained, slightly acidic soil (pH 6.0–6.5) in full sun; Flordaprince is a very-low-chill peach released by the University of Florida's fruit breeding program in 1982, bred specifically for the Gulf Coast and central Florida where most standard peach varieties fail to fruit because winters are too mild to accumulate sufficient chill hours. With only 150–200 chill hours required, Flordaprince blooms and sets fruit consistently across zone 9. The fruit is medium-sized, yellow-fleshed, semi-freestone, with a pleasant mild peach flavor ripening in mid-April to early May — remarkably early compared to northern varieties. Trees grow vigorously and require annual pruning to an open-center form to maintain size and fruit quality. Thin fruit to 6–8 inches apart in April for large fruit size. Protect blooms from late cold snaps in zone 8b; blooms appear in January–February and can be damaged by freezes below 28°F. Fire blight can be a problem — remove affected wood promptly.",
+    "sources": [
+      "University of Florida IFAS Extension — Low-Chill Peach Varieties for Florida (HS-1282)",
+      "Texas A&M AgriLife Extension — Peach Variety Selection for Texas",
+      "LSU AgCenter — Stone Fruit Production in Louisiana",
+      "Florida Foundation Seed Producers peach variety notes"
+    ]
+  },
+  {
+    "slug": "la-feliciana-peach",
+    "common_name": "La Feliciana Peach",
+    "scientific_name": "Prunus persica 'La Feliciana'",
+    "category": "fruit",
+    "subcategory": "stone fruit",
+    "days_to_germination": {"min": 90, "max": 120},
+    "germination_soil_temp_f": {"min": 50, "max": 70},
+    "days_to_maturity": {"min": 1095, "max": 1460},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": -8, "max": -4},
+      "note": "Plant bare-root in January–February in zone 8–9; La Feliciana requires 450 chill hours, making it best suited for zone 7b–8b inland areas of the Gulf South where winter temperatures regularly dip below 45°F. Not recommended for coastal zone 9b where chill accumulation may be insufficient."
+    },
+    "usda_zones": {"min": 7, "max": 9},
+    "spacing_in": {"min": 180, "max": 240},
+    "height_in": {"min": 120, "max": 180},
+    "spread_in": {"min": 144, "max": 180},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in well-drained, slightly acidic loam in full sun; La Feliciana is a freestone peach developed by Louisiana State University AgCenter and released in 1978, specifically bred for the Gulf Coast South and named for the historic peach-growing region around St. Francisville, Louisiana. With a chill requirement of approximately 450 hours, it is well-matched to the inland Gulf South (zones 7b–8b) where more heat-sensitive northern varieties struggle through summer but standard low-chill Florida varieties lack enough winter cold. Fruit quality is excellent — large, yellow-fleshed, fully freestone with rich, classic peach flavor ripening in late May to June in Louisiana and Mississippi. Trees are vigorous and productive, with good disease tolerance under Gulf Coast conditions. La Feliciana is considered a benchmark variety for Louisiana peach production and is widely sold at regional nurseries. Thin fruit to 6–8 inches in April for full-sized fruit; prune to an open center after leaf drop.",
+    "sources": [
+      "LSU AgCenter Publication — Peach Varieties for Louisiana",
+      "Louisiana State University Agricultural Experiment Station — La Feliciana peach release notes",
+      "Mississippi State University Extension — Peach Variety Evaluation",
+      "Southern Orchard Supply peach variety notes"
+    ]
+  },
+  {
+    "slug": "alma-fig",
+    "common_name": "Alma Fig",
+    "scientific_name": "Ficus carica 'Alma'",
+    "category": "fruit",
+    "subcategory": "fig",
+    "days_to_germination": {"min": 14, "max": 30},
+    "germination_soil_temp_f": {"min": 65, "max": 80},
+    "days_to_maturity": {"min": 730, "max": 1095},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Plant rooted cuttings or container trees after last frost risk; in zone 9 plant February–April for full establishment before summer heat. Alma is primarily a second-crop (main crop) variety, producing one large crop in late summer through fall. Site in a warm, south-facing location with well-drained soil."
+    },
+    "usda_zones": {"min": 7, "max": 10},
+    "spacing_in": {"min": 120, "max": 180},
+    "height_in": {"min": 96, "max": 144},
+    "spread_in": {"min": 96, "max": 144},
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant in well-drained, slightly acidic soil in full sun; Alma is a Texas-bred fig developed by Texas A&M University and released in 1974, bred specifically for the alkaline, calcareous soils and hot, humid summers of Texas. It is the most widely planted fig variety in Texas home gardens because of its exceptional adaptability to Texas soils, heat, and moderate drought tolerance. The fruit is small to medium, golden-tan to amber when ripe, with very sweet, rich, amber-colored flesh and a distinctive honey flavor superior to most brown-skinned varieties. Alma produces a very heavy main crop in August–October in zone 9. Skin is thin and the fruits are best eaten fresh or for preserves; they do not ship well, which is why Alma remains primarily a home and farmers' market variety. The tree produces few to no Breba (first-crop) figs but compensates with tremendous main-crop productivity. Trees are slightly cold-sensitive below 10°F; in zone 8, protect with mulch around the base in winter.",
+    "sources": [
+      "Texas A&M AgriLife Extension — Figs for Texas (E-397)",
+      "Texas A&M University Agricultural Experiment Station — Alma fig release notes 1974",
+      "William Ree, Texas AgriLife Extension — Fig variety trials",
+      "Lone Star Growers nursery variety notes"
+    ]
+  },
+  {
+    "slug": "orourke-fig",
+    "common_name": "O'Rourke Fig",
+    "scientific_name": "Ficus carica 'O'Rourke'",
+    "category": "fruit",
+    "subcategory": "fig",
+    "days_to_germination": {"min": 14, "max": 30},
+    "germination_soil_temp_f": {"min": 65, "max": 80},
+    "days_to_maturity": {"min": 730, "max": 1095},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Plant container-grown or rooted cuttings after last frost; in zone 9 plant February–April. O'Rourke is a biennial bearer, producing a Breba crop in June and a main crop in August–October. Well-suited to humid Gulf Coast conditions where many fig varieties suffer from souring (internal fermentation) caused by rainfall splitting ripe fruit — O'Rourke's closed eye greatly reduces this problem."
+    },
+    "usda_zones": {"min": 7, "max": 10},
+    "spacing_in": {"min": 120, "max": 180},
+    "height_in": {"min": 96, "max": 156},
+    "spread_in": {"min": 96, "max": 144},
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant in well-drained, fertile soil in full sun; O'Rourke is a fig developed by the LSU AgCenter and named for Dr. Ed O'Rourke, the Louisiana fruit breeder who led decades of fig research at LSU. Released in the late 20th century, it was bred specifically for Louisiana and Gulf Coast conditions, where the challenges of summer rain, humidity, and insect pressure at the eye (ostiole) cause fruit souring and internal pest damage in many standard varieties. O'Rourke has a distinctively tight, nearly closed eye that greatly reduces fruit souring caused by rain entering the ostiole and internal splitting — making it one of the best varieties for humid Gulf Coast gardens. Fruit is medium-sized, greenish-yellow to tan at maturity with amber-pink flesh, very sweet with complex fig flavor. The breba crop on old wood in June is modest; the main crop in August–October is abundant. Trees are vigorous and well-adapted to heavy clay soils when drainage is adequate.",
+    "sources": [
+      "LSU AgCenter — Fig Varieties for Louisiana Gardeners",
+      "Edward O'Rourke, LSU Agricultural Experiment Station, fig breeding program records",
+      "Southern Fruit Fellowship — O'Rourke variety notes",
+      "Louisiana Cooperative Extension fig production guides"
+    ]
+  },
+  {
+    "slug": "charapita-pepper",
+    "common_name": "Charapita Pepper (Wild Peruvian Pepper)",
+    "scientific_name": "Capsicum chinense var. charapita",
+    "category": "vegetable",
+    "subcategory": "pepper",
+    "days_to_germination": {"min": 14, "max": 21},
+    "germination_soil_temp_f": {"min": 75, "max": 90},
+    "days_to_maturity": {"min": 90, "max": 120},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 2, "max": 4},
+      "note": "Start seeds indoors 10–12 weeks before last frost at 80–85°F; charapita peppers germinate slowly and benefit from bottom heat and patience. Transplant after all cold risk passes. In zone 9, transplant March–April; plants may overwinter as tender perennials in zone 9b–11 if protected from frost."
+    },
+    "usda_zones": {"min": 9, "max": 12},
+    "spacing_in": {"min": 18, "max": 24},
+    "height_in": {"min": 24, "max": 48},
+    "spread_in": {"min": 18, "max": 30},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Start seeds at 80–85°F with bottom heat and transplant into well-drained, fertile soil in full sun after nights are reliably above 60°F; charapita is a tiny wild Capsicum chinense from the Peruvian Amazon, producing hundreds of pea-sized (4–5mm), perfectly round yellow to orange fruits on sprawling, branchy plants. Despite their diminutive size, charapita peppers are among the hottest available (50,000–100,000 Scoville) with an extraordinary fruity, citrusy, aromatic complexity that has made them the world's most expensive pepper by weight in specialty markets — a single small jar of charapita paste can command premium prices in European cuisine. The flavor is uniquely fruity and intensely floral, unlike the purely sharp heat of most hot peppers. Plants are prolific producers if given warmth and consistent moisture, loaded with dozens of tiny fruits that ripen from green to yellow to orange over several months. In zone 9, treat as an annual or overwinter indoors; in zone 10–12, plants can become productive multi-year shrubs.",
+    "sources": [
+      "Capsicum annuum World Pepper Database — Charapita",
+      "Peruvian Ministry of Agriculture — Native Pepper Varieties",
+      "Chile Pepper Institute, New Mexico State University",
+      "Refining Fire Chiles specialty pepper notes"
+    ]
+  }
+]

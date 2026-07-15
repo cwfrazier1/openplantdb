@@ -1,0 +1,162 @@
+[
+  {
+    "slug": "celebrity-tomato",
+    "common_name": "Celebrity Tomato",
+    "scientific_name": "Solanum lycopersicum 'Celebrity'",
+    "category": "vegetable",
+    "subcategory": "tomato",
+    "days_to_germination": {"min": 5, "max": 10},
+    "germination_soil_temp_f": {"min": 70, "max": 85},
+    "days_to_maturity": {"min": 70, "max": 79},
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": -8, "max": -6},
+      "note": "Start indoors 6–8 weeks before transplanting; in zone 9 start in January and transplant in March. Celebrity is an early-to-mid-season determinate that sets fruit reliably under hot conditions — well-suited for both spring and fall tomato seasons in zone 9."
+    },
+    "usda_zones": {"min": 4, "max": 10},
+    "spacing_in": {"min": 24, "max": 36},
+    "height_in": {"min": 36, "max": 48},
+    "spread_in": {"min": 24, "max": 36},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Start seeds at 70–80°F, transplant after soil warms and nights stay above 50°F; Celebrity is the most widely sold tomato variety in the United States, an All-America Selections winner from 1984 that became ubiquitous in home gardens because of its extraordinary disease resistance, consistent production, and reliable flavor across a wide range of climates. The medium-large (7–8 oz), red, globe-shaped fruits ripen uniformly and have classic tomato flavor — not exceptional, but reliably good and much better than supermarket tomatoes. The determinate, semi-bushy plants (3–4 feet tall) resist nearly every major tomato disease: Fusarium wilt (races 1 and 2), Verticillium wilt, nematodes, Alternaria, tobacco mosaic virus, and gray leaf spot — the VFFNTASt on the label. This combination of compact size, disease resistance, and reliability makes Celebrity the recommended first tomato for new gardeners and the backup choice for experienced growers in difficult disease environments. In zone 9, it performs well in the spring window (transplanted February–March for May–June harvest) and in fall (transplanted late August for October–November harvest).",
+    "sources": [
+      "All-America Selections — Celebrity tomato AAS winner 1984",
+      "Texas A&M AgriLife Extension — Tomato Variety Selection for Texas",
+      "University of Florida IFAS Extension — Tomato Production Guide",
+      "Ferry-Morse Seed Company historical variety notes"
+    ]
+  },
+  {
+    "slug": "better-boy-tomato",
+    "common_name": "Better Boy Tomato",
+    "scientific_name": "Solanum lycopersicum 'Better Boy'",
+    "category": "vegetable",
+    "subcategory": "tomato",
+    "days_to_germination": {"min": 5, "max": 10},
+    "germination_soil_temp_f": {"min": 70, "max": 85},
+    "days_to_maturity": {"min": 70, "max": 80},
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": -8, "max": -6},
+      "note": "Start indoors 6–8 weeks before transplanting; in zone 9 plant February–March for spring crop, or start in late July for transplant mid-August for fall. Better Boy is an indeterminate that benefits from sturdy staking or caging to support 4–5 foot plants."
+    },
+    "usda_zones": {"min": 4, "max": 10},
+    "spacing_in": {"min": 24, "max": 36},
+    "height_in": {"min": 48, "max": 72},
+    "spread_in": {"min": 24, "max": 36},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Start seeds indoors at 70–75°F and transplant into fertile, well-drained soil after last frost; Better Boy is a Petoseed Company introduction from the 1960s that became one of the best-selling tomato varieties in US history, consistently appearing in Guinness World Records lists for the heaviest yields from a single plant — a Better Boy at the Chattanooga Times Free Press Demo Garden reportedly produced 342 pounds of fruit from a single plant. The large (8–16 oz), smooth, deep-red fruits are meaty with thick walls, excellent rich-sweet tomato flavor, and few seeds — the archetype of what many American gardeners consider an ideal home garden tomato. Indeterminate vines continue growing and producing until frost, requiring substantial staking or a heavy-duty cage. Disease resistance covers Fusarium wilt (race 1) and Verticillium wilt. Better Boy's long production season, large fruit size, and excellent flavor have kept it among the top five best-selling tomato varieties in the US for over 50 years. In zone 9, it thrives as a spring crop and can resume production in fall after summer heat subsides.",
+    "sources": [
+      "Petoseed Company historical variety records",
+      "Texas A&M AgriLife Extension — Tomato Varieties",
+      "University of Florida IFAS Extension",
+      "Gurney's Seed and Nursery — Better Boy variety notes"
+    ]
+  },
+  {
+    "slug": "heatmaster-tomato",
+    "common_name": "Heatmaster Tomato",
+    "scientific_name": "Solanum lycopersicum 'Heatmaster'",
+    "category": "vegetable",
+    "subcategory": "tomato",
+    "days_to_germination": {"min": 5, "max": 10},
+    "germination_soil_temp_f": {"min": 70, "max": 85},
+    "days_to_maturity": {"min": 70, "max": 80},
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": -8, "max": -6},
+      "note": "Start indoors 6–8 weeks before transplanting; in zone 9 transplant February–March for spring crop. Heatmaster is specifically bred to set fruit when nighttime temperatures remain above 75°F — the primary reason most tomatoes fail in Gulf Coast summer. It is the recommended choice for gardeners who want a spring crop that extends into early summer in zone 9."
+    },
+    "usda_zones": {"min": 5, "max": 10},
+    "spacing_in": {"min": 24, "max": 36},
+    "height_in": {"min": 48, "max": 72},
+    "spread_in": {"min": 24, "max": 36},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Start seeds indoors and transplant in full sun, fertile, well-drained soil; Heatmaster is a hybrid tomato developed specifically for gardeners in hot-summer climates (USDA zones 8–10) where standard tomato varieties drop their blossoms and fail to set fruit when nighttime temperatures exceed 70–75°F and daytime temperatures exceed 95°F. The proprietary Seminis breeding program tested hundreds of crosses before selecting a plant that maintains viable pollen and fruit set under extreme heat — making it one of the most important varieties for Gulf Coast, Southwest, and Deep South gardeners who struggle with the narrow spring window before heat arrives. Fruits are medium-large (8–10 oz), red, globe-shaped with good flavor and firm flesh. The indeterminate plant continues producing through periods of heat that stop Celebrity and Better Boy cold. Disease resistance includes Fusarium wilt races 1 and 2, Verticillium, Tobacco mosaic virus, and nematodes. For zone 9 gardeners frustrated by tomatoes that stop producing in May, Heatmaster extends the harvest window by 3–5 weeks.",
+    "sources": [
+      "Seminis Vegetable Seeds — Heatmaster tomato variety notes",
+      "Texas A&M AgriLife Extension — Heat-Tolerant Tomato Varieties for Texas",
+      "University of Arizona Cooperative Extension — Tomatoes in the Low Desert",
+      "Arizona Master Gardener Program — Tomato Variety Trials"
+    ]
+  },
+  {
+    "slug": "sweet-100-tomato",
+    "common_name": "Sweet 100 Cherry Tomato",
+    "scientific_name": "Solanum lycopersicum 'Sweet 100'",
+    "category": "vegetable",
+    "subcategory": "tomato",
+    "days_to_germination": {"min": 5, "max": 10},
+    "germination_soil_temp_f": {"min": 70, "max": 85},
+    "days_to_maturity": {"min": 65, "max": 75},
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": -8, "max": -6},
+      "note": "Start indoors 6–8 weeks before transplanting; in zone 9 start in January and transplant February–March. Sweet 100 is an indeterminate cherry tomato that grows very tall (6–8 feet or more) and requires a sturdy cage or tall stake. It produces long trusses of up to 100 fruits per cluster over many months."
+    },
+    "usda_zones": {"min": 4, "max": 10},
+    "spacing_in": {"min": 24, "max": 36},
+    "height_in": {"min": 60, "max": 96},
+    "spread_in": {"min": 24, "max": 36},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Start seeds at 70–80°F and transplant into fertile, well-drained soil in full sun; Sweet 100 is the original modern super-sweet cherry tomato introduction from the mid-1970s — the variety that established the benchmark for cherry tomato sweetness (Brix values of 8–10, twice that of standard slicing tomatoes) and proved that home gardeners would prioritize flavor over yield. The small (3/4–1 inch), round, brilliant-red fruits are produced in enormous clusters of 100 or more on vigorous indeterminate vines that can reach 8–10 feet by season's end. The flavor is intensely sweet with bright acidity — the flavor that inspired an entire category of sweet cherry tomatoes including Sun Gold, Sweet Million, and Supersweet 100. A perennial favorite for children's gardens because fruits are perfectly snack-sized and can be eaten straight from the vine. In zone 9, Sweet 100 performs well in spring (February–May) and fall (August–October). Very productive until frost.",
+    "sources": [
+      "Ball Horticultural Company — Sweet 100 cherry tomato historical records",
+      "Johnny's Selected Seeds — Cherry Tomato Variety Notes",
+      "University of Florida IFAS Extension — Cherry Tomato Production",
+      "Texas A&M AgriLife Extension — Home Vegetable Gardening"
+    ]
+  },
+  {
+    "slug": "juliet-tomato",
+    "common_name": "Juliet Tomato (Grape Tomato)",
+    "scientific_name": "Solanum lycopersicum 'Juliet'",
+    "category": "vegetable",
+    "subcategory": "tomato",
+    "days_to_germination": {"min": 5, "max": 10},
+    "germination_soil_temp_f": {"min": 70, "max": 85},
+    "days_to_maturity": {"min": 60, "max": 70},
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": -8, "max": -6},
+      "note": "Start indoors 6–8 weeks before transplanting; in zone 9 transplant February–March for spring. Juliet is an indeterminate grape type that grows vigorously to 6–8 feet and sets fruit abundantly even during heat, making it excellent for zone 9 spring and fall plantings."
+    },
+    "usda_zones": {"min": 4, "max": 10},
+    "spacing_in": {"min": 24, "max": 36},
+    "height_in": {"min": 60, "max": 96},
+    "spread_in": {"min": 24, "max": 36},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Transplant into rich, well-drained soil in full sun after last frost; Juliet is a 1999 All-America Selections winner widely regarded as the standard-setter for the grape tomato category. The oval, grape-sized (1.5–2 inch) fruits grow in large trusses of 30–40 tomatoes and have a particularly rich, complex flavor — a balance of sweetness and acidity often described as more 'adult' and interesting than the purely sweet cherry types. Juliet is notable for its outstanding crack resistance (thin-skinned cherry tomatoes frequently split in rain; Juliet resists this), its prolific production, and its reliable fruit set under warm conditions. The thick-walled, meaty fruits have an unusually long shelf life and hold on the vine for weeks without cracking, making them practical for casual harvesting. Disease resistance is strong. In zone 9, Juliet is especially valuable because it continues setting fruit at temperatures that shut down many indeterminate varieties; the heavy trusses of beautiful red grape tomatoes become a summer landmark in the garden.",
+    "sources": [
+      "All-America Selections — Juliet tomato AAS winner 1999",
+      "Johnny's Selected Seeds — Juliet tomato variety notes",
+      "University of Florida IFAS Extension — Grape Tomato Production",
+      "Texas A&M AgriLife Extension — Tomato Variety Evaluation"
+    ]
+  }
+]

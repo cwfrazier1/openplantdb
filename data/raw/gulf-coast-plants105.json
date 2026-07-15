@@ -1,0 +1,162 @@
+[
+  {
+    "slug": "rubber-tree",
+    "common_name": "Rubber Tree (Rubber Plant, Indian Rubber Fig)",
+    "scientific_name": "Ficus elastica",
+    "category": "flower",
+    "subcategory": "tropical foliage tree",
+    "days_to_germination": {"min": 14, "max": 30},
+    "germination_soil_temp_f": {"min": 70, "max": 80},
+    "days_to_maturity": {"min": 365, "max": 1095},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 2, "max": 6},
+      "note": "Grow as a large container or houseplant in zone 9 — Rubber Tree is frost-tender and cannot survive temperatures below 40°F outdoors. In zone 10-11, plant outdoors in partial shade with well-drained soil and room for the massive root system. When moving indoor plants outdoors in spring, acclimatize gradually over 2 weeks to prevent sunburn. The milky latex sap is a severe skin irritant and toxic if ingested — wear gloves when pruning. Repot every 2 years in spring."
+    },
+    "usda_zones": {"min": 10, "max": 12},
+    "spacing_in": {"min": 72, "max": 240},
+    "height_in": {"min": 48, "max": 600},
+    "spread_in": {"min": 48, "max": 240},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Grow in bright indirect light to part shade — Rubber Tree adapts to a wide range of light conditions from low indoor light to outdoor filtered sun, but grows fastest and develops the deepest foliage color in bright, indirect light. Ficus elastica is a tropical tree native to India (Assam, Meghalaya) and Malaysia that grows into a massive 100-foot banyan-form tree in its native habitat, producing aerial roots that descend to form additional trunks — in Indian forests, single trees can span an enormous area. In cultivation worldwide, it is one of the most popular large houseplants and patio container trees, prized for its large (8–12 inch), thick, glossy, dark green leaves that give the plant a bold, tropical presence. The standard green 'Decora' and 'Robusta' cultivars are joined by dark red-burgundy 'Burgundy' (nearly black leaves in high light), cream-edged 'Tineke', and the highly popular tri-color 'Ruby' (pink, green, and cream variegated). In zone 10-11 landscapes, planted outdoors it grows into a large canopy tree eventually. The common name refers to the milky latex sap — exploited commercially before the rubber tree (Hevea brasiliensis) replaced it as the primary natural rubber source in the 19th century. CAUTION: Sap is a serious skin and eye irritant; all parts toxic if eaten.",
+    "sources": [
+      "University of Florida IFAS Extension — Ficus elastica landscape and indoor use",
+      "Royal Horticultural Society — Ficus elastica (AGM cultivars)",
+      "Texas A&M AgriLife Extension — Large Foliage Plants for Containers: Ficus",
+      "ASPCA Animal Poison Control — Ficus elastica (toxic to pets)"
+    ]
+  },
+  {
+    "slug": "mysore-clockvine",
+    "common_name": "Mysore Clockvine (Dolls Shoes Vine, Indian Clockvine)",
+    "scientific_name": "Thunbergia mysorensis",
+    "category": "flower",
+    "subcategory": "tropical vine",
+    "days_to_germination": {"min": 14, "max": 30},
+    "germination_soil_temp_f": {"min": 70, "max": 85},
+    "days_to_maturity": {"min": 365, "max": 730},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Plant container-grown vines in spring on a sturdy pergola, arbor, or trellis in full sun to partial shade; Mysore Clockvine is a vigorous, woody perennial vine that can reach 20–30 feet and requires a strong support. In zone 9, it may freeze back in cold winters but resprouts from the crown in spring; in zone 10-11 it is evergreen and blooms nearly year-round with peak bloom in fall through spring. The pendulous flower clusters are best appreciated from below — plant to climb over a pergola or arbor for optimal viewing from underneath."
+    },
+    "usda_zones": {"min": 9, "max": 11},
+    "spacing_in": {"min": 120, "max": 240},
+    "height_in": {"min": 120, "max": 360},
+    "spread_in": {"min": 120, "max": 240},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Plant in full sun to partial shade in well-drained, fertile soil; Mysore Clockvine grows vigorously in zone 9 conditions and produces its most spectacular bloom in fall through spring when temperatures moderate from summer heat. Thunbergia mysorensis is a large, vigorous, woody twining vine from the forests of southern India (Mysore, now Karnataka region), producing one of the most exotic and unusual flower displays of any tropical vine. The flowers are borne in long, pendulous racemes 12–18 inches in length that hang down from the vine canopy like earrings or chandeliers — each individual flower is two-toned, with reflexed outer petals in deep burgundy-red to maroon and a large, flaring, open throat in vivid golden-yellow, creating a striking color combination visible from a distance. The pendant flower clusters are specifically adapted for sunbird pollination in their native Indian forest habitat — the long, tubular corolla and dangling cluster position the flower perfectly for these hovering birds, and in zone 9, hummingbirds fulfill the same function with enthusiasm. In the US, Mysore Clockvine is grown as a spectacular pergola and arbor vine at botanical gardens (it is a signature plant at Balboa Park in San Diego and public tropical gardens nationwide) and is increasingly available at specialty nurseries for zone 9-11 home gardens.",
+    "sources": [
+      "San Diego Balboa Park Botanical Garden — Thunbergia mysorensis cultivation notes",
+      "University of Florida IFAS Extension — Thunbergia species for Florida",
+      "Fairchild Tropical Botanic Garden — Thunbergia mysorensis",
+      "Floridata Plant Encyclopedia — Thunbergia mysorensis"
+    ]
+  },
+  {
+    "slug": "silver-plectranthus",
+    "common_name": "Silver Plectranthus (Silver Spurflower, Silver Spur Flower)",
+    "scientific_name": "Plectranthus argentatus",
+    "category": "flower",
+    "subcategory": "shade ornamental foliage",
+    "days_to_germination": {"min": 14, "max": 21},
+    "germination_soil_temp_f": {"min": 65, "max": 75},
+    "days_to_maturity": {"min": 90, "max": 180},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Plant cuttings or container-grown plants in spring in partial shade to full sun; Silver Plectranthus roots quickly from tip cuttings placed in water or moist soil and is one of the easiest tropical plants to propagate. In zone 9, grow as a warm-season annual or container plant that is brought indoors during frost. It grows rapidly and may need pinching to maintain a compact, bushy habit — pinch or cut tip growth every 4–6 weeks during the growing season. Excellent for filling large containers with dramatic silver foliage."
+    },
+    "usda_zones": {"min": 10, "max": 11},
+    "spacing_in": {"min": 18, "max": 30},
+    "height_in": {"min": 18, "max": 36},
+    "spread_in": {"min": 18, "max": 36},
+    "sun": "shade",
+    "water": "moderate",
+    "directions": "Grow in partial shade to full sun — Silver Plectranthus produces its finest, most silvery foliage color in partial shade, where the iridescent silver hairs on the large, textured leaves catch available light; in full afternoon sun in zone 9 the leaves can become bleached and less attractively colored. Plectranthus argentatus is a large, fast-growing, soft-stemmed tropical shrub from Queensland, Australia, grown for its large (4–6 inch), rounded, deeply veined, heavily silver-pubescent leaves that give the plant an extraordinary metallic silver-gray appearance — one of the most intensely silver-foliaged plants available for the shade garden. The silver effect comes from a dense covering of fine white hairs on all leaf surfaces and stems. In zone 9, it grows as a dramatic warm-season annual that can reach 3–4 feet and fill a large space with its bold silver presence from May through November. In late fall, established plants produce tall spikes of small, white to pale blue flowers that attract bees and butterflies. The combination of large silver leaves, easy culture, and rapid growth makes Silver Plectranthus an outstanding foliage accent for shade gardens, mixed tropical containers, and contrasting with dark or brightly colored neighbors.",
+    "sources": [
+      "Royal Horticultural Society — Plectranthus argentatus (AGM plant)",
+      "University of Florida IFAS Extension — Plectranthus species for Florida gardens",
+      "Texas A&M AgriLife Extension — Plectranthus for Gulf Coast shade gardens",
+      "Floridata Plant Encyclopedia — Plectranthus argentatus"
+    ]
+  },
+  {
+    "slug": "firestick-plant",
+    "common_name": "Firestick Plant (Pencil Cactus, Milk Bush, Naked Lady)",
+    "scientific_name": "Euphorbia tirucalli",
+    "category": "flower",
+    "subcategory": "succulent shrub",
+    "days_to_germination": {"min": 14, "max": 28},
+    "germination_soil_temp_f": {"min": 70, "max": 85},
+    "days_to_maturity": {"min": 365, "max": 730},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 2, "max": 6},
+      "note": "Plant rooted cuttings or container-grown specimens in spring in full sun in any very well-drained soil; Firestick Plant cannot survive frost and should be grown in containers in zone 9 that are brought indoors before frost. In zone 10-11, plant outdoors in a sunny, dry location. CRITICAL CAUTION: The abundant milky white latex sap is one of the most severe plant irritants known — contact with eyes can cause temporary to permanent blindness. Wear heavy gloves, eye protection, and long sleeves whenever working with this plant. Keep away from children and pets."
+    },
+    "usda_zones": {"min": 10, "max": 11},
+    "spacing_in": {"min": 36, "max": 96},
+    "height_in": {"min": 60, "max": 240},
+    "spread_in": {"min": 36, "max": 96},
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant in full sun in any very well-drained, sandy or rocky soil; Firestick Plant is extremely drought-tolerant and thrives with minimal water in hot, sunny conditions — overwatering or poor drainage causes rapid decline and root rot. Euphorbia tirucalli is a large, succulent shrub or small tree native to tropical East Africa (Madagascar, Mozambique, Tanzania) and widely distributed throughout the tropics as a traditional living fence plant, medicinal species, and petroleum-substitute biofuel candidate. The plant consists almost entirely of dense, tangled masses of smooth, pencil-thick, green cylindrical stems with virtually no leaves — the stems perform photosynthesis directly. The 'Sticks on Fire' cultivar (the 'Firestick' form) produces young stem tips in vivid orange, yellow, and red — most intensely colored in full sun and cool weather — creating the appearance of a bush on fire. The effect in winter months when the color intensifies is extraordinary. CRITICAL WARNING: The abundant milky white latex sap that immediately flows from any cut or broken stem is a potent toxin and irritant — it can cause severe skin blistering, is extremely dangerous if it contacts the eyes (potentially causing permanent damage or blindness), and is toxic if ingested. Handle with heavy protective equipment only.",
+    "sources": [
+      "University of Florida IFAS Extension — Euphorbia tirucalli (Pencil Cactus)",
+      "Floridata Plant Encyclopedia — Euphorbia tirucalli",
+      "Texas A&M AgriLife Extension — Euphorbia species: safety and landscape use",
+      "ASPCA Animal Poison Control — Euphorbia tirucalli (highly toxic)"
+    ]
+  },
+  {
+    "slug": "edible-canna",
+    "common_name": "Edible Canna (Achira, Queensland Arrowroot, Tous-les-Mois)",
+    "scientific_name": "Canna indica",
+    "category": "vegetable",
+    "subcategory": "tropical edible root",
+    "days_to_germination": {"min": 14, "max": 30},
+    "germination_soil_temp_f": {"min": 70, "max": 85},
+    "days_to_maturity": {"min": 120, "max": 180},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Plant rhizomes 3–4 inches deep in spring after last frost in partial shade to full sun in moist, fertile soil; Edible Canna grows vigorously in Gulf Coast humid conditions and requires regular irrigation for best rhizome production. Harvest rhizomes in fall when the plant begins to die back, leaving some in the ground to regenerate next season. Unlike ornamental Canna hybrids bred for flowers, Edible Canna is grown primarily for its large, starchy rhizomes used as food. Direct sow scarified seeds after filing the hard seed coat."
+    },
+    "usda_zones": {"min": 7, "max": 11},
+    "spacing_in": {"min": 18, "max": 24},
+    "height_in": {"min": 36, "max": 72},
+    "spread_in": {"min": 18, "max": 36},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Plant in full sun to partial shade in moist, fertile, well-drained to moderately wet soil; Edible Canna produces its largest, most nutritious rhizomes in rich, consistently moist conditions with full sun, but tolerates partial shade in hot zone 9 summers. Canna indica (the species form, as opposed to modern ornamental Canna hybrids) is an edible perennial from tropical and subtropical America that has been cultivated as a food crop in the Andes, Central America, and the Caribbean for over 4,500 years — rhizomes found at archaeological sites in coastal Peru date to 2500 BCE. The starchy rhizomes — large, horizontal, thick, and up to 2 feet long in well-grown plants — are processed like arrowroot: washed, peeled, grated, pressed to extract starch, dried, and used as a thickener and flour substitute called 'Queensland Arrowroot' (in Australia) or 'Tous-les-Mois' (in the French Caribbean). The fresh rhizomes can also be cooked and eaten like potatoes or dried and ground into a fine, easily digestible starch valuable for people with wheat sensitivities. The plant produces small orange-red flowers (much less showy than ornamental Canna hybrids) and bold, paddle-shaped tropical leaves. In zone 9, it overwinters in the ground and regrows rapidly each spring.",
+    "sources": [
+      "USDA Agricultural Research Service — Canna indica as food crop",
+      "Purdue University Center for New Crops — Canna edulis (Achira/Queensland Arrowroot)",
+      "PROSEA — Plant Resources of Southeast Asia: Canna indica as starch crop",
+      "Texas A&M AgriLife Extension — Canna indica for Gulf Coast edible gardens"
+    ]
+  }
+]

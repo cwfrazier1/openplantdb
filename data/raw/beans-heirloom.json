@@ -184,5 +184,133 @@
       "Johnny's Selected Seeds",
       "Maine Organic Farmers and Gardeners Association"
     ]
+  },
+  {
+    "slug": "cannellini-bean",
+    "common_name": "Cannellini Bean (White Kidney Bean, Fazolia Bean)",
+    "scientific_name": "Phaseolus vulgaris 'Cannellini'",
+    "category": "vegetable",
+    "subcategory": "legume",
+    "days_to_germination": {"min": 5, "max": 10},
+    "germination_soil_temp_f": {"min": 60, "max": 85},
+    "days_to_maturity": {"min": 75, "max": 90},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": -2, "max": 2},
+      "note": "Direct sow in well-drained, moderately fertile soil 2–3 inches deep; cannellini is a cool-to-warm season crop — in zone 9 plant in early spring (February–March) for a late spring harvest, or again in fall (September–October) for a winter harvest when temperatures are cooler. Avoid planting in summer heat."
+    },
+    "usda_zones": {"min": 3, "max": 10},
+    "spacing_in": {"min": 4, "max": 6},
+    "height_in": {"min": 18, "max": 24},
+    "spread_in": {"min": 12, "max": 18},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Sow seeds 2–3 inches deep in well-drained, fertile soil in full sun; cannellini is the classic Italian white kidney bean — an heirloom variety of the white kidney bean with large, plump, white seeds and a distinctly creamy, mild, earthy flavor that absorbs olive oil, garlic, rosemary, and sage beautifully. It is the essential bean of Tuscany: the foundation of ribollita and pasta e fagioli, the bean that defines Florentine cuisine, and arguably the finest-flavored dry bean for Italian cooking. The seeds are harvested dry for storage or 'semi-dried' (fresh-shelled and briefly cured) for a fresh-eating texture that is superior to fully dried beans. Bush-type plants produce pods that are allowed to dry on the vine before harvest; the dry seeds store indefinitely in cool, dry conditions.",
+    "sources": [
+      "Seed Savers Exchange",
+      "Slow Food International Ark of Taste",
+      "Baker Creek Heirloom Seeds",
+      "University of Gastronomic Sciences — Italian Heritage Vegetables"
+    ]
+  },
+  {
+    "slug": "lazy-wife-bean",
+    "common_name": "Lazy Wife Pole Bean (German Lazy Wife)",
+    "scientific_name": "Phaseolus vulgaris 'Lazy Wife'",
+    "category": "vegetable",
+    "subcategory": "legume",
+    "days_to_germination": {"min": 5, "max": 10},
+    "germination_soil_temp_f": {"min": 60, "max": 85},
+    "days_to_maturity": {"min": 80, "max": 90},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 1, "max": 2},
+      "note": "Direct sow 1–2 inches deep after last frost; Lazy Wife requires 5–6 feet of sturdy support and has a longer maturity than most bush beans — plant early enough that vines have time to establish before peak summer heat."
+    },
+    "usda_zones": {"min": 4, "max": 10},
+    "spacing_in": {"min": 4, "max": 6},
+    "height_in": {"min": 60, "max": 72},
+    "spread_in": {"min": 12, "max": 18},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Sow seeds 1–2 inches deep in fertile, well-drained soil in full sun after last frost, providing 5–6 feet of trellis or pole support; Lazy Wife is an heirloom German pole bean introduced to the United States in the late 19th century by German immigrants and named — perhaps humorously — because its long, round, entirely stringless pods require no stringing to prepare, making them easy to cook even for someone disinclined toward kitchen work. Catalog entries from the 1880s describe it as one of the finest snap beans ever introduced. The long (5–7 inch), thick, curved, medium-green pods are harvested as snap beans at the immature stage for tender, sweet, flavorful eating, or left to shell as green-seeded beans, or fully dried for white dry beans. The flavor at the snap bean stage is rich and beany — better than most modern varieties. Productive over a long season if harvested regularly.",
+    "sources": [
+      "Seed Savers Exchange",
+      "Baker Creek Heirloom Seeds",
+      "Southern Exposure Seed Exchange",
+      "USDA National Plant Germplasm System"
+    ]
+  },
+  {
+    "slug": "great-northern-bean",
+    "common_name": "Great Northern Bean",
+    "scientific_name": "Phaseolus vulgaris 'Great Northern'",
+    "category": "vegetable",
+    "subcategory": "legume",
+    "days_to_germination": {"min": 5, "max": 10},
+    "germination_soil_temp_f": {"min": 60, "max": 85},
+    "days_to_maturity": {"min": 70, "max": 85},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 1, "max": 2},
+      "note": "Direct sow 1–2 inches deep after last frost when soil is warm; Great Northern is a bush-type dry bean that requires a warm growing season to dry properly. In zone 9 plant in spring for early summer harvest; the plants will decline in midsummer heat, so spring planting is preferable to early summer."
+    },
+    "usda_zones": {"min": 4, "max": 10},
+    "spacing_in": {"min": 4, "max": 6},
+    "height_in": {"min": 18, "max": 24},
+    "spread_in": {"min": 12, "max": 18},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Sow seeds 1–2 inches deep in fertile, well-drained soil in full sun after last frost; Great Northern is the most widely grown white dry bean in the United States, a medium-large, oval, white-seeded bush-type bean with mild, creamy flavor and a tender skin that cooks quickly — the standard white bean for baked beans, soups, and casseroles in American cooking. Developed in the northern Great Plains, it matures in 70–85 days and stores indefinitely as a dry bean. More delicate in flavor than navy beans and larger in size, making it the preferred choice for premium baked bean recipes and New England-style preparations where the bean is the star. Harvest by pulling entire plants when most pods are dry and golden; dry in a warm, airy location and thresh to remove seeds. Great Northern beans are nutritionally excellent, high in protein and fiber.",
+    "sources": [
+      "Seed Savers Exchange",
+      "North Dakota State University Extension",
+      "University of Nebraska Cooperative Extension",
+      "USDA Agricultural Research Service"
+    ]
+  },
+  {
+    "slug": "turkey-craw-bean",
+    "common_name": "Turkey Craw Bean (Cutshort Turkey Craw)",
+    "scientific_name": "Phaseolus vulgaris 'Turkey Craw'",
+    "category": "vegetable",
+    "subcategory": "legume",
+    "days_to_germination": {"min": 5, "max": 10},
+    "germination_soil_temp_f": {"min": 60, "max": 85},
+    "days_to_maturity": {"min": 60, "max": 75},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 1, "max": 2},
+      "note": "Direct sow 1–2 inches deep after last frost in well-drained soil; Turkey Craw is a half-runner or semi-vining type requiring 2–3 feet of support. It is heat-tolerant once established and produces prolifically through Gulf Coast summer conditions that discourage northern bean varieties."
+    },
+    "usda_zones": {"min": 4, "max": 10},
+    "spacing_in": {"min": 4, "max": 6},
+    "height_in": {"min": 24, "max": 36},
+    "spread_in": {"min": 12, "max": 18},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Sow seeds 1–2 inches deep in fertile, well-drained soil in full sun, providing low supports of 2–3 feet for the semi-vining plants; Turkey Craw is an Appalachian heirloom snap bean dating back at least to the 19th century, named for seeds reportedly found in the crop (craw) of a wild turkey shot by a hunter — the story illustrating how food plants spread naturally through the American South via birds and early farmers. It is a cutshort type, meaning the seeds are crowded together in the pod and shortened in length to accommodate more seeds — the characteristic shape that identifies many traditional Southern snap beans. The pods are tender and flavorful when harvested young as snap beans, or the plants can be allowed to mature for dry bean use. Excellent heat tolerance and prolific production make it a dependable Southern garden bean; the seeds' tan and brown mottling is distinctive and appealing.",
+    "sources": [
+      "Southern Exposure Seed Exchange",
+      "Seed Savers Exchange",
+      "Appalachian heirloom seed documentation",
+      "USDA National Plant Germplasm System"
+    ]
   }
 ]

@@ -970,5 +970,36 @@
     "water": "moderate",
     "directions": "Plant in well-drained, moderately fertile soil in full sun; curry leaf shrubs grow slowly at first but accelerate once established in a warm zone 9–11 site. Fresh leaves are essential to South Indian cooking and release their aroma only when heated in oil — dried leaves are a poor substitute, so growing your own is worthwhile. Harvest by snipping young branch tips regularly, which encourages dense new growth; remove flower clusters as they appear if you prefer to maximize leaf production. Mulch heavily through zone 9 winters and wrap the trunk if temperatures below 28°F are expected for more than a night or two.",
     "sources": ["general horticultural reference", "University of Florida IFAS Extension"]
+  },
+  {
+    "slug": "italian-oregano",
+    "common_name": "Italian Oregano (Hardy Italian Oregano)",
+    "scientific_name": "Origanum x majoricum",
+    "category": "herb",
+    "subcategory": "culinary herb",
+    "days_to_germination": {"min": 7, "max": 14},
+    "germination_soil_temp_f": {"min": 65, "max": 75},
+    "days_to_maturity": {"min": 60, "max": 90},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": -2, "max": 2},
+      "note": "Plant rooted cuttings or divisions in spring in well-drained, lean, slightly alkaline soil in full sun; Italian oregano is a natural hybrid and does not come true from seed — propagate from cuttings or purchase plants. It is cold hardier than sweet marjoram and more flavorful than common oregano, making it the most versatile culinary oregano for most American gardens."
+    },
+    "usda_zones": {"min": 5, "max": 10},
+    "spacing_in": {"min": 12, "max": 18},
+    "height_in": {"min": 12, "max": 24},
+    "spread_in": {"min": 18, "max": 24},
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant in well-drained, lean, slightly alkaline to neutral soil in full sun; Italian oregano (Origanum x majoricum) is a naturally occurring hybrid between sweet marjoram (O. majorana) and Greek oregano (O. vulgare subsp. hirtum) that combines the complex, warm sweetness of marjoram with the earthy intensity of oregano to produce the characteristically mild, aromatic flavor used in Italian cuisine — the flavor profile preferred for pizza, pasta sauces, and Italian-American cooking. It is more cold-hardy than sweet marjoram, more flavorful and complex than ordinary wild oregano, and easier to grow with consistent harvest quality. The small, oval, gray-green leaves are harvested before flowering for maximum essential oil content; dried Italian oregano is far more intensely flavored than the thin, often stale commercial product and vastly superior for cooking. Excellent for container growing and performs well in zone 9 heat if given good drainage and lean soil.",
+    "sources": [
+      "Cornell Cooperative Extension",
+      "University of California Cooperative Extension",
+      "Tucker, A. and DeBaggio, T. The Encyclopedia of Herbs"
+    ]
   }
 ]

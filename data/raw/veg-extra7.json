@@ -246,5 +246,69 @@
       "Cornell Cooperative Extension Vegetable Growing Guide",
       "Purdue University Extension"
     ]
+  },
+  {
+    "slug": "silver-queen-corn",
+    "common_name": "Silver Queen Sweet Corn",
+    "scientific_name": "Zea mays 'Silver Queen'",
+    "category": "vegetable",
+    "subcategory": "corn",
+    "days_to_germination": {"min": 4, "max": 10},
+    "germination_soil_temp_f": {"min": 60, "max": 95},
+    "days_to_maturity": {"min": 92, "max": 96},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 1, "max": 2},
+      "note": "Direct sow 1–2 weeks after last frost in blocks of at least 4 rows for wind pollination; Silver Queen is a long-season (92–96 days) variety best suited to full-season production — in zone 9 plant in March for June harvest, or again in late June–July for fall harvest."
+    },
+    "usda_zones": {"min": 4, "max": 10},
+    "spacing_in": {"min": 9, "max": 12},
+    "height_in": {"min": 72, "max": 96},
+    "spread_in": {"min": 12, "max": 18},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Direct sow 1–1.5 inches deep after last frost in blocks of at least 4 rows; Silver Queen is the iconic white sweet corn of the American South and mid-Atlantic, an open-pollinated (SE-type) variety introduced in 1955 and still one of the most widely grown heirloom sweet corns — producing tall, sturdy stalks bearing long ears of bright-white, tender, very sweet kernels with the classic cornrow-town flavor that generations of Southern farmers and gardeners have grown for roadside stands, family gardens, and corn boils. The white kernels have a creamy sweetness and tender texture preferred by many over yellow sweet corn types for fresh eating, though Sugar Enhancer and Supersweet varieties have largely replaced it in commercial production. Silver Queen requires a longer season than most modern hybrids but rewards patient growers with exceptionally flavored corn for fresh eating, freezing, and Southern corn dishes like creamed corn and succotash.",
+    "sources": [
+      "Seed Savers Exchange",
+      "Southern Exposure Seed Exchange",
+      "Baker Creek Heirloom Seeds",
+      "Virginia Cooperative Extension"
+    ]
+  },
+  {
+    "slug": "country-gentleman-corn",
+    "common_name": "Country Gentleman Sweet Corn (Shoepeg Corn)",
+    "scientific_name": "Zea mays 'Country Gentleman'",
+    "category": "vegetable",
+    "subcategory": "corn",
+    "days_to_germination": {"min": 4, "max": 10},
+    "germination_soil_temp_f": {"min": 60, "max": 95},
+    "days_to_maturity": {"min": 90, "max": 100},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 1, "max": 2},
+      "note": "Direct sow 1–2 weeks after last frost in blocks of at least 4 rows for good wind pollination; Country Gentleman is a long-season (90–100 days) variety best planted early in the season. Isolate from other corn types to prevent cross-pollination that reduces sweetness."
+    },
+    "usda_zones": {"min": 4, "max": 10},
+    "spacing_in": {"min": 9, "max": 12},
+    "height_in": {"min": 72, "max": 96},
+    "spread_in": {"min": 12, "max": 18},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Direct sow 1–1.5 inches deep in blocks of at least 4 rows after last frost; Country Gentleman is the classic white shoepeg corn — an heirloom variety from the 1890s producing ears of tightly packed, irregularly arranged (not in rows), peg-like white kernels that look pressed randomly onto the cob rather than aligned in neat rows. The shoepeg arrangement packs more kernels into each ear; the white seeds have a notably tender, sweet, rich flavor with a milky texture prized by heirloom corn enthusiasts for its exceptional fresh-eating quality. Country Gentleman has a cult following among seed savers for a reason: the corn is best eaten within hours of harvest, when sugars are at maximum before converting to starch. The flavor when freshly picked surpasses most modern commercial hybrids. Also excellent creamed, in chowder, and for off-the-cob preparations where the tender texture shines.",
+    "sources": [
+      "Seed Savers Exchange",
+      "Baker Creek Heirloom Seeds",
+      "Southern Exposure Seed Exchange",
+      "Virginia Cooperative Extension"
+    ]
   }
 ]

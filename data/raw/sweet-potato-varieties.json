@@ -91,5 +91,133 @@
       "Louisiana State University AgCenter",
       "National Sweetpotato Collaborators Group"
     ]
+  },
+  {
+    "slug": "beauregard-sweet-potato",
+    "common_name": "Beauregard Sweet Potato",
+    "scientific_name": "Ipomoea batatas 'Beauregard'",
+    "category": "vegetable",
+    "subcategory": "sweet potato",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 90, "max": 100},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 2, "max": 4},
+      "note": "Plant certified disease-free slips 2–4 weeks after last frost when soil is thoroughly warm above 65°F; Beauregard was developed at Louisiana State University AgCenter and is the standard commercial sweet potato of the Gulf South — plant in raised ridges of loose, sandy-loam soil enriched with compost for best tuber development and easy harvest."
+    },
+    "usda_zones": {"min": 6, "max": 11},
+    "spacing_in": {"min": 12, "max": 18},
+    "height_in": {"min": 12, "max": 18},
+    "spread_in": {"min": 60, "max": 96},
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant certified slips 4–6 inches deep in well-drained, sandy-loam soil built up into ridges in full sun; Beauregard is the most widely grown sweet potato in the United States, developed by the LSU AgCenter in 1987 and released commercially in 1992, producing large, uniform, reddish-purple-skinned tubers with deep orange, moist, sweet flesh of outstanding quality — the standard against which commercial and home-grown sweet potatoes are judged for appearance, yield, and eating quality. It produces consistently large, well-formed tubers even in imperfect soil conditions, has excellent resistance to the diseases that devastate older varieties, and stores exceptionally well. Harvest when vines begin to yellow, typically 90–100 days after planting slips, by carefully digging with a fork to avoid cutting tubers; cure at 85–90°F and 90% humidity for 10–14 days to convert starches to sugars and heal any cuts before long-term storage.",
+    "sources": [
+      "Louisiana State University AgCenter",
+      "National Sweetpotato Collaborators Group",
+      "USDA Agricultural Research Service",
+      "North Carolina Cooperative Extension"
+    ]
+  },
+  {
+    "slug": "murasaki-sweet-potato",
+    "common_name": "Murasaki Sweet Potato (Japanese Purple Sweet Potato)",
+    "scientific_name": "Ipomoea batatas 'Murasaki'",
+    "category": "vegetable",
+    "subcategory": "sweet potato",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 95, "max": 110},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 2, "max": 4},
+      "note": "Plant slips 2–4 weeks after last frost when soil reaches 65°F; Murasaki requires a full 95–110 days, so plant as early as possible in the South. It performs well in the Gulf Coast heat and produces excellent tubers with a slightly longer season than standard varieties."
+    },
+    "usda_zones": {"min": 7, "max": 11},
+    "spacing_in": {"min": 12, "max": 18},
+    "height_in": {"min": 12, "max": 18},
+    "spread_in": {"min": 60, "max": 96},
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant rooted slips 4–6 inches deep in well-drained, loose, sandy-loam soil in full sun; murasaki (purple in Japanese) sweet potato is a Japanese-origin variety producing long, slender tubers with striking dark purple skin and off-white to cream-colored flesh — a distinct and useful contrast to the Okinawan purple-flesh type, with a dry, chestnut-like sweetness and firm texture that holds up beautifully in roasting, frying, and sautéing where orange-flesh sweet potatoes would become too soft. The flavor is rich, mildly sweet, and nutty with a savory quality that makes it more versatile in non-sweet preparations than moist orange types. Widely grown in Japan and increasingly popular in the United States as interest in Asian sweet potato varieties grows; excellent for Japanese-style roasted sweet potatoes, tempura, and savory preparations that benefit from a firmer texture.",
+    "sources": [
+      "University of Hawaii Cooperative Extension",
+      "Louisiana State University AgCenter",
+      "National Sweetpotato Collaborators Group",
+      "Japanese Sweet Potato Research Association"
+    ]
+  },
+  {
+    "slug": "georgia-jet-sweet-potato",
+    "common_name": "Georgia Jet Sweet Potato",
+    "scientific_name": "Ipomoea batatas 'Georgia Jet'",
+    "category": "vegetable",
+    "subcategory": "sweet potato",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 90, "max": 100},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 2, "max": 4},
+      "note": "Plant slips after last frost when soil is warm above 65°F; Georgia Jet is one of the most early-maturing and productive sweet potato varieties for northern and transition-zone growers, reaching harvest in 90 days — useful in zone 9 as a reliable second crop that fits in a shortened growing window. Excellent for home slips from purchased roots."
+    },
+    "usda_zones": {"min": 5, "max": 11},
+    "spacing_in": {"min": 12, "max": 18},
+    "height_in": {"min": 12, "max": 18},
+    "spread_in": {"min": 60, "max": 96},
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant rooted slips 4–6 inches deep in well-drained, loose, sandy-loam soil in full sun; Georgia Jet is a productive open-pollinated sweet potato variety that reaches harvest in 90 days — one of the earliest-maturing sweet potatoes available, making it a reliable choice for shorter growing seasons and for gardeners in zones 5–7 who need a variety that matures before fall frost. In zone 9 it is equally useful as an early-maturing variety that can be planted as a second crop after spring vegetables finish. The deep reddish-purple skin and vivid orange flesh are very attractive; the flavor is sweet, moist, and rich — considered excellent for baking, steaming, and as a dessert sweet potato. An outstanding heirloom variety that produces well without synthetic fertilizers and stores reliably.",
+    "sources": [
+      "Southern Exposure Seed Exchange",
+      "Seed Savers Exchange",
+      "National Sweetpotato Collaborators Group",
+      "University of Georgia Cooperative Extension"
+    ]
+  },
+  {
+    "slug": "covington-sweet-potato",
+    "common_name": "Covington Sweet Potato",
+    "scientific_name": "Ipomoea batatas 'Covington'",
+    "category": "vegetable",
+    "subcategory": "sweet potato",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 100, "max": 115},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 2, "max": 4},
+      "note": "Plant certified disease-free slips 2–4 weeks after last frost when soil reaches 65°F; Covington was developed at North Carolina State University to succeed Beauregard as the leading commercial variety of the Southeast, with better disease resistance and comparable eating quality. It is the most widely grown sweet potato variety in the Mid-Atlantic and Southeast as of 2010."
+    },
+    "usda_zones": {"min": 6, "max": 11},
+    "spacing_in": {"min": 12, "max": 18},
+    "height_in": {"min": 12, "max": 18},
+    "spread_in": {"min": 60, "max": 96},
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant rooted slips 4–6 inches deep in well-drained, sandy-loam soil built up into ridges in full sun; Covington was released in 2005 by North Carolina State University to replace Beauregard as the standard commercial sweet potato of the mid-Atlantic and Southeast, producing large, uniform, rose-copper-skinned tubers with deep orange, moist, sweet flesh and improved resistance to soil diseases compared to Beauregard — particularly Rhizopus soft rot, which causes significant postharvest losses in warm, humid storage. The eating quality is comparable to or slightly superior to Beauregard, with consistently moist, flavorful flesh and good marketability. It became the dominant sweet potato variety in North Carolina (the leading sweet potato state) within 5 years of release. Outstanding for the Gulf Coast and Southeast where disease-resistant varieties improve dependability through humid summers.",
+    "sources": [
+      "North Carolina State University Extension — Sweetpotato",
+      "National Sweetpotato Collaborators Group",
+      "USDA Agricultural Research Service",
+      "North Carolina Department of Agriculture and Consumer Services"
+    ]
   }
 ]

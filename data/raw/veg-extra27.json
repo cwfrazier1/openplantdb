@@ -1,0 +1,162 @@
+[
+  {
+    "slug": "golden-bantam-corn",
+    "common_name": "Golden Bantam Sweet Corn",
+    "scientific_name": "Zea mays saccharata 'Golden Bantam'",
+    "category": "vegetable",
+    "subcategory": "corn",
+    "days_to_germination": {"min": 5, "max": 10},
+    "germination_soil_temp_f": {"min": 60, "max": 95},
+    "days_to_maturity": {"min": 78, "max": 85},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 1, "max": 3},
+      "note": "Direct sow 1 week after last frost when soil has warmed to at least 60°F; in zone 9 plant March–April for spring crop and August for fall. Plant in blocks of at least 3–4 rows for adequate wind pollination of ears."
+    },
+    "usda_zones": {"min": 3, "max": 10},
+    "spacing_in": {"min": 8, "max": 12},
+    "height_in": {"min": 60, "max": 72},
+    "spread_in": {"min": 12, "max": 18},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Sow 1 inch deep in fertile, well-drained soil in full sun; plant in blocks rather than single rows to ensure adequate pollen distribution to every silk. Golden Bantam is perhaps the most historically important sweet corn variety in American garden history. Introduced in 1902 by W. Atlee Burpee Company from a selection by E.L. Coy of New York, it was the first widely successful yellow sweet corn at a time when white corn was considered superior — Golden Bantam changed American tastes permanently and proved that yellow sweet corn could surpass white in flavor. The short (6–7 foot), early-season plants produce 6–7 inch ears with 8 rows of deep golden-yellow kernels with a distinctive rich, full sweet corn flavor different from modern supersweeet hybrids — a milk-and-sugar intensity that is the archetype of 'real corn flavor.' Still one of the best open-pollinated sweet corns and superior to any hybrid for seed saving. Harvest at milk stage (silk brown, kernel milky when pierced) and cook or freeze immediately — sugar converts to starch within hours of picking.",
+    "sources": [
+      "W. Atlee Burpee Company historical catalogue 1902",
+      "Seed Savers Exchange — Golden Bantam sweet corn documentation",
+      "William Woys Weaver: Heirloom Vegetable Gardening, Henry Holt 1997",
+      "Baker Creek Heirloom Seeds"
+    ]
+  },
+  {
+    "slug": "stowells-evergreen-corn",
+    "common_name": "Stowell's Evergreen Sweet Corn",
+    "scientific_name": "Zea mays saccharata 'Stowell's Evergreen'",
+    "category": "vegetable",
+    "subcategory": "corn",
+    "days_to_germination": {"min": 5, "max": 10},
+    "germination_soil_temp_f": {"min": 60, "max": 95},
+    "days_to_maturity": {"min": 90, "max": 100},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 1, "max": 3},
+      "note": "Direct sow 1–2 weeks after last frost when soil is warm; in zone 9 plant March–April for a late spring/summer crop. Stowell's Evergreen has a long harvest window (the 'Evergreen' name refers to the fact that the milky stage stays edible for an extended period, unlike earlier varieties that must be harvested within hours)."
+    },
+    "usda_zones": {"min": 3, "max": 10},
+    "spacing_in": {"min": 8, "max": 12},
+    "height_in": {"min": 72, "max": 96},
+    "spread_in": {"min": 12, "max": 18},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Sow 1–2 inches deep in blocks of at least 3–4 rows in fertile, well-drained soil in full sun; Stowell's Evergreen was introduced in 1848 by Nathan Newman Stowell, originally a hybrid between a white field corn and an early sweet type. It was the dominant home garden sweet corn throughout the latter half of the 19th century and remained popular well into the 20th. The tall (7–8 feet) plants produce 8–9 inch ears with white kernels in 16–20 rows, each kernel deep and richly flavored with classic sweet corn taste. The name refers to an actual characteristic: unlike many older sweet corns where the milky eating stage lasts only a few days, Stowell's Evergreen holds at milk stage for 1–2 weeks — a valuable trait before refrigeration and the dominant reason for its century-long popularity. The tall stalks require some wind protection in exposed sites. An important heirloom for corn breeding and a satisfying producer for gardeners who prioritize old-fashioned flavor and the ability to harvest over an extended window.",
+    "sources": [
+      "Seed Savers Exchange — Stowell's Evergreen historical documentation",
+      "William Woys Weaver: Heirloom Vegetable Gardening, Henry Holt 1997",
+      "Baker Creek Heirloom Seeds variety notes",
+      "Southern Exposure Seed Exchange"
+    ]
+  },
+  {
+    "slug": "henderson-lima-bean",
+    "common_name": "Henderson Bush Lima Bean (Baby Lima)",
+    "scientific_name": "Phaseolus lunatus 'Henderson'",
+    "category": "vegetable",
+    "subcategory": "bean",
+    "days_to_germination": {"min": 7, "max": 14},
+    "germination_soil_temp_f": {"min": 65, "max": 85},
+    "days_to_maturity": {"min": 65, "max": 75},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 1, "max": 2},
+      "note": "Direct sow 1 inch deep after last frost when soil is at least 65°F; in zone 9 plant March–April and again in late July–August for a fall crop. Henderson is a compact bush type that does not require staking. Do not plant in cold soil — lima beans are particularly susceptible to rotting in cool, wet conditions."
+    },
+    "usda_zones": {"min": 3, "max": 10},
+    "spacing_in": {"min": 4, "max": 6},
+    "height_in": {"min": 18, "max": 24},
+    "spread_in": {"min": 12, "max": 18},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Sow seeds 1 inch deep and 4 inches apart in fertile, well-drained soil in full sun; Henderson is a compact, early-maturing bush lima introduced in the 1880s by Peter Henderson & Company, the pioneering American seed house, and has remained one of the most widely grown open-pollinated bush lima varieties ever since. The small, flat, white 'baby lima' seeds cook quickly, have a tender texture, and a mild, buttery, starchy flavor less pronounced than large-seeded Fordhook types — making Henderson limas the standard for canned and frozen baby lima beans. They are prolific producers, setting 3–4 beans per pod over multiple flushes if harvested regularly. Henderson limas tolerate heat better than some shell beans and perform well in the Gulf South for spring and fall production. Harvest pods when seeds have fully developed but before pods dry. Fresh Henderson limas cooked with butter, salt, and a little water (or succotash with corn) are a classic Southern summer vegetable dish. Dried Henderson limas are also excellent for soups and cassoulet.",
+    "sources": [
+      "Peter Henderson & Company historical seed catalogues 1880s",
+      "Seed Savers Exchange — Henderson Bush Lima documentation",
+      "Southern Exposure Seed Exchange",
+      "University of Florida IFAS Extension — Lima Bean Production"
+    ]
+  },
+  {
+    "slug": "speckled-butter-bean",
+    "common_name": "Speckled Butter Bean (Sieva Bean, Carolina Butter Bean)",
+    "scientific_name": "Phaseolus lunatus 'Speckled'",
+    "category": "vegetable",
+    "subcategory": "bean",
+    "days_to_germination": {"min": 7, "max": 14},
+    "germination_soil_temp_f": {"min": 70, "max": 85},
+    "days_to_maturity": {"min": 80, "max": 100},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 1, "max": 3},
+      "note": "Direct sow 1 inch deep after last frost when soil exceeds 70°F; in zone 9 plant April for spring and late July for fall. Speckled Butter Bean is a pole type requiring a trellis, fence, or teepee of stakes at least 5–6 feet tall; it is a vigorous climber that performs well in the Gulf South's long warm season."
+    },
+    "usda_zones": {"min": 7, "max": 11},
+    "spacing_in": {"min": 6, "max": 8},
+    "height_in": {"min": 72, "max": 120},
+    "spread_in": {"min": 12, "max": 18},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Sow 1 inch deep at the base of a fence, trellis, or pole teepee in full sun and fertile, well-drained soil; Speckled Butter Bean (also called Sieva or Carolina Sieva) is a small-seeded, pole-type lima bean of a different genetic character from the large-seeded butter bean types — it traces ancestry to indigenous lima varieties of the American South and Caribbean and has been cultivated in the Gulf South for centuries. The flat, cream-colored seeds are distinctively speckled with purple-maroon markings that fade during cooking. Flavor is extremely buttery, nutty, and rich — many Southern gardeners consider the Speckled Butter Bean to have a more complex, 'butter' flavor than large Fordhook-type limas. The vining plants are highly heat-tolerant and thrive through Gulf Coast summers that stop most shell beans cold, continuing to set pods at temperatures that wilt other legumes. Harvest fresh for the traditional Southern preparation: shell and cook with a piece of fatback or smoked sausage and season with salt and pepper. Dried seeds also cook into excellent soups and stews. A true Southern heirloom with deep historical roots in Gulf Coast foodways.",
+    "sources": [
+      "Seed Savers Exchange — Speckled Butter Bean documentation",
+      "Southern Exposure Seed Exchange — Heritage Southern beans",
+      "William Woys Weaver: Heirloom Vegetable Gardening",
+      "Mississippi State University Extension — Butter Bean Production"
+    ]
+  },
+  {
+    "slug": "contender-bean",
+    "common_name": "Contender Bush Green Bean",
+    "scientific_name": "Phaseolus vulgaris 'Contender'",
+    "category": "vegetable",
+    "subcategory": "bean",
+    "days_to_germination": {"min": 5, "max": 10},
+    "germination_soil_temp_f": {"min": 60, "max": 85},
+    "days_to_maturity": {"min": 48, "max": 55},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 0, "max": 2},
+      "note": "Direct sow after last frost when soil is above 60°F; in zone 9 plant February–March for spring and late August–September for fall. Contender is slightly more heat-tolerant than other bush snap beans — a meaningful advantage in zone 9 where spring heat arrives early. Succession sow every 2 weeks for continuous harvest."
+    },
+    "usda_zones": {"min": 3, "max": 10},
+    "spacing_in": {"min": 2, "max": 4},
+    "height_in": {"min": 18, "max": 24},
+    "spread_in": {"min": 12, "max": 18},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Sow 1–1.5 inches deep in fertile, well-drained soil in full sun; Contender is a classic open-pollinated bush snap bean introduced by Asgrow Seed Company in 1949 and one of the most reliable and widely grown snap beans in the southeastern US. It is valued particularly for its heat tolerance — Contender sets pods at higher temperatures than most bush beans and continues producing when Blue Lake and other popular varieties quit in early summer heat. The straight, round, 6–7 inch pods are tender, stringless, and have excellent classic green bean flavor with no fibrous texture. Contender produces a heavy concentrated crop that is ideal for large-scale fresh picking, canning, and freezing. It was the standard commercial and home canning bean for decades in the South and still recommended by extension services across the region. In zone 9, Contender's heat tolerance makes it the go-to bush snap bean for the spring garden; successive plantings starting in late February through April can yield beans from April through early June before summer heat becomes too intense for fruit set.",
+    "sources": [
+      "Asgrow Seed Company — Contender bean historical release 1949",
+      "Southern Exposure Seed Exchange",
+      "Texas A&M AgriLife Extension — Snap Bean Varieties for Texas",
+      "LSU AgCenter — Snap Bean Production in Louisiana"
+    ]
+  }
+]

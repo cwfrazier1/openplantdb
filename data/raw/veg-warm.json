@@ -874,5 +874,259 @@
     "water": "moderate",
     "directions": "Nick the seed coat or soak seeds 24 hours before sowing to improve germination; sow 1/2 in deep in warm starting mix at 80–85°F. Provide a trellis at least 6 feet tall — the vines climb by tendrils and produce more fruit when grown vertically. Hand-pollinate by transferring pollen from male to female flowers (female has a tiny immature fruit at the base) using a soft brush to improve fruit set in low-insect conditions. Harvest when fruits are still firm, bright green, and about 4–6 in long; fully ripe fruits turn orange-yellow and split open, revealing red-coated seeds that birds relish but the bitter flesh is no longer palatable.",
     "sources": ["general horticultural reference", "University of Florida IFAS Extension"]
+  },
+  {
+    "slug": "sweet-dumpling-squash",
+    "common_name": "Sweet Dumpling Squash",
+    "scientific_name": "Cucurbita pepo 'Sweet Dumpling'",
+    "category": "vegetable",
+    "subcategory": "cucurbit",
+    "days_to_germination": {"min": 4, "max": 10},
+    "germination_soil_temp_f": {"min": 60, "max": 95},
+    "days_to_maturity": {"min": 90, "max": 100},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 1, "max": 2},
+      "note": "Direct sow 1–2 weeks after last frost once soil is thoroughly warm above 65°F; Sweet Dumpling is a moderately vining variety that fits well in smaller gardens compared to full-size winter squash types — it can be grown on a sturdy trellis with the developing fruits supported in mesh slings."
+    },
+    "usda_zones": {"min": 3, "max": 10},
+    "spacing_in": {"min": 24, "max": 36},
+    "height_in": {"min": 12, "max": 18},
+    "spread_in": {"min": 48, "max": 72},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Sow seeds 1 inch deep in compost-enriched hills 2–3 weeks after last frost, thinning to 2 plants per hill; Sweet Dumpling is one of the most popular small winter squash varieties, producing cream-colored, deeply ribbed, round to slightly flattened fruits weighing 1–2 pounds with distinctive dark green stripes and flecks that turn orange at full maturity. The single-serving-size fruits are among the sweetest of all winter squash — the pale yellow-orange flesh is dry, fine-textured, and sweet enough to eat simply baked with butter and a touch of salt, making it an outstanding small family vegetable garden variety for households that do not need the large quantity of a full butternut or Hubbard. Harvest when the rind is fully hard and the green striping has faded to cream or begun turning orange; cure for 1–2 weeks at room temperature before storing.",
+    "sources": [
+      "Johnny's Selected Seeds",
+      "Seed Savers Exchange",
+      "Cornell Cooperative Extension"
+    ]
+  },
+  {
+    "slug": "seminole-pumpkin",
+    "common_name": "Seminole Pumpkin",
+    "scientific_name": "Cucurbita moschata 'Seminole'",
+    "category": "vegetable",
+    "subcategory": "cucurbit",
+    "days_to_germination": {"min": 5, "max": 10},
+    "germination_soil_temp_f": {"min": 65, "max": 95},
+    "days_to_maturity": {"min": 95, "max": 110},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 1, "max": 3},
+      "note": "Direct sow after last frost in well-drained soil; in zone 9–10 an excellent late summer/fall planting (August–September) allows the long vines to run through fall when powdery mildew pressure is lower. The Seminole pumpkin is the most heat-tolerant, disease-resistant winter squash for Gulf Coast and Florida gardens and should be a standard in zone 8–10 gardens where other pumpkins and squash struggle in summer humidity."
+    },
+    "usda_zones": {"min": 8, "max": 12},
+    "spacing_in": {"min": 36, "max": 60},
+    "height_in": {"min": 18, "max": 24},
+    "spread_in": {"min": 72, "max": 144},
+    "sun": "full",
+    "water": "low",
+    "directions": "Sow seeds 1 inch deep after last frost in any well-drained soil in full sun; Seminole pumpkin is a historic Native American heirloom cultivated by the Seminole people of Florida for generations and is exceptionally well-adapted to the hot, humid Gulf Coast climate where most pumpkins and butternut squash struggle with vine borers, powdery mildew, and heat collapse. It produces tan-buff, round to pear-shaped fruits weighing 5–10 pounds on very vigorous vines that can reach 15–20 feet — the vines are traditionally trained up trees or fences in Florida to keep the fruits off the moist ground. The buff-orange flesh has excellent butternut-like flavor, keeping quality of months, and outstanding resistance to diseases and insects that devastate other squash. Once established, vines are genuinely drought-tolerant. One of the most important heirloom vegetables for sustainable subtropical gardening.",
+    "sources": [
+      "University of Florida IFAS Extension",
+      "Native Seeds/SEARCH",
+      "Southern Exposure Seed Exchange",
+      "Florida Department of Agriculture and Consumer Services"
+    ]
+  },
+  {
+    "slug": "cajun-jewel-okra",
+    "common_name": "Cajun Jewel Okra",
+    "scientific_name": "Abelmoschus esculentus 'Cajun Jewel'",
+    "category": "vegetable",
+    "subcategory": "fruiting",
+    "days_to_germination": {"min": 5, "max": 10},
+    "germination_soil_temp_f": {"min": 65, "max": 95},
+    "days_to_maturity": {"min": 55, "max": 65},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 1, "max": 2},
+      "note": "Direct sow or transplant after last frost when soil is warm above 65°F; soak seeds 12–24 hours before planting to improve germination. Cajun Jewel was developed at the Louisiana State University AgCenter specifically for the humid, disease-pressure conditions of the Gulf Coast."
+    },
+    "usda_zones": {"min": 5, "max": 11},
+    "spacing_in": {"min": 12, "max": 18},
+    "height_in": {"min": 48, "max": 60},
+    "spread_in": {"min": 18, "max": 24},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Sow seeds 1 inch deep after last frost when soil is thoroughly warm; Cajun Jewel was developed by LSU AgCenter plant breeders as a compact, dwarf-type okra specifically adapted to Gulf Coast conditions, producing spineless, dark-green, tender pods on 4–5 foot plants that are more manageable in home garden beds than the 6–8 foot giants of traditional varieties. The pods are ready to harvest at 2–4 inches long and have excellent flavor and tenderness; harvest every 2–3 days to keep plants producing — pods left too long become fibrous and woody in days in Gulf Coast heat. The compact size makes it easier to pick, the spineless pods reduce irritation from the fine hairs on standard varieties, and the improved disease package helps the plants maintain production through the summer. Outstanding for zone 7–10 gulf coast gardens.",
+    "sources": [
+      "Louisiana State University AgCenter",
+      "Southern Exposure Seed Exchange",
+      "University of Florida IFAS Extension"
+    ]
+  },
+  {
+    "slug": "jubilee-watermelon",
+    "common_name": "Jubilee Watermelon",
+    "scientific_name": "Citrullus lanatus 'Jubilee'",
+    "category": "vegetable",
+    "subcategory": "cucurbit",
+    "days_to_germination": {"min": 5, "max": 10},
+    "germination_soil_temp_f": {"min": 65, "max": 95},
+    "days_to_maturity": {"min": 90, "max": 100},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 1, "max": 2},
+      "note": "Direct sow or transplant in well-amended sandy-loam soil 1–2 weeks after last frost; Jubilee is a large, long-season Florida-bred watermelon well-adapted to the Gulf Coast, requiring ample space (8–12 feet between plants) and 3 months of warm weather for best production."
+    },
+    "usda_zones": {"min": 5, "max": 10},
+    "spacing_in": {"min": 72, "max": 96},
+    "height_in": {"min": 18, "max": 24},
+    "spread_in": {"min": 96, "max": 144},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Sow seeds 1 inch deep in hills of 3–4 seeds, thinning to 2 plants per hill; Jubilee is a Florida-developed heirloom watermelon introduced in 1963 by the Florida Agricultural Experiment Station, producing oblong, striped fruits weighing 25–40 pounds with bright red, crisp, sweet flesh and gray-green skin with dark stripes — one of the classic large Southern watermelons grown at commercial scale for roadside markets. The long, oblong shape distinguishes it from round varieties; the sweet, firm, seedless-type flesh holds up well for transport and has excellent flavor. Resistant to fusarium wilt, which historically decimated Southern watermelon crops. A traditional choice for gardeners in the Gulf South who want a truly large, impressive watermelon with Southern heritage adapted to regional heat and humidity.",
+    "sources": [
+      "University of Florida IFAS Extension",
+      "Southern Exposure Seed Exchange",
+      "Seed Savers Exchange",
+      "Florida Agricultural Experiment Station Bulletin"
+    ]
+  },
+  {
+    "slug": "edisto-47-cantaloupe",
+    "common_name": "Edisto 47 Cantaloupe",
+    "scientific_name": "Cucumis melo 'Edisto 47'",
+    "category": "vegetable",
+    "subcategory": "cucurbit",
+    "days_to_germination": {"min": 5, "max": 10},
+    "germination_soil_temp_f": {"min": 65, "max": 95},
+    "days_to_maturity": {"min": 88, "max": 95},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 1, "max": 2},
+      "note": "Direct sow in sandy, well-drained soil in hills after last frost; Edisto 47 was specifically developed at the Edisto Research and Education Center in Blackville, South Carolina, for the hot, humid Southeast and has outstanding resistance to powdery mildew and other diseases that devastate most cantaloupe varieties in the Deep South."
+    },
+    "usda_zones": {"min": 5, "max": 10},
+    "spacing_in": {"min": 36, "max": 48},
+    "height_in": {"min": 18, "max": 24},
+    "spread_in": {"min": 72, "max": 96},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Sow seeds 1 inch deep in hills in full sun, well-drained sandy soil, 1–2 weeks after last frost; Edisto 47 is a Clemson University (South Carolina) heirloom cantaloupe developed in 1953 specifically for the humid, disease-pressure conditions of the Deep South where most cantaloupe varieties fail to powdery mildew, downy mildew, and Alternaria blight. It produces medium-sized (3–5 lb), oval, heavily netted fruits with thick, salmon-orange flesh of very good, rich cantaloupe flavor. The 'Edisto' name honors the Edisto Research and Education Center in Blackville, SC, and '47' the year development began. For over 50 years it was the cantaloupe of choice for Deep South gardeners because no other variety could reliably produce through summer humidity — even as newer hybrids have been developed, Edisto 47 remains a benchmark for disease resistance and regional adaptation.",
+    "sources": [
+      "Clemson Cooperative Extension",
+      "Southern Exposure Seed Exchange",
+      "Seed Savers Exchange",
+      "University of Georgia Cooperative Extension"
+    ]
+  },
+  {
+    "slug": "aji-dulce-pepper",
+    "common_name": "Aji Dulce Pepper (Sweet Habanero, Cachucha Pepper)",
+    "scientific_name": "Capsicum chinense 'Aji Dulce'",
+    "category": "vegetable",
+    "subcategory": "fruiting",
+    "days_to_germination": {"min": 10, "max": 21},
+    "germination_soil_temp_f": {"min": 75, "max": 90},
+    "days_to_maturity": {"min": 65, "max": 80},
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": -10, "max": -8},
+      "note": "Start indoors 10–12 weeks before last frost; transplant after all frost danger passes. Aji dulce is heat-loving and thrives in the Gulf Coast and tropical gardens — in zone 9 it often returns as a perennial from the base after mild winters. The flavor is essential in Caribbean cooking, particularly in Puerto Rican sofrito and Cuban recao sauce."
+    },
+    "usda_zones": {"min": 9, "max": 12},
+    "spacing_in": {"min": 18, "max": 24},
+    "height_in": {"min": 24, "max": 36},
+    "spread_in": {"min": 18, "max": 24},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Start seeds indoors at 80–85°F 10–12 weeks before last frost; transplant to fertile, well-drained soil in full sun after frost danger; aji dulce is the sweet-fruited strain of the habanero pepper species (Capsicum chinense) — it looks exactly like a miniature habanero with thin, wrinkled skin in green ripening to yellow-orange or red, and has all the distinctive floral, fruity, intensely aromatic habanero fragrance without any heat whatsoever (Scoville 0–500, vs 100,000–350,000 for regular habanero). The aroma and flavor are extraordinary — simultaneously citrusy, floral, fruity, and deeply savory — making aji dulce irreplaceable in Puerto Rican, Dominican, Venezuelan, and Cuban cooking, where it is the backbone of sofrito, the aromatic base paste for countless dishes. In zone 9–12 gardens it often becomes a short-lived perennial shrub. An outstanding unique pepper for gardeners who love the habanero aroma but want zero capsaicin heat.",
+    "sources": [
+      "University of Florida IFAS Extension",
+      "Puerto Rico Agricultural Experiment Station",
+      "Baker Creek Heirloom Seeds",
+      "Specialty Produce Produce Encyclopedia"
+    ]
+  },
+  {
+    "slug": "tatume-squash",
+    "common_name": "Tatume Squash (Tatuma, Mexican Globe Squash)",
+    "scientific_name": "Cucurbita pepo 'Tatume'",
+    "category": "vegetable",
+    "subcategory": "cucurbit",
+    "days_to_germination": {"min": 4, "max": 10},
+    "germination_soil_temp_f": {"min": 65, "max": 95},
+    "days_to_maturity": {"min": 50, "max": 60},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 1, "max": 2},
+      "note": "Direct sow after last frost in well-drained soil in full sun; tatume is one of the most heat-tolerant summer squash for Gulf Coast and Texas gardens, producing well through summer heat where zucchini collapses. In zone 9 it can be grown as a first planting in spring and a second planting in late August for fall harvest."
+    },
+    "usda_zones": {"min": 7, "max": 12},
+    "spacing_in": {"min": 24, "max": 36},
+    "height_in": {"min": 12, "max": 18},
+    "spread_in": {"min": 36, "max": 72},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Sow seeds 1 inch deep in well-drained, fertile soil in full sun after last frost; tatume is a traditional Mexican summer squash producing round to slightly oval, smooth, dark green fruits 3–5 inches in diameter that are harvested young (before the rind hardens) for use as a summer squash, or left to mature fully into a yellow-tan winter squash. Young fruits have mild, tender flesh similar to zucchini but firmer and slightly sweeter; mature fruits have dry, pale orange flesh similar to a butternut squash. This dual-use quality, combined with exceptional heat tolerance that keeps plants productive through Texas and Gulf Coast summers when standard zucchini quits, makes tatume one of the most practically useful squash for hot-climate gardeners. Extremely popular in Mexican American communities in Texas, where it is used in caldos, guisados, and stuffed as chiles rellenos de calabaza. The vining plants produce abundantly over a long season.",
+    "sources": [
+      "Texas A&M AgriLife Extension",
+      "University of Texas at Austin Native Plant Collection",
+      "Baker Creek Heirloom Seeds",
+      "USDA National Plant Germplasm System"
+    ]
+  },
+  {
+    "slug": "long-island-cheese-pumpkin",
+    "common_name": "Long Island Cheese Pumpkin (Cheese Pumpkin)",
+    "scientific_name": "Cucurbita moschata 'Long Island Cheese'",
+    "category": "vegetable",
+    "subcategory": "cucurbit",
+    "days_to_germination": {"min": 5, "max": 10},
+    "germination_soil_temp_f": {"min": 65, "max": 95},
+    "days_to_maturity": {"min": 100, "max": 115},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 1, "max": 2},
+      "note": "Direct sow in rich, well-drained soil 1–2 weeks after last frost; Long Island Cheese is a Cucurbita moschata type (related to butternut squash) with exceptional disease resistance and heat tolerance compared to jack-o-lantern types — excellent for zone 8–10 gardens. Vines are vigorous, reaching 10–15 feet."
+    },
+    "usda_zones": {"min": 5, "max": 10},
+    "spacing_in": {"min": 36, "max": 60},
+    "height_in": {"min": 18, "max": 24},
+    "spread_in": {"min": 96, "max": 144},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Sow seeds 1 inch deep in hills of 3–4 seeds, thinning to 2; Long Island Cheese Pumpkin is a large, flat, deeply ribbed, tan-buff heirloom that looks remarkably like a wheel of French cheese — hence its popular name. Developed by Long Island market gardeners in the 19th century, it was once the dominant commercial pumpkin variety in the northeastern United States because of its excellent eating quality, dense orange-yellow flesh with a smooth, rich, sweet flavor particularly prized for pumpkin pies (significantly better than jack-o-lantern types). Being a Cucurbita moschata variety, it is substantially more resistant to squash vine borers, powdery mildew, and heat than C. pepo types, making it one of the most practical large pumpkins for zone 8–10 Gulf Coast gardens where summer disease and pest pressure is high. Fruits weigh 8–15 pounds and store well for months.",
+    "sources": [
+      "Seed Savers Exchange",
+      "Baker Creek Heirloom Seeds",
+      "Southern Exposure Seed Exchange",
+      "Cornell Cooperative Extension"
+    ]
   }
 ]
