@@ -1,0 +1,259 @@
+[
+  {
+    "slug": "bluecrop-highbush-blueberry",
+    "common_name": "Bluecrop Highbush Blueberry (Standard Highbush Blueberry)",
+    "scientific_name": "Vaccinium corymbosum 'Bluecrop'",
+    "category": "fruit",
+    "subcategory": "berry",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 730,
+      "max": 1095
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -2
+      },
+      "note": "Plant container or bare-root shrubs in late winter to early spring in acidic (pH 4.5–5.5), moist, well-drained, humus-rich soil in full sun; plant at least two different highbush blueberry cultivars for cross-pollination to maximize fruit set; Bluecrop requires 800–1000 chill hours, which limits its suitability in zone 9 compared to southern highbush cultivars."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 7
+    },
+    "spacing_in": {
+      "min": 48,
+      "max": 72
+    },
+    "height_in": {
+      "min": 48,
+      "max": 72
+    },
+    "spread_in": {
+      "min": 36,
+      "max": 60
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in acidic (pH 4.5–5.5), moist, well-drained, humus-rich soil in full sun; Bluecrop is the gold-standard northern highbush blueberry cultivar — developed by the USDA at Beltsville, Maryland, and introduced in 1952, it remains the most widely planted highbush blueberry in commercial production worldwide and the benchmark against which other northern highbush cultivars are measured. The very large, firm, light-blue, mildly flavored berries are produced in long, loose clusters in mid-season (July in zone 6–7) and hold exceptionally well on the bush without dropping or softening. The fruit quality combines large berry size, excellent flavor, distinctive whitish bloom, and good resistance to cracking in rain that makes Bluecrop outstanding for both fresh eating and freezing. The vigorous, upright shrub grows 4–6 feet tall with attractive white urn-shaped flowers in spring, bright-blue fruit in summer, and outstanding red-orange to crimson fall color. Bluecrop requires 800–1000 chill hours and is best suited to zone 4–7; in zone 8 and warmer, southern highbush cultivars (Vaccinium corymbosum hybrids with V. darrowi) requiring only 200–400 chill hours are more appropriate. Plant with another mid-season highbush cultivar such as Blueray or Legacy for cross-pollination. Maintain strict soil pH below 5.5 using elemental sulfur and acidic fertilizers — pH above 6.0 causes severe iron chlorosis.",
+    "sources": [
+      "Rutgers New Jersey Agricultural Experiment Station",
+      "Michigan State University Extension",
+      "USDA Agricultural Research Service"
+    ]
+  },
+  {
+    "slug": "legacy-highbush-blueberry",
+    "common_name": "Legacy Southern Highbush Blueberry (Late-Season Highbush Blueberry)",
+    "scientific_name": "Vaccinium corymbosum 'Legacy'",
+    "category": "fruit",
+    "subcategory": "berry",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 730,
+      "max": 1095
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -2
+      },
+      "note": "Plant container or bare-root shrubs in late winter in acidic (pH 4.5–5.5), moist, well-drained, humus-rich soil in full sun; Legacy is a late-season, lower-chill highbush cultivar making it more suitable for zone 8 than standard northern highbush varieties; plant with O'Neal or Bluecrop for cross-pollination."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 48,
+      "max": 72
+    },
+    "height_in": {
+      "min": 48,
+      "max": 72
+    },
+    "spread_in": {
+      "min": 36,
+      "max": 60
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in acidic (pH 4.5–5.5), moist, well-drained, humus-rich soil in full sun; Legacy is a vigorous, productive, late-season highbush blueberry with relatively low chill requirements (approximately 400–600 hours) that extends the highbush blueberry season well into late summer and performs reliably in zone 8 and warmer parts of zone 9. Developed by USDA in New Jersey and released in 1993, Legacy produces medium to large, firm, sweet, aromatic berries with exceptional flavor that is considered by many blueberry connoisseurs to be among the finest-tasting highbush cultivars. The berries ripen late in the season (3–4 weeks after Bluecrop) and hold on the bush without dropping, extending the harvest window for the home garden. The vigorous, upright shrub produces attractive white spring flowers and outstanding red-orange fall foliage — one of the better blueberries for fall landscape interest. Legacy is semi-evergreen to evergreen in zone 9, which reduces winter chilling compared to deciduous cultivars — this is actually advantageous in zone 9 where chilling is the primary production limitation. For zone 9 production, pair with other low-chill southern highbush cultivars like Sunshine Blue or O'Neal. Soil pH management is critical: maintain pH between 4.5 and 5.5 using elemental sulfur treatments and acidic mulch such as pine bark or pine straw.",
+    "sources": [
+      "Rutgers New Jersey Agricultural Experiment Station",
+      "University of Georgia Cooperative Extension",
+      "University of Florida IFAS Extension"
+    ]
+  },
+  {
+    "slug": "goldsturm-rudbeckia",
+    "common_name": "Goldsturm Black-Eyed Susan (Golden Storm Coneflower)",
+    "scientific_name": "Rudbeckia fulgida var. sullivantii 'Goldsturm'",
+    "category": "flower",
+    "subcategory": "perennial wildflower",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 60,
+      "max": 90
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 6
+      },
+      "note": "Plant divisions or container plants in spring in moist, well-drained, slightly acidic to neutral, moderately fertile soil in full sun to partial shade; Goldsturm spreads slowly by self-seeding and rhizome spread to form a colony over years — allow space for gradual spread and divide every 3–4 years when the center of mature clumps begins to die out."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 18,
+      "max": 30
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant in moist, well-drained, slightly acidic to neutral, moderately fertile soil in full sun to partial shade; Goldsturm is the most celebrated and widely grown named selection of Rudbeckia — named the Perennial Plant of the Year in 1999 and perhaps the most commonly planted perennial in American horticulture over the past four decades. The golden-yellow, daisy-like flowers with a prominent, dark brown-black central cone are produced in massive, landscape-covering sheets from July through October in zone 9, creating one of the most spectacular and longest-lasting late-summer to fall perennial displays available. The compact, uniform habit (18–24 inches tall) and outstanding flower production make Goldsturm one of the finest mass-planting perennials for full-sun borders, roadsides, and naturalistic gardens — when planted in groups of 5–9 or more, the uniform, floriferous habit creates a golden sea of color through the late-summer garden. Goldsturm is extremely adaptable — it tolerates clay soils, drought, and wet periods better than many perennials and establishes readily from container transplants. The seed heads are left standing through winter as wildlife food for finches and sparrows. Divide every 3–4 years to maintain vigor. In zone 9, some reduction in bloom quality may occur in the hottest summers — partial shade provides some relief from midday heat stress.",
+    "sources": [
+      "Perennial Plant Association — Perennial Plant of the Year 1999",
+      "Missouri Botanical Garden Plant Finder",
+      "North Carolina State Extension"
+    ]
+  },
+  {
+    "slug": "delicata-squash",
+    "common_name": "Delicata Winter Squash (Sweet Dumpling Squash, Carnival Squash)",
+    "scientific_name": "Cucurbita pepo 'Delicata'",
+    "category": "vegetable",
+    "subcategory": "winter squash",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 95
+    },
+    "days_to_maturity": {
+      "min": 80,
+      "max": 100
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 4
+      },
+      "note": "Direct-sow seeds 1 inch deep in hills of 3–4 seeds (thinned to 2 plants per hill) after all frost danger passes and soil reaches 70°F; in zone 9, Delicata is best planted in late July to early August for fall harvest, avoiding the peak summer heat that reduces fruit set — spring planting is also possible but summer heat may interrupt fruit set."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 48,
+      "max": 72
+    },
+    "height_in": {
+      "min": 12,
+      "max": 18
+    },
+    "spread_in": {
+      "min": 48,
+      "max": 96
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Direct sow in warm soil after last frost in full sun in fertile, well-drained, slightly acidic to neutral soil; Delicata is a compact, heirloom winter squash producing cylindrical, cream-colored to pale yellow fruits with distinctive green and orange-tan longitudinal stripes — an exceptionally attractive squash with outstanding flavor quality. The flesh is deep orange, very sweet, very dry, and intensely flavored — widely considered one of the finest-flavored winter squash cultivars, with a sweet, almost chestnut-like richness that needs little added fat or sugar when roasted or baked. The thin skin is completely edible after roasting — one of the few winter squash varieties where peeling is unnecessary. The manageable fruit size (6–9 inches long, 3–4 lbs) is practical for single-meal preparation. Delicata vines are more compact than most winter squash — the semi-bush to short-vine habit reaches 4–6 feet — making it more manageable in smaller garden spaces. In zone 9, the summer planting (late July–early August) for fall harvest generally works better than spring planting, as the hottest summer temperatures tend to prevent adequate fruit set. The fruit stores well at room temperature for 2–3 months. Squash vine borers and squash bugs are the primary pests; row covers at planting and prompt removal of egg masses help manage populations.",
+    "sources": [
+      "Cornell Cooperative Extension",
+      "University of Florida IFAS Extension",
+      "Southern Exposure Seed Exchange"
+    ]
+  },
+  {
+    "slug": "blue-hubbard-squash",
+    "common_name": "Blue Hubbard Squash (Large Winter Squash)",
+    "scientific_name": "Cucurbita maxima 'Blue Hubbard'",
+    "category": "vegetable",
+    "subcategory": "winter squash",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 95
+    },
+    "days_to_maturity": {
+      "min": 95,
+      "max": 110
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 4
+      },
+      "note": "Direct-sow seeds 1–1.5 inches deep in hills of 3 seeds (thin to 2 plants per hill) after soil warms to 70°F and all frost danger passes; Blue Hubbard requires a long, warm growing season and is best planted in late July in zone 9 for fall harvest, allowing 100–110 days before the first expected fall frost."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 72,
+      "max": 120
+    },
+    "height_in": {
+      "min": 12,
+      "max": 18
+    },
+    "spread_in": {
+      "min": 96,
+      "max": 180
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Direct sow in warm soil after last frost in full sun in fertile, well-drained, slightly acidic to neutral soil; Blue Hubbard is a classic, large-fruited heirloom winter squash producing enormous, blue-gray, warty, thick-skinned fruits typically weighing 15–35 pounds — the quintessential large storage squash that has fed families through winter for generations in American kitchen gardens. The flesh is deep orange, very dry and dense, richly flavored, and exceptional for pies, soups, and roasting — the flavor is often described as richer and more complex than the more commonly grown butternut squash. The thick, warty, blue-gray skin provides outstanding storage capacity — well-cured Blue Hubbard fruits store at room temperature for 6 months or longer. The vine is vigorous and space-demanding, spreading 8–15 feet — provide ample space and consider training the vine to maximize space efficiency. In zone 9, plant in late July for fall harvest (counting back 100–110 days from the average first frost date). Harvest after the skin hardens and turns fully blue-gray; cure in a warm location for 10–14 days before storage to harden the skin and improve sweetness. The large fruits are sometimes sold cut into sections at farm stands — cut pieces must be refrigerated and used within a week.",
+    "sources": [
+      "Cornell Cooperative Extension",
+      "University of Vermont Extension",
+      "Southern Exposure Seed Exchange"
+    ]
+  }
+]

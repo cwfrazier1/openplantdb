@@ -1,0 +1,277 @@
+[
+  {
+    "slug": "purple-top-turnip",
+    "common_name": "Purple Top White Globe Turnip (Standard American Turnip)",
+    "scientific_name": "Brassica rapa 'Purple Top White Globe'",
+    "category": "vegetable",
+    "subcategory": "root vegetable",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 45,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 50,
+      "max": 60
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {
+        "min": -12,
+        "max": -6
+      },
+      "note": "Direct sow in fall (August–October in zone 9) in well-drained, slightly acidic to neutral (pH 6.0–7.0), fertile, loose soil in full sun; Purple Top White Globe is the standard fall turnip for Gulf South gardens — sow every 3 weeks from August through October for a continuous harvest from October through February."
+    },
+    "usda_zones": {
+      "min": 2,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 4,
+      "max": 6
+    },
+    "height_in": {
+      "min": 10,
+      "max": 18
+    },
+    "spread_in": {
+      "min": 4,
+      "max": 6
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Direct sow in well-drained, slightly acidic to neutral, fertile, loose soil in full sun; Purple Top White Globe is the classic American turnip — an old open-pollinated variety that has been the standard American garden turnip for generations and remains by far the most widely grown turnip variety in both home gardens and commercial production. The medium-large globe roots (3–4 inches diameter at ideal harvest size) have a distinctive two-tone appearance: the upper portion (exposed above the soil line) turns vivid purple to purple-red in sunlight, while the lower portion remains white. The firm, crisp, sweet-peppery flesh is mild when harvested young (under 3 inches) and becomes stronger and more pungent as roots age and enlarge — harvest promptly at desired size for best quality. The tender, nutritious greens (tops) are equally valuable: they are among the best-flavored of all Southern cooking greens, prized in traditional Gulf South cooking simmered with pork and seasonings. In zone 9, Purple Top White Globe is strictly a fall and winter crop — heat above 75°F causes the roots to become pithy, bitter, and tough. Sow from August through early October and harvest from October through February. Turnips are extremely fast-maturing and exceptionally cold-hardy — they tolerate freezes to the mid-20s°F without damage and flavor actually improves after frost exposure.",
+    "sources": [
+      "Louisiana State University AgCenter",
+      "Texas A&M AgriLife Extension",
+      "University of Georgia Cooperative Extension"
+    ]
+  },
+  {
+    "slug": "seven-top-turnip",
+    "common_name": "Seven Top Turnip (Leafy Greens Turnip for Gulf South)",
+    "scientific_name": "Brassica rapa 'Seven Top'",
+    "category": "vegetable",
+    "subcategory": "leafy green",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 45,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 45,
+      "max": 55
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {
+        "min": -12,
+        "max": -6
+      },
+      "note": "Direct sow in fall (August–October in zone 9) in fertile, well-drained, slightly acidic to neutral soil in full sun; Seven Top can be sown thickly and harvested by cutting young, regrowing from the base for multiple cuttings over the cool season."
+    },
+    "usda_zones": {
+      "min": 2,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 3,
+      "max": 6
+    },
+    "height_in": {
+      "min": 12,
+      "max": 24
+    },
+    "spread_in": {
+      "min": 6,
+      "max": 10
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Direct sow in fertile, well-drained, slightly acidic to neutral soil in full sun; Seven Top is a turnip variety grown exclusively for its prolific, tender, flavorful greens (tops) rather than its roots — the roots of Seven Top are small, tough, and not typically eaten, but the plant produces an extremely vigorous canopy of large, lush, tender, deeply flavored greens that are among the most productive and flavorful of all Southern cooking greens. The variety's name describes its characteristic of producing an exceptionally dense canopy of seven or more vigorous shoots per plant — creating a tall, productive leafy mass that yields far more greens per plant than Purple Top or other root-type turnips when grown for tops. Seven Top is a staple of traditional Gulf South fall and winter gardening — it's the turnip greens variety most commonly grown for pot greens in Mississippi, Louisiana, Alabama, and Georgia gardens where a large quantity of flavorful cooking greens from a small space is the primary objective. The greens are best harvested young and tender (6–10 inches tall) and become progressively more robust in flavor as they mature — a quality that appeals to those who prefer the traditional strong, minerally flavor of Southern cooking greens. Seven Top tolerates temperatures well into the teens once established. Cut-and-come-again harvesting (cutting to 4 inches, allowing regrowth) produces multiple flushes through the cool season.",
+    "sources": [
+      "Louisiana State University AgCenter",
+      "Southern Exposure Seed Exchange",
+      "University of Georgia Cooperative Extension"
+    ]
+  },
+  {
+    "slug": "diamond-eggplant",
+    "common_name": "Diamond Eggplant (Classic Large Globe Purple Eggplant)",
+    "scientific_name": "Solanum melongena 'Diamond'",
+    "category": "vegetable",
+    "subcategory": "fruiting vegetable",
+    "days_to_germination": {
+      "min": 10,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 75,
+      "max": 90
+    },
+    "days_to_maturity": {
+      "min": 65,
+      "max": 75
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 2
+      },
+      "note": "Start seeds indoors 8–10 weeks before transplanting; transplant into fertile, well-drained, slightly acidic (pH 6.0–6.8) soil in full sun at or just after the last frost date; in zone 9, also transplant in late July through August for a productive fall crop harvested through November."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 24,
+      "max": 36
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Set out transplants in fertile, well-drained, slightly acidic soil in full sun after the last frost date; Diamond is a classic open-pollinated eggplant variety of Eastern European origin — an old, reliable, large-fruited cultivar producing oval to slightly pear-shaped, deep purple-black fruits with a glossy, smooth skin and white, firm, mild-flavored flesh with minimal bitterness. The fruits reach 4–6 inches long and 3–4 inches in diameter at ideal harvest size — large, substantial fruits with good wall thickness and flavor. Diamond is one of the most commonly grown open-pollinated eggplant varieties in American home gardens for its combination of large fruit size, classic flavor, outstanding productivity, and the practical advantage of being a true open-pollinated variety from which seeds can be saved true to type season after season. The compact, upright plants (24–36 inches) produce prolifically from transplanting through the first killing frost. The key to quality eggplant is harvesting before the seeds fully develop: pick when the skin is shiny and fruits yield slightly to gentle pressure — dull skin indicates over-ripeness and bitter, seedy flesh. In zone 9, eggplants are among the most heat-tolerant vegetables and produce reliably from a spring planting through early summer, with a fall crop from an August transplanting that often outlasts the tomatoes.",
+    "sources": [
+      "Southern Exposure Seed Exchange",
+      "Louisiana State University AgCenter",
+      "Cornell Cooperative Extension"
+    ]
+  },
+  {
+    "slug": "saint-valery-carrot",
+    "common_name": "Saint Valery Carrot (Heritage French Long Orange Carrot)",
+    "scientific_name": "Daucus carota 'Saint Valery'",
+    "category": "vegetable",
+    "subcategory": "root vegetable",
+    "days_to_germination": {
+      "min": 10,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 45,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 70,
+      "max": 80
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {
+        "min": -16,
+        "max": -10
+      },
+      "note": "Direct sow in fall (August–September in zone 9) in deep, loose, sandy loam or well-prepared raised beds; Saint Valery produces long roots (8–10 inches) requiring very deep, stone-free, loosened soil — amend heavy clay with raised beds or deep double-digging for good root development."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 2,
+      "max": 4
+    },
+    "height_in": {
+      "min": 8,
+      "max": 14
+    },
+    "spread_in": {
+      "min": 2,
+      "max": 4
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Direct sow in deep, loose, well-drained, fertile soil in full sun; Saint Valery is one of the oldest and most prestigious heritage carrot varieties — a 19th-century French heirloom from the Normandy coast town of Saint-Valery-en-Caux, producing long (8–10 inches), tapered, vivid deep-orange roots with a smooth skin, blunt tip, and sweet, richly flavored orange flesh that is considered among the finest-flavored of all heirloom carrot varieties. The deep, saturated orange color (more vivid than many modern varieties) comes from very high beta-carotene content, giving Saint Valery both excellent flavor and outstanding nutritional quality. The long, tapering root form requires deep, loose, stone-free soil for straight, well-formed roots — in shallow or compacted soil, the roots fork and twist around obstacles. Raised beds filled with deep, friable, sandy loam produce the best specimens. In zone 9, Saint Valery is a fall and winter crop: sow in August or September for harvest from November through February when the cool temperatures bring out the characteristic sweetness that makes heritage carrots like Saint Valery memorable. Carrots actually improve in flavor after light frost exposure — the cold converts starches to sugars, intensifying sweetness. Leave in the ground and harvest as needed through winter rather than pulling the entire crop at once.",
+    "sources": [
+      "Southern Exposure Seed Exchange",
+      "Baker Creek Heirloom Seeds",
+      "Cornell Cooperative Extension"
+    ]
+  },
+  {
+    "slug": "dragon-carrot",
+    "common_name": "Dragon Carrot (Deep Purple-Red Heirloom Carrot)",
+    "scientific_name": "Daucus carota 'Dragon'",
+    "category": "vegetable",
+    "subcategory": "root vegetable",
+    "days_to_germination": {
+      "min": 10,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 45,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 65,
+      "max": 75
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {
+        "min": -16,
+        "max": -10
+      },
+      "note": "Direct sow in fall (August–September in zone 9) in loose, well-drained, fertile soil in full sun; Dragon's intense skin color develops most vividly in full sun and cool temperatures — the purple-red pigmentation is an anthocyanin response to sunlight and cold that peaks in fall conditions."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 2,
+      "max": 4
+    },
+    "height_in": {
+      "min": 8,
+      "max": 14
+    },
+    "spread_in": {
+      "min": 2,
+      "max": 4
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Direct sow in loose, well-drained, fertile soil in full sun; Dragon is a distinctive heirloom carrot producing long, tapered roots with deep red-purple to maroon skin — an unusually vivid exterior color caused by high anthocyanin content — and orange interior flesh with a reddish core that bleeds red-orange color when cut. The flavor is excellent: sweet, slightly spicy, and more complex than standard orange carrots, with the characteristic flavor depth often associated with high-anthocyanin vegetables. Raw Dragon carrots turn a stunning deep red-orange when sliced, making them visually dramatic in fresh salads, crudité platters, and fresh presentations — the color contrast of the purple-red exterior against the orange-red interior is striking and unique. When cooked, the anthocyanin pigments partially convert to blue-gray tones (as with all purple vegetables cooked without acid), so Dragon carrots are best appreciated raw, lightly pickled in vinegar, or roasted at high heat for caramelized flavor development. The excellent flavor and extraordinary color make Dragon an outstanding choice for market gardeners and home gardeners who value both flavor and visual interest. In zone 9, sow in August through September for a fall/winter crop — the cool temperatures intensify both the purple skin color and the sweetness of the flesh.",
+    "sources": [
+      "Baker Creek Heirloom Seeds",
+      "Southern Exposure Seed Exchange",
+      "Cornell Cooperative Extension"
+    ]
+  }
+]

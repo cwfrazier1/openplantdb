@@ -1,0 +1,332 @@
+[
+  {
+    "slug": "water-hyacinth",
+    "common_name": "Water Hyacinth (Common Water Hyacinth)",
+    "scientific_name": "Eichhornia crassipes",
+    "category": "flower",
+    "subcategory": "aquatic perennial",
+    "days_to_germination": {
+      "min": 14,
+      "max": 28
+    },
+    "germination_soil_temp_f": {
+      "min": 68,
+      "max": 80
+    },
+    "days_to_maturity": {
+      "min": 30,
+      "max": 60
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 6
+      },
+      "note": "Place rooted plantlets or offshoots on still or slow-moving water after all frost danger passes; in zone 9–11 water hyacinth is perennial year-round and should be managed to prevent spread to natural waterways. Provide full sun for best flowering."
+    },
+    "usda_zones": {
+      "min": 9,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 12,
+      "max": 18
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "high",
+    "directions": "Float on still or slow-moving water in full sun; water hyacinth is an extraordinary aquatic plant producing glossy, inflated-petiole rosettes that float freely on the water surface, anchoring delicate feathery roots downward into the water column where they filter nutrients from the water. The lavender-blue flowers — each cluster on an erect spike — are among the most beautiful of any aquatic plant, with the upper petal marked by a purple spot and yellow dot. In zone 9–11 water hyacinth is a perennial that blooms repeatedly through the warm months. IMPORTANT: Water hyacinth is federally listed as one of the world's worst aquatic invasive weeds; it must never be released into natural waterways where it can form impenetrable mats that block sunlight, deplete oxygen, and destroy aquatic ecosystems. Use only in contained ponds and water features, and remove all plant material to the compost bin rather than to any water body. Its ornamental value and water-filtering ability make it outstanding for contained pond and water garden use where it can be responsibly managed.",
+    "sources": [
+      "University of Florida IFAS Center for Aquatic and Invasive Plants",
+      "USDA PLANTS Database",
+      "NOAA National Invasive Species Information Center"
+    ]
+  },
+  {
+    "slug": "water-lettuce",
+    "common_name": "Water Lettuce (Tropical Duckweed, Shellflower)",
+    "scientific_name": "Pistia stratiotes",
+    "category": "flower",
+    "subcategory": "aquatic perennial",
+    "days_to_germination": {
+      "min": 7,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 68,
+      "max": 80
+    },
+    "days_to_maturity": {
+      "min": 30,
+      "max": 60
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 6
+      },
+      "note": "Place rooted offshoots on still water after all frost danger passes; water lettuce spreads rapidly by stolons to produce new rosettes that cover the water surface, shading algae and providing habitat for fish. In zone 9 it is a perennial that requires management to prevent overgrowth of the pond surface."
+    },
+    "usda_zones": {
+      "min": 9,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 8,
+      "max": 12
+    },
+    "height_in": {
+      "min": 4,
+      "max": 6
+    },
+    "spread_in": {
+      "min": 8,
+      "max": 12
+    },
+    "sun": "partial",
+    "water": "high",
+    "directions": "Float on still or slow-moving water in partial to full shade; water lettuce forms floating rosettes of velvety, ribbed, blue-green leaves that closely resemble a head of lettuce — up to 10 inches across — with dense feathery roots trailing below the surface. It thrives in partial to full shade in warm water and is one of the few aquatic plants that genuinely prefers shade, making it outstanding for shaded ponds and water features. The roots provide important habitat for fish and aquatic invertebrates, while the dense leaf canopy controls algae by shading the water surface. It spreads rapidly by horizontal stolons, producing daughter plants prolifically. IMPORTANT: Like water hyacinth, water lettuce is a serious aquatic invasive in warm states; it must never be released into natural waterways, ditches, or drainage systems. Florida prohibits its sale. Use only in contained, sealed water features and compost removed plants. Outstanding for contained water gardens in warm climates where it performs beautifully as a living water filter.",
+    "sources": [
+      "University of Florida IFAS Center for Aquatic and Invasive Plants",
+      "USDA PLANTS Database",
+      "Texas A&M AgriLife Extension"
+    ]
+  },
+  {
+    "slug": "elliott-bluestem",
+    "common_name": "Elliott's Bluestem (Creeping Bluestem, Brushy Bluestem)",
+    "scientific_name": "Andropogon gyrans",
+    "category": "flower",
+    "subcategory": "native ornamental grass",
+    "days_to_germination": {
+      "min": 14,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 90,
+      "max": 180
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Direct sow seeds in spring in well-drained, sandy to loamy, slightly acidic soil in full sun; Elliott's bluestem is a warm-season native grass that establishes quickly from seed and is well-adapted to the nutrient-poor, sandy soils of the Gulf Coastal Plain."
+    },
+    "usda_zones": {
+      "min": 6,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 24,
+      "max": 48
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 18
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant in well-drained, sandy to loamy, slightly acidic to neutral soil in full sun; Elliott's bluestem is a native warm-season grass of the southeastern Coastal Plain, prairies, and longleaf pine savannas, producing upright clumps of blue-green foliage that turn copper to reddish-bronze in fall — among the finest native grasses for fall and winter color in zone 8–10. The feathery seed heads emerge in late summer, catch the light, and provide winter bird food. It is notably tolerant of the nutrient-poor, well-drained, sandy soils that characterize much of the Gulf Coastal Plain — a quality that makes it excellent for low-maintenance naturalized plantings, coastal restoration, and xeric landscape areas. It performs best in lean soils; rich, amended soil causes excessive growth and floppy stems. An outstanding component of native plant gardens, butterfly gardens, and longleaf pine understory plantings throughout zone 8–10.",
+    "sources": [
+      "USDA PLANTS Database",
+      "Lady Bird Johnson Wildflower Center",
+      "University of Florida IFAS Extension"
+    ]
+  },
+  {
+    "slug": "virginia-wildrye",
+    "common_name": "Virginia Wildrye (Wild Rye Grass)",
+    "scientific_name": "Elymus virginicus",
+    "category": "flower",
+    "subcategory": "native shade grass",
+    "days_to_germination": {
+      "min": 7,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 55,
+      "max": 65
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 90
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -4
+      },
+      "note": "Direct sow seeds in fall (preferred) or early spring in moist, slightly acidic to neutral, fertile soil in partial shade to full sun; Virginia wildrye is one of the rare native grasses that genuinely thrives in partial shade, making it invaluable for woodland edges and shaded naturalized areas."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 24,
+      "max": 48
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 18
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Plant in moist, slightly acidic to neutral, fertile soil in partial shade to full sun; Virginia wildrye is one of the most ecologically important and ornamentally useful native grasses for shaded sites in eastern North America — a cool-season bunchgrass forming attractive upright to arching clumps of medium-green leaves, topped in late spring and summer by distinctive awn-tipped seed heads that arch gracefully and provide significant wildlife food value for native sparrows, towhees, and other seed-eating birds. Unlike most ornamental grasses that require full sun, Virginia wildrye genuinely thrives in partial shade under deciduous trees, making it an excellent groundcover-level grass for naturalized woodland edges. It also tolerates wet conditions, river floodplains, and clay soils — a broad adaptability that makes it an outstanding restoration and native plant garden grass. Spreads by self-seeding in appropriate conditions. An outstanding wildlife-supporting grass for zone 9 woodland gardens.",
+    "sources": [
+      "USDA PLANTS Database",
+      "Lady Bird Johnson Wildflower Center",
+      "North Carolina State Extension"
+    ]
+  },
+  {
+    "slug": "fox-sedge",
+    "common_name": "Fox Sedge (Bristly Sedge)",
+    "scientific_name": "Carex vulpinoidea",
+    "category": "flower",
+    "subcategory": "native wet-shade sedge",
+    "days_to_germination": {
+      "min": 21,
+      "max": 42
+    },
+    "germination_soil_temp_f": {
+      "min": 50,
+      "max": 65
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 90
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Direct sow seeds in spring in consistently moist to wet, slightly acidic, fertile soil in partial shade; fox sedge tolerates temporary flooding and is highly adaptable to the difficult wet-shade conditions at the edges of wetlands, retention ponds, and shaded ditches."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 12,
+      "max": 24
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 18
+    },
+    "sun": "partial",
+    "water": "high",
+    "directions": "Plant in consistently moist to wet, slightly acidic, fertile soil in partial shade to full sun; fox sedge is a widely distributed native sedge of floodplain forests, wet meadows, marsh margins, and shaded streambanks throughout North America, forming dense, bright-green tussocks of narrow, sharply keeled leaves with distinctive bristly seed clusters in summer. It is an exceptionally important food plant for wildlife — the seeds are consumed by ducks, rails, gallinules, and many wetland songbirds, and the dense stems provide nesting cover for marsh birds. In the restoration and native plant garden, fox sedge is invaluable for stabilizing wet, shaded banks, filling rain garden margins, and naturalizing along water features. It tolerates temporary flooding and clay soils, making it one of the most practically useful native sedges for difficult wet-shade situations in zone 9. The dense tussock growth creates important microhabitat for insects and small animals.",
+    "sources": [
+      "USDA PLANTS Database",
+      "Lady Bird Johnson Wildflower Center",
+      "University of Florida IFAS Extension"
+    ]
+  },
+  {
+    "slug": "star-gooseberry",
+    "common_name": "Star Gooseberry (Otaheite Gooseberry, Malay Gooseberry)",
+    "scientific_name": "Phyllanthus acidus",
+    "category": "fruit",
+    "subcategory": "tropical fruit tree",
+    "days_to_germination": {
+      "min": 21,
+      "max": 42
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 80
+    },
+    "days_to_maturity": {
+      "min": 730,
+      "max": 1825
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 8
+      },
+      "note": "Plant container trees in spring in moist, slightly acidic to neutral, well-drained soil in full sun to partial shade; star gooseberry is a fast-growing tropical that performs as an evergreen shrub-tree in zone 9–11 and begins bearing fruit within 2–3 years of planting."
+    },
+    "usda_zones": {
+      "min": 9,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 120,
+      "max": 180
+    },
+    "height_in": {
+      "min": 60,
+      "max": 120
+    },
+    "spread_in": {
+      "min": 60,
+      "max": 120
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in moist, slightly acidic to neutral, well-drained soil in full sun to light shade; star gooseberry is a productive tropical fruit tree widely grown throughout Southeast Asia and the Caribbean, bearing clusters of ribbed, waxy, pale yellow to white drupes — each resembling a miniature star when cut cross-section — directly on the trunk and older branches in a distinctive cauliflorous pattern. The tart, acidic fruit has a crisp, translucent flesh somewhat reminiscent of a sour apple or green gooseberry and is consumed fresh (with salt and chili in Southeast Asia), pickled, candied, or made into jams and juices. Trees reach 10–30 feet in frost-free conditions but are easily maintained smaller through pruning. In zone 9 they may be damaged by frost below 28°F but typically recover from light frost damage at the root. Prolific bearers that fruit twice yearly in good conditions. The unusual trunk-fruiting habit and fine-textured, pinnate foliage are ornamental assets in the tropical garden. A worthwhile and underused edible tree for zone 9–11 gardens.",
+    "sources": [
+      "Morton, 'Fruits of Warm Climates'",
+      "University of Florida IFAS Extension Tropical Fruits",
+      "Purdue University NewCROP"
+    ]
+  }
+]

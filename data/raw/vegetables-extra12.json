@@ -1,0 +1,277 @@
+[
+  {
+    "slug": "marketmore-cucumber",
+    "common_name": "Marketmore 76 Cucumber (Standard Slicing Cucumber)",
+    "scientific_name": "Cucumis sativus 'Marketmore 76'",
+    "category": "vegetable",
+    "subcategory": "cucumber",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 90
+    },
+    "days_to_maturity": {
+      "min": 65,
+      "max": 75
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 4
+      },
+      "note": "Direct sow 1 inch deep in hills of 4–5 seeds (thin to 2–3 plants per hill) or in rows 6 inches apart (thin to 12 inches) after soil warms to 70°F; in zone 9, spring planting from late March through April is best — summer heat reduces female flower set and fruit quality; a fall crop planted in late July can also succeed."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 24
+    },
+    "height_in": {
+      "min": 6,
+      "max": 12
+    },
+    "spread_in": {
+      "min": 36,
+      "max": 72
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Direct sow in warm, fertile, well-drained soil in full sun after all frost danger passes; Marketmore 76 is the most widely grown and the benchmark standard-type slicing cucumber in American home gardens — developed at Cornell University by Henry Munger and released in 1976, it improved on the earlier Marketmore 70 with added resistance to multiple cucumber diseases. The medium-to-large cucumbers (8–9 inches long, uniformly dark green) have the classic mild, crisp, refreshing flavor and texture of the traditional market cucumber. Marketmore 76 is a vigorous vining plant that performs well on a trellis or fence — training vertically increases air circulation, reduces disease, and makes harvesting easier while saving ground space. The disease resistance package includes cucumber mosaic virus, cucumber scab, powdery mildew, and downy mildew — a comprehensive suite that makes it more reliable than older heirloom slicing cucumbers in humid Gulf Coast conditions. Harvest at 7–9 inches for best quality before the skin yellows; check vines daily at peak production. Cucumbers are sensitive to drought — consistent moisture is critical for straight, bitter-free fruit. Bitter cucumbers result from heat and water stress. In zone 9, the spring window (late March to May) before summer heat arrives is the optimal production period.",
+    "sources": [
+      "Cornell University Department of Plant Breeding",
+      "University of Florida IFAS Extension",
+      "Texas A&M AgriLife Extension"
+    ]
+  },
+  {
+    "slug": "big-boy-tomato",
+    "common_name": "Big Boy Tomato (Classic Large Beefsteak Tomato)",
+    "scientific_name": "Solanum lycopersicum 'Big Boy'",
+    "category": "vegetable",
+    "subcategory": "tomato",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 78,
+      "max": 82
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -2,
+        "max": 0
+      },
+      "note": "Start seeds indoors 6–8 weeks before transplanting; transplant into well-drained, fertile, slightly acidic (pH 6.0–6.8) soil in full sun after the last frost date; in zone 9 (Houston/New Orleans area), transplant in mid-February for spring production before summer heat ends fruit set."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 24,
+      "max": 36
+    },
+    "height_in": {
+      "min": 48,
+      "max": 84
+    },
+    "spread_in": {
+      "min": 24,
+      "max": 36
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Set out transplants in fertile, well-drained, slightly acidic soil in full sun after last frost; Big Boy is one of the most historically important and widely grown large-fruited tomato cultivars in American home gardens — introduced by Burpee in 1949 and still one of the most recognizable tomato names in American horticulture. The large beefsteak-type fruits typically weigh 1–1.5 pounds with deep red, meaty, flavorful flesh and the classic balanced tomato flavor — rich, full, and aromatic without the extreme acidity of some heirloom beefsteaks. Big Boy is an indeterminate, vining cultivar that continues to grow, flower, and fruit until killed by frost — it requires a strong cage or staking support to manage its vigorous 4–7 foot growth. The large fruit production and classic flavor made Big Boy the standard large-fruited tomato in American garden catalogs for decades. In zone 9, tomatoes should be transplanted in mid-February for the spring window, with the goal of harvesting as much as possible before temperatures consistently exceed 95°F (at which point pollen viability fails and fruit set stops). A second planting in late August captures the fall window. Prevent blossom end rot with consistent irrigation and calcium-balanced fertilization. Better Boy is the improved hybrid successor with added disease resistance — both are widely grown.",
+    "sources": [
+      "W. Atlee Burpee Company — Historical Cultivar Records",
+      "North Carolina State Extension",
+      "University of Florida IFAS Extension"
+    ]
+  },
+  {
+    "slug": "rutgers-tomato",
+    "common_name": "Rutgers Tomato (Classic Jersey Tomato, Heirloom Processing Tomato)",
+    "scientific_name": "Solanum lycopersicum 'Rutgers'",
+    "category": "vegetable",
+    "subcategory": "tomato",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 72,
+      "max": 80
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -2,
+        "max": 0
+      },
+      "note": "Start seeds indoors 6–8 weeks before transplanting; transplant into fertile, well-drained, slightly acidic (pH 6.0–6.8) soil in full sun at or just before the last frost date in zone 9."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 24,
+      "max": 36
+    },
+    "height_in": {
+      "min": 48,
+      "max": 72
+    },
+    "spread_in": {
+      "min": 24,
+      "max": 36
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Set out transplants in fertile, well-drained, slightly acidic soil in full sun after last frost; Rutgers is the classic American heirloom tomato — developed jointly by Campbell Soup Company and Rutgers University in 1934 to create a tomato with both superior fresh-eating quality and excellent processing characteristics, and for decades it was the standard commercial processing tomato in New Jersey and much of the eastern United States. The medium-large, globe-shaped fruits have deep red, meaty flesh with the perfectly balanced acidity and full tomato flavor that established the 'Jersey tomato' reputation — a rich, complex flavor profile that is less sweet than modern breeding lines but fuller and more complex. Rutgers is an indeterminate cultivar requiring staking or caging. The historical Rutgers was an open-pollinated variety, allowing seed saving — modern Rutgers VF and Rutgers 250 selections add Verticillium and Fusarium wilt resistance while preserving the classic flavor. The original open-pollinated Rutgers is widely available from seed companies specializing in heirloom varieties. In zone 9, transplant in mid-February for spring production. Rutgers' superior canning and sauce quality makes it especially valuable for the home gardener who processes tomatoes for winter storage.",
+    "sources": [
+      "Rutgers University New Jersey Agricultural Experiment Station",
+      "Cornell Cooperative Extension",
+      "Southern Exposure Seed Exchange"
+    ]
+  },
+  {
+    "slug": "black-beauty-zucchini",
+    "common_name": "Black Beauty Zucchini (Classic Dark Zucchini, Italian Squash)",
+    "scientific_name": "Cucurbita pepo 'Black Beauty'",
+    "category": "vegetable",
+    "subcategory": "summer squash",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 95
+    },
+    "days_to_maturity": {
+      "min": 48,
+      "max": 58
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 4
+      },
+      "note": "Direct sow 1 inch deep in hills of 3 seeds (thin to 2 plants per hill) after soil warms to 70°F; in zone 9, zucchini can be planted in February–March for spring harvest and again in late August for fall harvest — summer heat reduces pollination and triggers powdery mildew."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 24,
+      "max": 36
+    },
+    "height_in": {
+      "min": 18,
+      "max": 30
+    },
+    "spread_in": {
+      "min": 24,
+      "max": 36
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Direct sow in warm, fertile, well-drained soil in full sun after all frost danger passes; Black Beauty is the classic standard-setting zucchini cultivar — the benchmark dark-green zucchini against which other varieties are measured, widely grown since the mid-twentieth century and still the most recognizable and most-planted zucchini in American home gardens. The compact, bush-habit plant (non-vining, unlike winter squash) produces very dark green, slightly speckled, tender-skinned fruits with mild, slightly sweet flavor and excellent firm texture. Harvest at 6–8 inches for the best eating quality — zucchini left on the plant more than a day or two at peak size rapidly grows into oversized clubs with tough skin and poor flavor. Check plants daily during peak production. Black Beauty is remarkably productive for its compact habit, typically producing more fruit per plant than the garden can reasonably consume during the peak summer weeks. In zone 9, plant in late February to March for the spring window before summer heat triggers powdery mildew and reduces production; a fall planting in late August extends the season. Squash vine borers can devastate plants — check the base of stems for entry holes and use row covers to exclude the moth. Powdery mildew appears in summer heat; newer disease-resistant cultivars extend the productive season where mildew is persistent.",
+    "sources": [
+      "Cornell Cooperative Extension",
+      "University of Florida IFAS Extension",
+      "Southern Exposure Seed Exchange"
+    ]
+  },
+  {
+    "slug": "goblin-gaillardia",
+    "common_name": "Goblin Gaillardia (Dwarf Blanket Flower)",
+    "scientific_name": "Gaillardia x grandiflora 'Goblin'",
+    "category": "flower",
+    "subcategory": "perennial wildflower",
+    "days_to_germination": {
+      "min": 10,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 80
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 90
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Direct sow seeds on the soil surface (gaillardia needs light to germinate — do not cover), or plant container divisions in spring in lean, very well-drained, slightly acidic to alkaline soil in full sun; Goblin must have excellent drainage and lean soil — in rich, moist soil plants become floppy and short-lived."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 12,
+      "max": 14
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 18
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant in lean, very well-drained, slightly acidic to alkaline soil in full sun; Goblin (also sold as 'Kobold') is the most popular and most widely planted compact gaillardia — a dwarf selection staying 12–14 inches tall, compared to the 24–30 inch standard blanket flower, with the same spectacular, vivid bicolor flowers: large, daisy-like blooms with rich red petals tipped bright golden-yellow surrounding a raised, textured, deep-red central button. The intense red-and-yellow bicolor pattern mimics the traditional woven patterns of Southwest Native American blankets, giving the plant its common name. Goblin blooms nearly continuously from late spring through hard fall frost in zone 9, requiring only light deadheading to remove spent flower heads and trigger continued production. It is extraordinarily drought-tolerant and heat-tolerant — performing exceptionally well in the dry, hot conditions of the Gulf South summer that stress many perennials. The compact habit makes Goblin appropriate for the front of borders, rock gardens, and containers where the standard blanket flower would be oversized. Outstanding for pollinator gardens — bees, butterflies, and native pollinators are strongly attracted. Gaillardia is actually a somewhat short-lived perennial in the Deep South and should be expected to decline after 2–3 years; it self-seeds readily and naturalistic populations maintain themselves indefinitely in well-drained soils.",
+    "sources": [
+      "Missouri Botanical Garden Plant Finder",
+      "Lady Bird Johnson Wildflower Center",
+      "Texas A&M AgriLife Extension"
+    ]
+  }
+]

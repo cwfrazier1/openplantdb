@@ -1,0 +1,277 @@
+[
+  {
+    "slug": "crimson-sweet-watermelon",
+    "common_name": "Crimson Sweet Watermelon (Standard Oblong Watermelon)",
+    "scientific_name": "Citrullus lanatus 'Crimson Sweet'",
+    "category": "vegetable",
+    "subcategory": "melon",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 95
+    },
+    "days_to_maturity": {
+      "min": 80,
+      "max": 90
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 4
+      },
+      "note": "Direct sow 1 inch deep in hills of 4–6 seeds (thin to 2–3 plants per hill) after soil warms to 70°F and all frost danger passes; in zone 9, plant late March through late April; watermelon needs a long warm season and abundant water through fruit development — irrigation is essential in dry periods."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 72,
+      "max": 120
+    },
+    "height_in": {
+      "min": 12,
+      "max": 18
+    },
+    "spread_in": {
+      "min": 96,
+      "max": 180
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Direct sow in warm, fertile, well-drained, sandy to loamy, slightly acidic to neutral soil in full sun after soil warms; Crimson Sweet is the most widely planted home-garden slicing watermelon in American horticulture — an open-pollinated variety introduced in 1964 that set the standard for the modern round-to-oblong, striped watermelon with deep crimson flesh and excellent crisp texture. The light green fruits with dark green stripes grow to 15–25 pounds with a hard rind, making them good keepers and suited for roadside stands and home storage. The deep crimson, firm-textured flesh has excellent flavor — very sweet with the quintessential watermelon aroma. Crimson Sweet introduced the high lycopene, disease-resistant genetics that are the foundation of modern watermelon breeding programs. In zone 9, watermelon is a warm-season crop that thrives in the heat — plant after the last frost in late March or April for summer harvest in July–August. Watermelons need deep, well-drained soil, abundant space, and consistent irrigation through fruit development; drought stress during fruit fill causes small fruit and hollow heart. Determine ripeness by the ground spot yellowing from white to yellow, the curling of the tendril nearest the fruit, and a hollow 'thump' sound when knocked.",
+    "sources": [
+      "Clemson Cooperative Extension",
+      "University of Florida IFAS Extension",
+      "Texas A&M AgriLife Extension"
+    ]
+  },
+  {
+    "slug": "sugar-baby-watermelon",
+    "common_name": "Sugar Baby Watermelon (Icebox Watermelon, Small Round Watermelon)",
+    "scientific_name": "Citrullus lanatus 'Sugar Baby'",
+    "category": "vegetable",
+    "subcategory": "melon",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 95
+    },
+    "days_to_maturity": {
+      "min": 73,
+      "max": 80
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 4
+      },
+      "note": "Direct sow 1 inch deep in hills of 4 seeds (thin to 2 plants per hill) after soil warms to 70°F; in zone 9, plant March through April; Sugar Baby is an icebox-sized watermelon that fits in a standard refrigerator whole — an advantage for smaller families and home refrigerator storage."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 60,
+      "max": 96
+    },
+    "height_in": {
+      "min": 12,
+      "max": 18
+    },
+    "spread_in": {
+      "min": 72,
+      "max": 120
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Direct sow in warm, fertile, well-drained, slightly acidic to neutral soil in full sun after all frost danger passes; Sugar Baby is the classic 'icebox watermelon' — a compact, personal-to-small-family-sized watermelon (6–12 lbs) with a round shape, dark green nearly solid rind, and the hallmark very sweet, deep red flesh that gave this cultivar its name when it was introduced in 1956. The small fruit size is a major practical advantage: the melons fit whole in a standard household refrigerator, can be grown in smaller garden spaces with vines that don't require the vast acreage of large slicing watermelons, and ripen slightly earlier (73–80 days) than standard-sized cultivars. The flesh is very sweet and flavorful — the small seed content and high sugar level made Sugar Baby one of the most popular home-garden watermelons for decades. The shorter vines (6–8 feet) produce 2–4 melons per plant. Sugar Baby is more tolerant of crowded, small-garden conditions than large-fruited watermelons and can even be grown on a trellis with the melons supported in mesh slings. In zone 9, Sugar Baby can be direct sown from late February (with row cover protection) through April for summer harvest, and again in late July for fall harvest.",
+    "sources": [
+      "University of Florida IFAS Extension",
+      "Texas A&M AgriLife Extension",
+      "Cornell Cooperative Extension"
+    ]
+  },
+  {
+    "slug": "magnus-coneflower",
+    "common_name": "Magnus Purple Coneflower (Magnus Echinacea)",
+    "scientific_name": "Echinacea purpurea 'Magnus'",
+    "category": "flower",
+    "subcategory": "perennial wildflower",
+    "days_to_germination": {
+      "min": 14,
+      "max": 28
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 90,
+      "max": 150
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 6
+      },
+      "note": "Plant divisions or container plants in spring in well-drained, lean to moderately fertile, slightly acidic to neutral soil in full sun; Magnus performs best in lean soils — overly rich soil produces tall, floppy growth and reduces the intensity of the flower color."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 30,
+      "max": 42
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant in well-drained, lean to moderately fertile, slightly acidic to neutral soil in full sun; Magnus is the most widely planted and celebrated purple coneflower cultivar — selected in Sweden by Magnus Nilsson and introduced to American horticulture in 1998, when it won the Perennial Plant of the Year award. The large, flat, horizontal petals (ray florets) surround the prominent, spiny, orange-bronze central cone in deep rosy-magenta-purple color that holds through the heat of summer without fading, which was Magnus's breakthrough characteristic over earlier coneflower selections that faded to washed-out pink in midsummer. The petals are notably larger, broader, and more horizontal than the drooping petals of typical wild Echinacea purpurea, creating a bolder, more architectural flower presentation. Magnus grows 30–42 inches tall and is outstanding as a cut flower, garden pollinator plant (monarchs, swallowtails, bees, and goldfinches are all attracted), and naturalizing prairie-style perennial. In zone 9, Magnus blooms from June through October in good conditions. The seed heads left standing through winter provide exceptional goldfinch feeding interest from October through February. Like all coneflowers, Magnus is drought-tolerant, deer-resistant, and essentially maintenance-free once established in well-drained soil.",
+    "sources": [
+      "Perennial Plant Association — Perennial Plant of the Year 1998",
+      "Missouri Botanical Garden Plant Finder",
+      "Lady Bird Johnson Wildflower Center"
+    ]
+  },
+  {
+    "slug": "white-swan-coneflower",
+    "common_name": "White Swan Coneflower (White Echinacea)",
+    "scientific_name": "Echinacea purpurea 'White Swan'",
+    "category": "flower",
+    "subcategory": "perennial wildflower",
+    "days_to_germination": {
+      "min": 14,
+      "max": 28
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 90,
+      "max": 150
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 6
+      },
+      "note": "Plant divisions or container plants in spring in well-drained, lean to moderately fertile, slightly acidic to neutral soil in full sun; White Swan is shorter and more compact than species purple coneflower, making it suitable for mid-border positions where taller types might be unsuitable."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 24,
+      "max": 36
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant in well-drained, lean to moderately fertile, slightly acidic to neutral soil in full sun; White Swan is the standard white-flowered purple coneflower cultivar — a compact, reliable selection producing pure white ray petals surrounding the characteristic orange-bronze spiny central cone of Echinacea purpurea. The white flowers with golden-bronze center cones provide a unique, elegant, somewhat more refined appearance than the familiar magenta-purple of species coneflower, and the pale flower color works as a calming element in hot summer color schemes or a neutral connector between strongly colored companions. White Swan typically grows 24–36 inches — somewhat shorter and more compact than many species and hybrid coneflowers — making it easier to fit in mid-border positions. In zone 9, White Swan blooms from June through September and the dried seed heads remain attractive through winter as goldfinch food. The white flowers show the same pollinator attractiveness as the standard purple forms — bees, butterflies, and skippers visit frequently. Like all Echinacea purpurea cultivars, White Swan self-seeds in favorable conditions, potentially naturalizing into a small colony over years. The dried flowers are used medicinally like other Echinacea species — White Swan's white petals do not affect the medicinal properties of the root and rhizome.",
+    "sources": [
+      "Missouri Botanical Garden Plant Finder",
+      "North Carolina State Extension",
+      "Lady Bird Johnson Wildflower Center"
+    ]
+  },
+  {
+    "slug": "cubanelle-pepper",
+    "common_name": "Cubanelle Pepper (Italian Frying Pepper, Sweet Banana Pepper)",
+    "scientific_name": "Capsicum annuum 'Cubanelle'",
+    "category": "vegetable",
+    "subcategory": "pepper",
+    "days_to_germination": {
+      "min": 10,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 70
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -2,
+        "max": 0
+      },
+      "note": "Start seeds indoors 8–10 weeks before transplanting; transplant into fertile, well-drained, slightly acidic to neutral soil in full sun at or just after the last frost date; in zone 9, transplant in mid-February for spring production and again in late July for fall production — Cubanelle is heat-tolerant and performs well through the Gulf South summer."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 24,
+      "max": 36
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Set out transplants in fertile, well-drained soil in full sun after the last frost date; Cubanelle is the classic Italian frying pepper and the standard sweet frying pepper of Caribbean and Southern European culinary traditions — a long (4–6 inch), thin-walled, pale yellow-green to orange-red pepper with very mild, sweet, slightly complex flavor and thin, tender skin that fries rapidly to silky-soft texture without the bitterness or toughness of thicker-walled bell peppers. The Cubanelle is harvested and used fresh green (pale yellow-green, before color develops) for the most tender, mild culinary results, or allowed to ripen to red for sweeter, more complex flavor. The thin walls make Cubanelle unsuitable for stuffed pepper recipes but ideal for sautéing, stir-frying, and any preparation where rapid, even cooking is desired. Cubanelle is earlier and more productive than California Wonder bell peppers and shows excellent heat tolerance — one of the few sweet peppers that continues to set fruit in zone 9's summer heat. The plants are vigorous and productive, requiring minimal support. Cubanelle is the pepper used in authentic Italian-American 'sausage and peppers' and Cuban sofrito cooking. It is also excellent raw in salads for its mild sweetness and crisp texture when eaten young.",
+    "sources": [
+      "University of Florida IFAS Extension",
+      "Cornell Cooperative Extension",
+      "Texas A&M AgriLife Extension"
+    ]
+  }
+]
