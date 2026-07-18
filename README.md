@@ -22,7 +22,7 @@ vanish, and anyone can fork, correct, or extend it.
 | [`schema/plants.sql`](schema/plants.sql) | Ready-to-load PostgreSQL (`CREATE TABLE` + upserts) |
 | [`SCHEMA.md`](SCHEMA.md) | Field-by-field record schema |
 
-Currently **294 plants** across vegetables, herbs, fruits, berries, flowers and
+Currently **17,957 plants** across vegetables, herbs, fruits, berries, flowers and
 cover crops. (Run `python scripts/build.py` to see the live breakdown.)
 
 ## Each record has
