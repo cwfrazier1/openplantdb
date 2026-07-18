@@ -1,0 +1,3447 @@
+[
+  {
+    "slug": "kenland-red-clover",
+    "common_name": "Kenland Red Clover",
+    "scientific_name": "Trifolium pratense 'Kenland'",
+    "category": "cover-crop",
+    "subcategory": "short-lived perennial legume",
+    "days_to_germination": {
+      "min": 5,
+      "max": 12
+    },
+    "germination_soil_temp_f": {
+      "min": 50,
+      "max": 80
+    },
+    "days_to_maturity": {
+      "min": 75,
+      "max": 110
+    },
+    "spacing_in": {
+      "min": 2,
+      "max": 6
+    },
+    "height_in": {
+      "min": 15,
+      "max": 30
+    },
+    "spread_in": {
+      "min": 6,
+      "max": 12
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "sun": "full",
+    "water": "moderate",
+    "planting": {
+      "anchor": "soil_workable",
+      "weeks_from_anchor": {
+        "min": -2,
+        "max": 4
+      },
+      "note": "A disease-tolerant medium red type; frost-seed or drill in early spring."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 8
+    },
+    "directions": "Drill or broadcast this improved medium red type a quarter inch deep and roll for firm seed contact. Bred for better root-rot tolerance, it holds a productive stand longer than common red clover and regrows well after mowing. Cut or incorporate at early bloom to feed the following crop.",
+    "sources": [
+      "general horticultural reference"
+    ]
+  },
+  {
+    "slug": "mammoth-red-clover",
+    "common_name": "Mammoth Red Clover",
+    "scientific_name": "Trifolium pratense 'Mammoth'",
+    "category": "cover-crop",
+    "subcategory": "biennial legume",
+    "days_to_germination": {
+      "min": 6,
+      "max": 12
+    },
+    "germination_soil_temp_f": {
+      "min": 50,
+      "max": 80
+    },
+    "days_to_maturity": {
+      "min": 80,
+      "max": 120
+    },
+    "spacing_in": {
+      "min": 2,
+      "max": 6
+    },
+    "height_in": {
+      "min": 18,
+      "max": 36
+    },
+    "spread_in": {
+      "min": 6,
+      "max": 14
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "sun": "full",
+    "water": "moderate",
+    "planting": {
+      "anchor": "soil_workable",
+      "weeks_from_anchor": {
+        "min": -2,
+        "max": 4
+      },
+      "note": "A tall single-cut type suited to cooler northern soils; sow in early spring."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 7
+    },
+    "directions": "Sow shallowly and inoculate on fresh ground, aiming for early spring so the stand builds size before summer heat. This coarse single-cut type produces heavy top growth but regrows slowly after mowing, so time cuts carefully. Terminate as the pink flower heads open to release the accumulated nitrogen.",
+    "sources": [
+      "general horticultural reference"
+    ]
+  },
+  {
+    "slug": "ladino-clover",
+    "common_name": "Ladino Clover",
+    "scientific_name": "Trifolium repens 'Ladino'",
+    "category": "cover-crop",
+    "subcategory": "perennial legume",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 50,
+      "max": 80
+    },
+    "days_to_maturity": {
+      "min": 65,
+      "max": 100
+    },
+    "spacing_in": {
+      "min": 2,
+      "max": 6
+    },
+    "height_in": {
+      "min": 8,
+      "max": 14
+    },
+    "spread_in": {
+      "min": 10,
+      "max": 20
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "sun": "full",
+    "water": "moderate",
+    "planting": {
+      "anchor": "soil_workable",
+      "weeks_from_anchor": {
+        "min": -2,
+        "max": 6
+      },
+      "note": "A large-leaved white clover; sow in early spring or early fall."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 9
+    },
+    "directions": "Sow this vigorous large-type white clover a quarter inch deep on firm, moist ground and inoculate where clover has not grown. It stands taller and yields more forage than common white clover while still spreading by stolons. Graze, mow, or incorporate at bloom to recycle its abundant nitrogen.",
+    "sources": [
+      "general horticultural reference"
+    ]
+  },
+  {
+    "slug": "durana-white-clover",
+    "common_name": "Durana White Clover",
+    "scientific_name": "Trifolium repens 'Durana'",
+    "category": "cover-crop",
+    "subcategory": "perennial legume",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 50,
+      "max": 80
+    },
+    "days_to_maturity": {
+      "min": 65,
+      "max": 100
+    },
+    "spacing_in": {
+      "min": 2,
+      "max": 6
+    },
+    "height_in": {
+      "min": 6,
+      "max": 12
+    },
+    "spread_in": {
+      "min": 10,
+      "max": 20
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "sun": "full",
+    "water": "moderate",
+    "planting": {
+      "anchor": "soil_workable",
+      "weeks_from_anchor": {
+        "min": -2,
+        "max": 6
+      },
+      "note": "A persistent grazing-tolerant white clover; sow spring or fall."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 9
+    },
+    "directions": "Plant this dense, persistent selection barely a quarter inch deep into a firm seedbed and keep moist until it knits together. Its high stolon density and low crown help it survive close grazing and drought better than ordinary white clover. Maintain it as a long-lived understory or terminate at flowering.",
+    "sources": [
+      "general horticultural reference"
+    ]
+  },
+  {
+    "slug": "fixation-balansa-clover",
+    "common_name": "FIXatioN Balansa Clover",
+    "scientific_name": "Trifolium michelianum 'FIXatioN'",
+    "category": "cover-crop",
+    "subcategory": "annual legume",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 50,
+      "max": 78
+    },
+    "days_to_maturity": {
+      "min": 90,
+      "max": 140
+    },
+    "spacing_in": {
+      "min": 2,
+      "max": 4
+    },
+    "height_in": {
+      "min": 12,
+      "max": 40
+    },
+    "spread_in": {
+      "min": 6,
+      "max": 16
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "sun": "full",
+    "water": "moderate",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -6,
+        "max": 0
+      },
+      "note": "A very cold-hardy balansa selection; sow in fall or early spring."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 9
+    },
+    "directions": "Drill or broadcast this cold-hardy balansa type shallowly at a low seeding rate onto firm ground. Selected for improved winter survival, it overwinters farther north than common balansa and develops deep taproots that ease compaction. Terminate at bloom by rolling or mowing to feed the next crop.",
+    "sources": [
+      "general horticultural reference"
+    ]
+  },
+  {
+    "slug": "yuchi-arrowleaf-clover",
+    "common_name": "Yuchi Arrowleaf Clover",
+    "scientific_name": "Trifolium vesiculosum 'Yuchi'",
+    "category": "cover-crop",
+    "subcategory": "annual legume",
+    "days_to_germination": {
+      "min": 6,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 55,
+      "max": 80
+    },
+    "days_to_maturity": {
+      "min": 120,
+      "max": 180
+    },
+    "spacing_in": {
+      "min": 2,
+      "max": 4
+    },
+    "height_in": {
+      "min": 18,
+      "max": 48
+    },
+    "spread_in": {
+      "min": 6,
+      "max": 14
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "sun": "full",
+    "water": "moderate",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -6,
+        "max": 0
+      },
+      "note": "A widely grown arrowleaf strain for the Southeast; sow in fall."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 9
+    },
+    "directions": "Drill or broadcast this reliable southeastern selection a quarter inch deep in fall and firm the seedbed well. It reseeds readily and delivers heavy late-spring growth after slow winter development. Allow some plants to set seed for volunteering, then mow or incorporate at the white-and-rose bloom.",
+    "sources": [
+      "general horticultural reference"
+    ]
+  },
+  {
+    "slug": "yellow-sweetclover",
+    "common_name": "Yellow Sweetclover",
+    "scientific_name": "Melilotus officinalis",
+    "category": "cover-crop",
+    "subcategory": "biennial legume",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 50,
+      "max": 80
+    },
+    "days_to_maturity": {
+      "min": 100,
+      "max": 160
+    },
+    "spacing_in": {
+      "min": 3,
+      "max": 8
+    },
+    "height_in": {
+      "min": 24,
+      "max": 72
+    },
+    "spread_in": {
+      "min": 8,
+      "max": 18
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "sun": "full",
+    "water": "low",
+    "planting": {
+      "anchor": "soil_workable",
+      "weeks_from_anchor": {
+        "min": -2,
+        "max": 4
+      },
+      "note": "A deep-rooted biennial relative; frost-seed or drill in early spring."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 8
+    },
+    "directions": "Drill or frost-seed a quarter to a half inch deep on a firm bed and inoculate, since this clover relative fixes nitrogen with its own rhizobia. Its aggressive taproot breaks compaction and pulls nutrients from deep in the profile, thriving even on poor, dry, alkaline soils. Terminate in the second-year bloom before the fragrant yellow flowers set hard seed.",
+    "sources": [
+      "general horticultural reference"
+    ]
+  },
+  {
+    "slug": "white-sweetclover",
+    "common_name": "White Sweetclover",
+    "scientific_name": "Melilotus albus",
+    "category": "cover-crop",
+    "subcategory": "biennial legume",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 50,
+      "max": 80
+    },
+    "days_to_maturity": {
+      "min": 100,
+      "max": 170
+    },
+    "spacing_in": {
+      "min": 3,
+      "max": 8
+    },
+    "height_in": {
+      "min": 36,
+      "max": 96
+    },
+    "spread_in": {
+      "min": 10,
+      "max": 20
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "sun": "full",
+    "water": "low",
+    "planting": {
+      "anchor": "soil_workable",
+      "weeks_from_anchor": {
+        "min": -2,
+        "max": 4
+      },
+      "note": "A tall deep-rooted biennial relative; sow in early spring."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 8
+    },
+    "directions": "Sow a quarter to a half inch deep and inoculate for reliable nodulation on this vigorous clover relative. It sends a strong taproot deep to loosen subsoil and tolerates drought and low fertility as well as any legume cover. Turn the coarse second-year growth under before the white flower spikes mature seed.",
+    "sources": [
+      "general horticultural reference"
+    ]
+  },
+  {
+    "slug": "purple-bounty-hairy-vetch",
+    "common_name": "Purple Bounty Hairy Vetch",
+    "scientific_name": "Vicia villosa 'Purple Bounty'",
+    "category": "cover-crop",
+    "subcategory": "winter-annual legume",
+    "days_to_germination": {
+      "min": 10,
+      "max": 15
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 170,
+      "max": 230
+    },
+    "spacing_in": {
+      "min": 1,
+      "max": 3
+    },
+    "height_in": {
+      "min": 24,
+      "max": 48
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 36
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "sun": "full",
+    "water": "moderate",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -4
+      },
+      "note": "Sow in early fall; this selection winters hardy and blooms earlier than common hairy vetch."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 8
+    },
+    "directions": "Drill inoculated seed roughly three-quarters of an inch deep into a firm, weed-free bed in early autumn. This earlier-flowering strain lets growers terminate and plant a cash crop sooner in spring. Roll or mow at the first purple bloom for peak nitrogen release.",
+    "sources": [
+      "general horticultural reference"
+    ]
+  },
+  {
+    "slug": "lana-woollypod-vetch",
+    "common_name": "Lana Woollypod Vetch",
+    "scientific_name": "Vicia villosa subsp. varia 'Lana'",
+    "category": "cover-crop",
+    "subcategory": "annual legume",
+    "days_to_germination": {
+      "min": 8,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 55,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 120,
+      "max": 180
+    },
+    "spacing_in": {
+      "min": 1,
+      "max": 3
+    },
+    "height_in": {
+      "min": 24,
+      "max": 48
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 36
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "sun": "full",
+    "water": "moderate",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -4
+      },
+      "note": "Sow in fall in mild-winter areas for rapid cool-season biomass."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 9
+    },
+    "directions": "Drill seed roughly one inch deep into moist soil in autumn where frosts stay mild. This vigorous strain smothers weeds and fixes nitrogen fast through the winter. Mow or disc at early bloom before it reseeds heavily.",
+    "sources": [
+      "general horticultural reference"
+    ]
+  },
+  {
+    "slug": "field-pea-2",
+    "common_name": "Field Pea",
+    "scientific_name": "Pisum sativum subsp. arvense",
+    "category": "cover-crop",
+    "subcategory": "annual legume",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 45,
+      "max": 65
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 90
+    },
+    "spacing_in": {
+      "min": 1,
+      "max": 3
+    },
+    "height_in": {
+      "min": 18,
+      "max": 36
+    },
+    "spread_in": {
+      "min": 6,
+      "max": 18
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "sun": "full",
+    "water": "moderate",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": 2
+      },
+      "note": "Direct sow as early as the soil can be worked for a fast spring cover."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 9
+    },
+    "directions": "Sow seed one to two inches deep into cool, moist soil, ideally with an oat nurse crop. Grows rapidly and tolerates light frost while young. Incorporate at first bloom to feed the soil before summer heat sets in.",
+    "sources": [
+      "general horticultural reference"
+    ]
+  },
+  {
+    "slug": "faba-bean-bell-bean",
+    "common_name": "Faba Bean (Bell Bean)",
+    "scientific_name": "Vicia faba",
+    "category": "cover-crop",
+    "subcategory": "annual legume",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 45,
+      "max": 65
+    },
+    "days_to_maturity": {
+      "min": 80,
+      "max": 120
+    },
+    "spacing_in": {
+      "min": 3,
+      "max": 6
+    },
+    "height_in": {
+      "min": 24,
+      "max": 72
+    },
+    "spread_in": {
+      "min": 6,
+      "max": 12
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "sun": "full",
+    "water": "moderate",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -6,
+        "max": 0
+      },
+      "note": "Sow in early spring or, in mild regions, in fall for an overwintering stand."
+    },
+    "usda_zones": {
+      "min": 6,
+      "max": 9
+    },
+    "directions": "Push the large seeds two to three inches deep into cool soil where the upright stems need no support. Small-seeded bell-bean types are grown mainly for green manure and nitrogen. Cut or incorporate at early flowering, before the stems turn woody.",
+    "sources": [
+      "general horticultural reference"
+    ]
+  },
+  {
+    "slug": "iron-clay-cowpea",
+    "common_name": "Iron Clay Cowpea",
+    "scientific_name": "Vigna unguiculata 'Iron Clay'",
+    "category": "cover-crop",
+    "subcategory": "warm-season legume",
+    "days_to_germination": {
+      "min": 7,
+      "max": 12
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 90
+    },
+    "spacing_in": {
+      "min": 2,
+      "max": 4
+    },
+    "height_in": {
+      "min": 18,
+      "max": 36
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 48
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "sun": "full",
+    "water": "low",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 1,
+        "max": 6
+      },
+      "note": "Sow after the soil warms and all frost danger has passed."
+    },
+    "usda_zones": {
+      "min": 8,
+      "max": 11
+    },
+    "directions": "Plant seed about one inch deep into warm soil for fast summer ground cover. This heat- and drought-tough field pea smothers weeds and fixes nitrogen through the hottest months. Mow or till at early bloom, before the vines set many pods.",
+    "sources": [
+      "general horticultural reference"
+    ]
+  },
+  {
+    "slug": "red-ripper-cowpea",
+    "common_name": "Red Ripper Cowpea",
+    "scientific_name": "Vigna unguiculata 'Red Ripper'",
+    "category": "cover-crop",
+    "subcategory": "warm-season legume",
+    "days_to_germination": {
+      "min": 7,
+      "max": 12
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 90
+    },
+    "spacing_in": {
+      "min": 2,
+      "max": 4
+    },
+    "height_in": {
+      "min": 18,
+      "max": 36
+    },
+    "spread_in": {
+      "min": 24,
+      "max": 60
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "sun": "full",
+    "water": "low",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 1,
+        "max": 6
+      },
+      "note": "Sow into warm soil once nights stay reliably above frost."
+    },
+    "usda_zones": {
+      "min": 8,
+      "max": 11
+    },
+    "directions": "Drill seed roughly one inch deep after the soil warms in late spring. This vigorous, drought-hardy vine sprawls widely to shade out weeds and build nitrogen. Terminate at early flowering for the best balance of biomass and easy incorporation.",
+    "sources": [
+      "general horticultural reference"
+    ]
+  },
+  {
+    "slug": "tropic-sun-sunn-hemp",
+    "common_name": "Tropic Sun Sunn Hemp",
+    "scientific_name": "Crotalaria juncea 'Tropic Sun'",
+    "category": "cover-crop",
+    "subcategory": "warm-season legume",
+    "days_to_germination": {
+      "min": 3,
+      "max": 7
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 90
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 90
+    },
+    "spacing_in": {
+      "min": 2,
+      "max": 4
+    },
+    "height_in": {
+      "min": 36,
+      "max": 72
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 24
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "sun": "full",
+    "water": "low",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 8
+      },
+      "note": "Sow in warm soil during the heat of summer for very fast biomass."
+    },
+    "usda_zones": {
+      "min": 9,
+      "max": 12
+    },
+    "directions": "Plant seed half an inch to one inch deep into hot soil for explosive upright growth. This non-toxic selection can top five feet in a couple of months while fixing nitrogen and suppressing nematodes. Mow at early flowering, before the fibrous stems get too tough to chop.",
+    "sources": [
+      "general horticultural reference"
+    ]
+  },
+  {
+    "slug": "blue-narrowleaf-lupin",
+    "common_name": "Blue (Narrowleaf) Lupin",
+    "scientific_name": "Lupinus angustifolius",
+    "category": "cover-crop",
+    "subcategory": "annual legume",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 55,
+      "max": 68
+    },
+    "days_to_maturity": {
+      "min": 90,
+      "max": 150
+    },
+    "spacing_in": {
+      "min": 2,
+      "max": 4
+    },
+    "height_in": {
+      "min": 18,
+      "max": 48
+    },
+    "spread_in": {
+      "min": 6,
+      "max": 18
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "sun": "full",
+    "water": "low",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -4
+      },
+      "note": "Sow in fall in mild regions or early spring where winters are harsh; prefers acidic, sandy soil."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 9
+    },
+    "directions": "Sow seed about one inch deep into well-drained, slightly acid ground where it fixes nitrogen and taps deep for phosphorus. The stout taproot helps break compacted subsoil. Cut or incorporate at early flowering for green manure.",
+    "sources": [
+      "general horticultural reference"
+    ]
+  },
+  {
+    "slug": "white-lupin",
+    "common_name": "White Lupin",
+    "scientific_name": "Lupinus albus",
+    "category": "cover-crop",
+    "subcategory": "annual legume",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 55,
+      "max": 68
+    },
+    "days_to_maturity": {
+      "min": 100,
+      "max": 160
+    },
+    "spacing_in": {
+      "min": 3,
+      "max": 6
+    },
+    "height_in": {
+      "min": 24,
+      "max": 48
+    },
+    "spread_in": {
+      "min": 8,
+      "max": 18
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "sun": "full",
+    "water": "low",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": 2
+      },
+      "note": "Sow in early spring, or fall in mild winters; tolerates a wider soil range than blue lupin."
+    },
+    "usda_zones": {
+      "min": 6,
+      "max": 9
+    },
+    "directions": "Plant the large seeds about one inch deep into well-drained soil. Its deep taproot loosens hardpan and mines nutrients while nodules fix nitrogen. Turn under at early bloom before the tall stems lignify.",
+    "sources": [
+      "general horticultural reference"
+    ]
+  },
+  {
+    "slug": "yellow-lupin",
+    "common_name": "Yellow Lupin",
+    "scientific_name": "Lupinus luteus",
+    "category": "cover-crop",
+    "subcategory": "annual legume",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 55,
+      "max": 68
+    },
+    "days_to_maturity": {
+      "min": 100,
+      "max": 160
+    },
+    "spacing_in": {
+      "min": 2,
+      "max": 4
+    },
+    "height_in": {
+      "min": 18,
+      "max": 36
+    },
+    "spread_in": {
+      "min": 6,
+      "max": 14
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "sun": "full",
+    "water": "low",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": 2
+      },
+      "note": "Sow in spring on poor, sandy, acidic soils where other legumes struggle."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 9
+    },
+    "directions": "Sow seed roughly one inch deep into light, acid soil that many crops find too poor. It fixes nitrogen well and its fragrant yellow spikes draw pollinators. Incorporate at early flowering to feed the following crop.",
+    "sources": [
+      "general horticultural reference"
+    ]
+  },
+  {
+    "slug": "bitter-vetch",
+    "common_name": "Bitter Vetch",
+    "scientific_name": "Vicia ervilia",
+    "category": "cover-crop",
+    "subcategory": "annual legume",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 50,
+      "max": 68
+    },
+    "days_to_maturity": {
+      "min": 90,
+      "max": 130
+    },
+    "spacing_in": {
+      "min": 1,
+      "max": 3
+    },
+    "height_in": {
+      "min": 18,
+      "max": 30
+    },
+    "spread_in": {
+      "min": 8,
+      "max": 18
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "sun": "full",
+    "water": "low",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": 2
+      },
+      "note": "Sow in early spring, or fall in mild regions, on dry marginal soils."
+    },
+    "usda_zones": {
+      "min": 6,
+      "max": 9
+    },
+    "directions": "Drill seed roughly one inch deep into cool soil where it thrives even on poor, dry ground. This ancient legume fixes nitrogen and covers quickly with little input. Turn under at early flowering as a soil-building green manure.",
+    "sources": [
+      "general horticultural reference"
+    ]
+  },
+  {
+    "slug": "narbon-vetch",
+    "common_name": "Narbon Vetch",
+    "scientific_name": "Vicia narbonensis",
+    "category": "cover-crop",
+    "subcategory": "annual legume",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 50,
+      "max": 68
+    },
+    "days_to_maturity": {
+      "min": 100,
+      "max": 140
+    },
+    "spacing_in": {
+      "min": 2,
+      "max": 4
+    },
+    "height_in": {
+      "min": 18,
+      "max": 36
+    },
+    "spread_in": {
+      "min": 8,
+      "max": 18
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "sun": "full",
+    "water": "low",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": 2
+      },
+      "note": "Sow in early spring or fall in dry, mild-winter regions."
+    },
+    "usda_zones": {
+      "min": 6,
+      "max": 9
+    },
+    "directions": "Plant seed about one inch deep into cool, well-drained soil where its upright stems stand without support. Drought-hardy and productive on marginal ground, it fixes nitrogen readily. Cut or incorporate at early bloom for green manure.",
+    "sources": [
+      "general horticultural reference"
+    ]
+  },
+  {
+    "slug": "hungarian-vetch",
+    "common_name": "Hungarian Vetch",
+    "scientific_name": "Vicia pannonica",
+    "category": "cover-crop",
+    "subcategory": "annual legume",
+    "days_to_germination": {
+      "min": 8,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 50,
+      "max": 68
+    },
+    "days_to_maturity": {
+      "min": 150,
+      "max": 210
+    },
+    "spacing_in": {
+      "min": 1,
+      "max": 3
+    },
+    "height_in": {
+      "min": 24,
+      "max": 40
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 30
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "sun": "full",
+    "water": "moderate",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -4
+      },
+      "note": "Sow in early fall; more cold-tolerant than common vetch and suited to heavier soils."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 8
+    },
+    "directions": "Drill seed about one inch deep in autumn, often with a small grain for support. This winter-hardy vetch handles clay and cold better than most and fixes nitrogen through spring. Terminate at early bloom before pods set.",
+    "sources": [
+      "general horticultural reference"
+    ]
+  },
+  {
+    "slug": "cereal-rye",
+    "common_name": "Cereal Rye",
+    "scientific_name": "Secale cereale",
+    "category": "cover-crop",
+    "subcategory": "annual grass",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 34,
+      "max": 90
+    },
+    "days_to_maturity": {
+      "min": 200,
+      "max": 260
+    },
+    "spacing_in": {
+      "min": 1,
+      "max": 4
+    },
+    "height_in": {
+      "min": 36,
+      "max": 60
+    },
+    "spread_in": {
+      "min": 4,
+      "max": 8
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "sun": "full",
+    "water": "low",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -2
+      },
+      "note": "Sow in late summer or fall several weeks before the first hard freeze so plants establish before dormancy."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 8
+    },
+    "directions": "Broadcast or drill seed about one inch deep at roughly two bushels per acre and lightly incorporate for good soil contact. This is the most cold-tolerant cereal, germinating in near-freezing soil and producing dense fibrous roots that hold soil over winter. Mow or roll it down at the flowering stage in spring, before seed sets, to release nitrogen and avoid volunteers.",
+    "sources": [
+      "general horticultural reference"
+    ]
+  },
+  {
+    "slug": "aroostook-cereal-rye",
+    "common_name": "'Aroostook' Cereal Rye",
+    "scientific_name": "Secale cereale 'Aroostook'",
+    "category": "cover-crop",
+    "subcategory": "annual grass",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 34,
+      "max": 90
+    },
+    "days_to_maturity": {
+      "min": 200,
+      "max": 255
+    },
+    "spacing_in": {
+      "min": 1,
+      "max": 4
+    },
+    "height_in": {
+      "min": 36,
+      "max": 60
+    },
+    "spread_in": {
+      "min": 4,
+      "max": 8
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "sun": "full",
+    "water": "low",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {
+        "min": -9,
+        "max": -2
+      },
+      "note": "An early, cold-vigorous strain that can be sown later in fall than most rye and still establish."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 8
+    },
+    "directions": "Drill seed about one inch deep, taking advantage of this selection's fast fall growth in cool northern soils. It puts on more early biomass than common rye, making it useful for late plantings after corn or soybeans. Terminate by rolling or mowing at anthesis in spring for maximum residue and easy breakdown.",
+    "sources": [
+      "general horticultural reference"
+    ]
+  },
+  {
+    "slug": "wheeler-cereal-rye",
+    "common_name": "'Wheeler' Cereal Rye",
+    "scientific_name": "Secale cereale 'Wheeler'",
+    "category": "cover-crop",
+    "subcategory": "annual grass",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 34,
+      "max": 90
+    },
+    "days_to_maturity": {
+      "min": 205,
+      "max": 260
+    },
+    "spacing_in": {
+      "min": 1,
+      "max": 4
+    },
+    "height_in": {
+      "min": 40,
+      "max": 66
+    },
+    "spread_in": {
+      "min": 4,
+      "max": 8
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "sun": "full",
+    "water": "low",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -2
+      },
+      "note": "A widely grown forage-type rye valued for heavy spring growth."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 8
+    },
+    "directions": "Sow about one inch deep into a firm seedbed in fall for reliable winter cover. This variety is prized for tall, vigorous spring regrowth that smothers weeds and builds organic matter. Kill it at flowering before the stems become too woody to break down easily.",
+    "sources": [
+      "general horticultural reference"
+    ]
+  },
+  {
+    "slug": "elbon-cereal-rye",
+    "common_name": "'Elbon' Cereal Rye",
+    "scientific_name": "Secale cereale 'Elbon'",
+    "category": "cover-crop",
+    "subcategory": "annual grass",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 34,
+      "max": 90
+    },
+    "days_to_maturity": {
+      "min": 190,
+      "max": 245
+    },
+    "spacing_in": {
+      "min": 1,
+      "max": 4
+    },
+    "height_in": {
+      "min": 36,
+      "max": 60
+    },
+    "spread_in": {
+      "min": 4,
+      "max": 8
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "sun": "full",
+    "water": "low",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -1
+      },
+      "note": "A Southern-adapted rye often used to suppress root-knot nematodes in warm-region rotations."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 9
+    },
+    "directions": "Drill or broadcast about one inch deep in fall across the South and lower Midwest. Beyond winter cover it is planted to trap and reduce root-knot nematode populations ahead of vegetable crops. Mow or till under at heading in spring to capture the nematode-suppressing benefit and add residue.",
+    "sources": [
+      "general horticultural reference"
+    ]
+  },
+  {
+    "slug": "spring-wheat",
+    "common_name": "Spring Wheat",
+    "scientific_name": "Triticum aestivum",
+    "category": "cover-crop",
+    "subcategory": "annual grass",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 40,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 90
+    },
+    "spacing_in": {
+      "min": 1,
+      "max": 4
+    },
+    "height_in": {
+      "min": 30,
+      "max": 48
+    },
+    "spread_in": {
+      "min": 4,
+      "max": 8
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "sun": "full",
+    "water": "moderate",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": 2
+      },
+      "note": "Sow in early spring as soon as soil can be worked for a quick cool-season cover."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 9
+    },
+    "directions": "Drill about one inch deep in early spring while soils are still cool and moist. Used as a fast quick-cover or nurse crop, it heads out within a couple of months rather than needing a cold winter. Mow or incorporate at flowering before it produces mature seed.",
+    "sources": [
+      "general horticultural reference"
+    ]
+  },
+  {
+    "slug": "common-oats",
+    "common_name": "Common Oats",
+    "scientific_name": "Avena sativa",
+    "category": "cover-crop",
+    "subcategory": "annual grass",
+    "days_to_germination": {
+      "min": 6,
+      "max": 12
+    },
+    "germination_soil_temp_f": {
+      "min": 38,
+      "max": 80
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 90
+    },
+    "spacing_in": {
+      "min": 1,
+      "max": 4
+    },
+    "height_in": {
+      "min": 24,
+      "max": 48
+    },
+    "spread_in": {
+      "min": 4,
+      "max": 8
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "sun": "full",
+    "water": "moderate",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -5
+      },
+      "note": "Sow in late summer or early fall for a cover that winterkills in cold climates, or in early spring."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 9
+    },
+    "directions": "Broadcast or drill about one inch deep into moist soil for fast, weed-smothering establishment. In cold-winter regions fall oats grow quickly, then freeze out to leave an easy-to-plant mat of residue by spring. Where they survive, mow or till them under at flowering to prevent volunteers.",
+    "sources": [
+      "general horticultural reference"
+    ]
+  },
+  {
+    "slug": "black-oats",
+    "common_name": "Black Oats",
+    "scientific_name": "Avena strigosa",
+    "category": "cover-crop",
+    "subcategory": "annual grass",
+    "days_to_germination": {
+      "min": 6,
+      "max": 12
+    },
+    "germination_soil_temp_f": {
+      "min": 45,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 70,
+      "max": 100
+    },
+    "spacing_in": {
+      "min": 1,
+      "max": 4
+    },
+    "height_in": {
+      "min": 36,
+      "max": 60
+    },
+    "spread_in": {
+      "min": 4,
+      "max": 8
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "sun": "full",
+    "water": "moderate",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {
+        "min": -9,
+        "max": -5
+      },
+      "note": "Best sown late summer to early fall in mild-winter regions where it can grow through the cool season."
+    },
+    "usda_zones": {
+      "min": 6,
+      "max": 9
+    },
+    "directions": "Drill about one inch deep in fall in the South or in areas with mild winters. This species produces fine, deep roots and is grown to suppress nematodes and scavenge nutrients. Terminate at flowering by mowing or rolling before viable seed forms.",
+    "sources": [
+      "general horticultural reference"
+    ]
+  },
+  {
+    "slug": "cosaque-black-oats",
+    "common_name": "'Cosaque' Black Oats",
+    "scientific_name": "Avena strigosa 'Cosaque'",
+    "category": "cover-crop",
+    "subcategory": "annual grass",
+    "days_to_germination": {
+      "min": 6,
+      "max": 12
+    },
+    "germination_soil_temp_f": {
+      "min": 45,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 70,
+      "max": 100
+    },
+    "spacing_in": {
+      "min": 1,
+      "max": 4
+    },
+    "height_in": {
+      "min": 40,
+      "max": 64
+    },
+    "spread_in": {
+      "min": 4,
+      "max": 8
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "sun": "full",
+    "water": "moderate",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {
+        "min": -9,
+        "max": -5
+      },
+      "note": "A named black-oat selection valued for vigorous cool-season growth and nematode suppression."
+    },
+    "usda_zones": {
+      "min": 6,
+      "max": 9
+    },
+    "directions": "Sow about one inch deep in fall into a firm, moist seedbed. This selection grows tall and fast in cool weather, building biomass while its roots reduce harmful nematodes. Mow or roll at flowering to lay down a protective residue mulch.",
+    "sources": [
+      "general horticultural reference"
+    ]
+  },
+  {
+    "slug": "spring-barley",
+    "common_name": "Spring Barley",
+    "scientific_name": "Hordeum vulgare",
+    "category": "cover-crop",
+    "subcategory": "annual grass",
+    "days_to_germination": {
+      "min": 6,
+      "max": 12
+    },
+    "germination_soil_temp_f": {
+      "min": 38,
+      "max": 80
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 90
+    },
+    "spacing_in": {
+      "min": 1,
+      "max": 4
+    },
+    "height_in": {
+      "min": 24,
+      "max": 42
+    },
+    "spread_in": {
+      "min": 4,
+      "max": 8
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "sun": "full",
+    "water": "low",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -5,
+        "max": 1
+      },
+      "note": "Sow in early spring as soon as the ground is workable for a fast cool-season cover."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 8
+    },
+    "directions": "Drill about one inch deep in early spring, favoring well-drained ground since barley dislikes wet feet. It establishes quickly, tolerates salty and dry soils better than other cereals, and smothers early weeds. Mow or incorporate at heading before seed matures.",
+    "sources": [
+      "general horticultural reference"
+    ]
+  },
+  {
+    "slug": "triticale",
+    "common_name": "Triticale",
+    "scientific_name": "× Triticosecale",
+    "category": "cover-crop",
+    "subcategory": "annual grass",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 38,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 205,
+      "max": 255
+    },
+    "spacing_in": {
+      "min": 1,
+      "max": 4
+    },
+    "height_in": {
+      "min": 36,
+      "max": 60
+    },
+    "spread_in": {
+      "min": 4,
+      "max": 8
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "sun": "full",
+    "water": "moderate",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {
+        "min": -7,
+        "max": -2
+      },
+      "note": "A wheat-rye hybrid sown in fall that combines rye's hardiness with wheat's manageable residue."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 8
+    },
+    "directions": "Drill about one inch deep into a firm fall seedbed for a hardy, productive winter cover. This hybrid bridges rye and wheat, giving strong cold tolerance with residue that breaks down more readily than pure rye. Kill it at flowering in spring by rolling, mowing, or tillage.",
+    "sources": [
+      "general horticultural reference"
+    ]
+  },
+  {
+    "slug": "marshall-annual-ryegrass",
+    "common_name": "'Marshall' Annual Ryegrass",
+    "scientific_name": "Lolium multiflorum 'Marshall'",
+    "category": "cover-crop",
+    "subcategory": "annual grass",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 40,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 150,
+      "max": 220
+    },
+    "spacing_in": {
+      "min": 1,
+      "max": 3
+    },
+    "height_in": {
+      "min": 18,
+      "max": 36
+    },
+    "spread_in": {
+      "min": 3,
+      "max": 6
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "sun": "full",
+    "water": "moderate",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -4
+      },
+      "note": "A cold-tolerant annual ryegrass selection popular for fall seeding in the transition zone."
+    },
+    "usda_zones": {
+      "min": 6,
+      "max": 9
+    },
+    "directions": "Sow no deeper than a half inch into moist soil in early fall for quick, dense establishment. This variety is bred for improved winter hardiness and strong regrowth, making reliable cover across a wide region. Terminate at the boot stage in early spring before it heads and reseeds.",
+    "sources": [
+      "general horticultural reference"
+    ]
+  },
+  {
+    "slug": "gulf-annual-ryegrass",
+    "common_name": "'Gulf' Annual Ryegrass",
+    "scientific_name": "Lolium multiflorum 'Gulf'",
+    "category": "cover-crop",
+    "subcategory": "annual grass",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 45,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 150,
+      "max": 210
+    },
+    "spacing_in": {
+      "min": 1,
+      "max": 3
+    },
+    "height_in": {
+      "min": 18,
+      "max": 36
+    },
+    "spread_in": {
+      "min": 3,
+      "max": 6
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "sun": "full",
+    "water": "moderate",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {
+        "min": -9,
+        "max": -4
+      },
+      "note": "A classic Southern-adapted ryegrass for fall overseeding and quick winter cover."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 10
+    },
+    "directions": "Broadcast shallowly into moist fall soil in warm-winter regions for rapid green cover. It grows fast through the cool season, protecting soil and taking up excess nutrients, but is less cold-hardy than northern selections. Mow or till at the boot stage in spring before seed set.",
+    "sources": [
+      "general horticultural reference"
+    ]
+  },
+  {
+    "slug": "sorghum-sudangrass-2",
+    "common_name": "Sorghum-Sudangrass",
+    "scientific_name": "Sorghum bicolor × S. bicolor var. sudanense",
+    "category": "cover-crop",
+    "subcategory": "warm-season annual grass",
+    "days_to_germination": {
+      "min": 4,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 95
+    },
+    "days_to_maturity": {
+      "min": 45,
+      "max": 75
+    },
+    "spacing_in": {
+      "min": 2,
+      "max": 8
+    },
+    "height_in": {
+      "min": 60,
+      "max": 144
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 24
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "sun": "full",
+    "water": "moderate",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 1,
+        "max": 6
+      },
+      "note": "Sow only after all frost danger has passed and the soil has warmed well above 60 F."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 11
+    },
+    "directions": "Drill or broadcast seed about one inch deep into warm, firm soil at roughly 35 to 50 pounds per acre. This vigorous hybrid smothers weeds fast and responds to nitrogen with rapid, tall growth. Mow when plants reach three to four feet to trigger dense tillering and deep root channeling; terminate before hard frost to avoid prussic-acid risk in forage.",
+    "sources": [
+      "general horticultural reference"
+    ]
+  },
+  {
+    "slug": "piper-sudangrass",
+    "common_name": "Piper Sudangrass",
+    "scientific_name": "Sorghum × drummondii 'Piper'",
+    "category": "cover-crop",
+    "subcategory": "warm-season annual grass",
+    "days_to_germination": {
+      "min": 4,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 95
+    },
+    "days_to_maturity": {
+      "min": 45,
+      "max": 70
+    },
+    "spacing_in": {
+      "min": 2,
+      "max": 8
+    },
+    "height_in": {
+      "min": 48,
+      "max": 96
+    },
+    "spread_in": {
+      "min": 10,
+      "max": 20
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "sun": "full",
+    "water": "moderate",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 1,
+        "max": 6
+      },
+      "note": "Plant into warm soil once nights stay reliably mild after the last frost."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 11
+    },
+    "directions": "Sow one inch deep at about 25 to 40 pounds per acre once soil warms. Piper is a lower-prussic-acid selection prized for quick summer biomass and fine, easily managed stems. Clip at knee height to encourage regrowth and thick weed-suppressing cover; work residue in or roll it before the first freeze.",
+    "sources": [
+      "general horticultural reference"
+    ]
+  },
+  {
+    "slug": "forage-sorghum",
+    "common_name": "Forage Sorghum",
+    "scientific_name": "Sorghum bicolor",
+    "category": "cover-crop",
+    "subcategory": "warm-season annual grass",
+    "days_to_germination": {
+      "min": 4,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 95
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 100
+    },
+    "spacing_in": {
+      "min": 3,
+      "max": 10
+    },
+    "height_in": {
+      "min": 48,
+      "max": 120
+    },
+    "spread_in": {
+      "min": 10,
+      "max": 24
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "sun": "full",
+    "water": "low",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 1,
+        "max": 6
+      },
+      "note": "Direct-sow into warm soil after frost, when daytime temperatures are consistently high."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 11
+    },
+    "directions": "Plant seed about one inch deep into a warm, firm seedbed. Deeply rooted and notably drought-hardy, it builds large amounts of carbon-rich residue on marginal ground. Let it grow tall through summer for maximum biomass, then mow or crimp and incorporate the coarse stalks before winter.",
+    "sources": [
+      "general horticultural reference"
+    ]
+  },
+  {
+    "slug": "tifleaf-3-pearl-millet",
+    "common_name": "Tifleaf 3 Pearl Millet",
+    "scientific_name": "Pennisetum glaucum 'Tifleaf 3'",
+    "category": "cover-crop",
+    "subcategory": "warm-season annual grass",
+    "days_to_germination": {
+      "min": 3,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 95
+    },
+    "days_to_maturity": {
+      "min": 55,
+      "max": 85
+    },
+    "spacing_in": {
+      "min": 2,
+      "max": 8
+    },
+    "height_in": {
+      "min": 48,
+      "max": 108
+    },
+    "spread_in": {
+      "min": 10,
+      "max": 20
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "sun": "full",
+    "water": "low",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 1,
+        "max": 6
+      },
+      "note": "Direct-sow into warm soil after frost for fast summer establishment."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 11
+    },
+    "directions": "Sow about a half inch deep into warm ground at roughly 15 to 25 pounds per acre. This leafy, fine-stemmed hybrid regrows strongly after clipping and tolerates drought and acid soils. Graze or mow at two to three feet to hold it in a lush vegetative state; residue breaks down quickly after frost kill.",
+    "sources": [
+      "general horticultural reference"
+    ]
+  },
+  {
+    "slug": "browntop-millet",
+    "common_name": "Browntop Millet",
+    "scientific_name": "Urochloa ramosa",
+    "category": "cover-crop",
+    "subcategory": "warm-season annual grass",
+    "days_to_germination": {
+      "min": 4,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 90
+    },
+    "days_to_maturity": {
+      "min": 55,
+      "max": 75
+    },
+    "spacing_in": {
+      "min": 2,
+      "max": 6
+    },
+    "height_in": {
+      "min": 24,
+      "max": 48
+    },
+    "spread_in": {
+      "min": 6,
+      "max": 14
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "sun": "full",
+    "water": "low",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 1,
+        "max": 8
+      },
+      "note": "Sow into warm soil after frost; it germinates fast and covers ground quickly."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 11
+    },
+    "directions": "Broadcast or drill seed about a half inch deep at roughly 15 to 25 pounds per acre. Browntop is a very quick, short-season cover popular for erosion control and dove and quail plots across the warm South. Use it to knock back weeds in a tight rotation window and mow or till under once it browns; frost finishes the stand.",
+    "sources": [
+      "general horticultural reference"
+    ]
+  },
+  {
+    "slug": "egyptian-wheat",
+    "common_name": "Egyptian Wheat",
+    "scientific_name": "Sorghum bicolor 'Egyptian'",
+    "category": "cover-crop",
+    "subcategory": "warm-season annual grass",
+    "days_to_germination": {
+      "min": 5,
+      "max": 12
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 95
+    },
+    "days_to_maturity": {
+      "min": 70,
+      "max": 110
+    },
+    "spacing_in": {
+      "min": 4,
+      "max": 12
+    },
+    "height_in": {
+      "min": 72,
+      "max": 144
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 24
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "sun": "full",
+    "water": "low",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 1,
+        "max": 6
+      },
+      "note": "Sow into warm soil after frost where a tall summer screen or windbreak is wanted."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 11
+    },
+    "directions": "Plant seed about one inch deep into warm soil, in rows or bands where a living screen is useful. This tall, cane-like sorghum is grown as a summer cover and wildlife screen that stands well into fall. Let it reach full height for maximum cover and seed, then mow or crimp the coarse stalks before winter for slow-releasing residue.",
+    "sources": [
+      "general horticultural reference"
+    ]
+  },
+  {
+    "slug": "bmr-sorghum-sudangrass",
+    "common_name": "BMR Sorghum-Sudangrass",
+    "scientific_name": "Sorghum bicolor × S. bicolor var. sudanense",
+    "category": "cover-crop",
+    "subcategory": "warm-season annual grass",
+    "days_to_germination": {
+      "min": 4,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 95
+    },
+    "days_to_maturity": {
+      "min": 45,
+      "max": 75
+    },
+    "spacing_in": {
+      "min": 2,
+      "max": 8
+    },
+    "height_in": {
+      "min": 60,
+      "max": 132
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 24
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "sun": "full",
+    "water": "moderate",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 1,
+        "max": 6
+      },
+      "note": "Sow after frost into warm soil for rapid biomass and soil conditioning."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 11
+    },
+    "directions": "Drill or broadcast seed about one inch deep at roughly 35 to 50 pounds per acre once soil is warm. The brown-midrib trait gives softer, lower-lignin stems that break down faster after termination while still producing heavy biomass. Mow at three to four feet to force tillering and deep rooting, then crimp or till the residue before hard frost.",
+    "sources": [
+      "general horticultural reference"
+    ]
+  },
+  {
+    "slug": "groundhog-forage-radish",
+    "common_name": "Groundhog Forage Radish",
+    "scientific_name": "Raphanus sativus 'Groundhog'",
+    "category": "cover-crop",
+    "subcategory": "broadleaf annual",
+    "days_to_germination": {
+      "min": 3,
+      "max": 7
+    },
+    "germination_soil_temp_f": {
+      "min": 45,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 45,
+      "max": 60
+    },
+    "spacing_in": {
+      "min": 2,
+      "max": 6
+    },
+    "height_in": {
+      "min": 10,
+      "max": 30
+    },
+    "spread_in": {
+      "min": 6,
+      "max": 12
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "sun": "full",
+    "water": "moderate",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -4
+      },
+      "note": "Drill in late summer so the taproot bulks before a hard freeze winterkills it."
+    },
+    "usda_zones": {
+      "min": 2,
+      "max": 9
+    },
+    "directions": "Broadcast or drill seed about a half inch deep into a firm seedbed from late summer into early fall. The thick taproot drills deep to shatter compaction and scavenge nitrogen, then rots away over winter to leave open channels. Terminate by simply letting a hard frost kill the stand, or mow before the plants flower in spring.",
+    "sources": [
+      "general horticultural reference"
+    ]
+  },
+  {
+    "slug": "daikon-tillage-radish-2",
+    "common_name": "Daikon Tillage Radish",
+    "scientific_name": "Raphanus sativus var. longipinnatus",
+    "category": "cover-crop",
+    "subcategory": "broadleaf annual",
+    "days_to_germination": {
+      "min": 3,
+      "max": 8
+    },
+    "germination_soil_temp_f": {
+      "min": 45,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 50,
+      "max": 65
+    },
+    "spacing_in": {
+      "min": 2,
+      "max": 6
+    },
+    "height_in": {
+      "min": 10,
+      "max": 28
+    },
+    "spread_in": {
+      "min": 6,
+      "max": 12
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "sun": "full",
+    "water": "moderate",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {
+        "min": -9,
+        "max": -5
+      },
+      "note": "Sow in late summer for maximum fall root growth before killing frost."
+    },
+    "usda_zones": {
+      "min": 2,
+      "max": 9
+    },
+    "directions": "Drill seed a half inch deep at roughly six to ten pounds per acre once soils are warm in late summer. The long white taproot bores through hardpan and lifts nutrients from deep in the profile. Most stands winterkill in cold regions, leaving a mellow, easily worked seedbed the following spring.",
+    "sources": [
+      "general horticultural reference"
+    ]
+  },
+  {
+    "slug": "oilseed-radish",
+    "common_name": "Oilseed Radish",
+    "scientific_name": "Raphanus sativus var. oleiformis",
+    "category": "cover-crop",
+    "subcategory": "broadleaf annual",
+    "days_to_germination": {
+      "min": 3,
+      "max": 7
+    },
+    "germination_soil_temp_f": {
+      "min": 45,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 50,
+      "max": 70
+    },
+    "spacing_in": {
+      "min": 2,
+      "max": 5
+    },
+    "height_in": {
+      "min": 12,
+      "max": 36
+    },
+    "spread_in": {
+      "min": 6,
+      "max": 12
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "sun": "full",
+    "water": "moderate",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -4
+      },
+      "note": "Plant late summer to build fibrous roots and biofumigant biomass before frost."
+    },
+    "usda_zones": {
+      "min": 2,
+      "max": 9
+    },
+    "directions": "Broadcast or drill a half inch deep into a firm bed in late summer. This fast, fibrous-rooted type smothers weeds and its tissue suppresses certain soil nematodes when incorporated. Let a hard freeze terminate the crop, or till it in green before it bolts in spring.",
+    "sources": [
+      "general horticultural reference"
+    ]
+  },
+  {
+    "slug": "pacific-gold-mustard",
+    "common_name": "Pacific Gold Mustard",
+    "scientific_name": "Brassica juncea 'Pacific Gold'",
+    "category": "cover-crop",
+    "subcategory": "broadleaf annual",
+    "days_to_germination": {
+      "min": 3,
+      "max": 7
+    },
+    "germination_soil_temp_f": {
+      "min": 45,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 45,
+      "max": 65
+    },
+    "spacing_in": {
+      "min": 1,
+      "max": 4
+    },
+    "height_in": {
+      "min": 24,
+      "max": 60
+    },
+    "spread_in": {
+      "min": 6,
+      "max": 12
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "sun": "full",
+    "water": "moderate",
+    "planting": {
+      "anchor": "soil_workable",
+      "weeks_from_anchor": {
+        "min": -2,
+        "max": 4
+      },
+      "note": "Sow early spring or late summer to build high-glucosinolate biomass for biofumigation."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 10
+    },
+    "directions": "Drill or broadcast a quarter to half inch deep into a firm, moist bed. This brown mustard is bred for high glucosinolate content, so chopping and immediately incorporating the green tissue maximizes its natural soil-fumigant action. Flail and till in at first bloom, then water to seal the residue and activate the effect.",
+    "sources": [
+      "general horticultural reference"
+    ]
+  },
+  {
+    "slug": "kodiak-brown-mustard",
+    "common_name": "Kodiak Brown Mustard",
+    "scientific_name": "Brassica juncea 'Kodiak'",
+    "category": "cover-crop",
+    "subcategory": "broadleaf annual",
+    "days_to_germination": {
+      "min": 3,
+      "max": 7
+    },
+    "germination_soil_temp_f": {
+      "min": 45,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 45,
+      "max": 65
+    },
+    "spacing_in": {
+      "min": 1,
+      "max": 4
+    },
+    "height_in": {
+      "min": 24,
+      "max": 60
+    },
+    "spread_in": {
+      "min": 6,
+      "max": 12
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "sun": "full",
+    "water": "moderate",
+    "planting": {
+      "anchor": "soil_workable",
+      "weeks_from_anchor": {
+        "min": -2,
+        "max": 4
+      },
+      "note": "Sow in cool weather for rapid biomass and biofumigant residue."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 10
+    },
+    "directions": "Sow a quarter to half inch deep into firm soil during spring or late summer. This vigorous brown mustard produces heavy leafy biomass valued for weed suppression and biofumigation. Mow and incorporate at early flowering while the tissue is still green and tender.",
+    "sources": [
+      "general horticultural reference"
+    ]
+  },
+  {
+    "slug": "dwarf-essex-rape",
+    "common_name": "Dwarf Essex Rape",
+    "scientific_name": "Brassica napus 'Dwarf Essex'",
+    "category": "cover-crop",
+    "subcategory": "broadleaf annual",
+    "days_to_germination": {
+      "min": 4,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 45,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 90
+    },
+    "spacing_in": {
+      "min": 2,
+      "max": 6
+    },
+    "height_in": {
+      "min": 18,
+      "max": 48
+    },
+    "spread_in": {
+      "min": 8,
+      "max": 16
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "sun": "full",
+    "water": "moderate",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {
+        "min": -10,
+        "max": -6
+      },
+      "note": "Sow late summer for fall forage and cover; tolerates repeated frost."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 9
+    },
+    "directions": "Drill or broadcast a quarter to half inch deep into a firm bed in late summer. This old, hardy forage rape produces abundant leafy biomass that holds well into cold weather for grazing or green manure. Graze or incorporate before spring bolting, when the leaves are lush and the stems still soft.",
+    "sources": [
+      "general horticultural reference"
+    ]
+  },
+  {
+    "slug": "rapeseed-cover-crop",
+    "common_name": "Rapeseed Cover Crop",
+    "scientific_name": "Brassica napus",
+    "category": "cover-crop",
+    "subcategory": "broadleaf annual",
+    "days_to_germination": {
+      "min": 4,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 45,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 95
+    },
+    "spacing_in": {
+      "min": 2,
+      "max": 6
+    },
+    "height_in": {
+      "min": 24,
+      "max": 60
+    },
+    "spread_in": {
+      "min": 8,
+      "max": 16
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "sun": "full",
+    "water": "moderate",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {
+        "min": -10,
+        "max": -6
+      },
+      "note": "Sow late summer; winter types overwinter in milder zones for spring biomass."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 9
+    },
+    "directions": "Drill a quarter to half inch deep into a firm, moist seedbed in late summer. Rapeseed builds a strong taproot that loosens soil and scavenges nitrogen, and winter-hardy types green up early for spring grazing or plowdown. Terminate by tillage or mowing at early bloom.",
+    "sources": [
+      "general horticultural reference"
+    ]
+  },
+  {
+    "slug": "purple-top-forage-turnip",
+    "common_name": "Purple Top Forage Turnip",
+    "scientific_name": "Brassica rapa 'Purple Top White Globe'",
+    "category": "cover-crop",
+    "subcategory": "broadleaf annual",
+    "days_to_germination": {
+      "min": 3,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 45,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 90
+    },
+    "spacing_in": {
+      "min": 2,
+      "max": 6
+    },
+    "height_in": {
+      "min": 12,
+      "max": 24
+    },
+    "spread_in": {
+      "min": 6,
+      "max": 12
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "sun": "full",
+    "water": "moderate",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {
+        "min": -10,
+        "max": -6
+      },
+      "note": "Sow late summer so both tops and roots bulk for fall grazing."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 9
+    },
+    "directions": "Broadcast or drill a quarter to half inch deep into a firm bed in mid to late summer. This dual-purpose turnip yields leafy tops and a globe-shaped root that both serve as fall and winter forage. Strip-graze in stages, or let frost soften the roots before turning livestock in.",
+    "sources": [
+      "general horticultural reference"
+    ]
+  },
+  {
+    "slug": "appin-forage-turnip",
+    "common_name": "Appin Forage Turnip",
+    "scientific_name": "Brassica rapa 'Appin'",
+    "category": "cover-crop",
+    "subcategory": "broadleaf annual",
+    "days_to_germination": {
+      "min": 3,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 45,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 55,
+      "max": 85
+    },
+    "spacing_in": {
+      "min": 2,
+      "max": 6
+    },
+    "height_in": {
+      "min": 12,
+      "max": 24
+    },
+    "spread_in": {
+      "min": 6,
+      "max": 12
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "sun": "full",
+    "water": "moderate",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {
+        "min": -10,
+        "max": -6
+      },
+      "note": "Sow late summer; the leafy tops regrow well after grazing."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 9
+    },
+    "directions": "Drill or broadcast a quarter to half inch deep into a firm seedbed. Appin is a leafy turnip type bred to regrow after grazing, giving multiple bites of high-quality fall forage. Begin grazing once plants reach several inches of leaf, leaving a stubble so the crown can push new growth.",
+    "sources": [
+      "general horticultural reference"
+    ]
+  },
+  {
+    "slug": "barkant-forage-turnip",
+    "common_name": "Barkant Forage Turnip",
+    "scientific_name": "Brassica rapa 'Barkant'",
+    "category": "cover-crop",
+    "subcategory": "broadleaf annual",
+    "days_to_germination": {
+      "min": 3,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 45,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 90
+    },
+    "spacing_in": {
+      "min": 2,
+      "max": 6
+    },
+    "height_in": {
+      "min": 12,
+      "max": 24
+    },
+    "spread_in": {
+      "min": 6,
+      "max": 14
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "sun": "full",
+    "water": "moderate",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {
+        "min": -10,
+        "max": -6
+      },
+      "note": "Sow late summer; produces a large tankard root plus leafy tops."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 9
+    },
+    "directions": "Broadcast or drill a quarter to half inch deep into a firm bed in mid to late summer. Barkant is a high-yielding, purple tankard turnip that pushes part of its root above ground for easy grazing. Turn stock in once tops and bulbs have sized up, and strip-graze to reduce waste.",
+    "sources": [
+      "general horticultural reference"
+    ]
+  },
+  {
+    "slug": "pasja-leafy-turnip",
+    "common_name": "Pasja Leafy Turnip",
+    "scientific_name": "Brassica rapa 'Pasja'",
+    "category": "cover-crop",
+    "subcategory": "broadleaf annual",
+    "days_to_germination": {
+      "min": 3,
+      "max": 8
+    },
+    "germination_soil_temp_f": {
+      "min": 45,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 40,
+      "max": 70
+    },
+    "spacing_in": {
+      "min": 2,
+      "max": 6
+    },
+    "height_in": {
+      "min": 10,
+      "max": 22
+    },
+    "spread_in": {
+      "min": 6,
+      "max": 12
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "sun": "full",
+    "water": "moderate",
+    "planting": {
+      "anchor": "soil_workable",
+      "weeks_from_anchor": {
+        "min": -2,
+        "max": 8
+      },
+      "note": "Fast leafy hybrid for quick, multi-graze forage; sow spring through late summer."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 9
+    },
+    "directions": "Drill or broadcast a quarter to half inch deep into a firm seedbed. Pasja is a fast-establishing leafy hybrid brassica that produces little root but abundant regrowing foliage. It is ready to graze quickly and rebounds after each pass, making it ideal for short-rotation forage and quick soil cover.",
+    "sources": [
+      "general horticultural reference"
+    ]
+  },
+  {
+    "slug": "winfred-forage-brassica",
+    "common_name": "Winfred Forage Brassica",
+    "scientific_name": "Brassica napus 'Winfred'",
+    "category": "cover-crop",
+    "subcategory": "broadleaf annual",
+    "days_to_germination": {
+      "min": 4,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 45,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 70,
+      "max": 100
+    },
+    "spacing_in": {
+      "min": 2,
+      "max": 6
+    },
+    "height_in": {
+      "min": 18,
+      "max": 40
+    },
+    "spread_in": {
+      "min": 8,
+      "max": 16
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "sun": "full",
+    "water": "moderate",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {
+        "min": -12,
+        "max": -8
+      },
+      "note": "A rape-kale hybrid; sow late summer for hardy, late-season forage."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 9
+    },
+    "directions": "Drill a quarter to half inch deep into a firm bed in mid to late summer. Winfred is a rape-kale cross that combines quick establishment with strong cold tolerance and good regrowth. Graze once plants are well established, leaving stubble for regrowth, and it holds feed value into cold weather.",
+    "sources": [
+      "general horticultural reference"
+    ]
+  },
+  {
+    "slug": "barsica-forage-rape",
+    "common_name": "Barsica Forage Rape",
+    "scientific_name": "Brassica napus 'Barsica'",
+    "category": "cover-crop",
+    "subcategory": "broadleaf annual",
+    "days_to_germination": {
+      "min": 4,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 45,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 50,
+      "max": 80
+    },
+    "spacing_in": {
+      "min": 2,
+      "max": 6
+    },
+    "height_in": {
+      "min": 18,
+      "max": 36
+    },
+    "spread_in": {
+      "min": 8,
+      "max": 14
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "sun": "full",
+    "water": "moderate",
+    "planting": {
+      "anchor": "soil_workable",
+      "weeks_from_anchor": {
+        "min": -2,
+        "max": 8
+      },
+      "note": "Fast leafy rape for quick regrowing forage; sow spring or late summer."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 9
+    },
+    "directions": "Broadcast or drill a quarter to half inch deep into a firm seedbed. Barsica is a leafy forage rape prized for rapid establishment and vigorous regrowth after grazing. Start grazing at about six to eight inches of growth, and allow rest between passes so the crop can rebound.",
+    "sources": [
+      "general horticultural reference"
+    ]
+  },
+  {
+    "slug": "ethiopian-mustard-carinata",
+    "common_name": "Ethiopian Mustard (Carinata)",
+    "scientific_name": "Brassica carinata",
+    "category": "cover-crop",
+    "subcategory": "broadleaf annual",
+    "days_to_germination": {
+      "min": 4,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 50,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 95
+    },
+    "spacing_in": {
+      "min": 2,
+      "max": 6
+    },
+    "height_in": {
+      "min": 24,
+      "max": 72
+    },
+    "spread_in": {
+      "min": 8,
+      "max": 16
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "sun": "full",
+    "water": "moderate",
+    "planting": {
+      "anchor": "soil_workable",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 6
+      },
+      "note": "Heat-tolerant mustard; sow in spring or in warm-region winters."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 11
+    },
+    "directions": "Drill a quarter to half inch deep into a firm, warm seedbed. Carinata is more heat- and drought-tolerant than most mustards and produces tall, leafy biomass useful for weed suppression and biofumigation. Incorporate the green tissue at early flowering to capture its soil-conditioning value.",
+    "sources": [
+      "general horticultural reference"
+    ]
+  },
+  {
+    "slug": "field-mustard",
+    "common_name": "Field Mustard",
+    "scientific_name": "Brassica rapa var. rapa",
+    "category": "cover-crop",
+    "subcategory": "broadleaf annual",
+    "days_to_germination": {
+      "min": 3,
+      "max": 8
+    },
+    "germination_soil_temp_f": {
+      "min": 45,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 40,
+      "max": 70
+    },
+    "spacing_in": {
+      "min": 1,
+      "max": 4
+    },
+    "height_in": {
+      "min": 18,
+      "max": 48
+    },
+    "spread_in": {
+      "min": 6,
+      "max": 12
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "sun": "full",
+    "water": "moderate",
+    "planting": {
+      "anchor": "soil_workable",
+      "weeks_from_anchor": {
+        "min": -2,
+        "max": 6
+      },
+      "note": "Quick cool-season broadleaf; sow spring or late summer."
+    },
+    "usda_zones": {
+      "min": 2,
+      "max": 10
+    },
+    "directions": "Broadcast or drill a quarter to half inch deep into a firm bed. Field mustard establishes fast, flowers early, and provides quick ground cover and pollinator forage. Mow or incorporate before it sets seed to add organic matter and avoid volunteer plants.",
+    "sources": [
+      "general horticultural reference"
+    ]
+  },
+  {
+    "slug": "forage-rutabaga",
+    "common_name": "Forage Rutabaga",
+    "scientific_name": "Brassica napus var. napobrassica",
+    "category": "cover-crop",
+    "subcategory": "broadleaf annual",
+    "days_to_germination": {
+      "min": 4,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 45,
+      "max": 80
+    },
+    "days_to_maturity": {
+      "min": 80,
+      "max": 110
+    },
+    "spacing_in": {
+      "min": 4,
+      "max": 8
+    },
+    "height_in": {
+      "min": 12,
+      "max": 24
+    },
+    "spread_in": {
+      "min": 8,
+      "max": 14
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "sun": "full",
+    "water": "moderate",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {
+        "min": -14,
+        "max": -10
+      },
+      "note": "Slower-maturing than turnip; sow mid-summer for large winter storage roots."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 9
+    },
+    "directions": "Drill or broadcast a quarter to half inch deep into a firm bed in early to mid summer, allowing a long season for the roots to bulk. Rutabaga forms a dense, cold-hardy storage root that holds feed value through hard frost for late-winter grazing. Strip-graze standing roots, or lift them for stored winter feed.",
+    "sources": [
+      "general horticultural reference"
+    ]
+  },
+  {
+    "slug": "hunter-forage-brassica",
+    "common_name": "Hunter Forage Brassica",
+    "scientific_name": "Brassica napus 'Hunter'",
+    "category": "cover-crop",
+    "subcategory": "broadleaf annual",
+    "days_to_germination": {
+      "min": 4,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 45,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 45,
+      "max": 75
+    },
+    "spacing_in": {
+      "min": 2,
+      "max": 6
+    },
+    "height_in": {
+      "min": 14,
+      "max": 30
+    },
+    "spread_in": {
+      "min": 8,
+      "max": 14
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "sun": "full",
+    "water": "moderate",
+    "planting": {
+      "anchor": "soil_workable",
+      "weeks_from_anchor": {
+        "min": -2,
+        "max": 8
+      },
+      "note": "Fast leafy hybrid brassica for quick, multi-graze forage."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 9
+    },
+    "directions": "Drill or broadcast a quarter to half inch deep into a firm seedbed. Hunter is a fast-growing leafy hybrid that can be grazed within weeks and regrows for several rotations. Graze at about eight to ten inches, leaving stubble so the plants can rebound for the next pass.",
+    "sources": [
+      "general horticultural reference"
+    ]
+  },
+  {
+    "slug": "yellow-mustard",
+    "common_name": "Yellow Mustard",
+    "scientific_name": "Sinapis alba 'Braco'",
+    "category": "cover-crop",
+    "subcategory": "broadleaf annual",
+    "days_to_germination": {
+      "min": 3,
+      "max": 7
+    },
+    "germination_soil_temp_f": {
+      "min": 45,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 40,
+      "max": 60
+    },
+    "spacing_in": {
+      "min": 1,
+      "max": 4
+    },
+    "height_in": {
+      "min": 24,
+      "max": 54
+    },
+    "spread_in": {
+      "min": 6,
+      "max": 12
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "sun": "full",
+    "water": "moderate",
+    "planting": {
+      "anchor": "soil_workable",
+      "weeks_from_anchor": {
+        "min": -2,
+        "max": 4
+      },
+      "note": "Fast white-mustard type; sow early spring or late summer for quick cover."
+    },
+    "usda_zones": {
+      "min": 2,
+      "max": 10
+    },
+    "directions": "Broadcast or drill a quarter to half inch deep into a firm seedbed in cool weather. This vigorous white-mustard selection establishes fast, smothers weeds, and produces biofumigant residue. Mow and incorporate at early bloom, before seed forms, to sidestep volunteers.",
+    "sources": [
+      "general horticultural reference"
+    ]
+  },
+  {
+    "slug": "oriental-mustard",
+    "common_name": "Oriental Mustard",
+    "scientific_name": "Brassica juncea var. juncea",
+    "category": "cover-crop",
+    "subcategory": "broadleaf annual",
+    "days_to_germination": {
+      "min": 3,
+      "max": 8
+    },
+    "germination_soil_temp_f": {
+      "min": 45,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 45,
+      "max": 70
+    },
+    "spacing_in": {
+      "min": 1,
+      "max": 4
+    },
+    "height_in": {
+      "min": 24,
+      "max": 60
+    },
+    "spread_in": {
+      "min": 6,
+      "max": 14
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "sun": "full",
+    "water": "moderate",
+    "planting": {
+      "anchor": "soil_workable",
+      "weeks_from_anchor": {
+        "min": -2,
+        "max": 4
+      },
+      "note": "High-glucosinolate mustard grown for biofumigation; sow in cool weather."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 10
+    },
+    "directions": "Drill or broadcast a quarter to half inch deep into a firm bed during spring or late summer. Oriental mustard grows quickly and its finely chopped, incorporated tissue releases natural fumigant compounds that suppress soilborne pests. Flail-mow and immediately till in at first flower, then irrigate to seal the residue.",
+    "sources": [
+      "general horticultural reference"
+    ]
+  },
+  {
+    "slug": "buckwheat-mancan",
+    "common_name": "Buckwheat 'Mancan'",
+    "scientific_name": "Fagopyrum esculentum 'Mancan'",
+    "category": "cover-crop",
+    "subcategory": "broadleaf annual",
+    "days_to_germination": {
+      "min": 3,
+      "max": 6
+    },
+    "germination_soil_temp_f": {
+      "min": 45,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 35,
+      "max": 45
+    },
+    "spacing_in": {
+      "min": 2,
+      "max": 4
+    },
+    "height_in": {
+      "min": 30,
+      "max": 50
+    },
+    "spread_in": {
+      "min": 6,
+      "max": 12
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "sun": "full",
+    "water": "moderate",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 10
+      },
+      "note": "Plant in warm soil after frost danger passes; this large-seeded type establishes vigorously in summer gaps."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 10
+    },
+    "directions": "Sow seed roughly three quarters of an inch deep at a heavy broadcast rate for fast canopy closure. This vigorous cultivar builds bulk quickly and tolerates low-fertility ground while scavenging phosphorus. Knock it down at the first flush of bloom to add green matter and stop reseeding.",
+    "sources": [
+      "general horticultural reference"
+    ]
+  },
+  {
+    "slug": "common-flax",
+    "common_name": "Common Flax",
+    "scientific_name": "Linum usitatissimum",
+    "category": "cover-crop",
+    "subcategory": "broadleaf annual",
+    "days_to_germination": {
+      "min": 3,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 40,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 45,
+      "max": 60
+    },
+    "spacing_in": {
+      "min": 1,
+      "max": 3
+    },
+    "height_in": {
+      "min": 24,
+      "max": 40
+    },
+    "spread_in": {
+      "min": 3,
+      "max": 8
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "sun": "full",
+    "water": "moderate",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -3,
+        "max": 3
+      },
+      "note": "Drill into cool, firm spring soil; young seedlings shrug off light frost."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 9
+    },
+    "directions": "Sow shallowly, about a half inch deep, at a dense rate so the fine slender stems support one another. Pale blue flowers open in the morning and the plant grows quickly in cool weather. Cut or incorporate the stand while it is still green and flowering for an easy-to-manage residue.",
+    "sources": [
+      "general horticultural reference"
+    ]
+  },
+  {
+    "slug": "forage-radish-2",
+    "common_name": "Forage Radish",
+    "scientific_name": "Raphanus sativus",
+    "category": "cover-crop",
+    "subcategory": "broadleaf brassica",
+    "days_to_germination": {
+      "min": 4,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 45,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 50,
+      "max": 60
+    },
+    "spacing_in": {
+      "min": 2,
+      "max": 6
+    },
+    "height_in": {
+      "min": 12,
+      "max": 24
+    },
+    "spread_in": {
+      "min": 6,
+      "max": 12
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "sun": "full",
+    "water": "moderate",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {
+        "min": -10,
+        "max": -6
+      },
+      "note": "Sow in late summer so the deep taproot bulks up before hard frost, which typically winterkills the plant."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 9
+    },
+    "directions": "Drill or broadcast seed about a half inch deep into a warm late-summer seedbed for rapid emergence. The thick taproot drives deep to break compaction and scavenge leftover nitrogen, then rots in place after a killing freeze. In cold regions no spring termination is needed because the frost does the work.",
+    "sources": [
+      "general horticultural reference"
+    ]
+  },
+  {
+    "slug": "tillage-radish",
+    "common_name": "Tillage Radish",
+    "scientific_name": "Raphanus sativus 'Tillage Radish'",
+    "category": "cover-crop",
+    "subcategory": "broadleaf brassica",
+    "days_to_germination": {
+      "min": 4,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 45,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 50,
+      "max": 65
+    },
+    "spacing_in": {
+      "min": 2,
+      "max": 6
+    },
+    "height_in": {
+      "min": 12,
+      "max": 24
+    },
+    "spread_in": {
+      "min": 6,
+      "max": 12
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "sun": "full",
+    "water": "moderate",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {
+        "min": -10,
+        "max": -6
+      },
+      "note": "Plant six to ten weeks ahead of the first hard frost to maximize taproot depth."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 9
+    },
+    "directions": "Sow seed a half inch deep in late summer at a modest rate so each plant can size up a long, penetrating root. This selection is bred for an aggressive taproot that fractures hardpan and leaves channels for water and air. Expect it to winterkill in cold zones, leaving a mellow, ready-to-plant surface in spring.",
+    "sources": [
+      "general horticultural reference"
+    ]
+  },
+  {
+    "slug": "forage-turnip",
+    "common_name": "Forage Turnip",
+    "scientific_name": "Brassica rapa",
+    "category": "cover-crop",
+    "subcategory": "broadleaf brassica",
+    "days_to_germination": {
+      "min": 4,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 45,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 90
+    },
+    "spacing_in": {
+      "min": 2,
+      "max": 6
+    },
+    "height_in": {
+      "min": 12,
+      "max": 24
+    },
+    "spread_in": {
+      "min": 6,
+      "max": 12
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "sun": "full",
+    "water": "moderate",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {
+        "min": -10,
+        "max": -6
+      },
+      "note": "Plant in late summer so both tops and bulbs develop before heavy frost."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 9
+    },
+    "directions": "Broadcast seed shallowly, about a quarter inch, into a warm late-summer seedbed and firm it in. The fleafy tops smother weeds while a fleshy bulb loosens the upper soil and stores nitrogen. In cold climates it winterkills and decomposes readily, leaving an easy spring seedbed.",
+    "sources": [
+      "general horticultural reference"
+    ]
+  },
+  {
+    "slug": "forage-kale",
+    "common_name": "Forage Kale",
+    "scientific_name": "Brassica oleracea",
+    "category": "cover-crop",
+    "subcategory": "broadleaf brassica",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 45,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 90
+    },
+    "spacing_in": {
+      "min": 4,
+      "max": 8
+    },
+    "height_in": {
+      "min": 24,
+      "max": 48
+    },
+    "spread_in": {
+      "min": 8,
+      "max": 16
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "sun": "full",
+    "water": "moderate",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {
+        "min": -12,
+        "max": -6
+      },
+      "note": "Sow in late summer; the leafy stand holds through cold and often stays green into winter."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 9
+    },
+    "directions": "Drill seed about a half inch deep into a firm bed and thin lightly if the stand is very thick. This hardy brassica provides tall, frost-tough forage and living cover well into the cold season. Graze or mow, then incorporate the residue in spring before it bolts.",
+    "sources": [
+      "general horticultural reference"
+    ]
+  }
+]
