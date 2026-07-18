@@ -85,6 +85,16 @@ def err(slug, msg, bag):
     bag.append(f"[{slug}] {msg}")
 
 
+def csv_safe(v):
+    """Neutralize spreadsheet formula injection. plants.csv is marketed as
+    spreadsheet-friendly, so contributor-supplied text opened in Excel/Sheets
+    must not be evaluated as a formula: a cell starting with = + - @ or a
+    leading control char is prefixed with a single quote."""
+    if isinstance(v, str) and v[:1] in ("=", "+", "-", "@", "\t", "\r"):
+        return "'" + v
+    return v
+
+
 def is_range(v):
     return isinstance(v, dict) and set(v) >= {"min", "max"}
 
@@ -109,8 +119,22 @@ def validate(rec, bag):
     if rec.get("water") not in WATER:
         err(slug, f"bad water {rec.get('water')!r}", bag)
     for f in RANGE_FIELDS + ["usda_zones"]:
-        if f in rec and rec[f] is not None and not is_range(rec[f]):
-            err(slug, f"field '{f}' must be a {{min,max}} range", bag)
+        v = rec.get(f)
+        if f in rec and v is not None:
+            if not is_range(v):
+                err(slug, f"field '{f}' must be a {{min,max}} range", bag)
+            else:
+                lo, hi = v.get("min"), v.get("max")
+                for b in (lo, hi):
+                    if b is not None and (isinstance(b, bool) or not isinstance(b, (int, float))):
+                        err(slug, f"field '{f}' bound {b!r} must be a number", bag)
+                if isinstance(lo, (int, float)) and isinstance(hi, (int, float)) \
+                        and not isinstance(lo, bool) and not isinstance(hi, bool) and lo > hi:
+                    err(slug, f"field '{f}' has min>max ({lo}>{hi})", bag)
+                if f == "usda_zones":
+                    for b in (lo, hi):
+                        if isinstance(b, (int, float)) and not isinstance(b, bool) and not (1 <= b <= 13):
+                            err(slug, f"usda_zones bound {b} out of documented range 1..13", bag)
     p = rec.get("planting") or {}
     if p.get("anchor") not in ANCHOR:
         err(slug, f"bad planting.anchor {p.get('anchor')!r}", bag)
@@ -210,7 +234,7 @@ def main():
         w = csv.writer(fh)
         w.writerow([c for c, _ in FLAT_COLUMNS])
         for r in records:
-            w.writerow([fn(r) for _, fn in FLAT_COLUMNS])
+            w.writerow([csv_safe(fn(r)) for _, fn in FLAT_COLUMNS])
 
     with open(os.path.join(ROOT, "schema", "plants.sql"), "w") as fh:
         fh.write(open(os.path.join(ROOT, "schema", "table.sql")).read())
