@@ -1,0 +1,157 @@
+[
+  {
+    "slug": "chilhuacle-negro-pepper",
+    "common_name": "Chilhuacle Negro Pepper (Black Chilhuacle, Oaxacan Black Mole Chile)",
+    "scientific_name": "Capsicum annuum 'Chilhuacle Negro'",
+    "category": "vegetable",
+    "subcategory": "dried chile pepper",
+    "days_to_germination": {"min": 10, "max": 14},
+    "germination_soil_temp_f": {"min": 75, "max": 85},
+    "days_to_maturity": {"min": 110, "max": 130},
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": -10, "max": -8},
+      "note": "Start indoors 8–10 weeks before last frost in a warm location (80–85°F); transplant after all frost danger passes; chilhuacle negro is a large-fruited Mexican landrace chile that takes 110–130 days from transplant to reach its distinctive dark reddish-black mature color — the key stage for authentic Oaxacan mole negro and mole coloradito sauces."
+    },
+    "usda_zones": {"min": 3, "max": 11},
+    "spacing_in": {"min": 18, "max": 24},
+    "height_in": {"min": 24, "max": 36},
+    "spread_in": {"min": 18, "max": 24},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Start indoors in a warm seedling tray 8–10 weeks before last frost; transplant to a sunny, fertile bed after all frost danger passes; chilhuacle plants are large and productive but slow-maturing — plan the long growing season carefully; harvest when fruits turn fully dark reddish-black to black and the skin begins to feel slightly leathery; dry thoroughly on screens in a single layer. Chilhuacle Negro is one of the most important and irreplaceable chiles in Oaxacan cuisine — the primary chile in mole negro, one of the canonical seven moles of Oaxaca and arguably the most complex mole sauce in Mexican gastronomy. The fresh chile is a medium-large (2–3 inch wide, 3–5 inch long), slightly squat, triangular to shoulder-shaped fruit with thick, dark green walls that transitions through red to a very deep reddish-black at full maturity — the darkened color indicating the presence of additional flavor compounds that develop in the fully mature and dried state. The dried chilhuacle negro is unique among Mexican dried chiles for its distinctive flavor: deeply complex, somewhat fruity, mildly earthy with a chocolate-like depth, moderately hot (2,500–5,000 Scoville units), and with a characteristic thick skin that retains more texture when rehydrated than thinner-skinned chiles. Only three types of chilhuacle exist: negro (black), rojo (red), and amarillo (yellow) — all grown in the Cañada region of the northern Sierra Norte of Oaxaca, particularly around the town of Huajuapan de León and the Mixteca Alta, where the specific combination of altitude, temperature, and local soil conditions produces chiles with flavor characteristics impossible to replicate elsewhere. A critical ingredient for cooks interested in authentic Oaxacan cuisine.",
+    "sources": [
+      "Diana Kennedy — The Cuisines of Mexico",
+      "Rick Bayless — Mexico One Plate at a Time",
+      "Baker Creek Heirloom Seeds"
+    ]
+  },
+  {
+    "slug": "chilhuacle-rojo-pepper",
+    "common_name": "Chilhuacle Rojo Pepper (Red Chilhuacle, Oaxacan Red Chile)",
+    "scientific_name": "Capsicum annuum 'Chilhuacle Rojo'",
+    "category": "vegetable",
+    "subcategory": "dried chile pepper",
+    "days_to_germination": {"min": 10, "max": 14},
+    "germination_soil_temp_f": {"min": 75, "max": 85},
+    "days_to_maturity": {"min": 100, "max": 120},
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": -10, "max": -8},
+      "note": "Start indoors 8–10 weeks before last frost; transplant after frost danger passes; chilhuacle rojo matures slightly earlier than negro, turning vivid bright red at full maturity; it is the key ingredient in Oaxacan mole coloradito and enchiladas coloradas — a brighter, somewhat fruitier dried chile than the negro with moderate heat."
+    },
+    "usda_zones": {"min": 3, "max": 11},
+    "spacing_in": {"min": 18, "max": 24},
+    "height_in": {"min": 24, "max": 36},
+    "spread_in": {"min": 18, "max": 24},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Start indoors 8–10 weeks before last frost; transplant after all frost danger passes in fertile, well-drained soil; harvest at full red maturity for drying; dry on screens in a single layer in a warm, airy location until leathery-crisp; store dried chiles in airtight containers away from light. Chilhuacle Rojo is the red form of the chilhuacle chile, one of the three varieties grown specifically in the Cañada district of Oaxaca state in Mexico. While the chilhuacle negro (black) is the defining ingredient of mole negro, the chilhuacle rojo plays the lead role in Oaxacan mole coloradito — a complex red mole that, while less dark and mysterious than mole negro, is equally complex and represents one of the pillars of Oaxacan cooking. The dried rojo chile is a vivid brick-red to deep red color with moderately thick walls that rehydrate to a smooth, velvety texture. The flavor is distinctively fruity and somewhat tart-sweet, with moderate heat (3,000–6,000 Scoville units), and a characteristic sweetness that distinguishes it from the guajillo and other red dried chiles with which it is sometimes confused. The shoulder-shaped, somewhat flattened form (wider near the stem, tapering to the tip) is characteristic of all three chilhuacle varieties and distinguishes them from other Oaxacan chiles like the negro or costeño. In Mexican markets, chilhuacle rojo is sometimes substituted with a blend of ancho and guajillo chiles, but genuine chilhuacle rojo has a unique flavor profile that the blend does not replicate. Increasingly available from specialty seed companies as interest in authentic regional Mexican cuisine grows among American gardeners and home cooks.",
+    "sources": [
+      "Diana Kennedy — The Cuisines of Mexico",
+      "Rick Bayless — Mexico One Plate at a Time",
+      "Baker Creek Heirloom Seeds"
+    ]
+  },
+  {
+    "slug": "costeno-amarillo-pepper",
+    "common_name": "Costeño Amarillo Pepper (Yellow Coastal Oaxacan Chile)",
+    "scientific_name": "Capsicum annuum 'Costeño Amarillo'",
+    "category": "vegetable",
+    "subcategory": "dried chile pepper",
+    "days_to_germination": {"min": 10, "max": 14},
+    "germination_soil_temp_f": {"min": 75, "max": 85},
+    "days_to_maturity": {"min": 90, "max": 110},
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": -10, "max": -8},
+      "note": "Start indoors 8–10 weeks before last frost; transplant after frost danger passes; costeño amarillo matures relatively quickly to a golden-yellow to orange color and is the primary chile of the coastal Oaxacan (Isthmus of Tehuantepec) cuisine — it produces the bright yellow color and citrusy flavor characteristic of Oaxacan amarillo mole and the yellow version of memelas and other Isthmus preparations."
+    },
+    "usda_zones": {"min": 3, "max": 11},
+    "spacing_in": {"min": 18, "max": 24},
+    "height_in": {"min": 24, "max": 36},
+    "spread_in": {"min": 18, "max": 24},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Start indoors and transplant to a sunny, fertile bed after frost; harvest at full golden-yellow to orange maturity for drying or fresh use; costeño amarillo is one of the hotter Oaxacan chiles (5,000–15,000 Scoville units) and can be used fresh at the yellow stage or dried to a papery, wrinkled yellow-orange state; the dried chile keeps well for 1–2 years. Costeño Amarillo is a distinctive Mexican landrace chile native to the southern coast of Oaxaca state — particularly the Isthmus of Tehuantepec and the Pacific coastal plain of the Costa Chica region — where it grows in the hot, humid tropical climate and is the defining chile of coastal (costeño) Oaxacan cuisine as distinct from the highland Sierra Norte tradition that uses chilhuacle negro and rojo. The name means simply 'coastal yellow chile' — named for its place of origin and its golden-yellow to orange color when ripe. The fresh and dried chile is distinctive: thin-skinned, elongated (3–4 inches), tapering to a point, and at full maturity a vivid golden-yellow to orange-yellow color that produces the characteristic bright golden color in authentic mole amarillo and the yellow-orange sauces of Tehuantepec cooking. The flavor is moderately hot (5,000–15,000 Scoville units), with a fruity-citrusy quality and a pleasant tartness distinct from the earthier highland varieties. Costeño amarillo is the chile for authentic yellow mole — the sauce for which Oaxacan 'Zapotec-style' tamales are famous — and cannot be genuinely replicated with any other dried chile variety. A critical piece of the Oaxacan chile puzzle for gardeners interested in authentic regional Mexican cooking.",
+    "sources": [
+      "Diana Kennedy — The Cuisines of Mexico",
+      "Iliana de la Vega — El Naranjo Restaurant",
+      "Baker Creek Heirloom Seeds"
+    ]
+  },
+  {
+    "slug": "piquillo-pepper",
+    "common_name": "Piquillo Pepper (Spanish Roasting Pepper, Lodosa Piquillo)",
+    "scientific_name": "Capsicum annuum 'Piquillo'",
+    "category": "vegetable",
+    "subcategory": "fruiting",
+    "days_to_germination": {"min": 10, "max": 14},
+    "germination_soil_temp_f": {"min": 75, "max": 85},
+    "days_to_maturity": {"min": 80, "max": 100},
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": -10, "max": -8},
+      "note": "Start indoors 8–10 weeks before last frost; transplant after all frost danger passes; piquillo is a compact, highly productive sweet Spanish pepper turning vivid red at maturity with a characteristic pointed tip (piquillo = 'little beak') — the most important preserved pepper in Spanish cuisine, roasted and packed in jars, and a staple ingredient in tapas, pintxos, and modern Spanish cooking."
+    },
+    "usda_zones": {"min": 3, "max": 11},
+    "spacing_in": {"min": 18, "max": 24},
+    "height_in": {"min": 20, "max": 30},
+    "spread_in": {"min": 18, "max": 24},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Start indoors 8–10 weeks before last frost; transplant to a sunny, fertile bed after frost danger passes; piquillo plants are compact and productive, setting numerous small, triangular fruits; harvest at full vivid red maturity; roast over open flame or under a broiler until charred, steam to loosen skin, peel and seed for the classic preparation. Piquillo is the defining preserved pepper of northern Spain, particularly the Navarra region around the town of Lodosa (in the Ebro River valley) where the Denomination of Origin 'Piquillo de Lodosa' protects the traditional pepper and its preparation. The pepper is small (2–3 inch), triangular to slightly flattened-conical with a characteristic pointed 'beak' tip (piquillo = 'little beak'), vivid scarlet-red at maturity, and sweet to very mildly pungent with no significant heat. The flesh is thin but intensely sweet and slightly fruity, with a subtle bitterness that is balanced by the roasting process — fire-roasting is inseparable from the piquillo's culinary identity. The traditional preparation involves hand-roasting individual peppers over wood fires, peeling and seeding each one by hand without any water washing (to preserve flavor and sugars), and packing them in their own juices in jars or tins without any additional preservation except salt. The result is one of the most refined and flavorful preserved vegetables in world cuisine. Jarred piquillo peppers are a staple of Spanish kitchens and are used stuffed with salt cod or cheese, arranged on pintxos, layered in pasta dishes, and pureed into smooth sauces. Growing piquillo at home and roasting them yourself produces a quality that commercially jarred peppers rarely match.",
+    "sources": [
+      "Consejo Regulador de la D.O. Piquillo de Lodosa",
+      "José Andrés — Made in Spain",
+      "Baker Creek Heirloom Seeds"
+    ]
+  },
+  {
+    "slug": "carmen-sweet-pepper",
+    "common_name": "Carmen Sweet Pepper (AAS Winner Italian Frying Pepper)",
+    "scientific_name": "Capsicum annuum 'Carmen'",
+    "category": "vegetable",
+    "subcategory": "fruiting",
+    "days_to_germination": {"min": 10, "max": 14},
+    "germination_soil_temp_f": {"min": 75, "max": 85},
+    "days_to_maturity": {"min": 70, "max": 80},
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": -10, "max": -8},
+      "note": "Start indoors 8–10 weeks before last frost; transplant after all frost danger passes; Carmen is one of the fastest-maturing sweet peppers available, particularly valued in short-season northern gardens and in hot Southern gardens where the season window for maturing peppers before fall temperatures drop can be compressed; an All-America Selections 2006 winner recognized for early maturity, high yield, and exceptional sweet flavor."
+    },
+    "usda_zones": {"min": 3, "max": 11},
+    "spacing_in": {"min": 18, "max": 24},
+    "height_in": {"min": 18, "max": 24},
+    "spread_in": {"min": 18, "max": 24},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Start indoors 8–10 weeks before last frost; transplant to rich, well-drained soil in full sun after all frost danger passes; Carmen peppers ripen from green to vivid red about 2 weeks earlier than most bell peppers, making them excellent for northern gardens; harvest at any stage from green (mild, slightly tangy) to full red (sweet, rich, complex flavor). Carmen is a top-performing Italian-style sweet frying pepper that won the All-America Selections award in 2006 — one of the most widely grown sweet pepper varieties to emerge from recent AAS trials, valued for combining the Italian frying pepper form (long, tapered, thin-walled, easy to peel) with exceptional earliness and garden productivity. The peppers are long (5–7 inches), tapered, and horn-shaped in the classic Italian style, maturing from pale green through deep red in about 70–80 days from transplant — significantly earlier than standard bell peppers (85–95 days) and most sweet Italian types. The flavor at full red maturity is distinctively sweet, rich, and complex in a way that sets Italian frying peppers apart from bell peppers: the thin walls cook faster and more evenly, caramelize beautifully in a hot pan, and develop a sweeter, more concentrated flavor than the thick-walled bell. Carmen is the go-to recommendation from most seed companies and extension services for gardeners who want a reliable sweet Italian frying pepper that performs consistently across a wide range of climates from zones 3 to 11. Excellent raw in salads, roasted, sautéed, or used for Italian-American pepper-and-egg preparations.",
+    "sources": [
+      "All-America Selections",
+      "Johnny's Selected Seeds",
+      "Territorial Seed Company"
+    ]
+  }
+]

@@ -1,0 +1,157 @@
+[
+  {
+    "slug": "fuerte-avocado",
+    "common_name": "Fuerte Avocado (Former Commercial Standard Avocado, Type B Large Green Avocado)",
+    "scientific_name": "Persea americana 'Fuerte'",
+    "category": "fruit",
+    "subcategory": "tropical",
+    "days_to_germination": {"min": 14, "max": 42},
+    "germination_soil_temp_f": {"min": 70, "max": 85},
+    "days_to_maturity": {"min": 1095, "max": 1460},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 6},
+      "note": "Plant container-grown grafted trees in spring after all frost danger; Fuerte is a Type B avocado (flowers open female in the afternoon, male the following morning) and produces best when planted with a Type A companion — Hass or Mexicola are ideal Type A companions for Fuerte; requires excellent drainage and does not tolerate wet feet; zones 9–11 (damaged below 26–28°F); in zone 9a, plant in a frost-protected microclimate near a south-facing wall or structure."
+    },
+    "usda_zones": {"min": 9, "max": 11},
+    "spacing_in": {"min": 120, "max": 240},
+    "height_in": {"min": 120, "max": 360},
+    "spread_in": {"min": 120, "max": 240},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in well-drained, slightly acidic, fertile soil in full sun; Fuerte performs best with a Type A companion (Hass, Mexicola) for maximum fruit set; mulch heavily over roots; apply balanced citrus/avocado fertilizer in spring; Fuerte ripens from November through March in California, producing large, pear-shaped, dark green fruits that remain green (do not darken) when ripe — test ripeness by cutting, as the skin color is not a reliable indicator. Fuerte avocado was the dominant commercial avocado variety in California and globally from the 1920s through the 1950s, named for the Spanish word 'strong' after the tree demonstrated remarkable cold-hardiness during a destructive California frost in 1913, surviving when other avocado varieties died — leading to its commercial selection and widespread planting. For three decades, Fuerte was the avocado that most Americans encountered in markets, setting the standard for avocado flavor and quality. It was gradually displaced by Hass after Hass's commercial introduction, primarily because Hass's pebbled skin turns black when ripe (providing a reliable harvest indicator that Fuerte's green skin lacks) and Hass handles shipping better. The Fuerte fruit itself is large, pear-shaped with smooth, thin, bright green skin and rich, creamy, pale green flesh with a moderately nutty, rich flavor — many avocado connoisseurs consider its flavor superior to Hass, with a richer oil content and more complex character, though the harvest timing challenge (no color change at ripeness) makes it less practical for commercial sales. A winter-ripening variety (November–March in California), it extends fresh avocado season when Hass is between crops.",
+    "sources": [
+      "University of California Cooperative Extension — Avocado Varieties",
+      "California Avocado Society",
+      "University of Florida IFAS Extension"
+    ]
+  },
+  {
+    "slug": "bacon-avocado",
+    "common_name": "Bacon Avocado (Cold-Hardy Mild Avocado, Type B Winter Avocado, Zone 8b Avocado)",
+    "scientific_name": "Persea americana 'Bacon'",
+    "category": "fruit",
+    "subcategory": "tropical",
+    "days_to_germination": {"min": 14, "max": 42},
+    "germination_soil_temp_f": {"min": 70, "max": 85},
+    "days_to_maturity": {"min": 1095, "max": 1825},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 6},
+      "note": "Plant container-grown grafted trees in spring after frost danger; Bacon is one of the most cold-hardy avocado varieties (damaged at approximately 26°F, killed below 22–24°F), making it suitable for zone 8b–9 gardens with frost protection; Bacon is a Type B avocado and produces best when planted alongside a Type A variety (Hass, Mexicola); the mild flavor and thin skin make Bacon a good choice for Gulf Coast and warm-winter zones where Hass is marginally hardy."
+    },
+    "usda_zones": {"min": 8, "max": 11},
+    "spacing_in": {"min": 120, "max": 216},
+    "height_in": {"min": 120, "max": 300},
+    "spread_in": {"min": 120, "max": 216},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in well-drained soil in full sun with frost protection on the coldest nights; Bacon benefits from a Type A companion for maximum fruit set; harvest November through March when fruit is fully sized and softens slightly when gently squeezed; Bacon's mild flavor makes it versatile for cooking, guacamole, and fresh eating for those who prefer less rich avocado. Bacon avocado was developed by James Bacon in Buena Park, California, and introduced in 1954 — it became valued primarily for its cold-hardiness among avocado varieties, with documented survival at temperatures below 26°F that would damage Hass and below 22°F in some trials, making it one of the most cold-tolerant commercial avocado varieties available and the most commonly recommended cold-hardy variety for zone 8b home orchards. The variety's cold-hardiness derives from its pure Mexican race genetics (Persea americana var. drymifolia lineage), which evolved in the highlands of Mexico at elevations where frost occurs regularly — an origin that also confers anise-scented leaves and a distinctive flavor to the fruit. Bacon produces medium-sized, oval to pear-shaped avocados with smooth, thin, deep green skin that does not change color appreciably as it ripens; the flesh is pale yellow-green, creamy, and mild in flavor — significantly less rich in oil content than Hass or Fuerte, giving it a lighter taste that some consumers prefer. Bacon ripens winter to early spring (November–March in California). A good choice for zone 8b–9 gardens in the Gulf South, Texas, and similar climates where the extra cold-hardiness margin matters.",
+    "sources": [
+      "University of California Cooperative Extension — Cold-Hardy Avocado Varieties",
+      "Texas A&M AgriLife Extension — Avocado Production in Texas",
+      "California Avocado Society"
+    ]
+  },
+  {
+    "slug": "mexicola-avocado",
+    "common_name": "Mexicola Avocado (Most Cold-Hardy Avocado, Mexican Race Black Avocado, Edible-Skin Avocado)",
+    "scientific_name": "Persea americana var. drymifolia 'Mexicola'",
+    "category": "fruit",
+    "subcategory": "tropical",
+    "days_to_germination": {"min": 14, "max": 42},
+    "germination_soil_temp_f": {"min": 70, "max": 85},
+    "days_to_maturity": {"min": 1095, "max": 1825},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 6},
+      "note": "Plant container-grown trees in spring after frost danger; Mexicola is one of the most cold-hardy avocado varieties available (surviving to approximately 18–22°F when mature and established), opening avocado growing in zones 8b–9 where standard Hass and Fuerte would be killed; Mexicola is a Type A avocado and is pollinated by Type B companion varieties (Fuerte, Bacon, Zutano); the edible, anise-flavored skin is a distinctive culinary characteristic of this variety."
+    },
+    "usda_zones": {"min": 8, "max": 11},
+    "spacing_in": {"min": 120, "max": 216},
+    "height_in": {"min": 120, "max": 300},
+    "spread_in": {"min": 96, "max": 180},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in well-drained soil in full sun; Mexicola is more compact than most avocados; plant with a Type B companion (Fuerte, Bacon) for best fruit set; harvest August–October (earlier than most avocados) when the small fruits turn glossy purple-black; the thin, papery skin is edible and contributes an anise-herb flavor to the fruit; slice and eat with skin on for the full flavor experience. Mexicola avocado is a pure Mexican race avocado (Persea americana var. drymifolia) with remarkable cold-hardiness traceable to its highland Mexican origin, where ancestors of this variety grew at elevations above 6,000 feet where frost is common — making Mexicola and its relatives the most frost-tolerant avocados that produce edible fruit, with documented survival at 18–22°F that no Guatemalan-race variety (Hass, Reed) can approach. This cold-hardiness has made Mexicola the recommended avocado for zone 8b gardens in the Gulf South, California's inland valleys, and anywhere else where an extra 6–8°F of frost protection would make the difference between avocado success and failure. Mexicola's distinctive features beyond cold-hardiness include small fruit size (3–6 oz compared to Hass's 6–12 oz), very thin, edible skin with an anise or licorice flavor that is typically eaten along with the flesh, and a very high oil content with a rich, complex flavor. The trees are relatively compact (15–25 feet) compared to standard avocados. Mexican race avocados like Mexicola also produce aromatic leaves used as a culinary herb in Oaxacan and other Mexican cuisines.",
+    "sources": [
+      "University of California Cooperative Extension — Cold-Hardy Avocado Varieties",
+      "California Avocado Society — Cold Climate Avocado Growing",
+      "Texas A&M AgriLife Extension"
+    ]
+  },
+  {
+    "slug": "arbequina-olive",
+    "common_name": "Arbequina Olive (World's Most Popular Home Garden Olive, Compact Spanish Oil Olive)",
+    "scientific_name": "Olea europaea 'Arbequina'",
+    "category": "fruit",
+    "subcategory": "tree-fruit",
+    "days_to_germination": {"min": 30, "max": 90},
+    "germination_soil_temp_f": {"min": 65, "max": 80},
+    "days_to_maturity": {"min": 1095, "max": 1825},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": -2, "max": 4},
+      "note": "Plant container or bare-root trees in early spring in well-drained, slightly alkaline to neutral, low-fertility soil in full sun; Arbequina is self-fertile and produces a good crop without a companion tree; it requires approximately 300–400 chill hours — one of the lowest requirements of any olive variety, making it well-suited to mild coastal California and Gulf South gardens; Arbequina is the most compact named olive variety, growing 10–15 feet compared to the 20–30 feet of Mission and Frantoio, making it practical for home landscapes."
+    },
+    "usda_zones": {"min": 7, "max": 10},
+    "spacing_in": {"min": 96, "max": 180},
+    "height_in": {"min": 120, "max": 180},
+    "spread_in": {"min": 96, "max": 180},
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant in well-drained, low-fertility, alkaline to neutral soil in full sun; Arbequina is extremely drought-tolerant once established and actually produces better oil quality under moderate stress — do not over-fertilize or over-water; harvest olives in November–December when shifting from green to purple-black for oil; for table olives, harvest green in October–November and cure in brine for 6–12 months. Arbequina olive is the most widely planted olive variety in the world and by a large margin the most popular olive for home garden use globally — a small Spanish variety from the town of Arbeca in Catalonia that was historically confined to a small region of northeastern Spain before becoming a worldwide standard through its adoption in super-high-density olive plantations in California, Australia, Chile, and Argentina. The variety's global success derives from a combination of characteristics ideally suited to modern olive production: extremely compact habit (10–15 feet versus the 25–30 feet of traditional olive varieties), heavy and precocious bearing (producing significant crops in year 3–4 rather than the 7–10 years of traditional varieties on standard spacing), self-fertility (producing good crops as a single tree), low chill requirement (300–400 hours, allowing successful growing in zones 7–10), and excellent high-quality oil — mild, fruity, golden-colored oil with low acidity that is considered among the finest olive oils. For home gardeners, Arbequina's compact size makes it suitable for large containers, small gardens, and courtyard plantings where standard olive trees would be too large. The small, round olives (1–2g each) can also be table-cured in brine though the size is small by table olive standards.",
+    "sources": [
+      "University of California Cooperative Extension — Olive Varieties",
+      "California Olive Committee",
+      "Texas A&M AgriLife Extension — Olive Production in Texas"
+    ]
+  },
+  {
+    "slug": "manzanilla-olive",
+    "common_name": "Manzanilla Olive (Spanish Table Olive Standard, Green Martini Olive, Seville Table Olive)",
+    "scientific_name": "Olea europaea 'Manzanilla'",
+    "category": "fruit",
+    "subcategory": "tree-fruit",
+    "days_to_germination": {"min": 30, "max": 90},
+    "germination_soil_temp_f": {"min": 65, "max": 80},
+    "days_to_maturity": {"min": 1095, "max": 1825},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": -2, "max": 4},
+      "note": "Plant container or bare-root trees in spring in well-drained, slightly alkaline to neutral, low-fertility soil in full sun; Manzanilla is self-fertile and produces well as a single tree though cross-pollination with Sevillano, Frantoio, or another olive variety increases yields; it requires approximately 300–400 chill hours, well-suited to California, the Gulf South, and similar zones 8–10 climates; Manzanilla blooms somewhat earlier than some other varieties, extending the effective pollen window."
+    },
+    "usda_zones": {"min": 8, "max": 11},
+    "spacing_in": {"min": 120, "max": 216},
+    "height_in": {"min": 120, "max": 300},
+    "spread_in": {"min": 96, "max": 216},
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant in well-drained, low-fertility, alkaline to neutral soil in full sun; Manzanilla is extremely drought-tolerant once established; harvest for green table olives in October when fully sized but still green; harvest for black table olives in November–December when fully ripe; home-cured Manzanilla olives require brine treatment for 6–12 months to remove bitter oleuropein before eating. Manzanilla (meaning 'little apple' in Spanish, for the round fruit shape) is the dominant commercial table olive variety in the world — the variety behind the iconic green olives stuffed with pimentos found in cocktail jars and martini glasses throughout the Western world, and a major component of Spanish, American, and Mexican table olive production. Its origin is in the Seville region of Spain (particularly the province of Huelva), where it has been the foundation of the Spanish table olive trade since the 1800s, and it was introduced to California (where it is called 'Manzanillo') in the 19th century with California's Spanish-mission heritage, becoming established in the central California olive-growing regions (Fresno, Madera counties) and eventually as the dominant commercial table olive variety in the United States. The olives are medium-sized, round to slightly oblate, with firm, meaty flesh and a relatively small pit that makes them ideal for stuffing — the characteristic American 'green olive' of commercial production is almost always a Manzanilla cured at the green stage. The trees are medium-sized (15–25 feet), productive, and adapted to a wide range of California and Gulf South conditions with adequate drainage and minimal rainfall during the ripening period.",
+    "sources": [
+      "University of California Cooperative Extension — Olive Varieties",
+      "International Olive Council — Manzanilla Variety",
+      "Texas A&M AgriLife Extension — Olive Production"
+    ]
+  }
+]

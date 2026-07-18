@@ -1,0 +1,157 @@
+[
+  {
+    "slug": "earliglow-strawberry",
+    "common_name": "Earliglow Strawberry (Early June-Bearing, Disease-Resistant Eastern Strawberry)",
+    "scientific_name": "Fragaria × ananassa 'Earliglow'",
+    "category": "berry",
+    "subcategory": "strawberry",
+    "days_to_germination": {"min": 14, "max": 21},
+    "germination_soil_temp_f": {"min": 60, "max": 70},
+    "days_to_maturity": {"min": 120, "max": 180},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": -2, "max": 4},
+      "note": "Plant dormant crowns in early spring as soon as the ground can be worked; Earliglow is one of the earliest-ripening June-bearing strawberry varieties — it lives up to its name by producing ripe berries a week or more before most other varieties, which is a significant advantage in the Northeast and Mid-Atlantic states where a late spring freeze can damage later-ripening crops while Earliglow has already fruited."
+    },
+    "usda_zones": {"min": 3, "max": 8},
+    "spacing_in": {"min": 12, "max": 18},
+    "height_in": {"min": 6, "max": 10},
+    "spread_in": {"min": 12, "max": 18},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant dormant crowns with the crown at soil level in early spring in full sun in well-prepared, well-drained soil; Earliglow is a June-bearing type (single concentrated crop in late spring) that produces abundant runners for establishing new beds; remove blossoms in the first year to encourage plant establishment for a heavier crop in year 2; mulch with straw over winter. Earliglow is a USDA-developed June-bearing strawberry variety released in 1975 that became one of the most important and widely planted commercial and home garden strawberries in the eastern United States for its combination of early ripening, excellent flavor, and disease resistance. The early ripening characteristic is particularly valuable in northeastern gardens (zones 4–7) where late spring frosts are a constant concern for berry production — Earliglow matures and is harvested before most other varieties even turn red, providing insurance against frost damage to developing fruits. The berries are medium-sized, glossy red, with a characteristic conical shape and excellent fresh flavor — consistently rated among the best-tasting June-bearing varieties by university extension trials for their balance of sweetness and acidity. Earliglow has exceptional disease resistance compared to many older varieties, showing good resistance to red stele root rot (Phytophthora fragariae) and Verticillium wilt — two of the most damaging strawberry diseases in cool, wet eastern growing conditions. The combination of early harvest, great flavor, and disease resistance made Earliglow the dominant strawberry variety in the Mid-Atlantic states for decades, and it remains one of the most-planted varieties in the region.",
+    "sources": [
+      "USDA Agricultural Research Service",
+      "Penn State Extension",
+      "University of Maryland Extension"
+    ]
+  },
+  {
+    "slug": "allstar-strawberry",
+    "common_name": "Allstar Strawberry (Mid-Late June-Bearing, High-Yield Disease-Resistant)",
+    "scientific_name": "Fragaria × ananassa 'Allstar'",
+    "category": "berry",
+    "subcategory": "strawberry",
+    "days_to_germination": {"min": 14, "max": 21},
+    "germination_soil_temp_f": {"min": 60, "max": 70},
+    "days_to_maturity": {"min": 120, "max": 180},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": -2, "max": 4},
+      "note": "Plant dormant crowns in early spring in well-drained, fertile soil; Allstar is a mid-to-late season June-bearer (ripening about one week after Earliglow) developed by USDA and the University of Maryland for maximum yield, wide adaptability, and outstanding disease resistance — it produces among the largest-fruited berries of any June-bearing variety and is often recommended as the companion to Earliglow to extend the harvest season."
+    },
+    "usda_zones": {"min": 3, "max": 8},
+    "spacing_in": {"min": 12, "max": 18},
+    "height_in": {"min": 6, "max": 10},
+    "spread_in": {"min": 12, "max": 18},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant dormant crowns in early spring; Allstar produces very large berries (among the largest of any June-bearer) with good flavor; the plants are vigorous and send out abundant runners; remove runners the first year to encourage crown establishment; plant Allstar alongside Earliglow to extend the June-bearing strawberry season by 1–2 weeks. Allstar is a USDA-bred June-bearing strawberry variety (released 1981) that has become one of the most widely planted commercial and home garden strawberries in the eastern United States, valued for its combination of high yields, large fruit size, and exceptional disease resistance. The berries are large — often significantly larger than Earliglow and most other June-bearers — with a conical shape, good firmness, and attractive glossy red color that makes them particularly well-suited for fresh market sales, U-pick operations, and home garden display. The flavor is sweet with moderate acidity — generally considered slightly less intensely flavored than Earliglow but still excellent for fresh eating, preserves, and pies. Allstar's greatest strength is its extremely broad disease resistance profile: it shows good to excellent resistance to red stele root rot, Verticillium wilt, and powdery mildew, making it a reliable producer even in challenging conditions. The combination of Earliglow (early) and Allstar (mid-late) is a classic recommendation from northeastern extension services for home gardeners who want a 2–3 week strawberry harvest window instead of a single concentrated crop. Vigorous runner production makes Allstar easy to propagate and maintain.",
+    "sources": [
+      "USDA Agricultural Research Service",
+      "Penn State Extension",
+      "Cornell Cooperative Extension"
+    ]
+  },
+  {
+    "slug": "jewel-strawberry",
+    "common_name": "Jewel Strawberry (Mid-Season June-Bearer, Premier New York Strawberry)",
+    "scientific_name": "Fragaria × ananassa 'Jewel'",
+    "category": "berry",
+    "subcategory": "strawberry",
+    "days_to_germination": {"min": 14, "max": 21},
+    "germination_soil_temp_f": {"min": 60, "max": 70},
+    "days_to_maturity": {"min": 120, "max": 180},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": -2, "max": 4},
+      "note": "Plant dormant crowns in early spring as soon as soil is workable; Jewel is a Cornell University-developed mid-season June-bearing strawberry that has become the dominant commercial strawberry in New York State and is widely grown throughout the Northeast for its exceptional large-fruited, highly flavorful berries and outstanding performance in humid northeastern growing conditions."
+    },
+    "usda_zones": {"min": 3, "max": 8},
+    "spacing_in": {"min": 12, "max": 18},
+    "height_in": {"min": 6, "max": 10},
+    "spread_in": {"min": 12, "max": 18},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in early spring; Jewel is a high-yielding, large-fruited mid-season June-bearer that peaks about 5–7 days after Earliglow; berries have excellent fresh flavor and store and process better than many June-bearers; remove flowers the first year; the plants are vigorous and winter-hardy in zones 3–7 with straw mulch. Jewel strawberry is a Cornell University-developed variety (released 1985) that became the dominant commercial and farm-stand strawberry in New York State and one of the most important strawberries in the northeastern United States. Cornell's New York State Agricultural Experiment Station at Geneva bred Jewel specifically for northeastern growing conditions — the humid, cool summers and reliable winter cold of New York — and the variety's success reflects that targeted development: it performs exceptionally in zones 4–7 humid northeastern conditions where some varieties from drier or warmer climates show reduced vigor or disease problems. The berries are large to very large, consistently well-shaped, dark red throughout with outstanding fresh flavor — considered by many northeastern tasters to combine the best attributes of Earliglow flavor with Allstar size. Jewel is noted for holding flavor and firmness well across a range of weather conditions, producing consistently good berries even in the hot, humid spells that sometimes degrade the quality of other varieties during ripening. It is vigorous enough to be productive for 3–4 years in a well-managed bed, somewhat longer than many modern varieties. The standard strawberry at many northeastern U-pick farms and roadside stands.",
+    "sources": [
+      "Cornell University New York State Agricultural Experiment Station",
+      "Cornell Cooperative Extension",
+      "Penn State Extension"
+    ]
+  },
+  {
+    "slug": "sequoia-strawberry",
+    "common_name": "Sequoia Strawberry (California Large-Fruited Heat-Tolerant Winter Strawberry)",
+    "scientific_name": "Fragaria × ananassa 'Sequoia'",
+    "category": "berry",
+    "subcategory": "strawberry",
+    "days_to_germination": {"min": 14, "max": 21},
+    "germination_soil_temp_f": {"min": 60, "max": 70},
+    "days_to_maturity": {"min": 90, "max": 150},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {"min": 0, "max": 8},
+      "note": "In zones 8–10 (California, Gulf Coast), plant dormant crowns or plugs in fall (September–November) for late winter to spring harvest; Sequoia is a California-developed University of California variety that has been grown in California since the 1950s and remains one of the most widely planted strawberries in mild-winter, warm-climate gardens for its ability to produce very large, flavorful berries under warm conditions where northeastern varieties perform poorly."
+    },
+    "usda_zones": {"min": 6, "max": 10},
+    "spacing_in": {"min": 12, "max": 18},
+    "height_in": {"min": 6, "max": 10},
+    "spread_in": {"min": 12, "max": 18},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "In warm climates (zones 8–10), plant in fall for a spring harvest; in cooler climates plant in early spring; Sequoia produces very large, sweet berries with tender flesh that is best consumed fresh — it has less firmness than modern commercial varieties, making it ideal for home gardens where immediate consumption is the goal rather than shipping. Sequoia strawberry is a University of California variety (released 1953) that became one of the most widely planted strawberries in California commercial production in the mid-20th century and has remained popular in California and mild-winter gardens for its large, intensely flavored berries that represent the ideal of the fresh-eating home garden strawberry. The variety was developed by Dr. Harold Thomas at UC Riverside specifically for California's mild-winter, warm-spring growing conditions — conditions very different from the cool, humid eastern states where most strawberry varieties were bred. Sequoia produces berries that are exceptionally large (often double the diameter of standard varieties), vivid red, with a characteristic deep sweetness and complex strawberry fragrance that makes them among the most intensely flavored of any readily available variety. The flesh is somewhat soft — Sequoia berries bruise easily and have short shelf life (2–3 days maximum), which is why this variety essentially disappeared from commercial production as the industry shifted toward firmer-berried shipping varieties — but this same softness contributes to the intense, yielding, jam-like texture that makes Sequoia exceptional for fresh eating. For zone 9a and Gulf Coast gardens, Sequoia performs well as a fall-planted winter strawberry, producing its harvest in late February through April before summer heat arrives.",
+    "sources": [
+      "University of California Cooperative Extension",
+      "California Strawberry Commission",
+      "UC Riverside Agricultural Experiment Station"
+    ]
+  },
+  {
+    "slug": "quinault-strawberry",
+    "common_name": "Quinault Strawberry (Day-Neutral Everbearing Pacific Northwest Strawberry)",
+    "scientific_name": "Fragaria × ananassa 'Quinault'",
+    "category": "berry",
+    "subcategory": "strawberry",
+    "days_to_germination": {"min": 14, "max": 21},
+    "germination_soil_temp_f": {"min": 60, "max": 70},
+    "days_to_maturity": {"min": 90, "max": 120},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Plant in spring after last frost in full sun; Quinault is a day-neutral everbearing variety that produces crops in spring and fall (rather than a single June-bearing crop) and is particularly valued for its ability to produce fruit on brand-new plants in the same year of planting — an advantage for gardeners who want strawberries without waiting through an entire season before harvesting."
+    },
+    "usda_zones": {"min": 4, "max": 9},
+    "spacing_in": {"min": 12, "max": 18},
+    "height_in": {"min": 6, "max": 10},
+    "spread_in": {"min": 12, "max": 18},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in spring in a rich, well-prepared bed; do not remove flowers from Quinault in the first year — as a day-neutral type it will produce fruit on new plants; allow fall runners to fill in the bed for subsequent seasons; remove runners in summer to redirect energy to fruit production. Quinault strawberry is a Washington State University-developed day-neutral (everbearing) variety (released 1967) that produces fruit regardless of day length, yielding crops in spring, mid-summer (briefly), and fall rather than the concentrated June-bearing harvest of standard varieties. This fruiting pattern is genuinely different from both June-bearing (single spring crop) and older everbearing (two main crops, spring and fall) varieties — true day-neutral varieties like Quinault produce small but continuous fruit throughout the growing season whenever temperatures are moderate (below 80°F). The practical implication for home gardeners is that Quinault plants bear fruit in their first growing season from spring plantings, providing immediate gratification without waiting through an entire growing year before harvesting. This first-year fruiting makes Quinault a particularly good variety for children's gardens, community gardens, and impatient gardeners. The variety was developed at Washington State University for Pacific Northwest conditions (mild, cool summers), where it has been widely grown since its release. The berries are large, red, and soft with a sweet flavor similar to alpine strawberries — best for fresh eating rather than processing.",
+    "sources": [
+      "Washington State University Extension",
+      "Pacific Northwest Extension Publications",
+      "Rodale's Organic Life"
+    ]
+  }
+]

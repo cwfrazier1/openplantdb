@@ -1,0 +1,157 @@
+[
+  {
+    "slug": "yucca-filamentosa",
+    "common_name": "Adam's Needle (Common Yucca, Eastern Yucca)",
+    "scientific_name": "Yucca filamentosa",
+    "category": "flower",
+    "subcategory": "native xeric perennial",
+    "days_to_germination": {"min": 14, "max": 42},
+    "germination_soil_temp_f": {"min": 65, "max": 80},
+    "days_to_maturity": {"min": 1095, "max": 1825},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 2, "max": 8},
+      "note": "Plant container-grown transplants or pups (rooted offsets) in spring in well-drained, sandy to gravelly, neutral to alkaline soil in full sun to partial shade; Adam's Needle is the most cold-hardy and widely adaptable yucca native to the eastern United States, thriving across a remarkably broad range from zone 4 through zone 11 and performing in a wider range of climates than any other commonly grown yucca."
+    },
+    "usda_zones": {"min": 4, "max": 11},
+    "spacing_in": {"min": 36, "max": 48},
+    "height_in": {"min": 24, "max": 60},
+    "spread_in": {"min": 36, "max": 60},
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant in well-drained to dry soil in full sun; avoid clay soils or any location where water collects; once established, Adam's Needle is extremely drought-tolerant and virtually care-free; remove spent flower stalks after blooming; propagate from pups that form at the base of mature rosettes. Adam's Needle (Yucca filamentosa) is the most widespread and commonly grown yucca in American horticulture — native to the sandy coastal plains and dry inland areas of the southeastern United States from New Jersey south to Florida and west to Mississippi — and the standard garden yucca against which other species are compared. The species is named for its most distinctive leaf characteristic: along each leaf margin run numerous fine, thread-like fibers (filaments) that curl loosely and peel away from the leaf edge, giving the plant a distinctive fringe of white curling threads that is unique among commonly grown yuccas and easily visible in the field. The rosette of stiff, blue-green, sword-shaped leaves (2–3 feet long) grows slowly for 3–5 years before sending up a spectacular 4–8 foot flower spike bearing dozens to hundreds of nodding, creamy-white, bell-shaped flowers with a sweet fragrance — one of the most dramatic summer flowering events in the native plant garden. The yucca moth (Tegeticula yuccasella) is the sole pollinator, with a mutualistic relationship unique in the plant-pollinator world: female yucca moths deliberately pack pollen onto the yucca stigma, then lay eggs in the ovary, and the larvae feed on some of the developing seeds — leaving enough viable seeds for yucca reproduction. Named cultivars include 'Color Guard' (yellow-striped leaves) and 'Bright Edge' (gold-margined leaves).",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "USDA PLANTS Database",
+      "Missouri Botanical Garden Plant Finder"
+    ]
+  },
+  {
+    "slug": "agave-ovatifolia",
+    "common_name": "Whale Tongue Agave (Blue Whale Agave, Cadena de Plata)",
+    "scientific_name": "Agave ovatifolia",
+    "category": "flower",
+    "subcategory": "xeric succulent",
+    "days_to_germination": {"min": 7, "max": 21},
+    "germination_soil_temp_f": {"min": 70, "max": 85},
+    "days_to_maturity": {"min": 5475, "max": 9125},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 2, "max": 8},
+      "note": "Plant container-grown transplants in spring in extremely well-drained, rocky or sandy soil in full sun; Agave ovatifolia is one of the best-adapted agaves for zone 9a Texas and Gulf Coast landscapes — it handles the combination of intense summer heat, periodic drought, occasional freezes to 5°F, and alkaline clay soils better than most ornamental agaves, and its relatively large, symmetrical blue-gray rosette is one of the most architecturally impressive plants for xeric gardens."
+    },
+    "usda_zones": {"min": 7, "max": 11},
+    "spacing_in": {"min": 60, "max": 84},
+    "height_in": {"min": 24, "max": 48},
+    "spread_in": {"min": 48, "max": 72},
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant in well-drained to dry soil, slightly elevated if in clay to prevent rot at crown; Whale Tongue Agave establishes quickly compared to many agaves and begins showing its distinctive character within 2–3 years; it rarely offsets (unlike many agaves) and is usually a solitary rosette; blooms once after 15–20 years then dies. Whale Tongue Agave is a spectacular ornamental agave native to the Sierra Madre Oriental mountains of northeastern Mexico (particularly Nuevo León state), where it grows on rocky limestone hillsides at elevations of 3,000–6,000 feet — an origin that gives it both excellent heat tolerance (hot summers) and remarkable cold hardiness (mountain winters to about 5–10°F). The common name 'Whale Tongue' describes the broad, paddle-like shape of each leaf: unlike the narrow, dagger-like leaves of most agaves, Whale Tongue's leaves are distinctively wide, somewhat spoon-shaped, and have a pronounced broadening toward the middle before tapering to a stout terminal spine — each leaf literally resembles a large, blue-gray whale tongue. The color is one of the most beautifully glaucous (blue-gray waxy powdery) of any agave, making the symmetrical 3–5 foot wide rosette a striking architectural centerpiece in any xeric planting. This species is particularly valued in Texas and the Gulf South because it tolerates the humid heat of summer better than many desert agaves, handles alkaline clay soils with good drainage better than most succulents, and provides bold structure with minimal care. Named for its entire leaf shape (Latin ovatifolius = oval-leafed). One of the top recommended agaves by Texas A&M AgriLife Extension.",
+    "sources": [
+      "Texas A&M AgriLife Extension",
+      "Lady Bird Johnson Wildflower Center",
+      "Desert Botanical Garden"
+    ]
+  },
+  {
+    "slug": "agave-lophantha",
+    "common_name": "Center Stripe Agave (Thorn Crested Agave, Variegated Agave)",
+    "scientific_name": "Agave lophantha",
+    "category": "flower",
+    "subcategory": "xeric succulent",
+    "days_to_germination": {"min": 7, "max": 21},
+    "germination_soil_temp_f": {"min": 70, "max": 85},
+    "days_to_maturity": {"min": 3650, "max": 7300},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 2, "max": 8},
+      "note": "Plant pups or container plants in spring in well-drained soil in full sun to partial shade; Agave lophantha (also classified as Agave univittata by some authorities) is a Texas native agave of the Edwards Plateau and Trans-Pecos regions, notable for a distinctive light-green to pale central stripe running down the center of each dark green leaf — one of the most ornamental markings of any native agave."
+    },
+    "usda_zones": {"min": 7, "max": 11},
+    "spacing_in": {"min": 24, "max": 36},
+    "height_in": {"min": 12, "max": 24},
+    "spread_in": {"min": 18, "max": 36},
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant in well-drained, rocky or sandy soil; Center Stripe Agave tolerates partial shade better than most agaves and is useful as an understory plant under open-canopy trees where full-sun agaves would struggle; it offsets moderately and forms attractive clumps over time; terminal spines are very sharp — site away from foot traffic. Center Stripe Agave is a small to medium agave native to the limestone hills and rocky slopes of the Edwards Plateau, Rio Grande Plains, and Trans-Pecos regions of Texas, where it grows in dry, shallow, rocky soils in full sun to dappled shade under live oaks and junipers. The species is readily identified by its namesake characteristic: each dark green leaf bears a distinctive lighter central stripe (yellow-green to pale green) running from base to near the tip — a coloration that gives the plant exceptional visual interest even among other agaves and makes it one of the most ornamental small agaves for garden use. The leaves also have prominent teeth along the margins and a stout, dark terminal spine, creating a 'thorn-crested' silhouette that is characteristic of the species. Plants form rosettes of 1–2 feet in diameter and height, producing pups readily to eventually form multi-rosette clumps. Unlike the massive Century Plant or Whale Tongue Agave, Center Stripe Agave is appropriately sized for small gardens, containers, and mixed plantings where a bold accent is needed without dominating the space. Cold-hardy to about 5°F, tolerates alkaline soils, and adapts to a wide range of well-drained site conditions throughout zone 9a and the Gulf South.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "Texas A&M AgriLife Extension",
+      "Native Plant Society of Texas"
+    ]
+  },
+  {
+    "slug": "yucca-gloriosa",
+    "common_name": "Mound Lily Yucca (Spanish Dagger, Glorious Yucca, Soft-Tipped Yucca)",
+    "scientific_name": "Yucca gloriosa",
+    "category": "flower",
+    "subcategory": "native xeric shrub",
+    "days_to_germination": {"min": 14, "max": 42},
+    "germination_soil_temp_f": {"min": 65, "max": 80},
+    "days_to_maturity": {"min": 1095, "max": 2190},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 2, "max": 8},
+      "note": "Plant container-grown transplants in spring in well-drained, sandy to rocky soil in full sun; Yucca gloriosa is native to the southeastern coastal plain from North Carolina to Florida and west through the Gulf Coast, where it grows in dunes, sandy maritime forests, and coastal scrub — one of the most architectural ornamental yuccas for large-scale landscaping in zone 6–10 gardens."
+    },
+    "usda_zones": {"min": 6, "max": 10},
+    "spacing_in": {"min": 48, "max": 72},
+    "height_in": {"min": 60, "max": 120},
+    "spread_in": {"min": 48, "max": 72},
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant in full sun in excellent drainage; Mound Lily Yucca is larger than most garden yuccas and eventually forms a multi-stemmed shrub 5–10 feet tall; remove spent flower spikes after bloom; the species is slower-suckering than many yuccas and generally stays as a single or few-stemmed specimen for many years. Mound Lily Yucca is a large, architecturally bold native yucca of the southeastern United States coastal plain — one of the signature plants of the Atlantic and Gulf Coast dune systems, where it stabilizes sandy soils and provides year-round structural interest with its dramatic rosettes of broad, blue-green leaves. Unlike most garden yuccas, Yucca gloriosa grows to significant size over time, eventually developing a thick woody trunk or multi-stemmed shrub to 5–8 feet (sometimes 10 feet), with large rosettes of stiff, 2–3 foot leaves at the branch tips — creating a palm-like or tree-like silhouette unlike the low ground-hugging form of Yucca filamentosa. The common name 'Spanish Dagger' refers to the stiff, somewhat flexible leaf tip: while sharp, it is softer and less needle-like than the truly dangerous Y. aloifolia (Spanish Bayonet), making Mound Lily Yucca a somewhat safer choice for garden settings near walkways and play areas — though still requiring care. The dramatic 4–6 foot flower spike bearing hundreds of creamy-white, bell-shaped flowers appears in late summer to fall, creating one of the most spectacular flowering events of the late-season garden; the flowers are both edible and attractive to moths that pollinate them at night. Widely used in coastal landscape design for its salt tolerance and sandy-soil adaptation.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "USDA PLANTS Database",
+      "North Carolina State University Extension"
+    ]
+  },
+  {
+    "slug": "agave-geminiflora",
+    "common_name": "Twin-Flowered Agave (Rabo de León, Gemini Agave)",
+    "scientific_name": "Agave geminiflora",
+    "category": "flower",
+    "subcategory": "xeric succulent",
+    "days_to_germination": {"min": 7, "max": 21},
+    "germination_soil_temp_f": {"min": 70, "max": 85},
+    "days_to_maturity": {"min": 3650, "max": 7300},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 2, "max": 8},
+      "note": "Plant container-grown transplants in spring in extremely well-drained, sandy to rocky soil in full sun; Agave geminiflora is one of the most distinctive and ornamental agaves for zone 9a and tropical gardens, producing a symmetrical globe of hundreds of extremely narrow, thread-like leaves edged with long, loosely curling white fibers — creating a dramatic spherical specimen plant that is unusual among succulents for its fine, grass-like texture despite being a stiff-leaved agave."
+    },
+    "usda_zones": {"min": 8, "max": 11},
+    "spacing_in": {"min": 36, "max": 48},
+    "height_in": {"min": 24, "max": 36},
+    "spread_in": {"min": 24, "max": 36},
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant in full sun with excellent drainage; Agave geminiflora is a compact, slow-growing agave that suits containers and small spaces better than most species; it rarely if ever offsets (monocarpic in its entire life), blooming once after 10–15 years and producing the characteristic paired (gemini) flower arrangement, then dying without leaving pups; propagate from seed. Twin-Flowered Agave is one of the most visually distinctive of the ornamental agaves — distinguished immediately by its extremely unusual leaf form: rather than the broad, blade-like leaves of most agaves, Agave geminiflora produces hundreds of very narrow, almost grass-like leaves (only 1/4–1/3 inch wide but 12–24 inches long) each edged with long, loosely curling white fibers that give the compact spherical rosette a softly frilled or filigree appearance unique in the genus. The overall effect is a perfect globe of fine, dark green, fiber-edged leaves that catches light beautifully and looks dramatic from all angles. The species name 'geminiflora' refers to the characteristic arrangement of flowers on the bloom spike — the yellow flowers are borne in pairs (gemini = twin) on each branch of the 10–15 foot tall flower stalk that appears after 10–15 years. Native to the state of Nayarit on the Pacific coast of Mexico, it is somewhat tender (zone 8b–11) and may suffer frost damage in hard freezes below 20°F. In zone 9a, provide excellent drainage and a sheltered south-facing microclimate for maximum cold protection. An exceptional specimen plant for containers, courtyards, and focal points in xeric gardens.",
+    "sources": [
+      "Desert Botanical Garden",
+      "University of Arizona Cooperative Extension",
+      "Missouri Botanical Garden Plant Finder"
+    ]
+  }
+]

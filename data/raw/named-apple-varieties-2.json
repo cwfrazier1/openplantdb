@@ -1,0 +1,157 @@
+[
+  {
+    "slug": "winesap-apple",
+    "common_name": "Winesap Apple (Virginia Heirloom Keeper Apple, Self-Fertile Cider Apple)",
+    "scientific_name": "Malus domestica 'Winesap'",
+    "category": "fruit",
+    "subcategory": "tree fruit",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 730, "max": 1460},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": -6, "max": -2},
+      "note": "Plant bare-root trees in late winter in well-drained, slightly acidic to neutral (pH 6.0–7.0), deep fertile soil in full sun; Winesap is one of the few apple varieties that is reliably self-fruitful — it will produce a good crop without a cross-pollinator — though planting with a companion variety improves yields; requires approximately 800–1000 chill hours; best adapted to zones 5–8 where consistent winter cold accumulates."
+    },
+    "usda_zones": {"min": 5, "max": 8},
+    "spacing_in": {"min": 120, "max": 180},
+    "height_in": {"min": 144, "max": 240},
+    "spread_in": {"min": 120, "max": 180},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in deep, well-drained, slightly acidic soil in full sun; Winesap is self-fruitful but yields improve with a cross-pollinator; harvest in October–November when deep red and firm; Winesap is an outstanding storage apple — sound fruits keep 3–6 months in a cool root cellar (32–40°F) while maintaining flavor and crispness far longer than most modern varieties. Winesap is one of the great classic American apple varieties, documented in Virginia since at least 1817 and possibly earlier, with origins that suggest development in New Jersey in the late 1700s before spread throughout the Shenandoah Valley and Appalachian apple-growing regions that became its primary production territory. The variety has a characteristic that made it enormously valuable before refrigeration: extraordinary keeping quality — Winesap apples stored in a cool root cellar or spring house could remain crisp, tart, and flavorful from harvest in October through March or April of the following year, making Winesap the standard winter apple of Appalachian farmsteads for generations. The fruits are medium-sized, deep red to almost black-red with yellow-green patches, with firm, dense, creamy-yellow flesh and a distinctive spicy-winy flavor with pronounced tartness and aromatic quality — unlike the mild sweetness of most modern commercial apples. Winesap is excellent for fresh eating (for those who appreciate tart, complex flavor), cider making, cooking, and drying. Its self-fruitfulness and cold-hardiness make it a practical single-tree orchard choice for zones 5–7.",
+    "sources": [
+      "Virginia Cooperative Extension — Apple Varieties for Virginia",
+      "Cornell Cooperative Extension — Heirloom Apple Varieties",
+      "Penn State Extension — Tree Fruit Production Guide"
+    ]
+  },
+  {
+    "slug": "northern-spy-apple",
+    "common_name": "Northern Spy Apple (Classic New York Pie Apple, Late-Season Northeastern Heirloom)",
+    "scientific_name": "Malus domestica 'Northern Spy'",
+    "category": "fruit",
+    "subcategory": "tree fruit",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 1460, "max": 2190},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": -6, "max": -2},
+      "note": "Plant bare-root trees in late winter in deep, fertile, well-drained, slightly acidic soil; Northern Spy requires approximately 1000 chill hours and is best adapted to zones 4–7; it requires a cross-pollinator (Cortland, McIntosh, or Empire) and is notably slow to come into bearing — grafted trees on standard rootstock may take 6–10 years to produce significant fruit — but the trees are extremely long-lived, productive, and cold-hardy once established."
+    },
+    "usda_zones": {"min": 4, "max": 7},
+    "spacing_in": {"min": 144, "max": 240},
+    "height_in": {"min": 180, "max": 300},
+    "spread_in": {"min": 144, "max": 240},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in deep, fertile, well-drained, slightly acidic soil in full sun; pair with McIntosh, Cortland, or Empire for cross-pollination; thin fruits in June for maximum size; Northern Spy ripens October–November — later than almost all other apple varieties — producing very large, greenish-yellow to red-striped fruits with exceptional crispness, complex sweet-tart flavor, and outstanding keeping quality. Northern Spy apple was discovered as a chance seedling in East Bloomfield (Ontario County), New York around 1800, taking its unusual name from political associations of the era; it was introduced to the nursery trade in the 1840s and rapidly became one of the most important commercial and home orchard apples of the northeastern United States and Canada. The variety has characteristics that make it consistently beloved by serious apple enthusiasts: very large size (sometimes exceeding one pound per fruit), exceptional crispness and juiciness, a complex, rich sweet-tart flavor with floral notes that compares favorably with any modern variety, and excellent keeping quality (fruits store 3–5 months under proper conditions). Northern Spy is the definitive pie apple of the northeast American tradition — the variety that old-time New England and New York pie recipes specify by name — because its firm flesh holds structure through baking and its tart, complex flavor creates an extraordinary pie filling. The trees are notably long-lived and become very large, with documented trees 150+ years old still producing; the long juvenile period (5–10 years to significant bearing) is a trade-off for extreme longevity.",
+    "sources": [
+      "Cornell Cooperative Extension — Apple Varieties for New York",
+      "University of Vermont Extension",
+      "New York State Agricultural Experiment Station — Apple Records"
+    ]
+  },
+  {
+    "slug": "empire-apple",
+    "common_name": "Empire Apple (McIntosh × Red Delicious, Cornell Commercial Release Apple)",
+    "scientific_name": "Malus domestica 'Empire'",
+    "category": "fruit",
+    "subcategory": "tree fruit",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 730, "max": 1460},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": -6, "max": -2},
+      "note": "Plant bare-root trees in late winter in well-drained, fertile, slightly acidic to neutral soil in full sun; Empire requires cross-pollination from a compatible apple variety — Cortland, Honeycrisp, Gala, or McIntosh are all compatible pollinators; requires approximately 800–900 chill hours; best adapted to zones 4–7; Empire is an early-to-mid-bearing variety that begins producing good crops by its 4th–6th year on standard rootstock."
+    },
+    "usda_zones": {"min": 4, "max": 7},
+    "spacing_in": {"min": 120, "max": 180},
+    "height_in": {"min": 144, "max": 240},
+    "spread_in": {"min": 120, "max": 180},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in well-drained, fertile, slightly acidic soil in full sun; Empire requires a cross-pollinator; fruits ripen in September–October with medium to large, deep red to nearly all-red skin and crisp, firm, creamy-white flesh; Empire stores significantly better than McIntosh — refrigerated fruits hold quality for 3–5 months — making it preferable for wholesale and storage. Empire apple was developed at the New York State Agricultural Experiment Station at Geneva in 1945 from a deliberate cross of McIntosh and Red Delicious, and released for commercial planting in 1966 — named for 'The Empire State' of New York to honor the variety's state of origin. The cross combined the aromatic, sweet-tart character and eating quality of McIntosh with the firmer flesh and better keeping quality of Red Delicious, achieving an apple that outperformed both parents in commercial viability: Empire is significantly firmer than McIntosh (which quickly becomes soft and mealy after harvest), stores considerably longer under refrigeration, and maintains its crispness and good flavor for months. Today Empire is one of the most important commercial apple varieties in New York State — which produces the second-largest apple crop in the United States — and is widely planted throughout the northeastern states and eastern Canada. For home gardeners, Empire's earlier bearing age (compared to Northern Spy), reliable productivity, and superior storage compared to McIntosh make it an excellent choice for the home orchard where both fresh-eating and winter storage apples are desired.",
+    "sources": [
+      "New York State Agricultural Experiment Station — Empire apple release",
+      "Cornell Cooperative Extension — Apple Varieties for New York",
+      "Penn State Extension — Tree Fruit Production Guide"
+    ]
+  },
+  {
+    "slug": "macoun-apple",
+    "common_name": "Macoun Apple (Beloved Northeast Eating Apple, McIntosh-Type Geneva Station Apple)",
+    "scientific_name": "Malus domestica 'Macoun'",
+    "category": "fruit",
+    "subcategory": "tree fruit",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 730, "max": 1460},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": -6, "max": -2},
+      "note": "Plant bare-root trees in late winter in deep, well-drained, fertile, slightly acidic soil in full sun; Macoun requires approximately 1000 chill hours and cross-pollination — plant with Cortland, Empire, or McIntosh; Macoun is a mid-to-late-season variety (ripening October in most of New York and New England) with a high chill requirement that limits it to zones 4–7; the trees are moderately biennial-bearing, often producing a heavy crop one year followed by a lighter crop the next."
+    },
+    "usda_zones": {"min": 4, "max": 7},
+    "spacing_in": {"min": 120, "max": 180},
+    "height_in": {"min": 144, "max": 240},
+    "spread_in": {"min": 120, "max": 180},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in deep, well-drained, slightly acidic fertile soil in full sun; requires cross-pollinator; thin biennial crops by hand-removing half the fruit clusters in early summer to encourage annual bearing; Macoun ripens October and must be harvested at peak ripeness — slightly soft at the stem end, fully red, and with characteristic spicy aroma — as it deteriorates quickly after peak. Macoun apple was developed at the New York State Agricultural Experiment Station at Geneva from a cross involving McIntosh, and named for W.T. Macoun, Dominion Horticulturalist of Canada who made significant contributions to fruit breeding and evaluation — released in 1923, making it roughly contemporary with McIntosh's commercial rise. Among apple connoisseurs of the northeastern United States, Macoun occupies a unique status: it is considered by many the finest-eating apple of any variety available in New York and New England, with a complex, spicy-sweet, intensely aromatic flavor at peak ripeness that exceeds even McIntosh in intensity and depth. The fruit is medium-sized, dark red (often nearly all-red with a purple-red hue at full maturity), with pure white, tender, very juicy flesh and the characteristic McIntosh floral fragrance amplified. Macoun's intense flavor comes with a significant limitation: the variety has a very short window of peak eating quality — typically 1–2 weeks at the height of ripeness in October — after which the flesh softens rapidly and flavor diminishes. This poor keeping quality has limited Macoun's commercial viability but made it a cult variety among farmers' market customers who know to seek it out during its brief peak season.",
+    "sources": [
+      "New York State Agricultural Experiment Station — Macoun release notes",
+      "Cornell Cooperative Extension — Apple Varieties for New York",
+      "University of Vermont Extension"
+    ]
+  },
+  {
+    "slug": "rome-beauty-apple",
+    "common_name": "Rome Beauty Apple (The Baking Apple, Ohio Heirloom Baker, Rome)",
+    "scientific_name": "Malus domestica 'Rome Beauty'",
+    "category": "fruit",
+    "subcategory": "tree fruit",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 730, "max": 1460},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": -6, "max": -2},
+      "note": "Plant bare-root trees in late winter in well-drained, slightly acidic to neutral, deep fertile soil in full sun; Rome Beauty is partially self-fruitful and will produce some crop without a pollenizer, though yields improve significantly with a companion variety; requires approximately 800 chill hours; well-adapted to zones 5–8, where late ripening (October–November) in the open orchard is feasible before killing frost; blooms late, reducing frost risk."
+    },
+    "usda_zones": {"min": 5, "max": 8},
+    "spacing_in": {"min": 120, "max": 180},
+    "height_in": {"min": 144, "max": 240},
+    "spread_in": {"min": 120, "max": 180},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in deep, well-drained, slightly acidic soil in full sun; Rome Beauty is the classic baking apple and benefits from being cooked rather than eaten fresh — its firm, low-acid flesh holds structure beautifully under heat; harvest in October when fully colored deep red, typically after McIntosh and Empire are finished; baked whole apples with butter and brown sugar are the signature preparation. Rome Beauty (often sold simply as 'Rome') is an Ohio heirloom apple discovered as a branch sport on a seedling tree near Rome, Ohio (Lawrence County) by Joel Gillett around 1816, propagated by his neighbor Alanson Gillett, and introduced to the nursery trade in the 1840s where it rapidly became one of the most important American commercial apples of the 19th and early 20th centuries. The variety has an unusual characteristic that defines its culinary use: the flesh is relatively low in acid and somewhat dry in texture compared to most eating apples, which means it is not the most interesting variety for fresh consumption but becomes exceptional when baked — the firm flesh holds its shape without collapsing, the mild, sweet flavor concentrates under heat, and the large round shape makes it the ideal vessel for a whole baked apple filled with butter, sugar, and spices. For a century, 'Rome' and 'baking apple' were nearly synonymous in American cookery. The round, symmetrical, deep red to all-red appearance also made Rome Beauty particularly popular with retailers when unblemished fruit mattered; a barrel of large, perfectly round, uniformly deep-red Romes was among the most visually impressive of any apple variety.",
+    "sources": [
+      "Cornell Cooperative Extension — Apple Varieties for New York",
+      "Penn State Extension — Tree Fruit Production Guide",
+      "Ohio State University Extension — Apple Varieties for Ohio"
+    ]
+  }
+]

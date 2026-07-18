@@ -1,0 +1,157 @@
+[
+  {
+    "slug": "white-lupin-cover-crop",
+    "common_name": "White Lupin (Lupino Bianco, Egyptian Lupin, Grain Lupin)",
+    "scientific_name": "Lupinus albus",
+    "category": "cover-crop",
+    "subcategory": "legume",
+    "days_to_germination": {"min": 5, "max": 10},
+    "germination_soil_temp_f": {"min": 50, "max": 70},
+    "days_to_maturity": {"min": 120, "max": 150},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {"min": -8, "max": -4},
+      "note": "In zones 7–10, sow in fall 4–8 weeks before first frost for overwintering as a green manure; in zones 3–6 sow in early spring as soon as soil reaches 40°F; inoculate seed with Bradyrhizobium lupini before sowing for best nitrogen fixation; white lupin is the highest-yielding nitrogen fixer among the grain lupins, fixing 100–180 lbs N/acre under good conditions."
+    },
+    "usda_zones": {"min": 5, "max": 10},
+    "spacing_in": {"min": 4, "max": 6},
+    "height_in": {"min": 18, "max": 48},
+    "spread_in": {"min": 8, "max": 14},
+    "sun": "full",
+    "water": "low",
+    "directions": "Broadcast or drill at 80–120 lbs per acre (about 2–3 lbs per 1000 sq ft) in a firm, well-drained seedbed; white lupin prefers neutral to slightly alkaline, well-drained soil and will not tolerate waterlogged or highly acidic conditions; inoculate with the correct Bradyrhizobium strain, as standard clover or pea inoculant does not work for lupins; terminate by mowing and incorporating at early-to-mid bloom for maximum nitrogen return. White lupin (Lupinus albus) is the most widely cultivated of the grain lupin species, with a history of cultivation in the Mediterranean region and Near East stretching back to at least 3,000 years — depicted in Egyptian hieroglyphs and grown throughout the Roman Empire as both human food and soil-improving green manure. It is the highest-nitrogen-fixing species among the cultivated lupins, capable of fixing 100–180 lbs of atmospheric nitrogen per acre under optimal conditions with proper Bradyrhizobium inoculation, making it one of the most effective winter legume cover crops for building fertility in depleted soils. The seeds of traditional varieties are high in alkaloids (quinolizidine alkaloids) that make them bitter and potentially toxic without processing — ancient Romans soaked them in running water for days to remove the bitterness. Modern 'sweet' varieties (very low alkaloid content) have been developed for food use and are the primary commercial grain lupin in the European and Australian food markets. As a cover crop, both sweet and bitter varieties are equally valuable for nitrogen fixation and biomass. White lupin outperforms most other winter legumes in producing deep taproots (3–5 feet) that break up subsoil compaction while also contributing organic matter from the extensive root system.",
+    "sources": [
+      "USDA Natural Resources Conservation Service",
+      "Sustainable Agriculture Research and Education (SARE)",
+      "FAO Plant Production and Protection Paper — Lupins in Human and Animal Nutrition"
+    ]
+  },
+  {
+    "slug": "narrow-leaf-lupin-cover-crop",
+    "common_name": "Narrow-Leaf Lupin (Blue Lupin, Australian Sweet Lupin)",
+    "scientific_name": "Lupinus angustifolius",
+    "category": "cover-crop",
+    "subcategory": "legume",
+    "days_to_germination": {"min": 5, "max": 10},
+    "germination_soil_temp_f": {"min": 45, "max": 65},
+    "days_to_maturity": {"min": 100, "max": 140},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {"min": -8, "max": -4},
+      "note": "In zones 7–9 sow in fall 4–8 weeks before first frost; in zones 3–6 sow in early spring as soon as soil can be worked; narrow-leaf lupin is more frost-hardy than white lupin (tolerates -10°C) and better adapted to sandy, acidic soils (pH 4.5–7.0) where white lupin and most legumes fail; the most important grain lupin species in Australia, where it transformed dryland wheat farming as a rotation crop."
+    },
+    "usda_zones": {"min": 4, "max": 9},
+    "spacing_in": {"min": 4, "max": 6},
+    "height_in": {"min": 18, "max": 36},
+    "spread_in": {"min": 6, "max": 12},
+    "sun": "full",
+    "water": "low",
+    "directions": "Broadcast or drill at 60–100 lbs per acre (1.5–2.5 lbs per 1000 sq ft); inoculate with Bradyrhizobium lupini Group G specifically matched to this species; narrow-leaf lupin is more drought-tolerant than white lupin once established and is excellent for poor sandy soils; terminate at early bloom by mowing and incorporating to release 80–140 lbs N/acre. Narrow-leaf lupin (Lupinus angustifolius) is the dominant commercial grain lupin species in Australia, where it was transformed by the breeding work of John Gladstones at the University of Western Australia into a major crop that revolutionized dryland wheat farming — the introduction of sweet, low-alkaloid varieties in the 1960s and 1970s enabled farmers in western Australia to use lupins as a grain legume rotation crop, building soil fertility in the highly acidic, phosphorus-deficient sands of the Australian wheat belt. Australia now produces the majority of the world's grain lupins, with Lupinus angustifolius representing 95% of production. As a cover crop in American gardens and small farms, narrow-leaf lupin excels in the same difficult conditions: acidic, sandy, infertile soils where clovers, vetch, and peas struggle to establish. It fixes 80–140 lbs N/acre with proper inoculation, produces substantial biomass, and its deep taproot improves soil structure. The flowers are blue to pale violet-blue on erect stems — attractive enough to serve double duty as an ornamental.",
+    "sources": [
+      "USDA Natural Resources Conservation Service",
+      "Australian Government — Grains Research and Development Corporation",
+      "Sustainable Agriculture Research and Education (SARE)"
+    ]
+  },
+  {
+    "slug": "yellow-lupin-cover-crop",
+    "common_name": "Yellow Lupin (European Yellow Lupin, Gelbe Lupine)",
+    "scientific_name": "Lupinus luteus",
+    "category": "cover-crop",
+    "subcategory": "legume",
+    "days_to_germination": {"min": 7, "max": 14},
+    "germination_soil_temp_f": {"min": 45, "max": 65},
+    "days_to_maturity": {"min": 110, "max": 140},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Sow in spring as soon as soil can be worked in zones 3–7; or in early fall in zones 7–9; yellow lupin is the most acid-tolerant of the grain lupins (grows well at pH 4.5–6.5) and the most cold-hardy, tolerating frost to -12°C in the vegetative stage; its primary use in European agriculture is as a green manure and forage crop on the lightest, most acidic, most infertile sandy soils where few other crops succeed."
+    },
+    "usda_zones": {"min": 4, "max": 9},
+    "spacing_in": {"min": 4, "max": 6},
+    "height_in": {"min": 18, "max": 36},
+    "spread_in": {"min": 6, "max": 12},
+    "sun": "full",
+    "water": "low",
+    "directions": "Drill or broadcast seed at 80–120 lbs per acre into light, acidic, sandy soils with good drainage; yellow lupin is uniquely adapted to pH 4.5–6.5 soils where white and narrow-leaf lupins struggle; inoculate with Bradyrhizobium lupini Group A; the aromatic yellow flowers attract bees; terminate at early bloom when biomass is maximum and nitrogen content is highest. Yellow lupin (Lupinus luteus) is the most cold-hardy and most acid-tolerant of the three main grain lupin species, native to the Mediterranean coastal regions of Portugal, Spain, and Morocco, where it grows on the poorest, most acidic, driest sandy soils. In European agriculture, particularly in Germany, Poland, and the Baltic states, yellow lupin has been grown for centuries as the standard green manure crop for reclaiming heathlands and sandy 'bad lands' — soils so acid, infertile, and droughty that even rye struggles. The species' extraordinary tolerance of acid conditions (pH 4.5 being optimal, with acceptable performance to pH 4.0) makes it uniquely valuable for the poorest sandy soils in the American Southeast and Pacific Northwest where soil pH is challenging. The seeds of traditional varieties are very high in bitter alkaloids (even more so than white lupin) and require special sweet cultivars for food use; in Germany sweet-lupin breeding in the early 20th century produced commercial yellow lupin varieties that have been grown as animal feed. As a cover crop, yellow lupin fixes 80–130 lbs N/acre and produces enough biomass to significantly improve soil organic matter on very poor soils. The distinctive fragrant yellow flowers are genuinely attractive in bloom.",
+    "sources": [
+      "USDA Natural Resources Conservation Service",
+      "FAO Plant Production and Protection Paper — Lupins in Human and Animal Nutrition",
+      "European Lupin Association"
+    ]
+  },
+  {
+    "slug": "napier-grass",
+    "common_name": "Napier Grass (Elephant Grass, Uganda Grass, Merker Grass)",
+    "scientific_name": "Pennisetum purpureum",
+    "category": "cover-crop",
+    "subcategory": "warm-season grass",
+    "days_to_germination": {"min": 10, "max": 21},
+    "germination_soil_temp_f": {"min": 65, "max": 85},
+    "days_to_maturity": {"min": 75, "max": 120},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 2, "max": 6},
+      "note": "Plant stem cuttings (sections with 2–3 nodes) horizontally or at an angle in moist soil after soil warms to 65°F; napier grass is a tropical perennial killed by hard frost but grows with extraordinary vigor in zones 9–11, producing 20–40 tons of dry biomass per acre per year and forming dense stands that exclude all weeds — the single most productive warm-season biomass plant available for tropical and subtropical climates."
+    },
+    "usda_zones": {"min": 9, "max": 11},
+    "spacing_in": {"min": 24, "max": 36},
+    "height_in": {"min": 72, "max": 180},
+    "spread_in": {"min": 24, "max": 36},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant stem cuttings 3–4 inches deep at 2–3 foot spacing; napier grass establishes rapidly and reaches cutting height of 3–5 feet within 60–90 days; cut or chop-and-drop as green mulch every 6–8 weeks during growing season to maintain tender regrowth and prevent woodiness; use as chop-and-drop mulch for tropical garden beds or incorporate as green manure. Napier grass (Pennisetum purpureum) is arguably the most productive tropical biomass grass in the world — a C4 perennial native to sub-Saharan Africa (the Napier Valley region of Kenya) that has been planted throughout the humid tropics for fodder, green manure, and more recently as a dedicated biomass energy crop. Under optimal tropical conditions it can produce more than 40 tons of dry biomass per acre per year — a yield surpassed by few plants on earth — while requiring minimal inputs once established. In zone 9a and the Gulf Coast, Napier grass performs as a vigorous warm-season perennial from spring through late fall, dying back after the first frost but typically regrowing from established root crowns unless soil temperatures drop below about 20°F for extended periods. It is used in permaculture and tropical market gardens as a chop-and-drop biomass plant: the tall stems are cut every 6–8 weeks and the chopped material laid as mulch or incorporated as high-carbon green manure. The dense, fibrous root system accumulates significant organic matter in the soil over multiple seasons. New dwarf varieties ('Mott' dwarf napier) are available for smaller gardens. Note: classified as potentially invasive in Hawaii and Florida — check local guidelines before planting near natural areas.",
+    "sources": [
+      "USDA Natural Resources Conservation Service",
+      "FAO Animal Production and Health Division",
+      "University of Florida IFAS Extension"
+    ]
+  },
+  {
+    "slug": "rhodes-grass",
+    "common_name": "Rhodes Grass (Chloris Grass, Finger Grass)",
+    "scientific_name": "Chloris gayana",
+    "category": "cover-crop",
+    "subcategory": "warm-season grass",
+    "days_to_germination": {"min": 7, "max": 14},
+    "germination_soil_temp_f": {"min": 65, "max": 85},
+    "days_to_maturity": {"min": 60, "max": 90},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 2, "max": 8},
+      "note": "Broadcast seed at 2–4 lbs per acre into a well-prepared seedbed when soil reaches 65°F; Rhodes grass establishes quickly and can tolerate a wide range of soils including alkaline and saline conditions; it is a valuable summer cover crop and forage grass for zones 8–11, providing fast ground cover, erosion control, and organic matter accumulation in the hot-season window when cool-season cover crops are not viable."
+    },
+    "usda_zones": {"min": 8, "max": 11},
+    "spacing_in": {"min": 12, "max": 18},
+    "height_in": {"min": 24, "max": 48},
+    "spread_in": {"min": 12, "max": 18},
+    "sun": "full",
+    "water": "low",
+    "directions": "Broadcast seed at 2–4 lbs per acre and lightly rake; Rhodes grass can also spread via stolons once established; graze, mow, or chop-and-drop at 18–24 inch height before heading; drought-tolerant once established but grows fastest with adequate moisture in summer; terminate before seed set to prevent reseeding. Rhodes grass (Chloris gayana) is a warm-season perennial grass native to tropical and subtropical Africa that has been widely naturalized throughout the world's warm regions as a drought-tolerant forage and cover crop grass. Named for Cecil John Rhodes, the colonial-era mining magnate who popularized it across southern Africa in the late 19th century, it is now one of the most widely grown tropical forage grasses in the world, valued for its ability to establish quickly on poor, dry, alkaline, and even mildly saline soils where more demanding grasses fail. In the Gulf South and zone 8–11 regions, Rhodes grass fills the summer cover crop window when cool-season legumes (crimson clover, winter peas) have been terminated and summer heat makes establishment of new cool-season species impractical. It provides rapid ground cover to prevent erosion and weed establishment, accumulates organic matter through root turnover, and can be mowed and incorporated as green manure before a fall garden planting. The grass produces attractive finger-like seed heads that are ornamental. Somewhat drought-tolerant once established, persisting on as little as 12–15 inches of annual rainfall. Note: can become naturalized in warm regions — mow before seed set if invasive potential is a concern.",
+    "sources": [
+      "USDA Natural Resources Conservation Service",
+      "FAO Grassland Species Profiles",
+      "University of Florida IFAS Extension"
+    ]
+  }
+]

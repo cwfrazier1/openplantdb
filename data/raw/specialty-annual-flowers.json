@@ -1,0 +1,157 @@
+[
+  {
+    "slug": "corn-marigold",
+    "common_name": "Corn Marigold (Field Chrysanthemum, Yellow Oxeye, Segetum Daisy)",
+    "scientific_name": "Glebionis segetum",
+    "category": "flower",
+    "subcategory": "annual",
+    "days_to_germination": {"min": 7, "max": 14},
+    "germination_soil_temp_f": {"min": 55, "max": 70},
+    "days_to_maturity": {"min": 60, "max": 90},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": -4, "max": 0},
+      "note": "Direct sow in early spring 4 weeks before last frost, or in fall in mild climates; corn marigold is a cool-season annual that blooms best in spring and early summer before heat arrives; it is closely related to garland chrysanthemum (Glebionis coronaria) but grown for its ornamental bright yellow daisy flowers rather than for edible greens."
+    },
+    "usda_zones": {"min": 3, "max": 10},
+    "spacing_in": {"min": 6, "max": 10},
+    "height_in": {"min": 12, "max": 24},
+    "spread_in": {"min": 6, "max": 10},
+    "sun": "full",
+    "water": "low",
+    "directions": "Direct sow on the surface or very shallowly in a weed-free seedbed; thin to 6–10 inches; no fertilization needed — corn marigold blooms best in poor to moderately fertile soil; deadhead spent blooms to extend the season; it self-sows reliably where happy. Corn marigold (Glebionis segetum) is a European and Mediterranean wildflower annual that was once so abundant in grain fields across England, northern Europe, and western Asia that it was considered a serious weed of cultivation — its cheerful bright yellow daisy flowers turning entire wheat and barley fields golden. The common name 'corn marigold' reflects this agricultural history: 'corn' in the old English usage means any small grain (wheat, barley, rye, oats), not maize, and the yellow flowers among the green grain stalks were a familiar sight in pre-herbicide farming landscapes. Despite its weedy past in traditional agriculture, corn marigold has become valued as a garden and wildflower annual for its prolific, long-lasting yellow blooms, its tolerance of poor, dry soils, and its value to pollinators including bees and hoverflies that visit the flowers freely throughout the cool-season bloom period. It is closely related to garland chrysanthemum (Glebionis coronaria) — the Asian edible chrysanthemum greens vegetable — but has narrower, more divided leaves and is grown strictly for ornament. In meadow and wildflower seed mixes for European-style plantings, corn marigold is a standard component for its reliable germination, fast bloom, and cheerful long-season color. The cut flowers are excellent and long-lasting.",
+    "sources": [
+      "Royal Horticultural Society",
+      "Plantlife International — Cornfield Flowers Project",
+      "Sarah Raven — The Cutting Garden"
+    ]
+  },
+  {
+    "slug": "chocolate-cosmos",
+    "common_name": "Chocolate Cosmos (Black Cosmos, Mexican Chocolate Flower)",
+    "scientific_name": "Cosmos atrosanguineus",
+    "category": "flower",
+    "subcategory": "tender perennial",
+    "days_to_germination": {"min": 14, "max": 21},
+    "germination_soil_temp_f": {"min": 65, "max": 75},
+    "days_to_maturity": {"min": 90, "max": 120},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 1, "max": 3},
+      "note": "Plant tubers or container-grown divisions after last frost when soil is warm; chocolate cosmos is extinct in the wild and all plants in cultivation are vegetatively propagated clones — it sets no viable seed; in zones 8–11 it can overwinter as a tuberous root; in colder zones treat as a tender tuber (like dahlia) to be dug and stored indoors over winter or grow as an annual from purchased tubers each spring."
+    },
+    "usda_zones": {"min": 7, "max": 11},
+    "spacing_in": {"min": 12, "max": 18},
+    "height_in": {"min": 18, "max": 30},
+    "spread_in": {"min": 12, "max": 18},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant tubers 2 inches deep after last frost in a sunny, well-drained bed; chocolate cosmos prefers fertile, moist but well-drained soil and blooms from midsummer through fall; in zones 7–8, mulch heavily over the tuberous roots in fall for overwintering; in zone 9a the tubers typically survive mild winters without lifting; deadhead spent flowers to encourage continuous bloom. Chocolate cosmos (Cosmos atrosanguineus) is one of the most remarkable plants in horticulture for a single characteristic: the dark maroon to near-black velvet flowers have a genuine, unmistakable fragrance of chocolate — specifically, warm dark chocolate or cocoa — that intensifies in the warmth of the afternoon sun and is most perceptible when you hold the flower close to your face or on warm, still days. The scent is caused by compounds including methyl salicylate and related aromatic chemicals in the flower's oils that happen to share chemical similarities with compounds in cocoa. The flower itself is also visually extraordinary: a flat, velvety, 1–1.5 inch daisy-form flower in the deepest burgundy-brown to near-black, with a darker central disc and a rich, velvety texture that catches light beautifully. Native to Mexico (Morelos state) where it was collected and described in 1861, Cosmos atrosanguineus is now considered extinct in the wild — the species exists only in cultivation, where all plants are vegetatively propagated clones descended from a small number of original specimens. Since it cannot set seed (all plants are genetically identical and clonal), it must be propagated from cuttings, tuberous root divisions, or tissue culture. It is a genuinely extraordinary garden plant for its combination of visual drama and unique fragrance.",
+    "sources": [
+      "Royal Horticultural Society",
+      "Missouri Botanical Garden Plant Finder",
+      "Sarah Raven — The Cutting Garden"
+    ]
+  },
+  {
+    "slug": "winged-everlasting",
+    "common_name": "Winged Everlasting (Billy Buttons, Ammobium, Sandflower)",
+    "scientific_name": "Ammobium alatum",
+    "category": "flower",
+    "subcategory": "annual",
+    "days_to_germination": {"min": 7, "max": 14},
+    "germination_soil_temp_f": {"min": 55, "max": 70},
+    "days_to_maturity": {"min": 70, "max": 90},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": -4, "max": 0},
+      "note": "Direct sow in early spring or start indoors 6–8 weeks before last frost; in mild climates (zones 8–10) sow in fall for winter-spring bloom; winged everlasting is an Australian native grown worldwide as an everlasting cut flower — the papery white flower heads with yellow centers dry beautifully on the plant and retain their papery texture for 1–2 years in dried arrangements."
+    },
+    "usda_zones": {"min": 4, "max": 10},
+    "spacing_in": {"min": 12, "max": 18},
+    "height_in": {"min": 24, "max": 36},
+    "spread_in": {"min": 12, "max": 18},
+    "sun": "full",
+    "water": "low",
+    "directions": "Surface sow or barely cover seed; winged everlasting tolerates poor, dry, sandy soils and needs excellent drainage; harvest stems for drying when the yellow central disc is still tight and the papery white bracts are just opening; hang upside-down in small bundles in a dry, airy location to dry; the papery quality is retained for years in dry conditions. Winged everlasting (Ammobium alatum) is an Australian native wildflower grown around the world as a premier dried-flower crop and garden annual, valued for its distinctive papery flower heads that retain their appearance almost indefinitely after drying. The plant grows from a basal rosette of leaves with woolly-white undersides, sending up erect, distinctively winged stems (the 'alatum' = 'winged' in Latin refers to the prominent flanges running down the length of each stem) topped by clusters of small, round, papery-bracted flower heads about 3/4 inch across — white papery outer bracts surrounding a compact yellow central disc. The white papery bracts have the characteristic texture of everlasting flowers: they are neither petals nor sepals in the conventional sense but specialized, scale-like bracts that are naturally dry and paper-textured even on the living plant. When cut and dried, the flowers maintain their white color and papery texture with minimal shrinkage and no loss of the characteristic form, making Ammobium one of the longest-lasting and most reliably drying of all the everlasting flower genera. The flowers are freely produced over a long season (6–8 weeks or more), and plants often self-sow reliably in well-drained garden situations. Used extensively in dried flower arrangements, wreaths, and craft projects.",
+    "sources": [
+      "Royal Horticultural Society",
+      "Sarah Raven — The Cutting Garden",
+      "Australian Native Plants Society"
+    ]
+  },
+  {
+    "slug": "orange-globe-amaranth",
+    "common_name": "Orange Globe Amaranth (Strawberry Fields Gomphrena, Haage's Globe Amaranth)",
+    "scientific_name": "Gomphrena haageana",
+    "category": "flower",
+    "subcategory": "annual",
+    "days_to_germination": {"min": 14, "max": 21},
+    "germination_soil_temp_f": {"min": 70, "max": 85},
+    "days_to_maturity": {"min": 70, "max": 90},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 0, "max": 2},
+      "note": "Direct sow after last frost when soil is warm, or start indoors 4–6 weeks before last frost for earlier bloom; Gomphrena haageana is a distinct species from the commonly grown G. globosa (globe amaranth), producing vivid orange-red to scarlet clover-like button heads on taller, more branching plants — the parent species of the popular 'Strawberry Fields' variety (though 'Strawberry Fields' is actually a hybrid between G. haageana and G. globosa)."
+    },
+    "usda_zones": {"min": 3, "max": 11},
+    "spacing_in": {"min": 12, "max": 18},
+    "height_in": {"min": 18, "max": 30},
+    "spread_in": {"min": 10, "max": 16},
+    "sun": "full",
+    "water": "low",
+    "directions": "Direct sow 1/4 inch deep after last frost in full sun; orange globe amaranth is extremely heat and drought tolerant once established, thriving in the summer heat that wilts most other annuals; excellent for cut flowers, dried flowers, and pollinator gardens; the button-like heads dry beautifully on the stem and retain their orange-red color for months. Orange globe amaranth is a warm-season annual native to Mexico and the southwestern United States, closely related to the commonly grown purple or pink globe amaranth (Gomphrena globosa) but producing flowers in vivid orange-red to scarlet rather than the lavender-purple typical of G. globosa. The most important commercial variety derived from this species is 'Strawberry Fields' — actually a hybrid between G. haageana and G. globosa that combines the intense orange-red color of haageana with some characteristics of globosa — which became popular after its introduction in the 1990s. However, open-pollinated G. haageana selections produce flowers in a range of warm tones from bright orange to deep brick-red that are distinct from the Strawberry Fields hybrid and equally attractive. Like all globe amaranths, the 'flowers' are actually colorful papery bracts (modified leaves) surrounding a tiny true flower — the papery texture is what gives globe amaranths their everlasting quality. Orange globe amaranth thrives under conditions that challenge most summer annuals: heat above 90°F, droughty soil, and humidity that causes other flowers to rot — making it particularly valuable in the hot, humid summer climates of zone 9a and the Gulf South.",
+    "sources": [
+      "All-America Selections",
+      "Johnny's Selected Seeds",
+      "Baker Creek Heirloom Seeds"
+    ]
+  },
+  {
+    "slug": "ashitaba",
+    "common_name": "Ashitaba (Tomorrow's Leaf, Japanese Angelica, Longevity Herb)",
+    "scientific_name": "Angelica keiskei",
+    "category": "herb",
+    "subcategory": "culinary perennial",
+    "days_to_germination": {"min": 14, "max": 28},
+    "germination_soil_temp_f": {"min": 55, "max": 65},
+    "days_to_maturity": {"min": 60, "max": 90},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {"min": -8, "max": -4},
+      "note": "In zones 8–11, surface sow fresh seed in early fall for germination in the cool season; in zones 3–7, sow in early spring as soon as soil is workable; ashitaba seed must be used fresh (it loses viability rapidly) and requires light to germinate — do not cover the seed with soil; the plant is named for its remarkable regrowth rate: cut a leaf today and tomorrow ('ashita') another leaf ('ba') has already emerged."
+    },
+    "usda_zones": {"min": 8, "max": 11},
+    "spacing_in": {"min": 24, "max": 36},
+    "height_in": {"min": 36, "max": 60},
+    "spread_in": {"min": 24, "max": 36},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Surface sow fresh seed in a partially shaded, moist, humus-rich location; ashitaba prefers morning sun and afternoon shade in hot climates — in zone 9a it is best grown in a site with dappled shade or east-facing exposure to protect from summer afternoon heat; harvest young stems and leaves regularly to promote continuous new growth; the yellow sap of the cut stems is edible but bitter. Ashitaba (Angelica keiskei, meaning 'Angel Herb of Keiske') is a remarkable culinary and medicinal herb native to the Izu Islands of Japan — a subtropical island chain stretching south from the Izu Peninsula, where the inhabitants are noted for their exceptional longevity and good health, which traditional Japanese culture attributes in part to regular consumption of ashitaba. The plant is a tall, hollow-stemmed member of the carrot family (Apiaceae) with large, glossy, deeply divided leaves and the characteristic umbellate flower clusters of the family; unlike most Apiaceae herbs which are harvested for seeds or roots, ashitaba is grown for its young leaves and tender stems. The common name 'Tomorrow's Leaf' (ashita = tomorrow, ba = leaf) reflects the plant's extraordinary regrowth rate — young leaves emerge with such speed that a stem cut today is visibly growing another leaf by the following morning, an exceptional characteristic even among fast-growing herbs. The leaves are somewhat bitter, celery-like in flavor, and rich in flavonoids — particularly chalcones and xanthoangelol — that are the subject of extensive research in Japan for potential health benefits. The stems and leaves are used in Japanese cooking in tempura, salads, juices, and tea. The distinctive yellow sap that oozes from cut stems is a characteristic feature of the species.",
+    "sources": [
+      "Japanese Ministry of Agriculture, Forestry and Fisheries",
+      "Izu Islands Agricultural Research Center",
+      "Baker Creek Heirloom Seeds"
+    ]
+  }
+]

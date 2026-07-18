@@ -1,0 +1,157 @@
+[
+  {
+    "slug": "mammoth-red-clover",
+    "common_name": "Mammoth Red Clover",
+    "scientific_name": "Trifolium pratense 'Mammoth'",
+    "category": "cover-crop",
+    "subcategory": "legume",
+    "days_to_germination": {"min": 5, "max": 10},
+    "germination_soil_temp_f": {"min": 45, "max": 75},
+    "days_to_maturity": {"min": 90, "max": 120},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {"min": -10, "max": -6},
+      "note": "Sow in late summer 6–10 weeks before first fall frost, or in early spring as soon as soil can be worked; Mammoth is a single-cut, late-maturing type of red clover that produces the largest plant mass and highest nitrogen fixation of the standard red clovers."
+    },
+    "usda_zones": {"min": 3, "max": 9},
+    "spacing_in": {"min": 1, "max": 2},
+    "height_in": {"min": 24, "max": 48},
+    "spread_in": {"min": 6, "max": 12},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Broadcast or drill seed at 10–12 lbs per acre (1 lb per 1,000 sq ft) onto a firm, weed-free seedbed; inoculate with clover rhizobia for reliable nitrogen fixation in new ground. Mammoth Red Clover is a large, late-maturing single-cut type that produces more biomass per planting than standard medium red clover, reaching 3–4 feet in height and fixing 80–200 lbs of nitrogen per acre when properly inoculated; it is best terminated at early bloom for maximum nitrogen availability to the following crop. The large, showy magenta flower heads are outstanding for pollinators — a diverse range of native bees, bumble bees, and honey bees work the blooms heavily. In the South, sow in fall as a winter annual that overwinters, blooms in spring, and is terminated before summer cash crops go in.",
+    "sources": [
+      "SARE Cover Crop Chart",
+      "University of Kentucky Cooperative Extension",
+      "USDA NRCS Plant Guide"
+    ]
+  },
+  {
+    "slug": "spring-oat-cover",
+    "common_name": "Spring Oat Cover Crop",
+    "scientific_name": "Avena sativa",
+    "category": "cover-crop",
+    "subcategory": "grass",
+    "days_to_germination": {"min": 7, "max": 14},
+    "germination_soil_temp_f": {"min": 35, "max": 75},
+    "days_to_maturity": {"min": 60, "max": 90},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {"min": -10, "max": -6},
+      "note": "Sow in late summer 6–10 weeks before first fall frost for a frost-killed winter cover in zones 4–8; the oat plant is killed by temperatures below 20°F, making it a convenient 'mow-free' winter cover that lies flat and decomposes naturally without spring tillage."
+    },
+    "usda_zones": {"min": 3, "max": 11},
+    "spacing_in": {"min": 1, "max": 2},
+    "height_in": {"min": 24, "max": 48},
+    "spread_in": {"min": 4, "max": 8},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Broadcast or drill seed at 2–3 oz per 100 sq ft onto a well-prepared, lightly raked bed in late summer or early fall; germination is rapid in cool soil and the oat establishes quickly, outcompeting late-season weeds. Spring oat is one of the most versatile and widely used cool-season cover crops because it is killed by hard frost (below 20°F) without any action by the gardener, leaving a mat of dead mulch that protects bare soil through winter and decomposes quickly in spring with minimal residue management; it also mixes exceptionally well with hairy vetch or crimson clover, providing a physical trellis for the climbing legume while the legume fixes nitrogen. For warm climates (zones 8–11) sow in early spring as a short-term summer smother crop between vegetable beds.",
+    "sources": [
+      "SARE Cover Crop Guide",
+      "Cornell Small Farms Program",
+      "USDA NRCS Plant Guide"
+    ]
+  },
+  {
+    "slug": "good-mother-stallard-bean",
+    "common_name": "Good Mother Stallard Bean",
+    "scientific_name": "Phaseolus vulgaris 'Good Mother Stallard'",
+    "category": "vegetable",
+    "subcategory": "heirloom pole bean",
+    "days_to_germination": {"min": 7, "max": 14},
+    "germination_soil_temp_f": {"min": 60, "max": 85},
+    "days_to_maturity": {"min": 70, "max": 85},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 0, "max": 2},
+      "note": "Direct sow 1 inch deep after last frost when soil has warmed above 60°F; a vigorous pole bean that needs a trellis or fence 5–6 feet tall and is harvested as a dry bean in fall after the pods have dried on the vine."
+    },
+    "usda_zones": {"min": 3, "max": 10},
+    "spacing_in": {"min": 6, "max": 9},
+    "height_in": {"min": 60, "max": 84},
+    "spread_in": {"min": 12, "max": 18},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Sow seed 1 inch deep after all frost danger has passed into fertile, well-drained soil against a tall trellis; do not soak beans before planting as it can cause the seed coat to split. Good Mother Stallard is an heirloom pole bean introduced through Seed Savers Exchange with beautiful, plum-purple and white mottled pods and seeds that develop into a creamy, meaty dry bean with a remarkably rich, complex, steak-like flavor when cooked — widely considered one of the best-flavored dry beans available to home gardeners. Allow pods to mature and dry completely on the vine before harvesting; if frost threatens, pull the entire vine and hang in a protected location to finish drying. Store shelled dry beans in a cool, airtight container for up to a year.",
+    "sources": [
+      "Seed Savers Exchange",
+      "Uprising Seeds",
+      "Southern Exposure Seed Exchange"
+    ]
+  },
+  {
+    "slug": "hidatsa-red-bean",
+    "common_name": "Hidatsa Red Bean",
+    "scientific_name": "Phaseolus vulgaris 'Hidatsa Red'",
+    "category": "vegetable",
+    "subcategory": "heirloom pole bean",
+    "days_to_germination": {"min": 7, "max": 14},
+    "germination_soil_temp_f": {"min": 60, "max": 85},
+    "days_to_maturity": {"min": 75, "max": 90},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 0, "max": 2},
+      "note": "Direct sow 1 inch deep after last frost once soil warms above 60°F; a Native American heirloom dry pole bean from the Hidatsa people of the northern Great Plains, traditionally grown in the Three Sisters system with corn and squash; plant at the base of corn stalks for traditional companion planting."
+    },
+    "usda_zones": {"min": 3, "max": 10},
+    "spacing_in": {"min": 6, "max": 9},
+    "height_in": {"min": 60, "max": 72},
+    "spread_in": {"min": 12, "max": 18},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Sow seed 1 inch deep in warm soil after last frost, spacing 6 inches apart along a trellis or the stalks of sweet corn in the traditional Three Sisters companion planting arrangement. Hidatsa Red is a Native American heirloom dry pole bean from the Hidatsa people of the upper Missouri River region (present-day North Dakota), with deep maroon-red seeds that cook to a creamy, full-bodied texture with an earthy, robust flavor well-suited to soups and stews; the variety was collected and preserved through the work of Alfred Mandan and introduced more widely by Seed Savers Exchange. Allow pods to ripen and dry completely on the vine; pods are tan with dark mottling when ready. An important cultural heritage bean that rewards the grower with both excellent eating and connection to a long agricultural tradition.",
+    "sources": [
+      "Seed Savers Exchange",
+      "Native Seeds/SEARCH",
+      "North Dakota State University Extension"
+    ]
+  },
+  {
+    "slug": "marfax-bean",
+    "common_name": "Marfax Bean",
+    "scientific_name": "Phaseolus vulgaris 'Marfax'",
+    "category": "vegetable",
+    "subcategory": "heirloom bush bean",
+    "days_to_germination": {"min": 7, "max": 14},
+    "germination_soil_temp_f": {"min": 60, "max": 85},
+    "days_to_maturity": {"min": 65, "max": 75},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 0, "max": 2},
+      "note": "Direct sow 1 inch deep after last frost once soil has warmed; a compact bush type requiring no trellis; one of the earlier-maturing heirloom dry beans, well-suited to shorter seasons and successive plantings."
+    },
+    "usda_zones": {"min": 3, "max": 10},
+    "spacing_in": {"min": 4, "max": 6},
+    "height_in": {"min": 18, "max": 24},
+    "spread_in": {"min": 12, "max": 18},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Sow seed 1 inch deep in warm, well-drained soil after last frost, spacing 4–6 inches apart in rows 18 inches apart; Marfax germinates quickly in warm soil and the compact bush plants require no staking or support. Marfax is a New England heirloom bush dry bean with attractive tan-and-brown mottled seeds that are smaller and rounder than kidney-type beans and have a creamy, buttery texture when cooked with a mild, nutty flavor excellent in baked beans, soups, and salads. Allow pods to fully mature and begin to yellow and rattle before harvesting; if a wet spell threatens, pull plants and hang them under cover to finish drying. Marfax stores well for a year or more when dried thoroughly and kept in an airtight container at room temperature.",
+    "sources": [
+      "Seed Savers Exchange",
+      "Vermont Bean Seed Company",
+      "Johnny's Selected Seeds"
+    ]
+  }
+]

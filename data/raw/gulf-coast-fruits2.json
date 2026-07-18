@@ -1,0 +1,157 @@
+[
+  {
+    "slug": "camellia-sinensis",
+    "common_name": "Tea Plant (Tea Camellia)",
+    "scientific_name": "Camellia sinensis",
+    "category": "herb",
+    "subcategory": "evergreen tea shrub",
+    "days_to_germination": {"min": 30, "max": 90},
+    "germination_soil_temp_f": {"min": 65, "max": 80},
+    "days_to_maturity": {"min": 1095, "max": 1825},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 8},
+      "note": "Plant container-grown plants or rooted cuttings in spring in well-drained, consistently moist, acidic (pH 4.5–6.0), humus-rich soil in partial shade to full sun; Camellia sinensis is the source of all true teas — green, white, oolong, and black — and grows best in consistently moist, acidic, humus-rich soil similar to its native subtropical mountain forest habitat."
+    },
+    "usda_zones": {"min": 7, "max": 10},
+    "spacing_in": {"min": 36, "max": 60},
+    "height_in": {"min": 36, "max": 96},
+    "spread_in": {"min": 36, "max": 72},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Plant in well-drained, highly acidic (pH 4.5–6.0), humus-rich soil in partial shade — morning sun with afternoon shade is ideal; water regularly as tea plants are sensitive to drought but cannot tolerate waterlogged soil. Camellia sinensis is the plant species from which all true tea is made; the young leaves and leaf buds ('flush') are harvested and processed differently to produce green tea (unoxidized), oolong (partially oxidized), or black tea (fully oxidized) — the same plant, processed differently. Home tea gardens are feasible in zones 7–10 where the plant grows as a reliable evergreen shrub; in the Gulf Coast and Southeast United States (zone 8–10) it performs particularly well in the moist, acidic conditions similar to its natural subtropical mountain habitat in China and Southeast Asia. Begin harvesting the tender top two leaves and a bud once the plant is 3–4 years old and 2–3 feet tall; regular harvesting keeps the plant productive and bushy. Small white flowers in fall are fragrant.",
+    "sources": [
+      "The Great Mississippi Tea Company",
+      "Camellia Forest Nursery",
+      "USDA Agricultural Research Service Tea Research"
+    ]
+  },
+  {
+    "slug": "eugenia-uniflora",
+    "common_name": "Surinam Cherry (Pitanga, Brazil Cherry)",
+    "scientific_name": "Eugenia uniflora",
+    "category": "fruit",
+    "subcategory": "tropical fruit shrub",
+    "days_to_germination": {"min": 14, "max": 30},
+    "germination_soil_temp_f": {"min": 70, "max": 85},
+    "days_to_maturity": {"min": 180, "max": 365},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 8},
+      "note": "Plant container-grown plants in spring in well-drained, moderately fertile, slightly acidic to neutral soil in full sun to partial shade; Surinam cherry is a frost-sensitive tropical fruiting shrub native to Brazil and Paraguay that has naturalized extensively in South Florida, Gulf Coast, and tropical regions worldwide as both an ornamental hedge and food plant."
+    },
+    "usda_zones": {"min": 9, "max": 12},
+    "spacing_in": {"min": 36, "max": 72},
+    "height_in": {"min": 72, "max": 180},
+    "spread_in": {"min": 48, "max": 120},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in well-drained, fertile, slightly acidic to neutral soil in full sun to partial shade; established plants are drought-tolerant but produce best fruit with consistent moisture during the fruiting period. Eugenia uniflora is a glossy-leaved evergreen shrub or small tree native to tropical South America, widely naturalized in Florida, the Gulf Coast, Hawaii, and subtropical regions worldwide; the deeply ribbed, round, eight-segmented fruits ripen from green through yellow, orange, and finally to deep red or nearly black, with a distinctive sharp-sweet, resinous flavor that is immediately distinctive — excellent fresh when fully ripe (dark red to black stage), in juices, jellies, ice cream, and fermented beverages. The foliage is beautifully aromatic when crushed. It is commonly planted as a fast-growing hedge or screening shrub in zone 9–12 and has become naturalized (and invasive in some areas of Florida). Hardy to about 28°F; protect from frost in zone 9a.",
+    "sources": [
+      "University of Florida IFAS Extension",
+      "Rare Fruit Council International",
+      "Tropical Fruit News (South Florida)"
+    ]
+  },
+  {
+    "slug": "acca-sellowiana",
+    "common_name": "Feijoa (Pineapple Guava)",
+    "scientific_name": "Acca sellowiana",
+    "category": "fruit",
+    "subcategory": "evergreen fruit shrub",
+    "days_to_germination": {"min": 21, "max": 60},
+    "germination_soil_temp_f": {"min": 65, "max": 80},
+    "days_to_maturity": {"min": 365, "max": 730},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 8},
+      "note": "Plant container-grown plants in spring in well-drained, moderately fertile, slightly acidic to neutral soil in full sun; feijoa is one of the hardiest subtropical fruit plants, tolerating temperatures to about 12–15°F when established, making it viable in zones 8–11 and an outstanding dual-purpose ornamental and fruiting shrub for Gulf Coast and Southeast gardens."
+    },
+    "usda_zones": {"min": 8, "max": 11},
+    "spacing_in": {"min": 60, "max": 120},
+    "height_in": {"min": 60, "max": 144},
+    "spread_in": {"min": 60, "max": 120},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in well-drained, moderately fertile, slightly acidic to neutral soil in full sun; established feijoas tolerate drought but produce better fruit with regular moisture during flowering and fruit development. Acca sellowiana (feijoa or pineapple guava) is a South American evergreen shrub native to southern Brazil, Uruguay, Paraguay, and northern Argentina, producing exceptionally ornamental flowers in May — petals of white and crimson with red stamens that are edible and sweet, often harvested from the ground — and unique oval fruits in fall that have an intensely aromatic, tropical, pineapple-guava flavor unlike any other temperate-climate fruit. The silvery-green leaves with white undersides are attractive year-round; the plant is exceptionally cold-hardy for a subtropical fruiting plant, tolerating 12–15°F and making it viable throughout the Gulf Coast, the Southeast, and mild West Coast gardens. Most selections require two plants for cross-pollination, though self-fertile cultivars like 'Coolidge' and 'Pineapple Gem' are available.",
+    "sources": [
+      "University of California Cooperative Extension",
+      "California Rare Fruit Growers",
+      "Monrovia Nursery Plant Information"
+    ]
+  },
+  {
+    "slug": "chrysophyllum-cainito",
+    "common_name": "Star Apple (Caimito)",
+    "scientific_name": "Chrysophyllum cainito",
+    "category": "fruit",
+    "subcategory": "tropical fruit tree",
+    "days_to_germination": {"min": 14, "max": 30},
+    "germination_soil_temp_f": {"min": 75, "max": 85},
+    "days_to_maturity": {"min": 1095, "max": 2190},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 8},
+      "note": "Plant container-grown trees in spring in well-drained, fertile, slightly acidic to neutral soil in full sun; star apple is a handsome evergreen tropical tree that is cold-sensitive (damaged below 30°F) and best suited to zone 10–12, though it can be grown in large containers and brought indoors in zone 9 or protected areas of zone 9b."
+    },
+    "usda_zones": {"min": 10, "max": 12},
+    "spacing_in": {"min": 240, "max": 360},
+    "height_in": {"min": 144, "max": 360},
+    "spread_in": {"min": 144, "max": 240},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in deep, fertile, well-drained soil in full sun; established trees are somewhat drought-tolerant but fruit best with regular irrigation during fruit development. Star apple (caimito) is a large, handsome evergreen tree native to the Caribbean and Central America, valued for its beautiful foliage — dark green above and golden-silky pubescent beneath, creating a dramatic two-toned effect — and for its roundish, 2–4 inch fruits that ripen to purple or green and contain a star-shaped pattern in cross-section (from which the common name derives); the flesh is white, milky, sweet, and jelly-like with an exotic, slightly caramel-like flavor. A prized fruit throughout the Caribbean and in South Florida; must be eaten at perfect ripeness (when the skin wrinkles slightly) and never cut — the milky sap from unripe fruit and rind is sticky and unpleasant. Grafted trees begin bearing in 3–5 years.",
+    "sources": [
+      "University of Florida IFAS Extension",
+      "Rare Fruit Council International",
+      "Morton, J. 1987. Fruits of Warm Climates"
+    ]
+  },
+  {
+    "slug": "hibiscus-laevis",
+    "common_name": "Halberd-Leaved Rose Mallow",
+    "scientific_name": "Hibiscus laevis",
+    "category": "flower",
+    "subcategory": "native perennial shrub",
+    "days_to_germination": {"min": 7, "max": 21},
+    "germination_soil_temp_f": {"min": 65, "max": 80},
+    "days_to_maturity": {"min": 60, "max": 90},
+    "maturity_from": "transplant",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Direct sow after last frost in moist to wet, slightly acidic to neutral soil in full sun to partial shade; halberd-leaved rose mallow is a native perennial of floodplain forests, streambanks, and moist open areas throughout the eastern US, with large pink flowers and distinctive three-lobed, halberd-shaped leaves that distinguish it from other native Hibiscus species."
+    },
+    "usda_zones": {"min": 5, "max": 9},
+    "spacing_in": {"min": 36, "max": 60},
+    "height_in": {"min": 48, "max": 84},
+    "spread_in": {"min": 24, "max": 48},
+    "sun": "partial",
+    "water": "high",
+    "directions": "Plant in spring in consistently moist to wet, slightly acidic soil in full sun to partial shade; halberd-leaved rose mallow is native to wet areas and thrives in rain gardens, pond margins, bioswales, and consistently moist borders. Hibiscus laevis is a native eastern US perennial hibiscus of floodplains, streambanks, and wet meadows, distinguished from the similar H. moscheutos by its distinctively halberd-shaped (like the medieval weapon — three-lobed with two lateral points) leaves and smooth stems (laevis = smooth); it produces large, showy, 5–6 inch pale pink flowers with deep red centers from midsummer through early fall, similar in scale and beauty to other native rose mallows. The plant dies to the ground in winter but re-emerges reliably from a woody crown in spring; it is particularly valuable as a native pollinator plant for large bees and hummingbirds in wet areas. Less commonly grown than H. moscheutos but equally beautiful and better suited to shaded, wet settings.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "USDA NRCS Plants Database",
+      "Missouri Botanical Garden Plant Finder"
+    ]
+  }
+]

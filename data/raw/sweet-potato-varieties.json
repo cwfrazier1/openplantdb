@@ -219,5 +219,160 @@
       "USDA Agricultural Research Service",
       "North Carolina Department of Agriculture and Consumer Services"
     ]
+  },
+  {
+    "slug": "jewel-sweet-potato",
+    "common_name": "Jewel Sweet Potato (1970 NCSU Orange Standard)",
+    "scientific_name": "Ipomoea batatas 'Jewel'",
+    "category": "vegetable",
+    "subcategory": "sweet potato",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 90, "max": 110},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Plant certified slips after last frost when soil has warmed above 65°F; Jewel was released in 1970 by North Carolina State University and was the dominant American commercial sweet potato variety from the late 1970s through the 1990s, grown primarily in North Carolina, Louisiana, and Virginia — it remains a reliable home garden standard with excellent moist orange flesh and consistent yields."
+    },
+    "usda_zones": {"min": 5, "max": 11},
+    "spacing_in": {"min": 12, "max": 18},
+    "height_in": {"min": 12, "max": 18},
+    "spread_in": {"min": 48, "max": 84},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant slips 12–18 inches apart in loose, well-drained soil in full sun after soil warms above 65°F; Jewel tolerates less-than-ideal soil conditions better than many newer varieties. Jewel was developed and released in 1970 by North Carolina State University as part of the USDA–state cooperative sweet potato breeding program and became the dominant American commercial sweet potato throughout the 1970s–1990s; it produced the standard against which American sweet potatoes were judged for two decades before Beauregard's introduction. The medium to large, elongated, smooth, coppery-orange to red-orange-skinned roots have intensely orange, moist, sweet flesh that softens to a creamy consistency when baked — an excellent texture for traditional sweet potato preparations. Flavor is sweet and complex with good caramel development during baking. Self-reliant and productive; excellent for Gulf Coast spring planting in late March through April and fall planting in June through July.",
+    "sources": [
+      "North Carolina State University Extension",
+      "USDA National Plant Germplasm System",
+      "Louisiana State University AgCenter"
+    ]
+  },
+  {
+    "slug": "ohenry-sweet-potato",
+    "common_name": "O'Henry Sweet Potato (White-Flesh Beauregard Sport)",
+    "scientific_name": "Ipomoea batatas 'O'Henry'",
+    "category": "vegetable",
+    "subcategory": "sweet potato",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 90, "max": 110},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Plant certified slips after last frost when soil is warm above 65°F; O'Henry is a natural sport (mutation) of Beauregard selected for white flesh rather than orange, retaining Beauregard's productive characteristics while producing cream-to-white-fleshed roots favored in Asian cooking traditions that prefer the milder, drier texture of white sweet potatoes."
+    },
+    "usda_zones": {"min": 5, "max": 11},
+    "spacing_in": {"min": 12, "max": 18},
+    "height_in": {"min": 12, "max": 18},
+    "spread_in": {"min": 48, "max": 84},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant slips 12–18 inches apart in loose, well-drained soil after soil warms above 65°F; culture is identical to Beauregard. O'Henry sweet potato is a natural sport of Beauregard — a genetic mutation selected from a commercial Beauregard planting — that produces cream to white flesh rather than the typical orange, with tan to buff skin; it retains the vigor, yield, and disease resistance of its Beauregard parent. The white flesh has a distinctly different flavor: less sweet, with a drier, more starchy texture and mild, subtle sweetness rather than the intense caramel-sweetness of orange varieties. This profile is much preferred in Japanese and Korean cooking, where it resembles the traditional white-flesh sweet potatoes of East Asian agriculture and is sold in Asian grocery markets across the US. Excellent roasted whole, in savory preparations, tempura, and for any use where a less-sweet, more neutral-flavored sweet potato is desired.",
+    "sources": [
+      "North Carolina State University Extension",
+      "Louisiana State University AgCenter",
+      "National Sweetpotato Collaborators Group"
+    ]
+  },
+  {
+    "slug": "stokes-purple-sweet-potato",
+    "common_name": "Stokes Purple Sweet Potato (Deep Purple Ultra-High Anthocyanin)",
+    "scientific_name": "Ipomoea batatas 'Stokes Purple'",
+    "category": "vegetable",
+    "subcategory": "sweet potato",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 110, "max": 125},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Plant slips after last frost when soil warms above 65°F; Stokes Purple needs a full 110–125 days and benefits from the long season of Gulf Coast and warm Southern gardens; developed by Stokes Tropicals nursery in Lafayette, Louisiana, selected for extraordinarily high anthocyanin content — higher per serving than blueberries — making it one of the most antioxidant-rich foods commercially available."
+    },
+    "usda_zones": {"min": 7, "max": 11},
+    "spacing_in": {"min": 12, "max": 18},
+    "height_in": {"min": 12, "max": 18},
+    "spread_in": {"min": 48, "max": 84},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant slips 12–18 inches apart in loose, well-drained soil after soil warms above 65°F; Stokes Purple needs its full 110–125 days to develop; harvest after first frost threat in cooler climates. Stokes Purple was developed by Stokes Tropicals nursery in Lafayette, Louisiana from crosses involving Asian purple-flesh sweet potato types and selected specifically for American growing conditions and maximum anthocyanin content; the resulting variety has skin ranging from deep purple to nearly black and flesh that is uniformly rich purple-violet throughout — the highest level of anthocyanin pigments of any readily available sweet potato cultivar, higher per serving than blueberries or Concord grapes. The flavor is less sweet and more starchy than orange-flesh types, with an earthy, wine-like complexity and dense texture suited to roasting, savory preparations, smoothies, and applications where the dramatic color matters most. The vivid purple holds reasonably well through cooking, making dishes visually spectacular. Now grown commercially in California and Hawaii; available in health food stores and some major grocery chains.",
+    "sources": [
+      "Stokes Tropicals (Lafayette, Louisiana)",
+      "University of Hawaii CTAHR",
+      "Louisiana State University AgCenter"
+    ]
+  },
+  {
+    "slug": "centennial-sweet-potato",
+    "common_name": "Centennial Sweet Potato (LSU 1966 Orange Gulf Coast Standard)",
+    "scientific_name": "Ipomoea batatas 'Centennial'",
+    "category": "vegetable",
+    "subcategory": "sweet potato",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 90, "max": 105},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Plant slips after last frost when soil warms above 65°F; Centennial was released in 1966 by Louisiana State University Agricultural Center and was the dominant Southern sweet potato for 20+ years before Beauregard's introduction, noted for its excellent disease resistance, consistent yields, and reliable performance specifically in Gulf Coast growing conditions."
+    },
+    "usda_zones": {"min": 6, "max": 11},
+    "spacing_in": {"min": 12, "max": 18},
+    "height_in": {"min": 12, "max": 18},
+    "spread_in": {"min": 48, "max": 84},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant slips 12–18 inches apart in rows 3–4 feet apart in loose, well-drained soil enriched with compost; avoid excessive nitrogen which promotes excessive vining and reduces root yield. Centennial was developed and released in 1966 by the Louisiana State University Agricultural Center, named to commemorate the 100th anniversary of LSU's establishment, and rapidly became the standard commercial sweet potato in Louisiana and throughout the Gulf South; it held that position for nearly two decades before Beauregard displaced it commercially in the late 1980s. Centennial produces medium to large, elongated, smooth, red-orange-skinned roots with deep orange, moist, sweet flesh of excellent quality; it was specifically selected for resistance to Fusarium wilt and other soilborne diseases persistent in Gulf Coast sweet potato production. Now maintained by seed savers and specialty nurseries as an important historical variety of Louisiana and Gulf South agriculture; excellent for home garden use with low inputs.",
+    "sources": [
+      "Louisiana State University AgCenter",
+      "USDA National Plant Germplasm System",
+      "National Sweetpotato Collaborators Group"
+    ]
+  },
+  {
+    "slug": "white-jersey-sweet-potato",
+    "common_name": "White Jersey Sweet Potato (Dry-Type White Heirloom)",
+    "scientific_name": "Ipomoea batatas 'White Jersey'",
+    "category": "vegetable",
+    "subcategory": "sweet potato",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 100, "max": 120},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Plant slips after last frost when soil warms above 65°F; White Jersey is an old American heirloom sweet potato grown in New Jersey since at least the mid-1800s, producing tan to buff-white-skinned, cream-to-white-fleshed roots of the 'dry' (starchy) type preferred in traditional American cooking before moist orange-fleshed types became dominant in the late 19th century."
+    },
+    "usda_zones": {"min": 5, "max": 11},
+    "spacing_in": {"min": 12, "max": 18},
+    "height_in": {"min": 12, "max": 18},
+    "spread_in": {"min": 48, "max": 84},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant slips 12–18 inches apart in well-prepared, loose, well-drained, sandy loam soil after soil warms above 65°F; White Jersey produces best in sandy or light soils. White Jersey is an American heirloom sweet potato representing the 'dry' type that was dominant in American cooking before the mid-20th century when moist orange-fleshed varieties became the standard; grown in New Jersey's sweet potato tradition since at least the 1850s, it produces pale buff to tan-skinned roots with cream-white flesh that cooks to a dry, fluffy, mealy texture resembling an Irish potato more than a modern sweet potato. The flavor is mild, subtle, and lightly sweet without the intense caramel sweetness of orange varieties. This dry, starchy texture was highly prized in traditional American cooking for sweet potato pie (which sets firmer), sweet potato biscuits, and baked goods where a drier texture improved the final product. Now maintained by seed savers as a historical artifact of early American sweet potato culture; an excellent educational variety for understanding the dramatic change in American sweet potato preferences over 150 years.",
+    "sources": [
+      "Seed Savers Exchange",
+      "Southern Exposure Seed Exchange",
+      "USDA National Plant Germplasm System"
+    ]
   }
 ]

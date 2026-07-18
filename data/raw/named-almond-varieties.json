@@ -1,0 +1,157 @@
+[
+  {
+    "slug": "nonpareil-almond",
+    "common_name": "Nonpareil Almond (California Commercial Standard Almond, The World's Almond)",
+    "scientific_name": "Prunus dulcis 'Nonpareil'",
+    "category": "fruit",
+    "subcategory": "nut tree",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 730, "max": 1460},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": -8, "max": -2},
+      "note": "Plant bare-root grafted trees in late winter in well-drained, deep, slightly alkaline to neutral, fertile soil in full sun; Nonpareil is self-incompatible and requires two cross-pollinating varieties — plant with Carmel plus one of (Mission, Butte, Padre, or Fritz) for reliable three-variety pollination system used in California commercial orchards; requires approximately 250–350 chill hours; strictly zones 7–9 in hot, dry summer climates — almonds require a Mediterranean climate with dry summers to ripen properly and avoid hull rot diseases."
+    },
+    "usda_zones": {"min": 7, "max": 9},
+    "spacing_in": {"min": 180, "max": 240},
+    "height_in": {"min": 180, "max": 300},
+    "spread_in": {"min": 144, "max": 216},
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant in well-drained, deep, fertile, slightly alkaline to neutral soil in full sun; Nonpareil requires two cross-pollinating companion varieties for fruit set; irrigate deeply but infrequently once established; harvest in late July to August when hulls split open naturally; shake trees to dislodge nuts and allow to dry on tarps for 1–2 days before hulling and drying. Nonpareil is the most widely planted almond variety in the world and the variety that defines the global almond market — approximately 40–50% of California's almond production, which itself supplies roughly 80% of the world's almonds, comes from Nonpareil trees, making it the single most economically important tree nut variety on earth. The variety was selected in California in the 1870s by A.T. Hatch and propagated by Sexton & Lewelling Nurseries of San Leandro, California, quickly becoming the commercial standard because of its combination of easily-shelled, very thin shell, high kernel percentage (around 62–65%), excellent kernel quality (smooth, flat shape ideal for processing and sliced almonds), and early ripening that opens the harvest season before other varieties. Nonpareil kernels set the price benchmark in global almond markets — the Nonpareil grade commands the highest premiums for direct consumption, whole roasted almonds, and retail packaging because of the variety's consistent appearance, mild sweet flavor, and thin, papery shell. The variety is not self-fertile and requires two companion varieties with overlapping bloom times for reliable nut set.",
+    "sources": [
+      "University of California Cooperative Extension — Almond Variety Review",
+      "Almond Board of California",
+      "USDA Agricultural Research Service — Tree Nut Production"
+    ]
+  },
+  {
+    "slug": "mission-almond",
+    "common_name": "Mission Almond (Texas Mission Almond, California Mission, Hard-Shell Commercial Almond)",
+    "scientific_name": "Prunus dulcis 'Mission'",
+    "category": "fruit",
+    "subcategory": "nut tree",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 730, "max": 1460},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": -8, "max": -2},
+      "note": "Plant bare-root grafted trees in late winter in well-drained, deep, slightly alkaline to neutral soil in full sun; Mission is partially self-fruitful and will produce some crop alone, though yields improve substantially with a companion pollinizer variety; requires approximately 250–300 chill hours; it blooms 1–2 weeks later than Nonpareil, making it more frost-resistant in frost-prone almond-growing areas; Mission is the standard recommendation for Texas almond production."
+    },
+    "usda_zones": {"min": 7, "max": 9},
+    "spacing_in": {"min": 180, "max": 240},
+    "height_in": {"min": 180, "max": 300},
+    "spread_in": {"min": 144, "max": 216},
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant in deep, well-drained, fertile soil in full sun; Mission is partially self-fruitful but benefits from a companion variety; harvest in late August to September — later than Nonpareil — when hulls split naturally; the thick, hard shell requires a nutcracker rather than the light hand pressure sufficient for Nonpareil; kernels are round, plump, and darker than Nonpareil with a richer, slightly more intense almond flavor. Mission almond (also called Texas Mission) is one of the oldest continuously grown named almond varieties in California, historically associated with the California Spanish mission system and possibly introduced to California with Spanish colonization in the late 1700s — though the exact origins are contested. It was one of the first California almond varieties to reach commercial significance and for many years was the second most planted California variety after Nonpareil. Mission's hard, thick shell — a significant disadvantage for fresh-cracking and processing — became an asset in the shell-on almond market, where the hard shell protects the kernel during shipping and storage, and in the roasted-in-shell specialty market. Mission almonds also have a distinctly different flavor from the mild Nonpareil — slightly richer, with a more intense almond character — making them preferred by some specialty roasters and confectioners. The variety's later bloom time (1–2 weeks after Nonpareil) reduces spring frost risk at the critical blossom stage, a practical advantage in frost-prone almond sites. In Texas, Mission is the primary recommended almond variety where it often goes by the name 'Texas Mission.'",
+    "sources": [
+      "Texas A&M AgriLife Extension — Almond Production in Texas",
+      "Almond Board of California — Variety Information",
+      "University of California Cooperative Extension"
+    ]
+  },
+  {
+    "slug": "carmel-almond",
+    "common_name": "Carmel Almond (Reliable California Pollenizer Almond, High-Production Soft-Shell Almond)",
+    "scientific_name": "Prunus dulcis 'Carmel'",
+    "category": "fruit",
+    "subcategory": "nut tree",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 730, "max": 1460},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": -8, "max": -2},
+      "note": "Plant bare-root grafted trees in late winter in well-drained, deep, fertile soil in full sun; Carmel is self-incompatible but is one of the best cross-pollinators available for Nonpareil — its bloom time overlaps extensively with Nonpareil, and its very abundant pollen production and early bearing habit make it the most commonly planted companion variety for Nonpareil in California commercial orchards; requires approximately 300 chill hours."
+    },
+    "usda_zones": {"min": 7, "max": 9},
+    "spacing_in": {"min": 180, "max": 240},
+    "height_in": {"min": 180, "max": 300},
+    "spread_in": {"min": 144, "max": 216},
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant in deep, well-drained fertile soil in full sun; Carmel is primarily planted as a companion and cross-pollinator for Nonpareil in commercial orchards but also produces its own crop of soft-shell almonds with good flavor; it ripens slightly after Nonpareil (mid-August); kernels are slightly smaller than Nonpareil but of good quality for snacking and roasting. Carmel almond is a UC Davis release developed specifically to serve as the ideal companion and cross-pollinator for Nonpareil — the two are now the most common planting pair in California commercial almond orchards, with the standard three-variety system often being Nonpareil + Carmel + Mission or Butte. Carmel's most important attribute in commercial production is pollination efficiency: its bloom time coincides precisely with Nonpareil, it produces abundant viable pollen, and it bears its own crop reliably and heavily — making it productive as both a pollinator and a production variety rather than just a sterile companion tree. The variety was developed at UC Davis by Floyd Zaiger and William Sims and has been important in the rapid expansion of California almond acreage since the 1970s because its reliable early bearing and high productivity complemented Nonpareil's commercial requirements. Carmel produces soft-shell almonds of moderate size with a sweet, mild almond flavor somewhat similar to Nonpareil — entirely acceptable for all uses including direct consumption, roasting, and confectionery — while its primary role remains as the preferred pollinator in the world's most important almond-producing region.",
+    "sources": [
+      "University of California Cooperative Extension — Almond Variety Review",
+      "Almond Board of California",
+      "USDA Agricultural Research Service"
+    ]
+  },
+  {
+    "slug": "marcona-almond",
+    "common_name": "Marcona Almond (Spanish Queen of Almonds, Round Blanched Premium Almond)",
+    "scientific_name": "Prunus dulcis 'Marcona'",
+    "category": "fruit",
+    "subcategory": "nut tree",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 730, "max": 1460},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": -8, "max": -2},
+      "note": "Plant bare-root grafted trees in late winter in well-drained, deep, slightly alkaline to neutral, fertile soil in full sun in a Mediterranean or dry-summer climate; Marcona is self-incompatible and requires a companion almond variety for pollination; requires approximately 200–300 chill hours, making it suitable for warmer zones 8–10 with mild winters; it is specifically adapted to the dry, calcareous soils and Mediterranean climate of coastal Spain."
+    },
+    "usda_zones": {"min": 7, "max": 10},
+    "spacing_in": {"min": 180, "max": 240},
+    "height_in": {"min": 144, "max": 240},
+    "spread_in": {"min": 120, "max": 216},
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant in well-drained, deep, fertile soil (calcareous or sandy loam preferred) in full sun; Marcona requires a companion pollenizer variety; harvest in late summer when hulls begin to split; the round, flat kernels are best roasted in olive oil and sea salt in the traditional Spanish preparation — the rich, buttery texture of roasted Marcona is distinctly different from any California variety. Marcona is a Spanish almond variety traditionally grown along the eastern Mediterranean coast of Spain (the Valencian Community and Murcia region) that has become known internationally as the 'queen of almonds' for its extraordinarily rich, buttery flavor and distinctive round, flat shape that makes it immediately recognizable on a charcuterie board or tapas spread. The flavor difference between Marcona and California varieties (Nonpareil, Mission, Carmel) is significant and immediately apparent to tasters: Marcona has a much higher fat content and a softer, more buttery texture with a sweeter, more intensely almond-flavored profile — often described as having hints of marzipan and fresh sweetness that California varieties cannot replicate. The traditional preparation — blanched (skin removed), roasted in olive oil, and salted — is the standard presentation in Spanish tapas and increasingly common in American specialty food and charcuterie culture. Marcona's very low chill requirement (200–300 hours) makes it the almond most adapted to warm-winter zones 8–10 where standard California varieties may also grow, but Marcona's flavor sets it apart for culinary use. Not as productive as California commercial varieties in California growing conditions.",
+    "sources": [
+      "University of California Cooperative Extension — Specialty Almond Varieties",
+      "California Rare Fruit Growers",
+      "Spanish Ministry of Agriculture — Marcona Almond Variety Documentation"
+    ]
+  },
+  {
+    "slug": "halls-hardy-almond",
+    "common_name": "Hall's Hardy Almond (Cold-Hardy Almond, Northern Almond, Zones 5-8 Almond)",
+    "scientific_name": "Prunus dulcis × persica 'Hall's Hardy'",
+    "category": "fruit",
+    "subcategory": "nut tree",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 730, "max": 1460},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": -8, "max": -2},
+      "note": "Plant bare-root grafted trees in late winter in well-drained, deep, fertile, slightly alkaline to neutral soil in full sun; Hall's Hardy is believed to be a peach-almond hybrid with cold-hardiness to approximately -15°F or below — significantly more cold-hardy than standard California almonds; it is partially self-fruitful but benefits from cross-pollination with a companion tree; the late-blooming habit of Hall's Hardy (several weeks after pure almond varieties) significantly reduces the risk of spring frost blossom kill that devastates standard almonds in the Midwest and mid-Atlantic."
+    },
+    "usda_zones": {"min": 5, "max": 8},
+    "spacing_in": {"min": 144, "max": 216},
+    "height_in": {"min": 144, "max": 240},
+    "spread_in": {"min": 120, "max": 180},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in well-drained, fertile, deep soil in full sun on a protected slope or elevated site to reduce late spring frost damage to blossoms; Hall's Hardy blooms later than standard almonds, reducing but not eliminating frost risk to flowers; harvest nuts in September when hulls split; the small to medium kernels have a mild almond flavor but thicker shells than California varieties — crack-in-shell type. Hall's Hardy almond occupies a unique market niche as essentially the only widely available almond variety for cold-climate gardeners in zones 5–8 of the northeastern and Midwestern United States, where the low temperatures that standard California almonds cannot survive and the late spring frosts that kill the early-blooming California almond flowers make standard almond production impractical or impossible. Hall's Hardy is believed by many pomologists to be a hybrid between Prunus dulcis (almond) and Prunus persica (peach) rather than a pure almond — it demonstrates characteristics of both parents, including cold-hardiness exceeding pure almond by a substantial margin, later bloom time, and nuts with a thick shell and moderate almond flavor. These characteristics — while reducing the quality compared to premium California almonds — allow Hall's Hardy to produce viable almond-type nuts in zone 5–8 climates where no standard almond variety will survive reliably. The nuts are smaller and have a thicker shell than Nonpareil or Mission, with a mild but acceptable almond flavor that is usable for cooking, baking, and direct consumption. For cold-climate home orchardists interested in growing their own almonds, Hall's Hardy is essentially the only viable option.",
+    "sources": [
+      "Penn State Extension — Alternative Nut Trees for Pennsylvania",
+      "University of Illinois Extension — Nut Tree Production",
+      "North American Fruit Explorers Pomona Journal"
+    ]
+  }
+]

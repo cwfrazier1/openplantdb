@@ -1,0 +1,157 @@
+[
+  {
+    "slug": "rampion-bellflower",
+    "common_name": "Rampion Bellflower (Rapunzel Root, Edible Bellflower)",
+    "scientific_name": "Campanula rapunculus",
+    "category": "vegetable",
+    "subcategory": "root",
+    "days_to_germination": {"min": 14, "max": 28},
+    "germination_soil_temp_f": {"min": 55, "max": 68},
+    "days_to_maturity": {"min": 90, "max": 120},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": -6, "max": 0},
+      "note": "Sow in early spring or late summer on the soil surface in a prepared seedbed (rampion requires light for germination and should not be covered); rampion is the edible plant at the center of the Brothers Grimm fairy tale 'Rapunzel' — a European biennial with a parsnip-like edible root and edible young leaves that was widely grown in kitchen gardens throughout Europe from the Middle Ages through the 19th century before largely disappearing from cultivation."
+    },
+    "usda_zones": {"min": 4, "max": 9},
+    "spacing_in": {"min": 4, "max": 6},
+    "height_in": {"min": 24, "max": 48},
+    "spread_in": {"min": 6, "max": 10},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Press seeds onto the soil surface without covering (light required for germination); keep the seedbed consistently moist until germination; thin to 4–6 inches apart; harvest roots in fall of the first year or early spring of the second year by digging carefully with a fork; the slender white roots are eaten raw or cooked, and the young leaves and shoots are used in salads. Rampion (Campanula rapunculus) is a European biennial wildflower and traditional kitchen garden vegetable that is best known as the plant at the center of the Brothers Grimm fairy tale 'Rapunzel': the story's plot hinges on a pregnant woman's craving for the rampion growing in the enchanted garden next door, her husband's theft of the plant to satisfy the craving, and the consequence of giving up their daughter as payment — 'Rapunzel' is simply the German and Italian name for Campanula rapunculus. The real rampion is a slender-rooted biennial native to Europe, North Africa, and western Asia, whose edible taproot (resembling a small, white parsnip or radish) was eaten raw in salads (with a mild, slightly nutty, turnip-like flavor) or cooked in soups and stews in French, Italian, and German kitchen gardens from medieval times through the 1800s. The young leaves are also edible — mildly sweet and tender — and were used in spring salads. Rampion largely disappeared from cultivation as more productive root vegetables (parsnips, turnips, carrots) displaced it, but the plant is still grown by kitchen garden historians and edible plant collectors. In its second year it sends up 2–4 foot spikes of pale violet-blue, bell-shaped flowers typical of the bellflower family.",
+    "sources": [
+      "Mabey, Richard. Food for Free",
+      "Royal Horticultural Society",
+      "Baker Creek Heirloom Seeds"
+    ]
+  },
+  {
+    "slug": "buckler-sorrel",
+    "common_name": "Buckler Sorrel (French Sorrel, Shield-Leaf Sorrel)",
+    "scientific_name": "Rumex scutatus",
+    "category": "vegetable",
+    "subcategory": "leafy green",
+    "days_to_germination": {"min": 7, "max": 14},
+    "germination_soil_temp_f": {"min": 50, "max": 70},
+    "days_to_maturity": {"min": 50, "max": 70},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": -4, "max": 2},
+      "note": "Direct sow in spring or fall; buckler sorrel (Rumex scutatus) is a distinct species from common garden sorrel (Rumex acetosa) with smaller, shield-shaped leaves, a lemony-tart but notably milder flavor than common sorrel, and better tolerance for light shade and dry conditions — the preferred sorrel of French cuisine for cream of sorrel soup, chiffonade in salads, and fish sauces."
+    },
+    "usda_zones": {"min": 4, "max": 9},
+    "spacing_in": {"min": 8, "max": 12},
+    "height_in": {"min": 8, "max": 16},
+    "spread_in": {"min": 10, "max": 16},
+    "sun": "partial",
+    "water": "low",
+    "directions": "Sow directly in spring or fall in any well-drained soil; buckler sorrel is drought-tolerant when established and tolerates light shade, making it useful under taller plants; harvest young leaves by cutting 2–3 inches above the crown; remove flowering stalks to encourage continued leaf production; plants are perennial and will regrow from the crown each spring. Buckler sorrel (Rumex scutatus) is a European perennial herb closely related to but distinct from common garden sorrel (Rumex acetosa) — the differences are important for culinary use: where common sorrel has large, elongated arrow-shaped leaves with a strong, pungent, distinctly acidic flavor, buckler sorrel has small, rounded, shield-shaped (scutate — hence 'scutatus') leaves with a more delicate, lemony-tart flavor that is fresh and citrusy without the harsh tang of the larger-leaved species. The name 'buckler' refers to the small round medieval shield (a buckler) that the leaf shape resembles. Buckler sorrel is considered the superior culinary sorrel in French cooking: it is used in the classic potage à l'oseille (cream of sorrel soup), as a chiffonade in salads where the milder flavor is more versatile, in sauce oseille served with fish and eggs, and as an herbal flavoring in vinaigrettes where lemon-acid flavors are desired without citrus. The leaves are high in oxalic acid (as is common sorrel), so large quantities should not be eaten regularly, but culinary use in normal amounts is entirely safe. Once established, buckler sorrel is a tough, long-lived perennial that self-sows readily and can spread if not managed.",
+    "sources": [
+      "Vilmorin-Andrieux. The Vegetable Garden (1885)",
+      "Seeds of Italy",
+      "Baker Creek Heirloom Seeds"
+    ]
+  },
+  {
+    "slug": "salicornia-sea-beans",
+    "common_name": "Salicornia (Sea Beans, Glasswort, Sea Asparagus)",
+    "scientific_name": "Salicornia europaea",
+    "category": "vegetable",
+    "subcategory": "coastal vegetable",
+    "days_to_germination": {"min": 7, "max": 21},
+    "germination_soil_temp_f": {"min": 55, "max": 70},
+    "days_to_maturity": {"min": 60, "max": 90},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Direct sow after last frost in sandy, saline, or coastal soil; salicornia is a remarkable halophyte (salt-tolerant plant) that thrives in conditions where almost no other vegetable grows — salt marshes, coastal flats, saline soils, and tide-edge gardens — and produces crunchy, bright green, segmented stems with a naturally salty, oceanic flavor used in gourmet cuisine as 'sea beans' or 'sea asparagus.'"
+    },
+    "usda_zones": {"min": 3, "max": 11},
+    "spacing_in": {"min": 4, "max": 8},
+    "height_in": {"min": 6, "max": 18},
+    "spread_in": {"min": 4, "max": 8},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Sow seeds after last frost in sandy, well-drained soil; salicornia is one of the few vegetables that can be watered with dilute seawater or grown in genuinely saline soil where other vegetables die; harvest bright green stems by snipping with scissors when 3–6 inches long for the most tender eating quality. Salicornia (also called sea beans, glasswort, sea asparagus, samphire — not to be confused with rock samphire, Crithmum maritimum) is an annual succulent halophyte — a plant not merely tolerant of salt but actually thriving in salty, coastal environments — native to salt marshes, coastal mudflats, and tidal edges around the world. The plant is entirely leafless: instead of conventional leaves, it consists of jointed, fleshy, cylindrical green stems that branch repeatedly, creating a plant that looks like bright green coral or a miniature cactus. These stems are the edible part — crunchy, bright green, and naturally seasoned with sea salt stored in the plant tissues, with a distinctive briny, fresh, oceanic flavor and a crisp texture that makes raw eating possible without additional seasoning. Salicornia is prized in gourmet cooking as 'sea beans' — sautéed briefly in butter (excellent with fish and shellfish), pickled, used raw in salads for their crunch and natural seasoning, or served alongside seafood dishes where the marine flavor echo is an elegant touch. The plant was historically used in glass-making in coastal areas (hence 'glasswort' — the burned ash was used as an alkali source for soda-lime glass production). For Gulf Coast gardeners in zones 8b–10, salicornia can be grown in garden soil without salt amendment, or cultivated in genuinely saline coastal conditions where nothing else will grow.",
+    "sources": [
+      "Mabey, Richard. Food for Free",
+      "Coastal Conservation Association",
+      "Johnny's Selected Seeds"
+    ]
+  },
+  {
+    "slug": "ruby-streaks-mustard",
+    "common_name": "Ruby Streaks Mustard (Red Frills Mustard, Deeply Cut Red Mustard)",
+    "scientific_name": "Brassica juncea 'Ruby Streaks'",
+    "category": "vegetable",
+    "subcategory": "leafy green",
+    "days_to_germination": {"min": 5, "max": 10},
+    "germination_soil_temp_f": {"min": 45, "max": 85},
+    "days_to_maturity": {"min": 21, "max": 40},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {"min": -10, "max": -4},
+      "note": "Direct sow in late summer or fall (zones 7–11) or early spring (zones 3–7); Ruby Streaks is a deeply serrated, feathery, ruby-red to dark burgundy mustard green whose finely cut leaves resemble flat-leaf parsley in form but are dramatically larger, more colorful, and with the characteristic sharp mustard bite — it is the standard 'red frills' mustard in mesclun and salad mix production and one of the most visually striking cool-season greens available."
+    },
+    "usda_zones": {"min": 3, "max": 11},
+    "spacing_in": {"min": 4, "max": 8},
+    "height_in": {"min": 8, "max": 18},
+    "spread_in": {"min": 6, "max": 12},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Broadcast seed thinly or sow in rows 1/4 inch deep; for baby leaf harvest sow thickly and cut at 3–4 inches (2–3 weeks); for mature plants thin to 6–8 inches; harvest outer leaves or cut the whole plant at 4–6 inches above the crown for cut-and-come-again; the pungent flavor mellows with cooking. Ruby Streaks is a deeply serrated, feathery-leaved mustard green with deeply incised, almost pinnately cut leaves that create a lacey, frilly appearance dramatically different from the broad flat or ruffled leaves of traditional Southern mustard varieties — the leaf form is sometimes compared to flat-leaf parsley or baby arugula but scaled up and colored an intense burgundy-red to dark purple-red throughout. The name describes the appearance perfectly: the stems and veins are ruby-red while the deeply cut leaf tissue is a rich burgundy-maroon that becomes most intense in cold weather, making Ruby Streaks one of the most visually dramatic cool-season greens available for garden beds and mesclun mixes. The flavor is strongly mustardy with a sharp, spicy edge that makes it an excellent salad mix component providing flavor contrast to milder greens (lettuce, spinach, mild arugula) and visual color interest; young leaves (3–4 weeks) are mild enough for raw eating while mature leaves (5–6 weeks) have significant heat that benefits from brief cooking or a vinegar-dressed wilted salad. Ruby Streaks is one of the standard components of the premium mesclun salad mix sold under names like 'Braising Mix' and 'Asian Salad Mix' in American specialty markets.",
+    "sources": [
+      "Johnny's Selected Seeds",
+      "Baker Creek Heirloom Seeds",
+      "Kitazawa Seed Company"
+    ]
+  },
+  {
+    "slug": "golden-frill-mustard",
+    "common_name": "Golden Frill Mustard (Yellow-Green Frilly Mustard)",
+    "scientific_name": "Brassica juncea 'Golden Frill'",
+    "category": "vegetable",
+    "subcategory": "leafy green",
+    "days_to_germination": {"min": 5, "max": 10},
+    "germination_soil_temp_f": {"min": 45, "max": 85},
+    "days_to_maturity": {"min": 21, "max": 40},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {"min": -10, "max": -4},
+      "note": "Direct sow in late summer or fall (zones 7–11) or early spring (zones 3–7); Golden Frill is a yellow-green counterpart to Ruby Streaks mustard — both have deeply serrated, feathery leaves, but Golden Frill's chartreuse to light yellow-green color provides a dramatic visual contrast when planted alongside purple or red mustard varieties; flavor is milder than red mustard types at the same leaf age, making it versatile for fresh salads."
+    },
+    "usda_zones": {"min": 3, "max": 11},
+    "spacing_in": {"min": 4, "max": 8},
+    "height_in": {"min": 8, "max": 18},
+    "spread_in": {"min": 6, "max": 12},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Broadcast or sow in rows 1/4 inch deep; for baby leaf harvest sow thickly and cut at 3–4 inches; for mature plants thin to 6–8 inches; harvest outer leaves continuously or cut the whole plant 4–6 inches above the crown for cut-and-come-again; milder than red frills types at the same growth stage. Golden Frill is a deeply serrated, feathery-leaved mustard green with the same fine, lacey, frilly leaf form as Ruby Streaks but with chartreuse to bright yellow-green coloring — a deliberate complement to red frills types in mesclun mixes and specialty salad production. The deeply incised, pinnately cut leaves (resembling an extremely large, pungent parsley) are the characteristic form of the 'frills' mustard group, but Golden Frill's bright color is distinctive and valuable in ornamental kitchen garden plantings where the yellow-green foliage contrasts dramatically with red-leaved varieties, dark green kales, and purple cabbages. The flavor is mustard-sharp but somewhat milder than red-leaved mustard varieties at the same stage of maturity — mild enough to use raw in quantity in salads at the baby leaf stage, with more heat developing in mature leaves. Golden Frill is a standard component of mesclun and Asian salad mixes alongside Ruby Streaks, mizuna, and tatsoi; the combination of all four creates dramatic visual contrast (red, chartreuse, dark green, and pale green) with complementary flavors. Extremely fast-growing in cool weather — baby leaves in 21 days, full plants in 35–40 days.",
+    "sources": [
+      "Johnny's Selected Seeds",
+      "Territorial Seed Company",
+      "Kitazawa Seed Company"
+    ]
+  }
+]

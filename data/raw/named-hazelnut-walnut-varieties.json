@@ -1,0 +1,157 @@
+[
+  {
+    "slug": "barcelona-hazelnut",
+    "common_name": "Barcelona Hazelnut (Barcelona Filbert, Pacific Northwest Commercial Filbert Standard)",
+    "scientific_name": "Corylus avellana 'Barcelona'",
+    "category": "fruit",
+    "subcategory": "nut tree",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 1095, "max": 2190},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": -6, "max": -2},
+      "note": "Plant bare-root or container hazelnuts in late winter or early spring in well-drained, slightly acidic to neutral, fertile soil in full sun; Barcelona is self-incompatible and requires a cross-pollinating companion variety — plant with Ennis, Daviana, or the newer OSU releases (Yamhill, Jefferson) for reliable nut set; IMPORTANT: Barcelona is highly susceptible to Eastern Filbert Blight (EFB), a devastating fungal disease that is endemic throughout the eastern United States — Barcelona is NOT recommended for gardens east of the Mississippi; in the Pacific Northwest it produces reliably without EFB pressure."
+    },
+    "usda_zones": {"min": 4, "max": 8},
+    "spacing_in": {"min": 120, "max": 180},
+    "height_in": {"min": 96, "max": 216},
+    "spread_in": {"min": 96, "max": 180},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in well-drained, fertile, slightly acidic to neutral soil in full sun; Barcelona requires a companion pollenizer variety; the catkins (male flowers) shed pollen in late winter before the tiny female flowers emerge; nuts ripen in September–October and fall naturally when ripe — sweep them from the ground daily for best quality before mold develops. Barcelona hazelnut is the dominant commercial hazelnut (filbert) variety in the Willamette Valley of Oregon, which produces approximately 99% of the American commercial hazelnut crop and is the third-largest hazelnut production region in the world after Turkey and Italy. The variety was introduced from Spain (where it was a standard filbert cultivar) to the Oregon hazelnut industry in the late 1800s and quickly became the commercial standard because of its productive, consistent cropping, large nut size for the era, and good kernel quality. For over a century, Barcelona dominated Oregon hazelnut production so completely that the Oregon hazelnut industry and Barcelona hazelnut were essentially synonymous. The primary limitation of Barcelona — and the reason it has begun to be replaced by newer OSU-released varieties — is its extreme susceptibility to Eastern Filbert Blight (EFB), a canker disease caused by the native American fungus Anisogramma anomala that is devastating in the eastern United States where it is endemic but historically absent from Pacific Coast orchards. EFB reached Oregon in the 1990s, and its spread has prompted the Oregon hazelnut industry to shift toward the new EFB-resistant OSU varieties (Jefferson, Yamhill, others).",
+    "sources": [
+      "Oregon State University Extension — Hazelnut Production",
+      "Willamette Valley Hazelnut Growers Association",
+      "Washington State University Extension"
+    ]
+  },
+  {
+    "slug": "yamhill-hazelnut",
+    "common_name": "Yamhill Hazelnut (OSU EFB-Resistant Compact Hazelnut, Eastern-Adapted Filbert)",
+    "scientific_name": "Corylus avellana 'Yamhill'",
+    "category": "fruit",
+    "subcategory": "nut tree",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 1095, "max": 1825},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": -6, "max": -2},
+      "note": "Plant in well-drained, slightly acidic to neutral soil in full sun; Yamhill requires a cross-pollinating companion variety — plant with Jefferson, Wepster, or other EFB-resistant OSU releases; Yamhill is a 2009 OSU release specifically bred with Eastern Filbert Blight resistance, making it suitable for planting in eastern North America (from the Mid-Atlantic through the Midwest) where the standard Barcelona variety is killed by endemic EFB; it is also suitable for Pacific Northwest gardens."
+    },
+    "usda_zones": {"min": 4, "max": 8},
+    "spacing_in": {"min": 96, "max": 180},
+    "height_in": {"min": 96, "max": 180},
+    "spread_in": {"min": 96, "max": 180},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in well-drained, slightly acidic to neutral soil in full sun; Yamhill requires a cross-pollinator (Jefferson, Wepster, or another EFB-resistant OSU variety); it is semi-compact and tends to produce a shorter, multi-stemmed bush form; nuts ripen September and fall naturally — harvest promptly from the ground; Yamhill typically begins bearing in year 3–4, earlier than some older varieties. Yamhill hazelnut is an Oregon State University variety released in 2009 from the OSU hazelnut breeding program — one of the first wave of EFB-resistant named hazelnut varieties developed specifically to allow hazelnut production throughout the eastern United States, where Eastern Filbert Blight (Anisogramma anomala) has prevented the success of standard European varieties including Barcelona. The OSU breeding program incorporated EFB resistance from the wild Turkish hazelnut (Corylus colurna) and other resistant species into productive, quality-fruited cultivars adapted to commercial and home hazelnut production. Yamhill's EFB resistance is now documented in variety trials throughout the mid-Atlantic and Midwestern states where EFB pressure is severe, showing dramatically better survival and production than Barcelona and other susceptible varieties. Yamhill tends to have a compact, bushy habit (shorter than Barcelona) and produces medium-sized, round nuts with good flavor and moderate kernel percentage — suitable for home fresh use, roasting, and processing. The combination of EFB resistance, compact habit, and earlier bearing age than older varieties makes Yamhill one of the most important hazelnut releases for home orchardists east of the Cascades.",
+    "sources": [
+      "Oregon State University Extension — New Hazelnut Varieties",
+      "Rutgers Cooperative Extension — Hazelnut Production in New Jersey",
+      "North American Fruit Explorers Quarterly"
+    ]
+  },
+  {
+    "slug": "jefferson-hazelnut",
+    "common_name": "Jefferson Hazelnut (OSU Premium Large-Nut EFB-Resistant Filbert, OSU 2009 Release)",
+    "scientific_name": "Corylus avellana 'Jefferson'",
+    "category": "fruit",
+    "subcategory": "nut tree",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 1095, "max": 1825},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": -6, "max": -2},
+      "note": "Plant in well-drained, slightly acidic to neutral, fertile soil in full sun; Jefferson is self-incompatible and requires a cross-pollinating companion variety — plant with Yamhill, Wepster, or another EFB-resistant OSU release; Jefferson is the OSU hazelnut release most comparable to Barcelona in nut size and quality while adding Eastern Filbert Blight resistance, making it the premium home and commercial selection for both Pacific Northwest and eastern US hazelnut production."
+    },
+    "usda_zones": {"min": 4, "max": 8},
+    "spacing_in": {"min": 120, "max": 180},
+    "height_in": {"min": 120, "max": 216},
+    "spread_in": {"min": 96, "max": 180},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in well-drained, slightly acidic to neutral soil in full sun; Jefferson hazelnut requires a companion variety for cross-pollination; nuts ripen in September–October and drop naturally; harvest promptly from ground and dry immediately at low heat to cure and extend shelf life; Jefferson's large, well-filled nuts are suitable for roasting, confectionery, and fresh consumption. Jefferson hazelnut was released by Oregon State University in 2009 — named after Thomas Jefferson, who was an enthusiastic hazelnut grower at Monticello — and represents the flagship of OSU's first generation of EFB-resistant hazelnut varieties. Among the OSU 2009 releases, Jefferson stands out as the variety with the largest nut size and highest kernel quality comparable to the longtime commercial standard Barcelona, while adding the critical Eastern Filbert Blight resistance that Barcelona lacks. In Oregon and Washington State hazelnut orchards, Jefferson is being planted as a replacement for Barcelona both in existing orchards where EFB has arrived and in new plantings where EFB resistance is now considered standard. In the eastern United States, Jefferson has opened hazelnut production to a region that was essentially unable to grow commercial European hazelnuts due to the endemic EFB — Mid-Atlantic and Midwestern university variety trials show Jefferson performing strongly under heavy EFB pressure that devastates Barcelona in just 2–3 seasons. The nuts are large, round to oval, with a clean, thin shell and excellent sweet hazelnut flavor — considered among the best-tasting of any named variety, justifying the Jefferson name's association with culinary excellence.",
+    "sources": [
+      "Oregon State University Extension — Jefferson Hazelnut Release",
+      "Oregon Hazelnut Commission",
+      "Rutgers University — Mid-Atlantic Hazelnut Development Project"
+    ]
+  },
+  {
+    "slug": "chandler-walnut",
+    "common_name": "Chandler Walnut (California Commercial Standard Walnut, UC Davis Walnut)",
+    "scientific_name": "Juglans regia 'Chandler'",
+    "category": "fruit",
+    "subcategory": "nut tree",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 1825, "max": 3650},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": -8, "max": -2},
+      "note": "Plant bare-root grafted trees in late winter in deep (4+ feet), well-drained, fertile loam or sandy loam; Chandler is protandrous (sheds pollen before its own pistillate flowers are receptive) and benefits from cross-pollination with a companion variety; requires approximately 700–800 chill hours and is best adapted to the California Central Valley and similar zones 6–9 climates; avoid sites with heavy clay or poor drainage — walnuts are sensitive to Phytophthora root rot in waterlogged soils."
+    },
+    "usda_zones": {"min": 6, "max": 9},
+    "spacing_in": {"min": 360, "max": 600},
+    "height_in": {"min": 360, "max": 600},
+    "spread_in": {"min": 360, "max": 480},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in deep, well-drained, fertile loam in full sun; Chandler benefits from cross-pollination though it will produce some crop alone; the large, thin-shelled nuts ripen in September–October and are harvested by mechanical knock-down or hand-collection when hulls begin to split; allow nuts to dry at 100°F for several days after harvest to reduce moisture content for storage. Chandler walnut is the most widely planted commercial English (Persian) walnut variety in California and among the most important walnut varieties in the world — released by UC Davis in 1979 from the UC Walnut Improvement Program as a selection with exceptional combination of large nut size, very thin shell, high kernel percentage (above 50%), and excellent kernel color and quality. California produces approximately 75% of the world's English walnut supply, and Chandler accounts for more than half of that production — making Chandler the single most economically important walnut variety on earth. The variety produces very large (28–30 mm), well-shaped nuts with a thin shell that cracks easily and yields plump, light-colored halves with mild, sweet walnut flavor and high oil content typical of premium English walnuts. The light kernel color (essential for premium market pricing, where darker kernels command lower prices) and consistent quality in the drying and processing process made Chandler the preferred commercial variety over the older standards (Franquette, Hartley, Serr). For home orchards in zones 6–9, Chandler delivers premium walnut quality with good productivity.",
+    "sources": [
+      "University of California Cooperative Extension — Walnut Varieties",
+      "California Walnut Board",
+      "University of California, Davis — Walnut Improvement Program"
+    ]
+  },
+  {
+    "slug": "franquette-walnut",
+    "common_name": "Franquette Walnut (Late-Leafing French Walnut, Frost-Safe Walnut, Isère Valley Walnut)",
+    "scientific_name": "Juglans regia 'Franquette'",
+    "category": "fruit",
+    "subcategory": "nut tree",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 1825, "max": 3650},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": -8, "max": -2},
+      "note": "Plant bare-root grafted trees in late winter in deep, fertile, well-drained loam; Franquette is late-leafing (3–4 weeks later than Chandler), which substantially reduces the risk of late spring frost damage to developing catkins and leaves — a significant practical advantage in climates with variable spring frosts; it requires cross-pollination from Chandler, Hartley, or another compatible variety for best nut set; requires approximately 700 chill hours."
+    },
+    "usda_zones": {"min": 5, "max": 9},
+    "spacing_in": {"min": 360, "max": 600},
+    "height_in": {"min": 360, "max": 720},
+    "spread_in": {"min": 360, "max": 480},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in deep, well-drained, fertile loam in full sun; Franquette requires cross-pollination; the late leafing habit means the catkins emerge significantly later than standard varieties — reducing spring frost damage that can eliminate the entire nut crop in frost-prone sites; Franquette ripens late (October–November), producing medium to large nuts with moderately thin shells and good flavor. Franquette walnut is a French variety with origins in the Isère department of southeastern France, where it was grown as a commercial production variety long before California walnut production began, and was one of the first named walnut varieties introduced to the Pacific Coast of North America in the 1870s and 1880s when California's walnut industry was developing. The variety's most important attribute is its late-leafing phenology — Franquette emerges from dormancy 3–4 weeks later in spring than most other walnut varieties, including Chandler, Hartley, and Serr. This late emergence is critically important in frost-prone regions: walnut catkins (male flowers) and developing leaves are extremely frost-sensitive, and an unexpected late spring frost at the critical bloom period can eliminate the entire nut crop for the season — a problem that Franquette largely avoids due to its delayed bud break. This characteristic made Franquette the variety of choice for sites at higher elevations, more northerly latitudes, or valleys prone to late spring frosts where earlier varieties fail too frequently. Franquette also serves as an important cross-pollinator for Chandler and other protogynous varieties in commercial orchards.",
+    "sources": [
+      "University of California Cooperative Extension — Walnut Varieties",
+      "Oregon State University Extension — Walnut Production in the Pacific Northwest",
+      "California Walnut Board"
+    ]
+  }
+]

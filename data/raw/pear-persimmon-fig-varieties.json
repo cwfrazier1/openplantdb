@@ -1,0 +1,188 @@
+[
+  {
+    "slug": "bosc-pear",
+    "common_name": "Bosc Pear (Beurré Bosc, Kaiser Pear)",
+    "scientific_name": "Pyrus communis 'Bosc'",
+    "category": "fruit",
+    "subcategory": "pear",
+    "days_to_germination": {"min": 60, "max": 90},
+    "germination_soil_temp_f": {"min": 35, "max": 45},
+    "days_to_maturity": {"min": 130, "max": 150},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Plant bare-root trees in early spring before bud break, or container-grown trees in spring or fall; Bosc pear requires 600–900 chill hours (cool nights below 45°F) and performs best in zones 5–8; a cross-pollinator (Bartlett, Anjou, or Comice) must be planted within 100 feet for reliable fruiting, as Bosc is not self-fruitful."
+    },
+    "usda_zones": {"min": 5, "max": 8},
+    "spacing_in": {"min": 144, "max": 240},
+    "height_in": {"min": 180, "max": 300},
+    "spread_in": {"min": 120, "max": 240},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in full sun in deep, well-drained, slightly acidic (pH 6.0–6.5) soil; amend with compost before planting; Bosc pear requires a cross-pollinator within 100 feet — plant with Bartlett, Anjou, or Comice for best fruit set. Bosc pear (Beurré Bosc, also marketed as Kaiser in Europe) is a Belgian heirloom originating in the early 1800s and named for Louis Bosc, a French diplomat and naturalist; it is immediately distinguished from other pears by its elongated shape, long graceful neck tapering to a slender stem, and russeted skin ranging from golden-yellow to russet-brown — unlike the smooth, green or yellow skin of Bartlett and Anjou types. The flesh is white to cream, dense, crisp and aromatic when just harvested but quickly transitions to the typical soft, buttery, juicy pear texture; the flavor is spicy-sweet with hints of vanilla, cinnamon, and honey — considered by many pear enthusiasts among the most complex and interesting flavors of the major commercial pear varieties. Bosc ripens mid to late season (September–November depending on location), later than Bartlett; it is the superior pear for cooking, baking, and poaching because it holds its shape under heat better than soft-fleshed types, while also excellent for fresh eating at peak ripeness. Requires 600–900 chill hours; zones 5–8.",
+    "sources": [
+      "Cornell University Tree Fruit Program",
+      "Oregon State University Extension",
+      "University of California Cooperative Extension"
+    ]
+  },
+  {
+    "slug": "comice-pear",
+    "common_name": "Comice Pear (Doyenné du Comice, Christmas Pear)",
+    "scientific_name": "Pyrus communis 'Comice'",
+    "category": "fruit",
+    "subcategory": "pear",
+    "days_to_germination": {"min": 60, "max": 90},
+    "germination_soil_temp_f": {"min": 35, "max": 45},
+    "days_to_maturity": {"min": 140, "max": 160},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Plant bare-root trees in early spring before bud break; Comice requires 600–900 chill hours and a cross-pollinator (Bosc or Bartlett recommended) within 100 feet; it is more demanding than other pears, requiring premium soil, careful thinning to 1–2 fruits per spur, and the ideal climate of Oregon's Rogue Valley or similar conditions for the finest quality fruit."
+    },
+    "usda_zones": {"min": 5, "max": 8},
+    "spacing_in": {"min": 144, "max": 240},
+    "height_in": {"min": 180, "max": 300},
+    "spread_in": {"min": 120, "max": 240},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in full sun in rich, deep, well-drained soil with pH 6.0–6.5; Comice is the most demanding major pear variety for soil quality, climate precision, and careful management — thin fruits to 1–2 per cluster for maximum quality; pick before full ripeness and ripen indoors at room temperature. Comice (full name Doyenné du Comice, 'Doyenne of the Show') was raised by the Comice Horticole d'Angers agricultural society of Angers, France in 1849 and rapidly gained recognition as the finest dessert pear in the world — a reputation it has maintained for 175 years among pear enthusiasts and chefs. The large (8–16 oz), roundish-oval to slightly pear-shaped fruits have greenish-yellow skin with slight red blush and are the pears most associated with luxury gift boxes, cheese pairings, and the finest fresh-eating experience: the flesh is extraordinarily buttery, creamy-smooth, and dripping with juice, with an intense pear fragrance and honey-sweet flavor with vanilla and floral overtones that is unmatched by any other pear variety. Oregon's Rogue Valley is the primary American commercial production area for Comice, where the specific valley climate — hot days, cool nights, volcanic soil — allows the fruit to reach a quality level rarely achieved elsewhere. Ripens late (October–November); requires careful storage and monitoring for peak ripeness.",
+    "sources": [
+      "Oregon State University Extension Service",
+      "Cornell University Tree Fruit Program",
+      "Royal Horticultural Society"
+    ]
+  },
+  {
+    "slug": "nikitas-gift-persimmon",
+    "common_name": "Nikita's Gift Persimmon (American-Asian Hybrid Persimmon)",
+    "scientific_name": "Diospyros × 'Nikita's Gift'",
+    "category": "fruit",
+    "subcategory": "persimmon",
+    "days_to_germination": {"min": 60, "max": 120},
+    "germination_soil_temp_f": {"min": 55, "max": 70},
+    "days_to_maturity": {"min": 150, "max": 200},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Plant container or bare-root trees in spring; Nikita's Gift is a hybrid between the American persimmon (Diospyros virginiana) and the Oriental persimmon (Diospyros kaki) developed at the Nikita Botanical Garden in Yalta, Ukraine — combining the extraordinary cold hardiness of the American parent (to about -25°F when dormant) with the large fruit size and non-astringency of the Oriental parent, resulting in one of the most cold-hardy large-fruited persimmons available."
+    },
+    "usda_zones": {"min": 5, "max": 9},
+    "spacing_in": {"min": 180, "max": 240},
+    "height_in": {"min": 180, "max": 300},
+    "spread_in": {"min": 120, "max": 180},
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant in full sun in any well-drained soil; Nikita's Gift is notably drought-tolerant when established and thrives without supplemental fertilization in most soils — avoid high-nitrogen fertilizers that encourage excessive vegetative growth. Nikita's Gift was hybridized at the Nikita Botanical Garden (Nikitsky Botanic Garden) in Yalta, Crimea, Ukraine by crossing the cold-hardy American persimmon (Diospyros virginiana) with the large-fruited Oriental persimmon (Diospyros kaki); the goal was to produce a persimmon with fruit size, quality, and non-astringency approaching the Japanese cultivars while withstanding the much harsher winters of continental and cold-temperate climates where standard Asian persimmons die back or fail to fruit. The result is a very cold-hardy tree (to approximately -25°F when fully dormant) producing large (6–12 oz) fruits with reddish-orange to brick-red skin resembling the appearance of Asian varieties; the fruits are astringent when unripe but become non-astringent and sweet after frost or artificial treatment (the PVNA type characteristic of some Asian varieties). The flavor of fully ripe Nikita's Gift is rich, sweet, and honeyed — superior to American persimmon and comparable to the finest Japanese types. Self-fruitful; produces best without a pollinator. One of the most important persimmon introductions for cold-climate gardeners.",
+    "sources": [
+      "Nikita Botanical Garden, Yalta, Ukraine",
+      "One Green World Nursery",
+      "USDA National Plant Germplasm System"
+    ]
+  },
+  {
+    "slug": "texas-everbearing-fig",
+    "common_name": "Texas Everbearing Fig (Texas Everbearing Brown Turkey)",
+    "scientific_name": "Ficus carica 'Texas Everbearing'",
+    "category": "fruit",
+    "subcategory": "fig",
+    "days_to_germination": {"min": 14, "max": 30},
+    "germination_soil_temp_f": {"min": 60, "max": 75},
+    "days_to_maturity": {"min": 120, "max": 150},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Plant container or rooted cuttings in spring after frost danger; Texas Everbearing is the most widely recommended fig for Texas and Gulf Coast gardens in zones 7b–10, bearing two crops — a breba (early summer) crop on old wood and a main crop (late summer through fall) on new wood — with adaptations for hot, humid Gulf Coast conditions that make it superior in performance to many imported fig varieties not selected for this climate."
+    },
+    "usda_zones": {"min": 7, "max": 10},
+    "spacing_in": {"min": 120, "max": 180},
+    "height_in": {"min": 120, "max": 180},
+    "spread_in": {"min": 120, "max": 180},
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant in full sun in any well-drained soil; established Texas Everbearing figs are drought-tolerant and require minimal care; protect roots with 4–6 inches of mulch in zones 7–8 where temperatures occasionally drop below 15°F. Texas Everbearing is a fig variety specifically selected and propagated in Texas for its exceptional performance in the hot, humid climate of the Gulf Coast and Central Texas, where it is the most commonly grown and recommended home garden fig; Texas A&M AgriLife Extension has long listed it as a top variety for the region. The medium to large, pear-shaped fruits have brownish-purple to brown skin (similar to but distinct from standard Brown Turkey) with strawberry-pink to amber flesh; the flavor is rich, honeyed, and sweet with the characteristic caramel-fig quality characteristic of the best common-type figs. As an everbearing type, Texas Everbearing produces two crops: breba fruits on previous year's wood in early summer (June) followed by the main crop on current season's wood from late summer through frost (August–November); this extended fruiting season is a practical advantage over single-crop types for home garden production. Excellent fresh, dried, or preserved; very productive in Gulf Coast zone 8–10 conditions.",
+    "sources": [
+      "Texas A&M AgriLife Extension",
+      "Texas Cooperative Extension Horticulture",
+      "Southern Exposure Seed Exchange"
+    ]
+  },
+  {
+    "slug": "osborne-prolific-fig",
+    "common_name": "Osborne Prolific Fig (San Francisco Bay Fig, Cool-Climate California Fig)",
+    "scientific_name": "Ficus carica 'Osborne Prolific'",
+    "category": "fruit",
+    "subcategory": "fig",
+    "days_to_germination": {"min": 14, "max": 30},
+    "germination_soil_temp_f": {"min": 60, "max": 75},
+    "days_to_maturity": {"min": 120, "max": 150},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Plant rooted cuttings or container-grown trees in spring after frost danger; Osborne Prolific is particularly well-adapted to the cool maritime climates of the San Francisco Bay Area, coastal Oregon, and Washington State, where it ripens well even in cool foggy summers that prevent many other fig varieties from fully maturing — it is the most recommended fig for Pacific Coast cool-summer gardens and bears two crops: a breba crop in early summer on old wood and a main crop in late summer."
+    },
+    "usda_zones": {"min": 7, "max": 10},
+    "spacing_in": {"min": 120, "max": 180},
+    "height_in": {"min": 120, "max": 180},
+    "spread_in": {"min": 120, "max": 180},
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant in full sun in any well-drained soil; Osborne Prolific is drought-tolerant once established and requires minimal fertilization; prune in late winter to maintain desired size; fruits ripen brownish-purple to dark reddish-purple and should be harvested when completely soft and sweet — they do not store or ship well and are best eaten immediately. Osborne Prolific is an heirloom California fig variety of unknown but apparently pre-1900 California origin, named for and associated with the nursery trade of the San Francisco Bay Area region where it became the standard recommended fig for maritime and cool-summer Pacific Coast gardens. Its primary distinguishing attribute is its ability to ripen fruit adequately in the cool, foggy summers of the Pacific Coast, where the heat units accumulated from May through October are significantly lower than in the Sacramento Valley or Central Valley fig-growing regions — conditions under which varieties like Calimyrna, Kadota, and Brown Turkey may fail to fully sweeten or ripen the main crop before autumn. Osborne Prolific's adaptation to cool conditions appears to involve both earlier ripening of the main crop and a reliable breba (first) crop in early summer that provides fruit even if the main crop is delayed by a cool summer. The fruits are medium-sized, brownish-red to dark reddish-purple, with amber to strawberry-pink flesh and an excellent rich, sweet, honey-fig flavor that is considered one of the finest of any California fig variety. Very productive and reliable — living up to the 'Prolific' in its name — it is also a good choice for mild-winter coastal gardens in the Southeast.",
+    "sources": [
+      "University of California Cooperative Extension — Fig Production",
+      "California Rare Fruit Growers — Fig Varieties",
+      "Oregon State University Extension — Growing Figs in Oregon"
+    ]
+  },
+  {
+    "slug": "red-drumhead-cabbage",
+    "common_name": "Red Drumhead Cabbage (Drumhead Red Savoy)",
+    "scientific_name": "Brassica oleracea var. capitata 'Red Drumhead'",
+    "category": "vegetable",
+    "subcategory": "cabbage",
+    "days_to_germination": {"min": 5, "max": 10},
+    "germination_soil_temp_f": {"min": 45, "max": 85},
+    "days_to_maturity": {"min": 90, "max": 105},
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": -8, "max": -6},
+      "note": "Start indoors 6–8 weeks before last frost for spring planting, or start in midsummer for fall harvest 90–105 days before first frost; Red Drumhead is a traditional European heirloom red cabbage producing large, flat to slightly rounded, very densely packed deep red-purple heads of excellent quality for fresh eating, braising, pickling, and long-term storage."
+    },
+    "usda_zones": {"min": 3, "max": 9},
+    "spacing_in": {"min": 18, "max": 24},
+    "height_in": {"min": 12, "max": 18},
+    "spread_in": {"min": 18, "max": 24},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Start seeds indoors 6–8 weeks before last frost; transplant outdoors 3–4 weeks before last frost (cabbage tolerates light frost); space 18–24 inches apart in rows 24–30 inches apart. Red Drumhead is a traditional European heirloom red cabbage with a distinctive flattened or slightly convex head shape — broader and flatter than the round heads of varieties like Red Acre or Mammoth Red Rock — that packs very tightly with dense, waxy, deep red-purple leaves. The name 'Drumhead' refers to this characteristically wide, flat shape reminiscent of a drum (a category designation historically used for flat-headed cabbages in both red and green forms). The flavor is bold, earthy, and slightly peppery when raw — excellent for traditional German red cabbage dishes (braised with apples and vinegar), pickling, sauerkraut, and coleslaw; the purple pigment (from anthocyanins) is water-soluble and will turn the cooking liquid blue-purple, traditionally corrected by adding vinegar or apple to keep the red color. Individual heads weigh 4–8 lbs at full maturity; the dense heads resist splitting and store well in cool conditions (35–40°F) for 3–4 months after harvest. Excellent cold hardiness — can withstand frosts to 20°F, making it suitable for overwintering in mild climates.",
+    "sources": [
+      "Seed Savers Exchange",
+      "Baker Creek Heirloom Seeds",
+      "Royal Horticultural Society Heritage Variety List"
+    ]
+  }
+]

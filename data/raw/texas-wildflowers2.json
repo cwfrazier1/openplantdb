@@ -1,0 +1,157 @@
+[
+  {
+    "slug": "texas-paintbrush-wildflower",
+    "common_name": "Texas Paintbrush (Indian Paintbrush, Entire-Leaf Paintbrush)",
+    "scientific_name": "Castilleja indivisa",
+    "category": "flower",
+    "subcategory": "native wildflower",
+    "days_to_germination": {"min": 14, "max": 42},
+    "germination_soil_temp_f": {"min": 45, "max": 65},
+    "days_to_maturity": {"min": 120, "max": 180},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {"min": -4, "max": 0},
+      "note": "Direct sow in fall (October–November in zones 7–9) on established lawn or native grass areas where grass hosts are present; Texas Paintbrush is hemiparasitic, attaching root haustoria to the roots of nearby grass plants for water and nutrients — it cannot grow without host grasses and should not be planted in bare soil; scatter seed directly into existing grass or native wildflower turf."
+    },
+    "usda_zones": {"min": 6, "max": 10},
+    "spacing_in": {"min": 6, "max": 12},
+    "height_in": {"min": 8, "max": 20},
+    "spread_in": {"min": 4, "max": 8},
+    "sun": "full",
+    "water": "low",
+    "directions": "Scatter seeds directly onto existing lawn or native grass in fall without tilling; do not cover seeds (light aids germination); Texas Paintbrush is obligate-hemiparasitic and must attach to grass roots to survive — sowing into bare soil always fails; keep grass host mowed to 3–4 inches. Texas Paintbrush (Castilleja indivisa) is one of the most iconic wildflowers of Texas and the Gulf Coast, appearing in brilliant red-orange masses across meadows, roadsides, and prairies from Austin and San Antonio south to the Gulf every spring from March through May. The flaming red-orange 'flowers' are actually highly modified bracts (modified leaves) surrounding the small, tubular true flowers; the brilliant coloration serves as a long-distance signal to the ruby-throated hummingbirds and long-tongued bees that pollinate the species. Texas Paintbrush is a hemiparasite — unlike full parasites, it can photosynthesize but augments its nutrition by attaching root haustoria to the roots of nearby grasses and extracting water, minerals, and some photosynthate from the host plant. This obligate relationship with grass hosts makes it impossible to grow in containers or in bare soil; it must be established directly into existing grass or wildflower turf. Texas Paintbrush is an annual in most of its range, completing its lifecycle and setting seed by summer; the seeds persist in the soil and germinate in fall with winter rains, producing a rosette of gray-green foliage through winter before the brilliant spring bloom. One of the 'Big Three' Texas wildflowers alongside bluebonnets and drummond phlox.",
+    "sources": [
+      "Texas A&M AgriLife Extension",
+      "Lady Bird Johnson Wildflower Center",
+      "Native Plant Society of Texas"
+    ]
+  },
+  {
+    "slug": "moss-verbena",
+    "common_name": "Moss Verbena (Moss Verbain, Fernleaf Verbena)",
+    "scientific_name": "Verbena tenuisecta",
+    "category": "flower",
+    "subcategory": "native wildflower",
+    "days_to_germination": {"min": 14, "max": 28},
+    "germination_soil_temp_f": {"min": 65, "max": 80},
+    "days_to_maturity": {"min": 60, "max": 90},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Direct sow after last frost in full sun; Moss Verbena is a sprawling, low-growing perennial (annual in zones 6–7, short-lived perennial in zones 8–10) with finely dissected, moss-like foliage and continuous lavender-purple flowers from spring through frost — it is one of the most drought-tolerant, heat-tolerant, and weed-suppressing ground cover plants for sunny dry areas in the Gulf South."
+    },
+    "usda_zones": {"min": 6, "max": 11},
+    "spacing_in": {"min": 12, "max": 18},
+    "height_in": {"min": 4, "max": 10},
+    "spread_in": {"min": 18, "max": 36},
+    "sun": "full",
+    "water": "low",
+    "directions": "Sow directly or use transplants in full sun; Moss Verbena requires excellent drainage — it thrives in sandy, rocky, or poor soils and dies in heavy clay that stays wet; once established it is extremely drought-tolerant and self-sows freely in warm climates; shear lightly after peak bloom to encourage fresh new growth. Moss Verbena (Verbena tenuisecta) is a sprawling, mat-forming wildflower native to South America but thoroughly naturalized throughout the Gulf South states and Texas, where it has spread along roadsides, rocky disturbed areas, and dry meadows to become one of the most common and beloved wildflowers in the region. The finely dissected, pinnately cut leaves have a delicate, moss-like or fern-like appearance that is distinctly different from the large, lobed leaves of garden verbena; this distinctive leaf texture gives the plant its 'Moss Verbena' name. The small lavender to purple flowers (occasionally white in some populations) are produced in dense clusters at the stem tips from spring through fall, virtually non-stop in warm climates — one of the longest bloom periods of any flowering plant. Moss Verbena is exceptional as a low-maintenance ground cover for dry, sunny areas in zones 8–11 where it spreads by stolons and self-sowing to cover bare ground, suppresses weeds by smothering, and provides continuous bloom with virtually no care. Heavily used by native bees and butterflies as a nectar source. Zone 9a gardens (Chester's area) experience Moss Verbena as a perennial that may die back partially in cold winters but regrows from the base or self-sows prolifically.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "Texas A&M AgriLife Extension",
+      "Native Plant Society of Texas"
+    ]
+  },
+  {
+    "slug": "texas-groundsel",
+    "common_name": "Texas Groundsel (Texas Squaw-Weed, Texas Ragwort)",
+    "scientific_name": "Packera ampullaceus",
+    "category": "flower",
+    "subcategory": "native wildflower",
+    "days_to_germination": {"min": 7, "max": 21},
+    "germination_soil_temp_f": {"min": 50, "max": 70},
+    "days_to_maturity": {"min": 60, "max": 90},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {"min": -4, "max": 2},
+      "note": "Direct sow in fall or early spring in disturbed areas, roadsides, or moist-to-moderate soil; Texas Groundsel is an annual or biennial native wildflower blooming from February through April in Texas and the Gulf South with masses of small, bright yellow daisy-like flowers — one of the earliest spring wildflowers in Central and South Texas and an important early-season nectar source for native bees."
+    },
+    "usda_zones": {"min": 6, "max": 10},
+    "spacing_in": {"min": 6, "max": 12},
+    "height_in": {"min": 18, "max": 36},
+    "spread_in": {"min": 8, "max": 16},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Scatter seeds in fall over prepared, moderately moist soil; Texas Groundsel self-sows prolifically once established and will naturalize in disturbed areas, roadsides, and meadows; best in moist to average soils (unlike most Texas native wildflowers which prefer dry conditions). Texas Groundsel (Packera ampullaceus, formerly classified as Senecio ampullaceus) is one of the earliest-blooming native spring wildflowers in Central and South Texas, producing masses of small, bright golden-yellow, daisy-like composite flowers on leafy stems from February through April before most other spring wildflowers have begun to bloom. The species belongs to the groundsel/ragwort group (genus Packera, family Asteraceae), and like its relatives it has slightly succulent, lobed basal leaves and erect branching stems bearing numerous flower heads; the bright yellow coloration and prolific production of small flowers make stands of Texas Groundsel visually striking in early spring when the landscape is still brown. As one of the earliest wildflowers to bloom, Texas Groundsel provides a critical early nectar and pollen source for native bees emerging in late winter and early spring before other flowers are available — particularly important for native queen bumblebees that must feed immediately after emerging from winter dormancy. The species grows in moist to moderately moist soils, particularly around stream edges, woodland openings, and disturbed roadsides where it can form large colonies. It is a short-lived annual or biennial that reproduces entirely from seed.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "Native Plant Society of Texas",
+      "Texas Parks and Wildlife Department"
+    ]
+  },
+  {
+    "slug": "huisache-daisy",
+    "common_name": "Huisache Daisy (Butterfly Daisy, Hairy Daisy)",
+    "scientific_name": "Amblyolepis setigera",
+    "category": "flower",
+    "subcategory": "native wildflower",
+    "days_to_germination": {"min": 7, "max": 21},
+    "germination_soil_temp_f": {"min": 60, "max": 80},
+    "days_to_maturity": {"min": 60, "max": 90},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": -2, "max": 4},
+      "note": "Direct sow after last frost (or in fall in zones 8–10) in well-drained, sandy or rocky soil in full sun; Huisache Daisy is a small, mounding annual wildflower native to South Texas and northeastern Mexico that blooms from spring through summer with abundant, small, bright yellow daisies with distinctive honey-scented flowers — one of the few wildflowers with a pleasant, notable fragrance."
+    },
+    "usda_zones": {"min": 7, "max": 11},
+    "spacing_in": {"min": 8, "max": 12},
+    "height_in": {"min": 12, "max": 24},
+    "spread_in": {"min": 8, "max": 16},
+    "sun": "full",
+    "water": "low",
+    "directions": "Scatter seeds in fall or after last frost in poor, dry, sandy, or caliche-based soils in full sun; Huisache Daisy is drought-adapted and performs poorly in rich, moist soils; allow to self-sow for naturalized plantings. Huisache Daisy (Amblyolepis setigera) is a small, mounding annual wildflower native to the hot, dry Tamaulipan thornbrush region of South Texas and northeastern Mexico — the same region famous for the huisache tree (Acacia farnesiana), whose Spanish common name refers to the Nahuatl word for the acacia and from which the daisy borrows its regional name. The plant produces masses of small (3/4 to 1 inch), bright, golden-yellow daisies on branching stems from spring through early summer with a delicate, honey-sweet fragrance unusual in annual wildflowers — the fragrance is distinctive and pleasant, detectable from a short distance on warm days when flowers are fully open. The mounding plants (12–24 inches) with grayish-green hairy foliage are adapted to the challenging conditions of the South Texas brush country: high heat, drought, alkaline soils, and caliche-based substrates that few garden plants tolerate. Huisache Daisy is an excellent choice for xeriscaping in South Texas, the Hill Country, and Gulf Coast zones 8b–10 where water-saving is essential and standard garden annuals fail in summer heat. Excellent nectar plant for native bees and small butterflies.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "Native Plant Society of Texas",
+      "Texas Parks and Wildlife Department"
+    ]
+  },
+  {
+    "slug": "greenthread-wildflower",
+    "common_name": "Greenthread (Hopi Tea, Navajo Tea, Slender-Leaved Thelesperma)",
+    "scientific_name": "Thelesperma megapotamicum",
+    "category": "flower",
+    "subcategory": "native wildflower",
+    "days_to_germination": {"min": 7, "max": 21},
+    "germination_soil_temp_f": {"min": 60, "max": 80},
+    "days_to_maturity": {"min": 60, "max": 90},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": -2, "max": 4},
+      "note": "Direct sow in fall or after last frost in well-drained, dry soil in full sun; Greenthread is a drought-adapted perennial wildflower of the Great Plains and western Gulf Coast with very fine, thread-like foliage (giving it both its common name and the botanical epithet 'megapotamicum' — of the great river, the Rio Grande) and nodding yellow-orange daisy-like flower heads; the dried stems and foliage make an excellent herbal tea traditionally used by Hopi and Navajo peoples."
+    },
+    "usda_zones": {"min": 4, "max": 10},
+    "spacing_in": {"min": 12, "max": 18},
+    "height_in": {"min": 18, "max": 36},
+    "spread_in": {"min": 10, "max": 18},
+    "sun": "full",
+    "water": "low",
+    "directions": "Sow seeds directly in fall or early spring in dry, well-drained, sandy or gravelly soil in full sun; Greenthread is extremely drought-tolerant once established and does poorly in clay soils or with supplemental irrigation; allow to naturalize and self-sow for the most sustainable establishment. Greenthread (Thelesperma megapotamicum) is a perennial wildflower of the North American short-grass prairie and Chihuahuan Desert region, native from Nebraska and Colorado south through Texas and Arizona and into northern Mexico, where it grows in dry, gravelly, well-drained soils in full sun. The plant is named for its extremely fine, almost thread-like linear leaves — unlike most daisies which have broad, flat foliage, Greenthread has divided, very narrow leaf segments that give it a distinctive wispy, grass-like appearance at a distance. The 1-inch, nodding, daisy-like flower heads have dark orange-yellow ray florets and darker orange-brown central disk florets that together create an attractive burnt orange-to-yellow bicolor effect; the plants bloom in waves from spring through summer. The most significant traditional use of Greenthread is as an herbal tea: the Hopi of Arizona and Navajo of New Mexico and Arizona dry the stems and prepare a reddish-orange tea (called 'Hopi tea' or 'Navajo tea') with a mild, pleasant, slightly sweet flavor that has been used medicinally and as a beverage for generations; the tea contains no caffeine. Thelesperma is related to Coreopsis and Bidens, all in the same tribe (Coreopsideae) of the daisy family.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "Native Plant Society of Texas",
+      "Moerman, Daniel E. Native American Ethnobotany"
+    ]
+  }
+]

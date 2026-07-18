@@ -1,0 +1,157 @@
+[
+  {
+    "slug": "german-red-hardneck-garlic",
+    "common_name": "German Red Hardneck Garlic (Rocambole Type Hardneck)",
+    "scientific_name": "Allium sativum var. ophioscorodon 'German Red'",
+    "category": "vegetable",
+    "subcategory": "allium",
+    "days_to_germination": {"min": 14, "max": 28},
+    "germination_soil_temp_f": {"min": 50, "max": 60},
+    "days_to_maturity": {"min": 220, "max": 250},
+    "maturity_from": "transplant",
+    "sow_method": "bulb",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {"min": -6, "max": -2},
+      "note": "Plant individual cloves 4–6 weeks before first frost in fall; German Red is a Rocambole-type hardneck garlic originally from Germany and popularized in the Pacific Northwest — it produces 8–12 cloves per bulb with a rich, complex, full-bodied flavor considered among the finest of all Rocambole garlics; harvest in early to midsummer when scapes have curled and straightened and 5–6 lower leaves remain green."
+    },
+    "usda_zones": {"min": 3, "max": 9},
+    "spacing_in": {"min": 4, "max": 6},
+    "height_in": {"min": 18, "max": 30},
+    "spread_in": {"min": 4, "max": 6},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant individual cloves pointed-end up, 2 inches deep and 4–6 inches apart, in fall 4–6 weeks before hard freeze; mulch with 4–6 inches of straw after ground cools; keep consistently moist in spring and remove scapes when they curl to redirect energy to bulbs; stop watering as lower leaves yellow and harvest in early to midsummer. German Red is a Rocambole-type hardneck garlic with origins in Germany, gaining wide recognition in North America through garlic enthusiast and seed-saver networks in the Pacific Northwest and through specialist growers like Filaree Garlic Farm — Rocambole types are considered by many garlic connoisseurs to produce the finest flavor of all garlic types, and German Red is consistently ranked among the best Rocamboles for its deep, rich, complex, slightly spicy flavor and the full-bodied pungency that distinguishes well-grown Rocambole from milder softneck types. The bulbs produce 8–12 large, easy-to-peel cloves arranged in a single layer, with brownish-purple outer skin typical of Rocamboles; the cloves are rounded-edged and notably easy to peel (another Rocambole characteristic). The flavor is excellent when raw but truly reveals its complexity when roasted, sautéed, or used in slow-cooked dishes. The main limitation of Rocambole types including German Red is storage life — typically only 3–5 months under good conditions, compared to 10–12 months for softneck types; grow what you will use by midwinter and source next season's seed before that.",
+    "sources": [
+      "Filaree Garlic Farm",
+      "Southern Exposure Seed Exchange",
+      "Seed Savers Exchange"
+    ]
+  },
+  {
+    "slug": "lorz-italian-softneck-garlic",
+    "common_name": "Lorz Italian Softneck Garlic (Pacific Northwest Italian Immigrant Heirloom)",
+    "scientific_name": "Allium sativum var. sativum 'Lorz Italian'",
+    "category": "vegetable",
+    "subcategory": "allium",
+    "days_to_germination": {"min": 14, "max": 28},
+    "germination_soil_temp_f": {"min": 50, "max": 60},
+    "days_to_maturity": {"min": 240, "max": 270},
+    "maturity_from": "transplant",
+    "sow_method": "bulb",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {"min": -4, "max": 2},
+      "note": "Plant individual cloves in fall around the time of first frost; Lorz Italian is a softneck Artichoke-type garlic brought to the Walla Walla area of Washington State by Italian immigrant Lorenzo 'Lorz' Lorenzi in the late 1800s, where it was grown and preserved through generations of Italian-American farming families in the Columbia River valley before entering heirloom seed networks."
+    },
+    "usda_zones": {"min": 3, "max": 10},
+    "spacing_in": {"min": 4, "max": 6},
+    "height_in": {"min": 18, "max": 28},
+    "spread_in": {"min": 4, "max": 6},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant individual cloves 2 inches deep and 4–6 inches apart in fall; softneck types like Lorz Italian can be planted over a wider window than hardnecks — from 4 weeks before first frost to a week or two after; mulch after planting; keep weed-free in spring; harvest when 5–6 lower leaves have yellowed and cure thoroughly. Lorz Italian is an Artichoke-type softneck garlic with a remarkable Italian-American immigrant story: it was brought to the Walla Walla Valley of eastern Washington State by an Italian immigrant named Lorenzo 'Lorz' Lorenzi in the late 19th century, where it became a staple of the Italian immigrant farming community in the Columbia River valley region, passed down through family seed-saving for generations before being preserved by heirloom garlic collectors and specialist growers. The large, roundish bulbs typically contain 12–20 cloves arranged in multiple overlapping layers (characteristic of Artichoke types), with white to pale ivory outer skin; the cloves are plump, meaty, and moderately spicy — a full-flavored softneck with more character than commercial supermarket garlic but without the intensity of the finest Rocambole hardnecks. The great practical advantage of Lorz Italian and other Artichoke softnecks is excellent storage — bulbs typically keep 9–12 months in good conditions, far outlasting any hardneck type; the flexible stems also make it excellent for braiding. Adapted to a wide range of climates from cool Pacific Northwest conditions to warm Southern winters.",
+    "sources": [
+      "Filaree Garlic Farm",
+      "Southern Exposure Seed Exchange",
+      "Keene Organics"
+    ]
+  },
+  {
+    "slug": "persian-star-hardneck-garlic",
+    "common_name": "Persian Star Hardneck Garlic (Marbled Purple Stripe, Samarkand Heritage)",
+    "scientific_name": "Allium sativum var. ophioscorodon 'Persian Star'",
+    "category": "vegetable",
+    "subcategory": "allium",
+    "days_to_germination": {"min": 14, "max": 28},
+    "germination_soil_temp_f": {"min": 50, "max": 60},
+    "days_to_maturity": {"min": 240, "max": 270},
+    "maturity_from": "transplant",
+    "sow_method": "bulb",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {"min": -6, "max": -2},
+      "note": "Plant individual cloves 4–6 weeks before first frost in fall; Persian Star is a Marbled Purple Stripe hardneck garlic collected in Samarkand, Uzbekistan (the historic Silk Road city) by John Swenson for the Seed Savers Exchange in 1989 — it produces strikingly beautiful bulbs with vivid violet-purple inner clove skins and a rich, earthy, complex flavor characteristic of the Marbled Purple Stripe type."
+    },
+    "usda_zones": {"min": 3, "max": 9},
+    "spacing_in": {"min": 4, "max": 6},
+    "height_in": {"min": 18, "max": 30},
+    "spread_in": {"min": 4, "max": 6},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant individual cloves pointed-end up, 2 inches deep and 4–6 inches apart in fall 4–6 weeks before hard freeze; mulch after planting; keep weed-free and consistently moist in spring; remove scapes when they curl; harvest in early to midsummer when 5–6 lower leaves have yellowed and cure in a warm, dry, airy location. Persian Star is a Marbled Purple Stripe-type hardneck garlic with a remarkable provenance: it was collected in Samarkand, Uzbekistan — the ancient Silk Road city at the crossroads of Central Asia — by John Swenson, a garlic enthusiast and Seed Savers Exchange member who traveled to the former Soviet Union in 1989 collecting traditional garlic varieties grown in the region for centuries. The provenance from Samarkand, one of the oldest continuously inhabited cities in the world and a center of Central Asian agricultural tradition, gives Persian Star historical and botanical significance as a window into the genetic diversity of garlic in its center of diversity (Central Asia is believed to be the region where cultivated garlic first developed). The bulbs are 2–3 inches across with 8–12 cloves; the outer skin is white with subtle purple striping typical of the Marbled Purple Stripe group, while the inner clove skins are often vivid violet-purple — beautiful when peeled. The flavor is rich, earthy, moderately pungent, and complex — slightly different from Rocambole types with a distinctive minerality. Storage life is better than Rocambole (5–7 months) but less than softneck types.",
+    "sources": [
+      "Seed Savers Exchange",
+      "Filaree Garlic Farm",
+      "Southern Exposure Seed Exchange"
+    ]
+  },
+  {
+    "slug": "siberian-hardneck-garlic",
+    "common_name": "Siberian Hardneck Garlic (Marbled Purple Stripe, Cold-Climate Heritage)",
+    "scientific_name": "Allium sativum var. ophioscorodon 'Siberian'",
+    "category": "vegetable",
+    "subcategory": "allium",
+    "days_to_germination": {"min": 14, "max": 28},
+    "germination_soil_temp_f": {"min": 50, "max": 60},
+    "days_to_maturity": {"min": 240, "max": 270},
+    "maturity_from": "transplant",
+    "sow_method": "bulb",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {"min": -6, "max": -2},
+      "note": "Plant individual cloves 4–6 weeks before first frost; Siberian is a Marbled Purple Stripe hardneck garlic of Russian origin, known for exceptional cold hardiness that makes it one of the most reliable varieties in zones 3–4 — it produces large, 5–9 clove bulbs with a rich, full-bodied flavor and an attractive purple-striped outer wrapper typical of its garlic group."
+    },
+    "usda_zones": {"min": 3, "max": 8},
+    "spacing_in": {"min": 4, "max": 6},
+    "height_in": {"min": 18, "max": 30},
+    "spread_in": {"min": 4, "max": 6},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant individual cloves pointed-end up, 2 inches deep and 4–6 inches apart in fall 4–6 weeks before hard freeze; mulch heavily after the ground cools (especially important in zones 3–4); keep consistently moist in spring; remove scapes when they curl and straighten; harvest in early to midsummer when lower leaves yellow. Siberian is a Marbled Purple Stripe hardneck garlic originating in Russia and introduced to North American garlic culture through seed-saver networks and specialist garlic growers in the 20th century; it is particularly valued for its exceptional cold hardiness, with reliable performance in zones 3–4 where many garlic varieties struggle with winterkill or produce reduced bulb size. The bulbs are medium-large (2–3 inches across) and typically contain just 5–9 large, easy-to-peel cloves — fewer than most garlic types but each clove is substantial in size, making them easy to use in cooking. The outer skins are cream-colored with distinctive purple-violet streaking and spotting characteristic of the Marbled Purple Stripe group; the flavor is rich, moderately pungent, and earthy with good complexity — similar in character to Persian Star and other Marbled Purple Stripe types. Siberian is an excellent choice for northern gardeners in zones 3–5 who struggle with hardneck variety performance, and for seed-saving gardens that want geographic diversity in their garlic collection. Storage life of 5–7 months under good conditions.",
+    "sources": [
+      "Filaree Garlic Farm",
+      "Southern Exposure Seed Exchange",
+      "Keene Organics"
+    ]
+  },
+  {
+    "slug": "polish-white-softneck-garlic",
+    "common_name": "Polish White Softneck Garlic (Eastern European Heirloom Artichoke Garlic)",
+    "scientific_name": "Allium sativum var. sativum 'Polish White'",
+    "category": "vegetable",
+    "subcategory": "allium",
+    "days_to_germination": {"min": 14, "max": 28},
+    "germination_soil_temp_f": {"min": 50, "max": 60},
+    "days_to_maturity": {"min": 240, "max": 270},
+    "maturity_from": "transplant",
+    "sow_method": "bulb",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {"min": -4, "max": 2},
+      "note": "Plant individual cloves in fall at or around first frost; Polish White is a traditional Eastern European softneck garlic (Artichoke type) with origins in Poland and surrounding countries, where garlic has been grown as a staple crop for centuries — it produces medium-large bulbs with 10–16 tightly packed cloves, clean white skins, and a reliable, full-flavored character suited to all cooking uses and excellent storage of 10–12 months."
+    },
+    "usda_zones": {"min": 3, "max": 10},
+    "spacing_in": {"min": 4, "max": 6},
+    "height_in": {"min": 16, "max": 28},
+    "spread_in": {"min": 4, "max": 6},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant individual cloves 2 inches deep and 4–6 inches apart in fall from 4 weeks before first frost to shortly after; Polish White performs well in both cold northern climates and mild southern winters; harvest in summer when 5–6 lower leaves have yellowed and cure thoroughly before storage; braid the flexible stems for attractive long-term storage. Polish White is an Artichoke-type softneck garlic originating in Poland and the broader Eastern European garlic-growing tradition, where garlic has been a staple culinary and medicinal crop since ancient times; it entered the North American heirloom garlic collection through the immigrant communities and seed-saver networks that preserved traditional European agricultural varieties throughout the 20th century. The bulbs are medium-large (2–3 inches across) with tightly packed multiple layers of cloves (10–16 per bulb) in the characteristic Artichoke arrangement, with clean white to ivory outer skins and a compact, rounded shape. The flavor is full, moderately pungent, and satisfying — not as complex as the finest Rocambole or Marbled Purple Stripe hardnecks, but very reliable and versatile for all cooking uses from fresh salsas and aioli to long-cooked soups, stews, and roasted garlic. The primary virtues of Polish White are reliability (excellent performance in a wide range of climates), productivity (high-yielding compared to hardneck types), and outstanding storage life of 10–12 months under proper conditions (cool, dry, dark) — making it the garlic of choice for those who want a year-round supply from a single fall planting.",
+    "sources": [
+      "Filaree Garlic Farm",
+      "Southern Exposure Seed Exchange",
+      "Baker Creek Heirloom Seeds"
+    ]
+  }
+]

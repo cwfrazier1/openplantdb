@@ -1,0 +1,281 @@
+[
+  {
+    "slug": "mcintosh-apple",
+    "common_name": "McIntosh Apple (Mac Apple, Original Red Apple, Northeastern Apple Classic)",
+    "scientific_name": "Malus domestica 'McIntosh'",
+    "category": "fruit",
+    "subcategory": "tree fruit",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 730, "max": 1460},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": -6, "max": -2},
+      "note": "Plant bare-root trees while dormant in late winter in well-drained, slightly acidic to neutral (pH 6.0–7.0), fertile, deep soil in full sun; McIntosh requires approximately 900 chill hours and is best adapted to zones 4–7 where reliable winter cold accumulates; it requires cross-pollination from a compatible variety such as Cortland, Honeycrisp, or Golden Delicious."
+    },
+    "usda_zones": {"min": 4, "max": 7},
+    "spacing_in": {"min": 120, "max": 180},
+    "height_in": {"min": 144, "max": 240},
+    "spread_in": {"min": 120, "max": 180},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in deep, well-drained, fertile, slightly acidic to neutral soil in full sun; McIntosh requires cross-pollination; ripens early season (early September in New York), making it the first major commercial apple of the fall; fruit should be harvested when fully red and slightly soft to pressure — McIntosh doesn't firm up like later-season apples and is at its best when slightly tender and very aromatic. McIntosh apple is the foundational variety of the northeastern American apple industry and for decades was the dominant commercial apple in New England, New York, and eastern Canada. The variety was discovered as a chance seedling on John McIntosh's farm in Dundas, Ontario (near present-day Morrisburg) around 1811 — one of the most consequential accidental apple discoveries in North American horticultural history. The young seedling was found growing on his property, probably a wild seedling from a previous homestead planting, and John McIntosh and his son Allan grafted and propagated the tree beginning around 1835, eventually distributing trees throughout eastern Canada and New England. McIntosh produces distinctively aromatic fruit with a characteristic sweet-tart flavor and very soft, juicy, bright white flesh that is immediately recognizable to anyone who grew up in the Northeast. The red-green skin deepens to full red with harvest, and the flesh is softer than modern popular apples (Honeycrisp, Gala, Fuji) — McIntosh is what older generations mean when they say 'the way apples used to taste' — a tender, juicy, very fragrant apple with complex flavor. McIntosh is also the primary parent of many important modern apple varieties including Cortland, Empire, Jonamac, Macoun, and others.",
+    "sources": [
+      "Cornell Cooperative Extension — Apple Varieties for New York",
+      "University of Vermont Extension",
+      "Penn State Extension — Tree Fruit Production Guide"
+    ]
+  },
+  {
+    "slug": "cortland-apple",
+    "common_name": "Cortland Apple (McIntosh × Ben Davis Cross, Non-Browning Salad Apple)",
+    "scientific_name": "Malus domestica 'Cortland'",
+    "category": "fruit",
+    "subcategory": "tree fruit",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 730, "max": 1460},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": -6, "max": -2},
+      "note": "Plant bare-root trees while dormant in late winter in well-drained, slightly acidic to neutral, fertile soil in full sun; Cortland requires approximately 1000 chill hours and is well-adapted to zones 4–7; it is an excellent cross-pollinator for McIntosh and other varieties — Cortland pollen is compatible with a very wide range of apple varieties."
+    },
+    "usda_zones": {"min": 4, "max": 7},
+    "spacing_in": {"min": 120, "max": 180},
+    "height_in": {"min": 144, "max": 240},
+    "spread_in": {"min": 120, "max": 180},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in deep, well-drained, slightly acidic to neutral soil in full sun; Cortland is an excellent cross-pollinator for many other apple varieties including McIntosh; ripens mid-season (September–October); the non-browning flesh makes it uniquely valuable for salads, charcuterie boards, and fresh-cut preparations where apples must remain attractive for hours without discoloring. Cortland apple was developed at the New York State Agricultural Experiment Station at Geneva in 1915 from a cross of McIntosh and Ben Davis — two of the most important apple varieties of the early 20th century. Cortland inherits McIntosh's aromatic, sweet-tart flavor character in a larger, firmer fruit with significantly better keeping quality than McIntosh. However, Cortland's most famous and unique characteristic is the slow-browning tendency of its flesh when cut: while most apple varieties brown rapidly after cutting due to enzymatic oxidation, Cortland flesh is notably slower to brown, making cut pieces remain white and attractive for much longer than most varieties. This property makes Cortland uniquely valuable for fresh preparations where apple slices need to remain appealing: fresh fruit platters, salads, charcuterie boards, and school lunch boxes where the apples won't be eaten immediately after cutting. The fruit is large, round, red over greenish-yellow skin with very white, juicy, tender flesh and the characteristic McIntosh aromatic quality. It is an excellent cross-pollinator for most other apple varieties due to its abundant, viable pollen. A classic in northeastern U.S. home orchards.",
+    "sources": [
+      "Cornell Cooperative Extension — Apple Varieties for New York",
+      "New York State Agricultural Experiment Station — Cortland release notes",
+      "Penn State Extension — Tree Fruit Production Guide"
+    ]
+  },
+  {
+    "slug": "jonagold-apple",
+    "common_name": "Jonagold Apple (Jonathan × Golden Delicious, Best-Flavor Commercial Apple)",
+    "scientific_name": "Malus domestica 'Jonagold'",
+    "category": "fruit",
+    "subcategory": "tree fruit",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 730, "max": 1460},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": -6, "max": -2},
+      "note": "Plant bare-root trees while dormant in late winter in deep, fertile, well-drained soil in full sun; Jonagold requires approximately 800 chill hours and performs best in zones 5–8; IMPORTANT: Jonagold is triploid — its pollen is not viable and it cannot serve as a cross-pollinator for other apple varieties; plant with two other diploid pollinizers (Honeycrisp + Cortland, or Gala + McIntosh) for good fruit production on all three trees."
+    },
+    "usda_zones": {"min": 5, "max": 8},
+    "spacing_in": {"min": 120, "max": 180},
+    "height_in": {"min": 144, "max": 240},
+    "spread_in": {"min": 120, "max": 180},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in deep, fertile, well-drained soil in full sun; because Jonagold is triploid, plant it with two compatible diploid pollinator varieties — it needs two compatible pollinators and cannot pollinate other trees itself; thin fruit clusters in late spring for maximum size; Jonagold ripens mid-to-late season (October) producing very large fruit with outstanding sweet-tart flavor. Jonagold is widely considered one of the best-tasting apple varieties in the world — a cross of Jonathan and Golden Delicious developed at the New York State Agricultural Experiment Station at Geneva in 1943 and released in 1968. The variety combines the aromatic, spicy sweet-tart character of Jonathan with the sweetness and crispness of Golden Delicious, resulting in very large, yellow-orange to red-blushed apples with exceptional, complex flavor that many apple connoisseurs consider among the finest eating apples available. Jonagold has become particularly important in European apple markets — it is one of the most widely planted apple varieties in Belgium and the Netherlands, and is highly regarded throughout European specialty apple production — in part because its substantial size and richly complex flavor profile make it stand out at specialty and farmers' market venues. In the United States, Jonagold is less prominent commercially than varieties with better storability (Honeycrisp, Gala, Fuji) but widely recognized among apple enthusiasts as a flavor benchmark. An important practical consideration: Jonagold is a triploid variety (three sets of chromosomes rather than the usual two) — its pollen is sterile, meaning it cannot pollinate other apple trees and requires two compatible diploid varieties for its own fruit production.",
+    "sources": [
+      "New York State Agricultural Experiment Station — Jonagold release notes",
+      "Cornell Cooperative Extension — Apple Varieties for New York",
+      "Oregon State University Extension"
+    ]
+  },
+  {
+    "slug": "liberty-apple",
+    "common_name": "Liberty Apple (Disease-Resistant Organic Apple, Cornell Scab-Free Apple)",
+    "scientific_name": "Malus domestica 'Liberty'",
+    "category": "fruit",
+    "subcategory": "tree fruit",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 730, "max": 1460},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": -6, "max": -2},
+      "note": "Plant bare-root trees while dormant in late winter in well-drained, fertile, slightly acidic to neutral soil in full sun; Liberty requires approximately 800 chill hours, is best in zones 4–7, and is particularly recommended for home gardeners wanting to minimize or eliminate fungicide spray programs — it has strong resistance to apple scab, cedar-apple rust, fire blight, and powdery mildew, the four most important apple diseases in the humid East."
+    },
+    "usda_zones": {"min": 4, "max": 7},
+    "spacing_in": {"min": 120, "max": 180},
+    "height_in": {"min": 144, "max": 240},
+    "spread_in": {"min": 120, "max": 180},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in well-drained, fertile, slightly acidic soil in full sun; Liberty is self-unfruitful and requires a nearby apple of a compatible variety for pollination; in disease-resistant plantings, pair with Freedom or Enterprise for cross-pollination; Liberty ripens in October producing medium to large, red-blushed fruit with good sweet-tart flavor — quality significantly above what one might expect from a disease-resistant variety. Liberty apple is a Cornell University-developed disease-resistant variety (released 1978) that has become one of the most important apple varieties for home organic production in the eastern United States, where the humid climate creates severe pressure from the four major apple diseases — apple scab, cedar-apple rust, fire blight, and powdery mildew — that require intensive fungicide spray programs to manage on standard susceptible varieties like Fuji, Gala, and McIntosh. Liberty's multiple-disease resistance package was assembled through deliberate crosses at Cornell that combined resistance genes from multiple sources: the apple scab resistance comes from Malus floribunda 821 (the same source as the PRI disease-resistant breeding program), while fire blight and rust resistance come from other wild Malus species in the parentage. The result is an apple variety that can be grown essentially spray-free in home gardens — a significant advantage for organic-minded gardeners — while still producing attractive, well-flavored fruit that compares favorably with commercial varieties. The fruit is medium to large, red-striped over yellow-green skin, with crisp, juicy, moderately sweet flesh and a pleasant balance of sweet and tart flavor. Liberty has been the recommended variety for organic home orchards from Cornell Extension for over 40 years.",
+    "sources": [
+      "Cornell University — Geneva Breeding Program release notes",
+      "Cornell Cooperative Extension — Disease-Resistant Apple Varieties",
+      "Pennsylvania Certified Organic — Apple Variety Guide"
+    ]
+  },
+  {
+    "slug": "bing-cherry",
+    "common_name": "Bing Cherry (Dark Sweet Cherry, American Commercial Cherry Standard)",
+    "scientific_name": "Prunus avium 'Bing'",
+    "category": "fruit",
+    "subcategory": "sweet cherry tree",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 1095, "max": 1460},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": -6, "max": -2},
+      "note": "Plant bare-root trees while dormant in late winter in deep, well-drained, slightly acidic to neutral, fertile soil in full sun; Bing requires 700–1000 chill hours and a cross-pollinating sweet cherry — Rainier, Lapins, or Black Tartarian — that is bloom-time compatible; Bing cannot pollinate Stella or Lambert; zones 5–7 are ideal."
+    },
+    "usda_zones": {"min": 5, "max": 8},
+    "spacing_in": {"min": 144, "max": 240},
+    "height_in": {"min": 144, "max": 300},
+    "spread_in": {"min": 120, "max": 240},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in well-drained, deep, fertile, slightly acidic to neutral soil in full sun; Bing must be paired with a compatible pollinizer (Rainier, Lapins, or Black Tartarian) — Bing cannot cross-pollinate Stella, Lambert, or Napoleon; protect ripening fruit from birds using netting; avoid planting in poorly drained sites or low spots where frost collects; Bing ripens in late June to early July in the Pacific Northwest, the timing that has made it the dominant commercial cherry. Bing cherry is the most widely grown commercial sweet cherry variety in the United States — the cherry that defines what most Americans mean when they say 'sweet cherry' — a dark mahogany-red to nearly black, large, firm, heart-shaped variety with exceptionally sweet, complex flavor developed in Oregon in 1875 by Seth Lewelling on his fruit farm near Milwaukie, Oregon. Lewelling named the variety after his Chinese foreman, Ah Bing, in recognition of his contributions to the orchard — an unusual act of recognition for a Chinese immigrant worker in that era. The variety quickly spread from Oregon throughout the Pacific Coast commercial cherry-growing regions (the Columbia Basin of Oregon and Washington State, the Sacramento and San Joaquin valleys of California) because its combination of large size, dark color, firm flesh, excellent sweetness, and good shipping characteristics made it ideal for the developing rail-shipped fresh fruit trade. Today, Bing accounts for more than 90% of the sweet cherry production in the Pacific Northwest and a major share of all American commercial sweet cherries. The characteristic Bing appearance — large, round to heart-shaped, very dark mahogany-red to black — is so iconic that 'a bag of Bings' has become synonymous with sweet cherries in American culture, and fresh Bing cherries in early summer represent one of the quintessential seasonal fruits of the American marketplace.",
+    "sources": [
+      "Oregon State University Extension — Sweet Cherry Production",
+      "Washington State University Tree Fruit Research and Extension Center",
+      "University of California Cooperative Extension"
+    ]
+  },
+  {
+    "slug": "stella-cherry",
+    "common_name": "Stella Cherry (First Self-Fertile Sweet Cherry, Canadian Self-Fertile Cherry)",
+    "scientific_name": "Prunus avium 'Stella'",
+    "category": "fruit",
+    "subcategory": "sweet cherry tree",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 1095, "max": 1460},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": -6, "max": -2},
+      "note": "Plant bare-root trees in late winter in deep, well-drained, slightly acidic to neutral, fertile soil in full sun; Stella requires approximately 700–800 chill hours and is self-fertile — the critical advantage that made it famous — eliminating the need for a cross-pollinating companion variety; Stella will also pollinate most other sweet cherry varieties including Bing, Rainier, and others, making it a useful pollenizer in mixed orchards."
+    },
+    "usda_zones": {"min": 5, "max": 8},
+    "spacing_in": {"min": 144, "max": 240},
+    "height_in": {"min": 144, "max": 300},
+    "spread_in": {"min": 120, "max": 240},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in well-drained, deep, fertile, slightly acidic to neutral soil in full sun; Stella is self-fertile and will set a crop without a pollenizer — it will also cross-pollinate many other sweet cherry varieties as a companion tree; protect ripening fruit from birds with netting; Stella ripens mid-season (late June to early July) producing large, dark red to nearly black fruits with good sweet flavor. Stella sweet cherry was bred by Dr. Karl Lapins at the Summerland Research Station in British Columbia, Canada, and released in 1968 — it became historically significant as the first widely available self-fertile sweet cherry variety, a characteristic that transformed home garden cherry growing by eliminating the requirement for two compatible cherry trees with overlapping bloom times. Before Stella, growing sweet cherries required careful selection of compatible pollinating pairs (cherry pollination compatibility is complex and variety-specific), which limited practical cherry growing to gardeners with space for at least two trees and the knowledge to select compatible varieties. Stella's self-fertility made sweet cherries accessible for single-tree planting in small gardens throughout its zone range. The fruits are large (similar to Bing in size), dark red to nearly black at full ripeness, with firm, juicy, sweet flesh and excellent flavor — somewhat less complex than Bing by some evaluations, but reliably good and productive. Stella also serves as a pollinizer for most other sweet cherry varieties, making it a valuable companion in mixed plantings where Bing or other varieties need cross-pollination.",
+    "sources": [
+      "Agriculture Canada — Summerland Research Station",
+      "Washington State University Tree Fruit Research and Extension Center",
+      "Cornell Cooperative Extension — Tree Fruit Production Guide"
+    ]
+  },
+  {
+    "slug": "morello-cherry",
+    "common_name": "Morello Cherry (English Morello, Dark Sour Cherry, Culinary Sour Cherry)",
+    "scientific_name": "Prunus cerasus 'Morello'",
+    "category": "fruit",
+    "subcategory": "sour cherry tree",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 1095, "max": 1460},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": -6, "max": -2},
+      "note": "Plant bare-root trees in late winter in well-drained, moderately fertile, slightly acidic to neutral soil in full sun to partial shade; Morello is self-fertile and more tolerant of partial shade than any sweet cherry variety, making it one of the few cherry trees that can produce a useful crop on a partly shaded north-facing wall or in a garden with reduced sun exposure; requires approximately 700–800 chill hours."
+    },
+    "usda_zones": {"min": 4, "max": 8},
+    "spacing_in": {"min": 120, "max": 180},
+    "height_in": {"min": 120, "max": 240},
+    "spread_in": {"min": 96, "max": 180},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Plant in well-drained, slightly acidic to neutral soil in full sun or partial shade; Morello is self-fertile; the dark red to nearly black fruits ripen in late July to August — later than most sweet cherries — and are very tart, intended for cooking, preserves, and culinary preparations rather than fresh-eating; harvest when fully black for maximum color in jams and liqueurs. Morello cherry is the classic European culinary sour cherry — a dark-skinned, dark-fleshed variety with deep red to nearly black skin and dark red juice that distinguishes it from the clear-juiced Montmorency type — grown for centuries in English, Dutch, and German cottage gardens as the primary cherry for preserves, pies, tarts, cherry brandy, and the fermented cherry preparations traditional in continental Europe. The dark flesh and juice of Morello give it distinct advantages over Montmorency in certain culinary applications: cherry jam, jelly, and liqueurs (including the famous Schwarzwälder Kirschwasser of the Black Forest and the maraschino cherry liqueur of Central Europe) derive their deep red-purple color from Morello's dark pigments, producing a dramatically richer-colored product than would result from clear-juiced cherries. Morello is also notable for being one of the few cherry varieties that will bear adequate crops in partial shade — a practical advantage in British and northwestern European cottage gardens where full sun is not always available. The fruit is very tart at all stages of ripeness, with a complex sourness and rich cherry flavor that intensifies with cooking and makes it the definitive variety for traditional European cherry cookery.",
+    "sources": [
+      "Royal Horticultural Society — Morello Cherry",
+      "University of Minnesota Extension — Sour Cherry Production",
+      "Penn State Extension — Tree Fruit Production Guide"
+    ]
+  },
+  {
+    "slug": "balaton-cherry",
+    "common_name": "Balaton Cherry (Hungarian Sour Cherry, Dark Sour Cherry, Sweet-Tart Cherry)",
+    "scientific_name": "Prunus cerasus 'Balaton'",
+    "category": "fruit",
+    "subcategory": "sour cherry tree",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 1095, "max": 1460},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": -6, "max": -2},
+      "note": "Plant bare-root trees in late winter in well-drained, fertile, slightly acidic to neutral soil in full sun; Balaton is self-fertile and requires no cross-pollinator; it is a Hungarian sour cherry variety introduced to North American production by Michigan State University in the 1980s–90s and is the most significant alternative to Montmorency for commercial and home sour cherry production, with superior fresh-eating quality due to its darker, less tart, higher-sugar flesh."
+    },
+    "usda_zones": {"min": 4, "max": 8},
+    "spacing_in": {"min": 120, "max": 240},
+    "height_in": {"min": 120, "max": 240},
+    "spread_in": {"min": 96, "max": 180},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in well-drained, fertile, slightly acidic to neutral soil in full sun; Balaton is self-fertile; it ripens 7–10 days after Montmorency (late June to mid-July in Michigan and the northeastern states), producing large, dark red to mahogany-red fruits with dark red flesh and juice — unlike Montmorency's lighter flesh — with a distinctly sweeter and milder flavor that can be enjoyed fresh as well as used for processing. Balaton sour cherry is a Hungarian variety (from the Balaton region of Hungary, named for Lake Balaton) introduced to North American production through Michigan State University's cherry breeding and evaluation program in the 1980s and 1990s, becoming the most important new sour cherry variety introduced to the American market since Montmorency dominated the category throughout the 20th century. The primary distinction of Balaton from Montmorency is the fruit character: Balaton produces large (slightly larger than Montmorency), very dark red to nearly black fruits with dark red flesh and intensely colored juice, in contrast to Montmorency's lighter pink-red skin and clear to pale yellow flesh. This dark flesh and sweet-tart balance gives Balaton a distinct advantage for certain uses: the fruit can be eaten fresh (it is significantly sweeter and less acidic than Montmorency, approaching the level of fresh-eating quality), the juice is intensely pigmented for concentrated cherry products, and the fruit makes darker, richer-colored preserves and pies. MSU Extension has actively promoted Balaton as an alternative to Montmorency for Michigan commercial producers and home orchardists, particularly for growers wanting a second variety to extend the harvest window and access specialty markets.",
+    "sources": [
+      "Michigan State University Extension — Tart Cherry Cultivar Evaluation",
+      "Cornell Cooperative Extension — Tree Fruit Production",
+      "University of Minnesota Extension"
+    ]
+  },
+  {
+    "slug": "red-delicious-apple",
+    "common_name": "Red Delicious Apple (Hawkeye Apple, Most-Planted American Apple, Classic Red Apple)",
+    "scientific_name": "Malus domestica 'Red Delicious'",
+    "category": "fruit",
+    "subcategory": "tree fruit",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 730, "max": 1460},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": -6, "max": -2},
+      "note": "Plant bare-root trees while dormant in late winter in well-drained, slightly acidic to neutral (pH 6.0–7.0), fertile, deep soil in full sun; Red Delicious requires approximately 700–900 chill hours and cross-pollination from a compatible variety such as Gala, Fuji, Honeycrisp, or Golden Delicious; standard strains can reach 20+ feet while spur-type strains on dwarfing rootstock are more practical for home orchards."
+    },
+    "usda_zones": {"min": 5, "max": 8},
+    "spacing_in": {"min": 120, "max": 180},
+    "height_in": {"min": 144, "max": 240},
+    "spread_in": {"min": 120, "max": 180},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in deep, well-drained, slightly acidic soil in full sun; Red Delicious requires cross-pollination from a compatible diploid apple variety; harvest when the background color turns fully yellow-green under the red and the calyx basin softens slightly — Red Delicious harvested too late becomes mealy, while picked at proper maturity it is firm and pleasantly mild. Red Delicious is the most historically planted apple variety in the United States, dominating American commercial apple production for most of the 20th century and serving as the iconic image of an apple in American culture — the deep red, elongated, five-pointed shape was for decades what millions of Americans pictured when they thought 'apple.' The variety originated as a chance seedling discovered by farmer Jesse Hiatt on his farm near Peru, Iowa around 1872; Hiatt named it 'Hawkeye' and sent samples to a Stark Brothers Nurseries competition in 1893, where it won first prize and was renamed 'Delicious' (later 'Red Delicious' to distinguish it from Golden Delicious). Over the following century, commercial selection pressure for maximum red color and long shelf life produced the modern market strains with deep, all-red skin and elongated shape — but these selections simultaneously reduced the flavor quality that made the original Hawkeye notable. By the early 2000s, Red Delicious had become widely criticized for waxy skin, mealy texture, and mild flavor — a cautionary example of how breeding for appearance at the expense of eating quality can undermine a variety's standing. However, heritage strains and home-grown Red Delicious harvested at correct maturity are noticeably better than commercial examples. Highly productive and disease-tolerant in its home range of zones 5–8.",
+    "sources": [
+      "Cornell Cooperative Extension — Apple Varieties",
+      "Washington State University Tree Fruit Research and Extension Center",
+      "USDA National Plant Germplasm System — Hawkeye Apple accession"
+    ]
+  }
+]
