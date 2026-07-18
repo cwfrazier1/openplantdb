@@ -1,0 +1,296 @@
+[
+  {
+    "slug": "seguin-chestnut",
+    "common_name": "Seguin Chestnut",
+    "scientific_name": "Castanea seguinii",
+    "category": "fruit",
+    "subcategory": "nut",
+    "days_to_germination": {
+      "min": 30,
+      "max": 90
+    },
+    "germination_soil_temp_f": {
+      "min": 50,
+      "max": 68
+    },
+    "days_to_maturity": {
+      "min": 730,
+      "max": 1460
+    },
+    "spacing_in": {
+      "min": 300,
+      "max": 480
+    },
+    "height_in": {
+      "min": 240,
+      "max": 480
+    },
+    "spread_in": {
+      "min": 240,
+      "max": 420
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "hardy",
+    "sun": "full",
+    "water": "moderate",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 6
+      },
+      "note": "Sow stratified nuts in fall or after cold treatment in spring."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 8
+    },
+    "directions": "Seguin chestnut is a small, precocious Chinese species that can begin bearing while young and bushy. Sow cold-stratified nuts about two inches deep in acidic, well-drained soil, or set out young plants in spring. Harvest the small, sweet nuts in fall as the burs open.",
+    "sources": [
+      "general horticultural reference"
+    ]
+  },
+  {
+    "slug": "henry-chestnut",
+    "common_name": "Henry Chestnut",
+    "scientific_name": "Castanea henryi",
+    "category": "fruit",
+    "subcategory": "nut",
+    "days_to_germination": {
+      "min": 30,
+      "max": 90
+    },
+    "germination_soil_temp_f": {
+      "min": 50,
+      "max": 68
+    },
+    "days_to_maturity": {
+      "min": 1460,
+      "max": 2190
+    },
+    "spacing_in": {
+      "min": 480,
+      "max": 720
+    },
+    "height_in": {
+      "min": 600,
+      "max": 960
+    },
+    "spread_in": {
+      "min": 420,
+      "max": 660
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "hardy",
+    "sun": "full",
+    "water": "moderate",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 6
+      },
+      "note": "Sow stratified seed in fall or cold-treat for spring planting."
+    },
+    "usda_zones": {
+      "min": 6,
+      "max": 9
+    },
+    "directions": "Henry chestnut, or Chinese chinquapin, is a tall species bearing solitary small nuts within each bur. Sow cold-stratified nuts a couple inches deep in acidic, well-drained soil in a sheltered spot. Gather the nuts in fall as the burs split open.",
+    "sources": [
+      "general horticultural reference"
+    ]
+  },
+  {
+    "slug": "tonda-di-giffoni-hazelnut",
+    "common_name": "Tonda di Giffoni Hazelnut",
+    "scientific_name": "Corylus avellana 'Tonda di Giffoni'",
+    "category": "fruit",
+    "subcategory": "nut",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 1095,
+      "max": 1460
+    },
+    "spacing_in": {
+      "min": 180,
+      "max": 240
+    },
+    "height_in": {
+      "min": 180,
+      "max": 300
+    },
+    "spread_in": {
+      "min": 180,
+      "max": 300
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "warm",
+    "frost_tolerance": "hardy",
+    "sun": "full",
+    "water": "moderate",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -6,
+        "max": 4
+      },
+      "note": "Plant dormant nursery stock in late winter or early spring."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 8
+    },
+    "directions": "This Italian variety is prized by confectioners for round, richly flavored kernels. Plant in well-drained soil and include a compatible pollinizer, since hazelnuts are wind-pollinated and self-incompatible. Harvest in late summer to fall as ripe nuts drop from their husks.",
+    "sources": [
+      "general horticultural reference"
+    ]
+  },
+  {
+    "slug": "halls-giant-hazelnut",
+    "common_name": "Hall's Giant Hazelnut",
+    "scientific_name": "Corylus avellana 'Hall's Giant'",
+    "category": "fruit",
+    "subcategory": "nut",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 1095,
+      "max": 1460
+    },
+    "spacing_in": {
+      "min": 180,
+      "max": 240
+    },
+    "height_in": {
+      "min": 180,
+      "max": 300
+    },
+    "spread_in": {
+      "min": 180,
+      "max": 300
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "warm",
+    "frost_tolerance": "hardy",
+    "sun": "full",
+    "water": "moderate",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -6,
+        "max": 4
+      },
+      "note": "Plant bare-root or potted stock in late winter to early spring."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 8
+    },
+    "directions": "Also called Halle'sche Riesennuss, this variety yields large nuts and serves as a useful pollinizer for other cultivars. Plant in well-drained soil and provide a second, compatible hazelnut for cross-pollination. Harvest in late summer to fall as the nuts loosen and drop.",
+    "sources": [
+      "general horticultural reference"
+    ]
+  },
+  {
+    "slug": "contorted-hazelnut",
+    "common_name": "Contorted Hazelnut",
+    "scientific_name": "Corylus avellana 'Contorta'",
+    "category": "fruit",
+    "subcategory": "nut",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 1095,
+      "max": 1460
+    },
+    "spacing_in": {
+      "min": 120,
+      "max": 240
+    },
+    "height_in": {
+      "min": 96,
+      "max": 240
+    },
+    "spread_in": {
+      "min": 96,
+      "max": 240
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "warm",
+    "frost_tolerance": "hardy",
+    "sun": "full",
+    "water": "moderate",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -6,
+        "max": 4
+      },
+      "note": "Plant grafted stock in late winter or early spring."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 8
+    },
+    "directions": "Known as Harry Lauder's Walking Stick, this ornamental hazelnut has dramatically twisted branches prized in winter and yields occasional small nuts. Plant grafted stock in well-drained soil and remove any straight suckers from the rootstock. Enjoy the dangling catkins in late winter, with light nut crops following in fall.",
+    "sources": [
+      "general horticultural reference"
+    ]
+  },
+  {
+    "slug": "theta-hazelnut",
+    "common_name": "Theta Hazelnut",
+    "scientific_name": "Corylus avellana 'Theta'",
+    "category": "fruit",
+    "subcategory": "nut",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 1095,
+      "max": 1460
+    },
+    "spacing_in": {
+      "min": 180,
+      "max": 240
+    },
+    "height_in": {
+      "min": 180,
+      "max": 300
+    },
+    "spread_in": {
+      "min": 180,
+      "max": 300
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "warm",
+    "frost_tolerance": "hardy",
+    "sun": "full",
+    "water": "moderate",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -6,
+        "max": 4
+      },
+      "note": "Plant dormant stock in late winter to early spring."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 8
+    },
+    "directions": "Theta is an eastern filbert blight-resistant variety producing round kernels well suited to the kernel market. Plant in well-drained soil with a recommended pollinizer for good set. Harvest in late summer to fall as mature nuts drop from the shrubs.",
+    "sources": [
+      "general horticultural reference"
+    ]
+  }
+]
