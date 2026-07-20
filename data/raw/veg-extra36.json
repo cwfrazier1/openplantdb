@@ -1,0 +1,188 @@
+[
+  {
+    "slug": "scorzonera-hispanica",
+    "common_name": "Scorzonera (Black Salsify)",
+    "scientific_name": "Scorzonera hispanica",
+    "category": "vegetable",
+    "subcategory": "root vegetable",
+    "days_to_germination": {"min": 10, "max": 14},
+    "germination_soil_temp_f": {"min": 50, "max": 65},
+    "days_to_maturity": {"min": 120, "max": 150},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "soil_workable",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Sow direct as soon as soil is workable in spring in deep, stone-free, sandy to loamy, slightly acidic to neutral soil in full sun; scorzonera requires deeply cultivated soil for long, straight roots — raised beds work well."
+    },
+    "usda_zones": {"min": 4, "max": 10},
+    "spacing_in": {"min": 4, "max": 6},
+    "height_in": {"min": 12, "max": 30},
+    "spread_in": {"min": 6, "max": 9},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Sow direct as soon as soil can be worked in spring in deep, stone-free, sandy to loamy, slightly acidic to neutral soil in full sun; double-dig or use raised beds as scorzonera needs at least 12–18 inches of loose, unobstructed soil for long, straight roots — rocky or compacted soil produces forked, misshapen roots. Scorzonera hispanica is an underappreciated European root vegetable with long, black-skinned, white-fleshed taproots with a delicately sweet, oyster-like flavor that can be harvested in the first year but improves dramatically if left to mature for 18–24 months; the white sap that oozes from cut surfaces (a latex) can be rinsed away with cold water. Unlike most root vegetables, scorzonera is a true perennial that can be harvested selectively over multiple years; the young spring leaves and flower buds are also edible in salads. A gourmet vegetable widely popular in Belgium and the Netherlands.",
+    "sources": [
+      "Joy Larkcom, 'Grow Your Own Vegetables'",
+      "Royal Horticultural Society Plant Finder",
+      "University of Vermont Extension"
+    ]
+  },
+  {
+    "slug": "cynara-cardunculus",
+    "common_name": "Cardoon",
+    "scientific_name": "Cynara cardunculus",
+    "category": "vegetable",
+    "subcategory": "perennial vegetable",
+    "days_to_germination": {"min": 10, "max": 14},
+    "germination_soil_temp_f": {"min": 60, "max": 75},
+    "days_to_maturity": {"min": 150, "max": 180},
+    "maturity_from": "seed",
+    "sow_method": "indoor-start",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": -6, "max": -4},
+      "note": "Start indoors 6–8 weeks before last frost; transplant after all frost risk has passed into deep, rich, well-drained, slightly alkaline to neutral soil in full sun — cardoon is a dramatic architectural plant reaching 4–6 feet in its first year."
+    },
+    "usda_zones": {"min": 7, "max": 10},
+    "spacing_in": {"min": 36, "max": 60},
+    "height_in": {"min": 48, "max": 84},
+    "spread_in": {"min": 36, "max": 60},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Start indoors 6–8 weeks before last frost; transplant into deep, rich, well-drained, slightly alkaline to neutral soil in full sun after all frost risk has passed, spacing 3–5 feet apart as cardoon is a very large plant. Cynara cardunculus is the wild ancestor of the globe artichoke and a spectacular ornamental-cum-culinary plant; unlike artichoke (grown for flower buds), cardoon is grown for its thick, silvery-gray, thistle-like leaf stalks (blanched in fall by wrapping plants in burlap or paper for 3–4 weeks to remove bitterness), which are then braised, gratinéed, or served in the Italian-French Christmas tradition. The plant reaches 4–7 feet tall with dramatic, silver-arching, deeply cut leaves and produces purple, artichoke-like flower heads in its second year that are exceptionally attractive to bees and beautiful as cut or dried flowers.",
+    "sources": [
+      "Joy Larkcom, 'Grow Your Own Vegetables'",
+      "University of California Cooperative Extension",
+      "Royal Horticultural Society Plant Finder"
+    ]
+  },
+  {
+    "slug": "cichorium-intybus",
+    "common_name": "Common Chicory (Witloof)",
+    "scientific_name": "Cichorium intybus",
+    "category": "vegetable",
+    "subcategory": "root vegetable/green",
+    "days_to_germination": {"min": 7, "max": 14},
+    "germination_soil_temp_f": {"min": 45, "max": 65},
+    "days_to_maturity": {"min": 85, "max": 120},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Sow direct in spring for leaf harvest or in early summer for forcing chicory; witloof types are sown in late spring, roots lifted in fall and forced in darkness to produce the tight, pale 'Belgian endive' chicons used as winter salad."
+    },
+    "usda_zones": {"min": 3, "max": 9},
+    "spacing_in": {"min": 9, "max": 12},
+    "height_in": {"min": 12, "max": 36},
+    "spread_in": {"min": 9, "max": 12},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Sow direct in spring for leaf chicory or late spring for forcing types; for witloof (Belgian endive) production, sow in May–June, lift roots in fall, and force in a dark, warm (55–65°F) location in moist sand to produce the tender, pale, bullet-shaped chicons used as winter salad. Cichorium intybus is a remarkably versatile species encompassing leaf chicories (radicchio, puntarelle), forcing chicories (witloof/Belgian endive), and the roasted-root coffee substitute; all types are naturally bitter, a quality that can be reduced by blanching or frost exposure. The wild roadside plant with brilliant blue flowers is also the same species and is strikingly beautiful in naturalized plantings; the flowers are edible and the roasted root is a caffeine-free coffee substitute. Perennial in the garden but usually grown as an annual for leaf and root crops.",
+    "sources": [
+      "Joy Larkcom, 'Grow Your Own Vegetables'",
+      "University of Vermont Extension",
+      "Cornell University Cooperative Extension"
+    ]
+  },
+  {
+    "slug": "cichorium-endivia",
+    "common_name": "Endive (Escarole)",
+    "scientific_name": "Cichorium endivia",
+    "category": "vegetable",
+    "subcategory": "cool-season green",
+    "days_to_germination": {"min": 5, "max": 14},
+    "germination_soil_temp_f": {"min": 45, "max": 75},
+    "days_to_maturity": {"min": 85, "max": 100},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {"min": -8, "max": -6},
+      "note": "Sow direct in late summer 8–10 weeks before first fall frost for a fall/early winter harvest; endive tolerates light frost and improves in flavor after frost exposure — in Gulf Coast zones 8–10 it is an excellent fall through spring crop."
+    },
+    "usda_zones": {"min": 4, "max": 10},
+    "spacing_in": {"min": 12, "max": 15},
+    "height_in": {"min": 9, "max": 15},
+    "spread_in": {"min": 12, "max": 18},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Sow direct in late summer (8–10 weeks before first fall frost) or in early spring (4–6 weeks before last frost) in well-drained, fertile, slightly acidic to neutral soil in full sun to partial shade; in the Gulf South (zones 8–10), sow from September through January for a fall through spring season. Cichorium endivia encompasses two main types: curly endive (frisée) with very finely cut, curly, frilly leaves and a pronounced bitter flavor, and escarole (broad-leaved endive) with flat, broader, less curly leaves and a milder flavor; both can be blanched by tying outer leaves over the heart for 1–2 weeks to reduce bitterness and produce the pale, creamy heart used in bistro salads. Endive is an outstanding fall and winter salad plant in the Gulf South, tolerating light frost and performing through the cool season. The bitter compounds are reduced by cold temperatures.",
+    "sources": [
+      "Joy Larkcom, 'Grow Your Own Vegetables'",
+      "University of Florida IFAS Extension",
+      "Cornell University Cooperative Extension"
+    ]
+  },
+  {
+    "slug": "valerianella-locusta",
+    "common_name": "Mâche (Corn Salad, Lamb's Lettuce)",
+    "scientific_name": "Valerianella locusta",
+    "category": "vegetable",
+    "subcategory": "cool-season green",
+    "days_to_germination": {"min": 7, "max": 21},
+    "germination_soil_temp_f": {"min": 40, "max": 60},
+    "days_to_maturity": {"min": 45, "max": 70},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {"min": -8, "max": -4},
+      "note": "Sow direct from late summer through fall in any reasonably fertile, well-drained soil in full sun to partial shade; mâche germinates best in cool soil and is one of the most cold-hardy salad greens, surviving hard freezes to 10°F."
+    },
+    "usda_zones": {"min": 4, "max": 10},
+    "spacing_in": {"min": 4, "max": 6},
+    "height_in": {"min": 3, "max": 6},
+    "spread_in": {"min": 4, "max": 6},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Sow direct from late summer through fall (or in early spring in cold climates) in any reasonably fertile, well-drained soil in partial shade to full sun; thin to 4–6 inches apart and harvest the outer rosettes, or pull entire plants at 45–70 days. Valerianella locusta is the premier winter salad green for cold-hardy production; a small-rosette-forming annual with smooth, oval, soft, blue-green leaves and a distinctively mild, nutty, slightly sweet flavor quite unlike any other green — the taste that makes genuine French salade de mâche so sought-after in winter bistros. It is among the most cold-hardy of all salad crops, surviving temperatures to 10°F under light row cover or as low as 20°F with cold frames; in the Gulf South (zones 8–10) it can be harvested from October through April as a continuous cool-season salad. It self-seeds readily and often naturalizes in garden beds.",
+    "sources": [
+      "Joy Larkcom, 'Grow Your Own Vegetables'",
+      "University of Vermont Extension",
+      "Johnny's Selected Seeds Growers Library"
+    ]
+  },
+  {
+    "slug": "portulaca-oleracea",
+    "common_name": "Purslane (Verdolaga)",
+    "scientific_name": "Portulaca oleracea",
+    "category": "vegetable",
+    "subcategory": "warm-season green",
+    "days_to_germination": {"min": 7, "max": 14},
+    "germination_soil_temp_f": {"min": 70, "max": 85},
+    "days_to_maturity": {"min": 45, "max": 60},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 2, "max": 4},
+      "note": "Sow direct 2–4 weeks after last frost in warm soil in full sun; purslane thrives in heat and poor, dry soil — it is one of the most heat-tolerant and drought-resistant summer greens available, ideal for the Gulf Coast summer when other greens fail."
+    },
+    "usda_zones": {"min": 4, "max": 11},
+    "spacing_in": {"min": 6, "max": 9},
+    "height_in": {"min": 3, "max": 8},
+    "spread_in": {"min": 9, "max": 18},
+    "sun": "full",
+    "water": "low",
+    "directions": "Sow direct 2–4 weeks after last frost in warm, well-drained, lean to moderately fertile soil in full sun; purslane requires warm, loose soil (70°F+) to germinate and thrives in heat and drought that would wilt most salad greens. Portulaca oleracea is one of the world's most widespread wild plants, a succulent, mat-forming annual with thick, water-storing, paddle-shaped leaves and reddish stems; in the Middle East, Mexico, and much of Europe and Asia it is cultivated as a valued summer vegetable — snipped stems and leaves are eaten fresh in salads (particularly Greek salads and Mexican ensalada), lightly sautéed, pickled, or added to soups and stews for a mild, slightly lemony, slightly mucilaginous texture. Purslane is extraordinarily rich in omega-3 fatty acids for a leafy green, and is one of the highest plant sources of ALA. It naturalizes aggressively in warm climates — harvest regularly to prevent unwanted spreading.",
+    "sources": [
+      "University of Florida IFAS Extension",
+      "Joy Larkcom, 'Grow Your Own Vegetables'",
+      "Plants for a Future Database"
+    ]
+  }
+]

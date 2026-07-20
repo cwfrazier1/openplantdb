@@ -1,0 +1,157 @@
+[
+  {
+    "slug": "pyrrhopappus-carolinianus",
+    "common_name": "Carolina Desert-chicory",
+    "scientific_name": "Pyrrhopappus carolinianus",
+    "category": "flower",
+    "subcategory": "native annual",
+    "days_to_germination": {"min": 10, "max": 21},
+    "germination_soil_temp_f": {"min": 60, "max": 70},
+    "days_to_maturity": {"min": 60, "max": 120},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": -2, "max": 2},
+      "note": "Direct sow seeds in early spring around the last frost date onto bare, dry, sandy or disturbed soil; seeds need light to germinate so press firmly onto the surface without covering."
+    },
+    "usda_zones": {"min": 5, "max": 10},
+    "spacing_in": {"min": 6, "max": 9},
+    "height_in": {"min": 12, "max": 36},
+    "spread_in": {"min": 6, "max": 9},
+    "sun": "full",
+    "water": "low",
+    "directions": "Carolina Desert-chicory is a native annual or biennial of the chicory family, found on dry, sandy, open ground, old fields, and disturbed areas throughout the southeastern and south-central United States. Plants produce hollow, milky-sapped stems rising from a basal rosette of pinnately lobed leaves, topped with large, showy, pale yellow flower heads up to 2 inches across from spring through early summer, followed by fluffy, dandelion-like seed heads that scatter readily on the wind. Grow in poor, dry, sandy, or rocky soil in full sun — fertile or clay soils encourage leafy growth at the expense of flowering, and this species thrives on neglect and minimal moisture once established. Self-sows dependably in open, disturbed ground and serves as an early, important nectar source for native bees, particularly small Hylaeus species active in early spring.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "USDA PLANTS Database",
+      "Flora of North America"
+    ]
+  },
+  {
+    "slug": "prenanthes-serpentaria",
+    "common_name": "Lion's-foot",
+    "scientific_name": "Prenanthes serpentaria",
+    "category": "flower",
+    "subcategory": "native shade perennial",
+    "days_to_germination": {"min": 14, "max": 28},
+    "germination_soil_temp_f": {"min": 55, "max": 70},
+    "days_to_maturity": {"min": 180, "max": 365},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Direct sow fresh seed in fall in a partially shaded woodland bed; cold stratification over winter significantly improves spring germination rates, and seeds should be pressed onto the soil surface with only a light dusting of leaf litter as cover."
+    },
+    "usda_zones": {"min": 3, "max": 8},
+    "spacing_in": {"min": 18, "max": 24},
+    "height_in": {"min": 36, "max": 72},
+    "spread_in": {"min": 12, "max": 18},
+    "sun": "shade",
+    "water": "moderate",
+    "directions": "Lion's-foot is a tall, upright native perennial of the chicory family, with deeply lobed and variable leaves and drooping clusters of tiny, nodding, creamy white to pale lavender composite flowers that open in late summer and fall — one of the few native woodland wildflowers to bloom during this season under shade. Native to dry to moist open woods, forest edges, and thickets throughout eastern North America, it exudes a white milky sap when stems are cut or broken, a characteristic trait of the Cichorieae tribe. Grow in well-drained to moderately moist, slightly acidic to neutral soil in partial to full shade, where the nodding, whisker-like flower clusters add delicate late-season interest to the shade garden. Plants self-sow moderately in undisturbed leaf-litter and establish slowly, so patience through the first two seasons is rewarded with a long-lived, trouble-free shade perennial.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "USDA PLANTS Database",
+      "Flora of North America"
+    ]
+  },
+  {
+    "slug": "krigia-virginica",
+    "common_name": "Virginia Dwarf Dandelion",
+    "scientific_name": "Krigia virginica",
+    "category": "flower",
+    "subcategory": "native annual",
+    "days_to_germination": {"min": 7, "max": 14},
+    "germination_soil_temp_f": {"min": 55, "max": 70},
+    "days_to_maturity": {"min": 30, "max": 60},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "soil_workable",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Scatter seed in fall or as soon as ground is workable in early spring onto bare, thin, or sandy soil; do not cover, as seeds require light for germination and will find their own crevices in open, undisturbed ground."
+    },
+    "usda_zones": {"min": 4, "max": 9},
+    "spacing_in": {"min": 3, "max": 6},
+    "height_in": {"min": 3, "max": 9},
+    "spread_in": {"min": 3, "max": 6},
+    "sun": "full",
+    "water": "low",
+    "directions": "Virginia Dwarf Dandelion is a diminutive native annual of the daisy family, producing miniature golden-yellow flower heads barely half an inch across on thread-like stems from early spring through early summer in thin, dry, sandy, or gravelly, undisturbed soil across eastern North America. One of the earliest native spring wildflowers to bloom, it fills an important ecological role as a nectar source for small native bees — particularly Lasioglossum and Andrena species — when almost nothing else is in flower. Grow in thin turf, bare sandy patches, lichen-covered rock outcrops, or powerline rights-of-way where it naturalizes freely without any competition from vigorous grasses or perennials. Best established by scattering seed in fall onto prepared bare ground and leaving it alone; this tiny annual thrives precisely where gardeners struggle to grow anything else.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "USDA PLANTS Database",
+      "New England Wildflower Society"
+    ]
+  },
+  {
+    "slug": "krigia-montana",
+    "common_name": "Mountain Dwarf Dandelion",
+    "scientific_name": "Krigia montana",
+    "category": "flower",
+    "subcategory": "native perennial",
+    "days_to_germination": {"min": 14, "max": 28},
+    "germination_soil_temp_f": {"min": 50, "max": 65},
+    "days_to_maturity": {"min": 180, "max": 365},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Direct sow in fall into gritty, acidic, rocky or sandy soil in a cool, partially shaded rock garden setting; cold stratification over winter is highly beneficial, and seeds should not be buried — surface sow and firm gently into the growing medium."
+    },
+    "usda_zones": {"min": 4, "max": 7},
+    "spacing_in": {"min": 4, "max": 6},
+    "height_in": {"min": 6, "max": 12},
+    "spread_in": {"min": 4, "max": 6},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Mountain Dwarf Dandelion is a rare endemic native perennial restricted to high mountain rocky summits, cliff faces, and seepage slopes in the southern Appalachians of North Carolina, South Carolina, and Tennessee — far more cold-adapted and persistently perennial than the other species in this small genus. Plants produce slender, leafless scapes topped with solitary, bright golden-yellow dandelion-like flower heads that open in summer above neat basal rosettes of narrow leaves. Grow in cool, well-drained to moist, rocky or sandy, acidic soil in partial shade to full sun — conditions that mimic its native mountain seep and rocky outcrop habitats. This species is an exceptional choice for alpine troughs, crevice gardens, and rock garden settings in the upper South but is not suited to hot, humid lowland gardens where summer heat and poor drainage will be fatal.",
+    "sources": [
+      "USDA PLANTS Database",
+      "Flora of North America",
+      "North Carolina Native Plant Society"
+    ]
+  },
+  {
+    "slug": "coreopsis-falcata",
+    "common_name": "Sickle-leaved Coreopsis",
+    "scientific_name": "Coreopsis falcata",
+    "category": "flower",
+    "subcategory": "native perennial",
+    "days_to_germination": {"min": 14, "max": 21},
+    "germination_soil_temp_f": {"min": 65, "max": 75},
+    "days_to_maturity": {"min": 180, "max": 365},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Direct sow onto dry, sandy, well-drained, acidic soil in fall; seeds benefit from exposure to winter moisture and temperature cycling and should be pressed lightly onto the soil surface without covering in a site with full sun and no competing vegetation."
+    },
+    "usda_zones": {"min": 7, "max": 9},
+    "spacing_in": {"min": 12, "max": 18},
+    "height_in": {"min": 18, "max": 36},
+    "spread_in": {"min": 12, "max": 18},
+    "sun": "full",
+    "water": "low",
+    "directions": "Sickle-leaved Coreopsis is a native perennial of dry, open, sandy pine savannas and flatwoods along the southeastern coastal plain, immediately recognizable by its narrow, linear to distinctly sickle-shaped leaf segments that set it apart from all other coreopsis species. Bright yellow, daisy-like flowers with a maroon-tinged central disk zone open in summer above the fine-textured foliage, attracting native bees and small butterflies throughout the season. Native to fire-maintained longleaf pine ecosystems of the Carolinas and Florida, this species thrives in poor, sandy, acidic, extremely well-drained soil in full sun and becomes more floriferous and compact under the lean conditions it evolved with — avoid rich soil or supplemental fertilizer, which produce floppy, weak growth. An excellent choice for longleaf pine savanna restorations, dry native meadows, and open native gardens in zones 7 through 9.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "USDA PLANTS Database",
+      "Florida Native Plant Society"
+    ]
+  }
+]

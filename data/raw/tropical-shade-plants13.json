@@ -1,0 +1,157 @@
+[
+  {
+    "slug": "alpinia-calcarata",
+    "common_name": "Snap Ginger / Indian Cardamom Ginger",
+    "scientific_name": "Alpinia calcarata",
+    "category": "herb",
+    "subcategory": "tropical culinary ginger",
+    "days_to_germination": {"min": 14, "max": 28},
+    "germination_soil_temp_f": {"min": 75, "max": 85},
+    "days_to_maturity": {"min": 365, "max": 730},
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 6},
+      "note": "Plant rhizome divisions in spring once the soil has warmed above 65 degrees F, setting them 2-3 inches deep in compost-enriched soil in a partially shaded to shaded bed."
+    },
+    "usda_zones": {"min": 8, "max": 11},
+    "spacing_in": {"min": 24, "max": 36},
+    "height_in": {"min": 36, "max": 60},
+    "spread_in": {"min": 24, "max": 36},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Plant rhizome divisions 2-3 inches deep in moist, organically rich, well-draining soil in partial to full shade, spacing clumps 24-36 inches apart to allow the lance-shaped, aromatic foliage to fill in naturally. Water consistently throughout the growing season to maintain even soil moisture, and apply a balanced slow-release fertilizer in spring to fuel vigorous growth. In zone 8 gardens, mulch the root zone heavily after the first frost to protect the rhizomes through winter, as the tops will die back but the roots typically survive. Harvest young leaves and rhizomes as needed for culinary use in Sri Lankan and South Asian cooking, where both impart a mild cardamom-like fragrance to curries and rice dishes.",
+    "sources": [
+      "University of Florida IFAS Extension",
+      "Royal Botanic Gardens Kew",
+      "USDA PLANTS Database"
+    ]
+  },
+  {
+    "slug": "costus-productus",
+    "common_name": "Red Button Ginger / Scarlet Spiral Ginger",
+    "scientific_name": "Costus productus",
+    "category": "flower",
+    "subcategory": "tropical shade plant",
+    "days_to_germination": {"min": 14, "max": 28},
+    "germination_soil_temp_f": {"min": 75, "max": 85},
+    "days_to_maturity": {"min": 365, "max": 730},
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 6},
+      "note": "Plant rhizome divisions in spring once all danger of cold has passed, setting them 2-3 inches deep in humus-rich, moisture-retentive soil in a shaded or partially shaded location."
+    },
+    "usda_zones": {"min": 9, "max": 11},
+    "spacing_in": {"min": 24, "max": 36},
+    "height_in": {"min": 36, "max": 72},
+    "spread_in": {"min": 24, "max": 36},
+    "sun": "shade",
+    "water": "moderate",
+    "directions": "Plant divisions in rich, well-draining soil in a shaded to partially shaded location, spacing clumps 24-36 inches apart to allow the glossy, spirally arranged leaves to develop their full architectural presence. Water regularly throughout the growing season to keep the soil evenly moist, and feed monthly with a balanced liquid fertilizer from spring through late summer to support the production of the dramatic scarlet cone-like inflorescences. Remove spent flowering canes at the base after blooms fade to encourage fresh new growth and repeated flushes of color. In zone 9 where light frost may occur, cut tops back and mulch the root zone deeply in fall to protect the rhizomes through winter.",
+    "sources": [
+      "University of Florida IFAS Extension",
+      "Missouri Botanical Garden Plant Finder",
+      "Fairchild Tropical Botanic Garden"
+    ]
+  },
+  {
+    "slug": "cymbidium-goeringii",
+    "common_name": "Spring Orchid / Noble Orchid",
+    "scientific_name": "Cymbidium goeringii",
+    "category": "flower",
+    "subcategory": "hardy terrestrial orchid",
+    "days_to_germination": {"min": 60, "max": 180},
+    "germination_soil_temp_f": {"min": 65, "max": 75},
+    "days_to_maturity": {"min": 730, "max": 1825},
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Divide and replant established clumps in early spring before new growth emerges, setting pseudobulbs just at the soil surface in a fast-draining orchid mix in a shaded location."
+    },
+    "usda_zones": {"min": 6, "max": 9},
+    "spacing_in": {"min": 9, "max": 15},
+    "height_in": {"min": 8, "max": 15},
+    "spread_in": {"min": 9, "max": 15},
+    "sun": "shade",
+    "water": "moderate",
+    "directions": "Grow in a fast-draining mix of bark, perlite, and leaf mold in a deeply shaded location that receives bright indirect light, spacing clumps 9-15 inches apart to allow the narrow grassy foliage to form tidy mounds. Water moderately during the growing season, allowing the mix to approach dryness between waterings, and reduce water significantly in late autumn to encourage the formation of spring flower spikes. Apply a dilute balanced orchid fertilizer every two to three weeks from spring through summer, switching to a low-nitrogen formula in fall to harden growth. Divide clumps every three to five years in early spring, ensuring each division retains at least three to five pseudobulbs to guarantee flowering within one to two seasons.",
+    "sources": [
+      "Missouri Botanical Garden Plant Finder",
+      "Royal Horticultural Society",
+      "American Orchid Society"
+    ]
+  },
+  {
+    "slug": "eriochloa-michauxii",
+    "common_name": "Gulf Cockspur Grass / Michaux's Cup Grass",
+    "scientific_name": "Eriochloa michauxii",
+    "category": "flower",
+    "subcategory": "native annual grass",
+    "days_to_germination": {"min": 7, "max": 14},
+    "germination_soil_temp_f": {"min": 70, "max": 80},
+    "days_to_maturity": {"min": 60, "max": 90},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 0, "max": 2},
+      "note": "Direct-sow seeds at the soil surface or barely covered in sandy or disturbed soil after the last frost date, in a location with full to partial sun and good drainage."
+    },
+    "usda_zones": {"min": 7, "max": 10},
+    "spacing_in": {"min": 12, "max": 18},
+    "height_in": {"min": 18, "max": 36},
+    "spread_in": {"min": 12, "max": 18},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Direct-sow seeds at or just below the surface of sandy, well-drained soil in full to partial sun after the last frost date, thinning seedlings to 12-18 inches apart once they reach 3-4 inches tall. This native grass of coastal plain disturbed habitats is well-adapted to low-fertility soils and requires no supplemental fertilizer, which would promote rank vegetative growth at the expense of seed production. Water lightly during establishment, then rely on natural rainfall once plants are 6-8 inches tall, as Gulf Cockspur Grass is tolerant of both brief drought and periodic flooding in its native habitat. Allow seed heads to mature fully on the plant before cutting for forage or wildlife use, as the seeds provide valuable food for ground-feeding birds in late summer and fall.",
+    "sources": [
+      "USDA PLANTS Database",
+      "Lady Bird Johnson Wildflower Center",
+      "University of Florida IFAS Extension"
+    ]
+  },
+  {
+    "slug": "pleione-formosana",
+    "common_name": "Windowsill Orchid / Taiwanese Ground Orchid",
+    "scientific_name": "Pleione formosana",
+    "category": "flower",
+    "subcategory": "hardy terrestrial orchid",
+    "days_to_germination": {"min": 30, "max": 90},
+    "germination_soil_temp_f": {"min": 55, "max": 65},
+    "days_to_maturity": {"min": 365, "max": 730},
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Set pseudobulbs half-buried in a gritty, well-drained orchid mix in early spring just as new growth begins, positioning them in a shaded to partially shaded location that stays cool and frost-free through winter."
+    },
+    "usda_zones": {"min": 7, "max": 9},
+    "spacing_in": {"min": 4, "max": 6},
+    "height_in": {"min": 6, "max": 10},
+    "spread_in": {"min": 4, "max": 6},
+    "sun": "shade",
+    "water": "moderate",
+    "directions": "Half-bury pseudobulbs in a gritty mix of fine bark, perlite, and leaf mold in a shaded position, placing them 4-6 inches apart in a shallow pan or raised bed where their shallow roots can spread freely. Water sparingly when new growth first emerges in spring, gradually increasing moisture as the single pleated leaf and showy pink to lilac flowers develop, then reducing water steadily as foliage yellows in autumn. Keep pseudobulbs cool and nearly dry but frost-free during their winter dormancy, as prolonged freezing will kill them even in zone 7 without protective mulch or cold-frame shelter. Each autumn, lift and separate the daughter pseudobulbs that form alongside the original, discarding the spent parent bulb and replanting the offsets to steadily increase your colony.",
+    "sources": [
+      "Royal Horticultural Society",
+      "American Orchid Society",
+      "Missouri Botanical Garden Plant Finder"
+    ]
+  }
+]

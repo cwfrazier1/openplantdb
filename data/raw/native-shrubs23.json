@@ -1,0 +1,157 @@
+[
+  {
+    "slug": "downy-arrowwood",
+    "common_name": "Downy Arrow-wood",
+    "scientific_name": "Viburnum rafinesquianum",
+    "category": "flower",
+    "subcategory": "native deciduous shrub",
+    "days_to_germination": {"min": 90, "max": 180},
+    "germination_soil_temp_f": {"min": 33, "max": 41},
+    "days_to_maturity": {"min": 1095, "max": 2190},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Plant in early spring after frost. Tolerates dry, rocky, and low-fertility soils where other viburnums fail. No supplemental fertilizer needed at establishment."
+    },
+    "usda_zones": {"min": 3, "max": 8},
+    "spacing_in": {"min": 48, "max": 72},
+    "height_in": {"min": 36, "max": 72},
+    "spread_in": {"min": 48, "max": 72},
+    "sun": "partial",
+    "water": "low",
+    "directions": "Plant in a well-draining location with partial shade to full shade; this viburnum thrives in dry, rocky soils and actually struggles in rich, moist conditions. Dig a hole twice as wide as the root ball and backfill with unamended native soil. Water consistently for the first season to establish roots, then reduce irrigation — established plants are notably drought-tolerant. Flat-topped white flower clusters appear in late spring, followed by dark blue-black berries that persist into winter for birds.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "USDA PLANTS Database",
+      "Missouri Botanical Garden Plant Finder"
+    ]
+  },
+  {
+    "slug": "kentucky-viburnum",
+    "common_name": "Kentucky Viburnum / Softleaf Arrow-wood",
+    "scientific_name": "Viburnum molle",
+    "category": "flower",
+    "subcategory": "native deciduous shrub",
+    "days_to_germination": {"min": 90, "max": 180},
+    "germination_soil_temp_f": {"min": 33, "max": 41},
+    "days_to_maturity": {"min": 1095, "max": 2190},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Best planted in early spring in moist, well-drained woodland soil. Prefers sheltered spots near streams or in moist ravines that mimic its native rocky woodland habitat."
+    },
+    "usda_zones": {"min": 5, "max": 8},
+    "spacing_in": {"min": 72, "max": 120},
+    "height_in": {"min": 72, "max": 120},
+    "spread_in": {"min": 72, "max": 120},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Select a site in partial shade with consistently moist, humus-rich soil that mimics its native rocky streambank habitat. Plant container-grown specimens in early spring, backfilling with a mix of native soil and compost. Water deeply each week during the first two growing seasons to encourage a deep root system. White flower clusters emerge in late spring and give way to blue-black berries that are a valuable food source for migrating and resident birds throughout autumn.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "USDA PLANTS Database",
+      "Missouri Botanical Garden Plant Finder"
+    ]
+  },
+  {
+    "slug": "western-viburnum",
+    "common_name": "Western Viburnum",
+    "scientific_name": "Viburnum ellipticum",
+    "category": "flower",
+    "subcategory": "native deciduous shrub",
+    "days_to_germination": {"min": 90, "max": 180},
+    "germination_soil_temp_f": {"min": 33, "max": 41},
+    "days_to_maturity": {"min": 1095, "max": 2190},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Plant in early spring in well-drained, slightly acidic soil. Well-suited to the dry summers of the Pacific Northwest and northern California; irrigation should be minimal once established to avoid root rot."
+    },
+    "usda_zones": {"min": 5, "max": 9},
+    "spacing_in": {"min": 60, "max": 96},
+    "height_in": {"min": 60, "max": 120},
+    "spread_in": {"min": 60, "max": 96},
+    "sun": "partial",
+    "water": "low",
+    "directions": "Choose a site that receives morning sun and afternoon shade, with fast-draining, rocky or sandy soil that stays dry in summer. This is the only Viburnum native to Oregon and California, and it is adapted to summer drought — avoid planting in lawn areas or anywhere that receives regular irrigation. Plant in spring, water to settle the roots, and then allow natural rainfall to take over after the first season. Clusters of white flowers in late spring attract native pollinators, and the dark berries that follow are eaten by western scrub-jays, towhees, and other Pacific coast birds.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "USDA PLANTS Database",
+      "Oregon State University Extension"
+    ]
+  },
+  {
+    "slug": "southern-arrowwood",
+    "common_name": "Southern Arrow-wood",
+    "scientific_name": "Viburnum recognitum",
+    "category": "flower",
+    "subcategory": "native deciduous shrub",
+    "days_to_germination": {"min": 90, "max": 180},
+    "germination_soil_temp_f": {"min": 33, "max": 41},
+    "days_to_maturity": {"min": 1095, "max": 2190},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Ideal for rain gardens, swales, and wet edges of ponds or streams. Plant in early spring in moist to wet soil; tolerates periodic flooding and heavy clay soils better than most viburnums."
+    },
+    "usda_zones": {"min": 5, "max": 8},
+    "spacing_in": {"min": 48, "max": 96},
+    "height_in": {"min": 60, "max": 120},
+    "spread_in": {"min": 60, "max": 96},
+    "sun": "partial",
+    "water": "high",
+    "directions": "Plant in consistently moist to wet soil in a location that receives partial shade, such as the edge of a woodland, streambank, or rain garden basin. Unlike most shrubs, this viburnum tolerates and even benefits from periodic inundation and clay soils. Water generously through the establishment period and maintain steady soil moisture thereafter — it will not perform well in dry conditions. White flower clusters open in spring and attract numerous native pollinators, while the dark blue fall berries are eagerly consumed by thrushes, waxwings, and other frugivorous birds.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "USDA PLANTS Database",
+      "North Carolina Extension Gardener Plant Toolbox"
+    ]
+  },
+  {
+    "slug": "grape-honeysuckle",
+    "common_name": "Grape Honeysuckle",
+    "scientific_name": "Lonicera reticulata",
+    "category": "flower",
+    "subcategory": "native vine",
+    "days_to_germination": {"min": 21, "max": 60},
+    "germination_soil_temp_f": {"min": 55, "max": 70},
+    "days_to_maturity": {"min": 730, "max": 1825},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Install a trellis, arbor, or fence before planting. Plant in early spring in well-drained soil; keep roots shaded and cool while the vine climbs into sunlight."
+    },
+    "usda_zones": {"min": 4, "max": 8},
+    "spacing_in": {"min": 60, "max": 96},
+    "height_in": {"min": 60, "max": 144},
+    "spread_in": {"min": 36, "max": 72},
+    "sun": "partial",
+    "water": "low",
+    "directions": "Provide a sturdy support structure such as a trellis, fence, or pergola, and plant in well-drained, dry to average soil in partial shade — this native midwestern vine prefers its roots cool and shaded while its stems climb toward sunlight. Unlike invasive non-native honeysuckles, Grape Honeysuckle is well-behaved and will not spread aggressively or self-seed excessively. Water regularly for the first growing season to establish, then scale back irrigation; established vines are drought-tolerant and thrive with little intervention. The distinctive perfoliate leaves and tubular yellow to orange flowers are magnets for ruby-throated hummingbirds and native bees from late spring through midsummer.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "USDA PLANTS Database",
+      "Missouri Botanical Garden Plant Finder"
+    ]
+  }
+]

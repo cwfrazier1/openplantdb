@@ -1,0 +1,188 @@
+[
+  {
+    "slug": "molineria-palm-lily",
+    "common_name": "Palm Lily / Weevil Lily",
+    "scientific_name": "Molineria capitulata",
+    "category": "flower",
+    "subcategory": "tropical shade perennial",
+    "days_to_germination": {"min": 30, "max": 60},
+    "germination_soil_temp_f": {"min": 70, "max": 85},
+    "days_to_maturity": {"min": 365, "max": 730},
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 2},
+      "note": "Plant divisions in spring after all cold weather has passed, positioning the crown at or just above soil level in a shaded bed enriched with compost."
+    },
+    "usda_zones": {"min": 8, "max": 11},
+    "spacing_in": {"min": 24, "max": 36},
+    "height_in": {"min": 24, "max": 36},
+    "spread_in": {"min": 24, "max": 36},
+    "sun": "shade",
+    "water": "moderate",
+    "directions": "Plant divisions in rich, well-draining soil in a fully or deeply shaded location, spacing clumps 24-36 inches apart to allow the pleated, palm-like leaves to spread without crowding. Water regularly to keep the soil evenly moist, but avoid standing water around the crown. Apply a balanced slow-release fertilizer in spring and again in midsummer to support vigorous foliage. Divide established clumps every 3-4 years in spring to rejuvenate growth and propagate new plants.",
+    "sources": [
+      "University of Florida IFAS Extension",
+      "Missouri Botanical Garden Plant Finder",
+      "Royal Horticultural Society"
+    ]
+  },
+  {
+    "slug": "red-button-ginger",
+    "common_name": "Red Button Ginger / Seersucker Costus",
+    "scientific_name": "Costus comosus",
+    "category": "flower",
+    "subcategory": "tropical shade perennial",
+    "days_to_germination": {"min": 21, "max": 42},
+    "germination_soil_temp_f": {"min": 72, "max": 86},
+    "days_to_maturity": {"min": 365, "max": 730},
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 2},
+      "note": "Plant rhizome divisions in spring once temperatures are reliably warm, setting them 2-3 inches deep in humus-rich soil in a partially shaded position."
+    },
+    "usda_zones": {"min": 9, "max": 11},
+    "spacing_in": {"min": 36, "max": 60},
+    "height_in": {"min": 60, "max": 96},
+    "spread_in": {"min": 36, "max": 60},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Plant divisions in moist, organically rich soil in partial shade, setting rhizomes 2-3 inches deep and spacing clumps 3-5 feet apart to accommodate their spiraling, upright canes. Water consistently during the growing season, and apply a high-potassium fertilizer monthly from spring through late summer to fuel the production of the vivid red terminal bracts. Cut older canes to the ground after they finish flowering to encourage fresh growth from the base. In zone 9 where light frost may occur, mulch the root zone heavily in fall to protect the rhizomes through winter.",
+    "sources": [
+      "University of Florida IFAS Extension",
+      "Missouri Botanical Garden Plant Finder",
+      "Royal Horticultural Society"
+    ]
+  },
+  {
+    "slug": "black-galingale",
+    "common_name": "Black Galingale / Thai Ginger",
+    "scientific_name": "Kaempferia parviflora",
+    "category": "herb",
+    "subcategory": "tropical herb",
+    "days_to_germination": {"min": 21, "max": 42},
+    "germination_soil_temp_f": {"min": 72, "max": 86},
+    "days_to_maturity": {"min": 180, "max": 365},
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 2},
+      "note": "Plant rhizome divisions in spring once soil temperatures are above 70 degrees F, barely covering the rhizomes with 1-2 inches of loose, fertile soil in a partially shaded bed."
+    },
+    "usda_zones": {"min": 8, "max": 11},
+    "spacing_in": {"min": 18, "max": 24},
+    "height_in": {"min": 18, "max": 30},
+    "spread_in": {"min": 18, "max": 24},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Plant rhizome divisions just below the soil surface in a partially shaded spot with loose, well-draining, humus-rich soil, spacing plants 18-24 inches apart. Keep the soil consistently moist throughout the active growing season, then reduce watering as the foliage dies back in autumn to allow the rhizomes to cure. Harvest rhizomes in late fall once the tops have yellowed, or leave them in the ground in frost-free climates to naturalize over time. For the best development of the characteristic dark purple flesh, ensure plants receive warm temperatures (above 65 degrees F) through the entire growing season.",
+    "sources": [
+      "University of Florida IFAS Extension",
+      "Royal Horticultural Society",
+      "Plants for a Future"
+    ]
+  },
+  {
+    "slug": "black-cardamom",
+    "common_name": "Black Cardamom / Greater Cardamom",
+    "scientific_name": "Amomum subulatum",
+    "category": "herb",
+    "subcategory": "tropical herb",
+    "days_to_germination": {"min": 21, "max": 42},
+    "germination_soil_temp_f": {"min": 72, "max": 85},
+    "days_to_maturity": {"min": 730, "max": 1460},
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 2},
+      "note": "Plant divisions in spring in a sheltered, partially shaded location with deep, moisture-retentive soil, setting the crown just at the soil surface and watering in well."
+    },
+    "usda_zones": {"min": 9, "max": 11},
+    "spacing_in": {"min": 36, "max": 60},
+    "height_in": {"min": 60, "max": 96},
+    "spread_in": {"min": 36, "max": 60},
+    "sun": "partial",
+    "water": "high",
+    "directions": "Choose a partially shaded site with deep, rich, constantly moist soil and plant divisions at least 3-5 feet apart, as established clumps spread broadly through underground rhizomes. Water frequently and generously throughout the growing season, as Black Cardamom requires high moisture levels to produce its characteristic large, aromatic pods. Feed with a balanced organic fertilizer in spring and a potassium-rich fertilizer in summer to encourage flower and pod formation, which typically begins in the second or third year. Harvest the mature seed pods at the base of the plant by hand when they turn deep reddish-brown, traditionally before smoke-drying to develop their distinctive camphor-like flavor.",
+    "sources": [
+      "University of Florida IFAS Extension",
+      "Plants for a Future",
+      "USDA ARS National Plant Germplasm System"
+    ]
+  },
+  {
+    "slug": "polynesian-arrowroot",
+    "common_name": "Polynesian Arrowroot / Pia",
+    "scientific_name": "Tacca leontopetaloides",
+    "category": "vegetable",
+    "subcategory": "tropical root",
+    "days_to_germination": {"min": 30, "max": 60},
+    "germination_soil_temp_f": {"min": 72, "max": 85},
+    "days_to_maturity": {"min": 365, "max": 730},
+    "maturity_from": "transplant",
+    "sow_method": "tuber",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 2},
+      "note": "Plant tubers 3-4 inches deep in loose, well-draining soil once temperatures are consistently above 70 degrees F, in a partially shaded to bright-indirect light location."
+    },
+    "usda_zones": {"min": 10, "max": 11},
+    "spacing_in": {"min": 36, "max": 60},
+    "height_in": {"min": 36, "max": 72},
+    "spread_in": {"min": 36, "max": 60},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Plant tubers 3-4 inches deep in loose, organically rich, well-draining soil in a partially shaded location, spacing them 3-5 feet apart to accommodate the large, deeply lobed umbrella-like leaves. Water moderately and consistently through the growing season, allowing the top inch of soil to dry slightly between waterings to prevent tuber rot. The plants go dormant during dry seasons, so reduce water and allow the tops to die back naturally before lifting or leaving tubers in place in frost-free areas. To process tubers for starch, grate and thoroughly wash the flesh through multiple changes of water, then allow the settled starch to dry completely before use as a fine, high-quality thickener.",
+    "sources": [
+      "University of Florida IFAS Extension",
+      "Plants for a Future",
+      "USDA ARS National Plant Germplasm System"
+    ]
+  },
+  {
+    "slug": "chinese-keys-fingerroot",
+    "common_name": "Chinese Keys / Fingerroot",
+    "scientific_name": "Boesenbergia pandurata",
+    "category": "herb",
+    "subcategory": "tropical herb",
+    "days_to_germination": {"min": 21, "max": 42},
+    "germination_soil_temp_f": {"min": 70, "max": 85},
+    "days_to_maturity": {"min": 180, "max": 365},
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 2},
+      "note": "Plant rhizome divisions in spring once the soil has warmed above 65 degrees F, setting them just 1-2 inches below the soil surface in a partially shaded bed or large container."
+    },
+    "usda_zones": {"min": 8, "max": 11},
+    "spacing_in": {"min": 18, "max": 24},
+    "height_in": {"min": 18, "max": 30},
+    "spread_in": {"min": 18, "max": 24},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Plant rhizome divisions shallowly in moist, well-draining soil enriched with compost, spacing plants 18-24 inches apart in a partially shaded bed or in a large container with excellent drainage. Water regularly to keep the soil evenly moist but never waterlogged, and feed monthly with a balanced liquid fertilizer during the active growing season to support lush foliage and rhizome development. The distinctive clusters of finger-like yellow rhizomes are ready to harvest when the foliage begins to yellow and die back in autumn, typically 6-10 months after planting. In cooler climates (zone 8-9), dig and store rhizomes indoors over winter in slightly damp peat or coconut coir at 55-65 degrees F, replanting the following spring.",
+    "sources": [
+      "University of Florida IFAS Extension",
+      "Royal Horticultural Society",
+      "Plants for a Future"
+    ]
+  }
+]

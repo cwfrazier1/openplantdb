@@ -1,0 +1,157 @@
+[
+  {
+    "slug": "hexastylis-naniflora",
+    "common_name": "Dwarf Heartleaf (Dwarf Wild Ginger)",
+    "scientific_name": "Hexastylis naniflora",
+    "category": "flower",
+    "subcategory": "native shade perennial",
+    "days_to_germination": {"min": 30, "max": 60},
+    "germination_soil_temp_f": {"min": 40, "max": 55},
+    "days_to_maturity": {"min": 365, "max": 730},
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {"min": -4, "max": -2},
+      "note": "Divide established clumps in early fall and replant in moist, humus-rich, acidic soil in deep shade; divisions establish slowly and resent disturbance, so choose the planting site carefully before establishing."
+    },
+    "usda_zones": {"min": 5, "max": 8},
+    "spacing_in": {"min": 6, "max": 9},
+    "height_in": {"min": 3, "max": 6},
+    "spread_in": {"min": 6, "max": 12},
+    "sun": "shade",
+    "water": "moderate",
+    "directions": "Plant Hexastylis naniflora in moist, humus-rich, acidic soil under dense deciduous or mixed forest canopy, replicating the Blue Ridge foothill conditions where it is endemic to the Carolinas and Georgia. The small, heart-shaped leathery leaves form a tight, slowly-spreading evergreen mat that provides year-round groundcover even in deep shade. Tiny urn-shaped flowers hide at soil level in late winter and early spring, pollinated by fungus gnats and ground-crawling insects. Because this is a rare species of conservation concern, always source plants from reputable native plant nurseries rather than collected specimens.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "North Carolina State Extension",
+      "North Carolina Native Plant Society"
+    ]
+  },
+  {
+    "slug": "calamintha-ashei",
+    "common_name": "Ashe's Calamint",
+    "scientific_name": "Calamintha ashei",
+    "category": "flower",
+    "subcategory": "native perennial herb",
+    "days_to_germination": {"min": 14, "max": 21},
+    "germination_soil_temp_f": {"min": 65, "max": 75},
+    "days_to_maturity": {"min": 180, "max": 365},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 6},
+      "note": "Root softwood cuttings in spring or early summer and transplant into well-drained, sandy or sandy-loam soil in full to partial sun after all danger of frost has passed; excellent drainage is essential — this plant is native to xeric sandhill scrub and will rot in wet or clay soils."
+    },
+    "usda_zones": {"min": 7, "max": 9},
+    "spacing_in": {"min": 12, "max": 18},
+    "height_in": {"min": 6, "max": 18},
+    "spread_in": {"min": 12, "max": 18},
+    "sun": "partial",
+    "water": "low",
+    "directions": "Calamintha ashei is a rare aromatic subshrub endemic to the sandhill scrub communities of northwestern Florida and southwestern Georgia, requiring the excellent drainage and low fertility of its native sandy soils. Plant in partial sun with well-drained, sandy, slightly acidic soil and avoid supplemental fertilization, which encourages rank growth at the expense of its characteristic compact, minty-scented habit. Lavender-white flowers appear from summer through fall and are exceptionally attractive to native bees, including rare scrub specialist bee species that depend on this plant. Because its range is extremely restricted, source only nursery-propagated cuttings from conservation-minded native plant suppliers.",
+    "sources": [
+      "Florida Native Plant Society",
+      "University of Florida IFAS Extension",
+      "Lady Bird Johnson Wildflower Center"
+    ]
+  },
+  {
+    "slug": "phacelia-purshii",
+    "common_name": "Miami Mist (Pursh's Phacelia)",
+    "scientific_name": "Phacelia purshii",
+    "category": "flower",
+    "subcategory": "native annual wildflower",
+    "days_to_germination": {"min": 14, "max": 21},
+    "germination_soil_temp_f": {"min": 40, "max": 55},
+    "days_to_maturity": {"min": 60, "max": 90},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Direct sow seeds in fall into moist, disturbed woodland soil; seeds require cold stratification to break dormancy and will germinate naturally in late winter or early spring for bloom in April and May. Seeds can also be stratified in the refrigerator for 4-6 weeks and sown in earliest spring."
+    },
+    "usda_zones": {"min": 4, "max": 8},
+    "spacing_in": {"min": 6, "max": 12},
+    "height_in": {"min": 6, "max": 15},
+    "spread_in": {"min": 6, "max": 12},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Phacelia purshii is a delicate spring annual native to moist woodland edges and disturbed forest floors across eastern North America, producing loose clusters of finely-fringed lavender-blue and white flowers from April through June. Scatter seeds in fall across bare or lightly raked soil in partial shade; the seeds need a cold, moist period to break dormancy and will germinate on their own schedule in late winter. Plants grow quickly in cool weather, bloom prolifically, then set abundant seed before summer heat arrives, often naturalizing into self-sustaining colonies. It combines beautifully with other spring ephemerals such as Virginia bluebells and wild ginger.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "Missouri Botanical Garden Plant Finder",
+      "Virginia Native Plant Society"
+    ]
+  },
+  {
+    "slug": "angelica-atropurpurea",
+    "common_name": "Purple-stemmed Angelica (Great Angelica)",
+    "scientific_name": "Angelica atropurpurea",
+    "category": "flower",
+    "subcategory": "native shade herb",
+    "days_to_germination": {"min": 14, "max": 21},
+    "germination_soil_temp_f": {"min": 40, "max": 55},
+    "days_to_maturity": {"min": 365, "max": 730},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Direct sow fresh seed in fall in consistently moist, rich soil along a streambank, pond edge, or boggy area in partial shade; seeds lose viability quickly and must be sown fresh to achieve good germination after cold stratification over winter. This is a monocarpic biennial or short-lived perennial that dies after setting seed."
+    },
+    "usda_zones": {"min": 4, "max": 7},
+    "spacing_in": {"min": 36, "max": 48},
+    "height_in": {"min": 60, "max": 96},
+    "spread_in": {"min": 36, "max": 60},
+    "sun": "partial",
+    "water": "high",
+    "directions": "Angelica atropurpurea is a bold, architectural native herb of wet woodland edges and streambanks in the northeastern and north-central United States, reaching 5-8 feet tall with dramatically deep-purple hollow stems and large flat-topped compound umbels of white flowers in June through August. Plant in consistently moist to wet, rich, slightly acidic soil in partial shade, ideally near a water feature or in a rain garden where roots can stay wet. The large flower heads are major attractions for swallowtail butterflies, native bees, and beneficial parasitoid wasps throughout summer. It is monocarpic — plants flower once, then die after setting seed — so allow seed to fall naturally or scatter it nearby to establish the next generation.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "Missouri Botanical Garden Plant Finder",
+      "University of Vermont Extension"
+    ]
+  },
+  {
+    "slug": "ipomoea-pandurata",
+    "common_name": "Wild Sweet Potato (Man of the Earth, Manroot)",
+    "scientific_name": "Ipomoea pandurata",
+    "category": "vegetable",
+    "subcategory": "native root vegetable vine",
+    "days_to_germination": {"min": 7, "max": 14},
+    "germination_soil_temp_f": {"min": 65, "max": 80},
+    "days_to_maturity": {"min": 365, "max": 730},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 0, "max": 2},
+      "note": "Direct sow scarified seeds after last frost in well-drained soil in a sunny to partially sunny location; the vine dies back to the ground each winter but re-emerges reliably from its enormous perennial taproot, which can weigh 20 pounds or more in mature specimens."
+    },
+    "usda_zones": {"min": 4, "max": 9},
+    "spacing_in": {"min": 36, "max": 60},
+    "height_in": {"min": 36, "max": 180},
+    "spread_in": {"min": 36, "max": 120},
+    "sun": "partial",
+    "water": "low",
+    "directions": "Ipomoea pandurata is a native perennial vine of eastern North America that grows from a massive, starchy taproot — sometimes exceeding 20 pounds — which stores energy through winter cold and summer drought alike. The vine climbs or sprawls vigorously from late spring through fall, bearing large white morning-glory flowers with deep magenta-purple centers that open each morning from June through September. Scarify seeds by nicking the seed coat with a file or sandpaper and soak overnight before direct sowing after last frost in well-drained soil; established plants from the taproot need little supplemental water once settled. The root is edible and was used historically by Indigenous peoples across eastern North America, though it is starchy and bitter raw, requiring long cooking to be palatable.",
+    "sources": [
+      "USDA PLANTS Database",
+      "Lady Bird Johnson Wildflower Center",
+      "North Carolina State Extension"
+    ]
+  }
+]

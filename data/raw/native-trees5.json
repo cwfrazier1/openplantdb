@@ -1,271 +1,188 @@
 [
   {
-    "slug": "green-hawthorn",
-    "common_name": "Green Hawthorn (Winter King Hawthorn)",
-    "scientific_name": "Crataegus viridis",
-    "category": "fruit",
-    "subcategory": "native fruiting tree",
-    "days_to_germination": {
-      "min": 60,
-      "max": 90
-    },
-    "germination_soil_temp_f": {
-      "min": 40,
-      "max": 55
-    },
-    "days_to_maturity": {
-      "min": 1095,
-      "max": 1825
-    },
-    "maturity_from": "transplant",
-    "sow_method": "transplant",
-    "season": "perennial",
-    "frost_tolerance": "hardy",
-    "planting": {
-      "anchor": "spring",
-      "weeks_from_anchor": {
-        "min": -4,
-        "max": 4
-      },
-      "note": "Plant container or balled-and-burlapped trees in spring in well-drained, slightly acidic to neutral soil in full sun to partial shade; the cultivar 'Winter King' is vastly superior to seed-grown trees for ornamental effect and berry production."
-    },
-    "usda_zones": {
-      "min": 4,
-      "max": 8
-    },
-    "spacing_in": {
-      "min": 180,
-      "max": 360
-    },
-    "height_in": {
-      "min": 240,
-      "max": 360
-    },
-    "spread_in": {
-      "min": 240,
-      "max": 360
-    },
-    "sun": "full",
-    "water": "moderate",
-    "directions": "Plant in well-drained, slightly acidic to neutral, average soil in full sun to partial shade; green hawthorn — especially the cultivar 'Winter King' — is one of the finest native small trees for four-season ornamental value and wildlife habitat. In spring the tree is covered with small white flowers that are excellent bee forage; in fall the foliage turns burgundy-orange; and in winter the persistent glossy orange-red berries shine against bare branches well into February, providing critical food for cedar waxwings, robins, and thrushes. The tree has a vase-shaped form with slightly pendulous branches and is relatively free of the fireblight and cedar-apple rust that plague many hawthorns. The thorns are formidable — plant away from walkways. Excellent as a wildlife garden specimen or fall/winter focal point.",
-    "sources": [
-      "USDA PLANTS Database",
-      "Lady Bird Johnson Wildflower Center",
-      "Missouri Botanical Garden Plant Finder"
-    ]
-  },
-  {
-    "slug": "parsley-hawthorn",
-    "common_name": "Parsley Hawthorn",
-    "scientific_name": "Crataegus marshallii",
+    "slug": "quercus-virginiana",
+    "common_name": "Southern Live Oak",
+    "scientific_name": "Quercus virginiana",
     "category": "flower",
-    "subcategory": "native understory tree",
-    "days_to_germination": {
-      "min": 60,
-      "max": 90
-    },
-    "germination_soil_temp_f": {
-      "min": 40,
-      "max": 55
-    },
-    "days_to_maturity": {
-      "min": 365,
-      "max": 730
-    },
+    "subcategory": "native tree",
+    "days_to_germination": {"min": 30, "max": 90},
+    "germination_soil_temp_f": {"min": 50, "max": 70},
+    "days_to_maturity": {"min": 1825, "max": 3650},
     "maturity_from": "transplant",
     "sow_method": "transplant",
-    "season": "perennial",
-    "frost_tolerance": "hardy",
-    "planting": {
-      "anchor": "spring",
-      "weeks_from_anchor": {
-        "min": 0,
-        "max": 4
-      },
-      "note": "Plant container-grown trees in spring in moist, slightly acidic to neutral, well-drained soil in partial shade; parsley hawthorn tolerates more shade than most hawthorns and grows naturally as an understory tree in bottomland forests."
-    },
-    "usda_zones": {
-      "min": 6,
-      "max": 9
-    },
-    "spacing_in": {
-      "min": 120,
-      "max": 180
-    },
-    "height_in": {
-      "min": 120,
-      "max": 240
-    },
-    "spread_in": {
-      "min": 96,
-      "max": 180
-    },
-    "sun": "partial",
-    "water": "moderate",
-    "directions": "Plant in moist, slightly acidic to neutral, well-drained to moderately moist soil in partial shade to full sun; parsley hawthorn is the most delicate and ornamental of the southeastern hawthorns, distinguished by its exquisitely cut, deeply lobed leaves that truly resemble flat-leaf parsley — giving it an unusually fine, lacy texture among native trees. White flower clusters in spring are followed by small red berries in fall that provide wildlife food. It grows naturally as an understory tree in moist bottomland forests and shaded river banks throughout the Southeast and tolerates shade better than most hawthorn species. The gray-brown bark flakes to reveal attractive smooth orange-tan underbark. An underused native tree that deserves much wider garden use for its ornamental leaf texture and wildlife value.",
-    "sources": [
-      "USDA PLANTS Database",
-      "Lady Bird Johnson Wildflower Center",
-      "North Carolina State Extension"
-    ]
-  },
-  {
-    "slug": "southern-crabapple",
-    "common_name": "Southern Crabapple (Narrowleaf Crabapple)",
-    "scientific_name": "Malus angustifolia",
-    "category": "fruit",
-    "subcategory": "native fruiting tree",
-    "days_to_germination": {
-      "min": 30,
-      "max": 60
-    },
-    "germination_soil_temp_f": {
-      "min": 40,
-      "max": 55
-    },
-    "days_to_maturity": {
-      "min": 730,
-      "max": 1095
-    },
-    "maturity_from": "transplant",
-    "sow_method": "transplant",
-    "season": "perennial",
-    "frost_tolerance": "hardy",
-    "planting": {
-      "anchor": "spring",
-      "weeks_from_anchor": {
-        "min": -4,
-        "max": 2
-      },
-      "note": "Plant bare-root trees in late winter or container trees in spring in well-drained, slightly acidic to neutral soil in full sun to partial shade; a single tree is self-fertile and will produce fruit without a pollinizer."
-    },
-    "usda_zones": {
-      "min": 5,
-      "max": 9
-    },
-    "spacing_in": {
-      "min": 180,
-      "max": 360
-    },
-    "height_in": {
-      "min": 180,
-      "max": 300
-    },
-    "spread_in": {
-      "min": 180,
-      "max": 300
-    },
-    "sun": "partial",
-    "water": "moderate",
-    "directions": "Plant in well-drained, slightly acidic to neutral, moderately fertile soil in full sun to partial shade; southern crabapple is the native crabapple of the southeastern United States, producing a spectacular display of intensely fragrant pink flowers in early spring and small (1/2–1 inch) yellow-green to red crabapples in late summer and fall. The crabapples are too tart to eat fresh but make outstanding jelly, cider, and preserved fruit with excellent pectin content. The flowers are superb for native bees; cedar waxwings, mockingbirds, and deer consume the fruit through fall and winter. It tolerates the heat and humidity of zone 8–9 better than most crabapple cultivars and produces cleaner foliage with fewer disease problems in the warm South. A self-fertile tree, so only one is needed for fruit.",
-    "sources": [
-      "USDA PLANTS Database",
-      "Lady Bird Johnson Wildflower Center",
-      "North Carolina State Extension"
-    ]
-  },
-  {
-    "slug": "blue-flag-iris",
-    "common_name": "Blue Flag Iris (Northern Blue Flag)",
-    "scientific_name": "Iris versicolor",
-    "category": "flower",
-    "subcategory": "native wetland iris",
-    "days_to_germination": null,
-    "germination_soil_temp_f": null,
-    "days_to_maturity": {
-      "min": 60,
-      "max": 90
-    },
-    "maturity_from": "transplant",
-    "sow_method": "division",
     "season": "perennial",
     "frost_tolerance": "hardy",
     "planting": {
       "anchor": "fall",
-      "weeks_from_anchor": {
-        "min": -6,
-        "max": -2
-      },
-      "note": "Plant rhizome divisions in fall in moist to wet, slightly acidic soil at pond or stream margins; keep the rhizome at the soil surface, not buried. Blooms best in full sun but tolerates partial shade."
+      "weeks_from_anchor": {"min": 0, "max": 8},
+      "note": "Plant container-grown trees in fall or early spring in well-drained to moderately moist, slightly acidic to neutral soil in full sun; southern live oak is highly salt-tolerant and drought-tolerant once established, making it ideal for coastal Gulf Coast landscapes."
     },
-    "usda_zones": {
-      "min": 2,
-      "max": 9
-    },
-    "spacing_in": {
-      "min": 18,
-      "max": 24
-    },
-    "height_in": {
-      "min": 18,
-      "max": 36
-    },
-    "spread_in": {
-      "min": 18,
-      "max": 24
-    },
-    "sun": "partial",
-    "water": "high",
-    "directions": "Plant rhizome divisions at the soil surface in moist to wet, slightly acidic, humus-rich soil in partial shade to full sun; blue flag iris is the quintessential native wetland iris of the northeastern and central US and Canada, growing in marshes, bogs, wet meadows, and streambanks with bold violet-blue flowers veined with white and yellow in late spring. It is native across a vast range from Labrador to Virginia, making it more cold-hardy than the similar southern blue flag (I. virginica). The flowers provide nectar for specialist long-tongued native bees and bumblebees. Plant at the margin of a water garden, in a rain garden, or in any consistently moist location. All parts of the plant are toxic if ingested. The rhizomes spread slowly to form handsome colonies; divide every 4–5 years in fall to maintain vigor.",
+    "usda_zones": {"min": 7, "max": 11},
+    "spacing_in": {"min": 720, "max": 1200},
+    "height_in": {"min": 480, "max": 960},
+    "spread_in": {"min": 720, "max": 1200},
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant in well-drained to moderately moist, slightly acidic to neutral soil in full sun; southern live oak is the quintessential evergreen tree of the Gulf Coast and Southeast, forming massive, wide-spreading crowns with horizontal limbs draped in Spanish moss that define the character of the region. This long-lived giant is remarkably tough — salt spray, poor sandy soils, periodic flooding, and coastal winds are all tolerated once the tree is established, and mature trees are exceptionally drought-tolerant. The small, dark acorns are produced in generous quantities and are critically important food for wood ducks, mallards, squirrels, and deer. Acorn production begins at 25 years and peaks in trees 75 years and older, underscoring that this is a multigenerational planting that rewards patience with an irreplaceable landscape anchor.",
     "sources": [
-      "USDA PLANTS Database",
       "Lady Bird Johnson Wildflower Center",
-      "North Carolina State Extension"
+      "University of Florida IFAS Extension",
+      "USDA PLANTS Database"
     ]
   },
   {
-    "slug": "canada-mayflower",
-    "common_name": "Canada Mayflower (Wild Lily of the Valley)",
-    "scientific_name": "Maianthemum canadense",
+    "slug": "quercus-nigra",
+    "common_name": "Water Oak",
+    "scientific_name": "Quercus nigra",
     "category": "flower",
-    "subcategory": "native shade groundcover",
-    "days_to_germination": {
-      "min": 21,
-      "max": 42
-    },
-    "germination_soil_temp_f": {
-      "min": 40,
-      "max": 55
-    },
-    "days_to_maturity": {
-      "min": 30,
-      "max": 60
-    },
+    "subcategory": "native tree",
+    "days_to_germination": {"min": 30, "max": 90},
+    "germination_soil_temp_f": {"min": 50, "max": 70},
+    "days_to_maturity": {"min": 1825, "max": 3650},
     "maturity_from": "transplant",
-    "sow_method": "division",
+    "sow_method": "transplant",
     "season": "perennial",
     "frost_tolerance": "hardy",
     "planting": {
-      "anchor": "spring",
-      "weeks_from_anchor": {
-        "min": 0,
-        "max": 4
-      },
-      "note": "Plant rhizome divisions in spring in acidic, moist, humus-rich, well-drained soil in partial to full shade; this plant is best suited to cool-summer climates and will struggle in zone 7–8 summer heat."
+      "anchor": "fall",
+      "weeks_from_anchor": {"min": 0, "max": 8},
+      "note": "Plant container-grown trees in fall or early spring in moist to wet, slightly acidic soil in full sun; water oak transplants readily and establishes faster than many other oaks, making it one of the most practical large native oaks for landscape use in the South."
     },
-    "usda_zones": {
-      "min": 2,
-      "max": 7
-    },
-    "spacing_in": {
-      "min": 6,
-      "max": 10
-    },
-    "height_in": {
-      "min": 4,
-      "max": 8
-    },
-    "spread_in": {
-      "min": 12,
-      "max": 24
-    },
-    "sun": "shade",
+    "usda_zones": {"min": 6, "max": 9},
+    "spacing_in": {"min": 600, "max": 960},
+    "height_in": {"min": 600, "max": 960},
+    "spread_in": {"min": 480, "max": 720},
+    "sun": "full",
     "water": "moderate",
-    "directions": "Plant in acidic, moist, humus-rich, well-drained soil in partial to full shade; Canada mayflower is a delicate, miniature native groundcover of boreal and northern hardwood forests, spreading by slender rhizomes to form mats of glossy, 1-2 inch heart-shaped leaves just 4–6 inches above the forest floor. The tiny white flowers in May and June in fluffy clusters resemble lily of the valley; the pea-sized fruits turn speckled pale red in fall and are eaten by forest birds. It grows naturally across vast areas of North American boreal forests and performs best in cool, acidic, shaded conditions similar to those under conifers or at altitude. In northern woodland gardens it is an excellent carpet beneath ferns and native wildflowers. Not suited to hot-summer climates; best in zones 2–6.",
+    "directions": "Plant in moist to moderately wet, slightly acidic, well-drained to periodically saturated soil in full sun; water oak is one of the most common and fastest-growing native oaks of the coastal South, a familiar tree in moist lowlands, bottomland forests, and along streams from New Jersey to Texas. Its variable leaf shape — from three-lobed and duck-foot-shaped on the same tree — is a distinctive identifying trait. Growth rates of 2 feet per year are typical in moist, fertile soils, making it one of the most practical large native oaks for quickly establishing landscape shade and wildlife habitat. The small, round black acorns are produced in abundance starting at 20 years and are heavily consumed by wood ducks, mallards, white-tailed deer, and squirrels. A widely used and highly adaptable street tree throughout the Gulf South.",
     "sources": [
-      "USDA PLANTS Database",
       "Lady Bird Johnson Wildflower Center",
-      "Illinois Wildflowers"
+      "University of Florida IFAS Extension",
+      "USDA PLANTS Database"
+    ]
+  },
+  {
+    "slug": "quercus-phellos",
+    "common_name": "Willow Oak",
+    "scientific_name": "Quercus phellos",
+    "category": "flower",
+    "subcategory": "native tree",
+    "days_to_germination": {"min": 30, "max": 90},
+    "germination_soil_temp_f": {"min": 50, "max": 70},
+    "days_to_maturity": {"min": 1825, "max": 3650},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {"min": 0, "max": 8},
+      "note": "Plant small container trees in fall or early spring in moist, slightly acidic, well-drained to moderately moist soil in full sun; willow oak transplants more easily than most oaks and is one of the best native trees for urban street and lawn use in the Southeast."
+    },
+    "usda_zones": {"min": 5, "max": 9},
+    "spacing_in": {"min": 360, "max": 720},
+    "height_in": {"min": 480, "max": 900},
+    "spread_in": {"min": 360, "max": 720},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in moist, slightly acidic, well-drained to moderately moist soil in full sun; willow oak is one of the most graceful and distinctive of the native oaks, bearing narrow, willow-like leaves that give the tree an unusually fine-textured, airy appearance very different from other oaks. It grows naturally in moist bottomland forests and upland slopes throughout the Southeast and is one of the most widely planted native oaks as a street and lawn tree, valued for its tolerance of urban soils, relatively fast growth (1–2 feet per year), and adaptability. The small acorns produced abundantly from age 15 onward are a critical food source for wood ducks, mallards, wild turkeys, and many songbirds. The fine foliage turns attractive golden-yellow in fall before dropping cleanly, and the tree's upright-oval form matures into a large, handsome landscape specimen.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "University of Florida IFAS Extension",
+      "USDA PLANTS Database"
+    ]
+  },
+  {
+    "slug": "ilex-opaca",
+    "common_name": "American Holly",
+    "scientific_name": "Ilex opaca",
+    "category": "flower",
+    "subcategory": "native tree",
+    "days_to_germination": {"min": 60, "max": 180},
+    "germination_soil_temp_f": {"min": 40, "max": 60},
+    "days_to_maturity": {"min": 1095, "max": 1825},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {"min": 0, "max": 6},
+      "note": "Plant container or balled-and-burlapped trees in fall in moist, slightly acidic, well-drained soil in partial to full sun; plant at least one male within 50 feet of female trees for berry production — one male can pollinate up to five females."
+    },
+    "usda_zones": {"min": 5, "max": 9},
+    "spacing_in": {"min": 180, "max": 480},
+    "height_in": {"min": 180, "max": 600},
+    "spread_in": {"min": 120, "max": 360},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Plant in moist, slightly acidic, humus-rich, well-drained soil in partial shade to full sun; American holly is the classic native evergreen tree of eastern North American woodlands, producing the familiar glossy, spiny-edged deep green leaves and brilliant red berries that embody the winter holiday season. Female trees require a male pollinator within 50 feet to produce the berry crops that feed cedar waxwings, American robins, mockingbirds, and over 20 other bird species through the winter months. The tree grows slowly into a pyramidal to broadly columnar form and tolerates partial shade better than most large trees, making it useful as a woodland edge specimen or understory accent. Named cultivars such as 'Satyr Hill,' 'Merry Christmas,' and 'Jersey Knight' (male) have been selected for heavy berry production and improved form.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "University of Florida IFAS Extension",
+      "USDA PLANTS Database"
+    ]
+  },
+  {
+    "slug": "liquidambar-styraciflua",
+    "common_name": "Sweetgum",
+    "scientific_name": "Liquidambar styraciflua",
+    "category": "flower",
+    "subcategory": "native tree",
+    "days_to_germination": {"min": 30, "max": 60},
+    "germination_soil_temp_f": {"min": 50, "max": 70},
+    "days_to_maturity": {"min": 1095, "max": 1825},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {"min": 0, "max": 8},
+      "note": "Plant container-grown trees in fall or early spring in moist, slightly acidic, well-drained to moderately moist soil in full sun; sweetgum transplants readily when young and establishes quickly, growing 2–3 feet per year in good conditions."
+    },
+    "usda_zones": {"min": 5, "max": 9},
+    "spacing_in": {"min": 360, "max": 720},
+    "height_in": {"min": 720, "max": 900},
+    "spread_in": {"min": 360, "max": 600},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in moist, slightly acidic, well-drained to moderately moist soil in full sun; sweetgum is one of the most visually spectacular native trees for fall color in the South, producing star-shaped leaves that turn a stunning mosaic of yellow, orange, red, and burgundy-purple — often all colors simultaneously on a single tree — rivaling the best maples in fall display. It is a major component of bottomland and upland forests throughout the eastern United States and grows rapidly into a large, pyramidal to oval tree. The distinctive spiny spherical seed balls (gumballs) that persist through winter provide important food for goldfinches, pine siskins, and purple finches but can be a nuisance underfoot on lawns; fruitless cultivars such as 'Rotundiloba' are available for situations where the seed balls are problematic. The sweetgum is one of the most ecologically important trees for wildlife in the Southeast.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "University of Florida IFAS Extension",
+      "USDA PLANTS Database"
+    ]
+  },
+  {
+    "slug": "nyssa-sylvatica",
+    "common_name": "Black Tupelo",
+    "scientific_name": "Nyssa sylvatica",
+    "category": "flower",
+    "subcategory": "native tree",
+    "days_to_germination": {"min": 60, "max": 120},
+    "germination_soil_temp_f": {"min": 50, "max": 70},
+    "days_to_maturity": {"min": 1095, "max": 1825},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {"min": 0, "max": 8},
+      "note": "Plant container-grown trees in fall or early spring in moist to wet, slightly acidic soil in full sun to partial shade; black tupelo develops a deep taproot and transplants best when young — avoid moving established trees."
+    },
+    "usda_zones": {"min": 4, "max": 9},
+    "spacing_in": {"min": 360, "max": 600},
+    "height_in": {"min": 360, "max": 600},
+    "spread_in": {"min": 240, "max": 420},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in moist to moderately wet, slightly acidic, well-drained to periodically saturated soil in full sun to partial shade; black tupelo (also called blackgum or sourgum) is widely regarded as one of the finest native trees for fall color in the eastern United States, turning brilliant scarlet — sometimes the first tree in the landscape to color in early autumn — weeks before most other species. It is remarkably adaptable, growing naturally in both swampy bottomlands and dry upland ridges, and tolerates periodic flooding as well as moderate drought once established. The small blue-black fruits ripening in September are among the most intensely sought wildlife foods of the season, consumed by at least 36 bird species including wood thrushes, robins, cedar waxwings, and wood ducks. Plant while young as the deep taproot makes transplanting difficult once trees exceed 3 inches in trunk diameter.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "University of Florida IFAS Extension",
+      "USDA PLANTS Database"
     ]
   }
 ]

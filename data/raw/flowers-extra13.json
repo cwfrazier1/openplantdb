@@ -1,0 +1,188 @@
+[
+  {
+    "slug": "balkan-bears-breech",
+    "common_name": "Balkan Bear's Breech",
+    "scientific_name": "Acanthus balcanicus",
+    "category": "flower",
+    "subcategory": "shade perennial",
+    "days_to_germination": { "min": 21, "max": 42 },
+    "germination_soil_temp_f": { "min": 60, "max": 75 },
+    "days_to_maturity": { "min": 365, "max": 730 },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": { "min": 0, "max": 4 },
+      "note": "Direct sow fresh seed in fall into prepared soil, lightly pressing into the surface and allowing winter cold to stratify seeds naturally for spring germination."
+    },
+    "usda_zones": { "min": 5, "max": 9 },
+    "spacing_in": { "min": 24, "max": 36 },
+    "height_in": { "min": 30, "max": 60 },
+    "spread_in": { "min": 24, "max": 48 },
+    "sun": "partial",
+    "water": "low",
+    "directions": "Sow seeds in fall directly into well-drained, gritty soil in a partially shaded location, pressing them lightly into the surface without covering, as light assists germination. The deeply lobed, glossy dark-green leaves emerge in spring, and established plants will send up impressive 4- to 5-foot spikes of white and purple hooded flowers in summer. Balkan bear's breech spreads more slowly than Acanthus mollis and is notably more cold-hardy, making it a better choice for gardens in zones 5 and 6. Once established, it tolerates drought and dry shade but dislikes waterlogged soils, especially in winter.",
+    "sources": [
+      "Royal Horticultural Society",
+      "Missouri Botanical Garden Plant Finder",
+      "Kew Gardens Plant List"
+    ]
+  },
+  {
+    "slug": "sweet-four-oclock",
+    "common_name": "Sweet Four O'Clock",
+    "scientific_name": "Mirabilis longiflora",
+    "category": "flower",
+    "subcategory": "annual",
+    "days_to_germination": { "min": 7, "max": 14 },
+    "germination_soil_temp_f": { "min": 65, "max": 85 },
+    "days_to_maturity": { "min": 90, "max": 120 },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": { "min": 1, "max": 3 },
+      "note": "Direct sow after danger of frost has passed into warm, well-drained soil in full sun; seeds germinate quickly in warm conditions."
+    },
+    "usda_zones": { "min": 7, "max": 11 },
+    "spacing_in": { "min": 24, "max": 36 },
+    "height_in": { "min": 24, "max": 48 },
+    "spread_in": { "min": 24, "max": 36 },
+    "sun": "full",
+    "water": "low",
+    "directions": "Direct sow seeds after the last frost date into full sun and well-drained, even poor soil, as this Mexican native thrives in lean conditions similar to its native desert habitat. Flowers open each afternoon and release an extraordinary sweet fragrance that intensifies into the evening, drawing hawk moths and hummingbirds. In zones 9 and above the tuberous roots are perennial; in cooler climates dig and store the tubers frost-free over winter, much like dahlias, to replant the following spring. Allow 12 to 16 weeks from sowing to first bloom, and plant near a patio or path where the evening fragrance can be fully appreciated.",
+    "sources": [
+      "University of Arizona Cooperative Extension",
+      "Missouri Botanical Garden Plant Finder",
+      "Plants for a Future"
+    ]
+  },
+  {
+    "slug": "desert-four-oclock",
+    "common_name": "Desert Four O'Clock / Colorado Four O'Clock",
+    "scientific_name": "Mirabilis multiflora",
+    "category": "flower",
+    "subcategory": "native perennial",
+    "days_to_germination": { "min": 10, "max": 21 },
+    "germination_soil_temp_f": { "min": 65, "max": 85 },
+    "days_to_maturity": { "min": 365, "max": 730 },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": { "min": 0, "max": 4 },
+      "note": "Direct sow in spring into dry, well-drained, sandy or gravelly soil in full sun; scarify seeds lightly and sow shallowly, no more than 1/4 inch deep."
+    },
+    "usda_zones": { "min": 5, "max": 9 },
+    "spacing_in": { "min": 36, "max": 60 },
+    "height_in": { "min": 18, "max": 36 },
+    "spread_in": { "min": 36, "max": 60 },
+    "sun": "full",
+    "water": "low",
+    "directions": "Direct sow scarified seeds in spring into dry, infertile, well-drained soil in full sun, pressing seeds just under the surface in a location with good air circulation. This Southwestern native develops a massive woody taproot that anchors it through heat and drought, so choose the permanent planting site carefully as it resents transplanting once established. Deep magenta-pink trumpet flowers open each afternoon and close by morning, providing reliable late-day color and supporting hawk moth populations throughout summer. Once established, avoid irrigation except during extended drought, as excess moisture in heavy soils can cause root rot.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "Missouri Botanical Garden Plant Finder",
+      "USDA PLANTS Database"
+    ]
+  },
+  {
+    "slug": "scurvy-grass-sorrel",
+    "common_name": "Scurvy Grass Oxalis / Chiloe Oxalis",
+    "scientific_name": "Oxalis enneaphylla",
+    "category": "flower",
+    "subcategory": "shade perennial",
+    "days_to_germination": { "min": 21, "max": 42 },
+    "germination_soil_temp_f": { "min": 45, "max": 60 },
+    "days_to_maturity": { "min": 180, "max": 365 },
+    "maturity_from": "transplant",
+    "sow_method": "bulb",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": { "min": 0, "max": 4 },
+      "note": "Plant small bulbils 1 to 2 inches deep in spring into gritty, humus-rich, well-drained soil in partial shade; cool, moist conditions favor establishment."
+    },
+    "usda_zones": { "min": 7, "max": 9 },
+    "spacing_in": { "min": 4, "max": 8 },
+    "height_in": { "min": 3, "max": 6 },
+    "spread_in": { "min": 4, "max": 8 },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Plant the small bulbils 1 to 2 inches deep in spring into gritty, humus-rich, moisture-retentive but well-drained soil in a cool, partially shaded position such as a north- or east-facing rock garden. This Falkland Islands native forms a low, slowly spreading mat of waxy, gray-green multi-leaflet foliage that is distinctive even when out of flower. Large, sweetly fragrant white to pale pink blooms appear in late spring and early summer, sitting just above the foliage on short stems. Avoid hot, dry sites and summer drought; a top-dressing of grit around the bulbils discourages rot while keeping roots cool.",
+    "sources": [
+      "Royal Horticultural Society",
+      "Kew Gardens Plant List",
+      "Plants for a Future"
+    ]
+  },
+  {
+    "slug": "begonia-tuberhybrida",
+    "common_name": "Tuberous Begonia",
+    "scientific_name": "Begonia × tuberhybrida",
+    "category": "flower",
+    "subcategory": "shade annual",
+    "days_to_germination": { "min": 14, "max": 21 },
+    "germination_soil_temp_f": { "min": 70, "max": 75 },
+    "days_to_maturity": { "min": 120, "max": 180 },
+    "maturity_from": "transplant",
+    "sow_method": "tuber",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": { "min": -8, "max": -6 },
+      "note": "Start tubers hollow-side up in barely moist potting mix 6 to 8 weeks before the last frost date, in a warm bright location at 70–75°F; transplant outdoors after all frost danger has passed."
+    },
+    "usda_zones": { "min": 9, "max": 11 },
+    "spacing_in": { "min": 10, "max": 14 },
+    "height_in": { "min": 12, "max": 18 },
+    "spread_in": { "min": 10, "max": 14 },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Start tubers indoors 6 to 8 weeks before the last frost by placing them hollow-side up, barely covered, in moist peat-based mix at 70 to 75°F; keep the medium just slightly moist until shoots appear to prevent rot. Grow on in bright indirect light and transplant outside into partial shade after all frost danger has passed, spacing plants 10 to 14 inches apart in rich, well-drained, consistently moist soil. Tuberous begonias perform best where summer nights are cool; in hot, humid climates provide afternoon shade and good air circulation to reduce disease pressure. Before the first fall frost, cut stems back and lift the tubers, cure them in a dry location for a week, then store in barely damp peat moss at 45 to 50°F over winter.",
+    "sources": [
+      "Missouri Botanical Garden Plant Finder",
+      "Royal Horticultural Society",
+      "University of Vermont Extension"
+    ]
+  },
+  {
+    "slug": "hedychium-forrestii",
+    "common_name": "Forrest's Ginger Lily",
+    "scientific_name": "Hedychium forrestii",
+    "category": "flower",
+    "subcategory": "tropical shade perennial",
+    "days_to_germination": { "min": 14, "max": 30 },
+    "germination_soil_temp_f": { "min": 68, "max": 82 },
+    "days_to_maturity": { "min": 365, "max": 730 },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": { "min": 0, "max": 2 },
+      "note": "Divide established rhizomes in spring once new growth begins, replanting divisions 3 to 4 inches deep in rich, moist, humus-rich soil in partial shade."
+    },
+    "usda_zones": { "min": 7, "max": 10 },
+    "spacing_in": { "min": 24, "max": 36 },
+    "height_in": { "min": 48, "max": 72 },
+    "spread_in": { "min": 24, "max": 36 },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "In spring, once new shoots are visible at the base, lift and divide the thick rhizomes with a sharp spade, ensuring each division has at least one healthy growing point, and replant 3 to 4 inches deep in rich, humus-amended, consistently moist soil in partial shade. Hedychium forrestii produces bold, tropical-looking stems 4 to 6 feet tall topped with fragrant white flowers bearing striking red stamens in late summer, extending the season when many perennials are fading. In zone 7, apply a generous layer of mulch over the rhizomes in late fall after the foliage is cut back by frost, as the rhizomes are the most cold-sensitive part of the plant. Consistent moisture throughout the growing season is key to vigorous growth; divide clumps every 3 to 4 years to maintain vigor and increase your planting.",
+    "sources": [
+      "Missouri Botanical Garden Plant Finder",
+      "Royal Horticultural Society",
+      "University of Florida IFAS Extension"
+    ]
+  }
+]

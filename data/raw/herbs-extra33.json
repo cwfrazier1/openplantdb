@@ -1,0 +1,157 @@
+[
+  {
+    "slug": "solidago-petiolaris",
+    "common_name": "Downy Ragged Goldenrod",
+    "scientific_name": "Solidago petiolaris",
+    "category": "flower",
+    "subcategory": "native shade wildflower",
+    "days_to_germination": {"min": 14, "max": 21},
+    "germination_soil_temp_f": {"min": 60, "max": 70},
+    "days_to_maturity": {"min": 365, "max": 730},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Direct sow in autumn to allow seeds to cold-stratify naturally over winter; press seeds onto the soil surface without covering, as light aids germination."
+    },
+    "usda_zones": {"min": 5, "max": 9},
+    "spacing_in": {"min": 18, "max": 24},
+    "height_in": {"min": 18, "max": 36},
+    "spread_in": {"min": 18, "max": 30},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "One of the most shade-tolerant goldenrods, Solidago petiolaris thrives in dappled woodland light and humus-rich, well-drained soil — a quality that sets it apart from most goldenrods which demand full sun. Sow seeds directly in autumn onto a lightly raked, moist seedbed and allow winter cold to break dormancy; seedlings emerge in spring and establish slowly before blooming the following year. Arching wands of bright yellow flowers appear August through October, providing a critical late-season nectar resource for bees and butterflies in shaded landscapes where few other plants bloom. Once established it spreads modestly by rhizome and self-seed, forming naturalistic colonies at the woodland edge.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "USDA PLANTS Database",
+      "North Carolina State Extension"
+    ]
+  },
+  {
+    "slug": "hydrocotyle-americana",
+    "common_name": "American Pennywort",
+    "scientific_name": "Hydrocotyle americana",
+    "category": "vegetable",
+    "subcategory": "native edible groundcover",
+    "days_to_germination": {"min": 14, "max": 28},
+    "germination_soil_temp_f": {"min": 55, "max": 70},
+    "days_to_maturity": {"min": 90, "max": 180},
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Divide rooted stem sections in spring and press into consistently saturated or wet soil at the edge of a stream, seep, or rain garden; keep divisions moist until new growth is established."
+    },
+    "usda_zones": {"min": 4, "max": 9},
+    "spacing_in": {"min": 6, "max": 12},
+    "height_in": {"min": 1, "max": 3},
+    "spread_in": {"min": 12, "max": 36},
+    "sun": "shade",
+    "water": "high",
+    "directions": "American Pennywort is a native semi-aquatic groundcover of eastern North American forest seeps, springheads, and streambanks, forming a low carpet of small, round, glossy leaves on slender creeping stems. Plant in constantly moist to saturated, humus-rich, acidic soil in partial to full shade; it will not tolerate drought or dry conditions even briefly. The leaves are edible in small quantities, with a mild, slightly peppery flavor similar to other pennyworts, and have a long history of use as a trail nibble or minor salad green. Use it as a living mulch beneath moisture-loving ferns and native wildflowers in rain gardens or along shaded pond margins.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "USDA PLANTS Database",
+      "Plants for a Future Database"
+    ]
+  },
+  {
+    "slug": "abelia-uniflora",
+    "common_name": "Single-flowered Abelia",
+    "scientific_name": "Abelia uniflora",
+    "category": "flower",
+    "subcategory": "ornamental shrub",
+    "days_to_germination": {"min": 14, "max": 30},
+    "germination_soil_temp_f": {"min": 65, "max": 75},
+    "days_to_maturity": {"min": 365, "max": 730},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Set out rooted cuttings or container plants in spring after frost danger has passed; plant in well-drained soil amended with organic matter and water in well through the first season."
+    },
+    "usda_zones": {"min": 5, "max": 9},
+    "spacing_in": {"min": 48, "max": 72},
+    "height_in": {"min": 36, "max": 72},
+    "spread_in": {"min": 36, "max": 72},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Abelia uniflora is the wild Chinese species behind the many hybrid abelias common in cultivation, and it deserves far wider use in its own right for its graceful arching habit and long succession of single white-to-pink tubular flowers from summer into fall. Plant in well-drained, moderately fertile soil in full to partial sun; it tolerates a range of soil types once established and is notably deer resistant. Propagate by softwood cuttings taken in early summer, rooting them in a moist perlite-peat mix under intermittent mist or a plastic tent. Light renewal pruning immediately after flowering encourages fresh branching and extends the bloom season without sacrificing the following year's flower buds.",
+    "sources": [
+      "Missouri Botanical Garden Plant Finder",
+      "Royal Horticultural Society",
+      "North Carolina State Extension"
+    ]
+  },
+  {
+    "slug": "lactuca-virosa",
+    "common_name": "Wild Opium Lettuce",
+    "scientific_name": "Lactuca virosa",
+    "category": "herb",
+    "subcategory": "medicinal biennial herb",
+    "days_to_germination": {"min": 7, "max": 14},
+    "germination_soil_temp_f": {"min": 40, "max": 65},
+    "days_to_maturity": {"min": 90, "max": 150},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Direct sow in autumn; seeds require cool temperatures (below 65°F) and light to germinate reliably, so surface-sow without covering and allow cold winter temperatures to break any dormancy."
+    },
+    "usda_zones": {"min": 4, "max": 9},
+    "spacing_in": {"min": 12, "max": 18},
+    "height_in": {"min": 36, "max": 72},
+    "spread_in": {"min": 12, "max": 24},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Lactuca virosa is a tall, coarse European biennial that has naturalized widely in North America; it produces a milky latex called lactucarium that was historically used as a mild sedative and opium substitute, though its effects are weak and its safety profile is poorly established. Surface-sow the light-dependent seeds in autumn or early spring into open, disturbed soil in full sun, thinning seedlings to 12–18 inches apart; plants form a basal rosette in the first year before bolting to flower in the second. This plant is NOT recommended for eating raw — the sap is intensely bitter, and the plant's medicinal alkaloids should be treated with caution; consult qualified herbalists and current literature before any medicinal use. Grow primarily as a botanical curiosity or living link to historical apothecary gardens, where it was once a staple of the physician's herb patch.",
+    "sources": [
+      "Plants for a Future Database",
+      "Royal Botanic Gardens Kew",
+      "European Medicines Agency"
+    ]
+  },
+  {
+    "slug": "datura-wrightii",
+    "common_name": "Sacred Datura",
+    "scientific_name": "Datura wrightii",
+    "category": "flower",
+    "subcategory": "native ornamental annual/perennial",
+    "days_to_germination": {"min": 7, "max": 21},
+    "germination_soil_temp_f": {"min": 70, "max": 80},
+    "days_to_maturity": {"min": 60, "max": 120},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 0, "max": 2},
+      "note": "Direct sow at or just after last frost once soil has warmed to at least 70°F; nick or lightly scarify seeds before sowing to improve germination rates."
+    },
+    "usda_zones": {"min": 7, "max": 11},
+    "spacing_in": {"min": 36, "max": 60},
+    "height_in": {"min": 24, "max": 60},
+    "spread_in": {"min": 36, "max": 72},
+    "sun": "full",
+    "water": "low",
+    "directions": "WARNING: ALL PARTS OF THIS PLANT ARE HIGHLY TOXIC — leaves, flowers, seeds, and roots contain potent tropane alkaloids (scopolamine, hyoscyamine, atropine) that can cause severe anticholinergic poisoning or death; do not plant where children or pets have unsupervised access and wash hands thoroughly after handling. Datura wrightii is a fast-growing native of the American Southwest and Mexico that produces enormous, sweetly fragrant, white to pale-purple funnel-shaped flowers up to 8 inches across that open at dusk and attract sphinx moths in a spectacular display of night-garden drama. Direct sow lightly scarified seeds into well-drained, sandy or loamy soil in full sun after the soil has warmed; this plant thrives on neglect, tolerating heat, drought, and poor soil once established. In zones 8–11 it returns reliably from a deep taproot each spring; in zones 7–8 treat it as a warm-season annual, allowing plants to self-seed for natural reestablishment.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "USDA PLANTS Database",
+      "University of Arizona Cooperative Extension"
+    ]
+  }
+]

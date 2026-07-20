@@ -1,0 +1,188 @@
+[
+  {
+    "slug": "basella-alba",
+    "common_name": "Malabar Spinach",
+    "scientific_name": "Basella alba",
+    "category": "vegetable",
+    "subcategory": "tropical leafy green",
+    "days_to_germination": {"min": 10, "max": 21},
+    "germination_soil_temp_f": {"min": 65, "max": 85},
+    "days_to_maturity": {"min": 70, "max": 90},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 2, "max": 4},
+      "note": "Sow direct or transplant 2–4 weeks after last frost once soil has warmed to at least 65°F; in tropical zones 10–11, sow year-round — Malabar spinach thrives in the heat and humidity that makes true spinach bolt immediately."
+    },
+    "usda_zones": {"min": 9, "max": 11},
+    "spacing_in": {"min": 12, "max": 18},
+    "height_in": {"min": 48, "max": 120},
+    "spread_in": {"min": 18, "max": 36},
+    "sun": "partial",
+    "water": "high",
+    "directions": "Sow direct or start indoors 3–4 weeks before transplanting, placing seeds in warm soil after last frost and providing a trellis, fence, or other support — Malabar spinach is a vigorous twining vine that can climb 10 feet or more in a single season. Basella alba is an excellent warm-season substitute for true spinach in hot, humid climates where conventional spinach bolts; the thick, fleshy, glossy leaves have a mild, slightly mucilaginous texture when cooked and hold up better than spinach in stir-fries, soups, and curries, and the young leaves are pleasant eaten raw. It grows rapidly in full sun to partial shade with consistently moist, fertile soil and high humidity, making it ideal for gulf-coast and tropical gardens. Harvest by snipping young stem tips every 1–2 weeks to encourage bushy regrowth; the plant is killed by the first frost but self-seeds freely in frost-free zones.",
+    "sources": [
+      "University of Florida IFAS Extension",
+      "Purdue University Center for New Crops and Plant Products",
+      "Plants for a Future Database"
+    ]
+  },
+  {
+    "slug": "ipomoea-aquatica",
+    "common_name": "Water Spinach (Kangkong)",
+    "scientific_name": "Ipomoea aquatica",
+    "category": "vegetable",
+    "subcategory": "tropical leafy green",
+    "days_to_germination": {"min": 5, "max": 10},
+    "germination_soil_temp_f": {"min": 70, "max": 90},
+    "days_to_maturity": {"min": 30, "max": 50},
+    "maturity_from": "seed",
+    "sow_method": "cutting",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 2, "max": 6},
+      "note": "Start stem cuttings or sow seed 2–6 weeks after last frost when soil is consistently warm; water spinach requires sustained heat (above 70°F) and abundant moisture or shallow standing water — it grows best in humid tropical and subtropical climates."
+    },
+    "usda_zones": {"min": 9, "max": 11},
+    "spacing_in": {"min": 6, "max": 12},
+    "height_in": {"min": 6, "max": 12},
+    "spread_in": {"min": 12, "max": 36},
+    "sun": "full",
+    "water": "high",
+    "directions": "Plant stem cuttings (the most reliable method) or sow seed directly in warm, moisture-retentive to waterlogged soil in full sun after temperatures are reliably above 70°F; kangkong grows in wet garden beds, along pond margins, or even in containers of standing water, making it highly versatile for wet tropical conditions. Ipomoea aquatica is a semi-aquatic, fast-growing leafy green that is a staple vegetable across Southeast Asia, eaten stir-fried with garlic, fermented shrimp paste, or in soups; the hollow stems and arrowhead-shaped leaves are both edible and have a pleasant, mild, slightly earthy flavor. Harvest the top 6–10 inches of stem tips every 10–14 days — the plant regrows rapidly from cut nodes and can provide near-continuous harvest through the warm season. Note that Ipomoea aquatica is a federally regulated noxious weed in the United States (in several states it is prohibited without a permit) due to its potential to escape cultivation into waterways; always check local regulations before growing.",
+    "sources": [
+      "University of Florida IFAS Extension",
+      "Purdue University Center for New Crops and Plant Products",
+      "USDA PLANTS Database"
+    ]
+  },
+  {
+    "slug": "perilla-frutescens",
+    "common_name": "Shiso (Perilla)",
+    "scientific_name": "Perilla frutescens",
+    "category": "vegetable",
+    "subcategory": "culinary herb/green",
+    "days_to_germination": {"min": 7, "max": 21},
+    "germination_soil_temp_f": {"min": 65, "max": 75},
+    "days_to_maturity": {"min": 60, "max": 80},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 0, "max": 2},
+      "note": "Sow direct around last frost date or lightly earlier indoors; seeds require light to germinate — press them onto the soil surface rather than burying them — and the seedlings tolerate mild frost but are killed by a hard freeze."
+    },
+    "usda_zones": {"min": 2, "max": 11},
+    "spacing_in": {"min": 12, "max": 18},
+    "height_in": {"min": 18, "max": 36},
+    "spread_in": {"min": 12, "max": 18},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Surface-sow seeds (they need light to germinate) directly in the garden around last frost or start indoors 3–4 weeks earlier in trays, transplanting after frost danger has passed into moderately fertile, well-drained soil in full sun to partial shade. Perilla frutescens (green shiso) is an annual herb used as a vegetable throughout East Asian cooking — the large, ruffled, vivid green, anise-and-clove-scented leaves are used to wrap sashimi, roll rice and pickles in, scatter over noodles and salads, and deep-fry as tempura; it is a fundamental ingredient in Japanese cuisine. Shiso self-seeds prolifically and often becomes a welcome recurring presence in the garden without any replanting effort; deadhead promptly if you do not want it to naturalize. Harvest individual leaves as needed from the outside of the plant, or snip whole stem tips to encourage bushier growth.",
+    "sources": [
+      "Cornell University Cooperative Extension",
+      "Johnny's Selected Seeds Growers Library",
+      "Joy Larkcom, 'Oriental Vegetables'"
+    ]
+  },
+  {
+    "slug": "xanthosoma-sagittifolium",
+    "common_name": "Cocoyam (Tannia, Malanga)",
+    "scientific_name": "Xanthosoma sagittifolium",
+    "category": "vegetable",
+    "subcategory": "tropical root vegetable",
+    "days_to_germination": {"min": 14, "max": 28},
+    "germination_soil_temp_f": {"min": 70, "max": 85},
+    "days_to_maturity": {"min": 180, "max": 300},
+    "maturity_from": "transplant",
+    "sow_method": "tuber",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 2, "max": 4},
+      "note": "Plant corm divisions or small cormels 2–4 weeks after last frost in warm soil (70°F+) in a deep, humus-rich, consistently moist site; in frost-free zones 10–11, tannia can be planted at any time but does best with a long warm season."
+    },
+    "usda_zones": {"min": 9, "max": 11},
+    "spacing_in": {"min": 24, "max": 36},
+    "height_in": {"min": 36, "max": 72},
+    "spread_in": {"min": 24, "max": 48},
+    "sun": "partial",
+    "water": "high",
+    "directions": "Plant corm divisions or small cormels 4–6 inches deep in deep, rich, consistently moist, slightly acidic soil in full sun to partial shade after all frost risk has passed and the soil has warmed to 70°F; tannia requires a long hot growing season of 6–9 months to produce well-developed corms. Xanthosoma sagittifolium is a large, dramatic tropical plant grown throughout the Caribbean, West Africa, and Latin America for its starchy, edible corms (harvested at 7–10 months when leaves begin to yellow) and young leaves, which are used as a spinach substitute after thorough cooking to neutralize calcium oxalate crystals. Unlike taro (Colocasia esculenta), tannia corms are generally less mucilaginous and somewhat easier to peel; they are boiled, mashed, fried, or pureed and have a nutty, earthy flavor. In frost-prone climates, lift corms before the first frost and store in a cool, dry, frost-free location.",
+    "sources": [
+      "University of Florida IFAS Extension",
+      "Purdue University Center for New Crops and Plant Products",
+      "FAO Underutilized Crops Series"
+    ]
+  },
+  {
+    "slug": "colocasia-esculenta",
+    "common_name": "Taro",
+    "scientific_name": "Colocasia esculenta",
+    "category": "vegetable",
+    "subcategory": "tropical root vegetable",
+    "days_to_germination": {"min": 14, "max": 21},
+    "germination_soil_temp_f": {"min": 70, "max": 85},
+    "days_to_maturity": {"min": 180, "max": 210},
+    "maturity_from": "transplant",
+    "sow_method": "tuber",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 2, "max": 4},
+      "note": "Plant cormels or corm divisions 2–4 inches deep in warm, consistently moist to wet, humus-rich soil 2–4 weeks after last frost; taro can be grown in boggy conditions, at pond margins, or in containers kept standing in water — it requires heat and abundant moisture throughout its long growing season."
+    },
+    "usda_zones": {"min": 8, "max": 11},
+    "spacing_in": {"min": 18, "max": 24},
+    "height_in": {"min": 36, "max": 72},
+    "spread_in": {"min": 24, "max": 48},
+    "sun": "partial",
+    "water": "high",
+    "directions": "Plant small cormels or divided corm sections 2–4 inches deep in deep, organic-rich, consistently wet to moist soil in full sun to partial shade after all frost risk has passed and soil temperatures exceed 70°F; taro tolerates and even thrives in standing water, making it suitable for rain gardens, swales, and pond edges. Colocasia esculenta is one of the world's oldest cultivated crops, grown throughout tropical Asia, the Pacific Islands, Africa, and the Caribbean for its starchy, edible corms — all parts of the raw plant contain calcium oxalate crystals that cause intense oral irritation, so corms and leaves must always be thoroughly cooked (boiling, steaming, or roasting for at least 30–45 minutes) before eating. The corms are the source of Hawaiian poi, taro chips, and cocoyam fufu, and have a distinctive, pleasantly earthy, slightly sweet, starchy flavor; the large, dramatic, heart-shaped leaves are used in Pacific Island cooking as wrappers (lau lau) and are edible after extended cooking. In zones 8b–9, plants may survive a mild winter with heavy mulching over the crown but should be treated as annuals in cooler climates, with corms lifted and stored above 50°F after the first frost.",
+    "sources": [
+      "University of Hawaii Cooperative Extension Service",
+      "University of Florida IFAS Extension",
+      "Purdue University Center for New Crops and Plant Products"
+    ]
+  },
+  {
+    "slug": "smallanthus-sonchifolius",
+    "common_name": "Yacon",
+    "scientific_name": "Smallanthus sonchifolius",
+    "category": "vegetable",
+    "subcategory": "Andean root vegetable",
+    "days_to_germination": {"min": 14, "max": 28},
+    "germination_soil_temp_f": {"min": 60, "max": 75},
+    "days_to_maturity": {"min": 180, "max": 240},
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "warm",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": -2, "max": 2},
+      "note": "Plant rhizome offsets (propagating crowns) around the time of last frost in deep, fertile, well-drained soil; yacon dies to the ground at first frost but the storage roots and rhizomes survive in the ground in zones 7–9 with light mulching — in colder zones, lift and store like dahlias."
+    },
+    "usda_zones": {"min": 7, "max": 11},
+    "spacing_in": {"min": 24, "max": 36},
+    "height_in": {"min": 48, "max": 96},
+    "spread_in": {"min": 24, "max": 36},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant rhizome crown divisions (not the large storage roots) in deep, fertile, well-drained soil in full sun around the time of last frost; yacon grows into a large, sunflower-relative plant 4–8 feet tall and requires a long warm season of 5–7 months for best root development. Smallanthus sonchifolius is an Andean perennial grown for its large, sweet, crisp, apple-pear-textured storage tubers, which are uniquely high in fructooligosaccharides (FOS) — prebiotics that the human body cannot fully metabolize — making yacon one of the very few vegetables with a negligible glycemic impact despite its sweet flavor. Roots are harvested after the first frost kills the tops, then cured in sunlight for 1–2 weeks (which converts some FOS to fructose and sweetens the flavor considerably); they are eaten raw like jicama in salads, pickled, juiced, or roasted. Propagate exclusively from the knobby, reddish-purple rhizome crowns attached to the base of the stalks, not from the large tan storage roots, which will not sprout.",
+    "sources": [
+      "University of California Cooperative Extension",
+      "Andean Roots and Tubers, International Potato Center (CIP)",
+      "Plants for a Future Database"
+    ]
+  }
+]

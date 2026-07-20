@@ -1,0 +1,157 @@
+[
+  {
+    "slug": "wild-gardenia",
+    "common_name": "Wild Gardenia / Starflower Gardenia",
+    "scientific_name": "Gardenia thunbergia",
+    "category": "flower",
+    "subcategory": "tropical evergreen shrub",
+    "days_to_germination": {"min": 21, "max": 42},
+    "germination_soil_temp_f": {"min": 68, "max": 82},
+    "days_to_maturity": {"min": 730, "max": 1825},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 2},
+      "note": "Plant in spring after all frost risk has passed. Choose a site with well-drained, slightly acidic soil and protection from cold winds. Mulch the root zone to retain moisture and moderate soil temperature."
+    },
+    "usda_zones": {"min": 9, "max": 11},
+    "spacing_in": {"min": 60, "max": 120},
+    "height_in": {"min": 60, "max": 120},
+    "spread_in": {"min": 60, "max": 96},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Propagate from semi-hardwood cuttings taken in late spring or summer, dipping the cut end in rooting hormone before inserting into a well-draining mix of perlite and peat. Transplant rooted cuttings outdoors in spring once nighttime temperatures reliably stay above 50°F. Gardenia thunbergia is more heat- and drought-tolerant than common gardenia, but consistent moisture during the first growing season promotes rapid establishment. Fertilize with an acid-formulated fertilizer in spring and midsummer to encourage lush foliage and the best display of its large, intensely fragrant white blooms.",
+    "sources": [
+      "University of Florida IFAS Extension",
+      "Missouri Botanical Garden Plant Finder",
+      "Royal Horticultural Society"
+    ]
+  },
+  {
+    "slug": "tiare-gardenia",
+    "common_name": "Tiare / Tahitian Gardenia",
+    "scientific_name": "Gardenia taitensis",
+    "category": "flower",
+    "subcategory": "tropical evergreen shrub",
+    "days_to_germination": {"min": 21, "max": 42},
+    "germination_soil_temp_f": {"min": 72, "max": 86},
+    "days_to_maturity": {"min": 730, "max": 1825},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 2},
+      "note": "Plant in spring in a warm, sheltered location with high humidity. Prefers rich, well-drained, slightly acidic soil. In zone 9, site against a south-facing wall or in a container that can be moved indoors during cold snaps."
+    },
+    "usda_zones": {"min": 10, "max": 11},
+    "spacing_in": {"min": 72, "max": 144},
+    "height_in": {"min": 72, "max": 180},
+    "spread_in": {"min": 72, "max": 144},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Propagate from softwood or semi-hardwood cuttings in summer, keeping them warm and humid until well rooted before potting on. Transplant to the garden only in frost-free zones 10-11, or grow in a large container in zone 9 and overwinter indoors above 55°F. Maintain consistently moist, humus-rich, well-drained soil and fertilize monthly with a balanced tropical-plant fertilizer throughout the growing season. The pinwheel-shaped white flowers bloom repeatedly in warm weather and are at their most fragrant in the evening, making this tree a standout near patios and entryways.",
+    "sources": [
+      "University of Florida IFAS Extension",
+      "USDA ARS National Plant Germplasm System",
+      "Royal Horticultural Society"
+    ]
+  },
+  {
+    "slug": "ornithopus-sativus-serradella",
+    "common_name": "Serradella",
+    "scientific_name": "Ornithopus sativus",
+    "category": "cover-crop",
+    "subcategory": "legume",
+    "days_to_germination": {"min": 5, "max": 10},
+    "germination_soil_temp_f": {"min": 50, "max": 75},
+    "days_to_maturity": {"min": 90, "max": 150},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {"min": 0, "max": 6},
+      "note": "Sow in fall when soils cool below 75°F. Inoculate seed with the appropriate Ornithopus-specific rhizobium inoculant before sowing, especially in fields where serradella has not been grown before. Broadcast or drill seed shallowly at 10-15 lb per acre into a firm seedbed."
+    },
+    "usda_zones": {"min": 5, "max": 9},
+    "spacing_in": {"min": 2, "max": 4},
+    "height_in": {"min": 12, "max": 24},
+    "spread_in": {"min": 6, "max": 12},
+    "sun": "full",
+    "water": "low",
+    "directions": "Serradella thrives in sandy, acidic soils with a pH of 4.5-6.5 where clovers and vetches often fail — lime the field sparingly if at all, as this legume is adapted to low-fertility, low-pH conditions. Sow seed shallowly (no deeper than 0.5 inch) in fall, using rhizobium-inoculated seed to ensure effective nitrogen fixation. The crop establishes slowly but produces good biomass through winter and spring, fixing 50-100 lb of nitrogen per acre by the time it is incorporated or mowed before planting summer crops. In orchards and vineyards, allow it to reseed naturally in fall for a low-maintenance, self-renewing ground cover.",
+    "sources": [
+      "University of California Cooperative Extension",
+      "Sustainable Agriculture Research and Education (SARE)",
+      "USDA PLANTS Database"
+    ]
+  },
+  {
+    "slug": "yellow-serradella",
+    "common_name": "Yellow Serradella / Bird's-foot Trefoil Cover Crop",
+    "scientific_name": "Ornithopus compressus",
+    "category": "cover-crop",
+    "subcategory": "legume",
+    "days_to_germination": {"min": 5, "max": 10},
+    "germination_soil_temp_f": {"min": 50, "max": 72},
+    "days_to_maturity": {"min": 90, "max": 150},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {"min": 0, "max": 6},
+      "note": "Sow in fall as temperatures begin to drop. Like serradella, yellow serradella requires inoculation with a specific Ornithopus rhizobium strain for effective nitrogen fixation. Broadcast onto a prepared, weed-free seedbed and lightly incorporate or roll to ensure good seed-to-soil contact."
+    },
+    "usda_zones": {"min": 6, "max": 10},
+    "spacing_in": {"min": 2, "max": 4},
+    "height_in": {"min": 12, "max": 20},
+    "spread_in": {"min": 6, "max": 12},
+    "sun": "full",
+    "water": "low",
+    "directions": "Direct sow yellow serradella in fall at 8-12 lb per acre into sandy or loamy, well-drained soils with a pH of 5.0-7.0, using rhizobium-inoculated seed for reliable nitrogen fixation. It is slightly better adapted to neutral to mildly acidic soils than common serradella, making it a useful choice for a broader range of Mediterranean-climate growing conditions. The compressed, segmented pods shatter and reseed readily at maturity, so allow pods to ripen fully before mowing if natural reseeding is desired for the following season. Terminate by mowing or incorporating before pod shatter to prevent volunteer problems ahead of summer cash crops.",
+    "sources": [
+      "University of California Cooperative Extension",
+      "USDA PLANTS Database",
+      "Sustainable Agriculture Research and Education (SARE)"
+    ]
+  },
+  {
+    "slug": "biserrula",
+    "common_name": "Biserrula / Bladder Clover",
+    "scientific_name": "Biserrula pelecinus",
+    "category": "cover-crop",
+    "subcategory": "legume",
+    "days_to_germination": {"min": 5, "max": 10},
+    "germination_soil_temp_f": {"min": 50, "max": 72},
+    "days_to_maturity": {"min": 90, "max": 150},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {"min": 0, "max": 6},
+      "note": "Sow in early-to-mid fall when soil temperatures are between 50-65°F. Inoculate with a Biserrula-specific rhizobium strain (Group F in Australia) before sowing — standard clover inoculants are not effective. Sow shallowly at 3-6 lb per acre on clay-loam or heavier soils."
+    },
+    "usda_zones": {"min": 7, "max": 10},
+    "spacing_in": {"min": 2, "max": 4},
+    "height_in": {"min": 12, "max": 20},
+    "spread_in": {"min": 6, "max": 12},
+    "sun": "full",
+    "water": "low",
+    "directions": "Biserrula is best suited to heavier-textured, alkaline to neutral clay-loam soils where serradella does not perform well, tolerating pH levels up to 8.0 and providing reliable nitrogen fixation even under moderate drought. Sow in fall using seed inoculated with the correct Biserrula-specific rhizobium group, as general-purpose legume inoculants will not form effective nodules. Its deep taproot improves compacted or waterlogged soils over successive seasons, making it a strong rotational choice before cereal crops. The hard seed coat gives biserrula a significant soil seed-bank advantage — allow pods to mature and shatter naturally every second or third year to replenish the seed bank for low-input, self-regenerating pasture or cover-crop systems.",
+    "sources": [
+      "University of California Cooperative Extension",
+      "USDA PLANTS Database",
+      "Grains Research and Development Corporation (GRDC)"
+    ]
+  }
+]

@@ -1,0 +1,188 @@
+[
+  {
+    "slug": "aquilegia-longissima",
+    "common_name": "Long-Spurred Columbine",
+    "scientific_name": "Aquilegia longissima",
+    "category": "flower",
+    "subcategory": "native wildflower",
+    "days_to_germination": {"min": 21, "max": 30},
+    "germination_soil_temp_f": {"min": 55, "max": 65},
+    "days_to_maturity": {"min": 90, "max": 150},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Direct sow in fall to allow natural cold-moist stratification over winter; seeds germinate in spring when temperatures warm. Can also be cold-stratified in the refrigerator for 4–6 weeks and sown in early spring."
+    },
+    "usda_zones": {"min": 5, "max": 9},
+    "spacing_in": {"min": 12, "max": 18},
+    "height_in": {"min": 18, "max": 36},
+    "spread_in": {"min": 12, "max": 18},
+    "sun": "partial",
+    "water": "low",
+    "directions": "Plant in well-drained, rocky or gravelly, slightly alkaline to neutral soil in partial shade or dappled sunlight, mimicking its native Texas canyon and limestone hillside habitat. The pale yellow, sweetly fragrant flowers bear extraordinarily long spurs — 3 to 4 inches — that are adapted for hawk moth pollination and are also visited by hummingbirds hovering at the long tube. Like other columbines, it self-sows freely once established and is short-lived (3–5 years) but perpetuates itself readily in place. Cut back spent flower stalks to prevent excessive self-seeding and to tidy the mounding foliage.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "Missouri Botanical Garden Plant Finder",
+      "Royal Horticultural Society"
+    ]
+  },
+  {
+    "slug": "aquilegia-skinneri",
+    "common_name": "Mexican Columbine",
+    "scientific_name": "Aquilegia skinneri",
+    "category": "flower",
+    "subcategory": "native wildflower",
+    "days_to_germination": {"min": 21, "max": 30},
+    "germination_soil_temp_f": {"min": 55, "max": 65},
+    "days_to_maturity": {"min": 90, "max": 150},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Direct sow in fall for spring germination after cold stratification, or cold-stratify seeds in damp sand for 4–6 weeks in the refrigerator and sow in early spring; Mexican columbine self-seeds readily in suitable conditions."
+    },
+    "usda_zones": {"min": 6, "max": 9},
+    "spacing_in": {"min": 12, "max": 18},
+    "height_in": {"min": 18, "max": 30},
+    "spread_in": {"min": 12, "max": 18},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Plant in moist, well-drained, humus-enriched soil in partial shade; in hot climates, afternoon shade is essential as this species originates in cool, high-elevation mountain meadows and pine forests in Mexico and Arizona. The bicolored red-and-yellow flowers with shorter-than-average spurs are reliably attractive to hummingbirds and are among the showiest of the native columbines. It tolerates summer heat better than many North American species and makes an excellent companion for native ferns and woodland perennials. Self-sows freely and hybridizes with other columbines if multiple species are grown nearby.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "Missouri Botanical Garden Plant Finder",
+      "Royal Horticultural Society"
+    ]
+  },
+  {
+    "slug": "delphinium-grandiflorum",
+    "common_name": "Siberian Larkspur",
+    "scientific_name": "Delphinium grandiflorum",
+    "category": "flower",
+    "subcategory": "perennial",
+    "days_to_germination": {"min": 14, "max": 21},
+    "germination_soil_temp_f": {"min": 55, "max": 65},
+    "days_to_maturity": {"min": 90, "max": 120},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": -4, "max": -2},
+      "note": "Direct sow 2–4 weeks before last frost, or sow in fall; seeds germinate best at cool temperatures (55–65°F) and benefit from a brief cold-moist stratification period of 1–2 weeks before sowing."
+    },
+    "usda_zones": {"min": 3, "max": 7},
+    "spacing_in": {"min": 12, "max": 18},
+    "height_in": {"min": 12, "max": 18},
+    "spread_in": {"min": 12, "max": 18},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in rich, well-drained, slightly alkaline soil in full sun; unlike the tall border delphiniums (D. elatum hybrids), Siberian larkspur forms a compact, mounded plant 12–18 inches tall that rarely needs staking and is far more heat-tolerant. The brilliant gentian-blue to violet flowers cover the plant in late spring and early summer and will often rebloom if cut back hard after the first flush. In warm climates (zone 7+) it is frequently grown as a cool-season annual or biennial, as it declines in summer heat; in cooler zones it is a reliable short-lived perennial. All parts are toxic if ingested.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "Missouri Botanical Garden Plant Finder",
+      "Royal Horticultural Society"
+    ]
+  },
+  {
+    "slug": "delphinium-nudicaule",
+    "common_name": "Red Larkspur",
+    "scientific_name": "Delphinium nudicaule",
+    "category": "flower",
+    "subcategory": "native wildflower",
+    "days_to_germination": {"min": 14, "max": 21},
+    "germination_soil_temp_f": {"min": 55, "max": 65},
+    "days_to_maturity": {"min": 90, "max": 120},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Direct sow in fall in its native range (California and Oregon); seeds benefit from cool temperatures and natural cold-moist stratification to break dormancy and germinate in late winter or early spring."
+    },
+    "usda_zones": {"min": 7, "max": 10},
+    "spacing_in": {"min": 6, "max": 12},
+    "height_in": {"min": 12, "max": 24},
+    "spread_in": {"min": 6, "max": 12},
+    "sun": "partial",
+    "water": "low",
+    "directions": "Plant in well-drained, rocky or sandy, slightly acidic to neutral soil in partial shade; red larkspur is a California and southern Oregon native of shaded canyon slopes and mixed evergreen forest edges, distinguished from all other delphiniums by its unusual orange-red to scarlet flowers — a color virtually unheard of in the genus. The tubular, upward-facing flowers are exceptionally attractive to hummingbirds. It is a short-lived perennial or annual in cultivation and goes summer-dormant in dry California summers, so allow the foliage to die back naturally without summer irrigation. Like all delphiniums, all parts are toxic.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "Missouri Botanical Garden Plant Finder",
+      "Royal Horticultural Society"
+    ]
+  },
+  {
+    "slug": "thalictrum-dasycarpum",
+    "common_name": "Purple Meadow Rue",
+    "scientific_name": "Thalictrum dasycarpum",
+    "category": "flower",
+    "subcategory": "native wildflower",
+    "days_to_germination": {"min": 21, "max": 60},
+    "germination_soil_temp_f": {"min": 55, "max": 65},
+    "days_to_maturity": {"min": 90, "max": 150},
+    "maturity_from": "transplant",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {"min": -4, "max": 0},
+      "note": "Direct sow fresh seed in fall immediately after harvest; seeds require cold stratification and germinate the following spring. Seedlings are slow to establish and typically do not bloom until their second or third year."
+    },
+    "usda_zones": {"min": 3, "max": 8},
+    "spacing_in": {"min": 18, "max": 24},
+    "height_in": {"min": 36, "max": 72},
+    "spread_in": {"min": 18, "max": 24},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Plant in moist, humus-rich, slightly acidic to neutral soil in partial shade, such as at the edge of a woodland or along a stream bank; purple meadow rue is a native of prairie swales, wet meadows, and floodplain woodland edges from Ontario to the Great Plains and south to Texas. The distinctively lavender-purple stems and flower stalks give the plant an architectural quality all season long, while the delicate, blue-green compound foliage closely resembles that of columbine and remains attractive from spring through fall. Fluffy clusters of lavender anthers appear in early to midsummer on plants reaching 3–6 feet; the flowers are wind-pollinated and lack petals. An outstanding choice for the back of a shade border or naturalized in a moist low spot.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "Missouri Botanical Garden Plant Finder",
+      "Royal Horticultural Society"
+    ]
+  },
+  {
+    "slug": "clematis-viorna",
+    "common_name": "Leatherflower",
+    "scientific_name": "Clematis viorna",
+    "category": "flower",
+    "subcategory": "native perennial vine",
+    "days_to_germination": {"min": 30, "max": 90},
+    "germination_soil_temp_f": {"min": 55, "max": 70},
+    "days_to_maturity": {"min": 180, "max": 365},
+    "maturity_from": "transplant",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Direct sow fresh seed in fall to allow natural cold stratification over winter; seeds require 60–90 days of cold-moist stratification to break dormancy and typically germinate the following spring. Plant container-grown specimens in spring near a trellis or shrub for support."
+    },
+    "usda_zones": {"min": 5, "max": 9},
+    "spacing_in": {"min": 24, "max": 36},
+    "height_in": {"min": 72, "max": 120},
+    "spread_in": {"min": 24, "max": 48},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Plant at the base of a trellis, fence, or open shrub in moist, well-drained, fertile soil in partial shade; keep the root zone cool and moist with mulch while allowing the vine to climb into brighter light — the classic clematis principle of cool feet and a sunny head. Leatherflower is a native vine of stream banks, forest edges, and thickets across the eastern US, bearing unusually thick-petaled, nodding urn-shaped flowers in shades of pink to reddish-purple that do not open fully, creating a distinctive lantern-like appearance from late spring through summer. The flowers are followed by showy, globe-shaped clusters of feathery-tailed seeds that persist and provide winter interest. Prune back to 12–18 inches in late winter as the plant blooms on new growth.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "Missouri Botanical Garden Plant Finder",
+      "Royal Horticultural Society"
+    ]
+  }
+]

@@ -1,277 +1,157 @@
 [
   {
-    "slug": "bald-cypress",
-    "common_name": "Bald Cypress",
-    "scientific_name": "Taxodium distichum",
+    "slug": "platanus-occidentalis",
+    "common_name": "American Sycamore",
+    "scientific_name": "Platanus occidentalis",
     "category": "flower",
-    "subcategory": "native deciduous conifer",
-    "days_to_germination": {
-      "min": 14,
-      "max": 28
-    },
-    "germination_soil_temp_f": {
-      "min": 65,
-      "max": 75
-    },
-    "days_to_maturity": {
-      "min": 1095,
-      "max": 3650
-    },
-    "maturity_from": "transplant",
-    "sow_method": "transplant",
-    "season": "perennial",
-    "frost_tolerance": "hardy",
-    "planting": {
-      "anchor": "spring",
-      "weeks_from_anchor": {
-        "min": -4,
-        "max": 4
-      },
-      "note": "Plant container or balled-and-burlapped trees in late winter or spring; despite being a wetland tree, bald cypress performs well in ordinary, well-drained soil — it does not require wet conditions to thrive. Plant 6–10 feet from structures to allow for its natural buttressed base."
-    },
-    "usda_zones": {
-      "min": 4,
-      "max": 11
-    },
-    "spacing_in": {
-      "min": 360,
-      "max": 600
-    },
-    "height_in": {
-      "min": 600,
-      "max": 1200
-    },
-    "spread_in": {
-      "min": 240,
-      "max": 480
-    },
-    "sun": "full",
-    "water": "moderate",
-    "directions": "Plant in full sun in any moist to wet or even ordinary well-drained soil; bald cypress is the defining tree of the Deep South and Gulf Coast swamps, but contrary to popular belief it grows and thrives in ordinary garden soil without standing water. The feathery, pale green foliage on horizontal branches turns brilliant copper-orange in fall before dropping — making this an unexpectedly beautiful deciduous conifer for the landscape. In wet soil the trees produce distinctive 'knees' (woody projections from the root system) that emerge from the water; in normal garden soil, knees are usually minimal or absent. The tree is extremely long-lived (centuries to millennia in the wild), remarkably storm-resistant, and grows 1–2 feet per year when young. An excellent large-scale specimen or street tree in the South.",
-    "sources": [
-      "USDA PLANTS Database",
-      "University of Florida IFAS Extension",
-      "Lady Bird Johnson Wildflower Center"
-    ]
-  },
-  {
-    "slug": "longleaf-pine",
-    "common_name": "Longleaf Pine",
-    "scientific_name": "Pinus palustris",
-    "category": "flower",
-    "subcategory": "native evergreen tree",
-    "days_to_germination": {
-      "min": 14,
-      "max": 28
-    },
-    "germination_soil_temp_f": {
-      "min": 65,
-      "max": 75
-    },
-    "days_to_maturity": {
-      "min": 1095,
-      "max": 3650
-    },
+    "subcategory": "native tree",
+    "days_to_germination": {"min": 14, "max": 30},
+    "germination_soil_temp_f": {"min": 50, "max": 70},
+    "days_to_maturity": {"min": 1825, "max": 3650},
     "maturity_from": "transplant",
     "sow_method": "transplant",
     "season": "perennial",
     "frost_tolerance": "hardy",
     "planting": {
       "anchor": "fall",
-      "weeks_from_anchor": {
-        "min": -8,
-        "max": -4
-      },
-      "note": "Plant bareroot seedlings in fall or winter in sandy, well-drained, infertile, acidic soil; longleaf pine establishes best from small seedlings planted in fall. Do not fertilize or amend soil — longleaf requires poor, sandy conditions. Mow around young plants to control competing vegetation."
+      "weeks_from_anchor": {"min": 0, "max": 8},
+      "note": "Plant container or balled-and-burlapped trees in fall or early spring in moist, fertile, well-drained to periodically wet soil near streams or in bottomlands; American sycamore transplants readily when young and establishes quickly in moist sites. Allow ample space — this is one of the largest trees in eastern North America."
     },
-    "usda_zones": {
-      "min": 7,
-      "max": 10
-    },
-    "spacing_in": {
-      "min": 240,
-      "max": 480
-    },
-    "height_in": {
-      "min": 480,
-      "max": 1200
-    },
-    "spread_in": {
-      "min": 180,
-      "max": 360
-    },
-    "sun": "full",
-    "water": "low",
-    "directions": "Plant bareroot seedlings in fall or winter in sandy, infertile, acidic, extremely well-drained soil in full sun; longleaf pine is one of the most ecologically critical trees in North America, once covering 90 million acres of the southeastern coastal plain but now reduced to less than 3% of its original range — one of the continent's most severe ecological losses. Planting longleaf is an act of ecological restoration. The tree is famous for its 'grass stage' — for 3–7 years, the seedling looks like a grass clump with no visible stem while it develops a deep taproot; then growth accelerates dramatically. Mature longleaf lives 300–500 years, supporting 29 endangered species including the red-cockaded woodpecker, indigo snake, and gopher tortoise. The long needles (12–18 inches), massive cones, and fire-adapted bark make it an outstanding specimen tree in appropriate sandy soils.",
-    "sources": [
-      "USDA PLANTS Database",
-      "Longleaf Alliance",
-      "Lady Bird Johnson Wildflower Center"
-    ]
-  },
-  {
-    "slug": "sweetgum",
-    "common_name": "Sweetgum",
-    "scientific_name": "Liquidambar styraciflua",
-    "category": "flower",
-    "subcategory": "native deciduous tree",
-    "days_to_germination": {
-      "min": 14,
-      "max": 21
-    },
-    "germination_soil_temp_f": {
-      "min": 60,
-      "max": 70
-    },
-    "days_to_maturity": {
-      "min": 1095,
-      "max": 3650
-    },
-    "maturity_from": "transplant",
-    "sow_method": "transplant",
-    "season": "perennial",
-    "frost_tolerance": "hardy",
-    "planting": {
-      "anchor": "spring",
-      "weeks_from_anchor": {
-        "min": -4,
-        "max": 4
-      },
-      "note": "Plant container or balled-and-burlapped trees in late winter or spring in moist, slightly acidic, well-drained to moist soil; avoid alkaline soils which cause chlorosis. Choose sterile (fruitless) cultivars like 'Rotundiloba' if the spiky seed balls are undesirable."
-    },
-    "usda_zones": {
-      "min": 5,
-      "max": 9
-    },
-    "spacing_in": {
-      "min": 360,
-      "max": 600
-    },
-    "height_in": {
-      "min": 480,
-      "max": 960
-    },
-    "spread_in": {
-      "min": 240,
-      "max": 480
-    },
+    "usda_zones": {"min": 4, "max": 9},
+    "spacing_in": {"min": 720, "max": 1200},
+    "height_in": {"min": 900, "max": 1200},
+    "spread_in": {"min": 720, "max": 1080},
     "sun": "full",
     "water": "moderate",
-    "directions": "Plant in moist, slightly acidic, well-drained to moderately moist soil in full sun; sweetgum is one of the most common and beautiful deciduous trees of the eastern US, producing perhaps the most spectacular and varied fall color display of any native tree — individual trees vary from pure yellow to orange to red to deep burgundy-purple, and many trees display all these colors simultaneously on the same tree. The star-shaped leaves are distinctive and beautiful. The 'gumballs' (spiky spherical seed capsules) are the tree's only liability — the seeds provide important food for finches and small rodents but the fallen capsules can be a nuisance underfoot. Sterile cultivars like 'Rotundiloba' produce no seeds and have rounder leaf lobes. The tree grows 1–2 feet per year and is exceptionally adaptable to a wide range of conditions. The aromatic resin (storax) has traditional medicinal and fragrance uses.",
+    "directions": "Plant in full sun in moist to moderately wet, fertile, deep soil along streams, rivers, or in bottomland sites; American sycamore is one of the largest deciduous trees native to eastern North America, regularly reaching 75–100 feet in height with massive trunks that can exceed 10 feet in diameter in old growth specimens. The tree is instantly recognizable by its spectacular exfoliating bark — the outer bark peels in irregular patches to reveal a patchwork of white, cream, tan, and olive-green inner bark that is particularly striking in winter and visible from great distances. Sycamore is a keystone riparian tree, stabilizing streambanks and providing critical nesting cavities for wood ducks, chimney swifts, and raccoons in hollowed trunks. The small, fuzzy seed balls persist on bare branches through winter and are consumed by goldfinches and purple finches. Despite its preference for moist bottomlands, sycamore adapts well to ordinary landscape soils and is a bold, fast-growing (2–4 feet per year) shade tree for large properties.",
     "sources": [
-      "USDA PLANTS Database",
       "Lady Bird Johnson Wildflower Center",
-      "North Carolina State Extension"
+      "Missouri Botanical Garden Plant Finder",
+      "USDA PLANTS Database"
     ]
   },
   {
-    "slug": "loblolly-pine",
-    "common_name": "Loblolly Pine",
-    "scientific_name": "Pinus taeda",
+    "slug": "betula-nigra",
+    "common_name": "River Birch",
+    "scientific_name": "Betula nigra",
     "category": "flower",
-    "subcategory": "native evergreen tree",
-    "days_to_germination": {
-      "min": 14,
-      "max": 21
-    },
-    "germination_soil_temp_f": {
-      "min": 65,
-      "max": 75
-    },
-    "days_to_maturity": {
-      "min": 1095,
-      "max": 2190
-    },
+    "subcategory": "native tree",
+    "days_to_germination": {"min": 14, "max": 28},
+    "germination_soil_temp_f": {"min": 50, "max": 70},
+    "days_to_maturity": {"min": 1095, "max": 2190},
     "maturity_from": "transplant",
     "sow_method": "transplant",
     "season": "perennial",
     "frost_tolerance": "hardy",
     "planting": {
       "anchor": "fall",
-      "weeks_from_anchor": {
-        "min": -8,
-        "max": -4
-      },
-      "note": "Plant bareroot seedlings in fall or winter in moist to well-drained, slightly acidic soil; loblolly pine is one of the fastest-growing southern pines (2–4 feet per year when young) and establishes readily from small seedlings."
+      "weeks_from_anchor": {"min": 0, "max": 8},
+      "note": "Plant container or balled-and-burlapped trees in fall or early spring in moist, slightly acidic, well-drained to periodically wet soil in full sun to partial shade; river birch transplants readily and establishes quickly. Multi-stem clump forms are widely available and provide year-round ornamental interest."
     },
-    "usda_zones": {
-      "min": 6,
-      "max": 9
-    },
-    "spacing_in": {
-      "min": 240,
-      "max": 480
-    },
-    "height_in": {
-      "min": 480,
-      "max": 960
-    },
-    "spread_in": {
-      "min": 180,
-      "max": 360
-    },
+    "usda_zones": {"min": 4, "max": 9},
+    "spacing_in": {"min": 360, "max": 540},
+    "height_in": {"min": 480, "max": 840},
+    "spread_in": {"min": 360, "max": 540},
     "sun": "full",
     "water": "moderate",
-    "directions": "Plant bareroot seedlings or container trees in fall or early spring in moist to well-drained, slightly acidic to neutral soil in full sun; loblolly pine is the most common and commercially important tree of the South, but it is also a critical wildlife tree — the seeds are consumed by dozens of bird species including red-cockaded woodpeckers (which nest exclusively in mature pines), white-breasted nuthatches, and pine siskins, while the open structure of mature pine canopy supports a rich understory community of native plants. It grows extremely fast (2–4 feet per year) and provides rapid screening, wind protection, and habitat structure. The three long needles in bundles and heavy cones are distinctive. Susceptible to pine bark beetles when stressed by drought; plant in appropriate moist, sandy soils and avoid planting far outside its natural range.",
+    "directions": "Plant in moist, slightly acidic, well-drained to periodically flooded soil in full sun to light partial shade; river birch is the most adaptable and heat-tolerant native birch in North America, naturally occurring along streambanks and floodplains from New Hampshire to Florida and west to Kansas. Unlike the European white birch, river birch is highly resistant to the bronze birch borer and bronze birch clearwing, making it a far more reliable long-term landscape tree throughout most of the eastern US. The ornamental exfoliating bark — cinnamon to salmon-pink to creamy-white — peels in papery curls to reveal new inner bark throughout the year, providing outstanding four-season interest. River birch grows quickly (1.5–2 feet per year) and tolerates both wet, poorly drained soils and moderate drought once established, an unusually wide site adaptability. The small winged seeds are relished by chickadees, redpolls, and pine siskins in late winter.",
     "sources": [
-      "USDA PLANTS Database",
-      "North Carolina State Extension",
-      "Lady Bird Johnson Wildflower Center"
+      "Lady Bird Johnson Wildflower Center",
+      "Missouri Botanical Garden Plant Finder",
+      "USDA PLANTS Database"
     ]
   },
   {
-    "slug": "sweetleaf",
-    "common_name": "Sweetleaf (Horse Sugar)",
-    "scientific_name": "Symplocos tinctoria",
+    "slug": "acer-rubrum",
+    "common_name": "Red Maple",
+    "scientific_name": "Acer rubrum",
     "category": "flower",
-    "subcategory": "native deciduous shrub",
-    "days_to_germination": {
-      "min": 30,
-      "max": 60
-    },
-    "germination_soil_temp_f": {
-      "min": 60,
-      "max": 70
-    },
-    "days_to_maturity": {
-      "min": 365,
-      "max": 730
-    },
+    "subcategory": "native tree",
+    "days_to_germination": {"min": 14, "max": 30},
+    "germination_soil_temp_f": {"min": 50, "max": 70},
+    "days_to_maturity": {"min": 1825, "max": 3650},
     "maturity_from": "transplant",
-    "sow_method": "cutting",
+    "sow_method": "transplant",
     "season": "perennial",
     "frost_tolerance": "hardy",
     "planting": {
-      "anchor": "spring",
-      "weeks_from_anchor": {
-        "min": 0,
-        "max": 4
-      },
-      "note": "Plant container shrubs in spring in moist, slightly acidic, well-drained to moderately moist soil in partial shade; sweetleaf is not commonly available in nurseries — look for it from native plant specialists and botanic gardens."
+      "anchor": "fall",
+      "weeks_from_anchor": {"min": 0, "max": 8},
+      "note": "Plant container or balled-and-burlapped trees in fall or early spring in moist, slightly acidic, well-drained to moderately wet soil in full sun; red maple establishes readily and grows quickly. Avoid alkaline or compacted soils, which cause chlorosis and stunted growth."
     },
-    "usda_zones": {
-      "min": 6,
-      "max": 9
-    },
-    "spacing_in": {
-      "min": 60,
-      "max": 96
-    },
-    "height_in": {
-      "min": 72,
-      "max": 180
-    },
-    "spread_in": {
-      "min": 60,
-      "max": 96
-    },
-    "sun": "partial",
+    "usda_zones": {"min": 3, "max": 9},
+    "spacing_in": {"min": 360, "max": 720},
+    "height_in": {"min": 480, "max": 720},
+    "spread_in": {"min": 300, "max": 480},
+    "sun": "full",
     "water": "moderate",
-    "directions": "Plant in moist, slightly acidic, well-drained to moderately moist soil in partial shade; sweetleaf (also called horse sugar) is a native shrub or small tree of moist woodland slopes and stream banks in the southeastern US, best known for three remarkable characteristics: the leaves have a distinctly sweet taste (hence both common names), deer browse the sweet foliage voraciously; the bright yellow flower clusters in late winter to early spring appear before most other shrubs and provide crucial early-season nectar for queen bumblebees emerging from overwintering; and it is the exclusive larval host plant for Henry's elfin butterfly, a small, understated but increasingly rare butterfly that depends entirely on this plant for its caterpillars. Underused in horticulture, sweetleaf deserves much wider planting for its early nectar value and butterfly support.",
+    "directions": "Plant in moist, slightly acidic, well-drained to moderately moist soil in full sun for best fall color; red maple is one of the most widely distributed and commonly planted native trees in eastern North America, naturally ranging from Newfoundland to Florida and adaptable to an enormous range of soil moisture conditions from wet bottomlands to dry upland ridges. True to its name, red maple puts on a red display in virtually every season: tiny red flowers cluster on bare branches in late winter (often the earliest tree to bloom), red samaras (winged seeds) ripen in spring, the leaf stalks are red through summer, and fall foliage blazes in brilliant shades of orange-red to crimson. The samaras are consumed by squirrels, grosbeaks, and finches; red maple is also a significant larval host plant for the Cecropia moth and numerous other native insects. With a growth rate of 1.5–2.5 feet per year and wide site adaptability, it is one of the most practical large native shade trees for gardens of all sizes.",
     "sources": [
-      "USDA PLANTS Database",
       "Lady Bird Johnson Wildflower Center",
-      "North Carolina State Extension"
+      "Missouri Botanical Garden Plant Finder",
+      "USDA PLANTS Database"
+    ]
+  },
+  {
+    "slug": "quercus-alba",
+    "common_name": "White Oak",
+    "scientific_name": "Quercus alba",
+    "category": "flower",
+    "subcategory": "native tree",
+    "days_to_germination": {"min": 30, "max": 90},
+    "germination_soil_temp_f": {"min": 50, "max": 70},
+    "days_to_maturity": {"min": 1825, "max": 3650},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {"min": 0, "max": 8},
+      "note": "Plant container-grown trees in fall or early spring in well-drained to moderately moist, slightly acidic to neutral, deep soil in full sun; white oak develops a deep taproot early and transplants best when small. Plant as a long-term investment — this is a multigenerational tree that rewards patience with an irreplaceable landscape presence."
+    },
+    "usda_zones": {"min": 3, "max": 9},
+    "spacing_in": {"min": 720, "max": 1440},
+    "height_in": {"min": 720, "max": 1200},
+    "spread_in": {"min": 600, "max": 1080},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in well-drained to moderately moist, deep, slightly acidic to neutral soil in full sun; white oak is one of the most majestic and ecologically important trees in eastern North America, growing slowly into a massive, wide-spreading giant with deeply furrowed gray bark and a broad, rounded crown that can span 80 feet or more. White oak acorns are widely recognized as the single most nutritious acorn for wildlife — lower in tannins than red oak acorns, they are eagerly consumed by white-tailed deer, wild turkeys, wood ducks, blue jays, and at least 180 other vertebrate species, making white oak the keystone wildlife tree of the eastern deciduous forest. The deeply lobed leaves turn attractive wine-red to russet-brown in fall. Growth is slow but steady — expect 12–15 inches per year — and the tree is exceptionally long-lived (centuries to over 500 years in natural settings). Despite the slow start, there is no native tree that surpasses white oak in landscape longevity, wildlife value, and grandeur.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "Missouri Botanical Garden Plant Finder",
+      "USDA PLANTS Database"
+    ]
+  },
+  {
+    "slug": "fraxinus-americana",
+    "common_name": "White Ash",
+    "scientific_name": "Fraxinus americana",
+    "category": "flower",
+    "subcategory": "native tree",
+    "days_to_germination": {"min": 30, "max": 60},
+    "germination_soil_temp_f": {"min": 50, "max": 70},
+    "days_to_maturity": {"min": 1825, "max": 3650},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {"min": 0, "max": 8},
+      "note": "Plant container or balled-and-burlapped trees in fall or early spring in moist, well-drained, fertile, slightly acidic to neutral soil in full sun; white ash establishes readily and grows at a moderate to fast rate. Consider planting only where emerald ash borer biocontrol programs (parasitoid wasps) are active in your region."
+    },
+    "usda_zones": {"min": 3, "max": 9},
+    "spacing_in": {"min": 480, "max": 720},
+    "height_in": {"min": 600, "max": 960},
+    "spread_in": {"min": 360, "max": 600},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in moist, fertile, well-drained, slightly acidic to neutral soil in full sun; white ash is a magnificent native canopy tree of eastern North American forests, producing large, compound leaves that turn exceptional shades of yellow, orange, and deep burgundy-purple in fall — among the finest fall color of any native tree. IMPORTANT: White ash is critically threatened across its entire range by the emerald ash borer (EAB), an invasive beetle from Asia that has killed hundreds of millions of ash trees since its detection in Michigan in 2002; all native Fraxinus species in North America are vulnerable. Planting is still worthwhile in areas where USDA-approved biocontrol programs using parasitoid wasps (Tetrastichus planipennisi and others) are actively established, as these programs are showing meaningful suppression in treated areas. Consult your state forestry agency or Cooperative Extension service for current EAB biocontrol status in your region before planting. The historically important wood — used for baseball bats, tool handles, and furniture — and the tree's exceptional ecological value as a host for hundreds of native insects make white ash worth preserving wherever possible.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "Missouri Botanical Garden Plant Finder",
+      "USDA PLANTS Database"
     ]
   }
 ]

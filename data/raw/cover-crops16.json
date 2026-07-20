@@ -1,0 +1,157 @@
+[
+  {
+    "slug": "chickling-vetch",
+    "common_name": "Chickling Vetch / Grass Pea",
+    "scientific_name": "Lathyrus cicera",
+    "category": "cover-crop",
+    "subcategory": "legume",
+    "days_to_germination": {"min": 5, "max": 10},
+    "germination_soil_temp_f": {"min": 45, "max": 70},
+    "days_to_maturity": {"min": 90, "max": 150},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {"min": 0, "max": 8},
+      "note": "Broadcast or drill seed in early to mid-fall into a firm, weed-free seedbed. Works well on thin, stony, or alkaline soils where other legumes struggle."
+    },
+    "usda_zones": {"min": 5, "max": 9},
+    "spacing_in": {"min": 3, "max": 6},
+    "height_in": {"min": 18, "max": 36},
+    "spread_in": {"min": 8, "max": 14},
+    "sun": "full",
+    "water": "low",
+    "directions": "Sow seed directly into a firm seedbed in early fall at a rate of 40-60 lbs per acre, covering seed 1-2 inches deep. Chickling vetch establishes a deep taproot that breaks up compacted layers and scavenges nutrients from subsoil. Terminate before or at flowering in spring by mowing or rolling to maximize nitrogen release to the following crop. Avoid allowing seed to mature and shatter, as the plant can self-sow aggressively in subsequent seasons.",
+    "sources": [
+      "Sustainable Agriculture Research and Education (SARE)",
+      "USDA PLANTS Database",
+      "University of California Cooperative Extension"
+    ]
+  },
+  {
+    "slug": "wing-pea",
+    "common_name": "Wing Pea / Yellow Vetchling",
+    "scientific_name": "Lathyrus ochrus",
+    "category": "cover-crop",
+    "subcategory": "legume",
+    "days_to_germination": {"min": 5, "max": 10},
+    "germination_soil_temp_f": {"min": 45, "max": 70},
+    "days_to_maturity": {"min": 90, "max": 150},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {"min": 0, "max": 8},
+      "note": "Drill or broadcast in early fall on sandy, dry, or calcareous soils. Best suited to Mediterranean-climate regions with mild, wet winters and dry summers."
+    },
+    "usda_zones": {"min": 6, "max": 9},
+    "spacing_in": {"min": 3, "max": 6},
+    "height_in": {"min": 18, "max": 36},
+    "spread_in": {"min": 8, "max": 14},
+    "sun": "full",
+    "water": "low",
+    "directions": "Drill seed 1-2 inches deep in early fall at 40-60 lbs per acre, preferably inoculating with the appropriate Rhizobium strain if wing pea has not been grown in the field before. The distinctive winged stems form a low, interlocking canopy that suppresses winter weeds effectively. Allow the stand to fix nitrogen through the winter and terminate in spring before full seed set. Wing pea performs best where drainage is good; avoid waterlogged or heavy clay soils.",
+    "sources": [
+      "Sustainable Agriculture Research and Education (SARE)",
+      "USDA PLANTS Database",
+      "University of California Cooperative Extension"
+    ]
+  },
+  {
+    "slug": "hairy-vetch-villosa",
+    "common_name": "Hairy Vetch",
+    "scientific_name": "Vicia villosa subsp. villosa",
+    "category": "cover-crop",
+    "subcategory": "legume",
+    "days_to_germination": {"min": 5, "max": 10},
+    "germination_soil_temp_f": {"min": 40, "max": 70},
+    "days_to_maturity": {"min": 120, "max": 180},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {"min": 2, "max": 10},
+      "note": "Drill or broadcast 4-6 weeks before the first killing frost to allow establishment before winter dormancy. Frequently seeded with a cereal rye companion to provide a trellis for the vining stems."
+    },
+    "usda_zones": {"min": 3, "max": 9},
+    "spacing_in": {"min": 2, "max": 4},
+    "height_in": {"min": 36, "max": 72},
+    "spread_in": {"min": 12, "max": 24},
+    "sun": "full",
+    "water": "low",
+    "directions": "Sow at 30-40 lbs per acre when grown alone, or 15-20 lbs per acre when mixed with a cereal rye companion, drilling seed 1-1.5 inches deep. Hairy vetch overwinters and resumes rapid growth in spring, producing a dense mat of biomass that can fix 80-200 lbs of nitrogen per acre by termination. Roll-crimp or mow the stand at 50% bloom in spring to create a thick weed-suppressing mulch for no-till cash crop transplanting or direct seeding. Manage carefully and terminate before seed set to prevent the plant from becoming a persistent weed in subsequent crops.",
+    "sources": [
+      "USDA Natural Resources Conservation Service",
+      "Sustainable Agriculture Research and Education (SARE)",
+      "NC State Extension"
+    ]
+  },
+  {
+    "slug": "hungarian-vetch",
+    "common_name": "Hungarian Vetch / Pannonian Vetch",
+    "scientific_name": "Vicia pannonica",
+    "category": "cover-crop",
+    "subcategory": "legume",
+    "days_to_germination": {"min": 5, "max": 10},
+    "germination_soil_temp_f": {"min": 40, "max": 68},
+    "days_to_maturity": {"min": 120, "max": 180},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {"min": 2, "max": 10},
+      "note": "Drill in early to mid-fall on alkaline or calcareous soils where hairy vetch may underperform. Inoculate seed with the appropriate pea-vetch Rhizobium group before sowing."
+    },
+    "usda_zones": {"min": 4, "max": 9},
+    "spacing_in": {"min": 2, "max": 4},
+    "height_in": {"min": 24, "max": 48},
+    "spread_in": {"min": 8, "max": 16},
+    "sun": "full",
+    "water": "low",
+    "directions": "Drill seed 1-2 inches deep in early fall at 30-50 lbs per acre, applying a pea-vetch inoculant to ensure effective nitrogen fixation on soils with no prior vetch history. Hungarian vetch is particularly well suited to the alkaline, high-pH soils of continental European-style climates and performs reliably under conditions that limit other vetches. Terminate the stand in spring by mowing or incorporation before seed set to maximize nitrogen credit to the following crop. The pale pink to white flowers attract early-season pollinators before the crop is turned in.",
+    "sources": [
+      "Sustainable Agriculture Research and Education (SARE)",
+      "USDA PLANTS Database",
+      "University of California Cooperative Extension"
+    ]
+  },
+  {
+    "slug": "woollypod-vetch",
+    "common_name": "Woollypod Vetch / Lana Vetch",
+    "scientific_name": "Vicia dasycarpa",
+    "category": "cover-crop",
+    "subcategory": "legume",
+    "days_to_germination": {"min": 5, "max": 10},
+    "germination_soil_temp_f": {"min": 40, "max": 68},
+    "days_to_maturity": {"min": 120, "max": 180},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {"min": 2, "max": 10},
+      "note": "Broadcast or drill in early fall beneath orchards or vineyards, or into stubble after summer harvest. Widely adapted to California's Central Valley and coastal valleys as a low-input winter cover."
+    },
+    "usda_zones": {"min": 6, "max": 10},
+    "spacing_in": {"min": 2, "max": 4},
+    "height_in": {"min": 24, "max": 48},
+    "spread_in": {"min": 8, "max": 16},
+    "sun": "full",
+    "water": "low",
+    "directions": "Sow at 30-50 lbs per acre by broadcasting into a rough seedbed or drilling 1-1.5 inches deep in early fall, inoculating seed with a pea-vetch Rhizobium strain for maximum nitrogen fixation. Woollypod vetch establishes a thick, vining canopy over winter that outcompetes annual weeds and protects bare soil from erosion in California's rainy season. Mow or roll the stand in spring at early to full bloom to release fixed nitrogen and create a surface mulch that conserves moisture ahead of summer crops. This species handles dry spells better than hairy vetch, making it a reliable choice for drier dryland and low-rainfall irrigated systems.",
+    "sources": [
+      "University of California Cooperative Extension",
+      "USDA PLANTS Database",
+      "Sustainable Agriculture Research and Education (SARE)"
+    ]
+  }
+]

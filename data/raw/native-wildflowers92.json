@@ -1,0 +1,157 @@
+[
+  {
+    "slug": "campanula-divaricata",
+    "common_name": "Appalachian Bellflower",
+    "scientific_name": "Campanula divaricata",
+    "category": "flower",
+    "subcategory": "native shade perennial",
+    "days_to_germination": { "min": 14, "max": 28 },
+    "germination_soil_temp_f": { "min": 55, "max": 70 },
+    "days_to_maturity": { "min": 90, "max": 180 },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": { "min": 0, "max": 4 },
+      "note": "Direct sow or transplant in spring into moist, rocky, slightly acidic soil in a partial-shade woodland setting; firm seed lightly into surface as light aids germination."
+    },
+    "usda_zones": { "min": 4, "max": 8 },
+    "spacing_in": { "min": 12, "max": 18 },
+    "height_in": { "min": 18, "max": 36 },
+    "spread_in": { "min": 12, "max": 24 },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Campanula divaricata is a delicate native bellflower of the Appalachian Mountains and upper Piedmont, producing airy, branching stems covered in tiny (1/3-inch), nodding, pale lavender-blue bells from July through September that are excellent for long-season color in shaded rock gardens. It grows in moist to dry rocky woodland slopes and cliff bases in slightly acidic soil. Bees and butterflies work the flowers for nectar. Self-seeds moderately without becoming invasive; combine with ferns, coral bells, and native gingers for a layered shade garden.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "North Carolina State Extension",
+      "Missouri Botanical Garden Plant Finder"
+    ]
+  },
+  {
+    "slug": "trillium-catesbaei",
+    "common_name": "Catesby's Trillium (Rosy Trillium)",
+    "scientific_name": "Trillium catesbaei",
+    "category": "flower",
+    "subcategory": "native shade perennial",
+    "days_to_germination": { "min": 365, "max": 730 },
+    "germination_soil_temp_f": { "min": 40, "max": 55 },
+    "days_to_maturity": { "min": 1825, "max": 2555 },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": { "min": -4, "max": -2 },
+      "note": "Plant nursery-propagated rhizome divisions in fall, setting them 2–3 inches deep in moist, humus-rich, slightly acidic, well-drained woodland soil in full shade before hard frost."
+    },
+    "usda_zones": { "min": 5, "max": 9 },
+    "spacing_in": { "min": 9, "max": 12 },
+    "height_in": { "min": 12, "max": 18 },
+    "spread_in": { "min": 9, "max": 12 },
+    "sun": "shade",
+    "water": "moderate",
+    "directions": "Trillium catesbaei is a distinctive southeastern native trillium that sets itself apart from the upright-flowered species by bearing a single, nodding, pink to rose-red flower with strongly recurved petals beneath the three-leaved whorl in April and May, giving it an unusually graceful, pendant appearance. It grows naturally in moist, humus-rich, slightly acidic, well-drained woodland soils in the Piedmont and mountain foothills from North Carolina and Georgia to Alabama, tolerating the warmer zone 8–9 summers better than most northern trilliums. Purchase only nursery-propagated divisions — wild populations are declining due to habitat loss and poaching. Pairs beautifully with ferns, wild ginger, and bloodroot in a shaded native garden.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "North Carolina State Extension",
+      "University of Georgia Extension"
+    ]
+  },
+  {
+    "slug": "silene-stellata",
+    "common_name": "Starry Campion",
+    "scientific_name": "Silene stellata",
+    "category": "flower",
+    "subcategory": "native shade perennial",
+    "days_to_germination": { "min": 14, "max": 28 },
+    "germination_soil_temp_f": { "min": 55, "max": 70 },
+    "days_to_maturity": { "min": 90, "max": 180 },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": { "min": 0, "max": 4 },
+      "note": "Direct sow in fall into dry to moist rocky woodland soil; cold stratification over winter triggers spring germination — do not cover seed as light improves germination rates."
+    },
+    "usda_zones": { "min": 4, "max": 8 },
+    "spacing_in": { "min": 12, "max": 18 },
+    "height_in": { "min": 24, "max": 36 },
+    "spread_in": { "min": 12, "max": 18 },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Silene stellata is an elegant native woodland campion of eastern North America, producing whorled, lance-shaped foliage on tall, slender stems and loose panicles of small but intricate, pure-white flowers with five deeply fringed petals in late summer — July through September — that look lacy and star-like even at close range. It grows naturally in dry to moist, rocky, slightly acidic to neutral woodland slopes and open forest understories and is one of the few native wildflowers that blooms reliably in late summer in partial shade. Hummingbirds visit the flowers, and the seeds ripen in ornamental, inflated capsules. Direct sow in fall for spring germination, or transplant divisions in early spring.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "Missouri Botanical Garden Plant Finder",
+      "North Carolina State Extension"
+    ]
+  },
+  {
+    "slug": "stenanthium-gramineum",
+    "common_name": "Featherbells (Eastern Featherbells)",
+    "scientific_name": "Stenanthium gramineum",
+    "category": "flower",
+    "subcategory": "native shade perennial",
+    "days_to_germination": { "min": 30, "max": 90 },
+    "germination_soil_temp_f": { "min": 55, "max": 70 },
+    "days_to_maturity": { "min": 730, "max": 1095 },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": { "min": -4, "max": -2 },
+      "note": "Plant bulbs or corms in fall 2–3 inches deep in moist, humus-rich, slightly acidic to acidic soil in partial shade to full sun; situate in a woodland margin or meadow edge with consistent moisture."
+    },
+    "usda_zones": { "min": 5, "max": 9 },
+    "spacing_in": { "min": 12, "max": 18 },
+    "height_in": { "min": 36, "max": 72 },
+    "spread_in": { "min": 12, "max": 18 },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Stenanthium gramineum is a striking native bulbous perennial of the eastern United States and Appalachian foothills, producing a basal clump of long, grass-like, channeled leaves and an impressive flowering stem 3–6 feet tall topped with a dramatic, loose, feathery panicle of hundreds of tiny white to greenish-white or purplish-tinged star-shaped flowers from July through September — one of the tallest and most dramatic native wildflowers for moist shade gardens. It occurs naturally in moist, humus-rich, slightly acidic to acidic soils in open woods, meadow margins, and along stream banks in partial shade to full sun; plant bulbs in fall 2–3 inches deep. The tall flower spikes sway gracefully in summer breezes and provide important late-season nectar for pollinators including native bees and butterflies. All parts of the plant are toxic if ingested.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "Missouri Botanical Garden Plant Finder",
+      "North Carolina State Extension"
+    ]
+  },
+  {
+    "slug": "platanthera-cristata",
+    "common_name": "Crested Yellow Orchid",
+    "scientific_name": "Platanthera cristata",
+    "category": "flower",
+    "subcategory": "native wetland orchid",
+    "days_to_germination": { "min": 365, "max": 730 },
+    "germination_soil_temp_f": { "min": 55, "max": 70 },
+    "days_to_maturity": { "min": 730, "max": 1825 },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": { "min": 0, "max": 4 },
+      "note": "Plant nursery-propagated tubers in spring into moist to wet, acidic, peaty or sandy soil in partial shade; never collect plants from the wild — source only from reputable native plant nurseries with documented propagation."
+    },
+    "usda_zones": { "min": 5, "max": 9 },
+    "spacing_in": { "min": 6, "max": 12 },
+    "height_in": { "min": 12, "max": 24 },
+    "spread_in": { "min": 6, "max": 12 },
+    "sun": "partial",
+    "water": "high",
+    "directions": "Platanthera cristata is a beautiful and increasingly rare native terrestrial orchid of eastern and southeastern North America, producing a dense spike of brilliant orange-yellow flowers with elaborately fringed lips in July and August that rival any tropical orchid in intricacy and are among the most vivid of all native wildflowers. It grows in moist to wet, acidic, peaty or sandy soils in open bogs, pine savannas, wet meadows, and seepage slopes in partial shade, particularly in Atlantic and Gulf Coastal Plain communities. Never collect plants from the wild — purchase only nursery-propagated stock from reputable native plant nurseries; the plant requires specific mycorrhizal fungi to thrive and resents root disturbance. An extraordinary addition to a native bog garden or rain garden with consistently high soil moisture.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "North Carolina State Extension",
+      "USDA PLANTS Database"
+    ]
+  }
+]

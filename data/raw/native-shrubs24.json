@@ -1,0 +1,188 @@
+[
+  {
+    "slug": "alder-buckthorn-native",
+    "common_name": "Alder-leaved Buckthorn",
+    "scientific_name": "Rhamnus alnifolia",
+    "category": "flower",
+    "subcategory": "native deciduous shrub",
+    "days_to_germination": {"min": 30, "max": 90},
+    "germination_soil_temp_f": {"min": 40, "max": 60},
+    "days_to_maturity": {"min": 1095, "max": 2190},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Plant in spring once ground is workable. Best established in consistently moist to wet soil; boggy sites are ideal. This dioecious shrub requires both male and female plants for berry production."
+    },
+    "usda_zones": {"min": 2, "max": 6},
+    "spacing_in": {"min": 36, "max": 60},
+    "height_in": {"min": 24, "max": 48},
+    "spread_in": {"min": 24, "max": 48},
+    "sun": "partial",
+    "water": "high",
+    "directions": "Plant in partial shade in reliably moist to boggy soil, mimicking its natural habitat along streambanks and in swampy woods. Dig a hole at least twice the width of the root ball and amend heavy clay with organic matter to improve moisture retention. Water deeply and consistently through the first two growing seasons to establish a strong root system. Berries attract birds in fall; plant at least one male and one female for fruit set.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "USDA PLANTS Database",
+      "Native Plant Trust"
+    ]
+  },
+  {
+    "slug": "spiny-redberry",
+    "common_name": "Spiny Redberry / Redberry Buckthorn",
+    "scientific_name": "Rhamnus crocea",
+    "category": "flower",
+    "subcategory": "native evergreen shrub",
+    "days_to_germination": {"min": 30, "max": 90},
+    "germination_soil_temp_f": {"min": 50, "max": 65},
+    "days_to_maturity": {"min": 1095, "max": 2190},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Plant in spring in well-drained, rocky, or sandy soil in full sun. Suited to California and mild coastal climates; protect from hard freezes. Once established, this shrub thrives on neglect and minimal water."
+    },
+    "usda_zones": {"min": 8, "max": 10},
+    "spacing_in": {"min": 36, "max": 72},
+    "height_in": {"min": 36, "max": 96},
+    "spread_in": {"min": 36, "max": 72},
+    "sun": "full",
+    "water": "low",
+    "directions": "Choose a sunny site with fast-draining, lean soil — rich or moist soils encourage weak growth and root rot in this chaparral native. Propagate from semi-hardwood cuttings taken in late summer, or transplant nursery-grown starts in spring. Water only to establish during the first season, then reduce to occasional deep irrigation in summer. The spiny branches form an effective barrier hedge while the bright red berries draw birds throughout fall and winter.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "USDA PLANTS Database",
+      "Calflora"
+    ]
+  },
+  {
+    "slug": "california-coffeeberry-rhamnus",
+    "common_name": "California Coffeeberry",
+    "scientific_name": "Rhamnus californica",
+    "category": "flower",
+    "subcategory": "native evergreen shrub",
+    "days_to_germination": {"min": 30, "max": 90},
+    "germination_soil_temp_f": {"min": 50, "max": 65},
+    "days_to_maturity": {"min": 1095, "max": 2190},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Plant in spring or fall in California's mild climate. Adaptable from coastal fog to dry inland slopes; performs best with a summer dry period once established. Avoid sites with prolonged hard freezes."
+    },
+    "usda_zones": {"min": 7, "max": 10},
+    "spacing_in": {"min": 48, "max": 96},
+    "height_in": {"min": 36, "max": 144},
+    "spread_in": {"min": 48, "max": 96},
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant in well-drained soil in full sun to light shade; this adaptable shrub tolerates clay, sand, and loam equally well once established. Water regularly for the first two summers to help roots reach deep moisture, then taper to infrequent irrigation or rely on winter rainfall alone. The berries ripen from green through red to near-black, providing a long season of color and food for birds. Lightly tip-prune after fruiting to maintain a tidy shape if desired, or allow to grow into a large screening shrub.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "USDA PLANTS Database",
+      "Calflora"
+    ]
+  },
+  {
+    "slug": "inland-ceanothus",
+    "common_name": "Inland Ceanothus / Prairie Redroot",
+    "scientific_name": "Ceanothus ovatus",
+    "category": "flower",
+    "subcategory": "native deciduous shrub",
+    "days_to_germination": {"min": 14, "max": 30},
+    "germination_soil_temp_f": {"min": 55, "max": 70},
+    "days_to_maturity": {"min": 730, "max": 1825},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Plant in spring after frost danger has passed. Requires sharp drainage and full sun; does not tolerate wet or poorly drained soils. Avoid transplanting once established, as this shrub develops a deep, fleshy taproot."
+    },
+    "usda_zones": {"min": 3, "max": 8},
+    "spacing_in": {"min": 36, "max": 60},
+    "height_in": {"min": 24, "max": 48},
+    "spread_in": {"min": 36, "max": 60},
+    "sun": "full",
+    "water": "low",
+    "directions": "Select a dry, rocky, or sandy site in full sun with excellent drainage — this prairie native will not persist in heavy or consistently moist soil. Scarify seeds with sandpaper and cold-stratify for 60 days before sowing, or propagate from softwood cuttings in early summer. Once established, this nitrogen-fixing shrub improves soil and needs little supplemental water. Clusters of small white flowers in late spring attract native bees and butterflies, making it a valuable addition to a wildlife garden.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "USDA PLANTS Database",
+      "Missouri Botanical Garden Plant Finder"
+    ]
+  },
+  {
+    "slug": "swamp-privet",
+    "common_name": "Swamp Privet",
+    "scientific_name": "Forestiera ligustrina",
+    "category": "flower",
+    "subcategory": "native deciduous shrub",
+    "days_to_germination": {"min": 21, "max": 60},
+    "germination_soil_temp_f": {"min": 50, "max": 65},
+    "days_to_maturity": {"min": 730, "max": 1825},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Plant in spring in a wide range of soil types, from rocky calcareous slopes to periodically wet areas. Tolerant of both drought and temporary flooding once established. Excellent for naturalized screens, hedges, or riparian buffer plantings."
+    },
+    "usda_zones": {"min": 5, "max": 9},
+    "spacing_in": {"min": 48, "max": 72},
+    "height_in": {"min": 48, "max": 96},
+    "spread_in": {"min": 48, "max": 72},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in full sun to partial shade in average to moist, well-drained soil; this tough southeastern native is unusually tolerant of both wet and dry periods. Propagate from hardwood or semi-softwood cuttings, or cold-stratify fresh seed for 60 to 90 days before sowing indoors. Water regularly during the establishment season, then reduce irrigation as roots develop — established plants handle short dry spells well. Small, olive-like fruits ripen in summer and are quickly consumed by songbirds, thrushes, and other wildlife.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "USDA PLANTS Database",
+      "North Carolina Extension Gardener Plant Toolbox"
+    ]
+  },
+  {
+    "slug": "desert-olive",
+    "common_name": "Desert Olive / Stretchberry",
+    "scientific_name": "Forestiera pubescens",
+    "category": "flower",
+    "subcategory": "native deciduous shrub",
+    "days_to_germination": {"min": 21, "max": 60},
+    "germination_soil_temp_f": {"min": 55, "max": 70},
+    "days_to_maturity": {"min": 730, "max": 1825},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Plant in spring in well-drained, alkaline-tolerant soil in full sun. Thrives in heat, drought, and rocky or caliche-heavy soils common to the desert Southwest. Little supplemental irrigation is needed once established."
+    },
+    "usda_zones": {"min": 7, "max": 10},
+    "spacing_in": {"min": 48, "max": 96},
+    "height_in": {"min": 48, "max": 144},
+    "spread_in": {"min": 48, "max": 96},
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant in a sunny, open location with fast-draining soil; this desert-adapted shrub excels in rocky, alkaline, or caliche-laden ground where many plants fail. Propagate from semi-hardwood cuttings taken in midsummer, or cold-stratify seed for 30 to 60 days before sowing in spring. Water to establish during the first growing season, then transition to deep, infrequent irrigation or rely entirely on natural rainfall. Dense branching provides cover and nesting habitat, and the dark blue-black fruits ripen in summer, attracting a wide range of bird species.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "USDA PLANTS Database",
+      "Texas A&M AgriLife Extension"
+    ]
+  }
+]
