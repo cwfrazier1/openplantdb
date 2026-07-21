@@ -1,0 +1,157 @@
+[
+  {
+    "slug": "lollo-rosso-lettuce",
+    "common_name": "Lollo Rosso Lettuce (Italian Ruffled Red Loose-Leaf Lettuce)",
+    "scientific_name": "Lactuca sativa 'Lollo Rosso'",
+    "category": "vegetable",
+    "subcategory": "lettuce",
+    "days_to_germination": {"min": 4, "max": 7},
+    "germination_soil_temp_f": {"min": 45, "max": 65},
+    "days_to_maturity": {"min": 55, "max": 65},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {"min": -12, "max": -8},
+      "note": "Direct sow thinly and barely cover with fine soil (lettuce needs light for germination); Lollo Rosso is best grown as a cut-and-come-again crop, harvesting outer leaves from 40 days onward or cutting the whole plant at 55–65 days when full size. In zone 9, sow September through November for fall and winter harvest, and again February through March for spring. Lollo Rosso performs best in cool weather (50–70°F) and tends to bolt quickly in summer heat."
+    },
+    "usda_zones": {"min": 2, "max": 10},
+    "spacing_in": {"min": 6, "max": 10},
+    "height_in": {"min": 8, "max": 12},
+    "spread_in": {"min": 6, "max": 10},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Sow seeds on the surface of moist, fertile, well-drained soil or cover with 0.125 inch of fine soil; keep moist until germination. Lollo Rosso is the defining Italian loose-leaf lettuce — a variety whose intensely frilled, ruffled, deeply cut leaf margins and vibrant crimson-red to dark wine-red coloring at the leaf tips (fading through red-purple to green at the base) have made it the visual centerpiece of European mixed salad culture and one of the most recognizable lettuce varieties in the world. The name means 'red curly' in Italian, describing both the color and the extraordinarily frilled leaf margin that distinguishes Lollo Rosso from all other common loose-leaf types. The frilling is dramatic and consistent — the leaf margins curl so tightly that they create a lace-like appearance when the lettuce is displayed whole, making Lollo Rosso not only a component of salads but a visual garnish in its own right. The flavor is mildly bitter in the Italian leaf lettuce tradition — more complex and interesting than bland American loose-leaf types but not unpleasantly so — and pairs well with vinaigrette-dressed salads where the slight bitterness provides welcome contrast. Lollo Rosso is the standard accompaniment to Italian prosciutto and melon, appears in mixed salad bags throughout Europe as the red accent component, and is excellent alone dressed simply with olive oil and sea salt.",
+    "sources": [
+      "Fedco Seeds — Lollo Rosso variety notes",
+      "Johnny's Selected Seeds — Italian lettuce variety comparison",
+      "Cornell Cooperative Extension — Lettuce Variety Evaluation"
+    ]
+  },
+  {
+    "slug": "lollo-bionda-lettuce",
+    "common_name": "Lollo Bionda Lettuce (Italian Ruffled Green Loose-Leaf Lettuce)",
+    "scientific_name": "Lactuca sativa 'Lollo Bionda'",
+    "category": "vegetable",
+    "subcategory": "lettuce",
+    "days_to_germination": {"min": 4, "max": 7},
+    "germination_soil_temp_f": {"min": 45, "max": 65},
+    "days_to_maturity": {"min": 55, "max": 65},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {"min": -12, "max": -8},
+      "note": "Direct sow thinly with minimal soil coverage; grow as cut-and-come-again from 40 days or harvest whole heads at 55–65 days. Often grown alongside Lollo Rosso for visual contrast in mixed salad plantings. In zone 9, sow September–November for fall/winter production and February–March for spring. Performs best in cool weather and does not tolerate summer heat."
+    },
+    "usda_zones": {"min": 2, "max": 10},
+    "spacing_in": {"min": 6, "max": 10},
+    "height_in": {"min": 8, "max": 12},
+    "spread_in": {"min": 6, "max": 10},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Sow seeds on the surface of moist, fertile, well-drained soil or barely cover with 0.125 inch of fine soil; maintain consistent moisture through germination. Lollo Bionda (Italian for 'blonde curly') is the green counterpart to Lollo Rosso — sharing the identical intensely frilled, ruffled leaf margin and open loose-leaf habit but expressing uniformly bright chartreuse-green to golden-green coloring throughout rather than the Rosso type's red pigmentation. The two varieties are frequently grown together in alternating rows or blocks, where the intense green-and-crimson contrast creates a visually striking planting that is both ornamental and practical. Mixed bags of Lollo Bionda and Lollo Rosso leaves form the foundation of the Italian insalata mista tradition. Like Lollo Rosso, Lollo Bionda has a mildly bitter, distinctly Italian loose-leaf character — more complex and interesting than flat-leafed American loose-leaf types — and the same extremely frilled, ruffled texture that gives the leaves visual and textural interest in salads. Lollo Bionda is somewhat more heat-tolerant than Lollo Rosso in some trials, extending the spring salad season by 1–2 weeks before bolting. Both Lollo types are excellent for cut-and-come-again harvesting, where the plant continues producing from the center after outer leaves are removed, providing multiple harvests from a single planting.",
+    "sources": [
+      "Fedco Seeds — Lollo Bionda variety notes",
+      "Johnny's Selected Seeds — Italian lettuce variety comparison",
+      "Organic Seed Alliance — Lettuce Diversity Collection"
+    ]
+  },
+  {
+    "slug": "aunt-mollys-ground-cherry",
+    "common_name": "Aunt Molly's Ground Cherry (Polish Heirloom Sweet Ground Cherry)",
+    "scientific_name": "Physalis pruinosa 'Aunt Molly's'",
+    "category": "vegetable",
+    "subcategory": "tomato",
+    "days_to_germination": {"min": 10, "max": 21},
+    "germination_soil_temp_f": {"min": 70, "max": 85},
+    "days_to_maturity": {"min": 70, "max": 80},
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": -8, "max": -6},
+      "note": "Start indoors 6–8 weeks before transplanting after last frost; ground cherries require the same warm-season growing conditions as tomatoes and peppers. In zone 9, transplant March–April for summer and fall harvest. Ground cherry plants are sprawling (2–3 feet wide, often falling over) and benefit from a low cage or support; harvest when the papery husk has dried and turned tan-brown and the fruit falls easily from the plant — dropped fruits continue to ripen on the ground."
+    },
+    "usda_zones": {"min": 4, "max": 11},
+    "spacing_in": {"min": 24, "max": 36},
+    "height_in": {"min": 18, "max": 30},
+    "spread_in": {"min": 24, "max": 36},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Start seeds indoors 6–8 weeks before transplanting at 70–80°F; transplant to full sun after last frost. Harvest fruits when the papery husk has yellowed and dried and the fruit separates easily from the plant, or simply collect fallen fruits daily. Aunt Molly's Ground Cherry is a Polish heirloom physalis variety with a stronger reputation for exceptional flavor than most ground cherry varieties — the small (0.5–0.75 inch), golden-yellow fruits enclosed in papery tan-brown husks have a distinctive tropical-sweet flavor that combines vanilla, pineapple, and butterscotch notes in a profile that many tasters describe as unlike any other common fruit. The flavor is particularly remarkable compared to the more bland commercial ground cherry types that appear in stores — Aunt Molly's has a fuller, more complex sweetness and a higher sugar content that makes it addictive fresh. Ground cherries have been enjoyed in Poland and Eastern Europe for generations in preserves, pies, and jam, where the tropical-sweet flavor translates beautifully into cooked preparations. The plants are extremely productive — a single plant can yield hundreds of fruits over a long summer season — and once established, ground cherries often self-seed for subsequent seasons. Fresh ground cherries are excellent on their own as a snack, in fruit salads, made into jam or fruit butter, or incorporated into salsa verde (they are closely related to tomatillos). One of the most underappreciated garden fruits available to American gardeners.",
+    "sources": [
+      "Seed Savers Exchange — Aunt Molly's Ground Cherry variety history",
+      "Baker Creek Heirloom Seeds — Ground cherry collection",
+      "Polish heirloom seed catalogues (historical documentation)"
+    ]
+  },
+  {
+    "slug": "cimarron-lettuce",
+    "common_name": "Cimarron Lettuce (Heat-Tolerant Bronze-Red Romaine Lettuce)",
+    "scientific_name": "Lactuca sativa 'Cimarron'",
+    "category": "vegetable",
+    "subcategory": "lettuce",
+    "days_to_germination": {"min": 4, "max": 7},
+    "germination_soil_temp_f": {"min": 45, "max": 65},
+    "days_to_maturity": {"min": 55, "max": 65},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {"min": -12, "max": -8},
+      "note": "Direct sow thinly with 0.125 inch soil coverage; thin to 8–12 inches for full-sized heads or 4–6 inches for small heads. In zone 9, sow September–November for fall and winter harvest, February–March for spring. Cimarron shows notably better heat tolerance than standard romaine varieties, making it suitable for late spring production in the Gulf South when other lettuces have bolted — a practical advantage for extending the spring lettuce season by 2–3 weeks."
+    },
+    "usda_zones": {"min": 2, "max": 10},
+    "spacing_in": {"min": 8, "max": 12},
+    "height_in": {"min": 10, "max": 16},
+    "spread_in": {"min": 6, "max": 10},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Direct sow seeds 0.125 inch deep in moist, fertile, well-drained soil; thin to 8–12 inches for full-sized heads. Cimarron is a heat-tolerant romaine-type (cos) lettuce with beautiful bronze-red outer leaves that fade to green-red at the interior — a coloring that is visually distinctive from standard green romaine types while maintaining the characteristic romaine form: tall, upright, with a slightly folded, elongated head and the crisp, crunchy mid-rib texture that makes romaine the preferred lettuce for Caesar salad. The red pigmentation in Cimarron is not as deep or uniform as fully red romaines, but the attractive mottled bronze-red appearance combined with the green interior gives a bicolor effect that is especially attractive when heads are cut crosswise to reveal the color contrast. Cimarron's standout characteristic is its heat tolerance — while standard romaine types bolt (send up a seed stalk and become bitter) at sustained temperatures above 75–80°F, Cimarron holds its quality better at higher temperatures, extending the productive window by 2–3 weeks in warm spring conditions. This heat tolerance makes Cimarron particularly valuable in zone 8–10 gardens where spring temperatures rise quickly and the window for lettuce production is narrow. Named for the Cimarron Territory of the historic Southwest.",
+    "sources": [
+      "Johnny's Selected Seeds — Cimarron lettuce variety notes",
+      "High Mowing Organic Seeds — Romaine lettuce variety comparison",
+      "University of Georgia Cooperative Extension — Lettuce Production Guide"
+    ]
+  },
+  {
+    "slug": "tom-thumb-lettuce",
+    "common_name": "Tom Thumb Lettuce (Miniature Heirloom Butterhead Lettuce)",
+    "scientific_name": "Lactuca sativa 'Tom Thumb'",
+    "category": "vegetable",
+    "subcategory": "lettuce",
+    "days_to_germination": {"min": 4, "max": 7},
+    "germination_soil_temp_f": {"min": 45, "max": 65},
+    "days_to_maturity": {"min": 55, "max": 65},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {"min": -12, "max": -8},
+      "note": "Direct sow thinly with barely 0.125 inch of soil coverage; Tom Thumb forms very small heads (3–4 inches in diameter) that can be planted at much closer spacing than standard lettuce — 6 inches apart rather than the 10–12 inches standard butterheads require. The small head size allows one head per person per serving, making it practical for restaurant-style presentation. In zone 9, sow September–November for fall and winter harvest."
+    },
+    "usda_zones": {"min": 2, "max": 10},
+    "spacing_in": {"min": 4, "max": 6},
+    "height_in": {"min": 4, "max": 6},
+    "spread_in": {"min": 4, "max": 6},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Direct sow seeds on the surface of moist, fertile soil with barely 0.125 inch coverage; keep consistently moist through germination. Tom Thumb is an English heirloom butterhead lettuce that produces perfectly proportioned miniature heads — fully formed, well-blanched butterhead-type lettuce compressed into a head 3–4 inches in diameter and 4–6 inches tall at maturity, roughly one-quarter the size of a standard butterhead like Buttercrunch or Boston. The miniature scale is not a compromised or immature form of standard lettuce; Tom Thumb is a true miniature variety that completes its growth cycle and forms a proper, compact head with the characteristic blanched, cream-colored inner leaves and tender, buttery texture of butterhead types. The small head size makes Tom Thumb exceptionally practical in multiple ways: it can be spaced 6 inches apart rather than 10–12 inches, fitting significantly more plants in a given area; it produces one serving per head, eliminating the common problem of leftover half-heads wilting in the refrigerator; and it is particularly suited to container growing, window boxes, and very small raised beds where a full-sized lettuce would be overwhelming. Tom Thumb has been grown in English kitchen gardens since at least the 19th century and represents the miniaturization approach to vegetable breeding that has recently become popular again in urban and space-limited gardening.",
+    "sources": [
+      "Seed Savers Exchange — Tom Thumb lettuce variety history",
+      "Baker Creek Heirloom Seeds — Heirloom lettuce collection",
+      "Royal Horticultural Society — Lettuce variety guide"
+    ]
+  }
+]

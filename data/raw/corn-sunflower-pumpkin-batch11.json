@@ -1,0 +1,157 @@
+[
+  {
+    "slug": "early-sunglow-sweet-corn",
+    "common_name": "Early Sunglow Sweet Corn (Ultra-Early Yellow Short-Vine Corn)",
+    "scientific_name": "Zea mays 'Early Sunglow'",
+    "category": "vegetable",
+    "subcategory": "sweet corn",
+    "days_to_germination": {"min": 7, "max": 14},
+    "germination_soil_temp_f": {"min": 55, "max": 95},
+    "days_to_maturity": {"min": 62, "max": 68},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Direct sow in blocks of at least 4 rows wide for wind pollination; Early Sunglow germinates in cooler soils than most hybrid sweet corn (as low as 55°F), allowing it to be planted 1–2 weeks before standard hybrids in spring. The short (4–4.5 foot) stalks and compact habit make Early Sunglow suitable for smaller garden spaces. In zone 9, plant February–March for a May harvest as one of the first corn varieties of the season."
+    },
+    "usda_zones": {"min": 3, "max": 11},
+    "spacing_in": {"min": 8, "max": 12},
+    "height_in": {"min": 48, "max": 60},
+    "spread_in": {"min": 10, "max": 14},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Direct sow seeds 1 inch deep in full sun in blocks of at least 4 rows; fertilize at planting and side-dress with nitrogen when plants reach knee height. Early Sunglow is the gold standard of early-maturing sweet corn for home gardeners who want corn on the table as soon as possible in the season — a yellow su (standard sugary) hybrid that ripens in just 62–68 days from planting, providing corn approximately 3–4 weeks before mid-season varieties like Silver Queen. The compact (4–4.5 foot) stalks are one of Early Sunglow's most practical attributes for home gardens: shorter plants are less susceptible to lodging in wind or storms and fit better in smaller garden plots where standard 6–7 foot corn would be too tall. Early Sunglow's germination in cooler soils (down to about 55°F) also allows planting 1–2 weeks earlier in spring before soils warm fully, extending the effective growing season at the front end. The ears are smaller than mid-season varieties (6–7 inches, 12–14 rows) but are well-filled with tender, sweet, yellow kernels with the classic su corn flavor — pleasantly sweet without the overwhelming intensity of sh2 supersweet types. For gardeners in zones 4–6 with short seasons, Early Sunglow may be the only way to reliably produce sweet corn before fall frosts; in zones 7–10, it provides the season's earliest fresh corn while later varieties are still maturing.",
+    "sources": [
+      "Stokes Seeds — Early Sunglow sweet corn variety description",
+      "University of Minnesota Extension — Early Sweet Corn Variety Recommendations",
+      "Johnny's Selected Seeds — Sweet Corn Maturity Comparison Chart"
+    ]
+  },
+  {
+    "slug": "honey-select-sweet-corn",
+    "common_name": "Honey Select Sweet Corn (AAS-Winning Bicolor Synergistic Corn)",
+    "scientific_name": "Zea mays 'Honey Select'",
+    "category": "vegetable",
+    "subcategory": "sweet corn",
+    "days_to_germination": {"min": 7, "max": 14},
+    "germination_soil_temp_f": {"min": 65, "max": 95},
+    "days_to_maturity": {"min": 78, "max": 84},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 2, "max": 4},
+      "note": "Direct sow in blocks of at least 4 rows for wind pollination; Honey Select is a synergistic (sy) type combining sh2 and su kernels on the same ear — it does not need isolation from su/se types but should be isolated from other sh2 varieties by 250 feet or staggered planting dates. Soil should be 65°F minimum for reliable germination. In zone 9, plant March–April for June–July harvest or in August–September for a fall harvest."
+    },
+    "usda_zones": {"min": 3, "max": 11},
+    "spacing_in": {"min": 9, "max": 12},
+    "height_in": {"min": 72, "max": 84},
+    "spread_in": {"min": 12, "max": 18},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Direct sow seeds 1 inch deep in full sun in blocks of at least 4 rows; fertilize at planting and side-dress at knee height with nitrogen. Honey Select is a 1999 All-America Selections-winning bicolor sweet corn from Rogers Brothers/Syngenta that represents one of the most successful expressions of synergistic (sy or triplesweet) sweet corn genetics — a breeding system that places approximately 75% supersweet (sh2) kernels and 25% standard su kernels randomly across each ear, creating a flavor profile that integrates the long-lasting sweetness and slow starch conversion of sh2 types with the richer, more complex corn flavor that su kernels contribute. The resulting flavor is considered by many tasters to be more balanced, complete, and authentically corn-flavored than pure sh2 types (which can be very sweet but thin in traditional corn character) while retaining the extended harvest window advantage of sh2 genetics. The bicolor (yellow and white) ears are large (8–8.5 inches, 16 rows), well-filled, and visually attractive; the synergistic type's mixed kernel genetics produce slightly irregular but appealing ear fill. Honey Select has been a top-selling sweet corn variety since its release and remains one of the most consistent performers in home garden and market garden trials, with good disease resistance including tolerance to Stewart's wilt, NCLB, and SCLB. An outstanding all-around bicolor corn for any climate where premium flavor and extended postharvest quality are priorities.",
+    "sources": [
+      "All-America Selections — Honey Select AAS winner 1999",
+      "Syngenta / Rogers Brothers — Honey Select variety development",
+      "University of Georgia Cooperative Extension — Sweet Corn Variety Trials"
+    ]
+  },
+  {
+    "slug": "autumn-gold-pumpkin",
+    "common_name": "Autumn Gold Pumpkin (AAS-Winning Early-Turning Orange Pumpkin)",
+    "scientific_name": "Cucurbita pepo 'Autumn Gold'",
+    "category": "vegetable",
+    "subcategory": "pumpkin",
+    "days_to_germination": {"min": 7, "max": 14},
+    "germination_soil_temp_f": {"min": 65, "max": 95},
+    "days_to_maturity": {"min": 88, "max": 95},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Direct sow in hills after last frost; Autumn Gold's most important attribute is that it turns orange on the vine before most other pumpkins, allowing harvest of fully colored orange pumpkins 2–3 weeks earlier in the fall season — critical for growers who want to offer orange pumpkins at farm stands in early-to-mid September before standard varieties are ready. In zone 9, plant May–June for a September harvest."
+    },
+    "usda_zones": {"min": 3, "max": 11},
+    "spacing_in": {"min": 48, "max": 72},
+    "height_in": {"min": 12, "max": 16},
+    "spread_in": {"min": 72, "max": 120},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Direct sow seeds 1 inch deep in hills after last frost in full sun, well-drained, fertile soil; fertilize generously and maintain consistent moisture. Autumn Gold is a 1987 All-America Selections-winning pumpkin that earned recognition for addressing one of the most practically important challenges in pumpkin production: the timing gap between Halloween (when orange pumpkins are in peak demand) and most pumpkin varieties' natural maturity schedule. Standard pumpkin varieties like Connecticut Field and Jack-O-Lantern reach their mature orange color in late September to October — sometimes too close to Halloween to allow adequate display time and recovery from any early-season shortfalls. Autumn Gold was bred to turn orange earlier than standard varieties while still maintaining an acceptable carving-type form, giving growers 2–3 extra weeks of salable orange pumpkins in the critical mid-September to early October market window. The fruits are medium-large (10–15 lbs), round to slightly flat, with bright orange skin and a good handle-stem; the flesh is moderately thick and adequate for cooking in addition to decorative use. Autumn Gold's earlier orange color development is driven by genetics that accelerate chlorophyll breakdown in the skin — the fruits reach full orange color when they are still in the immature stage compared to standard varieties. A consistently valuable variety for pumpkin patch operators and farm stand growers who want to extend the salable orange pumpkin window into early fall.",
+    "sources": [
+      "All-America Selections — Autumn Gold pumpkin AAS winner 1987",
+      "Burpee Seeds — Autumn Gold pumpkin variety notes",
+      "Purdue University Extension — Pumpkin Production Guide"
+    ]
+  },
+  {
+    "slug": "moulin-rouge-sunflower",
+    "common_name": "Moulin Rouge Sunflower (Deep Red Pollen-Free Cut Flower Sunflower)",
+    "scientific_name": "Helianthus annuus 'Moulin Rouge'",
+    "category": "flower",
+    "subcategory": "annual",
+    "days_to_germination": {"min": 7, "max": 14},
+    "germination_soil_temp_f": {"min": 60, "max": 80},
+    "days_to_maturity": {"min": 60, "max": 70},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 0, "max": 6},
+      "note": "Direct sow after last frost when soil is above 60°F; for succession harvests, sow every 2–3 weeks through summer. Moulin Rouge is a pollen-free variety, making it exceptional for cut flower arrangements — no pollen drop on tablecloths or clothing. For cut flower production, harvest when the outer ring of petals has fully unfurled but the center disk is still compact and not yet shedding pollen. In zone 9, it can be sown in fall for winter blooms."
+    },
+    "usda_zones": {"min": 3, "max": 11},
+    "spacing_in": {"min": 12, "max": 18},
+    "height_in": {"min": 36, "max": 60},
+    "spread_in": {"min": 12, "max": 18},
+    "sun": "full",
+    "water": "low",
+    "directions": "Direct sow seeds 0.5 inch deep in full sun after last frost; thin to 12–18 inches apart for best stem quality and branching. Moulin Rouge is a premium cut flower sunflower developed and popularized by Johnny's Selected Seeds that produces fully double or semi-double flowers in an exceptionally deep, saturated burgundy-red to mahogany-maroon color — the deepest red available among annual sunflowers and a dramatic departure from the yellow, gold, and orange tones that dominate the sunflower palette. The name references the famous Parisian cabaret's signature deep red aesthetic. The deep color is most intense at cool temperatures and when harvested just as the petals fully open; heat and full sun through summer can lighten the red to more orange-red tones, while spring and fall production in cooler conditions maintains the darkest burgundy shades. Moulin Rouge is pollen-free — an important trait for cut flower arrangements, as pollen-producing sunflowers drop yellow pollen onto table linens, furniture, and clothing during vase life. The branching habit produces multiple flowers per plant over an extended summer season when succession-planted. An outstanding specialty cut flower that provides a uniquely dark, dramatic color for flower arrangements and one of the most requested sunflower varieties by florists who want alternatives to the standard yellow.",
+    "sources": [
+      "Johnny's Selected Seeds — Moulin Rouge sunflower variety notes",
+      "Association of Specialty Cut Flower Growers — Sunflower variety evaluation",
+      "North Carolina State University Extension — Specialty Cut Flower Production"
+    ]
+  },
+  {
+    "slug": "italian-white-sunflower",
+    "common_name": "Italian White Sunflower (Cream-White Branching Beach Sunflower)",
+    "scientific_name": "Helianthus debilis 'Italian White'",
+    "category": "flower",
+    "subcategory": "annual",
+    "days_to_germination": {"min": 10, "max": 14},
+    "germination_soil_temp_f": {"min": 60, "max": 85},
+    "days_to_maturity": {"min": 60, "max": 70},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 0, "max": 6},
+      "note": "Direct sow after last frost when soil is above 60°F; Italian White is a branching, multi-flower type that produces dozens of blooms per plant over a long season, unlike single-stem types that produce one large flower. For cut flower production in zone 9, it can be sown in February–March for spring blooms and again in August–September for fall production. Helianthus debilis naturally tolerates coastal conditions including salt spray and sandy soils."
+    },
+    "usda_zones": {"min": 3, "max": 11},
+    "spacing_in": {"min": 18, "max": 24},
+    "height_in": {"min": 48, "max": 72},
+    "spread_in": {"min": 18, "max": 24},
+    "sun": "full",
+    "water": "low",
+    "directions": "Direct sow seeds 0.5 inch deep in full sun after last frost; Italian White grows well in poor, sandy, well-drained soils and requires minimal fertilization — excess nitrogen produces large plants with fewer flowers. Italian White Sunflower (Helianthus debilis rather than the common H. annuus) is a beloved heirloom cut flower sunflower producing a profusion of small (3–4 inch), cream-white to ivory-colored flowers with dark chocolate-brown to near-black centers — a color combination of remarkable elegance that is unlike any other annual sunflower. The pure cream-white petals surrounding a contrasting near-black center disk create a sophisticated, almost formal aesthetic that pairs beautifully with other cut flowers in arrangements where the standard yellow sunflower would be too assertive. Individual plants are heavily branching and produce 20–50 or more flowers per plant through the summer, providing a continuous supply of cut stems over several months. The species (H. debilis, the cucumberleaf or beach sunflower) is native to coastal dunes of the southeastern United States including Florida's Gulf Coast, giving it genuine native plant credentials for zone 8–10 gardeners and explaining its exceptional drought, heat, and sandy-soil tolerance. Italian White is also an outstanding pollinator plant — the accessible flower centers are visited heavily by bees, butterflies, and other beneficial insects throughout the bloom season. A versatile, beautiful, and genuinely useful heirloom annual for both cut flower production and pollinator gardens.",
+    "sources": [
+      "Johnny's Selected Seeds — Italian White sunflower variety notes",
+      "Seed Savers Exchange — Helianthus variety collection",
+      "University of Florida IFAS Extension — Native Helianthus for Florida Landscapes"
+    ]
+  }
+]

@@ -1,0 +1,157 @@
+[
+  {
+    "slug": "tyee-spinach",
+    "common_name": "Tyee Spinach (AAS-Winning Semi-Savoy Disease-Resistant Spinach)",
+    "scientific_name": "Spinacia oleracea 'Tyee'",
+    "category": "vegetable",
+    "subcategory": "spinach",
+    "days_to_germination": {"min": 7, "max": 14},
+    "germination_soil_temp_f": {"min": 35, "max": 65},
+    "days_to_maturity": {"min": 42, "max": 50},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {"min": -12, "max": -8},
+      "note": "Direct sow in fall for cool-season production; Tyee is particularly valued for fall and overwinter production where its disease resistance and cold tolerance are most advantageous. In zone 9, sow September–November for harvest November–February. For spring production, sow February–March as soon as soil can be worked. Germination occurs in very cool soils (35°F) but is slowest below 45°F; optimal germination is at 50–65°F."
+    },
+    "usda_zones": {"min": 2, "max": 10},
+    "spacing_in": {"min": 2, "max": 4},
+    "height_in": {"min": 6, "max": 12},
+    "spread_in": {"min": 4, "max": 8},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Direct sow seeds 0.5 inch deep in moist, fertile, well-drained, slightly acidic to neutral soil; thin to 2–4 inch spacing as seedlings develop and use thinnings in salads. Tyee is a 1987 All-America Selections-winning spinach that has maintained its status as one of the most recommended disease-resistant spinach varieties for over 35 years — a semi-savoy (slightly crinkled leaf) hybrid that combines excellent productivity with broad disease resistance. The 'semi-savoy' designation means the leaves have moderate crinkle — more texture and surface area than flat leaf types but less crinkle than fully savoy varieties, striking a balance between the ornamental quality of savoy and the easy washing of flat types. Tyee's most important attributes are its comprehensive disease resistance: it carries resistance to five races of downy mildew (Peronospora farinosa), the primary fungal disease that terminates spinach crops early in humid and wet conditions. This resistance profile extends the productive season dramatically compared to susceptible varieties that collapse when mildew strikes. The dark green, upright, medium-large leaves are tender and mild-flavored with the classic, clean spinach taste. Tyee remains the benchmark spinach variety against which others are evaluated in university trials, consistently placing at or near the top for yield, disease resistance, and leaf quality.",
+    "sources": [
+      "All-America Selections — Tyee spinach AAS winner 1987",
+      "Johnny's Selected Seeds — Spinach variety disease resistance comparison",
+      "Cornell Cooperative Extension — Spinach Variety Evaluation"
+    ]
+  },
+  {
+    "slug": "rhubarb-chard",
+    "common_name": "Rhubarb Chard (Ruby Red Swiss Chard, Classic Red-Stemmed Chard)",
+    "scientific_name": "Beta vulgaris var. cicla 'Rhubarb Chard'",
+    "category": "vegetable",
+    "subcategory": "chard",
+    "days_to_germination": {"min": 7, "max": 14},
+    "germination_soil_temp_f": {"min": 50, "max": 75},
+    "days_to_maturity": {"min": 55, "max": 65},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {"min": -12, "max": -8},
+      "note": "Direct sow 0.5 inch deep in fertile, well-amended soil; chard seeds are multi-germ clusters (1–4 seedlings emerge per seed), so thin after germination to 6–9 inches for full-sized leaves. Harvest outer leaves from about 30 days for baby greens, or wait for full-size at 55–65 days. In zone 9, sow September–November for fall and winter harvest; spring sowing in February–March provides excellent spring production."
+    },
+    "usda_zones": {"min": 2, "max": 11},
+    "spacing_in": {"min": 6, "max": 9},
+    "height_in": {"min": 12, "max": 20},
+    "spread_in": {"min": 8, "max": 12},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Direct sow seeds 0.5 inch deep in fertile, moist, well-amended soil; thin to 6–9 inches. Harvest outer leaves regularly to encourage continued growth — leaving some inner leaves promotes sustained production. Rhubarb Chard (also called Ruby Red Swiss Chard or simply Red Chard) is the classic red-stemmed form of Swiss chard, grown for centuries for both its striking ornamental appearance and excellent culinary value. The deep, vivid crimson-red to ruby-red stems and ribs contrast dramatically against the dark green, deeply crinkled leaves, creating one of the most visually attractive vegetables in the edible garden and making Rhubarb Chard a staple in ornamental kitchen gardens and edible landscape plantings. The name references the stems' resemblance in color (but not flavor) to rhubarb. The red pigmentation comes from betalain pigments — the same compounds in red beets — which are vibrant raw but bleed into cooking water, giving a pinkish tint to any cooking liquid and fading the stems somewhat when cooked. The leaves are excellent cooked like spinach or kale (sauté with garlic and olive oil is the classic preparation), and young leaves are delicious raw in salads. Rhubarb Chard is more heat-tolerant than spinach and more cold-tolerant than basil, occupying a useful niche as a year-round leaf vegetable in zone 8–9 gardens where it often grows through the winter as an important fresh green when other vegetables are unavailable.",
+    "sources": [
+      "Seed Savers Exchange — Rhubarb chard variety notes",
+      "Johnny's Selected Seeds — Swiss chard variety comparison",
+      "University of Florida IFAS Extension — Swiss Chard Production"
+    ]
+  },
+  {
+    "slug": "lucullus-chard",
+    "common_name": "Lucullus Chard (Heirloom White-Stemmed Large-Leaf Swiss Chard)",
+    "scientific_name": "Beta vulgaris var. cicla 'Lucullus'",
+    "category": "vegetable",
+    "subcategory": "chard",
+    "days_to_germination": {"min": 7, "max": 14},
+    "germination_soil_temp_f": {"min": 50, "max": 75},
+    "days_to_maturity": {"min": 50, "max": 60},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {"min": -12, "max": -8},
+      "note": "Direct sow 0.5 inch deep; Lucullus produces very large plants and benefits from wider spacing (9–12 inches) than many chard varieties for full-sized leaves. In zone 9, sow September–November for fall and winter harvest, February–March for spring. Lucullus is one of the most productive and heat-tolerant chard varieties for warm climates, making it particularly well-suited to the Gulf South winter garden where it can be grown nearly year-round with mild management."
+    },
+    "usda_zones": {"min": 2, "max": 11},
+    "spacing_in": {"min": 8, "max": 12},
+    "height_in": {"min": 18, "max": 28},
+    "spread_in": {"min": 12, "max": 18},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Direct sow 0.5 inch deep in fertile, well-amended soil; thin to 9–12 inches for full-sized production. Harvest outer leaves regularly from 40 days onward; the plant continues producing new leaves from the center for months with consistent harvesting. Lucullus is one of the oldest and most established Swiss chard varieties in American cultivation — named after Lucullus, the Roman general and gourmet famous for his extravagant feasts, a name that captures both the impressive size of the plant and the generous quality of its harvest. Lucullus produces very large (18–28 inch tall), broadly spreading plants with thick, heavily crinkled, dark green leaves and thick, ivory-white to pale green stems and ribs — a classic white-stemmed chard in the traditional style before the development of colored-stem varieties. The large, deeply savoyed leaves have substantial texture and rich, minerally chard flavor that is excellent cooked — wilted with olive oil and garlic, added to soups and pasta, or incorporated into quiches and casseroles. The very large leaf size makes Lucullus impractical for baby salad mixes (too coarse when young) but exceptionally productive for cooked greens — a single plant at peak production can provide a large bundle of cooking greens per week. Lucullus is often noted for better heat tolerance than some other chard varieties, making it one of the more productive summer leaf vegetables in hot climates.",
+    "sources": [
+      "Seed Savers Exchange — Lucullus chard variety history",
+      "Burpee Seeds — Lucullus chard variety notes",
+      "University of Georgia Cooperative Extension — Swiss Chard Production"
+    ]
+  },
+  {
+    "slug": "kandy-korn-sweet-corn",
+    "common_name": "Kandy Korn Sweet Corn (EH-Type Traditional-Flavor Yellow Corn)",
+    "scientific_name": "Zea mays 'Kandy Korn EH'",
+    "category": "vegetable",
+    "subcategory": "sweet corn",
+    "days_to_germination": {"min": 7, "max": 14},
+    "germination_soil_temp_f": {"min": 60, "max": 95},
+    "days_to_maturity": {"min": 85, "max": 92},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 2, "max": 6},
+      "note": "Direct sow in blocks of at least 4 rows for adequate wind pollination; Kandy Korn is an EH (Everlasting Heritage) or se-type variety and can be planted adjacent to su types without significant flavor reduction. In zone 9, plant March–April for June–July harvest. The later maturity (85–92 days) means Kandy Korn is one of the last sweet corn varieties of the season for most gardens, providing continuity after mid-season types are finished."
+    },
+    "usda_zones": {"min": 3, "max": 11},
+    "spacing_in": {"min": 9, "max": 12},
+    "height_in": {"min": 72, "max": 84},
+    "spread_in": {"min": 12, "max": 18},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Direct sow 1 inch deep in blocks of at least 4 rows; side-dress with nitrogen when plants reach knee height. Kandy Korn EH is a yellow EH (Everlasting Heritage) or se-type sweet corn — a variety from the Illinois Foundation Seeds stable that occupies an important niche as a late-season yellow corn with a distinctive flavor profile that many traditional corn enthusiasts prefer to modern hybrid types. The 'EH' designation refers to 'Everlasting Heritage,' a genetic trait that increases sugar content and slows the sugar-to-starch conversion rate compared to standard su types but maintains more of the complex, traditional 'field corn' flavor notes that characterize classic American sweet corn — a richer, deeper, more complex corn flavor than the clean sweetness of modern se or sh2 types. Kandy Korn is particularly popular with older gardeners and those who grew up eating sweet corn from small farms and roadside stands, where the flavor of the corn itself (rather than just sweetness) was the primary quality attribute. The medium-large ears (7.5–8 inches, 14–16 rows) carry well-filled rows of golden-yellow, tender kernels with extended holding quality compared to standard su. At 85–92 days, Kandy Korn extends the sweet corn season to the later summer window when earlier varieties have finished.",
+    "sources": [
+      "Illinois Foundation Seeds — Kandy Korn EH variety notes",
+      "Burpee Seeds — Sweet corn variety descriptions",
+      "University of Illinois Extension — Sweet Corn Production Guide"
+    ]
+  },
+  {
+    "slug": "catalina-spinach",
+    "common_name": "Catalina Spinach (Heat-Tolerant Flat-Leaf Fall Spinach Hybrid)",
+    "scientific_name": "Spinacia oleracea 'Catalina'",
+    "category": "vegetable",
+    "subcategory": "spinach",
+    "days_to_germination": {"min": 7, "max": 14},
+    "germination_soil_temp_f": {"min": 35, "max": 65},
+    "days_to_maturity": {"min": 42, "max": 50},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {"min": -12, "max": -8},
+      "note": "Direct sow in late summer or early fall for fall and winter harvest; Catalina is particularly valued for fall sowing in zone 8–10 where it establishes quickly in warm soil and then grows through winter. In zone 9, sow September–November for November–February harvest. Spring planting is possible (sow February–March) but Catalina shows its best performance in the cooler temperatures of fall and winter production."
+    },
+    "usda_zones": {"min": 2, "max": 10},
+    "spacing_in": {"min": 2, "max": 4},
+    "height_in": {"min": 6, "max": 10},
+    "spread_in": {"min": 4, "max": 8},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Direct sow seeds 0.5 inch deep in moist, fertile, well-drained soil; thin to 2–4 inch spacing for full-sized leaves or leave more densely sown for baby spinach harvest. Catalina is a flat-leaf hybrid spinach from Johnny's Selected Seeds selected specifically for fall and winter production in a wide range of climates — a smooth, flat-leaved type (as opposed to the crinkled savoy and semi-savoy types) that is preferred for salad mixes, commercial baby spinach production, and any application where the spinach will be eaten raw rather than cooked. The flat-leaf type is easier to wash than savoy types because soil and debris don't get trapped in the leaf crevices, making Catalina a practical choice for cut-and-wash baby greens. Catalina carries good resistance to multiple races of downy mildew, extending its productive life in humid fall conditions. The leaves are medium-large, oval to lance-shaped, dark green, and have the clean, mild spinach flavor that works well in all raw applications. Its performance in fall and winter production makes Catalina particularly valuable for the Gulf South zone 8–10 garden where fall and winter are the primary growing seasons for spinach — direct-seeding in September and October establishes plants that grow slowly through winter and provide steady leaf harvests.",
+    "sources": [
+      "Johnny's Selected Seeds — Catalina spinach variety notes and trial results",
+      "High Mowing Organic Seeds — Spinach variety comparison",
+      "University of Georgia Cooperative Extension — Spinach Production Guide"
+    ]
+  }
+]

@@ -1,0 +1,157 @@
+[
+  {
+    "slug": "glass-gem-corn",
+    "common_name": "Glass Gem Corn (Rainbow Jewel-Toned Ornamental Flour Corn)",
+    "scientific_name": "Zea mays 'Glass Gem'",
+    "category": "vegetable",
+    "subcategory": "corn",
+    "days_to_germination": {"min": 7, "max": 14},
+    "germination_soil_temp_f": {"min": 60, "max": 95},
+    "days_to_maturity": {"min": 100, "max": 120},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 2, "max": 6},
+      "note": "Direct sow in blocks of 4+ rows for adequate wind pollination; isolate from other corn by 300 feet to preserve jewel-color purity, though crossing with other corn simply diversifies the colors in interesting ways. In zone 9, plant March–May. Glass Gem requires a long season (100–120 days) and must be harvested as a dried corn — leave ears on the plant until husks are completely dry and papery. The translucent jewel colors are most vibrant after drying."
+    },
+    "usda_zones": {"min": 4, "max": 10},
+    "spacing_in": {"min": 9, "max": 12},
+    "height_in": {"min": 84, "max": 144},
+    "spread_in": {"min": 12, "max": 18},
+    "sun": "full",
+    "water": "low",
+    "directions": "Direct sow seeds 1 inch deep in blocks of 4 rows after last frost; harvest ears 3–4 weeks after the husks become fully dry and papery. Peel back husks and hang in a dry, well-ventilated place for additional drying before storage or decorative use. Glass Gem is a visually extraordinary ornamental flour corn that became an internet sensation in 2012 when photographs of its polychrome, jewel-toned ears went viral — sparking massive interest in heirloom and decorative corn that had not previously existed in the gardening public. The corn was developed by Carl Barnes, a half-Cherokee seed saver from Oklahoma, who spent decades crossing and back-crossing different traditional Cherokee corn varieties to create a flour corn capable of producing kernels in any color of the rainbow — deep red, crimson, burgundy, purple, violet, blue, aqua, green, gold, orange, pink, cream, and white, often on the same ear in translucent, jewel-like forms. Barnes shared seed with fellow seed saver Greg Schoen, who further developed and distributed the variety through Native Seeds/SEARCH. Each ear is unique — no two are identical — and the translucency of the kernels in bright light has no equivalent in any other corn or vegetable. While Glass Gem can be ground into flour (it is a genuine flour corn with functional starch composition), its primary use is ornamental — for corn arrangements, wreaths, and displays where the extraordinary color variation is the attraction.",
+    "sources": [
+      "Native Seeds/SEARCH — Glass Gem corn origin and documentation",
+      "Baker Creek Heirloom Seeds — Glass Gem corn introduction and notes",
+      "Seed Savers Exchange — Carl Barnes and Glass Gem corn history"
+    ]
+  },
+  {
+    "slug": "oaxacan-green-dent-corn",
+    "common_name": "Oaxacan Green Dent Corn (Traditional Mexican Blue-Green Flour Corn)",
+    "scientific_name": "Zea mays 'Oaxacan Green'",
+    "category": "vegetable",
+    "subcategory": "corn",
+    "days_to_germination": {"min": 7, "max": 14},
+    "germination_soil_temp_f": {"min": 60, "max": 95},
+    "days_to_maturity": {"min": 80, "max": 100},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 2, "max": 6},
+      "note": "Direct sow in blocks of 4+ rows; isolate from other corn by 300 feet to preserve the distinctive green-blue kernel color — cross-pollination with yellow or white corn will dilute the color. In zone 9, plant March–May. Harvest as dried corn when ears are fully mature and husks are completely dry; the blue-green color may fade slightly in storage but remains distinctive. Oaxacan Green was traditionally grown in the short-day conditions of southern Mexico and may require some adaptation in longer-day northern locations."
+    },
+    "usda_zones": {"min": 5, "max": 11},
+    "spacing_in": {"min": 9, "max": 12},
+    "height_in": {"min": 84, "max": 120},
+    "spread_in": {"min": 12, "max": 18},
+    "sun": "full",
+    "water": "low",
+    "directions": "Direct sow seeds 1 inch deep in blocks of 4 rows; harvest when husks are completely dry and papery. Oaxacan Green Dent is a traditional flour and dent corn from the valley of Oaxaca, Mexico — a staple landrace corn of the indigenous Zapotec and Mixtec agricultural traditions maintained over centuries in the high-altitude valley environment of southern Mexico. The most visually striking characteristic is the kernel color: at maturity, the kernels are an unusual blue-green to aqua-blue, sometimes with silvery-white highlights — a color found in few other corn varieties and quite distinct from the blue-black of Hopi Blue or the rainbow of Glass Gem. The color comes from the same anthocyanin pigments that color other colored corns, but in a combination that expresses specifically in the blue-green range. In traditional Oaxacan cuisine, Oaxacan Green corn is used as masa for the deep green, smoky-flavored specialty tamales and tlayudas, where the colored masa produces a visually distinctive product unlike standard yellow or white corn preparations. The ears are medium to large, somewhat irregular in kernel arrangement as expected of a landrace variety, and the plants are tall. Oaxacan Green is maintained and distributed by Native Seeds/SEARCH and the Seed Savers Exchange as part of preserving Mesoamerican corn diversity.",
+    "sources": [
+      "Native Seeds/SEARCH — Oaxacan Green corn documentation",
+      "Seed Savers Exchange — Mexican heirloom corn collection",
+      "Baker Creek Heirloom Seeds — Oaxacan Green corn notes"
+    ]
+  },
+  {
+    "slug": "hot-and-spicy-oregano",
+    "common_name": "Hot and Spicy Oregano (Compact High-Oil Pungent Culinary Oregano)",
+    "scientific_name": "Origanum vulgare 'Hot and Spicy'",
+    "category": "herb",
+    "subcategory": "oregano",
+    "days_to_germination": {"min": 7, "max": 14},
+    "germination_soil_temp_f": {"min": 60, "max": 75},
+    "days_to_maturity": {"min": 60, "max": 90},
+    "maturity_from": "seed",
+    "sow_method": "indoor-start",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": -8, "max": -6},
+      "note": "Start indoors 6–8 weeks before transplanting; Hot and Spicy oregano is a compact (12–15 inch) shrubby perennial in zones 5–9 that grows well year-round in zone 9 with some protection from extended hard freezes. Can also be direct sown outdoors in spring. In zone 9, plant in well-drained, somewhat poor soil in full sun — rich, moist soils reduce the concentration of aromatic oils that give the variety its name. Harvest stems before or during early bloom for maximum essential oil content and flavor intensity."
+    },
+    "usda_zones": {"min": 5, "max": 9},
+    "spacing_in": {"min": 12, "max": 18},
+    "height_in": {"min": 10, "max": 15},
+    "spread_in": {"min": 12, "max": 18},
+    "sun": "full",
+    "water": "low",
+    "directions": "Start seeds indoors or direct sow in spring; transplant to full sun, well-drained soil. Harvest stems for drying just as flower buds begin to open. Hot and Spicy Oregano is a compact cultivar of common oregano (Origanum vulgare) selected for higher essential oil content and more pronounced, pungent flavor compared to the bland, low-oil common oregano that grows widely in American gardens. Standard common oregano (Origanum vulgare) grown in the United States often has relatively low essential oil content and mild flavor — the reason that most dried commercial 'oregano' products in American grocery stores are a blend of Origanum vulgare with Greek oregano (O. heracleoticum) or marjoram. Hot and Spicy represents a more flavorful selection of the common oregano type, with significantly more essential oil and a more robust, peppery, slightly camphoraceous character approaching that of true Greek or Italian cooking oregano. The compact habit (10–15 inches), fine texture, and purple-tinged flowers make Hot and Spicy also ornamentally attractive in herb gardens and Mediterranean-style plantings. The variety is drought-tolerant once established and performs well in containers where watering can be controlled.",
+    "sources": [
+      "Richters Herbs — Hot and Spicy oregano variety notes",
+      "Johnny's Selected Seeds — Culinary oregano variety comparison",
+      "University of Florida IFAS Extension — Herb Production Guide"
+    ]
+  },
+  {
+    "slug": "sweetie-cherry-tomato",
+    "common_name": "Sweetie Cherry Tomato (Classic Open-Pollinated Small Sweet Cherry Tomato)",
+    "scientific_name": "Solanum lycopersicum 'Sweetie'",
+    "category": "vegetable",
+    "subcategory": "tomato",
+    "days_to_germination": {"min": 6, "max": 10},
+    "germination_soil_temp_f": {"min": 70, "max": 85},
+    "days_to_maturity": {"min": 65, "max": 75},
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": -8, "max": -6},
+      "note": "Start indoors 6–8 weeks before transplanting after last frost; Sweetie is an indeterminate vine that produces prolifically on a long, cascading vine — provide a 5–6 foot cage or strong staking. In zone 9, transplant March–April for May–October production. Like most cherry tomatoes, Sweetie can crack if irrigation is inconsistent (wet-dry-wet cycles cause rapid fruit expansion); consistent moisture management reduces cracking."
+    },
+    "usda_zones": {"min": 4, "max": 11},
+    "spacing_in": {"min": 24, "max": 36},
+    "height_in": {"min": 48, "max": 84},
+    "spread_in": {"min": 24, "max": 36},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Start seeds indoors 6–8 weeks before transplanting; cage or stake before growth gets away from support. Sweetie is an open-pollinated small cherry tomato that has been grown in American gardens since at least the 1970s — one of the classic heirloom small cherry tomatoes alongside Sweet 100 and Gardener's Delight. The round, 0.75–1 inch fruits are produced in large clusters of 15–25 or more on long, indeterminate vines, and have a flavor profile that lives up to the name: very sweet, with high sugar content relative to acid, and the concentrated pure tomato essence that has made small cherry tomatoes universally popular. Sweetie is open-pollinated, meaning seed can be saved from year to year to maintain a self-sustaining garden supply — an advantage over Sweet 100, which is a hybrid. The plants produce heavily from midsummer through frost, providing abundant cherry tomatoes for snacking, salads, roasting, and pasta for the entire season. Sweetie is particularly well-suited to gardeners who want to maintain their own seed from a reliable, high-quality cherry tomato variety.",
+    "sources": [
+      "Seed Savers Exchange — Sweetie cherry tomato variety history",
+      "Baker Creek Heirloom Seeds — Small cherry tomato collection",
+      "Southern Exposure Seed Exchange — Open-pollinated cherry tomato comparison"
+    ]
+  },
+  {
+    "slug": "red-robin-micro-tomato",
+    "common_name": "Red Robin Micro Tomato (Patio Container Micro-Dwarf Cherry Tomato)",
+    "scientific_name": "Solanum lycopersicum 'Red Robin'",
+    "category": "vegetable",
+    "subcategory": "tomato",
+    "days_to_germination": {"min": 6, "max": 10},
+    "germination_soil_temp_f": {"min": 70, "max": 85},
+    "days_to_maturity": {"min": 55, "max": 65},
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": -8, "max": -6},
+      "note": "Start indoors 6–8 weeks before transplanting; Red Robin's extremely compact size (8–12 inches) makes it suitable for growing in 6–8 inch pots, hanging baskets, or window boxes — one of the few tomatoes practical for small apartment balconies and windowsills. In zone 9, transplant March–April. The determinate habit means all fruits ripen over a relatively short window (2–3 weeks); start 2–3 pots in succession for continuous harvest."
+    },
+    "usda_zones": {"min": 4, "max": 12},
+    "spacing_in": {"min": 8, "max": 12},
+    "height_in": {"min": 8, "max": 14},
+    "spread_in": {"min": 8, "max": 12},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Start seeds indoors 6–8 weeks before transplanting; grow in 6–8 inch containers or hanging baskets. Red Robin is a micro-dwarf determinate tomato — one of the smallest tomato plants available to gardeners, typically reaching only 8–14 inches tall and 8–12 inches wide at maturity. The extreme compact size distinguishes Red Robin from standard 'patio' tomatoes (which reach 24–36 inches) and makes it the tomato of choice for situations where space is extremely limited: kitchen windowsills, apartment balcony pots of any size, children's garden projects, hanging baskets, and window box plantings. Despite its tiny size, Red Robin produces red, round, 1-inch cherry tomatoes of acceptable sweet-tangy flavor in small but meaningful quantities — a single plant might produce 30–50 fruits over its harvest period, sufficient for salads and snacking. The determinate habit means the plant stops growing at its genetic maximum size and sets a crop over a 2–3 week window, making it ideal for succession planting (start a new plant every 3 weeks from late winter through late summer for continuous small harvests). Red Robin requires no staking, no pruning, and no trellising — it simply grows into a self-supporting mound and fruits.",
+    "sources": [
+      "Burpee Seeds — Red Robin micro tomato variety notes",
+      "Stokes Seeds — Micro-dwarf tomato variety comparison",
+      "Cornell Cooperative Extension — Compact Tomato Varieties for Container Production"
+    ]
+  }
+]

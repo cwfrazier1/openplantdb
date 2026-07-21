@@ -1,0 +1,157 @@
+[
+  {
+    "slug": "imperial-star-artichoke",
+    "common_name": "Imperial Star Artichoke (Annual Seed-Grown First-Year Flowering Artichoke)",
+    "scientific_name": "Cynara cardunculus var. scolymus 'Imperial Star'",
+    "category": "vegetable",
+    "subcategory": "artichoke",
+    "days_to_germination": {"min": 10, "max": 21},
+    "germination_soil_temp_f": {"min": 60, "max": 75},
+    "days_to_maturity": {"min": 100, "max": 120},
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": -10, "max": -8},
+      "note": "Start indoors 8–10 weeks before transplanting; Imperial Star requires vernalization — expose seedlings to temperatures of 50–55°F for 10 consecutive days when plants have 6–8 leaves (typically 4–6 weeks after germination) to trigger first-year flower bud production. Without this cold treatment, plants grow vegetatively but do not produce artichoke buds in their first year. In zone 9, start seeds January–February and transplant March–April after cold treatment for spring harvest (April–June); a second planting (October transplant) can produce a fall-winter harvest. The vernalization cold treatment is the critical step that distinguishes Imperial Star from older artichoke types that require a full second year to produce."
+    },
+    "usda_zones": {"min": 7, "max": 11},
+    "spacing_in": {"min": 48, "max": 60},
+    "height_in": {"min": 36, "max": 60},
+    "spread_in": {"min": 36, "max": 48},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Start seeds indoors at 65–70°F; expose seedlings to 50–55°F for 10 days (vernalization) before transplanting. Harvest buds when still tight and before the scales begin to open. Imperial Star is the pioneering annual artichoke variety bred by Keith Mayberry of the University of California Cooperative Extension in Imperial County — the variety that made artichoke production as an annual possible for the first time. Traditional artichoke varieties (such as Green Globe) are perennials that produce their first commercial harvest in the second or third year after planting from divisions; they require mild winters to survive (zone 8–9), making them impractical or impossible in colder climates. Imperial Star changed this by introducing the genetic characteristic of first-year flowering when exposed to a period of cool temperatures (vernalization) — the same cold-stimulus mechanism that triggers biennial flowering in brassicas, adapted to artichoke. When properly vernalized, Imperial Star plants produce their first artichoke buds in the same season they are planted, allowing artichoke cultivation as an annual across a much wider range of zones and eliminating the 2–3 year establishment period. The artichokes produced are full-sized, rounded, traditional artichoke form — not meaningfully different in size, flavor, or eating quality from perennial types. Imperial Star remains the dominant annual artichoke variety decades after its introduction, maintained by Johnny's Selected Seeds and other specialty vegetable suppliers as the standard annual artichoke reference.",
+    "sources": [
+      "Johnny's Selected Seeds — Imperial Star artichoke annual variety development notes",
+      "University of California Cooperative Extension — Keith Mayberry artichoke annual variety research",
+      "University of California Davis — Artichoke Production Guide"
+    ]
+  },
+  {
+    "slug": "garnet-sweet-potato",
+    "common_name": "Garnet Sweet Potato (Red Garnet Moist-Flesh Orange Sweet Potato)",
+    "scientific_name": "Ipomoea batatas 'Garnet'",
+    "category": "vegetable",
+    "subcategory": "root",
+    "days_to_germination": {"min": null, "max": null},
+    "germination_soil_temp_f": {"min": 65, "max": 85},
+    "days_to_maturity": {"min": 90, "max": 110},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Plant sweet potato slips (rooted cuttings) after the last frost when soil has warmed to 60°F or above; Garnet sweet potato produces slips from mature tubers grown in a warm, moist environment (place in a jar of water or bury in moist sand at 80°F for 2–4 weeks until sprouts are 4–6 inches long). In zone 9, plant April–June for fall harvest; sweet potato vines grow vigorously in Gulf Coast heat and humidity. Dig roots before the first frost (or in zone 9 before sustained temperatures below 55°F, which can cause chilling injury to stored roots). Cure at 85°F and 90% humidity for 4–7 days after harvest to sweeten and harden the skin before storage."
+    },
+    "usda_zones": {"min": 8, "max": 11},
+    "spacing_in": {"min": 12, "max": 18},
+    "height_in": {"min": 12, "max": 18},
+    "spread_in": {"min": 36, "max": 60},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant rooted slips in well-drained, loose soil; do not overwater or over-fertilize with nitrogen (promotes vine over root). Cure harvested roots before storage. Garnet Sweet Potato (also sold as 'Red Garnet') is one of the most widely grown and commercially important sweet potato varieties in the United States, recognizable to millions of shoppers as the 'yam' with reddish-purple to copper-red skin and brilliant orange flesh sold in most American supermarkets. The confusion between true yams (Dioscorea species, tropical tubers with starchy white flesh) and sweet potatoes is a historical American marketing accident: in the mid-20th century, Louisiana farmers and marketers began calling their orange-fleshed sweet potatoes 'yams' to distinguish them from the paler-fleshed Northern sweet potato types, and the term 'yam' became permanently associated with moist, orange-fleshed sweet potatoes in American grocery retail. Garnet's moist orange flesh has the classic American sweet potato eating character: very sweet, soft when baked, and vibrantly orange — characteristics that come from a high beta-carotene content (beta-carotene is the pigment in carrots, orange squash, and other orange vegetables that converts to Vitamin A in the body). The roasted Garnet sweet potato is one of the most nutritionally dense foods in regular American cooking: high in complex carbohydrates, very high in beta-carotene (Vitamin A precursor), and a good source of potassium, fiber, and Vitamin C.",
+    "sources": [
+      "North Carolina State University Extension — Sweet Potato Variety Descriptions and Production",
+      "Louisiana State University AgCenter — Sweet Potato Production for the Gulf South",
+      "USDA Agricultural Research Service — Sweet potato variety database"
+    ]
+  },
+  {
+    "slug": "jersey-knight-asparagus",
+    "common_name": "Jersey Knight Asparagus (Rutgers All-Male Hybrid Asparagus for Southern Gardens)",
+    "scientific_name": "Asparagus officinalis 'Jersey Knight'",
+    "category": "vegetable",
+    "subcategory": "asparagus",
+    "days_to_germination": {"min": null, "max": null},
+    "germination_soil_temp_f": {"min": 50, "max": 70},
+    "days_to_maturity": {"min": 730, "max": 1095},
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": -4, "max": 4},
+      "note": "Plant 1-year-old crowns (rhizomes) in early spring 6–8 inches deep in a prepared trench with a mound of loose soil under each crown; spread the roots over the mound and cover. Asparagus is a long-lived perennial that may remain productive for 15–25 years if properly established — invest in thorough soil preparation (18 inches deep, well-amended with compost) before planting. Do not harvest in the establishment years: the first year after planting, allow all spears to grow into ferns (foliage) to build root reserves; in the second year, harvest for just 2 weeks; in the third year, harvest 4–6 weeks; from year four onward, harvest the full 6–8 week season. In zone 9, asparagus is challenging — it needs cold winters for adequate dormancy and in the warmest years may not set adequate root reserves for the following season."
+    },
+    "usda_zones": {"min": 4, "max": 9},
+    "spacing_in": {"min": 12, "max": 18},
+    "height_in": {"min": 48, "max": 60},
+    "spread_in": {"min": 18, "max": 24},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant crowns 6–8 inches deep in a prepared trench; allow all fern growth in the first year. Feed annually with balanced fertilizer after harvest. Jersey Knight is an all-male F1 hybrid asparagus from the New Jersey Agricultural Experiment Station at Rutgers University — part of the 'Jersey' series of asparagus hybrids (including Jersey Giant and Jersey Supreme) that revolutionized asparagus production in the United States from the 1980s onward by introducing all-male genetics, disease resistance, and dramatically improved yield over the open-pollinated varieties that had been standard for a century. The key innovation of the Jersey series is their all-male genetics: asparagus is naturally dioecious (separate male and female plants), and female plants divert significant energy into berry and seed production that could otherwise go to spear production; all-male hybrids eliminate this energy diversion and direct all plant resources to the edible spears, resulting in 2–3× the yield of traditional open-pollinated varieties under the same conditions. Jersey Knight carries improved resistance to asparagus rust and Fusarium crown rot — two diseases that significantly reduce the productive lifespan of traditional varieties in warm, humid climates. In zone 9, Jersey Knight is among the better-adapted of the Jersey hybrids due to its moderate heat tolerance and disease package; while asparagus is genuinely challenging in zone 9's warm winters, Jersey Knight has performed better in southern trials than many other varieties.",
+    "sources": [
+      "Rutgers University — Jersey Knight asparagus development and all-male hybrid technology",
+      "Johnny's Selected Seeds — Jersey Knight asparagus variety comparison",
+      "University of Florida IFAS Extension — Asparagus Production in Florida and the Gulf South"
+    ]
+  },
+  {
+    "slug": "yukina-savoy-brassica",
+    "common_name": "Yukina Savoy Brassica (Japanese Savoyed Brassica Green, Gulf South Winter Leafy Green)",
+    "scientific_name": "Brassica rapa var. narinosa 'Yukina Savoy'",
+    "category": "vegetable",
+    "subcategory": "greens",
+    "days_to_germination": {"min": 5, "max": 10},
+    "germination_soil_temp_f": {"min": 45, "max": 75},
+    "days_to_maturity": {"min": 40, "max": 55},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {"min": -12, "max": -8},
+      "note": "Direct sow or transplant in fall; Yukina Savoy is a vigorous, cold-tolerant brassica green that produces abundantly in zone 9's fall and winter gardens. In zone 9, sow August–November for harvest beginning October and continuing through February or March. The deeply puckered, savoyed leaves are distinctive among Asian brassica greens — the surface texture creates an unusual visual character and traps seasonings in the leaf folds when cooking. Very cold-hardy: survives temperatures into the low 20s°F once established. Harvest outer leaves and the plant will continue producing from the center for an extended season."
+    },
+    "usda_zones": {"min": 2, "max": 10},
+    "spacing_in": {"min": 9, "max": 12},
+    "height_in": {"min": 10, "max": 16},
+    "spread_in": {"min": 12, "max": 16},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Direct sow 0.25 inch deep in rows 12 inches apart; thin to 9–12 inches. Harvest outer leaves from 40 days or cut whole plant. Yukina Savoy (Brassica rapa var. narinosa 'Yukina Savoy') is a Japanese brassica green that occupies an unusual position in the Asian brassica spectrum: it is not clearly tatsoi (which is also var. narinosa but with very different flat-rosette form), not bok choy, not komatsuna, and not napa cabbage, but shares characteristics with all of these while maintaining its own distinctive identity primarily defined by the heavily savoyed (puckered, crinkled, blistered) texture of the leaves. The savoy texture in Yukina produces a leaf that is visually striking — deep green, heavily textured, with bold surface relief — and practically advantageous in cooking because the crinkled surface texture holds oils, sauces, and seasonings in a way that smooth-leaved brassicas cannot. The flavor is mild and versatile, somewhat between spinach and bok choy — appealing to gardeners who find other Asian brassicas too strongly flavored but want more character than spinach. Yukina Savoy is extremely productive in cool weather, producing large rosettes of leaves over an extended harvest season. It is widely used in restaurant and specialty market salad mixes in the American Northeast and Mid-Atlantic, where its striking appearance makes it a valuable visual element in mixed greens.",
+    "sources": [
+      "Johnny's Selected Seeds — Yukina Savoy brassica variety notes",
+      "Kitazawa Seed Company — Japanese brassica green varieties",
+      "Cornell Cooperative Extension — Asian Brassica Greens Production Guide"
+    ]
+  },
+  {
+    "slug": "jack-in-the-pulpit",
+    "common_name": "Jack-in-the-Pulpit (Native Woodland Perennial with Iconic Hooded Spathe)",
+    "scientific_name": "Arisaema triphyllum",
+    "category": "flower",
+    "subcategory": "perennial",
+    "days_to_germination": {"min": null, "max": null},
+    "germination_soil_temp_f": {"min": 40, "max": 60},
+    "days_to_maturity": {"min": 365, "max": 730},
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": -4, "max": 4},
+      "note": "Plant corms (the small, rounded, tuber-like structures) 3–4 inches deep in moist, humus-rich, acidic woodland soil in partial to full shade; Jack-in-the-Pulpit is a native woodland understory plant that requires deep shade and consistent moisture to thrive. In zone 9, plant fall or early spring in the shadiest, moistest areas of the garden with high organic matter soil. Plants emerge in spring, produce their distinctive hooded flower structure and foliage through summer, then go dormant by midsummer (the foliage dies back to the ground). The corms slowly enlarge over years; established large corms produce female flowers and clusters of red berries in fall. All parts are toxic if eaten raw due to calcium oxalate crystals."
+    },
+    "usda_zones": {"min": 4, "max": 9},
+    "spacing_in": {"min": 12, "max": 18},
+    "height_in": {"min": 12, "max": 24},
+    "spread_in": {"min": 8, "max": 12},
+    "sun": "shade",
+    "water": "moderate",
+    "directions": "Plant corms 3–4 inches deep in moist, acidic, humus-rich soil in deep shade; keep consistently moist. Do not eat any part of the plant raw. Jack-in-the-Pulpit (Arisaema triphyllum) is among the most recognizable and beloved native wildflowers of the eastern United States — an araceous (Arum family) perennial widely distributed in moist woodland understories from Quebec to Florida and west to the Great Plains. The plant takes its common name from the distinctive reproductive structure: an erect, clublike spadix (Jack) standing inside a hooded, striped spathe (the Pulpit), a form so architecturally precise and recognizable that it has become iconic in American botanical illustration and nature education. The spathe's stripes typically alternate green-white or purple-brown-green, and the entire structure has a jewel-like elegance that makes Jack-in-the-Pulpit one of the most aesthetically sophisticated of native spring wildflowers. One of the most unusual biological characteristics of Arisaema triphyllum is its sexual flexibility: plants can change sex from year to year, typically producing male flowers when small and female flowers when the corm has accumulated sufficient energy reserves, making large, vigorous corms most likely to produce the red-berried fall clusters. The berries (clusters of brilliant red drupes that replace the spathe in fall) provide important fall food for wood thrushes and other migratory birds. Jack-in-the-Pulpit is an excellent choice for deep shade gardens where it naturalizes slowly in moist woodland conditions, providing spring interest in areas too dark for most flowering plants.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center — Arisaema triphyllum native range and ecology",
+      "Native Plant Society — Jack-in-the-Pulpit shade garden documentation",
+      "University of Florida IFAS Extension — Native Woodland Wildflowers for Southern Shade Gardens"
+    ]
+  }
+]

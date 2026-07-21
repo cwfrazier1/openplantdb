@@ -1,0 +1,157 @@
+[
+  {
+    "slug": "jacobs-cattle-bean",
+    "common_name": "Jacob's Cattle Bean (Classic Maine Spotted Dry Bean for Baked Beans and Soup)",
+    "scientific_name": "Phaseolus vulgaris 'Jacob's Cattle'",
+    "category": "vegetable",
+    "subcategory": "bean",
+    "days_to_germination": {"min": 7, "max": 14},
+    "germination_soil_temp_f": {"min": 60, "max": 85},
+    "days_to_maturity": {"min": 90, "max": 100},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 0, "max": 3},
+      "note": "Direct sow after last frost; Jacob's Cattle is a dry bean grown to full maturity and dried on the plant. In zone 9, plant March–May; pods dry on the plant in August–September when the garden has dried after summer heat. Shell and store dried beans in airtight containers. Allow pods to dry fully on the plant until papery and rattling before harvest — or cut the whole plant at the soil line and hang to finish drying indoors in humid fall weather. Jacob's Cattle is a bush bean (18–24 inch plants) requiring no support."
+    },
+    "usda_zones": {"min": 3, "max": 11},
+    "spacing_in": {"min": 4, "max": 6},
+    "height_in": {"min": 18, "max": 24},
+    "spread_in": {"min": 8, "max": 12},
+    "sun": "full",
+    "water": "low",
+    "directions": "Direct sow 1 inch deep after last frost; thin to 4–6 inches. Allow pods to dry completely on the plant before harvesting. Shell and store in airtight containers. Jacob's Cattle Bean (also called Trout Bean or Dalmatian Bean in some regions) is a New England heirloom dry bean with one of the most visually distinctive appearances in the bean world — white beans irregularly splashed and dotted with maroon-red spots in a pattern that resembles the speckled coat of Jacob's Cattle described in the Book of Genesis, from which the variety's evocative name derives. The spotted appearance is due to anthocyanin pigmentation in the seed coat that creates the irregular, non-repeating pattern on each individual bean — a genetic expression that varies slightly bean to bean within the variety but maintains the distinctive red-on-white motif overall. Jacob's Cattle has been grown in Maine and New England since at least the mid-19th century, where it became the traditional bean for authentic New England-style baked beans: the creamy, meaty texture and moderately earthy flavor of Jacob's Cattle holds up beautifully in long, slow cooking with salt pork and molasses, developing richness without falling apart or becoming mushy. The beans are also excellent in soups, stews, and chili, where the spotted appearance adds visual interest to the finished dish. Being open-pollinated, seed can be saved indefinitely from the best plants.",
+    "sources": [
+      "Seed Savers Exchange — Jacob's Cattle bean variety history and New England documentation",
+      "Baker Creek Heirloom Seeds — Jacob's Cattle dry bean variety notes",
+      "Cornell Cooperative Extension — Heirloom Dry Bean Variety Evaluation"
+    ]
+  },
+  {
+    "slug": "bolita-bean",
+    "common_name": "Bolita Bean (New Mexico Traditional Round Pueblo Indian Dry Bean)",
+    "scientific_name": "Phaseolus vulgaris 'Bolita'",
+    "category": "vegetable",
+    "subcategory": "bean",
+    "days_to_germination": {"min": 7, "max": 14},
+    "germination_soil_temp_f": {"min": 60, "max": 85},
+    "days_to_maturity": {"min": 90, "max": 105},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 0, "max": 3},
+      "note": "Direct sow after last frost; Bolita is a dry bean requiring the full growing season to dry. In zone 9, plant April–May for fall dry bean harvest. Bolita plants are semi-vining and may benefit from light support (a fence or string trellis) though they often sprawl adequately without staking. The beans are round (bolita = little ball in Spanish), cream to tan-pink at full dry maturity, and are harvested when pods are completely dry and papery. Bolita is adapted to the hot, dry, high-altitude conditions of the Southwest but grows well across a wide range of zones when given adequate heat during the growing season."
+    },
+    "usda_zones": {"min": 4, "max": 11},
+    "spacing_in": {"min": 4, "max": 8},
+    "height_in": {"min": 18, "max": 30},
+    "spread_in": {"min": 12, "max": 18},
+    "sun": "full",
+    "water": "low",
+    "directions": "Direct sow 1 inch deep after last frost; thin to 4–6 inches. Harvest when pods are completely dry and papery; beans are round, cream to pinkish-tan. Shell and store in airtight containers. Bolita Bean is the traditional dry bean of New Mexico and the Pueblo cultures of the American Southwest — a variety with documented cultivation in New Mexico and Pueblo Indian communities for centuries, predating European contact and representing one of the most important food plants of southwestern Indigenous agriculture. The name 'bolita' (little ball in Spanish) describes the characteristic round, rotund shape of the dried seed, distinctly rounder than most common beans and immediately recognizable in any collection of dried bean varieties. The dried seeds are cream to pinkish-tan with a slightly glossy surface — a modest appearance that belies the exceptional culinary quality Bolita is known for among Southwest cooks and food historians. The flavor is earthy, slightly sweet, and deeply savory when slow-cooked — Bolita makes extraordinary refried beans (frijoles refritos): the beans cook to a very creamy, smooth texture when mashed and fried, with a richness that commercial pinto beans rarely achieve. Bolita is the traditional bean of New Mexican red and green chile preparations, cooked simply with onion, garlic, and salt or with rendered lard in the traditional method. Seed Savers Exchange and Native Seeds/SEARCH maintain diverse traditional Bolita strains.",
+    "sources": [
+      "Native Seeds/SEARCH — Bolita bean New Mexico traditional cultivation documentation",
+      "Seed Savers Exchange — Bolita bean Southwest heirloom variety notes",
+      "University of New Mexico — Traditional Pueblo food plant documentation"
+    ]
+  },
+  {
+    "slug": "purple-beauty-bell-pepper",
+    "common_name": "Purple Beauty Bell Pepper (AAS-Winning Dark Purple Blocky Sweet Bell Pepper)",
+    "scientific_name": "Capsicum annuum 'Purple Beauty'",
+    "category": "vegetable",
+    "subcategory": "pepper",
+    "days_to_germination": {"min": 10, "max": 14},
+    "germination_soil_temp_f": {"min": 75, "max": 90},
+    "days_to_maturity": {"min": 70, "max": 80},
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": -8, "max": -6},
+      "note": "Start indoors 6–8 weeks before transplanting; Purple Beauty is a compact, early-maturing bell pepper suited to zone 9 where the long warm season allows plenty of time for full purple maturity. In zone 9, transplant March–April. The purple color at harvest is a fully mature stage — not an intermediate green-to-red stage. If left on the plant beyond the purple stage, Purple Beauty peppers will turn red, but the ornamental and culinary purpose of this variety is the purple color, which should be harvested at full purple development. The anthocyanin pigment in Purple Beauty's skin makes the fruit mildly antioxidant-rich. Purple color fades to brown-green when cooked."
+    },
+    "usda_zones": {"min": 3, "max": 11},
+    "spacing_in": {"min": 15, "max": 18},
+    "height_in": {"min": 18, "max": 24},
+    "spread_in": {"min": 15, "max": 18},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Start seeds indoors at 78–85°F; transplant after last frost. Compact plants do not require staking. Harvest peppers at full purple color for best appearance. Purple Beauty is a 1990 All-America Selections-winning bell pepper — a fully blocky, 4-lobed, medium-large sweet bell pepper that matures to a deep purple-violet color rather than the standard red, yellow, or orange of typical bell pepper types. The purple coloration comes from anthocyanin pigments produced in the skin (not the flesh, which remains pale green-white), and the purple color intensifies as the pepper approaches maturity, creating one of the most striking visual effects in the summer garden among vegetables. Purple Beauty is frequently planted in ornamental-edible garden designs and kitchen garden borders where the dark purple fruits contrast dramatically with the green plant and with neighboring yellow and orange peppers. The flavor is standard sweet bell pepper — no heat, with a clean, slightly grassy-sweet taste similar to green bell peppers (purple bell peppers are harvested at the same maturity stage as green bells in terms of flavor development). Purple Beauty's compact plants (18–24 inch) set fruit heavily and are among the earlier-maturing bell peppers, making them well-suited to short-season gardens and zone 9 spring plantings before summer heat affects fruit set.",
+    "sources": [
+      "All-America Selections — Purple Beauty bell pepper AAS winner 1990",
+      "Burpee Seeds — Purple Beauty pepper variety description",
+      "North Carolina State University Extension — Bell Pepper Variety Production Guide"
+    ]
+  },
+  {
+    "slug": "carouby-de-maussane-snow-pea",
+    "common_name": "Carouby de Maussane Snow Pea (French Provence Heirloom Large Flat Edible-Pod Pea)",
+    "scientific_name": "Pisum sativum var. saccharatum 'Carouby de Maussane'",
+    "category": "vegetable",
+    "subcategory": "pea",
+    "days_to_germination": {"min": 7, "max": 14},
+    "germination_soil_temp_f": {"min": 40, "max": 65},
+    "days_to_maturity": {"min": 65, "max": 75},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": -8, "max": -4},
+      "note": "Direct sow as early as soil can be worked; Carouby de Maussane is a tall (4–5 foot) snow pea requiring trellis support. In zone 9, direct sow November–February for spring harvest (March–April); fall planting is preferred in zone 9 where the mild winter allows establishment and early spring production before summer heat arrives. The distinctive large flat pods (3–5 inches) are harvested when still flat and before seeds develop — the snow pea stage. The purple flowers and bicolor pods make this one of the most ornamental of edible pod pea varieties."
+    },
+    "usda_zones": {"min": 2, "max": 9},
+    "spacing_in": {"min": 3, "max": 4},
+    "height_in": {"min": 48, "max": 60},
+    "spread_in": {"min": 6, "max": 10},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Direct sow 1 inch deep along a trellis or fence; thin to 3–4 inches. Provide 4–5 foot support. Harvest pods flat before seeds bulge. Carouby de Maussane is a French Provençal heirloom snow pea — a mangetout (French for 'eat all,' referring to the edible pod) variety from the village of Maussane-les-Alpilles in the Alpilles region of Provence that has been grown continuously in the gardens and small farms of that region for generations. The variety is distinguished by unusually large flat pods (3–5 inches long) that are visually unlike standard snow peas: broader, larger, and often tinged with purple at the shoulders when young — and by the ornamental beauty of the plant itself, which produces the bi-colored purple-and-white flowers of the original pea species (most modern pea varieties have been selected for white-only flowers) against dark green foliage on 4–5 foot vines. The pods have the flat, wide, meaty snow pea character at optimal harvest — tender, crisp, and sweetly flavored without the starchy density of fully-podded shelling peas. Carouby de Maussane is a cold-hardy, vigorous variety well-suited to fall planting in zone 8–9 where it can grow through the mild winter and produce the spring snap-pod harvest before summer heat arrives. The variety is maintained by seed savers and heirloom seed companies as an example of the genetic and culinary diversity that existed in traditional European peasant food gardens.",
+    "sources": [
+      "Seed Savers Exchange — Carouby de Maussane snow pea variety history",
+      "Baker Creek Heirloom Seeds — French heirloom pea collection",
+      "Southern Exposure Seed Exchange — Edible pod pea variety notes"
+    ]
+  },
+  {
+    "slug": "progress-no9-garden-pea",
+    "common_name": "Progress No. 9 Garden Pea (Laxton's Progress Classic English Wrinkled Shell Pea)",
+    "scientific_name": "Pisum sativum 'Progress No. 9'",
+    "category": "vegetable",
+    "subcategory": "pea",
+    "days_to_germination": {"min": 7, "max": 14},
+    "germination_soil_temp_f": {"min": 40, "max": 65},
+    "days_to_maturity": {"min": 60, "max": 68},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": -8, "max": -4},
+      "note": "Direct sow as early as soil can be worked; Progress No. 9 is a semi-dwarf shelling pea (18–24 inch plants) that may need light support (twiggy branches pushed in near plants works well) but is manageable without formal trellising. In zone 9, direct sow November–February for spring harvest (February–April); peas are a cool-season crop that thrives in zone 9's mild winter and will bolt and die in summer heat. Harvest pods when plump and round — shell immediately or refrigerate for up to one week. Progress No. 9 is one of the earliest shelling peas, producing usable pods at 60–68 days."
+    },
+    "usda_zones": {"min": 2, "max": 9},
+    "spacing_in": {"min": 2, "max": 3},
+    "height_in": {"min": 18, "max": 24},
+    "spread_in": {"min": 6, "max": 10},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Direct sow 1 inch deep in rows 18 inches apart; thin to 2–3 inches. Support with short twiggy branches or a low string trellis. Shell pods when plump and round; do not allow to over-mature. Progress No. 9 (also called Laxton's Progress or simply Progress) is a classic English garden pea with a history in British kitchen gardens extending back to the work of Thomas Laxton, the 19th-century English plant breeder who made significant improvements to pea varieties through systematic cross-breeding. The variety produces heavy yields of large, dark green, round pods containing 6–9 large, sweet, wrinkled peas — the wrinkled seed (rugose type) is a characteristic of sweeter, higher-sugar garden peas versus the smoother seeds of field peas, and Progress No. 9 exemplifies the sweet, tender, wrinkled-pea style. The semi-dwarf habit (18–24 inches) makes Progress No. 9 more manageable in home gardens than the tall pole peas like Alderman (Telephone) that require 4–5 foot trellises, while still producing full-sized, well-filled pods of excellent quality. Progress No. 9's early maturity (60–68 days) is particularly valuable in zone 9 where the window between suitable pea-growing temperatures and summer heat is brief — earlier-maturing varieties like Progress complete their harvest before heat stress arrives.",
+    "sources": [
+      "Seed Savers Exchange — Progress No. 9 garden pea heirloom variety history",
+      "Baker Creek Heirloom Seeds — English garden pea variety notes",
+      "Royal Horticultural Society — Historical pea variety documentation (Laxton's Progress)"
+    ]
+  }
+]

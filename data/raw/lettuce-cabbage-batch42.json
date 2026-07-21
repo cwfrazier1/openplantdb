@@ -1,0 +1,157 @@
+[
+  {
+    "slug": "parris-island-cos-romaine",
+    "common_name": "Parris Island Cos Romaine (Classic Upright Tall Romaine Lettuce)",
+    "scientific_name": "Lactuca sativa 'Parris Island Cos'",
+    "category": "vegetable",
+    "subcategory": "lettuce",
+    "days_to_germination": {"min": 7, "max": 14},
+    "germination_soil_temp_f": {"min": 40, "max": 75},
+    "days_to_maturity": {"min": 68, "max": 75},
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {"min": -14, "max": -10},
+      "note": "Start indoors 4–6 weeks before transplanting; Parris Island Cos is the standard tall romaine lettuce of American commercial production and home gardens — a variety so widely planted that it defines the romaine category for most American growers. In zone 9, transplant September–November for fall and winter production, or February–March for spring. Romaine lettuces tolerate light frost (28–30°F) but are damaged by hard freezes. In zone 9, romaine's best quality window is November–April when temperatures keep heads tight and prevent bolting. Direct sowing works well for romaine: scatter seeds 0.25 inch deep and thin to 8–10 inches for full-sized heads, or 4–6 inches for harvesting as cut-and-come-again."
+    },
+    "usda_zones": {"min": 3, "max": 10},
+    "spacing_in": {"min": 8, "max": 10},
+    "height_in": {"min": 8, "max": 12},
+    "spread_in": {"min": 6, "max": 9},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Transplant or direct sow; thin to 8–10 inches for full heads. Harvest whole head or pull outer leaves. Parris Island Cos is a tall romaine (cos) lettuce — named for Parris Island, South Carolina, from the coastal region where the variety was developed and popularized — that became the dominant commercial romaine type in the United States during the mid-20th century and has remained the standard against which other romaine varieties are measured. Romaine (cos) lettuce differs from butterhead and loose-leaf types in its characteristic tall, upright, tightly folded form — the outer leaves are held upright and pressed together, creating a tall, narrow head with a pale, creamy, slightly blanched interior of great crispness and sweetness that is unavailable in the more loosely arranged butterhead types. The inner heart leaves of Parris Island Cos are the hallmark of a proper Caesar salad — the firm-textured, slightly bitter, crisp interior ribs and pale yellow-green heart that define the authentic Caesar experience. Parris Island Cos has good bolt resistance for a romaine (better than some other varieties) and thrives in the cool fall-through-spring window of Gulf South gardens in zone 8–9, where it produces high-quality heads with the sweetness and crispness that makes this variety so widely planted.",
+    "sources": [
+      "Johnny's Selected Seeds — Parris Island Cos romaine variety notes",
+      "Seed Savers Exchange — Romaine lettuce variety history",
+      "University of Florida IFAS Extension — Lettuce Production in the Gulf South"
+    ]
+  },
+  {
+    "slug": "jericho-romaine-lettuce",
+    "common_name": "Jericho Romaine Lettuce (Israeli Heat-Tolerant Bolt-Resistant Cos Lettuce)",
+    "scientific_name": "Lactuca sativa 'Jericho'",
+    "category": "vegetable",
+    "subcategory": "lettuce",
+    "days_to_germination": {"min": 7, "max": 14},
+    "germination_soil_temp_f": {"min": 40, "max": 75},
+    "days_to_maturity": {"min": 57, "max": 70},
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": -8, "max": -4},
+      "note": "Start indoors 4–6 weeks before transplanting; Jericho is exceptional for late spring and early fall planting in zone 9 where standard romaine varieties bolt quickly in warming temperatures. In zone 9, transplant February–March for spring, or September–October for fall. Jericho's heat tolerance means it continues producing for 2–4 weeks longer into spring warming than standard romaine types before bolting — a significant practical advantage in zone 9 where the spring growing window for lettuce is brief. The variety's Israeli breeding (developed near the city of Jericho in a very hot, arid climate) was specifically targeted at producing quality lettuce in conditions that challenge European and North American varieties."
+    },
+    "usda_zones": {"min": 3, "max": 11},
+    "spacing_in": {"min": 8, "max": 10},
+    "height_in": {"min": 8, "max": 12},
+    "spread_in": {"min": 6, "max": 9},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Start indoors 4–6 weeks before transplanting in early spring or fall; transplant to partial shade in warm seasons to extend the harvest. Harvest outer leaves or whole heads when compact and firm. Jericho Romaine is an Israeli-bred romaine (cos) lettuce developed by breeders working in the conditions of the Jordan Valley near the ancient city of Jericho — an arid, extremely hot agricultural region where the development of heat-tolerant lettuce was driven by practical necessity to extend the local growing season. The breeding produced a romaine variety with substantially better heat tolerance and bolt resistance than standard European and American romaine types, and Jericho has become one of the most recommended romaine varieties for warm-climate gardeners and for late-spring plantings in temperate zones where other romaine varieties rapidly bolt when temperatures rise. The heads are upright, tightly folded, medium-large, dark green, with the crisp, mildly bitter interior quality of classic romaine. For zone 9 gardeners, Jericho's heat-tolerance advantage translates to a 2–4 week extension of the spring romaine harvest window before heat triggers bolting — a meaningful extension in climates where the transition from cool to hot weather happens rapidly. Jericho is also appropriate for early fall planting when temperatures are still warm but declining.",
+    "sources": [
+      "Johnny's Selected Seeds — Jericho romaine lettuce heat tolerance trial data",
+      "Territorial Seed Company — Jericho romaine variety description",
+      "Cornell Cooperative Extension — Heat-Tolerant Lettuce Varieties for Extended Production"
+    ]
+  },
+  {
+    "slug": "green-ice-loose-leaf-lettuce",
+    "common_name": "Green Ice Loose-Leaf Lettuce (Crinkled Glossy Heat-Tolerant Loose-Leaf Variety)",
+    "scientific_name": "Lactuca sativa 'Green Ice'",
+    "category": "vegetable",
+    "subcategory": "lettuce",
+    "days_to_germination": {"min": 7, "max": 14},
+    "germination_soil_temp_f": {"min": 40, "max": 75},
+    "days_to_maturity": {"min": 45, "max": 55},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {"min": -14, "max": -10},
+      "note": "Direct sow or start indoors 3–4 weeks before transplanting; Green Ice is a loose-leaf type harvested as individual outer leaves (cut-and-come-again) or as whole young plants (baby leaf at 25–30 days, full plant at 45–55 days). In zone 9, sow September–November and February–March. Green Ice's glossy leaf surface is unusual among loose-leaf lettuces — the glossy texture reduces water evaporation and may contribute to the variety's better-than-average heat tolerance. The deep crinkle of the leaves gives Green Ice a distinctive appearance in the garden and in harvested mixes, and provides good texture contrast when mixed with smoother lettuces. One of the most productive loose-leaf varieties for baby leaf and cut-and-come-again harvesting."
+    },
+    "usda_zones": {"min": 3, "max": 10},
+    "spacing_in": {"min": 6, "max": 9},
+    "height_in": {"min": 8, "max": 12},
+    "spread_in": {"min": 8, "max": 12},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Scatter seeds 0.25 inch deep; thin to 6–9 inches for full plants or leave dense for baby leaf cut-and-come-again. Harvest outer leaves, leaving 4–5 inner leaves to continue growing. Green Ice is a loose-leaf lettuce with a distinctive appearance that sets it apart from other common loose-leaf varieties: the leaves are deeply frilled and crinkled — more so than standard looseleaf types — and have an unusual, almost waxy glossiness on the upper leaf surface that gives the fresh leaves a bright, polished look unlike any other commonly grown lettuce. The deep green color is vibrant and consistent, making Green Ice one of the most visually striking lettuces in garden displays, cut flower and produce market presentations, and harvested salad mixes. The flavor is mild, clean, and slightly sweet — typical of loose-leaf types, without the bitterness of romaine or the grassiness of some outer head leaves. Green Ice's combination of heat tolerance (better than most loose-leaf types), productivity in cut-and-come-again harvest systems, glossy visual appeal, and excellent shelf life after harvest has made it a popular variety with market gardeners and home growers seeking a reliable, attractive loose-leaf for continuous harvest through the cool seasons of zone 8–10.",
+    "sources": [
+      "Johnny's Selected Seeds — Green Ice loose-leaf lettuce variety notes",
+      "Harris Seeds — Green Ice lettuce heat tolerance description",
+      "University of Florida IFAS Extension — Lettuce Variety Selection for Gulf South Gardens"
+    ]
+  },
+  {
+    "slug": "great-lakes-iceberg-lettuce",
+    "common_name": "Great Lakes Iceberg Lettuce (AAS-Winning Original American Crisphead Lettuce)",
+    "scientific_name": "Lactuca sativa 'Great Lakes'",
+    "category": "vegetable",
+    "subcategory": "lettuce",
+    "days_to_germination": {"min": 7, "max": 14},
+    "germination_soil_temp_f": {"min": 40, "max": 75},
+    "days_to_maturity": {"min": 82, "max": 90},
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {"min": -18, "max": -14},
+      "note": "Start indoors 6–8 weeks before transplanting; iceberg crisphead lettuce is challenging to grow in zone 9 because of the long time-to-maturity (82–90 days from transplant) and strict cool-temperature requirements. In zone 9, start seeds in August and transplant in October for a December–January harvest — the brief cool window in zone 9 is marginally adequate for iceberg if timing is precise. Iceberg lettuce heads only in cool temperatures: if warmth arrives before heading is complete, plants bolt to seed without forming the characteristic tight, firm head. Many zone 9 gardeners find that heat-tolerant romaine or butterhead types are more reliably productive than iceberg in zone 9 conditions."
+    },
+    "usda_zones": {"min": 3, "max": 10},
+    "spacing_in": {"min": 12, "max": 14},
+    "height_in": {"min": 8, "max": 12},
+    "spread_in": {"min": 12, "max": 14},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Start indoors 6–8 weeks before transplanting; transplant to cool-season bed. Harvest when head is firm and compact. Great Lakes is the original American crisphead (iceberg) lettuce — developed by W.D. Blystone at the Michigan Agricultural Experiment Station and released in 1941 (awarded All-America Selections in 1944), Great Lakes defined the iceberg lettuce type that became the dominant American commercial and restaurant lettuce through the mid-20th century. Before Great Lakes, commercial head lettuce was dominated by softer butterhead types; Great Lakes demonstrated that crisp, tight-heading lettuce could be grown reliably across a wider range of conditions and shipped the long distances needed for national distribution — characteristics that made it the foundation of the California iceberg lettuce industry that supplied American consumers coast-to-coast. The 'iceberg' name comes from the practice of shipping these firm-headed lettuces packed in ice during rail transport — an innovation in food distribution that made fresh lettuce available nationally for the first time. Great Lakes produces large (1.5–2 lb), very firm, round, pale-green to white-interior heads with the extreme crispness and mild flavor of the classic iceberg type. While largely replaced in commercial production by more uniform hybrid iceberg varieties, Great Lakes remains the reference open-pollinated iceberg for home garden and seed-saving use.",
+    "sources": [
+      "All-America Selections — Great Lakes lettuce AAS winner 1944",
+      "University of California Davis — Crisphead Lettuce Variety History",
+      "Seed Savers Exchange — Great Lakes iceberg lettuce open-pollinated variety notes"
+    ]
+  },
+  {
+    "slug": "gonzales-baby-cabbage",
+    "common_name": "Gonzales Baby Cabbage (Compact Small-Head Cabbage for Small Space Gardens)",
+    "scientific_name": "Brassica oleracea var. capitata 'Gonzales'",
+    "category": "vegetable",
+    "subcategory": "cabbage",
+    "days_to_germination": {"min": 5, "max": 10},
+    "germination_soil_temp_f": {"min": 45, "max": 75},
+    "days_to_maturity": {"min": 66, "max": 75},
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {"min": -16, "max": -12},
+      "note": "Start indoors 6–8 weeks before transplanting; Gonzales produces compact, 3–4 lb cabbage heads on plants spaced 12–14 inches apart — significantly closer spacing than standard full-sized cabbage types (18–24 inches) — making it practical for small raised beds, intensive planting, and gardens where standard cabbage would take too much space. In zone 9, start in July–August and transplant late August–September for November–December harvest. Gonzales is an F1 hybrid with excellent uniformity — plants in a block ripen within a narrow window, allowing single-harvest timing."
+    },
+    "usda_zones": {"min": 2, "max": 10},
+    "spacing_in": {"min": 12, "max": 14},
+    "height_in": {"min": 10, "max": 14},
+    "spread_in": {"min": 12, "max": 14},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Start seeds indoors 6–8 weeks before transplanting; transplant to full sun, fertile soil. Harvest when heads feel firm and solid. Gonzales is a compact, early-maturing F1 hybrid green cabbage designed specifically for closer plant spacing, smaller garden plots, and the restaurant/market garden demand for mini or baby vegetable formats — a market segment that has grown substantially with the trend toward smaller household sizes and the restaurant emphasis on individual-portion vegetables. The heads average 3–4 pounds (compared to 5–8 lbs for full-sized standard green cabbage types) but form a properly tight, round, firm head with the same dense, crinkle-free outer leaves and pale, crisp interior of larger standard types — not a soft or immature head, but a fully developed compact head. Gonzales's early maturity (66–75 days from transplant vs. 80–110 days for full-sized storage types) combined with its compact size makes it particularly practical in zone 9's fall garden where planting time from mid-summer is limited. The flavor is classic mild, sweet, crisp green cabbage — excellent for coleslaw, stir-fries, braises, and fresh salads. The small size is practical for household use where a standard large cabbage requires several meals to consume before it deteriorates.",
+    "sources": [
+      "Johnny's Selected Seeds — Gonzales cabbage F1 hybrid variety notes",
+      "Harris Seeds — Mini cabbage variety comparison",
+      "Cornell Cooperative Extension — Cabbage Production Guide and Variety Selection"
+    ]
+  }
+]

@@ -1,0 +1,157 @@
+[
+  {
+    "slug": "sweet-success-cucumber",
+    "common_name": "Sweet Success Cucumber (AAS-Winning Burpee Seedless Slicer)",
+    "scientific_name": "Cucumis sativus 'Sweet Success'",
+    "category": "vegetable",
+    "subcategory": "slicing cucumber",
+    "days_to_germination": {"min": 7, "max": 10},
+    "germination_soil_temp_f": {"min": 65, "max": 95},
+    "days_to_maturity": {"min": 54, "max": 60},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 0, "max": 2},
+      "note": "Direct sow after last frost when soil is above 65°F; Sweet Success is parthenocarpic (self-fruitful without pollination), making it valuable in greenhouses, low-pollinator areas, and early in the season when bee activity is low. Train vines vertically for best fruit quality — fruits grown suspended tend to be longer and straighter than those touching the ground. Harvest fruits at 9–12 inches for best quality; overripe fruits develop seeds."
+    },
+    "usda_zones": {"min": 3, "max": 11},
+    "spacing_in": {"min": 12, "max": 18},
+    "height_in": {"min": 12, "max": 18},
+    "spread_in": {"min": 36, "max": 72},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Direct sow seeds 1 inch deep after last frost when soil is above 65°F; train vines to a vertical support for best fruit quality and air circulation. Sweet Success is a 1983 All-America Selections-winning burpless cucumber from Burpee that was among the first parthenocarpic (sets fruit without pollination) cucumbers released for home garden use — a trait that allows fruit production in greenhouses, screen porches, or early in the season when pollinators are scarce, without any compromise in fruit quality. The long (10–14 inch), thin, dark green fruits have tender, smooth skin that doesn't require peeling, virtually no seeds when harvested at the right size, and the characteristically mild, sweet, non-bitter flavor of 'burpless' cucumber types — the term referring to reduced cucurbitacin content that causes the bitterness and digestive upset some people experience with older cucumber types. Sweet Success carries resistance to cucumber scab, cucumber mosaic virus, and angular leaf spot. The thin, tender skin and virtually seedless flesh make Sweet Success excellent for fresh eating and sandwich slicing, with a crisp, sweet quality that compares favorably to expensive English greenhouse cucumbers. A landmark variety in the development of the American burpless-seedless cucumber category and still a strong performer nearly 40 years after its introduction.",
+    "sources": [
+      "Burpee Seeds — Sweet Success cucumber AAS winner 1983",
+      "All-America Selections — Sweet Success variety notes",
+      "University of Florida IFAS Extension — Cucumber Production in Florida"
+    ]
+  },
+  {
+    "slug": "salad-bush-cucumber",
+    "common_name": "Salad Bush Cucumber (AAS-Winning Compact Container Slicer)",
+    "scientific_name": "Cucumis sativus 'Salad Bush'",
+    "category": "vegetable",
+    "subcategory": "slicing cucumber",
+    "days_to_germination": {"min": 7, "max": 10},
+    "germination_soil_temp_f": {"min": 65, "max": 95},
+    "days_to_maturity": {"min": 57, "max": 63},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 0, "max": 2},
+      "note": "Direct sow after last frost when soil is above 65°F; Salad Bush is a compact bush-type cucumber with vines spreading only 24–30 inches — approximately half the spread of standard vining types — making it well suited to raised beds, container gardens, and small gardens where standard cucumbers would take too much space. No trellis is required, though light support improves air circulation. Plant 2 per 15-gallon container for patio production."
+    },
+    "usda_zones": {"min": 3, "max": 11},
+    "spacing_in": {"min": 18, "max": 24},
+    "height_in": {"min": 10, "max": 14},
+    "spread_in": {"min": 24, "max": 36},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Direct sow seeds 1 inch deep after last frost when soil is above 65°F; no trellis required for bush types, though light support improves air circulation and fruit quality. Salad Bush is a 1988 All-America Selections-winning slicing cucumber selected specifically for compact, bush-type growth that makes cucumber growing accessible in small gardens, raised beds, and large containers. Standard cucumber vines sprawl 5–8 feet in diameter and require significant trellis support; Salad Bush was bred to produce a compact plant (vines spreading only 24–30 inches) that fits in a large container or small raised bed section without consuming excessive space. The compact habit comes without sacrificing fruit quality: the 8-inch, dark green fruits have the same smooth, mild, sweet flavor and tender skin of the best standard slicing cucumbers, with good disease resistance including cucumber mosaic virus, scab, angular leaf spot, and powdery mildew. Fruit production is concentrated over a shorter window than vining types but can be extended with succession sowings 2–3 weeks apart. Salad Bush remains one of the most practical cucumber choices for balcony, patio, and small-space gardeners who want fresh cucumbers without a large garden footprint.",
+    "sources": [
+      "All-America Selections — Salad Bush cucumber AAS winner 1988",
+      "Burpee Seeds — Container cucumber growing guide",
+      "Cornell Cooperative Extension — Cucumber Variety Trials"
+    ]
+  },
+  {
+    "slug": "bulls-blood-beet",
+    "common_name": "Bull's Blood Beet (Deep Purple Dual-Purpose Beet and Salad Green)",
+    "scientific_name": "Beta vulgaris 'Bull's Blood'",
+    "category": "vegetable",
+    "subcategory": "root",
+    "days_to_germination": {"min": 7, "max": 14},
+    "germination_soil_temp_f": {"min": 50, "max": 75},
+    "days_to_maturity": {"min": 35, "max": 60},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {"min": -12, "max": -8},
+      "note": "Direct sow in well-tilled, slightly acidic to neutral soil (pH 6.0–7.0), 0.5 inch deep; beet seeds are actually seed clusters (1–4 seeds per fruit), so thin to 4–6 inches after germination for root development. For baby salad greens only, no thinning is needed. In zone 9, sow August–October for fall and winter harvest; spring sowings can start as soon as soil is workable in January–February."
+    },
+    "usda_zones": {"min": 2, "max": 10},
+    "spacing_in": {"min": 4, "max": 6},
+    "height_in": {"min": 10, "max": 18},
+    "spread_in": {"min": 4, "max": 8},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Direct sow seeds 0.5 inch deep in well-amended, fertile soil; soak seeds in warm water for 2 hours before planting to soften the seed coat and improve germination. Bull's Blood is an heirloom beet of uncertain but 19th-century origin that has become one of the most popular and visually striking garden beets for its extraordinarily deep, saturated burgundy-red to near-black foliage — leaves so deeply pigmented with betalain and anthocyanin pigments that they appear almost black in some lighting conditions, creating a dramatic ornamental contrast in the garden that is genuinely unlike any other vegetable. The intensely colored leaves make Bull's Blood one of the most popular varieties for baby salad mixes and microgreens, where the deep red-purple color stands out dramatically against green salad components and adds visual appeal to any mixed salad. The stems are deep crimson-red and the roots are deep purple-red throughout; the beets are edible and have good, earthy beet flavor at the baby beet stage (35–40 days) but tend to become coarse and strongly flavored at full size. Bull's Blood is also grown as an ornamental edible in flower borders, container arrangements, and kitchen gardens where its dramatic foliage provides season-long color. A dual-purpose variety valued equally for its culinary versatility (roots and greens) and its ornamental impact.",
+    "sources": [
+      "Seed Savers Exchange — Bull's Blood beet variety notes",
+      "Baker Creek Heirloom Seeds — Beet collection",
+      "Johnny's Selected Seeds — Beet variety description"
+    ]
+  },
+  {
+    "slug": "crosby-egyptian-beet",
+    "common_name": "Crosby's Egyptian Beet (Flat-Root Heirloom Early Beet)",
+    "scientific_name": "Beta vulgaris 'Crosby's Egyptian'",
+    "category": "vegetable",
+    "subcategory": "root",
+    "days_to_germination": {"min": 7, "max": 14},
+    "germination_soil_temp_f": {"min": 50, "max": 75},
+    "days_to_maturity": {"min": 55, "max": 65},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {"min": -12, "max": -8},
+      "note": "Direct sow 0.5 inch deep in well-amended, deeply tilled soil; thin to 4–5 inches apart after germination. Crosby's Egyptian is a somewhat flat-rooted variety that develops well even in shallow or compacted soils where globe-shaped varieties may also struggle; the flat shape is an adaptation to the heavy soils where Egyptian-type beets were historically grown. In zone 9, sow September–November for fall/winter harvest; excellent flavor after light frosts."
+    },
+    "usda_zones": {"min": 2, "max": 10},
+    "spacing_in": {"min": 4, "max": 5},
+    "height_in": {"min": 10, "max": 16},
+    "spread_in": {"min": 4, "max": 6},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Direct sow seeds 0.5 inch deep in well-amended, fertile soil with consistent moisture; thin to 4–5 inch spacing after germination for root development. Crosby's Egyptian is an American heirloom beet dating to before 1869, developed by Josiah Crosby of Massachusetts from the older Egyptian type and named for both its creator and the flat-topped root shape associated with Egyptian-type beets — a distinctly different root form from the round globe shape of Detroit-type beets and the cylindrical shape of Cylindra and Formanova. The flat-topped, medium-sized roots have very dark, nearly black-red skin, deep red flesh with excellent texture, and a rich, sweet, earthy flavor that beet enthusiasts often consider superior to modern round types — more complex and less sweet without being harsh. Crosby's Egyptian is one of the earlier-maturing beet varieties (55–65 days) and was particularly valued in New England gardens for its early productivity when other beets were still sizing up. The slightly flattened shape makes the beets easy to peel evenly after boiling and gives them a distinctive appearance in pickled or roasted presentations. Widely grown in the Northeast and Mid-Atlantic states throughout the 19th and early 20th centuries, Crosby's Egyptian represents the heirloom beet tradition at its finest and remains a deserving choice for gardeners who want historical authenticity alongside excellent eating quality.",
+    "sources": [
+      "Seed Savers Exchange — Crosby's Egyptian beet variety history",
+      "Fedco Seeds — Crosby's Egyptian beet notes",
+      "University of Vermont Extension — Heirloom Vegetable Guide"
+    ]
+  },
+  {
+    "slug": "red-ace-beet",
+    "common_name": "Red Ace Beet (Early Disease-Tolerant Hybrid Globe Beet)",
+    "scientific_name": "Beta vulgaris 'Red Ace'",
+    "category": "vegetable",
+    "subcategory": "root",
+    "days_to_germination": {"min": 7, "max": 14},
+    "germination_soil_temp_f": {"min": 50, "max": 75},
+    "days_to_maturity": {"min": 50, "max": 60},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {"min": -12, "max": -8},
+      "note": "Direct sow 0.5 inch deep in well-tilled, fertile soil; thin to 4–6 inches for best root development. Red Ace germinates reliably across a wide soil temperature range and is particularly valued for its tolerance of Cercospora leaf spot — the main disease limiting beet production in humid regions. In zone 9, sow September–November for fall/winter harvest; Red Ace holds well in the ground after reaching maturity without becoming pithy or woody."
+    },
+    "usda_zones": {"min": 2, "max": 10},
+    "spacing_in": {"min": 4, "max": 6},
+    "height_in": {"min": 10, "max": 16},
+    "spread_in": {"min": 4, "max": 6},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Direct sow seeds 0.5 inch deep in well-amended, fertile soil with consistent moisture; thin to 4–6 inch spacing. Red Ace is a Bejo Seeds F1 hybrid beet that has become one of the most widely recommended standard beet varieties for home gardens and commercial production alike — a globe-shaped, smooth, uniformly sized hybrid that consistently produces high-quality roots with reliable stand establishment, uniform maturity, and excellent disease tolerance (particularly for Cercospora leaf spot, the fungal disease that causes disfiguring brown leaf spots in humid regions). The roots are uniformly round to slightly oval, medium-large (2.5–3 inches diameter), with very smooth, deep red-purple skin, excellent internal uniformity and color (consistently dark red throughout with minimal zoning), and a tender, sweet, earthy-sweet flavor that compares favorably with the best heirloom types while delivering the hybrid advantages of uniformity, consistency, and disease resistance. Red Ace is an all-season variety that performs reliably in spring, fall, and winter production, holds well in cold storage, and has excellent greens quality for dual-purpose use (root plus cooking greens). One of the most practically reliable and consistently productive beet varieties available, recommended by university extension services across North America as a benchmark hybrid against which other beets are evaluated.",
+    "sources": [
+      "Bejo Seeds — Red Ace beet variety notes",
+      "Cornell Cooperative Extension — Beet Variety Evaluation",
+      "Johnny's Selected Seeds — Beet variety comparison chart"
+    ]
+  }
+]

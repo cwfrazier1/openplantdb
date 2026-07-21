@@ -1,0 +1,157 @@
+[
+  {
+    "slug": "dancy-tangerine",
+    "common_name": "Dancy Tangerine (Classic Florida Zipper-Skin Mandarin)",
+    "scientific_name": "Citrus reticulata 'Dancy'",
+    "category": "fruit",
+    "subcategory": "citrus",
+    "days_to_germination": {"min": null, "max": null},
+    "germination_soil_temp_f": {"min": 60, "max": 85},
+    "days_to_maturity": {"min": 1095, "max": 1460},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 2, "max": 8},
+      "note": "Plant grafted trees in spring after frost risk; Dancy tangerine requires well-drained soil — standing water even briefly can cause root rot. In zone 9, Dancy ripens December through January, making it a classic Christmas citrus fruit. Protect from frost below 27°F with frost cloth or row cover when young; established trees tolerate brief exposure to 25–26°F. Space trees 12–15 feet apart, or prune to maintain compact 6–8 foot size for easy harvest."
+    },
+    "usda_zones": {"min": 9, "max": 11},
+    "spacing_in": {"min": 144, "max": 180},
+    "height_in": {"min": 120, "max": 240},
+    "spread_in": {"min": 120, "max": 180},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant grafted nursery trees in full sun, well-drained soil; fertilize with a citrus fertilizer 3 times per year (February, May, September). Dancy is the original American tangerine — named for Col. George L. Dancy of Orange Mills, Florida, who cultivated this variety beginning around 1867, making it one of the oldest named tangerine cultivars in the United States. For over a century, 'Dancy tangerine' was synonymous with 'tangerine' for most Americans — it was the predominant commercial tangerine grown in Florida and the citrus most commonly associated with Christmas stocking traditions, the holiday season timing of its December–January ripening. The fruits are medium-small, oblate, and deep orange-red at maturity with a distinctively loose, easily peeled 'zipper-skin' — the loose skin peels away from the flesh with minimal effort, releasing the fruit in clean, separate segments. The flavor is the classic tangerine profile: tart, sweet, aromatic, and intensely citrus with the characteristic spicy-sweet note that distinguishes tangerines from oranges. Dancy has substantial seeds (8–15 per fruit), which reduces its appeal compared to modern seedless mandarin hybrids; however, the intense traditional tangerine flavor is considered by many to be unmatched by the sweeter but blander modern seedless types. Trees are productive and long-lived in zone 9–11.",
+    "sources": [
+      "University of Florida IFAS Extension — Dancy tangerine historical documentation",
+      "USDA National Plant Germplasm System — Citrus reticulata 'Dancy'",
+      "Florida Department of Citrus — Historical tangerine production records"
+    ]
+  },
+  {
+    "slug": "osceola-southern-highbush-blueberry",
+    "common_name": "Osceola Blueberry (Southern Highbush Large-Berry Low-Chill Blueberry)",
+    "scientific_name": "Vaccinium corymbosum × Vaccinium darrowi 'Osceola'",
+    "category": "berry",
+    "subcategory": "blueberry",
+    "days_to_germination": {"min": null, "max": null},
+    "germination_soil_temp_f": {"min": 55, "max": 75},
+    "days_to_maturity": {"min": 730, "max": 1095},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": -4, "max": 4},
+      "note": "Plant container-grown plants in early spring in highly acidic (pH 4.5–5.5), well-amended, well-drained soil; blueberries require acidic conditions and will fail quickly in alkaline soils. In zone 9, Osceola requires only 150–200 chilling hours (hours below 45°F), making it reliable where northern varieties fail from insufficient winter chill. Plant 2 or more varieties for cross-pollination and improved yields. Osceola ripens May–June in zone 9. Mulch heavily with pine bark or pine straw to maintain soil acidity."
+    },
+    "usda_zones": {"min": 7, "max": 10},
+    "spacing_in": {"min": 60, "max": 84},
+    "height_in": {"min": 48, "max": 72},
+    "spread_in": {"min": 48, "max": 72},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in highly acidic (pH 4.5–5.5), well-drained soil; acidify if necessary with sulfur or peat moss. Mulch with pine bark or pine straw. Osceola is a southern highbush blueberry developed in Florida through the University of Florida breeding program — a hybrid of northern highbush (Vaccinium corymbosum) and the native southern rabbit-eye relative (Vaccinium darrowi) that produces a plant adapted to the warm, humid conditions and low chilling hours of the Gulf South. The challenge of growing blueberries in the Deep South is chilling requirement: most northern highbush varieties need 800–1,200 hours below 45°F per winter to break dormancy and fruit properly, a requirement never met in zone 8–10 winters where chilling hours typically run 150–400. Osceola and other southern highbush varieties were specifically bred for low chilling requirements (150–200 hours), allowing reliable fruiting in zone 8–10 where northern varieties fail. Osceola produces large, firm, high-quality berries with excellent flavor — among the largest of the southern highbush varieties — ripening mid-season (May–June in zone 9). It is one of the most widely planted commercial and home garden blueberries in Florida and along the Gulf Coast.",
+    "sources": [
+      "University of Florida IFAS Extension — Osceola southern highbush blueberry development",
+      "Florida Blueberry Growers Association — Variety selection guide",
+      "Louisiana State University AgCenter — Blueberry Varieties for the Gulf South"
+    ]
+  },
+  {
+    "slug": "pensacola-bahia-grass",
+    "common_name": "Pensacola Bahia Grass (Gulf South Drought-Tolerant Lawn and Pasture Grass)",
+    "scientific_name": "Paspalum notatum 'Pensacola'",
+    "category": "cover-crop",
+    "subcategory": "grass",
+    "days_to_germination": {"min": 14, "max": 28},
+    "germination_soil_temp_f": {"min": 65, "max": 95},
+    "days_to_maturity": {"min": 60, "max": 90},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 2, "max": 8},
+      "note": "Direct sow scarified seed at 5–10 lbs/1000 sq ft in late spring when soil is consistently above 65°F; scratch seed into soil with a rake or slit-seeder for good soil contact. Pensacola Bahia germinates slowly (2–4 weeks) and establishes slowly — expect a full season before a complete stand develops. In zone 9, seed April–June for establishment by fall. Pensacola Bahia goes semi-dormant and may brown during cold winters but recovers reliably in spring."
+    },
+    "usda_zones": {"min": 7, "max": 11},
+    "spacing_in": {"min": 1, "max": 2},
+    "height_in": {"min": 6, "max": 24},
+    "spread_in": {"min": 6, "max": 18},
+    "sun": "full",
+    "water": "low",
+    "directions": "Sow scarified seed at 5–10 lbs per 1,000 sq ft after last frost when soil is warm; keep moist during the slow 2–4 week germination period. Pensacola Bahia is the standard low-maintenance lawn and pasture grass for the Gulf South coastal plain — a cultivar of bahia grass (Paspalum notatum) selected for improved cold tolerance, germination, and lawn quality over the common 'Argentine' type. Bahia grass is unique among Gulf South turf grasses for its extraordinary drought and heat tolerance combined with extremely low input requirements: it grows vigorously in poor, sandy, acidic soils with minimal fertilization, outcompetes many weeds once established, and maintains reasonable appearance through Gulf South summers with little supplemental irrigation. The deep, extensive root system (roots reach 6–8 feet deep) explains the drought tolerance — the roots access soil moisture well below what shallow-rooted turf grasses can reach. Pensacola is a narrower-leaf, more attractive form than common bahia grass, making it more acceptable for residential lawn use while retaining the toughness of the species. The grass is a fixture throughout Florida, coastal Alabama, Mississippi, and Louisiana, where it covers millions of acres of utility areas, roadsides, pastures, and low-maintenance residential lawns.",
+    "sources": [
+      "University of Florida IFAS Extension — Bahia Grass Lawn Management",
+      "Louisiana State University AgCenter — Turf Grass Variety Selection for the Gulf South",
+      "USDA NRCS — Paspalum notatum 'Pensacola' plant guide"
+    ]
+  },
+  {
+    "slug": "st-augustine-grass",
+    "common_name": "St. Augustine Grass (Gulf Coast Standard Warm-Season Lawn Grass)",
+    "scientific_name": "Stenotaphrum secundatum",
+    "category": "cover-crop",
+    "subcategory": "grass",
+    "days_to_germination": {"min": null, "max": null},
+    "germination_soil_temp_f": {"min": 70, "max": 95},
+    "days_to_maturity": {"min": 30, "max": 60},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "warm",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 2, "max": 8},
+      "note": "Establish from sod, plugs, or sprigs (not from seed, as no commercially viable seed is available); plant when soil temperature is consistently above 70°F. In zone 9, plant April–August for best establishment before fall. Mow at 3–4 inches (do not scalp — St. Augustine cannot recover from severe mowing that removes the green leaf tissue). Water deeply 2–3 times per week during establishment; once established, 1 inch per week is usually sufficient in the Gulf South."
+    },
+    "usda_zones": {"min": 8, "max": 11},
+    "spacing_in": {"min": 12, "max": 24},
+    "height_in": {"min": 3, "max": 6},
+    "spread_in": {"min": 12, "max": 24},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Install sod or plant plugs (12 inches apart) in spring through midsummer; keep consistently moist for 4–6 weeks during establishment. Mow at 3–4 inches; never remove more than one-third of the leaf blade at once. St. Augustine grass (Stenotaphrum secundatum) is the dominant lawn grass of the Gulf Coast region — the standard residential, commercial, and golf course rough grass of Florida, coastal Texas, Louisiana, Mississippi, Alabama, and Georgia below zone 8. No other turfgrass matches St. Augustine for shade tolerance among warm-season grasses: it remains acceptably dense under moderate tree canopy where bermudagrass, zoysia, and bahia grass would fail from insufficient light — a critical advantage in the mature tree-shaded residential lots common throughout the Gulf South. The coarse-textured, broad-bladed leaves produce a lush, deep green lawn appearance that is visually distinct from the finer textures of bermuda or zoysia. St. Augustine spreads aggressively by above-ground stolons (runners), quickly filling gaps when plugs are installed correctly. The primary maintenance challenges are chinch bugs (a significant pest throughout the Gulf South), gray leaf spot (a fungal disease that can defoliate in warm, humid conditions), and susceptibility to cold injury below 20°F. Varieties like 'Floratam,' 'Raleigh,' 'Palmetto,' and 'Seville' offer different compromises of cold tolerance, shade tolerance, and disease resistance.",
+    "sources": [
+      "University of Florida IFAS Extension — St. Augustine Grass Lawn Management Guide",
+      "Texas A&M AgriLife Extension — St. Augustine Grass for Texas",
+      "Louisiana State University AgCenter — Warm-Season Turfgrass Variety Comparison"
+    ]
+  },
+  {
+    "slug": "common-bermudagrass",
+    "common_name": "Common Bermudagrass (Warm-Season Sun-Loving Turf and Pasture Grass)",
+    "scientific_name": "Cynodon dactylon",
+    "category": "cover-crop",
+    "subcategory": "grass",
+    "days_to_germination": {"min": 10, "max": 21},
+    "germination_soil_temp_f": {"min": 65, "max": 95},
+    "days_to_maturity": {"min": 45, "max": 75},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 2, "max": 8},
+      "note": "Direct sow hulled bermudagrass seed at 1–2 lbs/1000 sq ft in late spring when soil is consistently above 65°F; use a drop spreader for even distribution and drag or rake lightly to achieve 0.125 inch coverage. In zone 9, seed April–June. Bermudagrass can also be established by sprigs or sod of improved hybrid varieties (Tifway 419, Tifblair, Celebration) that do not produce viable seed. Common bermudagrass from seed is less uniform but less expensive than hybrid types."
+    },
+    "usda_zones": {"min": 7, "max": 11},
+    "spacing_in": {"min": 1, "max": 3},
+    "height_in": {"min": 2, "max": 6},
+    "spread_in": {"min": 12, "max": 24},
+    "sun": "full",
+    "water": "low",
+    "directions": "Broadcast hulled seed at 1–2 lbs per 1,000 sq ft and rake lightly; maintain consistent moisture during germination. Mow at 0.5–1.5 inches for turf use. Common bermudagrass (Cynodon dactylon) is one of the most widely grown warm-season grasses in the world — an aggressive, fine-textured perennial grass that forms dense turf and pasture cover throughout the southern United States, where it is both the most important utility grass and the most problematic weed in garden beds. The same aggressive stolon-and-rhizome growth habit that makes bermudagrass an excellent erosion-control, pasture, and athletic turf grass also makes it notoriously difficult to eradicate from garden beds where it has established — a practical reality every Gulf South gardener learns quickly. Bermudagrass requires full sun (will not persist in shade), tolerates heat, drought, and heavy foot traffic better than almost any other grass, recovers rapidly from damage and wear, and goes straw-brown dormant during winter but greens up again reliably in spring. The key distinction between common bermudagrass (from seed) and hybrid bermudagrasses (Tifway 419, Celebration, Latitude 36, etc.) is that common types are more variable in texture and quality, while improved hybrids offer finer texture, denser growth, and better disease resistance but must be established vegetatively.",
+    "sources": [
+      "University of Florida IFAS Extension — Bermudagrass Lawn Management",
+      "Texas A&M AgriLife Extension — Bermudagrass for Texas Lawns",
+      "USDA NRCS — Cynodon dactylon plant guide"
+    ]
+  }
+]

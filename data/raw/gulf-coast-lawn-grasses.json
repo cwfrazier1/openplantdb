@@ -1,0 +1,157 @@
+[
+  {
+    "slug": "st-augustine-grass",
+    "common_name": "St. Augustine Grass (Gulf Coast Lawn Grass, Floratam)",
+    "scientific_name": "Stenotaphrum secundatum",
+    "category": "flower",
+    "subcategory": "warm-season turf grass",
+    "days_to_germination": {"min": null, "max": null},
+    "germination_soil_temp_f": {"min": 70, "max": 90},
+    "days_to_maturity": {"min": 28, "max": 56},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 0, "max": 8},
+      "note": "Establish from sod, plugs (6–12 inches apart on center), or sprigs after last frost when soil is warm; St. Augustine fills in rapidly in warm conditions — plugs planted 12 inches apart in late spring typically achieve full coverage within 60–90 days in zone 9. Apply slow-release nitrogen fertilizer at planting and again 6–8 weeks later to accelerate establishment."
+    },
+    "usda_zones": {"min": 8, "max": 12},
+    "spacing_in": {"min": 6, "max": 12},
+    "height_in": {"min": 3, "max": 6},
+    "spread_in": {"min": 6, "max": 24},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Establish from sod, plugs, or sprigs in warm soil in spring or early summer; mow at 3.5–4.5 inches and maintain consistent irrigation during establishment. St. Augustine grass (Stenotaphrum secundatum) is the dominant lawn grass of the Gulf South — the standard residential turf in Louisiana, Mississippi, Alabama, the Florida panhandle, and coastal Texas — selected over other warm-season grasses for its combination of the best shade tolerance of any common warm-season turf grass, good salt tolerance, and rapid establishment from vegetative planting. The coarse-textured, medium to dark green blades grow densely enough to crowd out most weeds when properly managed. St. Augustine is not propagated from seed commercially; all plantings use sod, plugs cut from established lawns, or sprigs (stem sections). The most widely planted cultivar in the Gulf South is 'Floratam' (released by University of Florida), which has excellent chinch bug resistance and vigor but relatively poor shade and cold tolerance; 'Palmetto' and 'Seville' are better shade-tolerant alternatives that perform well under trees where Floratam struggles. St. Augustine requires more water than bermuda or zoysia to look its best, is susceptible to chinch bug damage (the most serious pest in zone 9 lawns), and goes dormant and turns tan during hard freezes but recovers reliably in zone 9 conditions. Mow at 3.5–4.5 inches for optimal health and weed suppression.",
+    "sources": [
+      "University of Florida IFAS Extension — St. Augustinegrass for Florida Lawns",
+      "Texas A&M AgriLife Extension — St. Augustine Grass",
+      "Louisiana State University AgCenter — Lawn Grass Selection Guide"
+    ]
+  },
+  {
+    "slug": "bermuda-grass",
+    "common_name": "Bermuda Grass (Common Bermuda, Wiregrass)",
+    "scientific_name": "Cynodon dactylon",
+    "category": "flower",
+    "subcategory": "warm-season turf grass",
+    "days_to_germination": {"min": 5, "max": 14},
+    "germination_soil_temp_f": {"min": 65, "max": 95},
+    "days_to_maturity": {"min": 21, "max": 45},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 0, "max": 6},
+      "note": "Seed or sprig in spring when soil temperatures are consistently above 65°F; common Bermuda grass can be established from seed at 1–2 lbs hulled seed per 1,000 square feet. Hybrid Bermuda grass cultivars (like 'Tifway 419', 'Celebration', 'Latitude 36') must be planted vegetatively from sprigs or sod as they produce little viable seed."
+    },
+    "usda_zones": {"min": 7, "max": 11},
+    "spacing_in": {"min": 4, "max": 12},
+    "height_in": {"min": 2, "max": 6},
+    "spread_in": {"min": 6, "max": 36},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Seed or sprig in spring when soil is above 65°F; mow at 1.5–2 inches for common types or 0.5–1.5 inches for hybrid varieties. Bermuda grass (Cynodon dactylon) is one of the most widespread warm-season turf grasses in the world and the dominant sports and athletic turf in zone 7–11, valued for its exceptional heat and drought tolerance, rapid recovery from wear and damage, and aggressive spreading habit via stolons and rhizomes that produces a dense, fine-textured, resilient sward when properly maintained. Common Bermuda grass can be established from seed (relatively inexpensive) but the finest-textured, most attractive Bermuda lawns use sterile hybrid cultivars established vegetatively: 'Tifway 419' (standard athletic and home turf), 'Celebration' (improved color and shade tolerance), 'TifTuf' (exceptional drought tolerance), and 'Latitude 36' (improved cold tolerance). The major limitation of Bermuda grass for residential use is its extremely poor shade tolerance — it requires at least 6–8 hours of direct sun and thins dramatically under trees — making it unsuitable for many residential lots with mature shade trees. In full sun, however, Bermuda grass is unmatched for durability, heat tolerance, and drought resistance. Goes dormant (tan) with first frost, greening up again when soil temperatures rise above 55°F in spring.",
+    "sources": [
+      "University of Florida IFAS Extension — Bermudagrass for Florida Lawns",
+      "Texas A&M AgriLife Extension — Bermudagrass",
+      "Turfgrass Group at University of Georgia Extension"
+    ]
+  },
+  {
+    "slug": "zoysia-grass",
+    "common_name": "Zoysia Grass (Japanese Lawn Grass, Emerald Zoysia)",
+    "scientific_name": "Zoysia japonica",
+    "category": "flower",
+    "subcategory": "warm-season turf grass",
+    "days_to_germination": {"min": 14, "max": 21},
+    "germination_soil_temp_f": {"min": 70, "max": 90},
+    "days_to_maturity": {"min": 60, "max": 120},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Establish from plugs or sod in spring and early summer; zoysia is slow to establish (plugs typically take a full season to fill in) but extremely persistent once established. Plugs planted 6 inches apart in late spring fill in within 8–12 months in zone 9 conditions. Seeded zoysia (Zoysia japonica cultivars only) is available but slow; plugs and sod are preferred."
+    },
+    "usda_zones": {"min": 6, "max": 11},
+    "spacing_in": {"min": 4, "max": 8},
+    "height_in": {"min": 2, "max": 6},
+    "spread_in": {"min": 4, "max": 24},
+    "sun": "partial",
+    "water": "low",
+    "directions": "Establish from sod or plugs in spring; mow at 1.5–2.5 inches and maintain consistent moisture during establishment — once established, irrigation needs decrease significantly. Zoysia grass encompasses several species (Zoysia japonica, Z. matrella, Z. tenuifolia) and numerous cultivars, ranging from coarse-textured 'Meyer' (Z. japonica) to ultra-fine-bladed 'Zeon' and 'Emerald' (Z. matrella x japonica hybrids), and the thread-fine 'No-Mow' Z. tenuifolia — the variation in texture between cultivars is greater than any other warm-season turf grass. Zoysia's outstanding characteristics are its excellent drought tolerance (deep root system), relatively good shade tolerance (better than Bermuda, approaching St. Augustine), superior cold tolerance (among the hardiest warm-season grasses), dense sod that suppresses weeds, and attractive, dense, fine-textured appearance at maturity. The major limitation is its slow establishment rate — a full season or more to fill in from plugs — and its tendency to go dormant earlier in fall and green up later in spring than other warm-season grasses, giving it a longer dormant brown period in transitional zones. In zone 9, zoysia typically remains green from March through November. Popular cultivars include 'Meyer' (coarse, very cold-hardy), 'Emerald' (fine-textured, shade-tolerant, Gulf South standard), 'Palisades' (excellent drought and shade tolerance), and 'Zeon' (ultra-fine, premium home lawns).",
+    "sources": [
+      "University of Florida IFAS Extension — Zoysiagrass for Florida Lawns",
+      "Texas A&M AgriLife Extension — Zoysia Grass",
+      "Louisiana State University AgCenter — Lawn Grass Selection Guide"
+    ]
+  },
+  {
+    "slug": "centipede-grass",
+    "common_name": "Centipede Grass (Low-Maintenance Gulf South Lawn Grass)",
+    "scientific_name": "Eremochloa ophiuroides",
+    "category": "flower",
+    "subcategory": "warm-season turf grass",
+    "days_to_germination": {"min": 10, "max": 21},
+    "germination_soil_temp_f": {"min": 65, "max": 80},
+    "days_to_maturity": {"min": 45, "max": 90},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 0, "max": 6},
+      "note": "Seed (0.25–0.5 lbs per 1,000 sq ft), sprig, or plug in late spring when soil is above 65°F; centipede grass grows slowly and requires patience during establishment (1–2 full growing seasons for complete coverage from seed), but once established requires minimal inputs. DO NOT over-fertilize — centipede grass is adapted to infertile, acidic soils and excessive nitrogen causes iron chlorosis, scalping, and rapid decline."
+    },
+    "usda_zones": {"min": 7, "max": 9},
+    "spacing_in": {"min": 6, "max": 12},
+    "height_in": {"min": 2, "max": 5},
+    "spread_in": {"min": 4, "max": 24},
+    "sun": "partial",
+    "water": "low",
+    "directions": "Seed or plug in late spring; mow at 1.5–2 inches and fertilize minimally — no more than 1 lb nitrogen per 1,000 sq ft per year. Centipede grass is the low-maintenance lawn grass of the Southeast, occupying an important niche as the grass for homeowners who want an attractive lawn with minimal fertilization, mowing, and irrigation requirements. Native to China and Southeast Asia, centipede grass was introduced to the US in 1916 and spread across the Gulf Coastal Plain states where its preference for acidic soils, low fertility tolerance, moderate shade adaptation, and low water requirements suited the conditions of the pine-forested South. Centipede produces a medium-textured, light to medium green, dense sward that grows slowly enough to require mowing only every 10–14 days. The most critical management consideration is restraint: centipede grass is notoriously susceptible to 'centipede decline' caused by over-fertilization (especially excess nitrogen and phosphorus), high pH (above 6.5), and over-irrigation — it evolved in infertile acidic soils and heavy maintenance inputs push it out of its ecological comfort zone. The ideal centipede lawn receives one application of 15-0-15 or similar fertilizer per year at 0.5–1.0 lb nitrogen per 1,000 sq ft, minimal phosphorus, maintained soil pH of 5.5–6.0, and supplemental irrigation only during drought. 'TifBlair' is the most cold-hardy cultivar; 'Hammock' and 'Tennessee Hardy' are excellent regional selections.",
+    "sources": [
+      "University of Florida IFAS Extension — Centipedegrass for Florida Lawns",
+      "Clemson Cooperative Extension — Centipedegrass Lawns",
+      "Louisiana State University AgCenter — Lawn Grass Selection Guide"
+    ]
+  },
+  {
+    "slug": "seashore-paspalum",
+    "common_name": "Seashore Paspalum (Salt-Tolerant Turf Grass, Sea Green Paspalum)",
+    "scientific_name": "Paspalum vaginatum",
+    "category": "flower",
+    "subcategory": "warm-season turf grass",
+    "days_to_germination": {"min": null, "max": null},
+    "germination_soil_temp_f": {"min": 70, "max": 90},
+    "days_to_maturity": {"min": 30, "max": 60},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 0, "max": 8},
+      "note": "Establish from sprigs or sod after last frost; seashore paspalum is primarily used in coastal areas with saline soils, irrigation with brackish water, or sites near salt water where other turf grasses fail. It is the only commonly available turf grass that can be irrigated with recycled wastewater or mild seawater, making it valuable for coastal commercial turf in water-restricted areas."
+    },
+    "usda_zones": {"min": 8, "max": 12},
+    "spacing_in": {"min": 4, "max": 12},
+    "height_in": {"min": 2, "max": 6},
+    "spread_in": {"min": 4, "max": 24},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Establish from sprigs or sod in spring; mow at 0.5–1.5 inches for fine-textured cultivars or 1.5–3 inches for coarser types. Seashore paspalum (Paspalum vaginatum) is the most salt-tolerant warm-season turf grass available for Gulf Coast and tropical applications — used in coastal golf courses, athletic fields, and landscapes where seawater intrusion, brackish irrigation, and high soil salinity exclude other grasses. While common Bermuda grass and St. Augustine grass tolerate moderate salt exposure, seashore paspalum thrives in conditions that would kill those grasses outright, including irrigation with water having electrical conductivity up to 20+ dS/m (seawater is approximately 55 dS/m). This extraordinary salt tolerance has made it the standard coastal golf course turf in Florida, the Gulf Coast, and tropical beach resorts worldwide. Beyond its salt tolerance, seashore paspalum produces a fine-textured, dense, attractive turf with good wear tolerance and moderate shade tolerance, and it can be maintained at golf-green heights (0.5 inches) without scalping. Modern improved cultivars from the University of Georgia breeding program — 'SeaDwarf', 'SeaStar', 'SeaIsle 1', 'SeaIsle 2000', 'Salam' — have dramatically improved the turf quality, cold tolerance, and overall performance compared to common ecotypes. Most valuable in coastal Gulf South locations but also worth considering for any site where recycled or brackish irrigation water is used.",
+    "sources": [
+      "University of Florida IFAS Extension — Seashore Paspalum Turf Management",
+      "University of Georgia Griffin Campus Turfgrass Research — Paspalum vaginatum breeding",
+      "Texas A&M AgriLife Extension — Turf Selection for the Gulf Coast"
+    ]
+  }
+]

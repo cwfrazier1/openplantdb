@@ -1,0 +1,157 @@
+[
+  {
+    "slug": "jerusalem-artichoke-sunchoke",
+    "common_name": "Jerusalem Artichoke Sunchoke (Native Perennial Sunflower Tuber Vegetable)",
+    "scientific_name": "Helianthus tuberosus",
+    "category": "vegetable",
+    "subcategory": "root",
+    "days_to_germination": {"min": null, "max": null},
+    "germination_soil_temp_f": {"min": 50, "max": 70},
+    "days_to_maturity": {"min": 105, "max": 130},
+    "maturity_from": "transplant",
+    "sow_method": "tuber",
+    "season": "warm",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": -2, "max": 4},
+      "note": "Plant tuber pieces (2–3 inch sections with at least one eye) 4–6 inches deep in spring; sunchoke is a native North American perennial that grows vigorously in the Gulf South, reaching 6–10 feet tall by summer. In zone 9, plant February–April; harvest tubers after fall frost knocks back the tops (November–February). Jerusalem artichoke naturalizes readily from missed tubers — plant in a contained bed or where spreading is acceptable, as it is difficult to fully remove once established. Harvest as needed through the winter; tubers store poorly off the plant but keep well in the ground."
+    },
+    "usda_zones": {"min": 3, "max": 11},
+    "spacing_in": {"min": 18, "max": 24},
+    "height_in": {"min": 72, "max": 120},
+    "spread_in": {"min": 24, "max": 36},
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant 2–3 inch tuber pieces 4–6 inches deep in spring; harvest tubers in late fall through winter after tops die back. Jerusalem Artichoke (Helianthus tuberosus, also called Sunchoke) is a native North American perennial plant of the sunflower family — widely distributed across eastern and central North America where it was cultivated by Indigenous peoples as a staple starchy food long before European contact. The name is misleading: it has no connection to Jerusalem (possibly a corruption of the Italian girasole, meaning sunflower) and is not an artichoke (the flavor resemblance to artichoke heart inspired the name). The edible part is the knobby, irregular underground tuber — tan to purple-skinned with white, crisp flesh that tastes sweet, nutty, and faintly artichoke-like when eaten raw, and takes on a creamier, sweeter character when roasted or cooked. The distinctive carbohydrate of sunchoke tubers is inulin (not starch), a prebiotic fiber that feeds beneficial gut bacteria — making sunchokes notable for their probiotic benefits. The plants themselves are spectacular: 6–10 feet tall by summer, topped with bright yellow sunflowers in late summer and fall. In zone 9, sunchoke thrives with minimal care in the summer heat, requiring no watering once established in reasonably good soil.",
+    "sources": [
+      "Native Seeds/SEARCH — Jerusalem artichoke as Indigenous North American crop",
+      "Johnny's Selected Seeds — Sunchoke tuber production guide",
+      "University of Florida IFAS Extension — Unusual Vegetables for Florida and the Gulf South"
+    ]
+  },
+  {
+    "slug": "egyptian-walking-onion",
+    "common_name": "Egyptian Walking Onion (Perennial Top-Set Onion That Walks Itself Across the Garden)",
+    "scientific_name": "Allium × proliferum",
+    "category": "vegetable",
+    "subcategory": "onion",
+    "days_to_germination": {"min": null, "max": null},
+    "germination_soil_temp_f": {"min": 45, "max": 65},
+    "days_to_maturity": {"min": 120, "max": 180},
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {"min": -12, "max": -8},
+      "note": "Plant topset bulblets or divide the underground clump in fall; Egyptian walking onion is a perennial onion that produces clusters of small aerial bulblets (topsets) at the top of flower stalks instead of seeds. The weight of the topsets bends the stalk to the ground and the bulblets root where they land — the mechanism that gives the plant its 'walking' name. In zone 9, plant fall or early spring. All parts are edible year-round: the hollow green stalks (scallion-like), the underground bulbs (small but onion-flavored), and the aerial topsets (which can be pickled, roasted, or planted). Once established, the planting perpetuates itself indefinitely without replanting."
+    },
+    "usda_zones": {"min": 3, "max": 9},
+    "spacing_in": {"min": 6, "max": 9},
+    "height_in": {"min": 18, "max": 30},
+    "spread_in": {"min": 6, "max": 9},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant topset bulblets 1–2 inches deep or set out divided clumps; harvest green tops, underground bulbs, and aerial topsets at any point during the growing season. Egyptian Walking Onion (Allium × proliferum, also called Tree Onion or Top-Setting Onion) is a perennial onion hybrid — a cross between the common onion (Allium cepa) and the Welsh onion (Allium fistulosum) — with a completely unique reproductive strategy: instead of producing seeds, the plant forms clusters of 4–12 small bulblets (topsets) at the tips of its hollow flower stalks. As the topsets grow and gain weight, the stalks bend toward the ground, the topsets contact soil and root — literally walking the planting across the garden a few inches per year in the direction the stalks lean. This self-propagating behavior makes Egyptian walking onion one of the most self-sufficient perennial vegetables available, perpetuating itself indefinitely once established in the right location. The multiple edible parts (greens, underground bulbs, topset bulblets) provide a continuous harvest across seasons. Egyptian walking onion has a long history in American household gardens as a low-maintenance, multi-purpose allium that provides onion flavor without replanting; seed savers and heirloom plant enthusiasts maintain many named strains with different topset sizes and flavors.",
+    "sources": [
+      "Seed Savers Exchange — Egyptian walking onion variety notes",
+      "Southern Exposure Seed Exchange — Perennial onion collection",
+      "Cornell Cooperative Extension — Perennial Alliums for the Home Garden"
+    ]
+  },
+  {
+    "slug": "blue-lake-pole-bean",
+    "common_name": "Blue Lake Pole Bean (Classic Climbing Standard Snap Bean)",
+    "scientific_name": "Phaseolus vulgaris 'Blue Lake Pole'",
+    "category": "vegetable",
+    "subcategory": "bean",
+    "days_to_germination": {"min": 7, "max": 14},
+    "germination_soil_temp_f": {"min": 60, "max": 85},
+    "days_to_maturity": {"min": 60, "max": 70},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Direct sow after last frost; Blue Lake Pole requires a 6–8 foot trellis, fence, teepee poles, or other support structure — the vines will climb any vertical support readily using their tendrils. In zone 9, plant March–May for spring production and August–September for fall; pole beans are more heat-tolerant than bush types in high summer because the vine continues producing new flowers above the canopy where slightly cooler air circulates. Harvest when pods are 5–6 inches long and still tender and snappy; over-matured pods become fibrous and tough. Pick regularly to extend production — unpicked pods signal the plant to stop flowering."
+    },
+    "usda_zones": {"min": 3, "max": 11},
+    "spacing_in": {"min": 6, "max": 9},
+    "height_in": {"min": 72, "max": 96},
+    "spread_in": {"min": 12, "max": 18},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Direct sow seeds 1 inch deep after last frost near trellis support; harvest pods at 5–6 inches length for best eating quality. Pick every 2–3 days to encourage continued production. Blue Lake Pole is the climbing, vining form of the Blue Lake bean family — the standard against which all green snap beans are measured in American vegetable gardening. The Blue Lake name comes from Blue Lake, California, where commercial snap bean growers in the Humboldt County area developed and refined the variety for the canning industry in the early 20th century. The Blue Lake type (both bush and pole forms) became the dominant American snap bean because it set the standard for straight, dark green, round pods with excellent tenderness, stringlessness, and flavor — characteristics that made it both the go-to home garden bean and the standard for the commercial canning and frozen bean industry. Blue Lake Pole's climbing habit (6–8 feet) gives it significant advantages over the bush form: the vine continues producing over a longer season (12–16 weeks vs. 6–8 weeks for bush), the elevated flowers and pods are slightly cooler and better-ventilated in humid conditions, and the vertical growth makes efficient use of small garden space with a supporting trellis. The beans are indistinguishable in flavor from the bush form — round, meaty, stringless, medium-dark green, with excellent eating quality fresh, frozen, or canned.",
+    "sources": [
+      "Johnny's Selected Seeds — Blue Lake pole bean variety comparison",
+      "Seed Savers Exchange — Blue Lake bean heritage notes",
+      "University of California Cooperative Extension — Snap Bean Varieties for Home Gardens"
+    ]
+  },
+  {
+    "slug": "romance-nantes-carrot",
+    "common_name": "Romance Nantes Carrot (Very Sweet Crack-Resistant Bejo Hybrid Carrot)",
+    "scientific_name": "Daucus carota subsp. sativus 'Romance'",
+    "category": "vegetable",
+    "subcategory": "carrot",
+    "days_to_germination": {"min": 10, "max": 21},
+    "germination_soil_temp_f": {"min": 45, "max": 75},
+    "days_to_maturity": {"min": 70, "max": 75},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {"min": -14, "max": -10},
+      "note": "Direct sow thinly; carrot seed is tiny and needs consistent moisture for the 10–21 day germination period. In zone 9, sow August–November for fall and winter harvest when carrots are at their best; spring planting (February–March) is possible but quality diminishes as temperatures rise. Romance is a Nantes-type hybrid: 7–8 inch, blunt-tipped, cylindrical, uniform roots. Thin to 2–3 inches after seedlings establish (3 weeks after germination); crowded roots become forked and deformed. Romance is noted for excellent crack resistance — roots hold in the ground without splitting even when mature, which extends the harvest window."
+    },
+    "usda_zones": {"min": 3, "max": 10},
+    "spacing_in": {"min": 2, "max": 3},
+    "height_in": {"min": 12, "max": 16},
+    "spread_in": {"min": 2, "max": 3},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Sow seeds 0.25 inch deep in loose, deep, well-worked soil free of rocks and clods; thin to 2–3 inches. Keep soil consistently moist until germination. Romance is a Nantes-type hybrid carrot from Bejo Seeds, a Dutch vegetable breeding company with a long history of Nantes-type carrot refinement. The Nantes type — originating in the Nantes region of western France — defines a carrot form that differs fundamentally from the long Imperator types common in grocery stores: Nantes carrots are shorter (6–8 inches vs. 9–11 inches), blunt-tipped rather than tapering to a point, rounder in cross-section, and notably sweeter with more tender, less fibrous flesh. Romance carries Nantes-type characteristics to a high standard: the roots are uniformly 7–8 inches long with a clean, blunt Nantes tip, bright orange interior color throughout (no pale core), very high sugar content, and notably fine-textured, tender flesh that makes Romance excellent for eating raw as well as cooked. The crack resistance that gives Romance particular value means that unlike some other sweet, high-sugar varieties that develop radial cracks if left in ground too long, Romance holds well after reaching maturity — a practical advantage for home gardeners harvesting over weeks rather than in a single commercial harvest. Fall-grown carrots in zone 9 achieve maximum sweetness as cold nights concentrate sugars in the roots.",
+    "sources": [
+      "Bejo Seeds — Romance carrot F1 hybrid variety notes",
+      "Johnny's Selected Seeds — Nantes carrot variety comparison",
+      "Cornell Cooperative Extension — Carrot Variety Evaluation Guide"
+    ]
+  },
+  {
+    "slug": "iron-lady-tomato",
+    "common_name": "Iron Lady Tomato (Multi-Disease-Resistant Cornell F1 Hybrid Slicer for Humid Climates)",
+    "scientific_name": "Solanum lycopersicum 'Iron Lady'",
+    "category": "vegetable",
+    "subcategory": "tomato",
+    "days_to_germination": {"min": 7, "max": 14},
+    "germination_soil_temp_f": {"min": 65, "max": 85},
+    "days_to_maturity": {"min": 72, "max": 80},
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": -8, "max": -6},
+      "note": "Start indoors 6–8 weeks before transplanting; Iron Lady is indeterminate, requiring staking or caging. In zone 9, transplant February–March for spring production — the heat-resistance and disease package makes Iron Lady one of the better choices for the challenging Gulf South summer, though even Iron Lady will slow in peak summer heat. The disease resistance package (Early Blight, Late Blight, Septoria Leaf Spot, Fusarium and Verticillium wilts, plus tolerance to TSWV) is specifically valuable in the humid Gulf South where foliar fungal diseases devastate unprotected varieties within weeks of transplant. A fall planting (September transplant) often extends production into December."
+    },
+    "usda_zones": {"min": 3, "max": 11},
+    "spacing_in": {"min": 18, "max": 24},
+    "height_in": {"min": 48, "max": 72},
+    "spread_in": {"min": 18, "max": 24},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Start seeds indoors at 70–80°F; transplant after hardening off. Stake or cage immediately; Iron Lady is an indeterminate vine requiring vertical support. Iron Lady is a disease-resistant F1 hybrid tomato developed through the Cornell University Vegetable Program in collaboration with the Public Seed Initiative — a breeding program committed to developing open-access (non-patented) vegetable varieties for organic and conventional farmers. Iron Lady carries one of the most comprehensive disease-resistance packages available in a slicing tomato: confirmed resistance to Early Blight (Alternaria solani), Late Blight (Phytophthora infestans — the disease responsible for the Irish Potato Famine), Septoria Leaf Spot, and Fusarium and Verticillium wilt, plus tolerance to Tomato Spotted Wilt Virus. For Gulf South gardeners in zone 8–10, where the combination of high humidity, warm nights, and heavy summer rainfall creates near-ideal conditions for fungal tomato diseases, Iron Lady's disease package addresses the primary reason tomato plants fail prematurely in the region — not heat or drought, but the rapid defoliation by Early and Late Blight that kills plants before the crop is fully harvested. The tomatoes themselves are medium-sized (4–8 oz), round, deep red, with excellent flavor quality for a disease-resistant type — a notable achievement given that breeders historically faced trade-offs between disease resistance and eating quality.",
+    "sources": [
+      "Cornell University Vegetable Program — Iron Lady tomato development and disease resistance notes",
+      "Johnny's Selected Seeds — Iron Lady tomato variety description",
+      "Louisiana State University AgCenter — Tomato Variety Recommendations for the Gulf South"
+    ]
+  }
+]

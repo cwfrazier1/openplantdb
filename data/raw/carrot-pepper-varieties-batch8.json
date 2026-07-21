@@ -1,0 +1,157 @@
+[
+  {
+    "slug": "red-samurai-carrot",
+    "common_name": "Red Samurai Carrot (Scarlet Japanese Nantes-Type Carrot)",
+    "scientific_name": "Daucus carota 'Red Samurai'",
+    "category": "vegetable",
+    "subcategory": "root",
+    "days_to_germination": {"min": 10, "max": 14},
+    "germination_soil_temp_f": {"min": 50, "max": 75},
+    "days_to_maturity": {"min": 72, "max": 80},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {"min": -14, "max": -10},
+      "note": "Direct sow in a deeply tilled, well-amended bed free of rocks and clods; thin seedlings to 2–3 inches apart when plants reach 2 inches tall. In zone 9, sow September through October for December–February harvest; the cool fall/winter season produces the sweetest roots. Red Samurai develops best color and sweetness when grown in cool weather — summer production produces paler, less sweet roots."
+    },
+    "usda_zones": {"min": 3, "max": 10},
+    "spacing_in": {"min": 2, "max": 3},
+    "height_in": {"min": 8, "max": 14},
+    "spread_in": {"min": 2, "max": 3},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Direct sow seeds thinly, 0.25 inch deep, in deeply tilled, loose, rock-free soil; thin to 2–3 inches when seedlings are 2 inches tall, keeping thinnings for salads. Red Samurai is a Japanese-bred Nantes-type carrot (developed by Takii Seeds of Kyoto) that stands apart from most modern carrot varieties through its extraordinary deep scarlet-red to crimson skin and pinkish-red interior flesh, coloration that comes from lycopene — the same red pigment in tomatoes — rather than from the beta-carotene responsible for orange carrot color. The rich red color makes Red Samurai visually striking in the garden (the feathery tops are standard-green, revealing nothing of the flamboyant root below), stunning when sliced for salads and crudités, and exceptionally nutritious from a lycopene perspective. The roots are long (7–8 inches), slender, tapered in the classic Nantes style, with excellent sweet, mild flavor that compares favorably to the best orange Nantes varieties — the red pigmentation does not negatively affect flavor. Red Samurai is one of the most ornamentally distinctive of all carrot varieties and serves as an outstanding conversation piece in CSA boxes and farmers market displays where its unusual color draws immediate attention. Grows best in cool weather when the roots develop their deepest color; summer-grown roots are paler and somewhat less flavorful. An excellent addition to rainbow carrot mixes or grown on its own for maximum visual impact.",
+    "sources": [
+      "Takii Seeds — Red Samurai carrot variety notes",
+      "Johnny's Selected Seeds — Specialty Carrot Variety Trial",
+      "Cornell Cooperative Extension — Specialty Carrot Variety Evaluation"
+    ]
+  },
+  {
+    "slug": "yaya-carrot",
+    "common_name": "Yaya Carrot (Early Nantes-Type Hybrid Bunching Carrot)",
+    "scientific_name": "Daucus carota 'Yaya'",
+    "category": "vegetable",
+    "subcategory": "root",
+    "days_to_germination": {"min": 10, "max": 14},
+    "germination_soil_temp_f": {"min": 50, "max": 75},
+    "days_to_maturity": {"min": 56, "max": 65},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {"min": -14, "max": -10},
+      "note": "Direct sow in deep, loose, well-amended soil; Yaya is an early maturing Nantes type that reaches harvest size in as few as 56 days — ideal for successive sowing every 2–3 weeks for continuous bunching-carrot harvest. Thin to 2 inches for bunching-size roots; allow 3 inches for larger storage roots. Harvest when roots are finger-thick and 6–7 inches long for best quality and sweetness."
+    },
+    "usda_zones": {"min": 3, "max": 10},
+    "spacing_in": {"min": 2, "max": 3},
+    "height_in": {"min": 8, "max": 14},
+    "spread_in": {"min": 2, "max": 3},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Direct sow 0.25 inch deep in loose, deeply tilled, stone-free soil; keep consistently moist through germination (7–14 days) and thin to 2–3 inches apart. Yaya is a Bejo Seeds hybrid Nantes-type carrot that has become one of the most popular fresh-market and home garden bunching carrots in North America — selected specifically for its early maturity, exceptional sweetness, and consistent cylindrical uniformity that makes bunches visually attractive and professionally presentable. The roots are the classic Nantes shape: blunt-tipped, 6–7 inches long, uniform diameter, with smooth, bright orange skin and minimal core differentiation from the phloem to the xylem — the internal uniformity of color contributing to the sweet, mild, candy-sweet flavor that Yaya is known for. Yaya matures 10–14 days earlier than most mid-season Nantes types, allowing early-season bunching carrot production or an additional succession planting late in the season. It holds well in the ground after reaching maturity without rapid overgrowth or cracking, giving a flexible harvest window. Market gardeners consistently rate Yaya among the highest for customer satisfaction — the exceptional sweetness and uniformity of color and shape are immediately apparent to buyers. One of the best-performing bunching carrots for both farm market sales and home garden fresh eating.",
+    "sources": [
+      "Bejo Seeds — Yaya carrot variety notes",
+      "Johnny's Selected Seeds — Nantes Carrot Variety Comparison",
+      "High Mowing Organic Seeds — Carrot variety evaluation"
+    ]
+  },
+  {
+    "slug": "tam-jalapeno",
+    "common_name": "TAM Jalapeño Pepper (Texas A&M Mild Jalapeño, Low-Heat Jalapeño)",
+    "scientific_name": "Capsicum annuum 'TAM Mild Jalapeño I'",
+    "category": "vegetable",
+    "subcategory": "pepper",
+    "days_to_germination": {"min": 10, "max": 14},
+    "germination_soil_temp_f": {"min": 75, "max": 90},
+    "days_to_maturity": {"min": 68, "max": 75},
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": -8, "max": -6},
+      "note": "Start indoors 6–8 weeks before transplanting after last frost; TAM Jalapeño performs best in full sun with consistent moisture and modest fertilization. In zone 9, transplant March–April for a June–August harvest. The plants are productive and compact, well-suited to container growing, and perform reliably in the Gulf South warm season."
+    },
+    "usda_zones": {"min": 4, "max": 11},
+    "spacing_in": {"min": 18, "max": 24},
+    "height_in": {"min": 24, "max": 36},
+    "spread_in": {"min": 18, "max": 24},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Start seeds indoors 6–8 weeks before transplanting at 80–85°F; TAM Jalapeño is compact, productive, and easy to grow as a warm-season annual in any vegetable garden. TAM Mild Jalapeño I is a Texas A&M University release (developed in 1992 by the university's vegetable breeding program) that addressed a specific and widely held preference: many cooks and eaters want the distinctive fresh, grassy jalapeño flavor that defines Tex-Mex and Southwestern cooking without the significant heat of a standard jalapeño. Standard jalapeños test at 2,500–8,000 Scoville Heat Units — enough to be noticeably and persistently hot for heat-sensitive eaters; TAM Jalapeño measures approximately 1,000–3,500 SHU, a 70–80% reduction in heat while retaining the characteristic jalapeño aroma and flavor profile. The fruits are indistinguishable from standard jalapeños in size and appearance — medium-large (3–4 inches), dark green to red, thick-walled, and blocky — making them ideal for all jalapeño applications where the full flavor is wanted without the burning heat: nachos, salsa, pickled jalapeños (called escabeche), jalapeño poppers, and fresh eating. TAM Jalapeño is widely grown in Texas for processing and fresh market and has developed a devoted following among home gardeners who cook frequently with jalapeños and want to moderate the heat for family members of different heat tolerances. Very productive plants with a long harvest window from green through red ripeness.",
+    "sources": [
+      "Texas A&M AgriLife Research — TAM Mild Jalapeño I variety release",
+      "New Mexico Chile Pepper Institute — Jalapeño variety comparison",
+      "University of Arizona Cooperative Extension — Chile Pepper Production"
+    ]
+  },
+  {
+    "slug": "bishops-crown-pepper",
+    "common_name": "Bishop's Crown Pepper (Christmas Bell Pepper, Joker's Hat, Capsicum UFO)",
+    "scientific_name": "Capsicum baccatum var. pendulum 'Bishop's Crown'",
+    "category": "vegetable",
+    "subcategory": "pepper",
+    "days_to_germination": {"min": 14, "max": 21},
+    "germination_soil_temp_f": {"min": 75, "max": 90},
+    "days_to_maturity": {"min": 80, "max": 95},
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": -10, "max": -8},
+      "note": "Start indoors 8–10 weeks before transplanting after last frost; Capsicum baccatum varieties are slower to establish than C. annuum types and benefit from an extra 2 weeks of indoor growing time. In zone 9, Bishop's Crown often functions as a short-lived perennial, developing into a woody shrub that overwinters in protected sites and produces more heavily in its second year. Harvest at any color stage — green, yellow, orange, or red — each offers slightly different flavor intensity."
+    },
+    "usda_zones": {"min": 9, "max": 12},
+    "spacing_in": {"min": 18, "max": 24},
+    "height_in": {"min": 30, "max": 48},
+    "spread_in": {"min": 18, "max": 30},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Start seeds indoors 8–10 weeks before transplanting at 80–85°F; transplant after last frost to full sun, well-drained soil, spacing plants 18–24 inches apart. Bishop's Crown is one of the most visually distinctive peppers available to home gardeners — a South American Capsicum baccatum variety that produces fruits with an unmistakable three-lobed shape resembling a bishop's crown or mitre when viewed from above, or an upside-down hat when viewed from the side. The fruits are typically 2–3 inches wide and 1.5–2 inches tall — flat, wide, and three-winged with a central pointed lobe — and they ripen from green through yellow and orange to deep red. The three-winged shape is unique among commercially available peppers and makes each fruit instantly recognizable. Beyond the striking visual character, Bishop's Crown delivers the distinctive fruity, citrusy flavor characteristic of Capsicum baccatum varieties — sweeter and more tropical-fruity than C. annuum types with a pleasant heat in the mild-to-medium range (approximately 5,000–20,000 SHU, varying with growing conditions) that builds gradually rather than hitting all at once. The thin walls make the fruits excellent for fresh eating, stuffing with soft cheeses, or quick-pickled as a garnish. The unusual shape makes every bite a conversation starter and the fruits are genuinely beautiful sliced or whole in salads. Very productive and beautiful in the garden as an ornamental-edible plant.",
+    "sources": [
+      "Seed Savers Exchange — Bishop's Crown pepper variety notes",
+      "Baker Creek Heirloom Seeds — Capsicum baccatum collection",
+      "New Mexico State University Chile Pepper Institute — Baccatum species profiles"
+    ]
+  },
+  {
+    "slug": "numex-joe-e-parker",
+    "common_name": "NuMex Joe E. Parker Pepper (Standard New Mexico Green Chile)",
+    "scientific_name": "Capsicum annuum 'NuMex Joe E. Parker'",
+    "category": "vegetable",
+    "subcategory": "pepper",
+    "days_to_germination": {"min": 10, "max": 14},
+    "germination_soil_temp_f": {"min": 75, "max": 90},
+    "days_to_maturity": {"min": 75, "max": 85},
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": -8, "max": -6},
+      "note": "Start indoors 6–8 weeks before transplanting; NuMex Joe E. Parker is the dominant commercial green chile variety for the New Mexico Hatch Valley and performs comparably well throughout the Gulf South where its heat tolerance and thick-walled flesh suit the long, warm growing season. Harvest at the mature green stage (full size, firm, bright green) for fresh roasted green chile use; leave remaining fruits to mature to red for dried red chile or ristras."
+    },
+    "usda_zones": {"min": 4, "max": 11},
+    "spacing_in": {"min": 18, "max": 24},
+    "height_in": {"min": 24, "max": 40},
+    "spread_in": {"min": 18, "max": 24},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Start seeds indoors 6–8 weeks before transplanting at 75–85°F; transplant to full sun, deeply watered soil after last frost. NuMex Joe E. Parker is one of the most commercially important New Mexico chile varieties — a New Mexico State University Chile Pepper Institute release named in honor of Joe E. Parker, a former NMSU Board of Regents member. The variety occupies the essential middle ground of New Mexico chile heat: mild to medium-hot, approximately 500–2,500 Scoville Heat Units, hot enough to have authentic New Mexico chile character but mild enough for broad consumer acceptance. Joe E. Parker is the standard commercial variety for Hatch-brand green chile operations, grown across thousands of acres in the Rio Grande Valley and producing the long (7–9 inch), flat, meaty-walled green fruits used for fresh-roasted whole chiles, canned green chile, green chile stew, and freezing. The fruits roast exceptionally well: thick walls hold up under direct flame, the skin blisters and chars cleanly, and the interior steams to the silky texture essential for authentic New Mexico green chile preparations. When left to mature to red and dried, NuMex Joe E. Parker produces the bright, papery-red pods used in New Mexico ristras and traditional dried red chile. For gardeners who want to grow the authentic Hatch valley chile experience, NuMex Joe E. Parker is the single most representative variety — it defines the flavor and character that New Mexico green chile has meant to American Southwestern cuisine for generations.",
+    "sources": [
+      "New Mexico State University Chile Pepper Institute — NuMex Joe E. Parker variety description",
+      "NMSU College of Agricultural, Consumer and Environmental Sciences",
+      "University of Arizona Cooperative Extension — Chile Pepper Production"
+    ]
+  }
+]

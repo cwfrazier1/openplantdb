@@ -1,0 +1,157 @@
+[
+  {
+    "slug": "lanceleaf-coreopsis",
+    "common_name": "Lanceleaf Coreopsis (Native Perennial Yellow Tickseed Wildflower)",
+    "scientific_name": "Coreopsis lanceolata",
+    "category": "flower",
+    "subcategory": "perennial",
+    "days_to_germination": {"min": 15, "max": 25},
+    "germination_soil_temp_f": {"min": 55, "max": 75},
+    "days_to_maturity": {"min": 90, "max": 150},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": -6, "max": 2},
+      "note": "Direct sow or transplant in fall or early spring; Lanceleaf Coreopsis is a native perennial that self-seeds prolifically once established — a single planting will naturalize and expand over years without replanting. In zone 9, sow fall (September–November) or late winter (January–February) for bloom in spring (April–June) of the same or following season. Coreopsis planted from fall will frequently bloom the following spring; from spring seed, blooms appear by late summer. The species is extremely drought-tolerant once established — one of the most reliably undemanding native perennials for the well-drained, sunny portions of zone 8–9 gardens."
+    },
+    "usda_zones": {"min": 3, "max": 9},
+    "spacing_in": {"min": 12, "max": 18},
+    "height_in": {"min": 12, "max": 24},
+    "spread_in": {"min": 12, "max": 18},
+    "sun": "full",
+    "water": "low",
+    "directions": "Scatter seeds on prepared, weed-free soil and press in without covering; coreopsis seeds need some light for germination. Deadhead spent flowers to extend bloom and prevent self-seeding where not desired. Lanceleaf Coreopsis (Coreopsis lanceolata) is a native perennial wildflower of the eastern and central United States — distributed naturally in open meadows, prairies, roadsides, and disturbed areas from the Atlantic Coast to the Great Plains, south to the Gulf Coast. The bright golden-yellow flowers (1.5–2 inches across) have the characteristic daisy-like form with slightly toothed or lobed ray petals and a central button — instantly recognizable as the defining coreopsis look that has made the genus a staple of native plant and pollinator gardens across North America. As a native plant, Lanceleaf Coreopsis evolved with and provides premium pollinator habitat: the flowers are highly attractive to native bees (bumblebees, mining bees, sweat bees), skippers, and butterflies, providing nectar and pollen from spring through midsummer. The seeds are consumed by native sparrows and small finches, making this a multi-function wildlife plant. Unlike many prairie natives, Lanceleaf Coreopsis blooms heavily in its first year from fall planting, making it more immediately rewarding than species that require two or more seasons to establish before flowering. Its minimal water needs and tolerance of poor, dry soil make it ideal for rain gardens, unirrigated native plantings, and naturalized areas.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center — Coreopsis lanceolata native range and ecology",
+      "North Carolina State University Extension — Native Wildflowers for Pollinator Gardens",
+      "University of Florida IFAS Extension — Native Perennials for Gulf South Landscapes"
+    ]
+  },
+  {
+    "slug": "virginia-mountain-mint",
+    "common_name": "Virginia Mountain Mint (Native Perennial Aromatic Pollinator Mint)",
+    "scientific_name": "Pycnanthemum virginianum",
+    "category": "herb",
+    "subcategory": "herb",
+    "days_to_germination": {"min": 14, "max": 30},
+    "germination_soil_temp_f": {"min": 50, "max": 65},
+    "days_to_maturity": {"min": 365, "max": 730},
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "warm",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": -4, "max": 4},
+      "note": "Divide established clumps in spring or fall and plant 12–18 inches apart; Virginia Mountain Mint is a rhizomatous native perennial that spreads steadily by underground rhizomes once established, eventually forming a substantial colony. It can also be started from seed (surface sow; needs cold stratification or fall sowing), but division is far faster for garden establishment. In zone 9, plant fall or early spring in a moist to well-drained site in full sun or light shade. Blooms July–September. One of the top-rated native plants for pollinator attraction — documented as highly attractive to 200+ native bee species in eastern North American studies."
+    },
+    "usda_zones": {"min": 3, "max": 8},
+    "spacing_in": {"min": 12, "max": 18},
+    "height_in": {"min": 18, "max": 36},
+    "spread_in": {"min": 18, "max": 24},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Plant divisions in moist, well-drained soil; thin rhizome spread by division every 2–3 years if needed. Harvest fresh stems for herbal use any time before flowering. Virginia Mountain Mint (Pycnanthemum virginianum) is a native perennial herb of the mint family (Lamiaceae) native to eastern and central North America from the Atlantic coast west to the Great Plains — one of approximately 20 native Pycnanthemum species in North America, all of which share the common characteristic of intense, spearmint-like aroma from leaves and stems. Pycnanthemum species are among the most scientifically documented pollinator plants in eastern North American native plant research: the dense flat-topped clusters of small, two-lipped white flowers with purple markings attract an extraordinary diversity of native bees, with studies recording 200+ native bee species visiting Pycnanthemum in bloom. This extraordinary pollinator attraction makes Virginia Mountain Mint one of the highest-value native plants for residential pollinator gardens and meadow plantings. The aromatic leaves have culinary and traditional medicinal uses — dried leaves make a spearmint-character tea, fresh leaves can be used as a mint herb substitute, and the strong fragrance deters deer browsing. Virginia Mountain Mint is a robust, reliable native for moist meadow and garden borders where the spreading habit can be accommodated.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center — Pycnanthemum virginianum native range and ecology",
+      "Tallamy, D.W. — Bringing Nature Home: native plant pollinator documentation (Pycnanthemum)",
+      "North Carolina State University Extension — Native Mints for Pollinator Gardens"
+    ]
+  },
+  {
+    "slug": "mississippi-purple-hull-pea",
+    "common_name": "Mississippi Purple Hull Pea (Deep South Garden Crowder Cowpea)",
+    "scientific_name": "Vigna unguiculata 'Mississippi Purple Hull'",
+    "category": "vegetable",
+    "subcategory": "bean",
+    "days_to_germination": {"min": 7, "max": 14},
+    "germination_soil_temp_f": {"min": 65, "max": 95},
+    "days_to_maturity": {"min": 60, "max": 70},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Direct sow after last frost when soil temperature is reliably above 65°F; Southern peas are extremely heat and drought-tolerant once established and require no special soil preparation. In zone 9, plant April–August — Southern peas can be succession-sown throughout the Gulf South summer for continuous harvest. Mississippi Purple Hull is a crowder-type pea with distinctive purple pods that turn green when shelled and cooked. Harvest at the green shell stage (pods are fat and round but before they begin to dry) for fresh eating, or allow to dry fully for storage. The purple pod color makes the harvest stage visually easy to determine."
+    },
+    "usda_zones": {"min": 5, "max": 11},
+    "spacing_in": {"min": 4, "max": 6},
+    "height_in": {"min": 18, "max": 24},
+    "spread_in": {"min": 12, "max": 18},
+    "sun": "full",
+    "water": "low",
+    "directions": "Direct sow seeds 1 inch deep after last frost in rows 24–30 inches apart; thin to 4–6 inches. No fertilizer needed on most soils — cowpeas fix nitrogen. Harvest at the green shell stage for the best fresh flavor. Mississippi Purple Hull Pea is a Southern pea (cowpea, Vigna unguiculata) — a warm-season legume that is one of the most historically important and widely grown vegetables of the American Gulf South and Deep South, where the hot summers that challenge many other vegetables are actually the conditions Southern peas thrive in. The name 'purple hull' describes the distinctive coloration of the pods at harvest: the pods are vivid purple-red, making the harvest stage visually unmistakable in the garden and distinguishing purple hull types from the silver/green pods of cream peas and the tan pods of blackeye peas. Mississippi Purple Hull is a crowder-type pea (the seeds are crowded tightly in the pod, creating the characteristic dimpled, round shape of the shelled peas) — crowder types are considered by many Gulf South cooks to have the richest, meatiest flavor of the Southern pea types, ideal for the slow-cooked preparations that are central to Gulf South foodways. Southern peas are nitrogen-fixing legumes that improve soil fertility while producing — one of the most productive and soil-improving summer crops for zone 8–10 gardens.",
+    "sources": [
+      "Seed Savers Exchange — Mississippi Purple Hull pea variety notes",
+      "Southern Exposure Seed Exchange — Southern pea variety collection",
+      "Louisiana State University AgCenter — Southern Pea Production for the Gulf South"
+    ]
+  },
+  {
+    "slug": "blue-jade-sweet-corn",
+    "common_name": "Blue Jade Sweet Corn (Dwarf Container Steely-Blue Kernel Sweet Corn)",
+    "scientific_name": "Zea mays 'Blue Jade'",
+    "category": "vegetable",
+    "subcategory": "corn",
+    "days_to_germination": {"min": 7, "max": 14},
+    "germination_soil_temp_f": {"min": 60, "max": 85},
+    "days_to_maturity": {"min": 70, "max": 80},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Direct sow in blocks (not rows) for adequate cross-pollination; Blue Jade is a dwarf variety (3 feet) that works in smaller spaces and large containers (15+ gallon). Plant 3 seeds per station and thin to the strongest. In zone 9, plant March–May for spring or late August for fall. Isolate from other corn varieties (400 feet or time isolation of 2 weeks in planting date) to prevent cross-pollination that would change the distinctive blue color. Harvest at the milk stage when kernels are plump and a silk puncture produces a milky liquid; the blue color is most vivid in the raw kernel and fades significantly with cooking."
+    },
+    "usda_zones": {"min": 3, "max": 11},
+    "spacing_in": {"min": 9, "max": 12},
+    "height_in": {"min": 30, "max": 42},
+    "spread_in": {"min": 12, "max": 18},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Direct sow 1 inch deep in blocks of at least 4 rows for pollination; thin to 9–12 inches. Harvest at the milk stage when silk is brown and ears feel full. Blue Jade is a dwarf sweet corn variety notable for two highly distinctive characteristics: plant height and kernel color. Standard sweet corn grows 6–9 feet tall with 8–10 inch ears; Blue Jade produces compact plants only 30–42 inches tall bearing 7–8 inch ears proportionately sized to the plant — a scale reduction that makes corn practical in small raised beds, large containers, and urban gardens where standard corn would be out of proportion. The second distinction is the kernel color: raw kernels are an unusual steely blue to jade-blue — not purple, not black, but a distinctive blue-gray-green that comes from a specific combination of anthocyanins in the pericarp and aleurone layers. The blue color is striking in the raw ear but fades to silver-gray with cooking, as most anthocyanin pigments are heat-sensitive. The flavor is genuinely sweet and excellent for a non-su (standard sweet) corn type — Blue Jade was likely selected when the sugary enhancer or standard genetics of open-pollinated breeding were applied to blue-kerneled breeding lines. Blue Jade is one of the most-photographed home garden corn varieties for its unusual combination of manageable size and striking color.",
+    "sources": [
+      "Baker Creek Heirloom Seeds — Blue Jade corn variety notes",
+      "Seed Savers Exchange — Blue Jade corn heritage documentation",
+      "Cornell Cooperative Extension — Sweet Corn Variety Evaluation Guide"
+    ]
+  },
+  {
+    "slug": "dakota-black-popcorn",
+    "common_name": "Dakota Black Popcorn (Deep Purple-Black Heirloom Popcorn with White Pop)",
+    "scientific_name": "Zea mays var. everta 'Dakota Black'",
+    "category": "vegetable",
+    "subcategory": "corn",
+    "days_to_germination": {"min": 7, "max": 14},
+    "germination_soil_temp_f": {"min": 60, "max": 85},
+    "days_to_maturity": {"min": 95, "max": 110},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 0, "max": 3},
+      "note": "Direct sow in blocks of at least 4 rows for wind pollination; Dakota Black is a standard-height (5–6 foot) popcorn that can be grown anywhere standard corn grows. In zone 9, plant March–May; popcorn requires a longer season than sweet corn (95–110 days) and must be fully dried on the plant or after harvest before popping — harvest in October–November when husks are completely dry and kernels hard. Isolate from sweet corn and other corn types by 400 feet or 2-week planting-date offset to prevent cross-pollination that ruins both crops. Popcorn must be fully dry before popping — test a handful; if it pops well, the rest is ready."
+    },
+    "usda_zones": {"min": 3, "max": 11},
+    "spacing_in": {"min": 9, "max": 12},
+    "height_in": {"min": 60, "max": 72},
+    "spread_in": {"min": 12, "max": 18},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Direct sow 1 inch deep in blocks for pollination; let ears dry completely on the stalk, then harvest and cure an additional 3–4 weeks indoors before popping. Dakota Black is an heirloom popcorn variety with some of the most visually striking dried ears available in home-grown popcorn — the kernels are very deep purple-black, almost jet black, creating ears that are dramatically different from the pale yellow, red, or multicolored ears of other popcorn types. The deep coloration comes from a very high concentration of anthocyanins in the kernel pericarp — the same class of pigments found in black rice, black beans, and blueberries, associated with antioxidant properties. Like all colored popcorn types, Dakota Black pops white (the dark pigment is in the outer pericarp layer, not the starchy endosperm that expands during popping), producing attractive, white, tender-crisp popcorn with good flavor. Dakota Black has a place in the Native American Great Plains agricultural tradition where black, dark purple, and multicolored corns were cultivated alongside white and yellow types — the variety's association with Dakota peoples and plains agriculture gives it cultural significance beyond its ornamental appeal. The dried ears are as valuable for ornamental use (fall decoration, wreaths, dried corn displays) as for eating, making Dakota Black one of the most versatile specialty corns for home gardeners.",
+    "sources": [
+      "Native Seeds/SEARCH — Dakota Black popcorn heirloom documentation",
+      "Baker Creek Heirloom Seeds — Black and dark-kerneled popcorn collection",
+      "Seed Savers Exchange — Dakota Black popcorn variety notes"
+    ]
+  }
+]

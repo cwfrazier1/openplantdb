@@ -1,0 +1,157 @@
+[
+  {
+    "slug": "texas-1015y-sweet-onion",
+    "common_name": "Texas 1015Y Supersweet Onion (Texas A&M Short-Day Gulf Coast Sweet Onion)",
+    "scientific_name": "Allium cepa '1015Y Texas Supersweet'",
+    "category": "vegetable",
+    "subcategory": "onion",
+    "days_to_germination": {"min": 7, "max": 14},
+    "germination_soil_temp_f": {"min": 50, "max": 75},
+    "days_to_maturity": {"min": 170, "max": 200},
+    "maturity_from": "seed",
+    "sow_method": "indoor-start",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {"min": -8, "max": -4},
+      "note": "Start transplants indoors in September–October; the traditional planting date is October 15 in South Texas (the '1015' in the name), and transplants should go into the ground mid-October through November in zone 9. 1015Y is a short-day onion that requires day lengths under 12 hours to initiate bulbing — it cannot be grown in northern zones where short-day conditions don't align with warm enough temperatures for bulb development. Harvest in late March–May when tops begin to fall over naturally. Cure bulbs in a warm, airy location before storage."
+    },
+    "usda_zones": {"min": 7, "max": 10},
+    "spacing_in": {"min": 4, "max": 6},
+    "height_in": {"min": 18, "max": 24},
+    "spread_in": {"min": 4, "max": 6},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Start transplants indoors in September–October at 60–70°F; set out in the garden mid-October in zone 9. Apply nitrogen fertilizer every 2–3 weeks through winter and spring. Texas 1015Y Supersweet (the name means: Texas, October 15 planting date, Yellow skinned) is the signature short-day sweet onion of the Gulf Coast and South Texas — a variety developed at Texas A&M University by Dr. Leonard Pike and released in 1983 that became the defining onion of Gulf Coast commercial and home production. The '1015' refers to the optimal planting date of October 15 in the Rio Grande Valley, where the variety's potential is most fully realized — planted on that date, the onions experience the precise seasonal day-length and temperature progression that produces the largest, sweetest bulbs. Texas 1015Y is the Vidalia of the Gulf Coast: producing enormous (3–5 inch diameter), slightly flattened, sweet, mild bulbs with very low pungency and high water content — a mild enough onion to eat like an apple. The sweetness comes from low pyruvic acid content (the compound responsible for onion bite and tear-inducing character); 1015Y has some of the lowest pyruvic acid levels measured in onion varieties. It stores only moderately (2–3 months) due to the high moisture content that gives the sweet flavor, distinguishing it from pungent storage types.",
+    "sources": [
+      "Texas A&M AgriLife Extension — Texas 1015Y Supersweet onion development by Dr. Leonard Pike",
+      "University of Florida IFAS Extension — Short-Day Onion Production in the Gulf South",
+      "Texas Department of Agriculture — Texas Sweet Onion documentation"
+    ]
+  },
+  {
+    "slug": "copra-storage-onion",
+    "common_name": "Copra Onion (F1 Hybrid Long-Storage Brown Onion)",
+    "scientific_name": "Allium cepa 'Copra F1'",
+    "category": "vegetable",
+    "subcategory": "onion",
+    "days_to_germination": {"min": 7, "max": 14},
+    "germination_soil_temp_f": {"min": 50, "max": 75},
+    "days_to_maturity": {"min": 100, "max": 115},
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": -10, "max": -8},
+      "note": "Start indoors 10–12 weeks before transplanting; Copra is a long-day to intermediate-day onion best suited for zone 5–7 where summer day lengths exceed 14 hours for proper bulbing. It can be grown in zone 8–9 with early spring planting (February–March transplants) where days lengthen adequately before heat arrives. In zone 9, fall-planted varieties like 1015Y are more reliably adapted. Copra excels at long-term storage: cured bulbs keep 6–9 months in proper cool, dry, dark conditions."
+    },
+    "usda_zones": {"min": 3, "max": 9},
+    "spacing_in": {"min": 3, "max": 5},
+    "height_in": {"min": 18, "max": 24},
+    "spread_in": {"min": 3, "max": 5},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Start seeds indoors 10–12 weeks before transplanting; set transplants 3–5 inches apart in rows 12 inches apart. Cure harvested bulbs with tops intact in warm, airy conditions for 2–3 weeks before storage. Copra is a Bejo Seeds F1 hybrid onion that has earned a reputation as one of the best long-keeping onions available — consistently ranking among the top storage onions in variety trials for its combination of high solids content (which concentrates flavor and extends keeping time), thin, tight-fitting brown outer scales, and small, tight-necked tops that dry down cleanly. The 'copra' connection (the dried coconut meat used in oil production) suggests the dried, concentrated character of the bulbs — high in solids, relatively low in water — which gives Copra good pungency but exceptional storage quality (6–9 months in proper conditions versus the 1–3 months of most sweet onions). Copra produces medium-sized (2.5–3 inch), globe-shaped, uniformly brown-skinned bulbs of consistently good quality. The pungency makes Copra most appropriate for cooking (caramelized onions, soups, braises) rather than raw eating, but the storage capability means gardeners can harvest a crop in late summer and have homegrown onions through the following spring.",
+    "sources": [
+      "Bejo Seeds — Copra onion F1 hybrid variety notes",
+      "Johnny's Selected Seeds — Copra onion storage trial data",
+      "Cornell Cooperative Extension — Onion Storage Variety Evaluation"
+    ]
+  },
+  {
+    "slug": "white-portugal-onion",
+    "common_name": "White Portugal Onion (Mild White Heirloom Spring Onion)",
+    "scientific_name": "Allium cepa 'White Portugal'",
+    "category": "vegetable",
+    "subcategory": "onion",
+    "days_to_germination": {"min": 7, "max": 14},
+    "germination_soil_temp_f": {"min": 50, "max": 75},
+    "days_to_maturity": {"min": 100, "max": 120},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": -6, "max": -4},
+      "note": "Direct sow as early as soil can be worked in late winter for fall harvest, or set out transplants 4–6 weeks before last frost; White Portugal is intermediate-day type performing well in zone 6–8 spring plantings where day length increases properly for bulb initiation. In zone 9, fall planting (October–November) as a short-day-adapted spring harvested variety is also possible. White Portugal is excellent harvested young as a scallion (bunching onion) before bulbs develop, making it dual-purpose."
+    },
+    "usda_zones": {"min": 3, "max": 9},
+    "spacing_in": {"min": 3, "max": 5},
+    "height_in": {"min": 18, "max": 24},
+    "spread_in": {"min": 3, "max": 5},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Direct sow or transplant in early spring; pull at any size from scallion stage through full bulb maturity. White Portugal (also called White Silver Queen, Italian White, or White Silverskin in some seed catalogs) is a traditional open-pollinated white-skinned onion with a long history in American and European kitchen gardens — one of the primary heirloom white onions before the development of modern F1 hybrid white types. The bulbs are medium-large, somewhat flattened to globe-shaped, with silvery-white papery skin and white flesh. The flavor is notably milder than yellow storage onions — White Portugal has lower pungency than standard yellow types, making it well-suited for fresh eating, pickling, and preparations where mild onion character is preferred. White Portugal is the traditional pickling onion for pearl onion preparations and for cocktail onions; the white color remains clean through pickling without the discoloration that sometimes occurs with yellow-skinned types. The variety is also excellent harvested young as a green/bunching onion (scallion), where the white sheath and mild flavor make it among the most attractive bunching onions. Being open-pollinated, seed can be saved year to year from the best-formed bulbs.",
+    "sources": [
+      "Seed Savers Exchange — White Portugal onion variety history",
+      "Baker Creek Heirloom Seeds — White onion collection",
+      "Cornell Cooperative Extension — Onion Variety Comparison"
+    ]
+  },
+  {
+    "slug": "monterey-strawberry",
+    "common_name": "Monterey Strawberry (Day-Neutral UC Davis Heavy-Fruiting Strawberry)",
+    "scientific_name": "Fragaria × ananassa 'Monterey'",
+    "category": "berry",
+    "subcategory": "strawberry",
+    "days_to_germination": {"min": null, "max": null},
+    "germination_soil_temp_f": {"min": 50, "max": 70},
+    "days_to_maturity": {"min": 60, "max": 90},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {"min": -12, "max": -8},
+      "note": "Plant bare-root or plugs in fall (September–November in zone 9) for winter establishment and spring through fall harvest; Monterey is a day-neutral variety that produces fruit continuously throughout the growing season rather than in a single concentrated June crop. In zone 9, plant October–November for harvest beginning March–April and continuing until heat stops production in June, then resuming when temperatures cool in September–October. Beds typically remain productive for 2–3 seasons before renewal."
+    },
+    "usda_zones": {"min": 4, "max": 10},
+    "spacing_in": {"min": 12, "max": 18},
+    "height_in": {"min": 6, "max": 10},
+    "spread_in": {"min": 12, "max": 18},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant bare-root or plugs in well-drained, acidic (pH 5.5–6.5), fertile soil; mulch with straw to maintain moisture and keep fruit off the soil. Monterey is a day-neutral strawberry developed by the University of California at Davis and released in 2009 by plant breeders Douglas Shaw and Kirk Larson — a variety bred to combine the high-productivity and large berry size of California commercial strawberries with the continuous-production advantage of day-neutral types. Day-neutral strawberries (unlike traditional June-bearing types) produce fruit throughout the growing season regardless of day length — triggered to bloom and fruit by temperature rather than day length. This gives Monterey a very long harvest window in zone 8–10, where it can produce from early spring through late fall with a summer break during the hottest months. The berries are large (1–1.5 inch diameter), firm, and very flavorful — significantly more aromatic and sweet than many commercial varieties, though with the large size that makes them visually attractive. Monterey was developed for California coast conditions (mild summers, year-round production) and performs exceptionally well in Gulf Coast fall and spring conditions that mimic coastal California temperatures.",
+    "sources": [
+      "University of California Davis Plant Breeding — Monterey strawberry release notes",
+      "University of Florida IFAS Extension — Strawberry Variety Selection for the Gulf South",
+      "California Strawberry Commission — Day-Neutral Strawberry Variety Guide"
+    ]
+  },
+  {
+    "slug": "black-jack-fig",
+    "common_name": "Black Jack Fig (Compact Semi-Dwarf Dark-Fruited Container Fig)",
+    "scientific_name": "Ficus carica 'Black Jack'",
+    "category": "fruit",
+    "subcategory": "fig",
+    "days_to_germination": {"min": null, "max": null},
+    "germination_soil_temp_f": {"min": 60, "max": 85},
+    "days_to_maturity": {"min": 730, "max": 1095},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "warm",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 2, "max": 8},
+      "note": "Plant cuttings or nursery plants in spring in full sun; Black Jack is semi-dwarf (8–12 feet) and can be maintained smaller with annual pruning, making it well-suited to containers (15-25 gallon) and small spaces. In zone 9, Black Jack typically produces two crops: a small breba (early) crop on old wood in June and a larger main crop on new wood in August–October. Protect from frost below 20°F when young; established trees tolerate brief periods to 15–18°F."
+    },
+    "usda_zones": {"min": 7, "max": 11},
+    "spacing_in": {"min": 96, "max": 144},
+    "height_in": {"min": 96, "max": 144},
+    "spread_in": {"min": 96, "max": 144},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant nursery trees or rooted cuttings in full sun, well-drained soil; prune in late winter to maintain size and shape. Black Jack is a compact, semi-dwarf fig tree — a sport or selection from the Brown Turkey class producing somewhat smaller stature (8–12 feet rather than the 15–25 feet of standard fig trees) while bearing large, richly flavored dark purple-black fruits. The moderate compact habit makes Black Jack one of the most practical fig varieties for residential gardens and particularly well-suited to large containers (20–25 gallon) for small spaces, patios, and areas where a standard-sized fig would be too large. The fruits are medium to large, elongated, with dark purple-black to near-black skin and deep strawberry-red flesh — a visually dramatic appearance that makes the fruits ornamentally attractive at the harvest stage. The flavor is rich, very sweet, and fig-like with deep, complex, sweet notes that improve when fruits are allowed to fully ripen on the tree (they should feel soft and droop slightly at the neck before harvest). Black Jack produces reliably in zone 7–11 with proper cold protection when young. In zone 9, the long, warm growing season allows excellent main crop development and often a bonus early-season breba crop.",
+    "sources": [
+      "California Rare Fruit Growers — Black Jack fig variety notes",
+      "University of California Cooperative Extension — Fig Varieties for California",
+      "Louisiana State University AgCenter — Fig Production for the Gulf South"
+    ]
+  }
+]

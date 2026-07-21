@@ -1,0 +1,157 @@
+[
+  {
+    "slug": "georgia-southern-collards",
+    "common_name": "Georgia Southern Collards (Classic Old-Fashioned Southern Heirloom Collard)",
+    "scientific_name": "Brassica oleracea var. acephala 'Georgia'",
+    "category": "vegetable",
+    "subcategory": "collard",
+    "days_to_germination": {"min": 5, "max": 10},
+    "germination_soil_temp_f": {"min": 45, "max": 75},
+    "days_to_maturity": {"min": 75, "max": 85},
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {"min": -14, "max": -10},
+      "note": "Start indoors 6–8 weeks before transplanting or direct sow 12–14 weeks before first frost; in zone 9, transplant August–September for fall and winter production or February–March for spring. Georgia Southern is the traditional large, open, heat-tolerant collard of the Deep South — it grows larger and more productively in zone 8–9 than most other collard varieties and is particularly adapted to the Gulf Coast's mild winters. Light frost improves the flavor; hard freezes below 20°F can damage large plants."
+    },
+    "usda_zones": {"min": 3, "max": 11},
+    "spacing_in": {"min": 18, "max": 24},
+    "height_in": {"min": 24, "max": 48},
+    "spread_in": {"min": 24, "max": 36},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Start seeds indoors 6–8 weeks before transplanting; transplant to full sun in fertile, well-drained soil. Georgia Southern (also simply 'Georgia Collards' or 'Old Georgia') is the foundational heirloom collard variety of the American South — an open-pollinated type with a continuous documented growing history in Southern gardens spanning well over a century, representing the traditional collard before the development of modern compact hybrids. Plants grow 3–4 feet tall and 2–3 feet wide, producing large, broad, blue-green, relatively smooth leaves with a somewhat open, non-heading habit. The flavor is the classic Southern collard character: substantial, slightly bitter when raw, sweet and savory when cooked slowly with salt pork, ham hocks, or smoked turkey — the traditional pot-likker preparation where the cooking liquid becomes as important as the greens themselves. Georgia Southern is notably heat-tolerant for a brassica, surviving Gulf South summers better than most collard varieties, and produces some of the most vigorous growth in the warm, humid conditions of zone 8–10 fall and winter gardens. Its open-pollinated nature allows seed saving from the most productive plants year after year.",
+    "sources": [
+      "Seed Savers Exchange — Georgia Southern collard variety history",
+      "Southern Exposure Seed Exchange — Traditional Southern collard varieties",
+      "University of Georgia Cooperative Extension — Collard Production in the Southeast"
+    ]
+  },
+  {
+    "slug": "vates-collards",
+    "common_name": "Vates Collards (Compact Slow-Bolt Virginia Station Collard)",
+    "scientific_name": "Brassica oleracea var. acephala 'Vates'",
+    "category": "vegetable",
+    "subcategory": "collard",
+    "days_to_germination": {"min": 5, "max": 10},
+    "germination_soil_temp_f": {"min": 45, "max": 75},
+    "days_to_maturity": {"min": 75, "max": 85},
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {"min": -14, "max": -10},
+      "note": "Start indoors 6–8 weeks before transplanting; Vates is a compact collard (18–24 inch plants) appropriate for small gardens where the 3–4 foot Georgia types would be too large. In zone 9, transplant August–September for fall and winter harvest. Vates shows excellent cold hardiness and slow bolting in spring, which extends the harvest into early spring when other types bolt prematurely."
+    },
+    "usda_zones": {"min": 3, "max": 11},
+    "spacing_in": {"min": 15, "max": 20},
+    "height_in": {"min": 18, "max": 24},
+    "spread_in": {"min": 18, "max": 24},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Start seeds indoors 6–8 weeks before transplanting; transplant to fertile, well-drained soil in full sun. Vates is an open-pollinated collard developed at the Virginia Agricultural and Experiment Station (the acronym 'VATES' gives the variety its name) specifically for compact size, dark color, and improved cold tolerance compared to the taller, more open Georgia types. Vates produces distinctly compact plants (18–24 inches tall vs. the 36–48 inches of Georgia Southern), with upright, heavy, dark blue-green leaves that are more tightly held on the stem than the open habit of older types. The compact habit makes Vates practical for smaller garden spaces and easier to manage in the fall garden without the sprawling character of the traditional large types. The dark blue-green color is visually attractive and indicates high chlorophyll content. Vates shows better cold hardiness than Georgia types — surviving temperatures to 15–18°F rather than the 20–23°F limit of less cold-hardy types — and is notably slow to bolt in spring. This slow-bolting character extends the productive leaf harvest into late spring, 2–4 weeks beyond when other varieties have bolted and become bitter. Vates is consistently recommended by eastern U.S. extension services as one of the most reliable all-purpose collard varieties.",
+    "sources": [
+      "Virginia Cooperative Extension — Vates collard development and notes",
+      "Southern Exposure Seed Exchange — Vates collard variety description",
+      "North Carolina State University Extension — Collard Variety Recommendations"
+    ]
+  },
+  {
+    "slug": "blue-curled-scotch-kale",
+    "common_name": "Blue Curled Scotch Kale (Classic Tightly-Curled Dwarf Blue Kale)",
+    "scientific_name": "Brassica oleracea var. sabellica 'Blue Curled Scotch'",
+    "category": "vegetable",
+    "subcategory": "kale",
+    "days_to_germination": {"min": 5, "max": 10},
+    "germination_soil_temp_f": {"min": 45, "max": 75},
+    "days_to_maturity": {"min": 55, "max": 70},
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {"min": -14, "max": -10},
+      "note": "Start indoors 6–8 weeks before transplanting; Blue Curled Scotch is a dwarf type (12–16 inch plants) appropriate for small gardens and container growing. In zone 9, transplant August–September for fall and winter harvest. The tightly curled leaves trap water in their crinkles, so watering and harvest timing after heavy rains requires slightly more care than with flat-leaf kale types. Multiple light frosts improve the sweetness significantly — the flavor peak is November–January in zone 9."
+    },
+    "usda_zones": {"min": 3, "max": 10},
+    "spacing_in": {"min": 12, "max": 18},
+    "height_in": {"min": 12, "max": 18},
+    "spread_in": {"min": 12, "max": 18},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Start seeds indoors 6–8 weeks before transplanting; transplant to full sun or partial shade. Blue Curled Scotch (also called Dwarf Blue Curled Scotch or Blue Curled Dwarf) is one of the oldest and most recognized curly kale varieties in American cultivation — a compact, very tightly-curled kale with deeply blue-green, intensely frilled and crinkled leaves on a low, spreading, dwarf plant. The very dense curling of Blue Curled Scotch is the most extreme in the curly kale category — each leaf is curled and recurled into a compact, almost cabbage-like head of texture that is visually striking and creates distinctive culinary behavior when cooked (the very curly leaves trap oils and seasonings in their folds). The tightly frilled leaves also create the most decorative appearance among common kale varieties, making Blue Curled Scotch useful in ornamental kitchen gardens and edible landscape plantings where visual appeal is important. The dwarf habit (12–18 inches) is practical in raised beds and containers. Like all curly kales, flavor improves dramatically after frost — the sweetness increases and the bitterness decreases as cold temperatures convert starches to sugars, making fall and winter the optimal harvest window.",
+    "sources": [
+      "Seed Savers Exchange — Blue Curled Scotch kale variety history",
+      "Johnny's Selected Seeds — Curly kale variety comparison",
+      "Cornell Cooperative Extension — Kale Variety Evaluation"
+    ]
+  },
+  {
+    "slug": "danish-ballhead-cabbage",
+    "common_name": "Danish Ballhead Cabbage (Large Late-Season Storage Cabbage for Sauerkraut)",
+    "scientific_name": "Brassica oleracea var. capitata 'Danish Ballhead'",
+    "category": "vegetable",
+    "subcategory": "cabbage",
+    "days_to_germination": {"min": 5, "max": 10},
+    "germination_soil_temp_f": {"min": 45, "max": 75},
+    "days_to_maturity": {"min": 100, "max": 115},
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {"min": -20, "max": -16},
+      "note": "Start indoors 6–8 weeks before transplanting; Danish Ballhead is a long-season cabbage (100–115 days) best suited for fall production in zone 9 — start indoors in June–July and transplant late August for November–January harvest. Provide consistent moisture and fertility throughout the long growing season. Danish Ballhead produces very large heads (5–8 lbs) that hold well in the garden after reaching maturity without cracking, making it flexible for harvest timing in cool fall conditions."
+    },
+    "usda_zones": {"min": 2, "max": 10},
+    "spacing_in": {"min": 18, "max": 24},
+    "height_in": {"min": 12, "max": 16},
+    "spread_in": {"min": 18, "max": 24},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Start seeds indoors 6–8 weeks before transplanting; transplant to full sun, fertile, well-drained soil. Danish Ballhead is a classic large-headed fall/storage cabbage from the Scandinavian and Northern European tradition — one of the primary heirloom cabbages for sauerkraut production, coleslaw for large quantities, and long-term cold storage. The very large (5–8 lb), perfectly round, extremely dense, blue-green heads form tight, compact, hard balls — the firmness that gives Ballhead its name means the heads have a very high leaf-to-air-space ratio, ideal for shredding into sauerkraut. Danish Ballhead has been the reference variety for Scandinavian sauerkraut production for generations — Scandinavian food traditions rely heavily on fermented cabbage through the winter months, and the large, dense, sweet heads of late-season cabbage like Danish Ballhead are the ideal base. The variety keeps very well after harvest — 3–4 months in proper cold storage (near 32°F with high humidity) — providing fresh cabbage through winter. Excellent for coleslaw, braised preparations, and fresh use.",
+    "sources": [
+      "Seed Savers Exchange — Danish Ballhead cabbage variety history",
+      "Baker Creek Heirloom Seeds — Storage cabbage collection",
+      "Cornell Cooperative Extension — Cabbage Storage and Sauerkraut Production"
+    ]
+  },
+  {
+    "slug": "savoy-king-cabbage",
+    "common_name": "Savoy King Cabbage (AAS-Winning Savoyed Crinkled-Leaf Hybrid Cabbage)",
+    "scientific_name": "Brassica oleracea var. sabauda 'Savoy King'",
+    "category": "vegetable",
+    "subcategory": "cabbage",
+    "days_to_germination": {"min": 5, "max": 10},
+    "germination_soil_temp_f": {"min": 45, "max": 75},
+    "days_to_maturity": {"min": 85, "max": 95},
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {"min": -16, "max": -12},
+      "note": "Start indoors 6–8 weeks before transplanting; in zone 9, start in July and transplant late August–September for November–January harvest. Savoy King's crinkled leaves make it the most cold-hardy of common cabbage types — the loose, blistered structure allows the cells to flex during freezing rather than rupturing. Use savoy cabbage raw in salads (the tender leaves are softer than standard cabbage), cooked in soups where the crinkled leaves add texture, or wrapped around meat for stuffed cabbage rolls."
+    },
+    "usda_zones": {"min": 2, "max": 10},
+    "spacing_in": {"min": 18, "max": 24},
+    "height_in": {"min": 12, "max": 16},
+    "spread_in": {"min": 18, "max": 24},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Start seeds indoors 6–8 weeks before transplanting; transplant to full sun, fertile soil. Savoy King is a 1965 All-America Selections-winning savoy (crinkle-leaved) cabbage — a type that differs fundamentally from standard smooth-headed cabbages in leaf texture, flavor, and culinary applications. Savoy cabbage produces the characteristic deeply blistered, puckered, crinkled leaves that make the head appear almost frilly compared to the smooth-skinned heads of standard green or red types. The crinkled texture comes from the faster growth rate of the leaf blade relative to the midrib — the excess blade tissue buckles and folds into the distinctive savoy pattern. Flavor-wise, savoy cabbage is notably sweeter, more tender, and less sulfurous than standard round cabbages — the crinkled leaves have a more delicate character that makes savoy preferred for raw salads (the soft, tender leaves wilt pleasantly rather than staying tough) and for elegant stuffed cabbage preparations where the flexible leaves wrap easily around fillings. Savoy King produces large (4–6 lb), well-domed, attractive heads with deep blue-green coloring and the decorative crinkled surface that makes it one of the most ornamental cabbages in the winter garden.",
+    "sources": [
+      "All-America Selections — Savoy King cabbage AAS winner 1965",
+      "Burpee Seeds — Savoy King variety notes",
+      "Cornell Cooperative Extension — Savoy Cabbage Production and Variety Comparison"
+    ]
+  }
+]

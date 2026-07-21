@@ -1,0 +1,157 @@
+[
+  {
+    "slug": "hannah-sweet-potato",
+    "common_name": "Hannah Sweet Potato (White-Fleshed Dry-Type NCSU Sweet Potato)",
+    "scientific_name": "Ipomoea batatas 'Hannah'",
+    "category": "vegetable",
+    "subcategory": "sweet potato",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 90, "max": 100},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Plant certified slips after last frost when soil has warmed above 65°F; Hannah is a white-fleshed sweet potato that produces in approximately 90–100 days and is harvested before the first fall frost. In zone 9, set slips in late March through April for a July–September harvest; mulch beds to conserve moisture and suppress weeds through the hot summer growing period."
+    },
+    "usda_zones": {"min": 5, "max": 11},
+    "spacing_in": {"min": 12, "max": 18},
+    "height_in": {"min": 12, "max": 18},
+    "spread_in": {"min": 36, "max": 60},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant rooted slips after last frost when soil is above 65°F, setting each slip 3–4 inches deep with the crown at or just above soil level; Hannah is a white-fleshed, cream-to-tan skinned sweet potato developed by North Carolina State University that has become one of the most popular white-fleshed varieties in US production — offering a substantially different culinary experience than the familiar orange-fleshed types. The flesh is cream to pale ivory, firm, and notably dry (less moist than orange varieties), with a mild, subtly sweet flavor that reads more like a russet potato than a typical sweet potato — making Hannah uniquely versatile for preparations like roasted potato dishes, gratins, soups, and anywhere a firm, dry-textured potato is preferred. The dry, non-gummy texture means it mashes cleanly, holds together in casseroles, and is excellent when baked whole with a crisp skin. Hannah produces smooth-skinned, uniform tubers in a standard 90–100 day window and yields reliably in Southern and Gulf Coast production areas. For gardeners familiar only with orange-fleshed sweet potatoes, Hannah represents a practical bridge variety that can replace russet potatoes in the garden while still being a true sweet potato culturally and agronomically.",
+    "sources": [
+      "North Carolina State University Extension — Sweet Potato Variety Handbook",
+      "Louisiana State University AgCenter — Sweet Potato Varieties",
+      "National Sweet Potato Collaborators Group variety evaluations"
+    ]
+  },
+  {
+    "slug": "thai-bird-pepper",
+    "common_name": "Thai Bird's Eye Pepper (Phrik Khi Nu, Bird's Eye Chile)",
+    "scientific_name": "Capsicum frutescens 'Bird's Eye'",
+    "category": "vegetable",
+    "subcategory": "pepper",
+    "days_to_germination": {"min": 10, "max": 21},
+    "germination_soil_temp_f": {"min": 75, "max": 90},
+    "days_to_maturity": {"min": 75, "max": 90},
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": -8, "max": -6},
+      "note": "Start indoors 6–8 weeks before transplanting after last frost; in zone 9 Thai bird peppers are effectively perennial — established plants survive mild winters, producing prolifically for 2–3 years before eventually declining. To overwinter, mulch heavily at the base; plants resprout from roots in spring if temperatures don't drop below about 28°F."
+    },
+    "usda_zones": {"min": 9, "max": 12},
+    "spacing_in": {"min": 18, "max": 24},
+    "height_in": {"min": 18, "max": 36},
+    "spread_in": {"min": 18, "max": 24},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Start seeds indoors 6–8 weeks before transplanting at 80–90°F; Thai bird's eye pepper (called 'phrik khi nu' — literally 'mouse dropping pepper' — in Thai, or simply 'bird's eye chile' across Southeast Asia) is the small, intensely hot pepper that provides the backbone of heat in Thai, Vietnamese, Lao, and Cambodian cuisines. The tiny fruits (1/2 to 3/4 inch long, narrow, conical) start green and ripen to vivid red, with heat levels measuring 50,000–100,000 Scoville units — substantially hotter than jalapeños but less scorching than habaneros — and a clean, bright, fruity heat without the floral overtones of chinense-type peppers. The small size means many peppers are sliced directly into dishes or pounded whole in mortars; Thai bird's eye peppers carry their heat through both flesh and seeds with essentially no mild portion, making them one of the most reliably fiery culinary peppers. Capsicum frutescens produces smaller, more compact plants than C. annuum with multiple upright-pointing fruits on each branch — the characteristic upright fruit habit distinguishes it from most common peppers. In zone 9+, plants become woody perennial shrubs (2–3 feet tall and wide) producing enormous numbers of peppers continuously from summer through fall and into winter during warm years. Production per plant is staggering once established — a mature zone 9 plant produces thousands of peppers per season, far more than most families can use fresh.",
+    "sources": [
+      "Kitazawa Seed Company — Asian Vegetable Pepper Guide",
+      "University of Florida IFAS Extension — Hot Pepper Production",
+      "USDA Agricultural Research Service — Capsicum germplasm database"
+    ]
+  },
+  {
+    "slug": "cajun-delight-okra",
+    "common_name": "Cajun Delight Okra (AAS-Winning Compact Early Hybrid Okra)",
+    "scientific_name": "Abelmoschus esculentus 'Cajun Delight'",
+    "category": "vegetable",
+    "subcategory": "okra",
+    "days_to_germination": {"min": 7, "max": 14},
+    "germination_soil_temp_f": {"min": 65, "max": 95},
+    "days_to_maturity": {"min": 55, "max": 60},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 1, "max": 4},
+      "note": "Direct sow after last frost when soil is warm; Cajun Delight is an early hybrid that begins production 55–60 days from seed — about 2 weeks earlier than standard okra types. In zone 9, sow March–May for summer production; the compact habit (4–5 feet) is manageable without staking and fits smaller garden spaces better than tall heirloom types."
+    },
+    "usda_zones": {"min": 4, "max": 12},
+    "spacing_in": {"min": 15, "max": 18},
+    "height_in": {"min": 48, "max": 60},
+    "spread_in": {"min": 18, "max": 24},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Direct sow 1 inch deep after last frost when soil is above 65°F; nick or soak seeds overnight to improve germination. Cajun Delight is a 1997 All-America Selections-winning compact hybrid okra developed for Southern garden production — selected specifically for early production (55–60 days, versus the 65–80+ days typical of older varieties), compact plant habit (4–5 feet vs. the 6–8 feet of full-size types), and exceptional pod quality. The dark green, straight, smooth-ridged, spineless pods are harvested at 2–4 inches for best tenderness and flavor; at this size they are non-fibrous, mild-flavored, and have the classic okra texture that makes them outstanding for gumbo, fried okra, and all Southern okra preparations. The compact habit makes Cajun Delight ideal for smaller plots, raised beds, and gardens where the full-height traditional types would be difficult to manage, and the early production date extends the productive season at both ends. Recognized as one of the best commercial and home-garden okra varieties for the Gulf South, where early establishment before peak summer heat is advantageous.",
+    "sources": [
+      "All-America Selections — Cajun Delight okra AAS winner 1997",
+      "Louisiana State University AgCenter — Okra Production Guide",
+      "University of Florida IFAS Extension — Okra Production"
+    ]
+  },
+  {
+    "slug": "cow-horn-okra",
+    "common_name": "Cow Horn Okra (Long-Podded Southern Heirloom Okra)",
+    "scientific_name": "Abelmoschus esculentus 'Cow Horn'",
+    "category": "vegetable",
+    "subcategory": "okra",
+    "days_to_germination": {"min": 7, "max": 14},
+    "germination_soil_temp_f": {"min": 70, "max": 95},
+    "days_to_maturity": {"min": 60, "max": 70},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 1, "max": 4},
+      "note": "Direct sow after last frost when soil is warm and above 70°F; Cow Horn is a tall heirloom producing very long, curved pods that must be harvested at 4–6 inches for eating tenderness — pods left on the plant quickly become fibrous and woody beyond this point. Harvest daily or every other day during peak production."
+    },
+    "usda_zones": {"min": 5, "max": 11},
+    "spacing_in": {"min": 18, "max": 24},
+    "height_in": {"min": 60, "max": 84},
+    "spread_in": {"min": 18, "max": 24},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Direct sow 1 inch deep after last frost when soil is above 70°F, soaking seeds overnight to improve germination; harvest pods at 4–6 inches length before they become fibrous. Cow Horn is a distinctive heirloom okra producing very long, slender, slightly curved pods that visually resemble a cow's horn when mature — one of the more unusual and visually interesting okra types in the Southern heritage seed tradition, with pods that can reach 10–14 inches at full maturity but should be harvested young for eating quality. The curved, ribbed, light-green pods are tender and excellent when harvested young, with the mild okra flavor and characteristic mucilaginous texture that thickens gumbo and gives fried okra its character. Cow Horn plants are tall and vigorous (5–7 feet), producing abundantly through the Southern summer heat season; the large plant size requires adequate spacing and is well-suited to garden rows where height is not a constraint. The variety has been passed down through Southern seed-saving traditions, particularly in the Deep South where heirloom okra varieties have been maintained for generations. The extended pod length also makes Cow Horn excellent for pickled whole okra, where the elongated pods are visually striking in the jar.",
+    "sources": [
+      "Seed Savers Exchange — Southern heirloom okra collection",
+      "Southern Seed Legacy Project",
+      "Louisiana State University AgCenter — Okra Variety Trials"
+    ]
+  },
+  {
+    "slug": "frisee",
+    "common_name": "Frisée (Curly Endive, Fine Curled Endive)",
+    "scientific_name": "Cichorium endivia var. crispum",
+    "category": "vegetable",
+    "subcategory": "chicory",
+    "days_to_germination": {"min": 7, "max": 14},
+    "germination_soil_temp_f": {"min": 45, "max": 75},
+    "days_to_maturity": {"min": 85, "max": 100},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {"min": -12, "max": -8},
+      "note": "Sow in late summer or early fall for a fall and winter harvest; frisée produces best in cool weather and can be blanched by gathering and tying outer leaves around the head for 7–10 days to whiten and sweeten the center. In zone 9, direct sow September–October for harvest November through February, when the cool weather produces the most tender, flavorful heads."
+    },
+    "usda_zones": {"min": 3, "max": 9},
+    "spacing_in": {"min": 12, "max": 18},
+    "height_in": {"min": 10, "max": 16},
+    "spread_in": {"min": 12, "max": 18},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Direct sow or transplant into moist, fertile, slightly acidic to neutral soil in full sun to partial shade in cool weather; frisée (curly endive or fine curled endive) is the distinctive French salad green with deeply cut, finely fringed, pale green to yellowish leaves that create a loose, finely textured head with a pleasantly bitter flavor — one of the defining ingredients of classic French and Belgian cuisine. Unlike its flat-leaved cousin escarole, frisée has intensely ruffled, narrow, spiky-looking leaves that form a sprawling head; the outer leaves are dark green and quite bitter, while the interior (naturally or artificially blanched by excluding light from the heart for 7–10 days) turns pale yellow and becomes substantially more tender and mild. Frisée is the traditional green in salade lyonnaise (the classic Lyon salad with poached egg, lardons, and mustard vinaigrette) and in the Belgian warm salad tradition. The moderately bitter flavor pairs beautifully with rich dressings, warm bacon vinaigrettes, and strong cheeses. In zone 9, frisée is grown as a fall-through-winter crop when cool temperatures bring out its best flavor; summer production results in extremely bitter, loose plants that quickly bolt. Extremely cold-hardy once established, tolerating frosts to about 22°F.",
+    "sources": [
+      "Johnny's Selected Seeds — Endive and Chicory Growing Guide",
+      "University of California Cooperative Extension — Chicory Production",
+      "Fedco Seeds"
+    ]
+  }
+]

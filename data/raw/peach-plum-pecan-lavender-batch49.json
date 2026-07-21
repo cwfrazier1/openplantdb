@@ -1,0 +1,157 @@
+[
+  {
+    "slug": "sumner-pecan",
+    "common_name": "Sumner Pecan (UGA Release Large-Nut Type II Southeastern Commercial Pecan)",
+    "scientific_name": "Carya illinoinensis 'Sumner'",
+    "category": "fruit",
+    "subcategory": "pecan",
+    "days_to_germination": {"min": null, "max": null},
+    "germination_soil_temp_f": {"min": 40, "max": 65},
+    "days_to_maturity": {"min": 1825, "max": 2555},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "warm",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": -8, "max": -2},
+      "note": "Plant grafted nursery trees in late winter while dormant; Sumner is a Type II (protogynous) pecan — the pistillate flowers become receptive before the pollen is shed from the same tree's catkins, requiring a Type I pecan pollinator within 150 feet for reliable fertilization. Pair Sumner with Stuart, Desirable, Pawnee, or another Type I pollinator for full crops. In zone 9, pecan trees require deep, fertile soil with good internal drainage; shallow or waterlogged soils dramatically reduce production and tree longevity. Apply zinc sulfate foliar applications each spring before leaf-out to prevent zinc deficiency, which is extremely common in Gulf South pecans and causes rosette (distorted small leaves clustered at branch tips). Trees produce significant crops beginning 6–8 years after planting and are long-lived (50–100+ years in suitable conditions)."
+    },
+    "usda_zones": {"min": 6, "max": 9},
+    "spacing_in": {"min": 360, "max": 480},
+    "height_in": {"min": 480, "max": 720},
+    "spread_in": {"min": 360, "max": 480},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant grafted trees in deep well-drained soil; pair with Type I pollinator. Apply zinc sulfate foliar sprays annually. Harvest when husks split and nuts fall. Sumner Pecan was released by the Georgia Agricultural Experiment Station (now part of the University of Georgia) as a named cultivar selected for the southeastern United States — a region that represents one of the traditional heartlands of US pecan production, with Georgia consistently among the top pecan-producing states nationally. Sumner is classified as Type II (protogynous) in the pecan flowering system that categorizes varieties by the relative timing of pistillate and staminate flower emergence: Type II varieties have pistillate (female) flowers ready to receive pollen before the same tree's catkins shed pollen, creating a natural cross-pollination requirement and making mixed-type plantings more productive than single-variety blocks. The nuts are large to very large for a southeastern pecan variety, with a good shell thickness-to-kernel ratio and above-average kernel quality — the kernel is plump, well-filled, and has good flavor. Sumner's relatively good resistance to pecan scab (compared to varieties like Desirable and Curtis, which have significant susceptibility) has made it a practical choice for home orchards and small commercial operations in humid areas where fungicide application is difficult to maintain consistently. The variety is widely available from Gulf South and southeastern nurseries and has remained in commercial production for decades despite the introduction of newer scab-resistant varieties.",
+    "sources": [
+      "University of Georgia Cooperative Extension — Pecan Variety Recommendations for Georgia",
+      "Louisiana State University AgCenter — Pecan Variety Evaluation for the Gulf South",
+      "USDA Agricultural Research Service — Southeastern pecan variety performance trials"
+    ]
+  },
+  {
+    "slug": "mid-pride-peach",
+    "common_name": "Mid-Pride Peach (California Low-Chill Yellow Freestone Peach with Excellent Flavor)",
+    "scientific_name": "Prunus persica 'Mid-Pride'",
+    "category": "fruit",
+    "subcategory": "peach",
+    "days_to_germination": {"min": null, "max": null},
+    "germination_soil_temp_f": {"min": 35, "max": 55},
+    "days_to_maturity": {"min": 1095, "max": 1460},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": -8, "max": -2},
+      "note": "Plant bare-root trees in late winter while dormant; Mid-Pride requires approximately 250–300 chilling hours — one of the lowest chill requirements of any high-quality yellow freestone peach, making it an excellent choice for zone 9 conditions along the Gulf Coast where full-chill varieties (requiring 700–900 hours) consistently underperform. In zone 9, Mid-Pride ripens in late June–early July, slightly later than very early varieties like Flordaking, providing sequential harvests when planted alongside earlier types. The variety is self-fertile — no cross-pollinator is required, though nearby peach trees may improve fruit set. Plant in full sun with excellent drainage. In the Gulf South's humid climate, annual copper and fungicide applications are advisable to manage bacterial spot and brown rot."
+    },
+    "usda_zones": {"min": 7, "max": 10},
+    "spacing_in": {"min": 180, "max": 240},
+    "height_in": {"min": 120, "max": 180},
+    "spread_in": {"min": 120, "max": 168},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant bare-root trees in late winter in full sun, well-drained soil. Thin fruit clusters to 6–8 inches when marble-sized for maximum fruit size. Harvest when skin background has transitioned from green to yellow-orange and fruit gives slightly to firm pressure. Mid-Pride is a California-developed low-chill peach variety considered by many low-chill peach enthusiasts to be among the finest-flavored low-chill varieties available in North America. The variety was selected from University of California breeding programs that worked systematically to reduce chill hour requirements while maintaining the fruit quality characteristics (flavor complexity, sugar-acid balance, flesh texture) that distinguish premium peaches from the bland, fibrous fruit that many early low-chill releases produced. The fruit is medium to large, with yellow skin blushed red and yellow freestone flesh — the freestone character (flesh separates cleanly from the pit at full ripeness) makes Mid-Pride practical for fresh eating, canning, preserving, and freezing without the effort of separating clingstone flesh. The flavor is genuinely excellent for a low-chill variety: sweet with good acid balance, peach aroma, and the melting, juicy flesh texture that characterizes premium peaches. For Gulf Coast zone 9 gardeners, Mid-Pride represents one of the most reliable paths to growing truly excellent-quality peaches in a climate that limits most other stone fruit production.",
+    "sources": [
+      "University of California Cooperative Extension — Mid-Pride peach low-chill performance evaluation",
+      "Dave Wilson Nursery — Mid-Pride peach low-chill variety notes",
+      "Texas A&M AgriLife Extension — Low-Chill Peach Varieties for Texas"
+    ]
+  },
+  {
+    "slug": "gulfcrest-peach",
+    "common_name": "Gulfcrest Peach (University of Florida Release, 450-Chill Gulf South Peach)",
+    "scientific_name": "Prunus persica 'Gulfcrest'",
+    "category": "fruit",
+    "subcategory": "peach",
+    "days_to_germination": {"min": null, "max": null},
+    "germination_soil_temp_f": {"min": 35, "max": 55},
+    "days_to_maturity": {"min": 1095, "max": 1460},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": -8, "max": -2},
+      "note": "Plant bare-root trees in late winter; Gulfcrest requires approximately 450 chilling hours — more than the lowest-chill varieties but within reach of most zone 9 locations in north and central Louisiana, Mississippi, and East Texas that accumulate 400–600 hours most winters. In years with warm winters, production may be reduced or delayed; in years with adequate chill accumulation, Gulfcrest produces reliably. Ripens late June in zone 9. Plant in full sun with excellent drainage. Gulfcrest is self-fertile but may benefit from cross-pollination with other mid-season peach varieties. The variety has been grown in the Gulf South region for decades and remains recommended by Louisiana and Mississippi extension services as a reliable mid-chill variety for the region."
+    },
+    "usda_zones": {"min": 7, "max": 9},
+    "spacing_in": {"min": 180, "max": 240},
+    "height_in": {"min": 120, "max": 180},
+    "spread_in": {"min": 120, "max": 168},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant bare-root trees in late winter in full sun. Thin fruit clusters to 6–8 inches. Harvest when skin is yellow with red blush and fruit gives slightly to firm pressure. Gulfcrest Peach was released by the University of Florida IFAS (then Florida Agricultural Experiment Station) in 1978 as part of a series of Gulf South-adapted peach releases that included Flordaking, Flordaprince, and other low-to-moderate chill varieties developed specifically for Florida and Gulf Coast conditions. The UF peach breeding program, which began producing named releases in the 1950s and accelerated in subsequent decades, addressed the fundamental challenge of growing peaches in warm-winter climates: standard commercial peach varieties requiring 700–900+ chilling hours bloom prematurely, fail to set adequate fruit, or produce poor-quality fruit in zone 8–9 where winter temperatures inconsistently meet chill requirements. Gulfcrest occupies a specific niche in the low-to-moderate chill continuum — with approximately 450 hours required, it demands more winter cold than very low-chill varieties like Flordaking (250–350 hours) but considerably less than standard northern varieties. This positions Gulfcrest as a practical option for the transition zone between the lowest-chill Gulf Coast locations and the higher-chill interior areas, providing good fruit quality in locations where the very lowest-chill varieties may over-bloom or produce poor quality in warmer-than-average years. The fruit has yellow skin with good red blush, yellow freestone flesh, and adequate flavor quality for fresh eating and preservation.",
+    "sources": [
+      "University of Florida IFAS Extension — Gulfcrest peach variety release and Gulf South adaptation",
+      "Louisiana State University AgCenter — Peach Variety Recommendations for Louisiana",
+      "Mississippi State University Extension — Stone Fruit Variety Selection for the Gulf South"
+    ]
+  },
+  {
+    "slug": "au-rosa-plum",
+    "common_name": "Au Rosa Plum (Auburn University Low-Chill Japanese-American Plum for Gulf South)",
+    "scientific_name": "Prunus salicina × Prunus americana 'Au Rosa'",
+    "category": "fruit",
+    "subcategory": "plum",
+    "days_to_germination": {"min": null, "max": null},
+    "germination_soil_temp_f": {"min": 35, "max": 55},
+    "days_to_maturity": {"min": 1095, "max": 1460},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": -8, "max": -2},
+      "note": "Plant bare-root trees in late winter; Au Rosa requires a cross-pollinator for best fruit set — plant with another Japanese or Japanese-American plum variety (Methley, Bruce, or another Auburn University release such as Au Producer or Au Amber) within 50 feet. Requires approximately 350–450 chilling hours — more reliable than very low-chill varieties in years with limited winter cold, and still appropriate for zone 9 in most years. Ripens May–June in zone 9. Plant in full sun with very well-drained soil; all Prunus species are extremely sensitive to root rot in waterlogged conditions. The Auburn University (Auburn, Alabama) releases were specifically developed for the Gulf South's humidity, disease pressure, and modest winter chill, making them among the most zone-specific plum options for the region."
+    },
+    "usda_zones": {"min": 6, "max": 9},
+    "spacing_in": {"min": 144, "max": 180},
+    "height_in": {"min": 120, "max": 180},
+    "spread_in": {"min": 120, "max": 156},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant bare-root trees in late winter; requires cross-pollinator. Thin fruit clusters when marble-sized. Harvest when skin shows full rose color and fruit gives slightly. Au Rosa Plum is one of the Auburn University Agricultural Experiment Station's series of Japanese-American plum hybrids developed specifically for the Gulf South — an ongoing breeding program at Auburn that produced a family of plum varieties (the 'Au' prefix indicating Auburn University origin) adapted to the unique challenges of plum production in the humid southeastern coastal plain. The Au series hybrids combine genetics from Japanese plum (Prunus salicina, a high-quality fruiting species requiring adequate cross-pollination and moderate chill) with American plum (Prunus americana, a native North American species with significant humidity and disease tolerance) to produce varieties that retain good fruit quality while performing more reliably in the humid, relatively mild-winter conditions of the Gulf South than either parent species performs alone. Au Rosa produces medium-sized fruits with rose-pink to dark red skin and yellow flesh — the distinctive pinkish-red blush of the 'rosa' name. The flesh has good sweetness and plum flavor, appropriate for fresh eating, jams, and jellies. Au Rosa was one of the earlier Auburn releases and established the pattern of named, region-specific plum varieties that Gulf South extension services could recommend with confidence based on local trial performance rather than relying on variety data from California or Pacific Northwest conditions that may not translate to Gulf Coast performance.",
+    "sources": [
+      "Auburn University Agricultural Experiment Station — Au-series plum variety development documentation",
+      "Alabama Cooperative Extension System — Stone Fruit Variety Recommendations for Alabama",
+      "Louisiana State University AgCenter — Plum Production and Variety Selection for the Gulf South"
+    ]
+  },
+  {
+    "slug": "fernleaf-lavender",
+    "common_name": "Fernleaf Lavender (Egyptian Lavender, Cut-Leaf Lavender, Warm-Climate Lavender Species)",
+    "scientific_name": "Lavandula multifida",
+    "category": "herb",
+    "subcategory": "perennial herb",
+    "days_to_germination": {"min": 14, "max": 28},
+    "germination_soil_temp_f": {"min": 65, "max": 75},
+    "days_to_maturity": {"min": 90, "max": 180},
+    "maturity_from": "seed",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": -8, "max": -4},
+      "note": "Start seeds indoors 6–8 weeks before last frost or take cuttings in spring; Fernleaf Lavender is much more heat-tolerant than English lavender (L. angustifolia) but significantly less cold-hardy — it is rated hardy to approximately 20–25°F, making it reliably perennial in zone 9 but marginally hardy in zone 8 and not recommended in zone 7 or colder without winter protection. In zone 9, Fernleaf Lavender behaves as a short-lived perennial, typically living 3–5 years, and may self-seed in favorable conditions. Unlike English lavender, which prefers the cool summers and moderate humidity of the Pacific Northwest or high-elevation mountains, Fernleaf Lavender tolerates warm, somewhat humid conditions better, making it a more practical lavender species for Gulf Coast gardens where English lavender often declines in the summer heat and humidity."
+    },
+    "usda_zones": {"min": 8, "max": 11},
+    "spacing_in": {"min": 18, "max": 24},
+    "height_in": {"min": 18, "max": 30},
+    "spread_in": {"min": 18, "max": 24},
+    "sun": "full",
+    "water": "low",
+    "directions": "Start seeds indoors or take cuttings; transplant to full sun, very well-drained soil. Cut back lightly after flowering. Fernleaf Lavender (Lavandula multifida), also known as Egyptian Lavender or Cut-Leaf Lavender, is a Mediterranean lavender species native to North Africa and southern Europe that differs from the familiar English lavender (L. angustifolia) in both appearance and adaptability. The most distinctive visual characteristic is the foliage: instead of the narrow, smooth gray-green leaves of English lavender, Fernleaf Lavender has deeply cut, ferny, bipinnate leaves that create a lacy, delicate appearance quite unlike other lavender species. The leaf texture is more reminiscent of carrot foliage than conventional lavender, and the overall plant has a lighter, airier appearance that makes it attractive as a foliage plant even when not in bloom. The flowers are produced on branched spikes (unlike the simple single spikes of English lavender) in the characteristic lavender-purple color, and the plant blooms repeatedly through the warm season when deadheaded regularly. The fragrance is lighter and less intense than English lavender — closer to rosemary than the heavy camphor-lavender scent of L. angustifolia — which some gardeners prefer as a more delicate aromatic quality. For zone 9 gardeners, Fernleaf Lavender fills an important niche: it provides the lavender aesthetic (gray-green aromatic foliage, purple flowers, bee attraction) in a form that tolerates warm summers and mild winters better than the standard English lavender types that often decline in zone 9's summer heat and humidity.",
+    "sources": [
+      "Texas A&M AgriLife Extension — Lavender Species for Gulf South and Texas Gardens",
+      "University of Florida IFAS Extension — Lavender Production in Florida and the Gulf South",
+      "Royal Horticultural Society — Lavandula multifida species description"
+    ]
+  }
+]

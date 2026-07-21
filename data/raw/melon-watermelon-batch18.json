@@ -1,0 +1,157 @@
+[
+  {
+    "slug": "yellow-doll-watermelon",
+    "common_name": "Yellow Doll Watermelon (Early Icebox Yellow-Fleshed Watermelon)",
+    "scientific_name": "Citrullus lanatus 'Yellow Doll'",
+    "category": "vegetable",
+    "subcategory": "watermelon",
+    "days_to_germination": {"min": 7, "max": 14},
+    "germination_soil_temp_f": {"min": 70, "max": 95},
+    "days_to_maturity": {"min": 65, "max": 75},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 0, "max": 3},
+      "note": "Direct sow in hills of 3 seeds after last frost when soil is above 70°F; thin to 2 plants per hill. Yellow Doll's early maturity (65–75 days) makes it one of the fastest watermelons to ripen, suitable for shorter growing seasons where standard large varieties may not mature. The small fruit size (5–8 lbs) makes individual fruits manageable for families and the compact vine habit allows closer planting than large-fruited types. In zone 9, plant March–April for June harvest."
+    },
+    "usda_zones": {"min": 3, "max": 11},
+    "spacing_in": {"min": 36, "max": 60},
+    "height_in": {"min": 12, "max": 18},
+    "spread_in": {"min": 60, "max": 96},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Direct sow seeds 1 inch deep in hills after last frost when soil is above 70°F; fertilize at planting and again when vines begin to run. Harvest when the tendril nearest the fruit turns brown and dry and the underside spot (where the melon touches the ground) turns from white to cream-yellow. Yellow Doll is an early-maturing, icebox-sized watermelon notable for its yellow flesh — a less common flesh color that surprises many people used to only red-fleshed watermelons. The small (5–8 lb), round to oval fruits have light green skin with subtle darker green stripes and the distinctive bright yellow to golden-yellow interior flesh that gives the variety its name. The yellow flesh is very sweet and mild, with a slightly different flavor character than red-fleshed types — some tasters describe it as cleaner, less assertive, and honey-sweet rather than the more complex sweetness of red watermelon flesh. This mild quality makes Yellow Doll particularly popular with children and those who find standard watermelon's flavor too strong. Yellow Doll's early maturity (65–75 days vs. the 80–95 days of standard large varieties) is a practical advantage for short-season gardeners, as is the small fruit size — a single 6-lb fruit is the right amount for 2–4 people without waste, compared to the 25+ lb fruits of standard varieties that require multiple meals to consume.",
+    "sources": [
+      "Park Seed — Yellow Doll watermelon variety notes",
+      "Southern Exposure Seed Exchange — Yellow-fleshed watermelon comparison",
+      "University of Florida IFAS Extension — Watermelon Production Guide"
+    ]
+  },
+  {
+    "slug": "hales-best-cantaloupe",
+    "common_name": "Hale's Best Cantaloupe (Classic American Heirloom Muskmelon)",
+    "scientific_name": "Cucumis melo var. reticulatus 'Hale's Best'",
+    "category": "vegetable",
+    "subcategory": "melon",
+    "days_to_germination": {"min": 7, "max": 14},
+    "germination_soil_temp_f": {"min": 65, "max": 95},
+    "days_to_maturity": {"min": 82, "max": 90},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 0, "max": 3},
+      "note": "Direct sow in hills of 3–4 seeds in rich, well-drained soil after last frost when soil is above 65°F; thin to 2 plants per hill. Hale's Best requires consistent moisture during fruit development but drier conditions approaching maturity to concentrate sugars. In zone 9, plant March–April for June–July harvest. Harvest when the melon 'slips' freely from the vine with light pressure — the abscission layer forms when fully ripe."
+    },
+    "usda_zones": {"min": 3, "max": 11},
+    "spacing_in": {"min": 48, "max": 72},
+    "height_in": {"min": 12, "max": 18},
+    "spread_in": {"min": 72, "max": 120},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Direct sow 1 inch deep in hills after last frost; fertilize at planting with balanced fertilizer and side-dress when vines begin to run. Harvest at 'full slip' (fruit separates from vine with gentle pressure) for maximum sweetness. Hale's Best is one of the most important heirloom cantaloupes in American gardening history — an open-pollinated muskmelon developed in the 1920s by the Hale family in California (reportedly from melon seeds brought from Japan) that rapidly became the standard shipping and home garden cantaloupe across the United States and remained the dominant cantaloupe variety through the mid-20th century. The medium-sized (4–6 lb) oval to round fruits have the classic muskmelon characteristics at their finest: a smooth, thick, prominent corky-tan netting over the entire surface, deep orange, thick-walled flesh with a small seed cavity, and the intensely sweet, aromatic, spicy-musky flavor that defines what a 'real' cantaloupe is supposed to taste like to anyone who grew up with traditional American melons. The aroma of a ripe Hale's Best cantaloupe — sweet, slightly floral, with a characteristic spicy musk — is one of the most distinctive and evocative scents in summer food culture. Hale's Best has largely been replaced in commercial production by hybrid types with better shipping tolerance and more uniform ripening, but for home garden eating quality, flavor intensity, and authenticity, it remains the benchmark of the American cantaloupe tradition.",
+    "sources": [
+      "Seed Savers Exchange — Hale's Best cantaloupe variety history",
+      "Baker Creek Heirloom Seeds — American heirloom melon collection",
+      "University of California Cooperative Extension — Melon Production Guide"
+    ]
+  },
+  {
+    "slug": "athens-cantaloupe",
+    "common_name": "Athens Cantaloupe (University of Georgia Heat-Tolerant Cantaloupe)",
+    "scientific_name": "Cucumis melo var. reticulatus 'Athens'",
+    "category": "vegetable",
+    "subcategory": "melon",
+    "days_to_germination": {"min": 7, "max": 14},
+    "germination_soil_temp_f": {"min": 65, "max": 95},
+    "days_to_maturity": {"min": 79, "max": 86},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 0, "max": 3},
+      "note": "Direct sow in hills after last frost when soil is above 65°F; Athens cantaloupe was selected specifically for the hot, humid Southeast and performs reliably under conditions that reduce quality in Western cantaloupe varieties. In zone 9, plant March–April for June harvest. Reduce irrigation as fruits approach maturity to concentrate sugar content. Athens cantaloupe benefits from black plastic mulch to maintain soil warmth and reduce soil moisture contact with developing fruits."
+    },
+    "usda_zones": {"min": 4, "max": 11},
+    "spacing_in": {"min": 36, "max": 60},
+    "height_in": {"min": 12, "max": 18},
+    "spread_in": {"min": 72, "max": 120},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Direct sow 1 inch deep in hills after last frost; maintain consistent moisture during vine development and fruit set, then reduce irrigation as fruits approach full size to concentrate sugars. Harvest at full slip (fruit pulls free from vine with light pressure). Athens is a cantaloupe variety developed by the University of Georgia (named for the city of Athens, Georgia, home of the university) specifically for performance in the hot, humid Southeast — a regional adaptation that addresses the specific challenges of cantaloupe production in the Gulf South and mid-Atlantic coastal plain where high humidity, heat, and disease pressure reduce quality and yield in the Western-adapted muskmelon types that dominate commercial production in California and Arizona. Athens produces medium-sized (4–5 lb), round, well-netted fruits with the orange flesh, small seed cavity, and aromatic sweetness that define quality cantaloupe; it has good disease resistance to Fusarium wilt and Alternaria leaf blight. The flavor is consistently excellent even under the humid, warm conditions that cause quality to drop in less-adapted varieties. Athens is the most commonly recommended cantaloupe for home gardens in the southeastern states, where the combination of heat tolerance, disease resistance, and consistent eating quality under Gulf South growing conditions makes it the appropriate regional choice over the Western-adapted varieties that dominate seed catalogs.",
+    "sources": [
+      "University of Georgia Cooperative Extension — Athens cantaloupe development and variety notes",
+      "University of Florida IFAS Extension — Cantaloupe Production Guide",
+      "North Carolina State University Extension — Cantaloupe Variety Recommendations for the Southeast"
+    ]
+  },
+  {
+    "slug": "sugar-cube-melon",
+    "common_name": "Sugar Cube Melon (AAS-Winning Personal-Size Sweet Cantaloupe)",
+    "scientific_name": "Cucumis melo var. reticulatus 'Sugar Cube'",
+    "category": "vegetable",
+    "subcategory": "melon",
+    "days_to_germination": {"min": 7, "max": 14},
+    "germination_soil_temp_f": {"min": 65, "max": 95},
+    "days_to_maturity": {"min": 78, "max": 86},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 0, "max": 3},
+      "note": "Direct sow in hills of 3 seeds after last frost when soil is above 65°F; Sugar Cube can be trellised on a sturdy fence or arbor, with individual fruits supported in cloth slings — the small fruit size (2 lbs) makes vertical growing practical. In zone 9, plant March–April for June–July harvest. The personal-sized fruits are ideal for harvesting 2–3 at a time as they ripen sequentially, providing a more extended harvest than single large-fruited types."
+    },
+    "usda_zones": {"min": 3, "max": 11},
+    "spacing_in": {"min": 36, "max": 48},
+    "height_in": {"min": 12, "max": 18},
+    "spread_in": {"min": 60, "max": 96},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Direct sow 1 inch deep in hills after last frost; reduce irrigation as fruits approach maturity to maximize sugar concentration. Harvest at full slip or when the stem end yields to gentle pressure and the typical musky cantaloupe aroma is detectable. Sugar Cube is a 2000 All-America Selections-winning personal-size cantaloupe from Burpee that produces small (1.5–2.5 lb), round, heavily netted fruits — perfectly sized for a single serving, an individual lunch, or a couple's dinner without leftover melon. The personal melon size (compared to the 4–8 lb fruits of standard cantaloupe varieties) addresses the practical issue of melon waste in smaller households: a 6-lb cantaloupe purchased for one or two people must be stored cut for multiple days, losing quality rapidly, while a 2-lb Sugar Cube is consumed in one sitting at peak freshness. Beyond the practical size advantage, Sugar Cube produces exceptional flavor — dense, aromatic, intensely sweet orange flesh with the classic cantaloupe character that earned it AAS recognition. Each plant typically produces 4–6 fruits per vine, ripening over 2–3 weeks rather than all at once, providing a longer harvest window than some single-headed varieties. Sugar Cube also has the advantage of being growable on a trellis (the small fruits can be supported in fabric slings), making it one of the few viable trellis-grown melons for gardens where horizontal space is limited.",
+    "sources": [
+      "All-America Selections — Sugar Cube melon AAS winner 2000",
+      "Burpee Seeds — Sugar Cube cantaloupe variety notes",
+      "Johnny's Selected Seeds — Personal-size melon variety comparison"
+    ]
+  },
+  {
+    "slug": "petit-gris-de-rennes-melon",
+    "common_name": "Petit Gris de Rennes Melon (French Heirloom Gray-Green Cantaloupe)",
+    "scientific_name": "Cucumis melo 'Petit Gris de Rennes'",
+    "category": "vegetable",
+    "subcategory": "melon",
+    "days_to_germination": {"min": 7, "max": 14},
+    "germination_soil_temp_f": {"min": 65, "max": 95},
+    "days_to_maturity": {"min": 72, "max": 82},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 0, "max": 3},
+      "note": "Direct sow in hills after last frost when soil is above 65°F; Petit Gris de Rennes is a French muskmelon type that requires warmer growing conditions than some European varieties — it performs well in the Gulf South's warm summer climate but needs protection from excessive humidity that can cause Alternaria blight. In zone 9, plant March–April for June–July harvest. The 'Petit Gris' (little gray) refers to the grayish-green skin when fully ripe."
+    },
+    "usda_zones": {"min": 4, "max": 11},
+    "spacing_in": {"min": 36, "max": 60},
+    "height_in": {"min": 12, "max": 18},
+    "spread_in": {"min": 72, "max": 120},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Direct sow 1 inch deep in hills after last frost; maintain consistent moisture during vine development and reduce irrigation as fruits approach maturity. Harvest when the skin transitions from green to gray-green (the characteristic 'petit gris' color) and the stem cracks slightly at the base — this muskmelon type does not 'slip' from the vine like American cantaloupes but has a less decisive harvest cue. Petit Gris de Rennes (small gray of Rennes) is a traditional French muskmelon heirloom from Brittany, the coastal region of northwestern France, where it has been grown for centuries as the area's distinctive local melon. In France, Petit Gris de Rennes has Slow Food Ark of Taste recognition as a threatened traditional variety of significant cultural importance. The small to medium (1–2 lb) round fruits are distinguished by their unusual grayish-green to slate-green skin coloration with shallow ribs and fine, irregular netting — a very different appearance from the tan-netted American cantaloupe standard. The deeply orange, firm-textured, extremely sweet and aromatic flesh has a rich, complex character that many tasters consider superior to standard Western cantaloupe types — more complex in flavor, with floral and spicy notes beyond simple sweetness. Petit Gris de Rennes represents the French horticultural tradition of flavor breeding, where appearance is secondary to eating quality, and is a fascinating variety for gardeners interested in growing traditional European melon types beyond the standard muskmelon.",
+    "sources": [
+      "Seed Savers Exchange — Petit Gris de Rennes melon variety notes",
+      "Slow Food Ark of Taste — Petit Gris de Rennes traditional variety documentation",
+      "Baker Creek Heirloom Seeds — European heirloom melon collection"
+    ]
+  }
+]

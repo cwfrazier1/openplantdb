@@ -1,0 +1,157 @@
+[
+  {
+    "slug": "incredible-sweet-corn",
+    "common_name": "Incredible Sweet Corn (Sugar-Enhanced Yellow Hybrid Corn)",
+    "scientific_name": "Zea mays 'Incredible'",
+    "category": "vegetable",
+    "subcategory": "sweet corn",
+    "days_to_germination": {"min": 7, "max": 14},
+    "germination_soil_temp_f": {"min": 60, "max": 95},
+    "days_to_maturity": {"min": 77, "max": 82},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 2, "max": 4},
+      "note": "Direct sow in blocks of at least 4 rows wide for adequate wind pollination; Incredible is an se (sugar-enhanced) type that holds quality on the plant and after harvest better than su types. In zone 9, plant March–April for a May–June harvest, or plant August–September for a fall crop. SE types can be isolated from sh2 (supersweet) varieties but can be planted adjacent to su types without significant quality reduction."
+    },
+    "usda_zones": {"min": 3, "max": 11},
+    "spacing_in": {"min": 9, "max": 12},
+    "height_in": {"min": 72, "max": 96},
+    "spread_in": {"min": 12, "max": 18},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Direct sow seeds 1 inch deep in full sun in blocks of at least 4 rows; apply balanced fertilizer at planting and side-dress with nitrogen when plants reach knee height. Incredible is one of the most respected and widely grown sugar-enhanced (se) yellow sweet corn hybrids in American home and market gardens — a Seminis-developed variety that consistently rates among the top performers for flavor, tenderness, and eating quality across multiple decades of university and commercial variety trials. The se (also called EH, everlasting heritage, or sugar-enhanced) gene doubles the sugar content at harvest compared to standard su varieties, and — critically — slows the conversion of sugar to starch after picking, giving se-type corn a 2–4 day postharvest quality window compared to the 24-hour window of su types. This extended holding quality made se types like Incredible a significant practical advance for home gardeners, allowing harvest and consumption at leisure rather than immediately. The 8–9 inch ears carry 16–18 rows of golden-yellow, tender, plump kernels with excellent flavor that is noticeably sweeter and more tender than older su types. Incredible consistently places first or second in tasting panels for yellow se corn and offers good disease resistance including northern corn leaf blight tolerance. An outstanding all-around sweet corn variety that has earned its perennial top-seller status.",
+    "sources": [
+      "Seminis Vegetable Seeds — Incredible sweet corn variety development",
+      "University of Illinois Extension — Sweet Corn Variety Trial",
+      "North Carolina State University Extension — Sweet Corn Variety Evaluation"
+    ]
+  },
+  {
+    "slug": "tuxedo-sweet-corn",
+    "common_name": "Tuxedo Sweet Corn (Bicolor Supersweet Sh2 Hybrid Corn)",
+    "scientific_name": "Zea mays 'Tuxedo'",
+    "category": "vegetable",
+    "subcategory": "sweet corn",
+    "days_to_germination": {"min": 7, "max": 14},
+    "germination_soil_temp_f": {"min": 65, "max": 95},
+    "days_to_maturity": {"min": 74, "max": 78},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 2, "max": 4},
+      "note": "Direct sow in blocks of at least 4 rows wide for wind pollination; Tuxedo is a supersweet (sh2) type that requires isolation of at least 250 feet from su, se, or other sh2 varieties with different genetics to prevent starchy cross-pollination. Sh2 varieties also require warmer soil temperatures for reliable germination (65°F minimum, ideally 70°F) and should not be planted as early as su or se types. In zone 9, plant March–April when soils have warmed adequately."
+    },
+    "usda_zones": {"min": 3, "max": 11},
+    "spacing_in": {"min": 9, "max": 12},
+    "height_in": {"min": 66, "max": 84},
+    "spread_in": {"min": 12, "max": 18},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Direct sow seeds 1 inch deep in warm soil (65°F minimum) in full sun in blocks of at least 4 rows; fertilize at planting and side-dress with nitrogen at knee height. Isolate from other corn varieties (including other sh2 types) by 250+ feet or stagger planting dates by 2+ weeks. Tuxedo is a bicolor (white and yellow kernel) supersweet (sh2) hybrid that has become one of the most popular bicolor fresh-market and roadside stand corns in the eastern United States — a Syngenta/Rogers Brothers variety that delivers the maximum sweetness possible from the sh2 gene type combined with a visually appealing bicolor kernel appearance that many consumers associate with premium sweet corn. The sh2 (shrunken-2) mutation creates corn with up to 4 times the sugar content of standard su types at harvest, and unlike se types, sh2 varieties retain their sweetness for 5–7 days after picking under refrigeration — a major commercial advantage that has made sh2 types dominant in the fresh sweet corn market. Tuxedo produces large (7.5–9 inch), well-filled ears with 16–18 rows of alternating white and yellow kernels; the kernels are very tender with thin skins and intensely sweet flavor when harvested at peak. The bicolor appearance in uniform, well-filled ears of Tuxedo is particularly attractive for roadside stand and farmers market sales where visual appeal drives purchasing decisions. One of the most commercially successful bicolor sh2 varieties of the past two decades.",
+    "sources": [
+      "Syngenta Vegetables / Rogers Brothers — Tuxedo sweet corn",
+      "Johnny's Selected Seeds — Supersweet Bicolor Corn Variety Comparison",
+      "University of Florida IFAS Extension — Sweet Corn Cultivar Evaluation"
+    ]
+  },
+  {
+    "slug": "connecticut-field-pumpkin",
+    "common_name": "Connecticut Field Pumpkin (New England Field Pumpkin, Classic Carving Pumpkin)",
+    "scientific_name": "Cucurbita pepo 'Connecticut Field'",
+    "category": "vegetable",
+    "subcategory": "pumpkin",
+    "days_to_germination": {"min": 7, "max": 14},
+    "germination_soil_temp_f": {"min": 65, "max": 95},
+    "days_to_maturity": {"min": 100, "max": 120},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 0, "max": 3},
+      "note": "Direct sow in hills (3–4 seeds per hill, thinned to 2 plants) after last frost in rich, well-drained soil; Connecticut Field requires a long growing season (100–120 days) and ample space for the sprawling vines (8–12 feet). For fall pumpkin harvest, count back 110–120 days from desired harvest date in October. In zone 9, plant in late May for a September–October harvest, or plant in February–March for a summer harvest."
+    },
+    "usda_zones": {"min": 3, "max": 11},
+    "spacing_in": {"min": 60, "max": 96},
+    "height_in": {"min": 12, "max": 18},
+    "spread_in": {"min": 96, "max": 144},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Direct sow seeds 1 inch deep in hills or rows after last frost in full sun; provide ample space for vigorous vines and fertilize generously with balanced fertilizer or compost. Connecticut Field Pumpkin is the traditional American carving and field pumpkin — an open-pollinated heirloom that has been the archetypal 'pumpkin' in American agriculture and home gardens for well over a century, serving as the standard from which Halloween carving pumpkins, field decoration pumpkins, and processing pumpkins have all descended. The deeply ribbed, round to slightly flattened fruits typically weigh 15–25 pounds, develop a deep, saturated orange color at maturity, and have thick, firm walls that support carving without collapsing — the defining characteristics for jack-o-lantern use. Connecticut Field has a very long cultivation history in New England and the mid-Atlantic states where it was grown both for decorative autumn use and as a livestock feed crop; the tough, fibrous flesh is not considered prime for pie (Long Island Cheese, Small Sugar, and Winter Luxury pie pumpkins have been favored for baking), but it is edible and was historically used for pumpkin butter and pie. One of the most iconic American vegetables with strong cultural associations to autumn, harvest season, and Americana — a variety that connects any garden to a centuries-long tradition of pumpkin growing in the Eastern United States.",
+    "sources": [
+      "Seed Savers Exchange — Connecticut Field pumpkin variety history",
+      "University of Vermont Extension — Pumpkin Production Guide",
+      "Cornell Cooperative Extension — Pumpkin Variety Evaluation"
+    ]
+  },
+  {
+    "slug": "munchkin-pumpkin",
+    "common_name": "Munchkin Pumpkin (Miniature Orange Decorative Pumpkin)",
+    "scientific_name": "Cucurbita pepo 'Munchkin'",
+    "category": "vegetable",
+    "subcategory": "pumpkin",
+    "days_to_germination": {"min": 7, "max": 14},
+    "germination_soil_temp_f": {"min": 65, "max": 95},
+    "days_to_maturity": {"min": 90, "max": 100},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Direct sow in hills or rows after last frost; Munchkin pumpkin vines are shorter and more compact than full-sized pumpkin vines, making them suitable for smaller garden spaces. For fall decorative harvest, count back 100 days from desired harvest date. In zone 9, plant May–June for a September harvest. Each vine typically produces 8–15 miniature pumpkins; harvest when rind is hard and fully orange."
+    },
+    "usda_zones": {"min": 3, "max": 11},
+    "spacing_in": {"min": 24, "max": 36},
+    "height_in": {"min": 8, "max": 12},
+    "spread_in": {"min": 48, "max": 72},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Direct sow seeds 1 inch deep in hills of 2–3 plants after last frost in full sun; harvest when rind has hardened completely and is uniformly deep orange. Munchkin is a 1996 All-America Selections-winning miniature pumpkin that produces perfectly proportioned, small (4–5 inches in diameter, 3–5 oz) pumpkins with the classic Halloween pumpkin shape — deeply ridged, round, bright orange, with a proportionally large corky stem — in quantities of 8–15 per vine. The scale and perfect form of Munchkin pumpkins have made them the dominant decorative miniature pumpkin in the American market: they look like standard pumpkins shrunk to one-tenth their normal size, with all the visual appeal intact. Their most popular use is as tabletop decorations, door step arrangements, and centerpieces for autumn events; the small size and hard rind give them good postharvest longevity (4–8 weeks in cool conditions) for extended decorative use. Munchkin also has the distinction of being edible — the sweet, dense flesh makes excellent pumpkin puree, though the small size means significant work for a small yield — but most growers treat it purely as a decorative crop. Very productive and highly marketable at farm stands, farmers markets, and pumpkin patches where customers specifically seek miniature varieties. A top-selling item for autumn specialty crop producers.",
+    "sources": [
+      "All-America Selections — Munchkin pumpkin AAS winner 1996",
+      "Johnny's Selected Seeds — Mini Pumpkin Variety Comparison",
+      "University of Illinois Extension — Specialty Pumpkin and Gourd Production"
+    ]
+  },
+  {
+    "slug": "winter-luxury-pie-pumpkin",
+    "common_name": "Winter Luxury Pie Pumpkin (Heirloom Netted-Skin Pie Pumpkin)",
+    "scientific_name": "Cucurbita pepo 'Winter Luxury'",
+    "category": "vegetable",
+    "subcategory": "pumpkin",
+    "days_to_germination": {"min": 7, "max": 14},
+    "germination_soil_temp_f": {"min": 65, "max": 95},
+    "days_to_maturity": {"min": 95, "max": 105},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 0, "max": 3},
+      "note": "Direct sow in hills of 2–3 plants after last frost; Winter Luxury requires 95–105 days to reach harvest maturity. For fall baking pumpkins, count back 105 days from first frost date; in zone 9, plant May–June for a September–October harvest. Harvest when the skin has turned orange and the distinctive netted surface is clearly visible; the unusual lacy skin is the signature characteristic of this variety."
+    },
+    "usda_zones": {"min": 3, "max": 11},
+    "spacing_in": {"min": 48, "max": 72},
+    "height_in": {"min": 10, "max": 14},
+    "spread_in": {"min": 72, "max": 120},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Direct sow seeds 1 inch deep in hills of 2–3 plants after last frost in full sun in well-drained, rich, well-amended soil; harvest when rind is fully orange and the characteristic netting pattern covers the surface. Winter Luxury is a heirloom pie pumpkin dating to before 1893 that is distinguished from all other pumpkins by its striking surface appearance: the orange rind is covered with a delicate pattern of raised, interlacing cream-colored corky netting that gives each fruit a lacy, elaborately textured surface unlike any other pumpkin variety. Beyond the striking visual character, Winter Luxury is widely regarded as one of the finest pie pumpkins ever developed — the smooth-grained, dense, deep-orange flesh is finely textured, very sweet, and has a silky quality when cooked that produces exceptionally smooth pumpkin puree without the stringiness or wateriness of field-type pumpkins. The 5–9 lb fruits are the ideal size for fresh pie production, yielding enough puree for two large pies per fruit while remaining manageable to handle. Seed Savers Exchange and heirloom seed preservationists have long championed Winter Luxury as an example of what specialty breeding for cooking quality can achieve, and it consistently wins pie pumpkin taste tests among gardeners who grow multiple varieties side by side. A beautiful and genuinely outstanding baking pumpkin with over 130 years of cultivation history.",
+    "sources": [
+      "Seed Savers Exchange — Winter Luxury pie pumpkin variety history",
+      "Baker Creek Heirloom Seeds — Cucurbit variety collection",
+      "Cornell Cooperative Extension — Specialty Pumpkin Production"
+    ]
+  }
+]

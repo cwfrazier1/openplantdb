@@ -1,0 +1,157 @@
+[
+  {
+    "slug": "sugarsnax-54-carrot",
+    "common_name": "Sugarsnax 54 Carrot (Ultra-Sweet Imperator Snacking Carrot)",
+    "scientific_name": "Daucus carota 'Sugarsnax 54'",
+    "category": "vegetable",
+    "subcategory": "root",
+    "days_to_germination": {"min": 10, "max": 14},
+    "germination_soil_temp_f": {"min": 50, "max": 75},
+    "days_to_maturity": {"min": 54, "max": 60},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {"min": -14, "max": -10},
+      "note": "Direct sow in deep, very loose, stone-free soil — Sugarsnax develops long roots (8–9 inches) and requires at least 10–12 inches of deep, unobstructed, well-amended soil for straight root development. Thin to 2–3 inches apart when seedlings reach 2 inches tall. In zone 9, sow September through November for harvest December through February. The cooler temperatures of fall and winter enhance sweetness significantly over summer-grown crops."
+    },
+    "usda_zones": {"min": 3, "max": 10},
+    "spacing_in": {"min": 2, "max": 3},
+    "height_in": {"min": 10, "max": 16},
+    "spread_in": {"min": 2, "max": 3},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Direct sow seeds 0.25 inch deep in very deeply tilled, loose, stone-free soil enriched with compost; water consistently through germination (10–14 days) and thin to 2–3 inches when plants are 2 inches tall. Sugarsnax 54 (developed by Harris Moran Seed Company) is an Imperator-type hybrid carrot bred specifically for maximum sweetness at minimum days-to-maturity — its name reflects the two core attributes, 'sugar' for sweetness and '54' for the early maturity date that brings exceptionally sweet carrots to harvest in just 54–60 days. The roots are long and slender (8–9 inches) with a tapered Imperator shape, smooth bright-orange skin, and orange flesh that is noticeably sweeter than most other carrot varieties when grown under ideal cool conditions — the elevated sugar content is a breeding trait rather than solely a growing-condition effect, though cool weather amplifies it further. Sugarsnax is one of the most popular carrots for direct fresh-eating, CSA bunching, and farmers market premium carrot sales because customers can taste the difference: the sugar content is high enough to be perceptibly sweeter than standard storage carrots when eaten raw. The slender shape and smooth skin make Sugarsnax particularly attractive in bunched presentation with the green tops attached. Requires loose, deep soil to develop full-length roots without forking; heavier soils produce shorter, sometimes misshaped roots.",
+    "sources": [
+      "Harris Moran Seed Company — Sugarsnax 54 carrot variety description",
+      "Johnny's Selected Seeds — Imperator-type carrot trial results",
+      "Cornell Cooperative Extension — Carrot Variety Evaluation for New York"
+    ]
+  },
+  {
+    "slug": "napoli-carrot",
+    "common_name": "Napoli Carrot (Early Spring Nantes-Type Hybrid Carrot)",
+    "scientific_name": "Daucus carota 'Napoli'",
+    "category": "vegetable",
+    "subcategory": "root",
+    "days_to_germination": {"min": 10, "max": 14},
+    "germination_soil_temp_f": {"min": 50, "max": 75},
+    "days_to_maturity": {"min": 58, "max": 68},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {"min": -14, "max": -10},
+      "note": "Direct sow in well-tilled, loose soil; Napoli is a fast-maturing Nantes type that can be sown earlier than most carrots in spring as it germinates reliably in cool soils. In zone 9, sow September–November for fall/winter harvest. Napoli is particularly well-suited to early spring sowing in colder climates (USDA zones 5–7) where it can be direct-sown as soon as soil can be worked, producing an early crop before summer heat arrives. Harvest when roots reach 6–7 inches for best flavor."
+    },
+    "usda_zones": {"min": 3, "max": 10},
+    "spacing_in": {"min": 2, "max": 3},
+    "height_in": {"min": 8, "max": 14},
+    "spread_in": {"min": 2, "max": 3},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Direct sow seeds thinly, 0.25 inch deep, in loose, well-amended soil; thin to 2–3 inch spacing when plants are 2 inches tall. Napoli is a Bejo Seeds Nantes-type hybrid that has earned a strong reputation among market gardeners and home growers as one of the most consistent early-season carrots available — reliably producing smooth, cylindrical, blunt-tipped roots 6–7 inches long with rich orange color, good internal uniformity, and the clean, sweet Nantes flavor in just 58–68 days. The Nantes type is distinguished from other carrot forms by its nearly cylindrical shape (minimal taper from shoulder to tip), blunt end, almost coreless interior with minimal differentiation between phloem and xylem, and clean, crisp texture that makes it the most versatile shape for both fresh eating and cooking. Napoli's early maturity makes it especially valuable for areas where the growing season is short or where spring planting must be followed by summer crops. The roots have good storage quality and hold well in the ground after reaching maturity without significant quality loss. Napoli has been a consistent top performer in university carrot variety trials across the northeastern United States and Europe, where its combination of earliness, quality, and reliable stand establishment have made it a standard recommendation. A dependable all-purpose Nantes carrot well suited to both home garden and small-farm production.",
+    "sources": [
+      "Bejo Seeds — Napoli carrot variety notes",
+      "Cornell Cooperative Extension — Spring Carrot Variety Trial Results",
+      "Johnny's Selected Seeds — Nantes Carrot Comparison Chart"
+    ]
+  },
+  {
+    "slug": "autumn-king-carrot",
+    "common_name": "Autumn King Carrot (Berlikum-Type Large Storage Carrot)",
+    "scientific_name": "Daucus carota 'Autumn King 2'",
+    "category": "vegetable",
+    "subcategory": "root",
+    "days_to_germination": {"min": 10, "max": 14},
+    "germination_soil_temp_f": {"min": 50, "max": 75},
+    "days_to_maturity": {"min": 70, "max": 80},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {"min": -14, "max": -10},
+      "note": "Direct sow in deeply tilled, loose soil in late summer for fall and winter harvest; Autumn King is a large-rooted type that needs deep, unobstructed soil to develop its full potential (roots commonly reach 10–12 inches). In zone 9, sow August–October for harvest November–February; roots left in the ground over winter become sweeter after light frosts. Requires more soil depth than other carrot types and more growing time but produces substantially larger, longer-storing roots."
+    },
+    "usda_zones": {"min": 3, "max": 10},
+    "spacing_in": {"min": 3, "max": 4},
+    "height_in": {"min": 12, "max": 18},
+    "spread_in": {"min": 3, "max": 4},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Direct sow 0.25 inch deep in very deep, loose, stone-free soil enriched with compost; thin to 3–4 inches when seedlings reach 2 inches. Autumn King (also sold as 'Autumn King 2') is a Berlikum/Flakkee-type heirloom carrot that represents the large-rooted tradition of European storage carrot breeding — producing very large, long (10–12 inch), broad-shouldered, tapered roots with dark orange skin and rich orange flesh that are built for cold storage and extended winter use. The Berlikum/Flakkee type was developed in the Netherlands for large-scale commercial storage carrot production and is characterized by the widest shoulders and largest root volume of any carrot type, with correspondingly excellent storage characteristics: properly cured Autumn King roots keep 4–6 months in cold storage (32–38°F, high humidity) without significant quality loss. The flavor is rich, sweet, and distinctly carrot-forward — more concentrated and traditional in character than some modern sweet hybrids, with a satisfying density and substance that makes these carrots outstanding for soups, stews, roasting, and winter cooking generally. Autumn King is the standard large storage carrot in British gardens (where it has been grown since the 1950s) and is valued throughout northern Europe for its combination of large yield per plant, excellent storage, and authentic robust carrot flavor. An excellent choice for home gardeners who want to store carrots through winter.",
+    "sources": [
+      "Royal Horticultural Society — Carrot variety guide (Autumn King 2)",
+      "Thompson & Morgan — Autumn King variety notes",
+      "Suttons Seeds — Storage carrot variety comparison"
+    ]
+  },
+  {
+    "slug": "silver-queen-sweet-corn",
+    "common_name": "Silver Queen Sweet Corn (Classic White Sweet Corn Standard)",
+    "scientific_name": "Zea mays 'Silver Queen'",
+    "category": "vegetable",
+    "subcategory": "sweet corn",
+    "days_to_germination": {"min": 7, "max": 14},
+    "germination_soil_temp_f": {"min": 60, "max": 95},
+    "days_to_maturity": {"min": 88, "max": 94},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 2, "max": 4},
+      "note": "Direct sow in blocks (at least 4 rows wide) for adequate wind pollination; Silver Queen is a late-season variety at 88–94 days, making it the last corn of the season for most gardeners. In zone 9, plant March–April for a June–July harvest, or plant again in August for a fall harvest. Plant in full sun in well-drained, fertile soil amended with balanced fertilizer; side-dress with nitrogen fertilizer when plants reach knee height."
+    },
+    "usda_zones": {"min": 3, "max": 11},
+    "spacing_in": {"min": 9, "max": 12},
+    "height_in": {"min": 72, "max": 96},
+    "spread_in": {"min": 12, "max": 18},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Direct sow seeds 1 inch deep in full sun in blocks at least 4 rows wide for adequate wind pollination; fertilize at planting and side-dress with nitrogen when plants reach knee height. Silver Queen is perhaps the most historically influential and recognizable white sweet corn variety in American horticulture — an su (standard sugar) white hybrid introduced around 1955 that rapidly became the benchmark white sweet corn against which all others were measured for decades. The large, 8–9 inch ears carry 14–16 rows of pure white, tender, milky kernels with the classic, unmistakable sweet corn flavor that made Silver Queen famous across the mid-Atlantic and southeastern states, where roadside stands and home gardens grew Silver Queen as the late-summer corn of choice for multiple generations of cooks who planned their summer around it. At 88–94 days, Silver Queen is a late-season variety that reaches peak quality in the hottest part of summer, a timing that traditionally marked the height of summer corn season in the South and Midwest. The flavor at peak maturity — kernels plump, skins tender, sugar at maximum before starch conversion begins — is the standard by which many older gardeners still evaluate all corn. Silver Queen must be harvested and consumed or preserved within a narrow window (1–3 days after peak) as the su type converts sugar to starch more rapidly than modern se or sh2 types. In the Gulf South, Silver Queen is a classic late-spring-to-early-summer variety with a dedicated following among gardeners who grew up eating it.",
+    "sources": [
+      "Burpee Seeds — Silver Queen sweet corn history and variety notes",
+      "University of Florida IFAS Extension — Sweet Corn Production",
+      "North Carolina State University Extension — Sweet Corn Variety Recommendations"
+    ]
+  },
+  {
+    "slug": "stowell-evergreen-corn",
+    "common_name": "Stowell's Evergreen Corn (Classic White Heirloom Late Sweet Corn)",
+    "scientific_name": "Zea mays 'Stowell's Evergreen'",
+    "category": "vegetable",
+    "subcategory": "sweet corn",
+    "days_to_germination": {"min": 7, "max": 14},
+    "germination_soil_temp_f": {"min": 60, "max": 95},
+    "days_to_maturity": {"min": 90, "max": 100},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 2, "max": 6},
+      "note": "Direct sow in blocks of at least 4 rows for wind pollination; Stowell's Evergreen is a large, late-maturing corn (90–100 days) suited to long-season climates. In zone 9, plant February–March for a May–June harvest, or plant mid-August for a fall crop. The 'Evergreen' name refers to the variety's long window for harvesting in the roasting ear stage — the kernels remain tender and at peak quality for a longer period than most corn before starch sets in, a trait that made this variety especially valued in the 19th and early 20th centuries before home refrigeration."
+    },
+    "usda_zones": {"min": 3, "max": 11},
+    "spacing_in": {"min": 9, "max": 12},
+    "height_in": {"min": 72, "max": 108},
+    "spread_in": {"min": 12, "max": 18},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Direct sow seeds 1 inch deep in full sun in blocks at least 4 rows wide for adequate wind pollination; fertilize well at planting and side-dress with nitrogen when plants reach knee height. Stowell's Evergreen is one of the oldest and most important heirloom sweet corn varieties in American gardening tradition — a white su (standard sugary) corn introduced before 1848 by Nathan N. Stowell of Burlington, New Jersey, who reportedly sold the variety for $4 (a substantial sum) before it was propagated and spread widely by seed companies. The variety dominated American sweet corn production and home gardens throughout the late 19th and early 20th centuries, remaining one of the most popular sweet corn varieties in America for over 100 years before hybrid varieties began displacing open-pollinated types in the mid-20th century. The 'Evergreen' in the name refers to the variety's characteristic long harvest window in the milk stage — the kernels remain tender and edible for longer than most corn before converting sugar to starch, a property especially valuable before refrigeration when fresh corn had to be consumed quickly. Stowell's Evergreen produces large (8–9 inch) ears with 14–20 rows of pure white kernels that are tender, sweet (for an su type), and deeply flavored with the rich, starchy-sweet character of traditional open-pollinated corn that many old-timers consider superior to modern hybrids for preserving, canning, and creamed corn preparations. An irreplaceable heirloom variety with a direct connection to the entire American sweet corn tradition.",
+    "sources": [
+      "Seed Savers Exchange — Stowell's Evergreen corn variety history",
+      "Baker Creek Heirloom Seeds",
+      "Iowa State University Extension — Heirloom Vegetable Varieties"
+    ]
+  }
+]

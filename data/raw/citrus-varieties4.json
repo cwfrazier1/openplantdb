@@ -1,0 +1,157 @@
+[
+  {
+    "slug": "sumo-mandarin",
+    "common_name": "Sumo Mandarin (Dekopon, Shiranui Mandarin)",
+    "scientific_name": "Citrus reticulata 'Shiranui'",
+    "category": "fruit",
+    "subcategory": "citrus",
+    "days_to_germination": {"min": 14, "max": 30},
+    "germination_soil_temp_f": {"min": 70, "max": 85},
+    "days_to_maturity": {"min": 1460, "max": 2190},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 8},
+      "note": "Plant grafted trees in spring in well-drained, fertile, slightly acidic to neutral soil in full sun; Sumo mandarin requires more careful management than standard mandarins and trees benefit from removal of excess fruit (thinning) to prevent biennial bearing and maintain large fruit size, which is a hallmark of the variety."
+    },
+    "usda_zones": {"min": 9, "max": 11},
+    "spacing_in": {"min": 120, "max": 180},
+    "height_in": {"min": 96, "max": 168},
+    "spread_in": {"min": 96, "max": 144},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant grafted trees in spring in well-drained, fertile, slightly acidic to neutral soil in full sun; Sumo mandarin — sold under the trademarked name 'Sumo Citrus' in North America and known as 'Dekopon' in Japan and 'Shiranui' by its cultivar name — is a premium mandarin hybrid (Kiyomi tangor x Ponkan mandarin) developed in Japan and widely considered one of the finest fresh mandarin fruits in the world: extraordinarily sweet (very high Brix), completely seedless, easily peeled with thick, bumpy, loose skin, and so large (typically 3–4 inches in diameter) that a single fruit is a generous one-person serving. The characteristic topknot bump at the stem end and enormous size make Sumo instantly recognizable in markets, where it commands premium prices ($3–5 per fruit or more). The flavor is intensely sweet with very low acid and a honey-like aromatic quality unlike any other mandarin, and the peel comes off in large easy-to-remove sections. Sumo/Dekopon trees are slow to come into full production (4–5 years from grafted trees to reliable crops), somewhat demanding in their cultural requirements, and require fruit thinning to produce the signature large fruits — but the result is exceptional. A wonderful specialty tree for zone 9–11 home orchards and edible landscapes.",
+    "sources": [
+      "University of California Riverside Citrus Variety Collection",
+      "California Rare Fruit Growers",
+      "Japan Citrus Research (Nagasaki Fruit Tree Experimental Station)"
+    ]
+  },
+  {
+    "slug": "murcott-honey-tangerine",
+    "common_name": "Murcott Honey Tangerine (Murcott, Honey Mandarin)",
+    "scientific_name": "Citrus reticulata 'Murcott'",
+    "category": "fruit",
+    "subcategory": "citrus",
+    "days_to_germination": {"min": 14, "max": 30},
+    "germination_soil_temp_f": {"min": 70, "max": 85},
+    "days_to_maturity": {"min": 1095, "max": 1825},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 8},
+      "note": "Plant grafted trees in spring in well-drained, slightly acidic, fertile soil in full sun; Murcott is self-fruitful but benefits from cross-pollination for maximum fruit set; it is strongly alternate-bearing and benefits from fruit thinning in heavy years to promote consistent annual production."
+    },
+    "usda_zones": {"min": 9, "max": 11},
+    "spacing_in": {"min": 108, "max": 168},
+    "height_in": {"min": 96, "max": 168},
+    "spread_in": {"min": 96, "max": 144},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant grafted trees in spring in well-drained, fertile, slightly acidic to neutral soil in full sun; Murcott honey tangerine (also called Murcott mandarin, Honey mandarin, or Spring mandarin) is one of the most intensely flavored mandarins available — a complex tangor (mandarin x sweet orange hybrid) with deep reddish-orange skin, extremely sweet, rich, honey-like juice with excellent aromatic complexity, and medium-thick skin that peels relatively easily. The fruits are medium-sized (2.5–3.5 inches), slightly flattened, and typically contain 15–25 small seeds, which is a trade-off for the exceptional flavor profile that many citrus enthusiasts consider the finest of all mandarin types. Murcott ripens late in the season (January–March in Florida; February–April in California), and the fruits hang on the tree well, gradually increasing in sweetness through the winter; the tree can be used as a reliable late-season fresh citrus source when earlier varieties have finished. The California Citrus Research Board markets Murcott as 'Honey mandarin' and sells significant quantities at premium prices. Trees are moderately cold-sensitive (damaged at 28°F) and are best in the warmest sites in zone 9.",
+    "sources": [
+      "University of Florida IFAS Citrus Research and Education Center",
+      "University of California Riverside Citrus Variety Collection",
+      "California Rare Fruit Growers"
+    ]
+  },
+  {
+    "slug": "melogold-grapefruit",
+    "common_name": "Melogold Grapefruit (UC Melogold, Sweet White Grapefruit)",
+    "scientific_name": "Citrus grandis x C. paradisi 'Melogold'",
+    "category": "fruit",
+    "subcategory": "citrus",
+    "days_to_germination": {"min": 14, "max": 30},
+    "germination_soil_temp_f": {"min": 70, "max": 85},
+    "days_to_maturity": {"min": 1095, "max": 1825},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 8},
+      "note": "Plant grafted trees in spring in well-drained, slightly acidic to neutral, fertile, deep soil in full sun; Melogold is self-fruitful and productive without a pollinator; the large tree needs adequate space — allow 20–25 feet diameter at maturity."
+    },
+    "usda_zones": {"min": 9, "max": 11},
+    "spacing_in": {"min": 144, "max": 300},
+    "height_in": {"min": 144, "max": 264},
+    "spread_in": {"min": 144, "max": 264},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant grafted trees in spring in well-drained, fertile, slightly acidic to neutral soil in full sun; Melogold is a pomelo x white grapefruit hybrid developed by the University of California alongside Oro Blanco from the same breeding program (both released 1980), but with a subtly different flavor — where Oro Blanco has a pomelo-forward character with slightly dry, mealy flesh, Melogold has juicier flesh and a flavor closer to a very sweet, very mildly bitter grapefruit, with somewhat more grapefruit character and slightly more juice than Oro Blanco. Like Oro Blanco, Melogold lacks the bitter naringin flavanone that makes standard grapefruit bitter, but retains more of the characteristic grapefruit aroma and slight tartness, making it a good bridge between grapefruit lovers and those who normally avoid grapefruit bitterness. The large, greenish-yellow to pale-yellow fruits (4–6 inches) ripen October through February and must be tasted to judge ripeness since the skin stays green or pale yellow even when fully ripe. The very large tree is suitable for large home landscapes and the Southern California and Gulf Coast climate in zones 9–11.",
+    "sources": [
+      "University of California Riverside Citrus Variety Collection",
+      "California Rare Fruit Growers",
+      "University of Florida IFAS Citrus Research and Education Center"
+    ]
+  },
+  {
+    "slug": "variegated-pink-lemon",
+    "common_name": "Variegated Pink Lemon (Pink Eureka Lemon, Eureka Variegated Pink)",
+    "scientific_name": "Citrus limon 'Eureka Variegated Pink'",
+    "category": "fruit",
+    "subcategory": "citrus",
+    "days_to_germination": {"min": 14, "max": 30},
+    "germination_soil_temp_f": {"min": 70, "max": 85},
+    "days_to_maturity": {"min": 1095, "max": 1825},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 8},
+      "note": "Plant grafted trees in spring in well-drained, slightly acidic to neutral, fertile soil in full sun; Variegated Pink Lemon performs best in full sun but is slightly more shade-tolerant than standard lemon trees; the variegated foliage is attractive enough for use as a decorative container specimen or landscape accent."
+    },
+    "usda_zones": {"min": 9, "max": 11},
+    "spacing_in": {"min": 96, "max": 168},
+    "height_in": {"min": 84, "max": 168},
+    "spread_in": {"min": 84, "max": 144},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant grafted trees in spring in well-drained, fertile, slightly acidic to neutral soil in full sun; Variegated Pink Lemon (sold as 'Pink Eureka Lemon' or 'Eureka Variegated Pink') is a striking sports mutation of the standard Eureka lemon, valued both as a productive lemon and as a highly ornamental landscape or container specimen. The foliage is distinctively variegated in green and cream-white patterns that remain attractive year-round; the unripe fruits are dramatically striped in green and yellow (somewhat like a watermelon in miniature), and the flesh is pale pink when cut — a surprise and visual delight that makes this lemon memorable and photogenic. As the fruit ripens to full yellow, the pink-flesh color fades but remains just slightly pink in fully ripe fruit; the flavor is standard Eureka lemon — tart, aromatic, excellent for culinary use in anything requiring fresh lemon juice, zest, or slices. Production is good but somewhat lighter than standard Eureka. An outstanding choice for container culture, ornamental edible gardens, and any setting where visual interest in the plant matters as much as production.",
+    "sources": [
+      "University of California Riverside Citrus Variety Collection",
+      "California Rare Fruit Growers",
+      "University of Florida IFAS Citrus Research and Education Center"
+    ]
+  },
+  {
+    "slug": "etrog-citron",
+    "common_name": "Etrog Citron (Esrog, Hebrew Citron)",
+    "scientific_name": "Citrus medica 'Etrog'",
+    "category": "fruit",
+    "subcategory": "citrus",
+    "days_to_germination": {"min": 14, "max": 30},
+    "germination_soil_temp_f": {"min": 70, "max": 85},
+    "days_to_maturity": {"min": 1095, "max": 1825},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 8},
+      "note": "Plant grafted or rooted-cutting trees in spring in well-drained, slightly acidic to neutral, fertile soil in full sun; etrog citron is among the most cold-sensitive of all citrus and requires a frost-free microclimate in zone 9b or container culture that can be moved indoors in zone 9a and below."
+    },
+    "usda_zones": {"min": 9, "max": 12},
+    "spacing_in": {"min": 96, "max": 144},
+    "height_in": {"min": 72, "max": 168},
+    "spread_in": {"min": 72, "max": 120},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant grafted trees in spring in well-drained, fertile, slightly acidic to neutral soil in full sun in the warmest available microclimate; Etrog citron (Citrus medica 'Etrog', also spelled 'Esrog') is the specific cultivar of citron used for the Jewish holiday of Sukkot (Feast of Tabernacles), where it serves as one of the Four Species (arba minim) central to the religious observance — a use with over 2,000 years of continuous documented history, making it one of the oldest cultivated citrus varieties still grown for a specific purpose. The fruits are very large (4–8 inches long), yellow, highly aromatic, with a very thick, white-fleshed rind and very little juice; the entire fruit, including the extraordinarily thick, sweet, resinous peel, is the primary edible product, commonly candied, used in liqueurs and confections, or made into jam. The strongly ribbed, warty, irregular shape and intense, complex citrus-resin fragrance make etrog citron immediately distinctive. Ritual-quality etrogs (used for Sukkot) must meet specific halachic requirements — fully yellow, unblemished, with the pitam (style/stigma) intact at the blossom end — and command very high prices. Etrog trees are quite ornamental, with large leaves and dramatic fruit, but are tender and need winter protection in most of zone 9.",
+    "sources": [
+      "University of California Riverside Citrus Variety Collection",
+      "California Rare Fruit Growers",
+      "Jewish Agricultural Society of America historical citrus publications"
+    ]
+  }
+]

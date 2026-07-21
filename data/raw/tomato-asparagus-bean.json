@@ -1,0 +1,157 @@
+[
+  {
+    "slug": "solar-set-tomato",
+    "common_name": "Solar Set Tomato (UF Heat-Setting Gulf South Tomato)",
+    "scientific_name": "Solanum lycopersicum 'Solar Set'",
+    "category": "vegetable",
+    "subcategory": "tomato",
+    "days_to_germination": {"min": 5, "max": 10},
+    "germination_soil_temp_f": {"min": 70, "max": 85},
+    "days_to_maturity": {"min": 70, "max": 80},
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": -8, "max": -6},
+      "note": "Start indoors 6–8 weeks before transplanting; in zone 9 transplant February–March for spring harvest and August for fall. Solar Set was specifically developed to set fruit at higher temperatures than standard varieties — the key trait for Gulf South spring production where nighttime temperatures frequently exceed 75°F before the crop is finished. Unlike most tomatoes, which fail to pollinate when nights stay above 70–75°F, Solar Set continues fruit set during warm spells."
+    },
+    "usda_zones": {"min": 7, "max": 11},
+    "spacing_in": {"min": 24, "max": 36},
+    "height_in": {"min": 36, "max": 48},
+    "spread_in": {"min": 24, "max": 36},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Start seeds 6–8 weeks before transplanting at 70–80°F; Solar Set is a determinate hybrid tomato developed by the University of Florida specifically to address the most critical failure point in Gulf Coast tomato production — the inability of most varieties to set fruit when nighttime temperatures exceed 70–75°F. In standard tomatoes, high night temperatures destroy pollen viability and prevent fruit set even when flowering is abundant, causing the characteristic 'drop-out' where plants flower profusely but set no fruit as spring transitions to summer. Solar Set was bred to maintain viable pollen and fruit set at higher temperatures than standard varieties, extending the productive window by 2–4 weeks in warm spring conditions — a significant advantage in zone 8–11 where the spring growing window is narrow. The medium-large (6–10 oz), round, firm, bright red fruits have good flavor and adequate disease resistance including Verticillium wilt, Fusarium wilt, and gray leaf spot. Solar Set is not as widely known as Solar Fire or Heatmaster but performs a similar heat-set function and has been a reliable variety in UF variety trials for Gulf Coast spring production. Best suited to spring and fall production in zone 8b–11 where heat-setting capacity provides measurable yield advantages.",
+    "sources": [
+      "University of Florida IFAS Gulf Coast Research and Education Center — Tomato Breeding Program",
+      "University of Florida IFAS Extension — Commercial Tomato Production Guide",
+      "Texas A&M AgriLife Extension — Vegetable Variety Evaluations"
+    ]
+  },
+  {
+    "slug": "jersey-knight-asparagus",
+    "common_name": "Jersey Knight Asparagus (All-Male Hybrid Asparagus)",
+    "scientific_name": "Asparagus officinalis 'Jersey Knight'",
+    "category": "vegetable",
+    "subcategory": "asparagus",
+    "days_to_germination": {"min": 14, "max": 21},
+    "germination_soil_temp_f": {"min": 60, "max": 80},
+    "days_to_maturity": {"min": 730, "max": 1095},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": -4, "max": 0},
+      "note": "Plant 1-year-old crowns in late winter or early spring in deeply dug, rich, slightly acidic soil (pH 6.0–7.0) with thorough weed removal; asparagus crowns are planted 6–8 inches deep in 12-inch-wide trenches with roots spread over a small mound. Harvesting is withheld for the first two years to allow the crown to develop fully. Jersey Knight needs some winter dormancy and is most productive in zones 4–7, but grows as a perennial in zones 7–9 with summer dormancy serving the winter function."
+    },
+    "usda_zones": {"min": 3, "max": 9},
+    "spacing_in": {"min": 15, "max": 18},
+    "height_in": {"min": 48, "max": 72},
+    "spread_in": {"min": 18, "max": 24},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant 1-year crowns 6–8 inches deep in deeply tilled, rich, well-drained soil in full sun; do not harvest for the first two seasons to build crown energy reserves. Jersey Knight is one of the most important and widely planted asparagus varieties in North America — a 1982 release from Rutgers University that represented a major advance in asparagus production through the development of all-male plant populations. Unlike open-pollinated asparagus varieties that produce both male and female plants (female plants produce seeds, which compete with spear production and introduce seedlings), Jersey Knight consists of 100% male plants that direct all energy into spear production, resulting in 2–3 times more spears per plant than older mixed-sex varieties and larger-diameter, more marketable spears throughout the season. Jersey Knight also carries resistance to Fusarium crown and root rot and Fusarium wilt, the primary diseases that historically shortened asparagus bed life. Beds of properly managed Jersey Knight can remain productive for 15–20 years or more. The large, thick, deep green spears with tight, well-formed tips are considered premium quality and are the commercial standard in much of the eastern United States. Jersey Knight is the benchmark all-male hybrid against which other asparagus varieties are compared and remains the most widely recommended choice for home and commercial asparagus production in zones 4–8.",
+    "sources": [
+      "Rutgers University New Jersey Agricultural Experiment Station — Jersey series asparagus development",
+      "University of California Cooperative Extension — Asparagus Production Guide",
+      "Johnny's Selected Seeds — Asparagus variety comparison"
+    ]
+  },
+  {
+    "slug": "sandia-pepper",
+    "common_name": "Sandia Pepper (New Mexico Green Chile, Medium-Hot Roasting Pepper)",
+    "scientific_name": "Capsicum annuum 'Sandia'",
+    "category": "vegetable",
+    "subcategory": "pepper",
+    "days_to_germination": {"min": 10, "max": 21},
+    "germination_soil_temp_f": {"min": 70, "max": 85},
+    "days_to_maturity": {"min": 75, "max": 85},
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": -8, "max": -6},
+      "note": "Start indoors 6–8 weeks before transplanting after last frost; Sandia is a medium-hot New Mexico-style green chile excellent for roasting at both the immature green stage and the fully ripe red stage. Harvest green peppers when they are full-sized (6–8 inches) for fresh roasted green chile use; allow remaining fruits to mature to red for dried red chile production."
+    },
+    "usda_zones": {"min": 4, "max": 11},
+    "spacing_in": {"min": 18, "max": 24},
+    "height_in": {"min": 24, "max": 36},
+    "spread_in": {"min": 18, "max": 24},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Start seeds indoors 6–8 weeks before transplanting at 75–85°F; Sandia is a New Mexico State University-developed chile variety named after the Sandia Mountains near Albuquerque, bred to fill a flavor and heat niche between the mild Anaheim-type peppers and the hotter NuMex Big Jim — producing long (6–8 inch), meaty, thick-walled green chiles with a medium heat level (approximately 1,000–2,500 Scoville units) that provides a pleasant warmth without overwhelming heat and excellent roasted green chile flavor. The thick walls and dense flesh roast beautifully — the skin blisters and chars evenly while the interior steams to a silky, rich texture — making Sandia an excellent choice for all traditional New Mexico green chile preparations including green chile stew, chile rellenos, and roasted chiles packed in the freezer for winter use. As the fruits mature to red and dry, Sandia provides good red chile powder with medium heat and authentic New Mexico chile flavor. Sandia performs well in a wide range of climates including the humid Gulf South, where its thick-walled flesh resists decay better than thinner-walled varieties. One of the most important green chile varieties in the New Mexico tradition alongside NuMex Big Jim, Hatch, and Numex Joe E. Parker.",
+    "sources": [
+      "New Mexico State University Chile Pepper Institute — Variety descriptions",
+      "University of Arizona Cooperative Extension — Chile Pepper Production",
+      "Texas A&M AgriLife Extension — Green Chile Production"
+    ]
+  },
+  {
+    "slug": "yellow-eye-bean",
+    "common_name": "Yellow Eye Bean (Maine Yellow Eye, Steuben Yellow Eye, New England Heirloom)",
+    "scientific_name": "Phaseolus vulgaris 'Yellow Eye'",
+    "category": "vegetable",
+    "subcategory": "legume",
+    "days_to_germination": {"min": 7, "max": 14},
+    "germination_soil_temp_f": {"min": 60, "max": 85},
+    "days_to_maturity": {"min": 85, "max": 100},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 1, "max": 3},
+      "note": "Direct sow after last frost when soil is above 60°F; Yellow Eye is a dry bush bean — allow pods to fully mature and begin to dry on the vine before harvesting. In zone 9, sow in March–April for a May–June dry bean harvest before summer heat peaks."
+    },
+    "usda_zones": {"min": 3, "max": 10},
+    "spacing_in": {"min": 4, "max": 6},
+    "height_in": {"min": 18, "max": 24},
+    "spread_in": {"min": 12, "max": 18},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Direct sow 1 inch deep after last frost; allow pods to dry fully on the vine before harvesting, then shell and continue drying beans before storage. Yellow Eye bean (also called Maine Yellow Eye, Steuben Yellow Eye, or Molasses Face bean) is one of the defining heirloom dry beans of New England — a white bean with a distinctive yellow-to-orange eye mark on one end (the hilum area) that resembles a yellow eye, giving the variety its evocative name. The bean has an extraordinarily long history in New England agriculture, where it has been the traditional baked bean variety for generations in Maine — the characteristic bean in the famous Maine Saturday Night bean suppers and baked bean tradition that stretches back centuries to Native American cooking and early colonial adaptation. The large, creamy-white beans cook to a silky, tender texture without becoming mushy, holding their shape while absorbing surrounding flavors; they have a mild, rich, nutty flavor that makes them outstanding for slow-baked preparations, bean soups, and any dish where bean quality is the focus. Yellow Eye is considered by many New England cooks to be the finest baked bean, superior in flavor and texture to navy beans or pinto beans for this application. An outstanding heirloom that connects culinary tradition, regional identity, and genuine eating quality.",
+    "sources": [
+      "Fedco Seeds — Yellow Eye bean variety notes",
+      "Seed Savers Exchange — New England heirloom bean collection",
+      "University of Maine Cooperative Extension — Bean Production Guide"
+    ]
+  },
+  {
+    "slug": "taylor-dwarf-horticultural-bean",
+    "common_name": "Taylor Dwarf Horticultural Bean (Cranberry Bush, Shell Bean)",
+    "scientific_name": "Phaseolus vulgaris 'Taylor's Dwarf Horticultural'",
+    "category": "vegetable",
+    "subcategory": "legume",
+    "days_to_germination": {"min": 7, "max": 14},
+    "germination_soil_temp_f": {"min": 60, "max": 85},
+    "days_to_maturity": {"min": 65, "max": 80},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 1, "max": 3},
+      "note": "Direct sow after last frost when soil is above 60°F; Taylor Dwarf Horticultural is grown primarily as a shell bean — harvested when pods have begun to turn from green-streaked to fully tan/buff and the beans inside are plump and fully developed but not yet dry. This 'shelling' window lasts about 2 weeks per planting; successive sowings extend the season."
+    },
+    "usda_zones": {"min": 3, "max": 10},
+    "spacing_in": {"min": 4, "max": 6},
+    "height_in": {"min": 14, "max": 20},
+    "spread_in": {"min": 10, "max": 14},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Direct sow 1 inch deep after last frost; harvest as shell beans when pods have mottled tan-and-red coloring and beans are plump. Taylor Dwarf Horticultural is a classic New England and Mid-Atlantic heirloom horticultural (shell) bean — one of the oldest and most storied varieties in American seed saving tradition, producing beautiful red-streaked, cream-and-crimson pods and plump, cranberry-red-speckled beans that are used primarily at the fresh-shelled stage, when they have a rich, creamy, potato-like flavor and a velvety texture that is quite different from the firmer, drier character of the same beans when fully dried. Fresh-shelled horticultural beans are a seasonal delicacy that was once far more common in American cooking — they require no soaking, cook in 20–30 minutes, and have a rich, substantial flavor and a dense, satisfying texture that is superior to the canned or dried equivalents. Taylor Dwarf is compact (14–20 inches), making it well-suited to small gardens, and produces abundantly over a 2–3 week harvest window. As a dry bean it is also excellent (the same as a cranberry or borlotti bean), providing versatility across the whole season. A foundational heirloom with genuine culinary value and beautiful pod markings.",
+    "sources": [
+      "Seed Savers Exchange — Horticultural bean variety collection",
+      "Fedco Seeds",
+      "Cornell Cooperative Extension — Snap Bean and Shell Bean Varieties"
+    ]
+  }
+]

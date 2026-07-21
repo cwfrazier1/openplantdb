@@ -1,0 +1,126 @@
+[
+  {
+    "slug": "solo-papaya",
+    "common_name": "Solo Papaya (Hawaiian Papaya, Kapoho Solo)",
+    "scientific_name": "Carica papaya 'Solo'",
+    "category": "fruit",
+    "subcategory": "tropical fruit",
+    "days_to_germination": {"min": 14, "max": 21},
+    "germination_soil_temp_f": {"min": 75, "max": 90},
+    "days_to_maturity": {"min": 240, "max": 365},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Sow seeds 3–4 per location, thin to best plant, or start transplants 6–8 weeks before transplanting after frost danger passes in moist, well-drained, slightly acidic to neutral, fertile soil in full sun; 'Solo' papayas are bisexual (hermaphrodite) or female — plant two plants together and cull males (identified by long-stalked clusters of tubular flowers) to ensure cross-pollination."
+    },
+    "usda_zones": {"min": 9, "max": 11},
+    "spacing_in": {"min": 72, "max": 120},
+    "height_in": {"min": 72, "max": 144},
+    "spread_in": {"min": 48, "max": 84},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Sow seeds directly or start transplants in warm soil in full sun after frost danger passes; 'Solo' papaya is the classic Hawaiian commercial papaya developed at the University of Hawaii, the standard against which most commercial papayas are measured — a compact tree producing pear-shaped to round fruits averaging 0.5–2 pounds with deep orange-yellow flesh, exceptional sweetness, and a very small seed cavity. The 'Solo' name refers to being a manageable single-serving size (as opposed to the enormous Mexican papayas). 'Solo' plants may be hermaphrodite (bisexual, which set cylindrical fruits and are preferred for fruit quality), female (which require a male pollinator and produce more spherical fruits), or occasionally male (identified by long dangling chains of tubular flowers and producing no fruit). Plant 2–3 plants and remove males unless one is needed for pollination; bisexual plants are preferred and produce the finest fruit shape. In zone 9, 'Solo' papaya grows as a productive short-lived perennial but needs frost protection; it fruits within 6–10 months from seed, producing continuously in warm weather. The University of Hawaii's 'Rainbow' Solo is the transgenic PRSV-resistant variant widely grown commercially in Hawaii.",
+    "sources": [
+      "University of Hawaii Cooperative Extension Service",
+      "University of Florida IFAS Extension",
+      "Purdue University Center for New Crops"
+    ]
+  },
+  {
+    "slug": "red-lady-papaya",
+    "common_name": "Red Lady Papaya (F1 Hybrid Papaya)",
+    "scientific_name": "Carica papaya 'Red Lady'",
+    "category": "fruit",
+    "subcategory": "tropical fruit",
+    "days_to_germination": {"min": 10, "max": 21},
+    "germination_soil_temp_f": {"min": 75, "max": 90},
+    "days_to_maturity": {"min": 210, "max": 300},
+    "maturity_from": "seed",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Start seeds 6–8 weeks before last frost date and transplant after danger of frost passes into moist, well-drained, fertile, slightly acidic to neutral soil in full sun; 'Red Lady' is a bisexual (hermaphrodite) F1 hybrid that produces fruits when planted individually — no separate male pollinator is needed, simplifying home garden production."
+    },
+    "usda_zones": {"min": 9, "max": 12},
+    "spacing_in": {"min": 60, "max": 120},
+    "height_in": {"min": 72, "max": 168},
+    "spread_in": {"min": 48, "max": 84},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Start seeds indoors 6–8 weeks before transplanting or direct sow in warm soil in full sun after frost passes; 'Red Lady' is a commercially successful Taiwanese F1 hybrid papaya developed by Known-You Seed, widely sold in tropical and subtropical regions around the world and favored for its tolerance of Papaya Ring Spot Virus (PRSV), the most devastating papaya disease, which allows it to maintain productivity in areas where most other papayas fail. The bisexual (hermaphrodite) flower type means a single plant can self-pollinate and fruit without needing a separate male, a practical advantage for home gardens with space for only one or two trees. Fruits are medium-large (2–4 pounds), round to slightly oblong, with thin yellow skin blushed with orange-red at maturity and deep, salmon-red flesh with exceptional sweetness and fragrance. 'Red Lady' is an earlier-bearing variety than most papayas, producing fruits within 7–10 months from seed under good growing conditions, and is particularly productive in hot-summer climates like Gulf Coast zone 9. An excellent choice for any zone 9b–12 food garden seeking a reliable, disease-tolerant, self-fruitful papaya.",
+    "sources": [
+      "Known-You Seed Company technical data",
+      "University of Florida IFAS Tropical Research and Education Center",
+      "Texas A&M AgriLife Extension"
+    ]
+  },
+  {
+    "slug": "maradol-papaya",
+    "common_name": "Maradol Papaya (Mexican Papaya, Giant Papaya)",
+    "scientific_name": "Carica papaya 'Maradol'",
+    "category": "fruit",
+    "subcategory": "tropical fruit",
+    "days_to_germination": {"min": 14, "max": 21},
+    "germination_soil_temp_f": {"min": 75, "max": 90},
+    "days_to_maturity": {"min": 270, "max": 365},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Sow 3 seeds per planting spot 1/2 inch deep after frost danger passes, thin to strongest plant; or start transplants 6 weeks early and transplant after frost; 'Maradol' plants include males and females — plant 2–3 plants to ensure a bisexual or female plant is included, and remove male plants (identified by long-stalked tubular flowers) after sex is determined, keeping one male per 8–10 females if needed."
+    },
+    "usda_zones": {"min": 9, "max": 12},
+    "spacing_in": {"min": 84, "max": 144},
+    "height_in": {"min": 96, "max": 216},
+    "spread_in": {"min": 60, "max": 120},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Direct sow or transplant after last frost in moist, fertile, slightly acidic to neutral, well-drained soil in full sun; Maradol is the dominant commercial papaya of Mexico and the variety most commonly sold in American supermarkets, producing very large, oblong fruits (3–8 pounds, sometimes to 10 pounds) with distinctive salmon-red to deep orange flesh, moderate to high sweetness, and a mild, pleasant, non-musky flavor that appeals to consumers who find tropical Solo papayas too strongly flavored. The skin turns from green to yellow-orange at ripeness, with clear indicator spots appearing near the stem. 'Maradol' plants are dioecious (separate male and female plants) which means planting multiple trees is necessary to ensure fruiting; approximately one-third of seedlings are male. The tall plants (10–18 feet under optimal conditions) bear heavily from the main trunk, with fruits maturing in dense clusters below the umbrella of large leaves. Originally developed in Cuba, 'Maradol' is now the main papaya in Mexico's Veracruz and Tabasco production regions and thrives in Gulf Coast conditions — hot humid summers, mild winters, and fertile lowland soils of zone 9b–11.",
+    "sources": [
+      "University of Florida IFAS Tropical Research and Education Center",
+      "Purdue University Center for New Crops",
+      "Texas A&M AgriLife Extension"
+    ]
+  },
+  {
+    "slug": "tainung-papaya",
+    "common_name": "Tainung Papaya (Tainung No. 1, Taiwan Papaya)",
+    "scientific_name": "Carica papaya 'Tainung No. 1'",
+    "category": "fruit",
+    "subcategory": "tropical fruit",
+    "days_to_germination": {"min": 10, "max": 21},
+    "germination_soil_temp_f": {"min": 75, "max": 90},
+    "days_to_maturity": {"min": 210, "max": 330},
+    "maturity_from": "seed",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Start seeds 6–8 weeks before transplanting and move to the garden after frost danger passes in well-drained, fertile, slightly acidic to neutral soil in full sun; 'Tainung No. 1' is a bisexual (hermaphrodite) variety that sets fruit alone without a pollinator, and fruits very early — often within 7 months of germination under warm conditions."
+    },
+    "usda_zones": {"min": 9, "max": 12},
+    "spacing_in": {"min": 60, "max": 108},
+    "height_in": {"min": 84, "max": 168},
+    "spread_in": {"min": 48, "max": 84},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Start seeds 6–8 weeks before transplanting or sow directly in warm soil in full sun after frost; Tainung No. 1 ('TN1') is a bisexual F1 hybrid papaya developed by the Taiwan Agricultural Research Institute that has become the leading papaya variety in Taiwan and is widely grown throughout East and Southeast Asia for its combination of early bearing, excellent fruit quality, and bisexual flower type that allows single-plant fruiting. The compact trees (8–14 feet) begin fruiting at a very low trunk height (1–2 feet from the ground), allowing easy harvest and a shorter time from planting to first fruit than many papaya varieties. Fruits are medium-large (2–4 pounds), oblong-cylindrical, with moderately thick yellow-orange skin and deeply orange to salmon flesh with high sugar content (Brix 12–14°), excellent fragrance, and small seed cavity. Tainung No. 1 has reasonable tolerance of cooler subtropical conditions and is less sensitive to temperature fluctuations than some papaya varieties, making it a useful choice for zone 9 where temperatures occasionally drop in winter; the tree is killed by frost but seeds easily and can be replanted each year as a productive warm-season fruiting crop in frost-marginal climates.",
+    "sources": [
+      "Taiwan Agricultural Research Institute papaya breeding publications",
+      "University of Florida IFAS Tropical Research and Education Center",
+      "Purdue University Center for New Crops"
+    ]
+  }
+]
