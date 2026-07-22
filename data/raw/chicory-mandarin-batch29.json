@@ -1,0 +1,277 @@
+[
+  {
+    "slug": "radicchio-rossa-di-verona",
+    "common_name": "Radicchio Rossa di Verona",
+    "scientific_name": "Cichorium intybus 'Rossa di Verona'",
+    "category": "vegetable",
+    "subcategory": "chicory",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 45,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 75,
+      "max": 90
+    },
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {
+        "min": -14,
+        "max": -10
+      },
+      "note": "Start indoors 4–6 weeks before fall transplant; in zone 9 direct sow or transplant August–September for a November–February harvest. Radicchio intensifies in color and flavor after light frosts — temperatures of 25–32°F trigger the characteristic deepening of the red-purple color and the development of the bittersweet flavor. In zone 9, the mild winters allow radicchio to head up and be harvested through February without protection."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 8,
+      "max": 12
+    },
+    "height_in": {
+      "min": 8,
+      "max": 12
+    },
+    "spread_in": {
+      "min": 8,
+      "max": 12
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Direct sow or transplant into fertile, well-drained soil in full sun; Rossa di Verona is the classic round-headed radicchio from the Verona region of Italy and the dominant variety in world commerce — the compact, baseball-sized heads of deep red-purple leaves with white midribs are the defining image of radicchio. The bitter, slightly sweet flavor is characteristically Italian and develops most fully after light frost exposure, which converts some starches to sugars and intensifies the red-purple anthocyanin pigmentation. In zone 9 plant in August–September for a fall-through-winter crop; the heads form and mature in cool weather from October through February. For sweeter flavor, blanch heads by loosely tying outer leaves over the center 1–2 weeks before harvest, reducing bitterness 30–40%. Rossa di Verona is excellent grilled (the bitterness mellows dramatically under high heat), used in risotto bianco, or eaten raw in Gorgonzola and walnut salads where the bitter note is a feature rather than a flaw.",
+    "sources": [
+      "University of California Cooperative Extension — Chicory and Radicchio",
+      "Cornell University Vegetable Varieties for Gardeners — Radicchio",
+      "University of Florida IFAS Extension — Cool-Season Vegetables for Florida"
+    ]
+  },
+  {
+    "slug": "shasta-gold-mandarin",
+    "common_name": "Shasta Gold Mandarin",
+    "scientific_name": "Citrus reticulata 'Shasta Gold'",
+    "category": "fruit",
+    "subcategory": "citrus",
+    "days_to_germination": {
+      "min": 14,
+      "max": 30
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 80
+    },
+    "days_to_maturity": {
+      "min": 1095,
+      "max": 1460
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 8
+      },
+      "note": "Plant container-grown trees in spring or early fall; in zone 9 plant October–March. Shasta Gold is self-fertile and does not require cross-pollination. Protect young trees from hard freezes below 27°F with frost cloth; established trees tolerate brief dips to 25°F. Ripens January–March in zone 9, which is later than many mandarins and extends the fresh citrus season into late winter."
+    },
+    "usda_zones": {
+      "min": 9,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 120,
+      "max": 180
+    },
+    "height_in": {
+      "min": 120,
+      "max": 168
+    },
+    "spread_in": {
+      "min": 96,
+      "max": 144
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in full sun in well-drained, slightly acidic soil; Shasta Gold is a University of California-developed mandarin hybrid combining the superior flavor of Murcott mandarin with improved disease resistance and the late-season ripening of Encore — producing large, orange, flattened fruits with a very low seed count (typically 2–5 seeds), deep-orange flesh, and a rich, complex sweetness that many citrus experts rate among the finest mandarins available. The fruit holds on the tree without internal quality loss for 6–8 weeks after ripening (January–March), allowing extended harvest over a long window. The moderate-sized tree is easy to manage and produces heavy crops once established. In zone 9 Shasta Gold benefits from afternoon heat reflected from walls or pavement to ensure full fruit ripening; place against a south-facing wall in marginal locations. Trees are typically grafted onto trifoliate or flying dragon rootstock for cold hardiness.",
+    "sources": [
+      "University of California Riverside Citrus Research Center — Shasta Gold Mandarin",
+      "University of Florida IFAS Extension — Mandarin Citrus for Florida",
+      "California Rare Fruit Growers Association — Late-Season Mandarin Types"
+    ]
+  },
+  {
+    "slug": "yukina-savoy",
+    "common_name": "Yukina Savoy",
+    "scientific_name": "Brassica rapa var. komatsuna 'Yukina Savoy'",
+    "category": "vegetable",
+    "subcategory": "leafy green",
+    "days_to_germination": {
+      "min": 4,
+      "max": 7
+    },
+    "germination_soil_temp_f": {
+      "min": 45,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 40,
+      "max": 55
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {
+        "min": -10,
+        "max": -6
+      },
+      "note": "Direct sow in fall; in zone 9 sow September–November for fall-winter harvest. Can also be sown January–February for a spring crop before heat causes bolting. Yukina Savoy is more heat-tolerant than most brassica greens and can extend into early summer in zone 9 before bolting. Successive sowings every 3 weeks extend the harvest season through the cool months."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 6,
+      "max": 10
+    },
+    "height_in": {
+      "min": 8,
+      "max": 14
+    },
+    "spread_in": {
+      "min": 8,
+      "max": 12
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Direct sow or transplant in fertile, well-drained soil in full sun to partial shade; Yukina Savoy is a distinctive Asian brassica with dark green, heavily blistered (savoy-textured), crinkled leaves on upright rosette plants — a texture entirely unlike the smooth leaves of tatsoi, pak choi, or komatsuna. The savoy-type leaf surface catches dressings and sauces in cooking and stands up to heat and wilting better than smooth-leaved types. The flavor is mild and slightly mustardy, similar to komatsuna but with a hint of sweetness, making it suitable for stir-fries, soups, steaming, and raw use as a baby green. Yukina Savoy is notably cold-hardy (tolerating temperatures below 20°F with light mulch) and heat-tolerant for a brassica, making it one of the most adaptable fall-through-spring greens for zone 9 gardens. Cut outer leaves for continuous harvest or cut the whole head at once for cooking.",
+    "sources": [
+      "Johnny's Selected Seeds — Yukina Savoy Variety Notes",
+      "University of Hawaii Extension — Asian Brassica Greens",
+      "Rutgers University — Asian Vegetables for the Home Garden"
+    ]
+  },
+  {
+    "slug": "variegated-cuban-oregano",
+    "common_name": "Variegated Cuban Oregano",
+    "scientific_name": "Plectranthus amboinicus 'Variegatus'",
+    "category": "herb",
+    "subcategory": "culinary herb",
+    "days_to_germination": {
+      "min": 14,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 80
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 90
+    },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Root stem cuttings in warm water or moist propagating mix; cuttings root readily in 2–3 weeks. In zone 9 plant outdoors March–May; the plant is perennial in zone 9b–11 and root-hardy with mulching in zone 9a. Variegated Cuban Oregano grows well in containers, where the cream-and-green foliage and trailing habit are particularly attractive. Overwinter indoors in zone 8 and below."
+    },
+    "usda_zones": {
+      "min": 9,
+      "max": 12
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 18,
+      "max": 30
+    },
+    "spread_in": {
+      "min": 24,
+      "max": 36
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Grow from cuttings in well-drained, moderately fertile soil in partial shade to full sun; Variegated Cuban Oregano ('Variegatus') is a cream-and-green variegated selection of Plectranthus amboinicus with the identical strong oregano-thyme aroma and flavor of the plain green type, but with striking ornamental foliage — the irregular cream margins on each thick, succulent leaf give the plant a luminous quality in shaded garden spots that plain Cuban oregano lacks. It is one of the more useful dual-purpose (culinary and ornamental) plants for zone 9 gardens and container plantings. The thick, succulent leaves retain the distinctive pungent aroma that Caribbean, Indian, and Cuban cooks use in sofrito, black beans, marinades, and rice dishes. The partially succulent nature of the leaves makes the plant somewhat drought-tolerant once established, and the trailing habit makes it excellent for hanging baskets and container combinations. Flavor intensity decreases if plants are too heavily shaded — partial sun gives the best balance of ornamental appearance and aromatic leaf quality.",
+    "sources": [
+      "University of Florida IFAS Extension — Plectranthus amboinicus Cultivars",
+      "Louisiana State University AgCenter — Cuban Oregano for Louisiana Gardens",
+      "Texas A&M AgriLife Extension — Specialty Herbs for the Gulf South"
+    ]
+  },
+  {
+    "slug": "stump-of-the-world-tomato",
+    "common_name": "Stump of the World Tomato",
+    "scientific_name": "Solanum lycopersicum 'Stump of the World'",
+    "category": "vegetable",
+    "subcategory": "tomato",
+    "days_to_germination": {
+      "min": 6,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 70,
+      "max": 80
+    },
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -6
+      },
+      "note": "Start indoors 8 weeks before last frost; in zone 9 start January–February and transplant March. Stump of the World is an indeterminate variety that continues producing through the season; in zone 9 the heavy spring flush continues until peak summer heat slows setting, then resumes in fall. Prolific production means fruit load can be heavy — provide sturdy caging or staking."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 24,
+      "max": 36
+    },
+    "height_in": {
+      "min": 60,
+      "max": 96
+    },
+    "spread_in": {
+      "min": 24,
+      "max": 36
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Transplant into fertile, well-drained soil in full sun; Stump of the World is a Russian heirloom tomato preserved by Seed Savers Exchange, producing abundant clusters of small to medium (2–3 ounce) round to slightly oval red fruits with a rich, sweet-tart old-fashioned tomato flavor. The prolific, indeterminate vines are particularly valued for their consistent production even during hot, humid periods when many larger-fruited heirlooms stop setting — a significant advantage in zone 9 where the growing season is compressed and productivity through heat stress is paramount. The firm-skinned fruits hold well on the vine and in storage longer than thin-skinned heirlooms, and their medium size makes them versatile for fresh eating, salads, and saucing where small cherry tomatoes are too small and large beefsteaks are too large for single-use. The Russian origin suggests cold-climate breeding priorities — early maturity and prolific production — that translate to better zone 9 heat performance than many European heirloom varieties.",
+    "sources": [
+      "Seed Savers Exchange — Stump of the World Tomato",
+      "Baker Creek Heirloom Seeds — Russian Heirloom Tomatoes",
+      "Southern Exposure Seed Exchange — Heat-Tolerant Heirloom Tomatoes"
+    ]
+  }
+]

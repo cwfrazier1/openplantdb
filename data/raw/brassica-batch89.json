@@ -1,0 +1,277 @@
+[
+  {
+    "slug": "cabbage-red-acre",
+    "common_name": "Red Acre Cabbage",
+    "scientific_name": "Brassica oleracea var. capitata 'Red Acre'",
+    "category": "vegetable",
+    "subcategory": "cabbage",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 45,
+      "max": 65
+    },
+    "days_to_maturity": {
+      "min": 75,
+      "max": 85
+    },
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -4
+      },
+      "note": "Start seeds indoors 4–6 weeks before last frost and transplant as soon as soil can be worked; in zone 9 start seeds in September and transplant October for fall through winter maturity. Red Acre reaches full maturity in 75–85 days from transplant — plant timing to ensure heads mature before summer heat. Heads split if left too long after maturity; harvest when heads are firm and solid. In zone 9 the fall planting is preferred, with heads maturing December–February when cool weather develops the fullest red-purple color and sweetest flavor."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 12,
+      "max": 18
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in full sun in well-drained, fertile, slightly acidic to neutral soil; Red Acre is a classic open-pollinated red cabbage variety producing firm, round, 5–7 inch heads with deep red-purple to burgundy outer leaves and a bright magenta-red interior — the characteristic vivid color that makes red cabbage one of the most ornamental vegetables and the most visually distinctive cole crop. The red-purple color comes from anthocyanin pigments that are pH-sensitive: the same compound that makes red cabbage turn blue when cooked with alkaline water is stabilized and brightened by adding acid (vinegar, apple juice) during cooking — a useful culinary fact for maintaining the vivid color in braised preparations. Red Acre's flavor is slightly stronger and more peppery than green cabbage, with a firmer texture that holds up extremely well to long braising, pickling, and fermentation. Braised red cabbage with apples, vinegar, and spices (the classic German Rotkohl) and quick-pickled red cabbage for tacos and grain bowls represent the two most common culinary applications, both of which take advantage of the vivid color and firm texture that make Red Acre specifically valuable.",
+    "sources": [
+      "Seed Savers Exchange — Red Acre Heirloom Cabbage",
+      "Cornell University Cooperative Extension — Cabbage Variety Trial",
+      "University of Florida IFAS Extension — Cool-Season Cabbage for Florida"
+    ]
+  },
+  {
+    "slug": "broccoli-green-magic",
+    "common_name": "Green Magic Broccoli",
+    "scientific_name": "Brassica oleracea var. italica 'Green Magic'",
+    "category": "vegetable",
+    "subcategory": "broccoli",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 45,
+      "max": 65
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 70
+    },
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -4
+      },
+      "note": "Start seeds indoors 4–6 weeks before transplant date; in zone 9 start in August and transplant September–October for fall broccoli harvest November–January. Green Magic is an F1 hybrid with excellent downy mildew resistance — important in zone 9's humid fall conditions. After cutting the central head, side shoots continue producing small florets for weeks. In zone 9 fall-planted broccoli produces much higher quality heads than spring plantings that must mature in warming spring weather."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 18,
+      "max": 24
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in full sun in well-drained, fertile, slightly acidic to neutral soil; Green Magic is an F1 hybrid broccoli producing well-domed, tightly beaded, medium-green central heads with excellent side-shoot production after the main head is harvested — extending the productive harvest period significantly beyond varieties that produce only a central head. The hybrid vigor produces uniformly sized plants and large, dense heads that reach harvest size in 60–70 days from transplant. Broccoli flavor is at its absolute best when grown to maturity in cool weather — the combination of cool nights (below 50°F) and cool days in fall and winter concentrates the sulfur-containing compounds responsible for broccoli's characteristic flavor while reducing the bitterness that heat stress introduces. Green Magic's F1 hybrid status provides disease resistance and uniformity that open-pollinated varieties often lack, making it one of the most reliable fall broccoli varieties for humid Gulf South conditions.",
+    "sources": [
+      "Johnny's Selected Seeds — Green Magic Broccoli F1",
+      "Louisiana State University AgCenter — Broccoli Production for Gulf South",
+      "University of Florida IFAS Extension — Cool-Season Broccoli for Florida"
+    ]
+  },
+  {
+    "slug": "cauliflower-snowball",
+    "common_name": "Snowball Y Cauliflower",
+    "scientific_name": "Brassica oleracea var. botrytis 'Snowball Y'",
+    "category": "vegetable",
+    "subcategory": "cauliflower",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 45,
+      "max": 65
+    },
+    "days_to_maturity": {
+      "min": 55,
+      "max": 68
+    },
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -6
+      },
+      "note": "Start seeds indoors 6–8 weeks before transplant date; in zone 9 start in August–September and transplant September–October for fall through winter harvest. Blanching is required for white curds: when the central head begins to form, gather the outer leaves over the developing curd and secure with a rubber band or clothespin to exclude sunlight — cauliflower exposed to sun develops yellow color and may lose some quality. Self-blanching varieties with overlapping leaves reduce this labor requirement. Harvest before heads loosen or develop a rice-like granular texture."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 18,
+      "max": 24
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in full sun in well-drained, very fertile, slightly acidic to neutral soil — cauliflower requires more nitrogen and consistent moisture than any other Brassica; Snowball Y is one of the classic open-pollinated white cauliflower varieties — an improved selection from the Snowball strain that has defined the white-headed cauliflower in American horticulture for a century. The compact, round, pure white heads (when properly blanched) represent the culmination of cauliflower development — the plant's edible curd is composed of densely packed, malformed (fasciated) flower buds arrested before they develop, creating the characteristic curded texture of cauliflower. Unlike broccoli, where the flower buds are visible and intact, cauliflower's curd represents a complete developmental halt before budding — a botanical curiosity that produces one of the most unusual vegetable textures available, simultaneously firm and mealy, dense and delicate. Cauliflower's reputation for difficulty is warranted — it requires the most specific temperature range (50–70°F) of any commonly grown vegetable, failing in heat or extreme cold. In zone 9 this restricts successful cauliflower to a narrow fall window of September–December planting.",
+    "sources": [
+      "Cornell University Cooperative Extension — Cauliflower Production Guide",
+      "Louisiana State University AgCenter — Cauliflower for Gulf South",
+      "University of Florida IFAS Extension — Cool-Season Cauliflower"
+    ]
+  },
+  {
+    "slug": "brussel-sprouts-long-island",
+    "common_name": "Long Island Improved Brussels Sprouts",
+    "scientific_name": "Brassica oleracea var. gemmifera 'Long Island Improved'",
+    "category": "vegetable",
+    "subcategory": "Brussels sprouts",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 45,
+      "max": 65
+    },
+    "days_to_maturity": {
+      "min": 78,
+      "max": 90
+    },
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {
+        "min": -16,
+        "max": -12
+      },
+      "note": "Start seeds indoors 4–6 weeks before transplant date, transplanting 12–16 weeks before first expected frost; in zones 3–7 start in late spring for fall harvest. Brussels sprouts require a very long cool growing season (90+ days) and develop best flavor only after exposure to hard frost — zones 3–7 are ideal, with zones 8–9 being very challenging due to insufficient sustained cool weather for quality sprout development. In zone 9 Brussels sprouts may produce a partial crop in the coolest winters but results are often disappointing compared to more appropriate cool-climate growing."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 8
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 24,
+      "max": 36
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in full sun in well-drained, very fertile, slightly alkaline to neutral soil — Brussels sprouts are heavy feeders requiring substantial nitrogen throughout their long growing season; Long Island Improved is the standard open-pollinated Brussels sprouts variety — the classic 'compact' type (as opposed to taller, older varieties) that has dominated American horticulture since the early 20th century. The small, round, tightly packed miniature cabbage heads (sprouts) that form along the stem are harvested from bottom to top as they mature, with each stem producing dozens of 1–2 inch sprouts over several weeks of harvest. Brussels sprouts' reputation for strong, unpleasant flavor is entirely a product of poor growing conditions — specifically, heat stress — rather than the plant's inherent flavor. Brussels sprouts grown to maturity in cool weather with frost exposure are mild, nutty, sweet, and completely different from heat-stressed sprouts with the intense sulfurous off-flavors that give the vegetable its negative reputation. The conversion of starches to sugars after frost exposure transforms Brussels sprouts from a challenging, strong-flavored vegetable into a genuinely delicious one — a transformation that zone 9 gardeners rarely witness but that northern gardeners who harvest after repeated freezes experience routinely.",
+    "sources": [
+      "Cornell University Cooperative Extension — Brussels Sprouts Production Guide",
+      "University of Wisconsin Extension — Brussels Sprouts for Cool Climates",
+      "University of Minnesota Extension — Brussels Sprouts Variety Trials"
+    ]
+  },
+  {
+    "slug": "cabbage-savoy-ace",
+    "common_name": "Ace Savoy Cabbage",
+    "scientific_name": "Brassica oleracea var. sabauda 'Ace'",
+    "category": "vegetable",
+    "subcategory": "cabbage",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 45,
+      "max": 65
+    },
+    "days_to_maturity": {
+      "min": 72,
+      "max": 82
+    },
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -4
+      },
+      "note": "Start seeds indoors 4–6 weeks before transplant date; in zone 9 start in September and transplant October for fall through winter harvest. Savoy cabbage is more cold-hardy than smooth green cabbage types and can withstand harder freezes without head damage. In zone 9 the distinctive crinkled leaves provide more air circulation than smooth-headed types, which may help with the humidity-related disease issues common in Gulf South winters. Harvest when heads are firm; savoy holds in the garden longer than smooth cabbage after reaching maturity."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 12,
+      "max": 18
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in full sun in well-drained, fertile, slightly acidic to neutral soil; Ace Savoy is a compact, early-maturing savoy cabbage producing small to medium (3–4 pound), round heads with the distinctively crinkled, blistered, dark blue-green leaves that define the savoy type — quite different from the smooth, pale heads of standard green cabbage. Savoy cabbage (Brassica oleracea var. sabauda) has a more complex, refined flavor than standard smooth cabbage: milder, sweeter, more tender, and less pungent, making it the preferred cabbage for fresh preparations where the subtle flavor can be appreciated rather than cooked down to blandness. The crinkled texture and tender leaves hold sauces and dressings differently than smooth cabbage — savoy is the cabbage preferred for upscale coleslaws, stuffed cabbage leaves (the larger, more pliable leaves wrap easily), and any preparation where delicate texture matters. Ace's compact size and rapid maturity (72–82 days) make it practical for fall planting in zone 9 where the cool growing window is relatively short.",
+    "sources": [
+      "Johnny's Selected Seeds — Ace Savoy Cabbage Description",
+      "Cornell University Cooperative Extension — Savoy Cabbage Varieties",
+      "Louisiana State University AgCenter — Cool-Season Cabbage for Gulf South"
+    ]
+  }
+]

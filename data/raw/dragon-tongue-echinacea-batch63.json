@@ -1,0 +1,277 @@
+[
+  {
+    "slug": "strawberry-spinach",
+    "common_name": "Strawberry Spinach",
+    "scientific_name": "Blitum capitatum",
+    "category": "vegetable",
+    "subcategory": "leaf green",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 55,
+      "max": 65
+    },
+    "days_to_maturity": {
+      "min": 45,
+      "max": 60
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": -2
+      },
+      "note": "Direct sow 2–4 weeks before last frost in early spring or in late summer for fall; in zone 9 sow October–February. Strawberry Spinach self-seeds prolifically — allow one or two plants to go to seed and a permanent self-seeding colony will establish. In zone 9 the cool-season planting from fall through early spring produces the best foliage harvest before summer heat causes bolting. The colorful berries ripen progressively up the stem from bottom to top through spring and early summer."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 24,
+      "max": 36
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 18
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Plant in partial shade to full sun in moist, well-drained, moderately fertile soil; Strawberry Spinach (also called strawberry goosefoot or blite) is a unique dual-purpose edible plant that provides both tender, spinach-like young leaves and bright red, strawberry-resembling berries on the same plant — the plant is grown first for its spring leaf harvest (mild, slightly earthy flavor used raw in salads or cooked like spinach) and then for the clusters of small, fleshy, bright red fruits that develop up the stem in a pattern that closely resembles a miniature strawberry. The berries are edible, mild, and slightly sweet but lack the intense flavor of true strawberries — they are used as a colorful garnish, in fruit salads, and as an ornamental edible curiosity. The plant is a cool-season annual from North America and Europe that tolerates partial shade better than most garden vegetables, making it useful for growing in dappled light under trees or in partly shaded beds. Strawberry Spinach is a reliable self-seeder that naturalizes easily in suitable conditions, providing a low-maintenance perennial food source once established.",
+    "sources": [
+      "University of Vermont Extension — Alternative and Unusual Greens",
+      "USDA Plants Database — Blitum capitatum (Chenopodium capitatum) Native Plant Record",
+      "Cornell University Cooperative Extension — Unusual Salad Greens"
+    ]
+  },
+  {
+    "slug": "tomato-great-white",
+    "common_name": "Great White Tomato",
+    "scientific_name": "Solanum lycopersicum 'Great White'",
+    "category": "vegetable",
+    "subcategory": "tomato",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 75,
+      "max": 85
+    },
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -6,
+        "max": -4
+      },
+      "note": "Start seeds indoors 4–6 weeks before last frost; transplant after all frost danger has passed. In zone 9 start in January–February and transplant February–March for a spring crop. Great White is indeterminate and requires staking or caging. The white-skinned fruits can be difficult to judge for ripeness by color change — look for a subtle cream to ivory-yellow blush and a slight softening of the fruit. In zone 9 the fall planting in August often produces the finest-flavored fruits as cooler temperatures reduce stress."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 24,
+      "max": 36
+    },
+    "height_in": {
+      "min": 60,
+      "max": 84
+    },
+    "spread_in": {
+      "min": 24,
+      "max": 36
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in full sun in well-drained, fertile, slightly acidic soil with sturdy cage or stake support; Great White is a large, beefsteak-type heirloom tomato producing fruits that ripen to an unusual cream-white to pale ivory-yellow color — one of the most distinctive-appearing heirloom tomatoes in any garden collection. The color difference from standard red tomatoes stems from the absence of normal red lycopene pigments: Great White produces primarily colorless carotenoids that result in the pale white-cream skin and flesh. The flavor is extraordinarily mild, sweet, and very low in acid — often described as honey-sweet with almost no tartness, making it popular for people who find acidic tomatoes hard to digest. The thick, very meaty flesh with small seed cavities makes Great White outstanding for fresh eating and mild salsas where a lower-acid tomato flavor is preferred. The pale color also makes it a striking visual contrast element in colorful heirloom tomato salads alongside red, purple, orange, and yellow varieties.",
+    "sources": [
+      "Seed Savers Exchange — Great White Heirloom Tomato",
+      "Baker Creek Heirloom Seeds — Great White Tomato Description",
+      "Texas A&M AgriLife Extension — Heirloom Tomato Varieties for Texas"
+    ]
+  },
+  {
+    "slug": "watermelon-orangeglo",
+    "common_name": "OrangeGlo Watermelon",
+    "scientific_name": "Citrullus lanatus 'OrangeGlo'",
+    "category": "vegetable",
+    "subcategory": "watermelon",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 90,
+      "max": 95
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 1,
+        "max": 3
+      },
+      "note": "Direct sow after last frost when soil thoroughly warmed; in zone 9 plant March–May. OrangeGlo produces large (20–30 lbs) oblong fruits — space rows widely. The orange flesh can be difficult to judge for ripeness by internal color alone; use the standard external cues: yellow ground spot, dried tendril nearest the fruit, and hollow thump. In zone 9 the long, hot summer is ideal for this variety's full flavor development."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 72,
+      "max": 96
+    },
+    "height_in": {
+      "min": 12,
+      "max": 18
+    },
+    "spread_in": {
+      "min": 96,
+      "max": 144
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in full sun in well-drained, sandy to loamy, fertile, slightly acidic soil; OrangeGlo is an heirloom watermelon producing large, oblong fruits with striped yellow-green skin and vivid deep orange flesh — the orange color results from high beta-carotene content rather than the lycopene responsible for red watermelon flesh, giving OrangeGlo significantly higher vitamin A precursor content than conventional red varieties. The flavor is sweet and mild with a distinctive tropical, honey-melon note that many tasters describe as sweeter and less watery than red watermelons — the orange flesh has a slightly different sugar profile and flavor that creates a tropical-fruity sweetness. OrangeGlo has been selected from an heirloom lineage for consistent large size (typically 20–30 pounds), high sugar content, and the distinctive orange flesh color that makes it immediately striking when cut open at the table. The unusual orange interior creates a dramatic visual contrast in fruit arrangements and makes OrangeGlo watermelon a reliable conversation piece at summer gatherings.",
+    "sources": [
+      "Seed Savers Exchange — OrangeGlo Watermelon Heirloom",
+      "Baker Creek Heirloom Seeds — OrangeGlo History and Production",
+      "University of Florida IFAS Extension — Watermelon Variety Trials"
+    ]
+  },
+  {
+    "slug": "bean-dragon-tongue",
+    "common_name": "Dragon Tongue Bean",
+    "scientific_name": "Phaseolus vulgaris 'Dragon Tongue'",
+    "category": "vegetable",
+    "subcategory": "bean",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 55,
+      "max": 60
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 1,
+        "max": 3
+      },
+      "note": "Direct sow after last frost when soil is at least 65°F; in zone 9 plant March–May and again August–September. Dragon Tongue is a bush bean requiring no support. The distinctive yellow and purple streaked pods should be harvested at 6–7 inches when pods are still flat — the purple markings disappear entirely when cooked, leaving a uniform golden-yellow wax bean. For use as a shelled bean, allow pods to fill and seeds to plump. In zone 9 summer heat can cause plants to drop flowers; fall plantings often produce higher quality pods."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 4,
+      "max": 6
+    },
+    "height_in": {
+      "min": 18,
+      "max": 24
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 18
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in full sun in well-drained, moderately fertile, slightly acidic soil; Dragon Tongue is a Dutch heirloom wax bean producing flat, wide, golden-yellow pods dramatically streaked and splashed with deep purple markings — one of the most visually striking beans in the garden and the most eye-catching bean at farmers markets and in kitchen displays. The pods are harvested as a wax bean (snap bean without strings) in the flat stage before seeds swell, when the crisp, flat pods have a buttery, mild wax bean flavor noticeably different from standard round snap beans. The purple streaking serves no flavor function but makes the pods immediately recognizable and appealing; the color vanishes completely during cooking. Dragon Tongue also works as a shellout bean if pods are allowed to mature fully, with cream-colored seeds streaked with black-purple markings. The bush habit and early maturity (55–60 days) make Dragon Tongue productive in relatively short growing seasons, and the ornamental pods add visual interest to the vegetable garden beyond what most productive bush beans offer.",
+    "sources": [
+      "Seed Savers Exchange — Dragon Tongue Dutch Heirloom Bean",
+      "Southern Exposure Seed Exchange — Dragon Tongue Bean History",
+      "Cornell University Cooperative Extension — Wax Bean Varieties"
+    ]
+  },
+  {
+    "slug": "echinacea-green-wizard",
+    "common_name": "Green Wizard Echinacea",
+    "scientific_name": "Echinacea purpurea 'Green Wizard'",
+    "category": "flower",
+    "subcategory": "echinacea",
+    "days_to_germination": {
+      "min": 14,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 365,
+      "max": 730
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": -2,
+        "max": 6
+      },
+      "note": "Plant divisions or container-grown plants in spring; in zone 9 plant February–April or September–November. Green Wizard echinacea blooms in its first year from transplant and more freely in subsequent years as the clump enlarges. Division every 3–4 years in early spring maintains vigor. The green cone and reflexed petals create long-season ornamental interest — even seed heads dry in place and provide winter bird food and structural garden interest through the cold months."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 24,
+      "max": 36
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant in full sun in well-drained, moderately fertile, neutral to slightly alkaline soil — established echinacea is drought-tolerant and performs better in lean soils than in rich, moist conditions; Green Wizard is a distinctive echinacea cultivar that produces flowers radically different from the typical purple coneflower form — instead of horizontal ray petals surrounding a dark spiny cone, Green Wizard has strongly reflexed (drooping) greenish-white ray petals that curve sharply backward from a large, greenish-brown, raised cone, giving the flower an architectural, almost alien quality compared to conventional coneflower varieties. The large, prominent cone — which is the echinopsis (spiny sea-urchin-like structure) that gives the genus its name — becomes the dominant feature of each bloom. The unusual green-on-green coloration and the prominent spiny cone make Green Wizard a dramatically effective contrast plant in prairie and pollinator garden designs. Like all echinacea, the plant is highly attractive to butterflies and bees, and the dried seed heads support goldfinches and other small birds through winter.",
+    "sources": [
+      "Royal Horticultural Society — Echinacea purpurea Green Wizard Award",
+      "Missouri Botanical Garden — Echinacea Plant Finder",
+      "North Carolina State University Extension — Native Coneflowers for Southeast Gardens"
+    ]
+  }
+]

@@ -1,0 +1,277 @@
+[
+  {
+    "slug": "momotaro-tomato",
+    "common_name": "Momotaro Tomato",
+    "scientific_name": "Solanum lycopersicum 'Momotaro'",
+    "category": "vegetable",
+    "subcategory": "tomato",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 70,
+      "max": 80
+    },
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -6,
+        "max": -4
+      },
+      "note": "Start indoors 6 weeks before last frost; transplant in zone 9 February–March for spring production and again late July–August for fall. Momotaro requires staking or caging as an indeterminate vine and benefits from consistent moisture to prevent blossom-end rot and cracking in summer heat."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 24,
+      "max": 36
+    },
+    "height_in": {
+      "min": 48,
+      "max": 72
+    },
+    "spread_in": {
+      "min": 24,
+      "max": 36
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Transplant into deep, fertile, well-drained soil with a sturdy cage or stake; Momotaro is Japan's most celebrated fresh tomato — an indeterminate, pink-fruited hybrid with exceptionally low acidity and high sugar content that has dominated the Japanese fresh tomato market since Sakata Seed Company introduced it in 1985. The smooth, round, 6–8 ounce fruits have thin, tender skin, almost no gel around the seeds, and a dense, sweet, mild flesh that requires no sugar addition in cooked preparations and is prized for fresh eating. The plant produces steadily over a long season and shows better resistance to blossom-end rot than many large-fruited varieties. In zone 9 the flavor is best in spring and fall crops; the fruits produced through peak summer heat tend toward milder, less complex flavor.",
+    "sources": [
+      "University of Florida IFAS Extension — Specialty Tomato Varieties",
+      "Sakata Seed Company — Momotaro Tomato History",
+      "Cornell University Vegetable Varieties for Gardeners — Pink Tomato Types"
+    ]
+  },
+  {
+    "slug": "stowell-evergreen-corn",
+    "common_name": "Stowell's Evergreen Sweet Corn",
+    "scientific_name": "Zea mays 'Stowell's Evergreen'",
+    "category": "vegetable",
+    "subcategory": "corn",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 95
+    },
+    "days_to_maturity": {
+      "min": 85,
+      "max": 95
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 2
+      },
+      "note": "Direct sow in blocks of at least 4 rows for wind pollination; in zone 9 plant February–April for spring and August for fall. Stowell's Evergreen is a large-eared, late-season heirloom that holds its sweetness in the milk stage longer than most corn varieties — the 'Evergreen' name refers to staying tender and green on the stalk for an extended harvest window."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 9,
+      "max": 12
+    },
+    "height_in": {
+      "min": 72,
+      "max": 96
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Direct sow 1–1.5 inches deep in blocks of at least 4 rows to ensure wind pollination — single-row plantings produce poorly-filled ears. Stowell's Evergreen is the great white sweet corn of American heirloom gardening, introduced around 1848 and the dominant table corn of the 19th century; it remains one of the finest open-pollinated sweet corns for flavor and productivity. The large ears carry 16–18 rows of milky-white kernels with a rich, creamy sweetness and slightly doughy texture that distinguishes old-fashioned sweet corn from modern supersweet types. The 'Evergreen' characteristic — extended milk stage — gives a wider harvest window before starch conversion, more forgiving than most open-pollinated varieties. Save seed easily from well-isolated plants; allow selected ears to dry completely on the stalk.",
+    "sources": [
+      "Seed Savers Exchange — Stowell's Evergreen Sweet Corn",
+      "Cornell University Vegetable Varieties for Gardeners — White Sweet Corn",
+      "Southern Exposure Seed Exchange — Stowell's Evergreen"
+    ]
+  },
+  {
+    "slug": "miners-lettuce",
+    "common_name": "Miner's Lettuce",
+    "scientific_name": "Claytonia perfoliata",
+    "category": "vegetable",
+    "subcategory": "salad green",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 40,
+      "max": 65
+    },
+    "days_to_maturity": {
+      "min": 40,
+      "max": 60
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -4
+      },
+      "note": "Direct sow in fall 8–4 weeks before first frost, or in early spring as soon as ground can be worked; in zone 9 sow September–February for a fall through early spring harvest. Miner's lettuce self-sows prolifically and will naturalize in shaded garden beds, producing successive crops with no replanting. Bolt and die in temperatures above 75°F."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 4,
+      "max": 6
+    },
+    "height_in": {
+      "min": 4,
+      "max": 10
+    },
+    "spread_in": {
+      "min": 4,
+      "max": 8
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Broadcast seed directly on the soil surface or scratch in lightly; miner's lettuce is a California native annual that was a survival food for Gold Rush miners, who ate it to prevent scurvy through winter and early spring. The succulent, round leaves, which eventually surround the stem in a distinctive perfoliate disc, have a mild, slightly spinach-like flavor and tender texture. It thrives in partial shade and cool, moist conditions — ideal under deciduous trees or on the north side of buildings in winter. In zone 9 gardens it fills the autumn-through-spring salad gap when little else grows in shade. Plants self-sow abundantly once established; a single planting becomes a perennial presence without further effort.",
+    "sources": [
+      "University of California Cooperative Extension — Winter Salad Greens",
+      "USDA NRCS Plants Database — Claytonia perfoliata",
+      "Seed Savers Exchange — Cool-Season Salad Greens"
+    ]
+  },
+  {
+    "slug": "tangerine-gem-marigold",
+    "common_name": "Tangerine Gem Marigold",
+    "scientific_name": "Tagetes tenuifolia 'Tangerine Gem'",
+    "category": "flower",
+    "subcategory": "annual",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 80
+    },
+    "days_to_maturity": {
+      "min": 50,
+      "max": 70
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -2,
+        "max": 2
+      },
+      "note": "Direct sow or transplant after last frost in full sun to partial shade; in zone 9 plant February–April for spring and September for fall. Tangerine Gem marigolds are more heat-tolerant than French or African marigold types and bloom continuously throughout the Gulf Coast growing season with minimal deadheading."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 8,
+      "max": 12
+    },
+    "height_in": {
+      "min": 12,
+      "max": 18
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 18
+    },
+    "sun": "partial",
+    "water": "low",
+    "directions": "Sow directly on the soil surface or lightly covered in any well-drained soil; Tangerine Gem is a signet marigold (Tagetes tenuifolia) with a mounded, airy habit covered in small, single, deep orange flowers with a fine, ferny foliage that is intensely lemon-scented — deer and rabbits strongly avoid it. Unlike the larger French and African marigolds, signet types tolerate partial shade, bloom without deadheading, and have edible, pleasantly spicy-citrusy flowers suitable for use as a garnish in salads, desserts, and herbal teas. The intense lemon-scent of the crushed foliage deters whiteflies and aphids when planted near vegetables. Plants are drought-tolerant once established and reseed moderately in warm-winter zones.",
+    "sources": [
+      "All-America Selections — Signet Marigold Types",
+      "University of Florida IFAS Extension — Marigold Production",
+      "Johnny's Selected Seeds — Edible Flower Guide"
+    ]
+  },
+  {
+    "slug": "lemon-gem-marigold",
+    "common_name": "Lemon Gem Marigold",
+    "scientific_name": "Tagetes tenuifolia 'Lemon Gem'",
+    "category": "flower",
+    "subcategory": "annual",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 80
+    },
+    "days_to_maturity": {
+      "min": 50,
+      "max": 70
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -2,
+        "max": 2
+      },
+      "note": "Direct sow or transplant after last frost in full sun to partial shade; in zone 9 plant February–April for spring and September–October for fall. Like all signet marigolds, Lemon Gem blooms continuously without deadheading and tolerates the heat and humidity of Gulf Coast summers better than most other annual flowers."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 8,
+      "max": 12
+    },
+    "height_in": {
+      "min": 10,
+      "max": 15
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 18
+    },
+    "sun": "partial",
+    "water": "low",
+    "directions": "Broadcast seed on the soil surface or barely cover in well-drained soil; Lemon Gem is the yellow-flowered counterpart to Tangerine Gem in the signet marigold group (Tagetes tenuifolia), producing a mound of fine, lemon-scented, ferny foliage covered continuously with bright yellow single flowers from late spring through fall. The flowers and young leaves are edible with a sharp, citrusy, slightly spicy flavor that works well as a garnish or in salads. The strongly aromatic foliage repels whiteflies, aphids, and nematodes, making signet marigolds the most pest-deterrent marigold type for interplanting with vegetables. The compact, mounded habit is ideal for edging beds, container planting, and window boxes. Self-seeds modestly, often returning year after year in zone 8–9 gardens.",
+    "sources": [
+      "University of Florida IFAS Extension — Edible Annuals for Florida",
+      "Cornell University Flower Bulb Research Program — Annual Marigolds",
+      "Johnny's Selected Seeds — Lemon Gem Marigold"
+    ]
+  }
+]

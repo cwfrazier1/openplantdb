@@ -1,0 +1,277 @@
+[
+  {
+    "slug": "beet-golden",
+    "common_name": "Golden Beet",
+    "scientific_name": "Beta vulgaris 'Golden'",
+    "category": "vegetable",
+    "subcategory": "beet",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 50,
+      "max": 65
+    },
+    "days_to_maturity": {
+      "min": 55,
+      "max": 65
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -6,
+        "max": -3
+      },
+      "note": "Direct sow 3–6 weeks before last frost; in zone 9 sow September–February for winter-spring harvest. Golden beet germinates more slowly than red types and requires consistently moist soil until seedlings emerge. Thin to 3–4 inches for best root size. The golden color is most vibrant in young to medium-sized beets (2–3 inches diameter); very large golden beets may develop an orangey-brown skin. The tops are edible — harvest baby leaves for salads or cook mature greens like chard."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 3,
+      "max": 4
+    },
+    "height_in": {
+      "min": 12,
+      "max": 18
+    },
+    "spread_in": {
+      "min": 4,
+      "max": 6
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in full sun in deep, loose, well-drained, slightly acidic to neutral soil free of rocks and hard pan; Golden Beet produces roots with bright golden-yellow skin and deep orange-gold flesh that stands out dramatically from red beet varieties — the color results from betaxanthin pigments rather than the betacyanin (red-purple) pigments of standard beets. The most important practical difference from red beets is that Golden Beet does not bleed or stain hands, cutting boards, or other foods with the intense crimson juice of red beets — a major advantage in salads and prepared dishes where red beet juice can dominate the visual presentation. The flavor of Golden Beet is also distinctly sweeter and milder than most red beet varieties, with less of the earthy 'dirty' undertone that some people find off-putting in red beets. The combination of non-staining, mild sweetness, and attractive golden color makes Golden Beet the preferred choice for beet salads, roasted vegetable medleys, and restaurant presentations.",
+    "sources": [
+      "Cornell University Cooperative Extension — Beet Variety Trial",
+      "University of Wisconsin Extension — Root Vegetable Production",
+      "Southern Exposure Seed Exchange — Golden Beet History and Production"
+    ]
+  },
+  {
+    "slug": "beet-cylindra",
+    "common_name": "Cylindra Beet",
+    "scientific_name": "Beta vulgaris 'Cylindra'",
+    "category": "vegetable",
+    "subcategory": "beet",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 50,
+      "max": 65
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 70
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -6,
+        "max": -3
+      },
+      "note": "Direct sow 3–6 weeks before last frost; in zone 9 sow September–February for winter-spring harvest. Cylindra requires loose, deep soil to develop its characteristically long (4–6 inch) cylindrical root — in compacted or rocky soil it will branch and distort. Thin to 4 inches between plants. The cylindrical shape means most of the root develops underground without the shoulder protrusion common in round beets. In zone 9 the cool season from October through March produces the best root quality."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 4,
+      "max": 5
+    },
+    "height_in": {
+      "min": 12,
+      "max": 18
+    },
+    "spread_in": {
+      "min": 4,
+      "max": 6
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in full sun in deep, loose, well-drained, slightly acidic to neutral soil free of compaction and stones; Cylindra (also known as Formanova) is a Danish heirloom beet producing an unusual elongated, cylindrical root shape — 4–6 inches long and 1.5–2 inches across — completely different from the familiar round beet shape. The cylindrical form was developed specifically for sliced beet production: when cut crosswise, Cylindra produces perfectly uniform, consistently sized circular slices from the entire length of the root, making it the preferred variety for home canning, pickled beet slices, and any preparation requiring uniform beet rounds. A round beet produces irregularly sized slices (small at the shoulders, large in the middle, small at the base), while every slice from Cylindra is the same diameter. The dark red flesh and rich, classic beet flavor are typical of traditional red beet varieties. Cylindra is also highly productive per square foot of garden space because the elongated root utilizes vertical growing space rather than lateral.",
+    "sources": [
+      "Cornell University Cooperative Extension — Specialty Beet Varieties",
+      "Johnny's Selected Seeds — Cylindra Beet Description",
+      "University of Minnesota Extension — Root Vegetable Production"
+    ]
+  },
+  {
+    "slug": "chard-ruby",
+    "common_name": "Ruby Chard",
+    "scientific_name": "Beta vulgaris subsp. cicla 'Ruby'",
+    "category": "vegetable",
+    "subcategory": "chard",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 50,
+      "max": 65
+    },
+    "days_to_maturity": {
+      "min": 55,
+      "max": 60
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": -2
+      },
+      "note": "Direct sow 2–4 weeks before last frost; in zone 9 sow September–March. Ruby chard is more ornamental than standard white-stalked chard — the deep crimson stems and dark green leaves are striking in kitchen and ornamental gardens. Harvest outer leaves continuously to extend production. In zone 9 Ruby Chard is productive from fall through early spring; it tolerates light frost and continues growing through mild zone 9 winters, providing fresh greens when little else is producing."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 6,
+      "max": 12
+    },
+    "height_in": {
+      "min": 18,
+      "max": 24
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 18
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Plant in full sun to partial shade in well-drained, fertile, slightly acidic to neutral soil; Ruby Chard is the classic red-stemmed Swiss chard variety with deep crimson-red midribs and stems against dark, slightly crinkled green leaves — one of the most ornamental of all vegetables and a perennial favorite in both kitchen gardens and edible ornamental designs. The striking color contrast of red stem against dark green makes Ruby Chard effective as a garden border plant, in containers, and in ornamental beds where most vegetables would look out of place. The same mild, slightly earthy, spinach-like flavor of all Swiss chard makes Ruby excellent for sautéing with garlic, adding to soups, and wilting into pasta dishes where the vibrant red stems retain some color even after cooking. As a dual-use ornamental and culinary vegetable, Ruby Chard demonstrates that the most productive kitchen garden plants need not sacrifice ornamental appeal. The partial shade tolerance makes it one of the better vegetables for partially shaded kitchen garden spaces.",
+    "sources": [
+      "Cornell University Cooperative Extension — Swiss Chard Production Guide",
+      "University of Florida IFAS Extension — Chard for Florida Gardens",
+      "Louisiana State University AgCenter — Leafy Greens for Gulf South"
+    ]
+  },
+  {
+    "slug": "gaillardia-arizona-red-shades",
+    "common_name": "Arizona Red Shades Gaillardia",
+    "scientific_name": "Gaillardia x grandiflora 'Arizona Red Shades'",
+    "category": "flower",
+    "subcategory": "gaillardia",
+    "days_to_germination": {
+      "min": 10,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 90,
+      "max": 120
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": -2,
+        "max": 6
+      },
+      "note": "Plant divisions or container-grown plants in spring; in zone 9 plant February–April or September–November. Arizona Red Shades blooms heavily in its first year and becomes more floriferous as the clump matures. Deadhead spent blooms to extend flowering, or leave some seed heads for bird food in fall. In zone 9 provide excellent drainage — gaillardia is more likely to die from wet roots in hot weather than from the heat itself. The plants bloom most heavily in spring and fall with reduced flowering in the hottest summer weeks."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 12,
+      "max": 18
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant in full sun in very well-drained, lean, sandy or gritty, slightly acidic to neutral soil — blanket flowers demand excellent drainage and suffer in rich, moist soils; Arizona Red Shades is an All-America Selections award-winning perennial gaillardia (blanket flower) from the Arizona series, selected for compact habit (12–18 inches) and exceptional heat and drought tolerance. The rich, warm flowers in deep red, terra-cotta, russet, and burgundy shades with yellow tips reflect the sunset colors of the American Southwest that gaillardia's native habitat inspired. The blanket flower name comes from the plant's resemblance to Native American woven blanket patterns, as well as its tendency to spread and 'blanket' dry garden areas. The extremely long bloom season (from late spring through fall frost), outstanding drought tolerance once established, and attraction to butterflies and beneficial insects make Arizona Red Shades one of the most practical low-maintenance perennials for sunny, dry garden locations. Unlike many perennials, it is heat-adapted rather than merely heat-tolerant — performing magnificently in summer conditions that challenge less heat-adapted plants.",
+    "sources": [
+      "All-America Selections — Gaillardia Arizona Red Shades 2005 Award",
+      "Lady Bird Johnson Wildflower Center — Gaillardia x grandiflora",
+      "University of Florida IFAS Extension — Gaillardia for Florida Landscapes"
+    ]
+  },
+  {
+    "slug": "celosia-sunday-orange",
+    "common_name": "Sunday Orange Celosia",
+    "scientific_name": "Celosia argentea 'Sunday Orange'",
+    "category": "flower",
+    "subcategory": "celosia",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 75
+    },
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 6
+      },
+      "note": "Start seeds indoors 6–8 weeks before last frost; transplant after all frost danger has passed and soil is warm. In zone 9 plant March–May. Sunday Orange celosia is heat-loving and actually blooms better and more vividly as temperatures increase — it is one of the few annuals that performs better in summer heat rather than declining. The large, feathery plumes are excellent for fresh cutting and dry extremely well on the plant, making them outstanding for dried flower arrangements."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 10,
+      "max": 14
+    },
+    "height_in": {
+      "min": 18,
+      "max": 24
+    },
+    "spread_in": {
+      "min": 10,
+      "max": 14
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in full sun in well-drained, fertile, slightly acidic soil; Sunday Orange is a plume-type (feather) celosia producing dramatic, soft, feathery plumes in vivid pure orange — one of the most saturated and vividly colored of any annual flower, with an almost unreal intensity of color that makes it instantly eye-catching in summer garden displays and mixed cut flower arrangements. The plume-type celosia (as opposed to the crested cockscomb type) has soft, delicate, branching flower heads that resemble bright-colored feathers or flames, which explains the common name 'plumed cockscomb' or 'feather celosia'. Sunday Orange was developed for uniformity, large plume size, and early bloom — beginning to flower 60–75 days from transplant and continuing continuously until frost without requiring deadheading. Celosia is genuinely heat-loving: plants grow slowly in cool weather and then rapidly accelerate in hot summer conditions, blooming most freely in zone 9's intense summer heat. The flowers dry in place on the plant and can be cut for dried arrangements at any stage of development.",
+    "sources": [
+      "All-America Selections — Celosia Sunday Orange Award",
+      "University of Florida IFAS Extension — Annual Flowers for Full Sun",
+      "Louisiana State University AgCenter — Summer Annuals for Gulf Coast"
+    ]
+  }
+]

@@ -1,0 +1,277 @@
+[
+  {
+    "slug": "brightwell-rabbiteye-blueberry",
+    "common_name": "Brightwell Rabbiteye Blueberry",
+    "scientific_name": "Vaccinium virgatum 'Brightwell'",
+    "category": "berry",
+    "subcategory": "blueberry",
+    "days_to_germination": {
+      "min": 30,
+      "max": 60
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 1095,
+      "max": 1460
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": 4
+      },
+      "note": "Plant container-grown shrubs in late winter to early spring; in zone 8–9 plant December–February for best establishment before summer heat. Brightwell blooms mid-season and cross-pollinates best with Premier, Tifblue, or Powderblue. Requires a companion pollinator planted within 50 feet for maximum berry production."
+    },
+    "usda_zones": {
+      "min": 6,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 72,
+      "max": 96
+    },
+    "height_in": {
+      "min": 60,
+      "max": 96
+    },
+    "spread_in": {
+      "min": 60,
+      "max": 84
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in acidic (pH 4.5–5.5), well-drained, sandy or loamy soil amended with pine bark or peat in full sun; Brightwell is the most widely planted rabbiteye blueberry variety in the southeastern United States, valued for its consistent mid-season production, outstanding flavor, and broad adaptability across zone 6–9. The medium to large, light blue berries ripen in June–July in most Gulf Coast plantings and hold well on the bush, extending the harvest window over 4–6 weeks. Brightwell's moderate chilling requirement (350–400 hours below 45°F) suits it perfectly to zone 8–9 conditions where high-chill northern varieties fail. Mulch heavily with pine bark, maintain consistent moisture through summer, and fertilize with acid-forming fertilizer (ammonium sulfate) at bloom and again after harvest. Avoid lime applications, which raise soil pH above the acceptable range.",
+    "sources": [
+      "University of Georgia Extension — Rabbiteye Blueberry Varieties",
+      "University of Florida IFAS Extension — Rabbiteye Blueberry Production",
+      "Louisiana State University AgCenter — Blueberry Production in Louisiana"
+    ]
+  },
+  {
+    "slug": "premier-rabbiteye-blueberry",
+    "common_name": "Premier Rabbiteye Blueberry",
+    "scientific_name": "Vaccinium virgatum 'Premier'",
+    "category": "berry",
+    "subcategory": "blueberry",
+    "days_to_germination": {
+      "min": 30,
+      "max": 60
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 1095,
+      "max": 1460
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": 4
+      },
+      "note": "Plant container-grown shrubs in late winter to early spring; in zone 8–9 plant December–February. Premier is an early-ripening rabbiteye variety that begins bearing in late May–early June, among the first rabbiteyes to ripen in zone 9. Plant with Brightwell, Climax, or Tifblue for cross-pollination."
+    },
+    "usda_zones": {
+      "min": 6,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 72,
+      "max": 96
+    },
+    "height_in": {
+      "min": 72,
+      "max": 120
+    },
+    "spread_in": {
+      "min": 60,
+      "max": 96
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in acidic (pH 4.5–5.5), well-drained sandy or loamy soil amended with pine bark in full sun; Premier is the standard early-season rabbiteye blueberry for zone 7–9, producing large, light blue, mildly flavored berries beginning in late May in most Gulf Coast plantings — up to 3 weeks before mid-season varieties. The upright, vigorous shrubs can reach 8–10 feet with age and are among the most productive of the early-season rabbiteyes. The berries have a larger size than most other early varieties but a thinner skin than mid-season types; harvest promptly after coloring to prevent skin softening. Premier has a chilling requirement of approximately 350 hours, making it reliable in zone 8–9 without the risk of premature bloom during January warm spells. Cross-pollinates well with Brightwell, Climax, Centurion, and Tifblue.",
+    "sources": [
+      "University of Georgia Extension — Rabbiteye Blueberry Cultivar Recommendations",
+      "University of Florida IFAS Extension — Blueberry Production",
+      "Texas A&M AgriLife Extension — Blueberry Varieties for Texas"
+    ]
+  },
+  {
+    "slug": "caserta-italian-zucchini",
+    "common_name": "Caserta Italian Zucchini",
+    "scientific_name": "Cucurbita pepo 'Caserta'",
+    "category": "vegetable",
+    "subcategory": "squash",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 95
+    },
+    "days_to_maturity": {
+      "min": 53,
+      "max": 60
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 2
+      },
+      "note": "Direct sow after last frost when soil is warm; in zone 9 plant February–March for spring and August–September for fall. Caserta is one of the most heat-tolerant open-pollinated zucchini varieties, typically yielding well into summer heat that causes hybrid types to stall. The AAS-winning bush habit is compact and manageable in small gardens."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 24,
+      "max": 36
+    },
+    "height_in": {
+      "min": 18,
+      "max": 24
+    },
+    "spread_in": {
+      "min": 30,
+      "max": 48
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Direct sow 2–3 seeds per hill 1 inch deep in fertile, well-drained soil and thin to the strongest plant; Caserta is an All-America Selections award-winning heirloom Italian zucchini with distinctive gray-green striped skin and creamy interior, different in appearance and texture from the solid dark-green standard zucchini. The cylindrical, 6–8 inch fruits have firmer, denser, less watery flesh than most hybrid zucchini — excellent for grilling, sautéing, and stuffing where a firmer texture is preferred. The compact, AAS-winning bush plant produces abundantly in both spring and fall crops in zone 9; summer production may slow during peak heat. Harvest at 6–8 inches for best flavor and texture — oversized fruits become seedy and pithy. The attractive, striped fruits are ornamental as well as useful.",
+    "sources": [
+      "All-America Selections — Caserta Squash Award Record",
+      "Cornell University Vegetable Varieties for Gardeners — Italian Zucchini",
+      "University of Florida IFAS Extension — Zucchini Production"
+    ]
+  },
+  {
+    "slug": "okinawa-sweet-potato",
+    "common_name": "Okinawa Sweet Potato",
+    "scientific_name": "Ipomoea batatas 'Okinawa'",
+    "category": "vegetable",
+    "subcategory": "sweet potato",
+    "days_to_germination": {
+      "min": 14,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 100,
+      "max": 120
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 3
+      },
+      "note": "Plant slips after last frost when soil is warm; in zone 9 plant April–June for a fall harvest. Okinawa sweet potato requires a long season (100–120 days) and does not produce quality roots if harvested early; the full summer growing period is needed for the characteristic purple flesh to fully develop. Grow in the ground rather than containers for best root development."
+    },
+    "usda_zones": {
+      "min": 8,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 12,
+      "max": 18
+    },
+    "spread_in": {
+      "min": 60,
+      "max": 120
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant slips 4–6 inches deep in loose, slightly sandy, well-drained soil in full sun; Okinawa sweet potato is a Japanese heirloom variety with cream-colored skin and brilliantly purple flesh — the vibrant purple color comes from exceptionally high anthocyanin content, among the highest of any food crop. The slightly sweet, nutty, dry-textured flesh holds its purple color through roasting, steaming, and baking (though water boiling may leach some pigment). Okinawa sweet potato is a staple of the Okinawan diet, studied extensively as part of the traditional diet associated with unusual longevity on the island. The flavor is subtly sweet and starchy with an earthy, slightly nutty aftertaste. Cure harvested roots at 85°F and 90% humidity for 10 days before eating or storing to develop sweetness and heal any cuts.",
+    "sources": [
+      "University of Hawaii Extension — Okinawa Sweet Potato",
+      "University of Florida IFAS Extension — Sweet Potato Varieties",
+      "USDA Agricultural Research Service — Sweet Potato Breeding"
+    ]
+  },
+  {
+    "slug": "skeleton-leaf-goldeneye",
+    "common_name": "Skeleton Leaf Goldeneye",
+    "scientific_name": "Viguiera stenoloba",
+    "category": "flower",
+    "subcategory": "native perennial",
+    "days_to_germination": {
+      "min": 14,
+      "max": 28
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 80
+    },
+    "days_to_maturity": {
+      "min": 90,
+      "max": 180
+    },
+    "maturity_from": "transplant",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 8
+      },
+      "note": "Direct sow in fall or spring in well-drained soil in full sun; skeleton leaf goldeneye establishes quickly in poor, rocky, or sandy soils with no supplemental irrigation once established. In zone 8–10 it blooms profusely in the fall and often through mild winters; deadhead spent flowers to extend bloom. Cut back hard in late winter to encourage dense new growth."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 24,
+      "max": 36
+    },
+    "height_in": {
+      "min": 24,
+      "max": 48
+    },
+    "spread_in": {
+      "min": 24,
+      "max": 36
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant in full sun in rocky, sandy, or poor, well-drained soil; skeleton leaf goldeneye is a drought-adapted Texas and Mexico native in the sunflower family that produces an extravagant display of bright yellow, 1.5–2 inch daisy-like flowers on feathery, thread-leaved foliage from late summer through frost. The finely dissected leaves give the plant an elegant, airy texture quite unlike the bold foliage of related sunflowers, and the flowering display attracts an exceptional diversity of native bees, butterflies, and skipper moths. It is one of the best plants for establishing Texas-style xeriscape gardens with continuous fall color, performing equally well on rocky limestone slopes and sandy alkaline soils. The plant requires no supplemental irrigation in zone 8–10 once established and actually performs better in poor soil — excess fertility produces lush foliage at the expense of flowers.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center — Viguiera stenoloba",
+      "Texas A&M AgriLife Extension — Native Plants for Texas Landscapes",
+      "USDA NRCS Plants Database — Viguiera stenoloba"
+    ]
+  }
+]

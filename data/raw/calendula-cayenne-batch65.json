@@ -1,0 +1,277 @@
+[
+  {
+    "slug": "calendula-bon-bon",
+    "common_name": "Bon Bon Calendula",
+    "scientific_name": "Calendula officinalis 'Bon Bon'",
+    "category": "flower",
+    "subcategory": "calendula",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 50,
+      "max": 60
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": -2
+      },
+      "note": "Direct sow 2–4 weeks before last frost or in fall for winter-spring bloom; in zone 9 sow October–February. Bon Bon is the most compact calendula available — the dwarf 12-inch plants are ideal for containers, window boxes, and small-space gardens where standard 18–24 inch calendula would be too large. Deadhead regularly to extend bloom period. In zone 9 the cool-season fall-through-spring planting produces the most flowers before summer heat ends production."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 8,
+      "max": 12
+    },
+    "height_in": {
+      "min": 10,
+      "max": 14
+    },
+    "spread_in": {
+      "min": 10,
+      "max": 14
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in full sun in well-drained, moderately fertile, slightly acidic soil; Bon Bon is the most compact of the named calendula cultivars, forming tidy, mound-shaped plants only 10–14 inches tall and wide — roughly half the size of standard calendula varieties — while producing the same full double flower heads in a cheerful mix of deep orange, golden yellow, cream, and bicolor combinations. The reduced size makes Bon Bon uniquely suited for container growing, window box planting, and tight edging positions in herb and kitchen gardens where the standard species would crowd neighboring plants. Bon Bon calendula retains the same edible and medicinal properties as all Calendula officinalis — the petals are edible garnishes used in salads, soups, and as a natural food coloring, and the flowers are harvested for traditional medicinal preparations including calendula-infused oil and salve. The shorter, more branching habit typically produces more flowers per plant than taller varieties, increasing yield of edible and medicinal petals relative to plant footprint.",
+    "sources": [
+      "University of Vermont Extension — Calendula Officinalis Cultivar Notes",
+      "Cornell University Cooperative Extension — Edible Flower Production",
+      "Proven Winners — Compact Calendula Varieties"
+    ]
+  },
+  {
+    "slug": "horseradish-variegated",
+    "common_name": "Variegated Horseradish",
+    "scientific_name": "Armoracia rusticana 'Variegata'",
+    "category": "herb",
+    "subcategory": "horseradish",
+    "days_to_germination": {
+      "min": 14,
+      "max": 28
+    },
+    "germination_soil_temp_f": {
+      "min": 45,
+      "max": 65
+    },
+    "days_to_maturity": {
+      "min": 180,
+      "max": 365
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": 2
+      },
+      "note": "Plant root divisions (sets) in early spring as soon as soil can be worked; in zone 9 plant January–March. Variegated Horseradish spreads aggressively from root pieces — site carefully, as even small root fragments left in soil will resprout. The variegated foliage shows the most distinct white and green patterning when grown in partial shade; full sun may cause some bleaching. Harvest roots in fall after the first frost, which improves flavor and pungency. The entire plant is edible, including the young leaves."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 24,
+      "max": 36
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 30
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Plant in partial shade to full sun in deep, loose, well-drained, fertile, slightly acidic to neutral soil — deep, loose soil produces the straightest, most harvestable roots; Variegated Horseradish is an ornamental form of standard horseradish (Armoracia rusticana) with leaves that are boldly splashed and streaked with irregular cream-white markings against green, creating a dramatically two-tone foliage effect throughout the growing season. The ornamental value is high — the large, wavy, cream-splashed leaves are attractive in herb borders and edible landscape designs where standard all-green horseradish might seem too utilitarian. The roots have the same intensely pungent, sinus-clearing horseradish flavor and heat as the standard species — the variegation is purely a foliar characteristic with no effect on root quality. Horseradish root is freshly grated or processed with vinegar to make prepared horseradish sauce; the pungency from allyl isothiocyanate is highest immediately after grating and dissipates over time, which is why freshly grated horseradish is dramatically more powerful than commercial prepared products.",
+    "sources": [
+      "University of Illinois Extension — Horseradish Production",
+      "Missouri Botanical Garden — Armoracia rusticana Variegata",
+      "Cornell University Cooperative Extension — Horseradish Varieties and Culture"
+    ]
+  },
+  {
+    "slug": "tomato-banana-legs",
+    "common_name": "Banana Legs Tomato",
+    "scientific_name": "Solanum lycopersicum 'Banana Legs'",
+    "category": "vegetable",
+    "subcategory": "tomato",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 75,
+      "max": 80
+    },
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -6,
+        "max": -4
+      },
+      "note": "Start seeds indoors 4–6 weeks before last frost; transplant after all frost danger has passed. In zone 9 start in January–February and transplant February–March. Banana Legs is indeterminate and benefits from staking or caging. The golden-yellow paste tomatoes are sweet enough for fresh eating — useful as a dual-purpose paste/fresh tomato. In zone 9 fall planting in August extends the productive season well into December."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 24,
+      "max": 36
+    },
+    "height_in": {
+      "min": 60,
+      "max": 84
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in full sun in well-drained, fertile, slightly acidic soil with stake or cage support; Banana Legs is a yellow paste tomato producing clusters of elongated, banana-shaped fruits (4–5 inches long, 1–1.5 inches across) with pale golden-yellow skin that deepens to a richer yellow at full ripeness. The low-acid, sweet, mild flavor of yellow paste tomatoes like Banana Legs fills a different culinary niche than standard red paste tomatoes — the mildness and sweetness make Banana Legs outstanding for golden tomato sauces, sun-dried yellow tomatoes, and fresh eating as a snack tomato, where the sweet, non-acidic character appeals to people who find standard red tomatoes too sharp. The thick walls and small seed cavities are characteristic of paste tomatoes, making Banana Legs efficient to process for sauce and giving it a meaty, dense texture when eaten fresh. Unlike many paste tomatoes that are primarily functional, Banana Legs produces well-flavored fruits suitable for both cooking and fresh eating.",
+    "sources": [
+      "Seed Savers Exchange — Banana Legs Yellow Paste Tomato",
+      "Southern Exposure Seed Exchange — Yellow Paste Tomato Varieties",
+      "University of Florida IFAS Extension — Specialty Tomatoes for Florida"
+    ]
+  },
+  {
+    "slug": "sweet-potato-puerto-rico",
+    "common_name": "Puerto Rico Sweet Potato",
+    "scientific_name": "Ipomoea batatas 'Puerto Rico'",
+    "category": "vegetable",
+    "subcategory": "sweet potato",
+    "days_to_germination": {
+      "min": 14,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 100,
+      "max": 120
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 4
+      },
+      "note": "Plant slips (rooted vine cuttings) 2–4 weeks after last frost when soil is thoroughly warm; in zone 9 plant April–June. Puerto Rico sweet potato thrives in zone 9's long, warm season and requires no supplemental care once established. Harvest when the skin resists scratching and vine leaves begin to yellow. Cure harvested roots at 85–90°F with high humidity for 2 weeks to convert starches to sugars and develop sweetness; uncured sweet potatoes taste bland and starchy."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 12,
+      "max": 18
+    },
+    "spread_in": {
+      "min": 48,
+      "max": 72
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant in full sun in well-drained, loose, slightly acidic, moderately fertile sandy soil — sweet potatoes require loose soil for the roots to expand and develop properly; Puerto Rico was the dominant commercial sweet potato variety in the United States for much of the 20th century, and under various synonyms ('Southern Queen', 'Vineless Puerto Rico') it formed the backbone of American sweet potato production in the Southeast, where it became the foundation of Southern sweet potato cuisine. The moist-flesh, orange sweet potato familiar as a Thanksgiving side dish, sweet potato pie filling, and candied yam is essentially the Puerto Rico type — the moist, sweet, orange-fleshed character that most Americans think of as the defining sweet potato quality. The large, uniform, blocky-to-slightly-tapered roots have deep orange skin and vivid orange flesh with an intensely sweet, moist, smooth texture after curing and baking. Puerto Rico is well-adapted to Gulf Coast conditions and produces very large yields in zone 9's long, warm growing season with minimal care.",
+    "sources": [
+      "Louisiana State University AgCenter — Sweet Potato Variety Guide",
+      "North Carolina State University Extension — Sweet Potato Cultivar Trials",
+      "Texas A&M AgriLife Extension — Sweet Potato Production for Texas"
+    ]
+  },
+  {
+    "slug": "pepper-cayenne-long-slim",
+    "common_name": "Long Slim Cayenne Pepper",
+    "scientific_name": "Capsicum annuum 'Long Slim'",
+    "category": "vegetable",
+    "subcategory": "pepper",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 75,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 70,
+      "max": 80
+    },
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -6
+      },
+      "note": "Start seeds indoors 6–8 weeks before last frost; transplant after all frost danger has passed. In zone 9 start in January and transplant in March. Long Slim Cayenne is highly productive in zone 9's long warm season and often overwinters as a perennial — cut back in late winter and the woody plant regrows to produce even more heavily the next year. For dried cayenne, harvest fully red fruits and dry on strings or in a dehydrator. The thin-walled fruits dry quickly and completely."
+    },
+    "usda_zones": {
+      "min": 8,
+      "max": 12
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 24,
+      "max": 36
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in full sun in well-drained, fertile, slightly acidic soil; Long Slim Cayenne is the standard form of cayenne pepper — the elongated, thin-walled, moderately wrinkled red pepper that is one of the most important culinary chile peppers in the world and the source of commercial cayenne pepper powder and red pepper flakes. The fruits are 4–6 inches long, pencil-thin, and bright red when fully ripe, with heat levels typically measuring 30,000–50,000 Scoville Heat Units — a penetrating, clean, sharp heat that has made cayenne the dominant hot pepper in Louisiana Cajun and Creole cuisine, Indian cooking, and dozens of other culinary traditions. Long Slim Cayenne dries easily and completely due to the thin walls, and the dried pepper grinds to the characteristic bright red powder of commercial cayenne spice. Fresh red cayenne peppers are also used in hot sauce production — Tabasco-style sauces use fermented cayenne-type peppers as their primary ingredient. In zone 9 the plants bear enormous crops of drying-quality peppers over the full warm season.",
+    "sources": [
+      "Louisiana State University AgCenter — Cayenne Pepper Production",
+      "Texas A&M AgriLife Extension — Long Slim Cayenne Variety Information",
+      "University of Florida IFAS Extension — Cayenne Pepper for Florida Gardens"
+    ]
+  }
+]

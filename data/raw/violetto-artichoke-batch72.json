@@ -1,0 +1,277 @@
+[
+  {
+    "slug": "globe-artichoke-violetto",
+    "common_name": "Violetto Artichoke",
+    "scientific_name": "Cynara cardunculus var. scolymus 'Violetto'",
+    "category": "vegetable",
+    "subcategory": "artichoke",
+    "days_to_germination": {
+      "min": 10,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 90,
+      "max": 150
+    },
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -4
+      },
+      "note": "Start seeds indoors 6–8 weeks before last frost and transplant; in zone 9 plant February–March. Violetto produces smaller, more numerous buds than Green Globe — harvest the central bud first when tightly closed, which stimulates production of side-shoot buds for a longer season of smaller edible heads. In Italian and French cuisine, these smaller side buds (carciofini) are the prized preparation stage for pickling in olive oil, braising whole, and raw artichoke salads where tender, non-fibrous bracts are required."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 48,
+      "max": 60
+    },
+    "height_in": {
+      "min": 36,
+      "max": 54
+    },
+    "spread_in": {
+      "min": 48,
+      "max": 60
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in full sun in well-drained, deep, fertile, slightly acidic to neutral soil; Violetto is an Italian artichoke type producing elongated, conical to teardrop-shaped heads with striking purple-green bracts that deepen to rich violet as the buds develop — the ornamental purple coloration makes Violetto one of the most attractive artichokes for kitchen garden displays and edible landscape design. The heads are smaller than American Green Globe types (typically 2–3 inches across) but considerably more tender in the bract meat and heart, with a milder, slightly more nutty flavor that is less assertive than the large green varieties. Smaller Violetto heads can be eaten raw when very young and tender — an important distinction from large artichokes that require cooking. In Italian cooking, Violetto di Romagna and similar purple artichoke types are specifically selected for preparations requiring tenderness: carciofi alla giudea (deep-fried), carciofi sott'olio (preserved in olive oil), and raw shaved artichoke salads. The purple color is heat-sensitive and fades during cooking, but the ornamental value in the growing plant is substantial.",
+    "sources": [
+      "University of California Cooperative Extension — Italian Artichoke Varieties",
+      "Louisiana State University AgCenter — Specialty Artichoke Production",
+      "Slow Food Presidia — Italian Heritage Artichoke Varieties"
+    ]
+  },
+  {
+    "slug": "Jerusalem-artichoke-stampede",
+    "common_name": "Stampede Jerusalem Artichoke",
+    "scientific_name": "Helianthus tuberosus 'Stampede'",
+    "category": "vegetable",
+    "subcategory": "Jerusalem artichoke",
+    "days_to_germination": {
+      "min": 14,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 50,
+      "max": 65
+    },
+    "days_to_maturity": {
+      "min": 90,
+      "max": 110
+    },
+    "maturity_from": "transplant",
+    "sow_method": "tuber",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": 0
+      },
+      "note": "Plant tuber sections with one or more eyes 4 inches deep in early spring; in zone 9 plant February–March. Stampede is the earliest-maturing Jerusalem artichoke variety — tubers are ready approximately 90–110 days from planting vs. 130+ days for unnamed varieties. In zone 9 this makes a spring planting viable for summer-fall harvest before the worst heat. Jerusalem artichokes spread aggressively — plant where containment is possible or in isolated beds. Harvesting all visible tubers at the end of the season prevents uncontrolled spread."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 72,
+      "max": 120
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 36
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant in full sun in well-drained, loose, moderately fertile, slightly acidic to neutral soil — Jerusalem artichoke is forgiving of poor soil and minimal care; Stampede is an early-maturing selection of Jerusalem artichoke (Helianthus tuberosus) that was developed for northern short-season gardens where standard varieties may not mature tubers before killing frost. The smooth, relatively uniform, white-to-tan tubers are significantly easier to clean and prepare than the knobby irregular tubers of wild-type plants, and the early maturity reduces the waiting period before harvest. Jerusalem artichoke (sunchoke) tubers have a crunchy, slightly sweet, nutty flavor reminiscent of water chestnuts when eaten raw, and a creamy, buttery quality when roasted or pureed — they are used in soups, stir-fries, gratins, and roasted as a potato substitute. The tubers store inulin (a prebiotic fiber) rather than starch, making them lower-glycemic than potatoes but causing digestive discomfort in some people — the nickname 'fartichoke' reflects this effect, which diminishes with acclimation.",
+    "sources": [
+      "University of Vermont Extension — Jerusalem Artichoke Varieties",
+      "Rodale Institute — Stampede Sunchoke Variety Notes",
+      "Cornell University Cooperative Extension — Jerusalem Artichoke Production"
+    ]
+  },
+  {
+    "slug": "rhubarb-crimson-red",
+    "common_name": "Crimson Red Rhubarb",
+    "scientific_name": "Rheum rhabarbarum 'Crimson Red'",
+    "category": "vegetable",
+    "subcategory": "rhubarb",
+    "days_to_germination": {
+      "min": 14,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 50,
+      "max": 65
+    },
+    "days_to_maturity": {
+      "min": 365,
+      "max": 730
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": -6,
+        "max": -2
+      },
+      "note": "Plant crowns or divisions in early spring while dormant; in zone 7 plant January–February. Crimson Red rhubarb performs best in zones 3–7 where reliable cold winters provide the 500+ chilling hours it requires for dormancy break and vigorous growth. In zone 8 it may perform adequately for several seasons before declining. Do not harvest stalks in the first year to allow full establishment. In spring only take no more than one-third of the stalks to preserve plant vigor."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 8
+    },
+    "spacing_in": {
+      "min": 36,
+      "max": 48
+    },
+    "height_in": {
+      "min": 24,
+      "max": 36
+    },
+    "spread_in": {
+      "min": 36,
+      "max": 48
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in full sun in well-drained, deep, fertile, slightly acidic to neutral soil with good organic matter; Crimson Red is a named rhubarb variety selected for deep red stalk color throughout the length of the stalk — many rhubarb varieties, including the popular Victoria, produce stalks that are primarily green with only a reddish blush at the base, while Crimson Red maintains the desirable deep red color from base to tip. The red color has no effect on flavor (rhubarb's characteristic tart-sour character comes from oxalic and malic acids regardless of color) but makes the stalks more visually appealing in fresh preparations and strawberry-rhubarb pies where the vivid red shows through the filling. The flavor is the same bright, intense rhubarb tartness that defines the species. Crimson Red is also grown as an ornamental vegetable — the large, dramatic dark red stalks and enormous ribbed leaves create a striking architectural effect in the garden before harvest.",
+    "sources": [
+      "University of Minnesota Extension — Rhubarb Variety Selection",
+      "Cornell University Cooperative Extension — Rhubarb Cultivars",
+      "Wisconsin Extension Cooperative — Crimson Red Rhubarb"
+    ]
+  },
+  {
+    "slug": "tomato-vorlon",
+    "common_name": "Vorlon Tomato",
+    "scientific_name": "Solanum lycopersicum 'Vorlon'",
+    "category": "vegetable",
+    "subcategory": "tomato",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 75,
+      "max": 85
+    },
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -6,
+        "max": -4
+      },
+      "note": "Start seeds indoors 4–6 weeks before last frost; transplant after all frost danger has passed. In zone 9 start in January–February and transplant February–March. The deep purple-blue exterior color of Vorlon develops most intensely with sun exposure on the skin — fruits shaded by foliage will be less colorful. In zone 9 fall planting in August for October–November harvest often produces the best fruit quality. Support with cages or stakes as the large, indeterminate vines require substantial support."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 24,
+      "max": 36
+    },
+    "height_in": {
+      "min": 60,
+      "max": 84
+    },
+    "spread_in": {
+      "min": 24,
+      "max": 36
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in full sun in well-drained, fertile, slightly acidic soil and provide sturdy cage or stake support; Vorlon is a large beefsteak tomato bred by Tom Wagner, the Washington State plant breeder also responsible for Green Zebra, known for developing novel tomato colors and flavors. Vorlon produces large (often 12–20 ounce) fruits with a distinctive deep purple-to-near-black exterior that develops from sun exposure on the skin — the dark color comes from anthocyanin pigments (the same blue-purple compounds in blueberries and purple cabbage) that accumulate in the skin when exposed to sunlight. When sliced, Vorlon reveals a complex interior with dark-streaked red flesh and a rich, full-bodied, complex tomato flavor with earthy, wine-like undertones that distinguish dark tomato varieties from standard red types. The anthocyanin content in dark tomatoes like Vorlon represents significantly higher antioxidant levels than red-only tomatoes — a characteristic that has made dark-skinned tomatoes of interest in nutritional research. The dramatic appearance of the purple-black exterior with rich red interior when sliced makes Vorlon outstanding in salads and fresh presentations.",
+    "sources": [
+      "Tom Wagner's Tater-Mater Seed Company — Vorlon Tomato Introduction",
+      "Seed Savers Exchange — Dark-Skinned Tomato Varieties",
+      "Oregon State University Extension — Anthocyanin Tomato Varieties"
+    ]
+  },
+  {
+    "slug": "tomato-orange-strawberry",
+    "common_name": "Orange Strawberry Tomato",
+    "scientific_name": "Solanum lycopersicum 'Orange Strawberry'",
+    "category": "vegetable",
+    "subcategory": "tomato",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 80,
+      "max": 90
+    },
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -6,
+        "max": -4
+      },
+      "note": "Start seeds indoors 4–6 weeks before last frost; transplant after all frost danger has passed. In zone 9 start in January–February and transplant February–March. The elongated, oxheart shape makes the large fruits (1–2 pounds) less likely to crack than large round beefsteak types. In zone 9 the fall planting in August produces particularly sweet, rich-flavored fruits as cooler October-November temperatures concentrate the sugars and reduce water content in the flesh."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 24,
+      "max": 36
+    },
+    "height_in": {
+      "min": 60,
+      "max": 84
+    },
+    "spread_in": {
+      "min": 24,
+      "max": 36
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in full sun in well-drained, fertile, slightly acidic soil with cage or stake support; Orange Strawberry (also known as Strawberry Oxheart Orange) is an oxheart-type heirloom tomato producing large, elongated, pointed fruits with a distinctive heart or strawberry silhouette in vivid, deep orange — the 'strawberry' in the name refers to the fruit shape, not the flavor. The thick, meaty, deep orange flesh is extraordinarily dense and nearly seedless, with a small hollow interior cavity common to oxheart types — the low water content and minimal seed-gel gives Orange Strawberry one of the meatiest, most substantial textures of any tomato type, with a concentrated, rich, fruity-sweet tomato flavor that becomes even more intense when the dense flesh is sliced for sandwiches or diced for salads. Orange tomatoes are distinguished by their lycopene profile — beta-carotene and tetra-cis-lycopene rather than the all-trans lycopene of red tomatoes — which is more bioavailable than the red form and contributes to the characteristic rich, fruity sweetness of orange-fleshed varieties.",
+    "sources": [
+      "Seed Savers Exchange — Orange Strawberry Oxheart Tomato",
+      "Baker Creek Heirloom Seeds — Oxheart Tomato Varieties",
+      "Southern Exposure Seed Exchange — Orange and Yellow Heirloom Tomatoes"
+    ]
+  }
+]

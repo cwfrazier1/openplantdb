@@ -1,0 +1,277 @@
+[
+  {
+    "slug": "beet-chioggia",
+    "common_name": "Chioggia Beet",
+    "scientific_name": "Beta vulgaris 'Chioggia'",
+    "category": "vegetable",
+    "subcategory": "beet",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 50,
+      "max": 65
+    },
+    "days_to_maturity": {
+      "min": 55,
+      "max": 65
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -6,
+        "max": -3
+      },
+      "note": "Direct sow 3–6 weeks before last frost as soon as soil can be worked; in zone 9 sow September–February for winter-spring harvest. Chioggia beet is best harvested at 2–3 inches diameter — the candy-stripe pattern is most vivid and the texture most tender at medium size. Large over-mature Chioggia beets lose the distinct stripe clarity as the rings merge. Thin seedlings to 3–4 inches apart; the thinnings are edible as beet greens. In zone 9 the cool season from fall through early spring is the primary growing window."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 3,
+      "max": 4
+    },
+    "height_in": {
+      "min": 12,
+      "max": 18
+    },
+    "spread_in": {
+      "min": 4,
+      "max": 6
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in full sun in deep, well-drained, loose, slightly acidic to neutral soil free of stones and compaction; Chioggia is an 1840s Italian heirloom beet from the town of Chioggia near Venice, producing medium-sized, round roots with distinctive alternating concentric rings of deep rose-red and white when sliced — resembling a bulls-eye or candy cane pattern that makes the cross-section one of the most visually striking of any vegetable. The candy-stripe pattern is most vivid in raw beets; cooking softens the color contrast. Chioggia has a notably milder, sweeter, less earthy flavor than standard red beet varieties — the 'dirt' or 'earthiness' commonly associated with beets is less pronounced in Chioggia, making it preferred by people who enjoy the sweetness of beets but find the strong earthy undertone of red beets off-putting. Raw Chioggia slices are excellent in salads and cheese boards where the color pattern can be appreciated, and they don't stain hands and cutting boards with the deep red juice of standard beets.",
+    "sources": [
+      "Seed Savers Exchange — Chioggia Heirloom Beet",
+      "Slow Food USA — Chioggia Traditional Beet Cultivar",
+      "Cornell University Cooperative Extension — Heirloom Root Vegetables"
+    ]
+  },
+  {
+    "slug": "carrot-atomic-red",
+    "common_name": "Atomic Red Carrot",
+    "scientific_name": "Daucus carota 'Atomic Red'",
+    "category": "vegetable",
+    "subcategory": "carrot",
+    "days_to_germination": {
+      "min": 10,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 50,
+      "max": 65
+    },
+    "days_to_maturity": {
+      "min": 70,
+      "max": 80
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -6,
+        "max": -3
+      },
+      "note": "Direct sow 3–6 weeks before last frost; in zone 9 sow September–February for fall-through-spring harvest. Atomic Red's red color deepens significantly after cooking — the lycopene pigment that makes the carrot red is more bioavailable from cooked carrots, and the color is more vivid in roasted or steamed preparations than in raw. For maximum color development, grow Atomic Red in cool weather — heat reduces the intensity of the red pigmentation. Thin to 2–3 inches apart after germination."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 2,
+      "max": 3
+    },
+    "height_in": {
+      "min": 12,
+      "max": 18
+    },
+    "spread_in": {
+      "min": 4,
+      "max": 6
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in full sun in deep, loose, well-drained, fertile, slightly acidic soil free of rocks and compaction; Atomic Red is a red-exterior, red-interior carrot variety producing the color from lycopene — the same antioxidant carotenoid that makes tomatoes and watermelon red — rather than the beta-carotene that makes standard orange carrots orange. This makes Atomic Red carrots a rare lycopene-containing vegetable that is not a tomato, with research suggesting that lycopene from carrots has similar bioavailability to tomato lycopene. The flavor of Atomic Red is less sweet than orange carrots and has a slightly more complex, herbal quality — different from, not inferior to, standard orange. The intense red color makes Atomic Red striking in mixed-carrot salads and vegetable platters alongside yellow, white, purple, and orange carrots. Like all colored carrots, the unique color is the primary appeal for market gardeners and home cooks interested in visual diversity in vegetable cooking.",
+    "sources": [
+      "USDA Agricultural Research Service — Colored Carrot Research",
+      "Cornell University Cooperative Extension — Rainbow Carrot Varieties",
+      "University of Wisconsin Extension — Specialty Carrot Production"
+    ]
+  },
+  {
+    "slug": "chard-rainbow",
+    "common_name": "Rainbow Chard",
+    "scientific_name": "Beta vulgaris subsp. cicla 'Rainbow'",
+    "category": "vegetable",
+    "subcategory": "chard",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 50,
+      "max": 65
+    },
+    "days_to_maturity": {
+      "min": 55,
+      "max": 65
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": -2
+      },
+      "note": "Direct sow 2–4 weeks before last frost; in zone 9 sow September–March for fall through spring harvest. Rainbow chard includes red, yellow, orange, white, and pink-stalked plants in each packet — plant thickly and thin, saving the thinnings for salads. Harvest outer leaves as needed starting when plants are 6–8 inches tall; this 'cut and come again' approach keeps plants productive for months. In zone 9 the cool season from fall through early spring is prime time; plants may bolt in spring heat but often resprout and produce again in fall."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 6,
+      "max": 12
+    },
+    "height_in": {
+      "min": 18,
+      "max": 24
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 18
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Plant in full sun to partial shade in well-drained, fertile, slightly acidic to neutral soil; Rainbow Chard is a mixture of Swiss chard varieties with stalks in multiple vivid colors — red, yellow, orange, gold, pink, white, and bicolors — creating one of the most visually striking vegetable plantings possible in a kitchen or ornamental garden. The broad, crinkled, dark green leaves and brilliantly colored stalks make Rainbow Chard simultaneously one of the most productive and most ornamental vegetables available. Nutritionally, Swiss chard is among the most nutrient-dense vegetables: extremely high in vitamins K, A, and C, iron, calcium, and magnesium. The mild, spinach-like flavor of young leaves is pleasant raw in salads; older leaves and the colorful stalks are best sautéed, stir-fried, or added to soups where the color partially fades but the substantial flavor and nutrition remain. The partial shade tolerance makes Rainbow Chard one of the best vegetables for gardens with limited full-sun exposure.",
+    "sources": [
+      "Cornell University Cooperative Extension — Swiss Chard Production",
+      "University of Florida IFAS Extension — Chard Varieties for Florida",
+      "Louisiana State University AgCenter — Chard for Gulf South Gardens"
+    ]
+  },
+  {
+    "slug": "liatris-kobold",
+    "common_name": "Kobold Liatris",
+    "scientific_name": "Liatris spicata 'Kobold'",
+    "category": "flower",
+    "subcategory": "liatris",
+    "days_to_germination": {
+      "min": 14,
+      "max": 28
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 365,
+      "max": 730
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": -2,
+        "max": 6
+      },
+      "note": "Plant corms or divisions in spring; in zone 9 plant February–April or fall September–November. Kobold establishes quickly and blooms in its first year from corms. Unlike most spike flowers that open from bottom to top, Liatris blooms top-to-bottom — an unusual and instantly recognizable feature. In zone 9 Liatris performs as a reliable perennial; mulch crowns lightly in summer to protect from intense heat. Divide clumps every 3–4 years in spring to maintain vigor."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 18,
+      "max": 24
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 18
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant in full sun in well-drained, lean, neutral to slightly acidic soil — excellent drainage is essential; Kobold is a compact selection of Liatris spicata (blazing star or gayfeather), a native North American prairie perennial, selected for its shorter, sturdier stems (18–24 inches vs. 36–48 for the species) that resist flopping in garden conditions. The dense, fuzzy, magenta-purple flower spikes bloom from late June through August, opening their small florets from the top of the spike downward — an unusual characteristic that distinguishes Liatris from all other vertical spike flowers and makes it immediately recognizable to garden enthusiasts. Kobold is outstanding for cutting (the spikes last 1–2 weeks in a vase), for attracting butterflies and bumblebees, and for providing late summer color when many perennials have finished blooming. As a native prairie species, Liatris is extremely drought-tolerant and low-maintenance once established, thriving in the kind of lean, dry, hot conditions that kill many ornamental perennials — making it particularly well-suited to zone 9 landscapes.",
+    "sources": [
+      "Missouri Botanical Garden — Liatris spicata Kobold Plant Finder",
+      "North Carolina State University Extension — Native Prairie Perennials for Southeast",
+      "Lady Bird Johnson Wildflower Center — Liatris spicata Native Plant"
+    ]
+  },
+  {
+    "slug": "scabiosa-butterfly-blue",
+    "common_name": "Butterfly Blue Scabiosa",
+    "scientific_name": "Scabiosa columbaria 'Butterfly Blue'",
+    "category": "flower",
+    "subcategory": "scabiosa",
+    "days_to_germination": {
+      "min": 10,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 90,
+      "max": 180
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": -2,
+        "max": 6
+      },
+      "note": "Plant divisions or container-grown plants in spring; in zone 8–9 plant September–March. Butterfly Blue blooms most freely in spring and fall with a summer lull in zone 9's heat — deadhead spent blooms consistently to extend the flowering season. Shear back by one-third after each main flush of bloom to stimulate fresh foliage and new flower buds. In zone 9 the plant may decline in summer heat — treat it as a cool-season perennial, planting in fall for winter-spring display."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 12,
+      "max": 18
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant in full sun in well-drained, alkaline to neutral, lean, gritty soil — pincushion flowers fail in heavy, wet soils and thrive in rocky or sandy garden conditions; Butterfly Blue is an All-America Selections award-winning perennial pincushion flower that earned widespread recognition for its almost continuous bloom cycle and unique medium blue-lavender flower color that is genuinely uncommon in the full-sun perennial palette. The delicate, dome-shaped flower heads with divided petals radiating around a pin-cushion center bloom on long, wiry, branching stems that create an airy, wildflower effect different from the solid masses of most garden perennials. The long, thin stems make Butterfly Blue outstanding for cutting, and the soft lavender-blue color works with almost any companion planting palette. As a pollinator plant, Butterfly Blue is exceptionally effective — butterflies, bees, and beneficial insects are strongly attracted to the accessible, nectar-rich flowers. The plant performs best in well-drained, slightly alkaline conditions that mirror its Mediterranean-European homeland origins.",
+    "sources": [
+      "All-America Selections — Scabiosa Butterfly Blue Award",
+      "Royal Horticultural Society — Scabiosa columbaria Award of Garden Merit",
+      "North Carolina State University Extension — Perennial Flowers for Southeast"
+    ]
+  }
+]

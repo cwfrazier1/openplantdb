@@ -1,0 +1,277 @@
+[
+  {
+    "slug": "maruba-santoh",
+    "common_name": "Maruba Santoh",
+    "scientific_name": "Brassica rapa var. nipposinica 'Maruba Santoh'",
+    "category": "vegetable",
+    "subcategory": "leafy green",
+    "days_to_germination": {
+      "min": 4,
+      "max": 7
+    },
+    "germination_soil_temp_f": {
+      "min": 45,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 35,
+      "max": 50
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {
+        "min": -10,
+        "max": -6
+      },
+      "note": "Direct sow in fall; in zone 9 sow September–November for harvest October–February. Maruba Santoh can also be sown January–March for a spring crop before summer heat causes bolting. Successive sowings every 3 weeks provide continuous harvest. The round, smooth leaves are harvested young at 3–4 inches for baby greens or at full size at 35–50 days. More heat-tolerant than most mustard types."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 4,
+      "max": 8
+    },
+    "height_in": {
+      "min": 8,
+      "max": 14
+    },
+    "spread_in": {
+      "min": 6,
+      "max": 10
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Direct sow thinly in partial shade to full sun in moist, fertile, well-drained soil; Maruba Santoh is a Japanese mustard green distinct from other Asian brassicas in having smooth, round, paddle-shaped leaves rather than the lobed or frilly leaves of most mustard types — the name 'maruba' means 'round leaf' in Japanese. The flavor is much milder than standard mustard greens, with a mild, slightly mustardy-sweet taste closer to bok choy or spinach, making it one of the most versatile and approachable cool-season greens for raw use in salads, stir-fries, soups, and braising. The smooth, non-frilly texture of the leaves holds dressings well without wilting and is preferred over crinkled-leaf types in delicate preparations. Maruba Santoh is faster-maturing than most brassicas and can produce a baby green harvest in 25–30 days from sowing. In zone 9 it is an excellent gap-filler for the fall and winter garden, tolerating light frosts and growing through the cool months without the bitterness that develops in other mustard greens exposed to heavy cold.",
+    "sources": [
+      "Johnny's Selected Seeds — Maruba Santoh Variety Notes",
+      "University of Hawaii Extension — Asian Brassica Greens Production",
+      "Kitazawa Seed Company — Japanese Vegetable Varieties Guide"
+    ]
+  },
+  {
+    "slug": "rosemary-blue-boy",
+    "common_name": "Blue Boy Rosemary",
+    "scientific_name": "Salvia rosmarinus 'Blue Boy'",
+    "category": "herb",
+    "subcategory": "culinary herb",
+    "days_to_germination": {
+      "min": 14,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 120
+    },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": -2,
+        "max": 4
+      },
+      "note": "Root cuttings in late spring or early fall; in zone 9 plant September–November or February–April. Blue Boy is the standard dwarf compact rosemary for container growing, topiary, and small herb gardens. Its compact size allows it to be grown in a 6-inch to 1-gallon container indefinitely with regular trimming. It flowers more prolifically than many upright rosemary types, covering the mound in small blue flowers in late winter to early spring."
+    },
+    "usda_zones": {
+      "min": 8,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 10,
+      "max": 18
+    },
+    "height_in": {
+      "min": 8,
+      "max": 24
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant in full sun in extremely well-drained, lean, slightly alkaline soil; Blue Boy is a dwarf, compact, mounding rosemary that forms a tight hemisphere of small, fine-textured, intensely aromatic needlelike leaves — the most compact of the named rosemary cultivars and the best choice for container growing, small herb gardens, edging, and topiary. Unlike the large, sprawling upright rosemary types that reach 3–6 feet, Blue Boy stays under 18–24 inches with a mounding, naturally rounded habit that requires little pruning to maintain its shape. The flavor and fragrance are identical to full-sized rosemary — strongly resinous, piney, and aromatic — and the fine leaves are actually preferred for delicate uses where coarser standard rosemary leaves are too large. Blue Boy blooms prolifically in late winter and early spring, covering the mound in tiny blue flowers that are excellent for bees. In zone 9 the compact habit and lean soil requirements make it ideal for containers on patios and decks, where the intensely aromatic foliage is accessible for kitchen harvest.",
+    "sources": [
+      "University of Florida IFAS Extension — Rosemary Cultivars for Florida",
+      "Texas A&M AgriLife Extension — Dwarf Rosemary Varieties for Texas",
+      "Richters Herb Catalogue — Compact Rosemary Cultivars"
+    ]
+  },
+  {
+    "slug": "hercules-dill",
+    "common_name": "Hercules Dill",
+    "scientific_name": "Anethum graveolens 'Hercules'",
+    "category": "herb",
+    "subcategory": "culinary herb",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 50,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 50,
+      "max": 65
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": 2
+      },
+      "note": "Direct sow in early spring or fall; in zone 9 sow February–March or September–October. Dill does not transplant well — always direct sow in place. Hercules is a compact, slow-to-bolt variety particularly suited for maritime and warm climates where standard dill bolts too quickly for a full herb harvest. Successive sowings every 3 weeks provide continuous leaf harvest. In zone 9 the fall sowing typically provides the longest harvest before bolting."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 6,
+      "max": 12
+    },
+    "height_in": {
+      "min": 24,
+      "max": 36
+    },
+    "spread_in": {
+      "min": 6,
+      "max": 12
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Direct sow in fertile, well-drained soil in full sun — do not transplant; Hercules is a compact, bolt-resistant dill variety developed for gardeners and market growers who need an extended leaf harvest before the plant flowers. Unlike standard dill that rushes to bolt in warm weather, Hercules delays flowering by 2–3 weeks under similar conditions, producing a longer window of dense, feathery, aromatic foliage harvest — the primary advantage over standard open-pollinated dill types. The plant grows to a more compact 24–36 inches rather than the 4–5 foot height of standard dill, making it easier to grow in containers or small spaces without the flopping and staking required for large dill plants. The leaf flavor is identical to standard dill — fresh, bright, anise-like — and is equally useful in all dill applications from cold fish preparations to tzatziki, potato salads, and dill pickles. In zone 9 the compact habit makes Hercules the better choice for the brief spring dill season before heat ends production.",
+    "sources": [
+      "Johnny's Selected Seeds — Hercules Dill Variety Notes",
+      "University of Minnesota Extension — Dill Production for Herb Gardens",
+      "Cornell University Herb Garden — Bolt-Resistant Dill Varieties"
+    ]
+  },
+  {
+    "slug": "mammoth-long-island-dill",
+    "common_name": "Mammoth Long Island Dill",
+    "scientific_name": "Anethum graveolens 'Mammoth'",
+    "category": "herb",
+    "subcategory": "culinary herb",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 50,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 65,
+      "max": 90
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": 2
+      },
+      "note": "Direct sow in early spring; in zone 9 sow February–March for spring production or September for fall. Mammoth Long Island dill grows best in cool weather and bolts in summer heat — in zone 9 the spring planting window is brief, making the fall-sown crop the primary harvest. Time sowing so the plant is producing mature seed heads when cucumbers are ready for pickling. The plants can reach 4–5 feet and may need staking in exposed locations."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 48,
+      "max": 60
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 18
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Direct sow in fertile, well-drained soil in full sun — do not transplant; Mammoth Long Island Dill is the classic tall, open-pollinated dill variety grown for over a century in the truck-farming regions of Long Island, New York, and is still the standard for dill pickle production. The large plants reach 4–5 feet with broad, flat seed heads (umbels) 6–8 inches across carrying hundreds of seeds — the seed-head size is the key advantage over compact varieties when the goal is fresh dill seed for pickling, dill vinegar, or dill oil. The seed flavor is stronger, more pungent and aromatic, and more concentrated than leaf dill flavor, and Mammoth Long Island is timed and sized to produce mature seed heads concurrent with cucumber harvest. Both the fresh foliage (dill weed) and the mature seeds are usable. The very tall habit makes the plants dramatic in the back of the herb or vegetable garden and provides early habitat for swallowtail butterfly caterpillars, which feed exclusively on Apiaceae family plants.",
+    "sources": [
+      "Seed Savers Exchange — Mammoth Long Island Dill Heritage Variety",
+      "Cornell University Vegetable Varieties for Gardeners — Dill Production",
+      "Southern Exposure Seed Exchange — Pickling Dill Varieties"
+    ]
+  },
+  {
+    "slug": "yerba-mate",
+    "common_name": "Yerba Mate",
+    "scientific_name": "Ilex paraguariensis",
+    "category": "herb",
+    "subcategory": "tea plant",
+    "days_to_germination": {
+      "min": 30,
+      "max": 90
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 80
+    },
+    "days_to_maturity": {
+      "min": 1095,
+      "max": 1825
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 8
+      },
+      "note": "Plant container-grown trees in spring or fall; in zone 9 plant September–November or February–April. Yerba mate is best established from container stock as germination from seed is slow and irregular. In zone 9 it grows as a large evergreen shrub or small tree and tolerates light frosts to about 20°F when established. The plant requires moist, acidic, humus-rich soil and benefits from partial shade in zone 9 to prevent leaf scorch during peak summer heat."
+    },
+    "usda_zones": {
+      "min": 9,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 96,
+      "max": 144
+    },
+    "height_in": {
+      "min": 96,
+      "max": 240
+    },
+    "spread_in": {
+      "min": 72,
+      "max": 120
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Plant in partial shade to full sun in moist, acidic, humus-rich, well-drained soil; Yerba Mate is the holly-family tree whose dried, roasted leaves produce the traditional caffeinated infusion consumed throughout South America — Argentina, Uruguay, Paraguay, and Brazil — where it is estimated that hundreds of millions of people drink it daily. The dried leaf contains caffeine, theobromine, and theophylline at levels between tea and coffee, producing an alert, focused energy without the jitteriness of coffee. The flavor is distinctly grassy, herbaceous, slightly bitter, and smoky from the traditional drying process, though home-dried leaf from fresh garden plants is milder and greener. In zone 9 the plant grows as a large, handsome evergreen shrub or small tree with glossy, dark green, oval leaves. Harvest young leaves in spring for the most delicate flavor; leaves harvested throughout the growing season become progressively stronger. The plant tolerates the moist, acidic, sandy loam soils of the Gulf Coast better than many ornamentals, thriving where high rainfall and humidity prevail.",
+    "sources": [
+      "University of Florida IFAS Extension — Tropical and Subtropical Herbs for Florida",
+      "Texas A&M AgriLife Extension — Ilex paraguariensis for Zone 9",
+      "Purdue University NewCROP — Yerba Mate Crop Profile"
+    ]
+  }
+]

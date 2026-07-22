@@ -1,0 +1,277 @@
+[
+  {
+    "slug": "callaloo-amaranth",
+    "common_name": "Callaloo",
+    "scientific_name": "Amaranthus viridis",
+    "category": "vegetable",
+    "subcategory": "leafy green",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 90
+    },
+    "days_to_maturity": {
+      "min": 30,
+      "max": 60
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 2
+      },
+      "note": "Direct sow after last frost when soil is warm; in zone 9 sow March–August. Callaloo is extremely heat-tolerant and productive during the Gulf Coast summer when cool-season greens have long bolted; harvest young leaves and shoot tips continuously to maintain production. Plants self-sow prolifically and naturalize easily."
+    },
+    "usda_zones": {
+      "min": 8,
+      "max": 12
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 18,
+      "max": 48
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 18
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Direct sow on the soil surface in warm, well-drained soil in full sun; callaloo is the name given in the Caribbean to green amaranth (Amaranthus viridis), a self-sowing annual leafy green that thrives in tropical heat and humidity and is one of the most important summer vegetables in the Caribbean and West Africa. The young leaves, shoot tips, and tender stems are harvested continuously and cooked like spinach — the most famous preparation is callaloo soup, a velvety Caribbean dish made with coconut milk, crab or salt fish, and okra. The plant tolerates poor soil, drought, and intense heat, and is one of the few summer greens that genuinely thrives in zone 9's most challenging months. Flavor is mild and slightly earthy; texture softens quickly when cooked. Plants self-sow freely and will return each summer without replanting once established.",
+    "sources": [
+      "University of the West Indies — Callaloo and Caribbean Food Plants",
+      "University of Florida IFAS Extension — Tropical Leafy Greens",
+      "USDA NRCS Plants Database — Amaranthus viridis"
+    ]
+  },
+  {
+    "slug": "thai-red-roselle",
+    "common_name": "Thai Red Roselle",
+    "scientific_name": "Hibiscus sabdariffa 'Thai Red'",
+    "category": "vegetable",
+    "subcategory": "edible flower",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 90
+    },
+    "days_to_maturity": {
+      "min": 90,
+      "max": 120
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 2
+      },
+      "note": "Direct sow after last frost or start indoors 4 weeks before transplanting; in zone 9 plant March–May. Thai Red is a short-day plant that begins flowering as days shorten in August–September; calyces are harvested through October until frost. Plant early enough to establish before the heat of summer."
+    },
+    "usda_zones": {
+      "min": 8,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 24,
+      "max": 36
+    },
+    "height_in": {
+      "min": 48,
+      "max": 72
+    },
+    "spread_in": {
+      "min": 24,
+      "max": 36
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Sow seeds 0.5 inch deep in rich, well-drained soil in full sun; Thai Red is a deeply pigmented roselle cultivar from Southeast Asia, selected for extraordinarily high anthocyanin content that produces calyces (the fleshy red structures around the seed pod) of an intense ruby-red that yields a dramatic magenta-crimson juice when steeped. Harvest calyces when they are plump, firm, and fully red — typically 5–7 days after the flower petals drop — by snapping them off the branch. Thai Red calyces produce a more intensely flavored, darker red hibiscus tea (agua de Jamaica) than standard roselle varieties, and are prized for naturally colored beverages, syrups, jellies, and dried flower teas. The tall, bushy plants are as ornamental as they are productive, with attractive red-veined leaves and showy flowers.",
+    "sources": [
+      "University of Florida IFAS Extension — Roselle for Florida",
+      "USDA Agricultural Research Service — Anthocyanins in Hibiscus sabdariffa",
+      "Texas A&M AgriLife Extension — Roselle Production"
+    ]
+  },
+  {
+    "slug": "pigeon-plum",
+    "common_name": "Pigeon Plum",
+    "scientific_name": "Coccoloba diversifolia",
+    "category": "fruit",
+    "subcategory": "tropical tree",
+    "days_to_germination": {
+      "min": 14,
+      "max": 30
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 1460,
+      "max": 2190
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 8
+      },
+      "note": "Plant container-grown trees in spring after all frost risk passes; pigeon plum is frost-sensitive and suitable outdoors only in zone 9b–11. In zone 9a grow in large containers that can be moved to shelter during freezes. This is a slow-growing, shade-tolerant understory tree that thrives in partial shade and salt-spray tolerance makes it excellent for coastal gardens."
+    },
+    "usda_zones": {
+      "min": 10,
+      "max": 12
+    },
+    "spacing_in": {
+      "min": 180,
+      "max": 300
+    },
+    "height_in": {
+      "min": 120,
+      "max": 360
+    },
+    "spread_in": {
+      "min": 120,
+      "max": 240
+    },
+    "sun": "partial",
+    "water": "low",
+    "directions": "Plant in full sun to partial shade in sandy, well-drained soil; pigeon plum is a native Florida and Caribbean understory tree related to sea grape (Coccoloba uvifera) that produces dark purple, grape-like fruits in hanging clusters that ripen in fall and winter — an important food source for birds and wildlife. The small fruits have a thin, sweet skin covering minimal flesh around a large seed, similar to wild grape, and are used in the same ways as sea grape fruits: fresh eating, jelly, wine, and juice. The tree is highly salt-tolerant, drought-tolerant once established, and pollution-resistant, making it valuable for coastal landscapes where other fruit trees struggle. Leaves are evergreen and smaller than sea grape. Best suited to south Florida and the Keys outdoors; zone 9a requires frost protection.",
+    "sources": [
+      "University of Florida IFAS Extension — Pigeon Plum for Florida Landscapes",
+      "Florida Native Plant Society — Coccoloba diversifolia",
+      "USDA NRCS Plants Database — Coccoloba diversifolia"
+    ]
+  },
+  {
+    "slug": "texas-copper-lily",
+    "common_name": "Texas Copper Lily",
+    "scientific_name": "Habranthus texanus",
+    "category": "flower",
+    "subcategory": "bulb",
+    "days_to_germination": {
+      "min": 14,
+      "max": 28
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 80
+    },
+    "days_to_maturity": {
+      "min": 365,
+      "max": 730
+    },
+    "maturity_from": "transplant",
+    "sow_method": "bulb",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 6
+      },
+      "note": "Plant small bulbs 2–3 inches deep in spring or fall in rocky, well-drained soil; Texas copper lily naturalizes readily in limestone soils and gravelly banks throughout central and south Texas and the Gulf Coast. In zone 7–10 it is fully perennial with no winter protection needed. Clumps bloom most spectacularly in late summer–fall after periods of heat and dry stress followed by rain."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 4,
+      "max": 6
+    },
+    "height_in": {
+      "min": 6,
+      "max": 12
+    },
+    "spread_in": {
+      "min": 4,
+      "max": 8
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant bulbs 2–3 inches deep in well-drained to rocky soil in full sun; Texas copper lily is a small but charming native bulb found growing in thin limestone soils from Texas into Mexico, bearing funnel-shaped copper-orange flowers on slender stems in August–October. Like other habranthus, the blooms emerge reliably after summer rains following a dry period — the heat-rain cycle acts as a trigger for the spectacular flush of flowers. Each stem carries a single, upward-facing bloom unlike the outward-facing flowers of rain lilies (Zephyranthes), distinguishing the genus. The fine, grass-like foliage is unobtrusive during the growing season and the bulbs multiply steadily over years into impressive drifts. Excellent for naturalizing in dry, rocky, Texas-style landscapes — plant in masses for the most effect.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center — Habranthus texanus",
+      "Texas A&M AgriLife Extension — Native Bulbs for Texas Gardens",
+      "USDA NRCS Plants Database — Habranthus texanus"
+    ]
+  },
+  {
+    "slug": "dwarf-mondo-grass",
+    "common_name": "Dwarf Mondo Grass",
+    "scientific_name": "Ophiopogon japonicus 'Nanus'",
+    "category": "flower",
+    "subcategory": "shade groundcover",
+    "days_to_germination": {
+      "min": 30,
+      "max": 60
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 180,
+      "max": 365
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 8
+      },
+      "note": "Plant divisions or plugs in spring or fall in part shade to full shade; dwarf mondo grass establishes slowly but requires virtually no care once established. In zone 7–10 it is fully evergreen through winter and thrives year-round with minimal irrigation in shaded sites. Divisions spaced 4–6 inches apart will fill in to a continuous mat in 2–3 years."
+    },
+    "usda_zones": {
+      "min": 6,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 4,
+      "max": 6
+    },
+    "height_in": {
+      "min": 2,
+      "max": 4
+    },
+    "spread_in": {
+      "min": 4,
+      "max": 6
+    },
+    "sun": "shade",
+    "water": "low",
+    "directions": "Plant divisions or plugs 4–6 inches apart in moist, well-drained, humus-rich soil in part shade to full shade; dwarf mondo grass (Ophiopogon japonicus 'Nanus') is a miniature selection of standard mondo grass, growing only 2–4 inches tall compared to the 6–12 inch standard form, creating a fine-textured lawn-like effect in shaded areas where turfgrass cannot grow. It is one of the most popular shade groundcovers in the Gulf Coast South, used extensively under large live oaks, in Japanese-style gardens, between stepping stones, and along shaded pathways. The plant is nearly indestructible in zone 7–10 once established — it tolerates dry shade, occasional flooding, and foot traffic, and maintains its attractive dark green foliage year-round without mowing or fertilization. Small, pale lavender flowers appear in summer, followed by dark blue berries, but the foliage is the principal attraction.",
+    "sources": [
+      "University of Florida IFAS Extension — Ophiopogon japonicus",
+      "Louisiana State University AgCenter — Ground Covers for Louisiana",
+      "Texas A&M AgriLife Extension — Shade-Tolerant Ground Covers"
+    ]
+  }
+]

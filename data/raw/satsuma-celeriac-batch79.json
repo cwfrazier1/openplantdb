@@ -1,0 +1,277 @@
+[
+  {
+    "slug": "spinach-space",
+    "common_name": "Space Spinach",
+    "scientific_name": "Spinacia oleracea 'Space'",
+    "category": "vegetable",
+    "subcategory": "spinach",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 45,
+      "max": 65
+    },
+    "days_to_maturity": {
+      "min": 39,
+      "max": 45
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -6,
+        "max": -3
+      },
+      "note": "Direct sow 3–6 weeks before last frost; in zone 9 sow October–February for fall through early spring harvest. Space is an F1 hybrid with outstanding downy mildew resistance — particularly important in zone 9 where the warm, humid fall climate creates conditions favorable for mildew. The smooth, upright leaves are easy to harvest and clean, with less dirt trapping than savoy-type spinach. Succession sow every 2–3 weeks for continuous harvest; even heat-tolerant spinach will bolt in zone 9's rising spring temperatures. Partial shade extends the season slightly."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 2,
+      "max": 4
+    },
+    "height_in": {
+      "min": 6,
+      "max": 10
+    },
+    "spread_in": {
+      "min": 6,
+      "max": 10
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Plant in partial shade to full sun in well-drained, fertile, slightly acidic to neutral soil — spinach benefits from afternoon shade protection in warmer climates to delay bolting; Space is an F1 hybrid spinach developed specifically for exceptional downy mildew (Peronospora spinaciae) resistance — the most significant disease of fresh-market spinach. The smooth, slightly cupped, dark green, upright leaves are the commercial fresh spinach leaf type: uniformly sized, easy to wash without the texture trapping of savoy (crinkled) types, and attractive in fresh salads and smoothies. Unlike savoy-type spinach that requires multiple washings to remove soil from the heavily crinkled leaves, Space's smooth, upright leaves release dirt easily and drain well in salad spinners. The F1 hybrid vigor produces noticeably more uniform and productive plants than open-pollinated varieties. Space's disease resistance makes it the practical choice for zone 9 fall spinach where warm, humid conditions can destroy less resistant varieties; the resistance ratings cover multiple races of downy mildew, providing durable protection across multiple seasons.",
+    "sources": [
+      "Johnny's Selected Seeds — Space Spinach F1 Description",
+      "University of Florida IFAS Extension — Spinach Production for Florida",
+      "Louisiana State University AgCenter — Cool-Season Greens for Gulf South"
+    ]
+  },
+  {
+    "slug": "celeriac-giant-prague",
+    "common_name": "Giant Prague Celeriac",
+    "scientific_name": "Apium graveolens var. rapaceum 'Giant Prague'",
+    "category": "vegetable",
+    "subcategory": "celeriac",
+    "days_to_germination": {
+      "min": 14,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 110,
+      "max": 120
+    },
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -10,
+        "max": -8
+      },
+      "note": "Start seeds indoors 10–12 weeks before last frost transplant date; in zones 5–7 start in January–February and transplant in March–April. Celeriac requires a very long cool growing season of 110–120 days from transplant and cannot tolerate summer heat — zones 3–7 are ideal growing regions. Consistent moisture throughout development is critical; uneven watering produces cracked, malformed roots. Remove side shoots and small roots from the base of the developing globe to concentrate growth. In zone 9 celeriac is very challenging due to limited cool season length."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 7
+    },
+    "spacing_in": {
+      "min": 10,
+      "max": 12
+    },
+    "height_in": {
+      "min": 18,
+      "max": 24
+    },
+    "spread_in": {
+      "min": 10,
+      "max": 14
+    },
+    "sun": "full",
+    "water": "high",
+    "directions": "Plant in full sun in deep, consistently moist, very fertile, well-drained, slightly acidic to neutral soil — celeriac demands high fertility and absolutely consistent moisture throughout its long development; Giant Prague is the standard open-pollinated celeriac variety — celery root — one of the most important and widely grown vegetables in European cuisine that remains dramatically underutilized in American cooking despite its extraordinary culinary versatility. The edible part of celeriac is not a root but a swollen hypocotyl (the base of the stem) that develops into a large, round, rough-surfaced globe of dense, white flesh with an intense, concentrated celery flavor — pure celery essence without the stringy fiber or water content of celery stalks. Celeriac's culinary applications are among the most diverse of any European vegetable: raw in the classic French preparation celeriac rémoulade (grated raw celeriac in mustardy mayonnaise), pureed into silky soups and mashes as a potato alternative, roasted, braised, or added to stocks for their distinctive aromatic depth. The dense, concentrated flavor means a small amount of celeriac adds substantial impact — a quarter of a root can flavor an entire pot of soup that whole bunches of celery stalks would struggle to match.",
+    "sources": [
+      "Cornell University Cooperative Extension — Celeriac Production Guide",
+      "University of Vermont Extension — Celeriac for Northern Gardeners",
+      "Johnny's Selected Seeds — Celeriac Growing Guide"
+    ]
+  },
+  {
+    "slug": "lettuce-bronze-mignonette",
+    "common_name": "Bronze Mignonette Lettuce",
+    "scientific_name": "Lactuca sativa 'Bronze Mignonette'",
+    "category": "vegetable",
+    "subcategory": "lettuce",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 45,
+      "max": 65
+    },
+    "days_to_maturity": {
+      "min": 50,
+      "max": 60
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -6,
+        "max": -3
+      },
+      "note": "Direct sow 3–6 weeks before last frost; in zone 9 sow October–February for fall through spring harvest. Bronze Mignonette is a miniature butterhead that forms small, tight heads 3–5 inches across — perfect spacing is 6–8 inches in a grid pattern for maximum production in a small space. The tight, compact heading habit makes it one of the best lettuces for containers and small patio gardens. In zone 9 it performs excellently from fall through early spring; thin sowing in partial afternoon shade extends the season. Harvest the entire small head at once or harvest as baby leaves from the outside."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 6,
+      "max": 8
+    },
+    "height_in": {
+      "min": 5,
+      "max": 8
+    },
+    "spread_in": {
+      "min": 5,
+      "max": 8
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Plant in partial shade to full sun in well-drained, fertile, slightly acidic to neutral, consistently moist soil — lettuce requires steady moisture and cool temperatures; Bronze Mignonette is a miniature French heirloom butterhead lettuce forming small, compact, dense heads with deeply bronze-tinged outer leaves grading to butter-yellow in the blanched interior — the same color pattern as a large butterhead but scaled down to a single-serving head of 3–5 inches across. The Mignonette name (French for 'small and delicate') describes both the size and the tender, buttery character of these compact heads, which provide the soft, sweet, melt-in-the-mouth texture of butterhead lettuce in a size perfectly proportioned for a single-person salad. Unlike large butterhead varieties where a single head may be too much for one meal, Bronze Mignonette heads can be harvested and eaten in one serving — a practical advantage for small households and container growers who want variety without waste. The bronze outer leaves and buttery-sweet interior flavor make Bronze Mignonette one of the most attractive and best-tasting small lettuces for kitchen garden edging, window boxes, and mixed salad plantings.",
+    "sources": [
+      "Seed Savers Exchange — Bronze Mignonette French Heirloom Lettuce",
+      "Cornell University Cooperative Extension — Butterhead Lettuce Varieties",
+      "University of Florida IFAS Extension — Lettuce Production for Florida"
+    ]
+  },
+  {
+    "slug": "tithonia-torch",
+    "common_name": "Torch Mexican Sunflower",
+    "scientific_name": "Tithonia rotundifolia 'Torch'",
+    "category": "flower",
+    "subcategory": "tithonia",
+    "days_to_germination": {
+      "min": 5,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 70,
+      "max": 90
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Direct sow after last frost when soil is warm; in zone 9 plant March–May. Torch is a tall variety (4–6 feet) that blooms from midsummer through fall frost — the long season of vivid orange flowers makes it outstanding for back-of-border use in zone 9's summer gardens. Cut flowers require careful handling — the hollow stems can be sealed by searing the cut end in boiling water immediately after cutting to extend vase life to 5–7 days. Pinch seedlings at 12 inches to encourage branching. Plants may require staking in windy locations due to the tall stems."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 48,
+      "max": 72
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant in full sun in well-drained, lean to moderately fertile, neutral soil — Mexican sunflower thrives in poor soil and blooms better with less fertilizer; Torch is an All-America Selections award-winning Mexican sunflower cultivar selected for its intense, saturated, vivid orange-vermilion flowers — a color so vivid and warm that it reads as almost electric in summer garden displays. Tithonia rotundifolia (Mexican sunflower) is native to Mexico and Central America and is perfectly adapted to the kind of relentless summer heat that defeats many ornamentals — it genuinely thrives in zone 9's brutally hot summer months, growing rapidly and blooming prolifically precisely when most cool-season flowers have long since burned out. The large, 3-inch daisy flowers on long, sturdy, slightly fuzzy stems attract monarch butterflies, swallowtails, and bumblebees in remarkable numbers, making Torch one of the most effective butterfly plants for summer garden use. The sheer height (4–6 feet) and continuous production of vivid orange blooms from July through frost makes Torch visually commanding in any summer garden, and the cut flowers bring a tropical warmth to arrangements.",
+    "sources": [
+      "All-America Selections — Tithonia Torch Award",
+      "University of Florida IFAS Extension — Annual Flowers for Full Sun",
+      "Lady Bird Johnson Wildflower Center — Tithonia rotundifolia"
+    ]
+  },
+  {
+    "slug": "satsuma-owari",
+    "common_name": "Owari Satsuma Mandarin",
+    "scientific_name": "Citrus unshiu 'Owari'",
+    "category": "fruit",
+    "subcategory": "citrus",
+    "days_to_germination": {
+      "min": 14,
+      "max": 28
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 1095,
+      "max": 1460
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 8
+      },
+      "note": "Plant container-grown trees in spring after all frost danger has passed; in zone 9 plant February–April or September–October. Owari Satsuma is the most cold-hardy mandarin and one of the most cold-hardy of all citrus — tolerating temperatures down to about 15°F for brief periods when fully dormant and acclimated, significantly hardier than navel oranges or other citrus. Trees produce their first significant harvest 3–4 years after planting and reach full production in 5–7 years. Fruit ripens October–December, earlier than most citrus, providing fresh citrus before other varieties are ready. Protect young trees with frost cloth for the first 2–3 winters."
+    },
+    "usda_zones": {
+      "min": 8,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 96,
+      "max": 144
+    },
+    "height_in": {
+      "min": 72,
+      "max": 120
+    },
+    "spread_in": {
+      "min": 84,
+      "max": 120
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in full sun in well-drained, slightly acidic to neutral, fertile, sandy loam soil — satsuma mandarins require excellent drainage and regular deep watering during the growing season; Owari Satsuma is the most widely grown mandarin in the Gulf Coast region and one of the best-adapted citrus for zones 8–9 where its exceptional cold hardiness (among the hardiest of all edible citrus) allows reliable production in climates that would damage other mandarin varieties. The medium-sized, flattened-globe fruits with loose, easily peeled orange skin and nearly seedless, exceptionally sweet, aromatic flesh begin ripening in October — well before navel oranges and most other citrus — providing fresh homegrown citrus through December from a single, low-maintenance tree. The loose peel (puffy skin that separates easily from the fruit segments) makes Satsumas the easiest-to-eat citrus variety for fresh consumption, requiring no knife and no mess — a significant practical advantage over oranges and grapefruits. Owari Satsuma's cold hardiness has made it the standard citrus for the Gulf South, where it is grown commercially in Louisiana and Texas as well as throughout zone 9 home gardens.",
+    "sources": [
+      "Louisiana State University AgCenter — Satsuma Orange Production",
+      "University of Florida IFAS Extension — Satsuma Mandarin for Florida",
+      "Texas A&M AgriLife Extension — Citrus for Gulf Coast Texas"
+    ]
+  }
+]

@@ -1,0 +1,277 @@
+[
+  {
+    "slug": "rezista-lettuce",
+    "common_name": "Rezista Lettuce",
+    "scientific_name": "Lactuca sativa 'Rezista'",
+    "category": "vegetable",
+    "subcategory": "leafy green",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 40,
+      "max": 72
+    },
+    "days_to_maturity": {
+      "min": 55,
+      "max": 65
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": 2
+      },
+      "note": "Direct sow in spring or fall; in zone 9 sow January–March for spring or September–October for fall. Rezista's primary value is extreme heat tolerance that allows it to produce harvestable lettuce through zone 9 warm springs when standard varieties have bolted. Provide shade cloth (30%) in late spring to extend the season further."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 8,
+      "max": 12
+    },
+    "height_in": {
+      "min": 8,
+      "max": 12
+    },
+    "spread_in": {
+      "min": 8,
+      "max": 14
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Direct sow or transplant in partial shade to full sun in moist, fertile, well-drained soil; Rezista is a heat-tolerant, slow-bolting European butterhead lettuce selected specifically for warm-climate production — it remains productive 2–3 weeks longer than standard butterhead varieties under heat stress before bolting, providing a meaningfully extended spring harvest window in zone 9 and making it one of the most useful warm-season lettuces for Gulf Coast gardeners. The medium-sized butterhead heads have soft, mild, tender leaves typical of the butterhead type, with a flavor and texture that are difficult to distinguish from standard butterhead when grown in cool weather. Rezista's key value is in the warm-spring transition period (March–May in zone 9) when most lettuces have given up but cool-season crops are still preferred over summer alternatives. Partial shade from established transplants or shade cloth reduces heat stress further during this critical period. Successive sowings every 3 weeks through winter maximize the productive season.",
+    "sources": [
+      "Territorial Seed Company — Rezista Butterhead Lettuce",
+      "University of California Cooperative Extension — Heat-Tolerant Lettuce Varieties",
+      "Johnny's Selected Seeds — Warm-Season Lettuce Performance"
+    ]
+  },
+  {
+    "slug": "tres-fine-endive",
+    "common_name": "Tres Fine Endive",
+    "scientific_name": "Cichorium endivia 'Tres Fine'",
+    "category": "vegetable",
+    "subcategory": "chicory",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 45,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 55,
+      "max": 70
+    },
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {
+        "min": -14,
+        "max": -10
+      },
+      "note": "Start indoors 3–4 weeks before transplant; in zone 9 transplant September–October. Tres Fine is the most finely cut of the frisee endive types, with leaf cutting so delicate it resembles ornamental moss — making it the premium choice for restaurant-quality frisee presentations. In zone 9 fall planting from September transplants produces full heads by November."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 10,
+      "max": 14
+    },
+    "height_in": {
+      "min": 6,
+      "max": 10
+    },
+    "spread_in": {
+      "min": 10,
+      "max": 14
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Start indoors and transplant into fertile, well-drained soil in full sun; Tres Fine (Very Fine) is the most elegantly cut of all frisee endive varieties, producing an open, flat rosette of very finely divided, thread-like, deeply lacinated leaves with a delicate, airy, almost moss-like texture — more finely cut than standard frisee types and considered the premium grade for restaurant use. The characteristic pale yellow to cream heart forms naturally as the outer leaves shade the center; for maximum blanching, loosely tie the outer leaves 10 days before harvest. The very fine leaf cutting makes Tres Fine endive the lightest, most delicate-textured of the endive family in the salad bowl, where it provides a feathery contrast to dense leaves and holds vinaigrette dressings in the finest leaf surfaces. The flavor is gently bitter with a clean, slightly nutty edge. Tres Fine is widely used in French and Italian fine dining as the benchmark frisee for composed salads and the traditional salade lyonnaise.",
+    "sources": [
+      "Seeds of Italy — Tres Fine Endive Growing Notes",
+      "Territorial Seed Company — Fine-Cut Frisee Varieties",
+      "Cornell University Vegetable Varieties for Gardeners — Curly Endive and Frisee"
+    ]
+  },
+  {
+    "slug": "vitamin-green",
+    "common_name": "Vitamin Green",
+    "scientific_name": "Brassica rapa var. chinensis 'Vitamin Green'",
+    "category": "vegetable",
+    "subcategory": "leafy green",
+    "days_to_germination": {
+      "min": 4,
+      "max": 7
+    },
+    "germination_soil_temp_f": {
+      "min": 45,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 30,
+      "max": 45
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {
+        "min": -10,
+        "max": -6
+      },
+      "note": "Direct sow in fall or early spring; in zone 9 sow September–November for fall harvest or January–March for spring. Vitamin Green is one of the fastest-maturing Asian brassicas — baby leaves are harvestable in 20–25 days for baby green mixes. It is more heat-tolerant than most Asian brassicas and can extend into early summer in zone 9 before bolting. Successive sowings every 2 weeks provide a continuous harvest of tender young greens."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 4,
+      "max": 8
+    },
+    "height_in": {
+      "min": 6,
+      "max": 12
+    },
+    "spread_in": {
+      "min": 4,
+      "max": 8
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Direct sow thinly in partial shade to full sun in moist, fertile, well-drained soil; Vitamin Green is a non-heading Asian brassica green selected for extremely rapid growth, mild flavor, and excellent nutritional value — the name reflects its high vitamin content (particularly vitamins A, C, and K) relative to other leafy greens. The smooth, round to slightly oval, bright medium-green leaves are strikingly mild in flavor — among the mildest of all Asian brassica types, with a clean, grassy-vegetable taste more like spinach or mild bok choy than the mustardy pungency of standard Asian mustard greens. This mildness makes Vitamin Green accessible to people who find other Asian greens too strongly flavored. In the kitchen it is interchangeable with bok choy or baby spinach in virtually any preparation — stir-fries, soups, braising, steaming, and raw use in salads and baby green mixes. The combination of very rapid growth (30–45 days to full size, 20–25 days to baby green stage), mild flavor, and excellent nutritional content makes it one of the most practical cool-season greens for zone 9.",
+    "sources": [
+      "Johnny's Selected Seeds — Vitamin Green Asian Brassica",
+      "Kitazawa Seed Company — Mild Asian Greens",
+      "University of Hawaii Extension — Asian Vegetable Production Guide"
+    ]
+  },
+  {
+    "slug": "purslane-golden",
+    "common_name": "Golden Purslane",
+    "scientific_name": "Portulaca oleracea var. sativa 'Golden'",
+    "category": "vegetable",
+    "subcategory": "leafy green",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 90
+    },
+    "days_to_maturity": {
+      "min": 40,
+      "max": 55
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Direct sow in warm soil after last frost; in zone 9 plant March–May or August–September. Golden Purslane requires warm soil and warm weather to germinate and grow — do not attempt in cool conditions. It self-sows readily in zone 9 and may naturalize in garden beds; pull unwanted seedlings before they set seed. Harvest tender stem tips continuously to keep the plant producing new growth."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 6,
+      "max": 10
+    },
+    "height_in": {
+      "min": 4,
+      "max": 10
+    },
+    "spread_in": {
+      "min": 6,
+      "max": 12
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Direct sow in lean, well-drained soil in full sun — purslane thrives in the heat and poor soils that discourage other vegetables; Golden Purslane is a cultivated, golden-yellow-stemmed selection of the common wild purslane (Portulaca oleracea), developed for the edible vegetable trade and producing larger, more succulent stems and leaves than the weedy wild type. The thick, fleshy, yellow-green leaves and golden stems have a mild, slightly lemony, succulent flavor with a mucilaginous texture when raw and a spinach-like softness when cooked. Purslane is one of the highest plant sources of omega-3 fatty acids and contains significant amounts of vitamins A, C, and E — nutritionally rich in a plant that requires almost no inputs and grows vigorously in the heat that exhausts other summer vegetables. In zone 9 it is one of the most productive summer greens from May through October when the heat prevents all other leafy green production. The golden color distinguishes it from the wild weedy type and makes it more attractive in salads. Harvest young stem tips and leaves continuously; older stems become woody.",
+    "sources": [
+      "University of Georgia Extension — Purslane as an Edible Green",
+      "University of Florida IFAS Extension — Portulaca oleracea for Florida Gardens",
+      "Nichols Garden Nursery — Culinary Purslane Varieties"
+    ]
+  },
+  {
+    "slug": "malabar-spinach-albiflos",
+    "common_name": "White Malabar Spinach",
+    "scientific_name": "Basella alba 'Alba'",
+    "category": "vegetable",
+    "subcategory": "leafy green",
+    "days_to_germination": {
+      "min": 10,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 70,
+      "max": 90
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Direct sow after last frost in warm soil; in zone 9 plant March–May. Soak seeds 24 hours in warm water before sowing to speed germination. White Malabar Spinach grows best in the hottest part of summer when all other spinach has bolted — it thrives from June through September in zone 9 and is one of the most productive summer leafy greens available. Provide a trellis or fence for the vigorous vines, which can reach 10 feet or more."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 36,
+      "max": 120
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Direct sow in fertile, well-drained, consistently moist soil in full sun to partial shade; White Malabar Spinach (Basella alba 'Alba') is the green-stemmed, white-flowered form of Malabar spinach — distinct from the red-stemmed Basella rubra (Ceylon Spinach) in having entirely green stems, greener foliage, and smaller white berries. The large, thick, glossy, heart-shaped to oval leaves have the same mild, slightly mucilaginous spinach substitute quality as the red form, used raw in salads when young and tender or cooked in the same manner as spinach — sautéed, in soups, curries, and braised dishes throughout Southeast Asian, Indian, and West African cooking. The white form is favored in some cuisines where the red pigment of the red form is undesirable in finished dishes; the green stems and white berries also make it slightly more attractive as an ornamental vine for trellises and fences. In zone 9 White Malabar Spinach is the premier summer leafy green — a vigorous, heat-loving vining plant that fills the summer gap when all cool-season greens have finished and heat prevents new sowings.",
+    "sources": [
+      "University of Florida IFAS Extension — Malabar Spinach Production",
+      "Louisiana State University AgCenter — Summer Leafy Greens for the Gulf South",
+      "University of Hawaii Extension — Basella alba Growing Notes"
+    ]
+  }
+]

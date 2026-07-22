@@ -1,0 +1,277 @@
+[
+  {
+    "slug": "avocado-lula",
+    "common_name": "Lula Avocado",
+    "scientific_name": "Persea americana 'Lula'",
+    "category": "fruit",
+    "subcategory": "avocado",
+    "days_to_germination": {
+      "min": 30,
+      "max": 60
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 80
+    },
+    "days_to_maturity": {
+      "min": 1095,
+      "max": 1460
+    },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 8
+      },
+      "note": "Plant container-grown trees in spring after last frost risk; in zone 9 plant March–May. Lula is a hybrid avocado with West Indian and Guatemalan ancestry that provides moderate cold tolerance — surviving temperatures down to approximately 24–26°F when established. Plant in the warmest, most frost-protected microclimate available: south-facing walls, raised beds, and sheltered positions increase cold tolerance significantly. Young trees under 3 years are more frost-sensitive than established trees."
+    },
+    "usda_zones": {
+      "min": 9,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 180,
+      "max": 300
+    },
+    "height_in": {
+      "min": 240,
+      "max": 480
+    },
+    "spread_in": {
+      "min": 180,
+      "max": 300
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in full sun in well-drained, fertile, slightly acidic soil — avocados are extremely sensitive to root rot in poorly drained or clay soils; Lula is a historic Florida avocado cultivar developed by George Lula in Homestead, Florida in the 1920s and valued for its combination of good cold hardiness, large fruit size, and excellent fresh-eating quality. The large fruits (often 12–18 ounces) have smooth green skin that remains green when ripe — ripeness is determined by giving the fruit a gentle squeeze, not by color change. The flesh is pale yellow-green, creamy, and mild-flavored with good avocado oil content. Lula is classified as a hybrid between West Indian and Guatemalan race avocados, inheriting moderate cold tolerance from its Guatemalan genetics and fruiting reliability from its West Indian parentage. In zone 9 Lula is one of the more reliable cultivars for home production; the long, warm growing season develops the oil content that gives mature fruits their buttery richness. Cross-pollinate with a Type A avocado such as Bacon for best fruit set.",
+    "sources": [
+      "University of Florida IFAS Extension — Avocado Varieties for Florida",
+      "University of Florida Tropical Research and Education Center — Lula Avocado",
+      "California Rare Fruit Growers — Florida Avocado Cultivars"
+    ]
+  },
+  {
+    "slug": "avocado-brogdon",
+    "common_name": "Brogdon Avocado",
+    "scientific_name": "Persea americana 'Brogdon'",
+    "category": "fruit",
+    "subcategory": "avocado",
+    "days_to_germination": {
+      "min": 30,
+      "max": 60
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 80
+    },
+    "days_to_maturity": {
+      "min": 1095,
+      "max": 1460
+    },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 8
+      },
+      "note": "Plant container-grown trees in spring after frost risk; in zone 9 plant March–May. Brogdon is one of the most cold-tolerant named avocado cultivars, surviving temperatures as low as 22–24°F — making it viable in zone 9a and the warmer parts of zone 8b with microclimate protection. The dark purple-black skin color that develops at full ripeness is not present in all stages of maturity; harvest based on days from flowering rather than color alone."
+    },
+    "usda_zones": {
+      "min": 8,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 180,
+      "max": 300
+    },
+    "height_in": {
+      "min": 240,
+      "max": 480
+    },
+    "spread_in": {
+      "min": 180,
+      "max": 300
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in full sun in very well-drained, fertile, slightly acidic soil — root rot in heavy wet soils is the primary avocado killer and is not recoverable; Brogdon is a Florida-developed avocado cultivar prized as one of the most cold-hardy named avocado varieties, making it the top choice for gardeners in zone 9a and the warmer parts of zone 8b who want to grow avocados at the northern edge of their hardiness range. The medium-to-large fruits develop deep purple-black skin when ripe — the color change from green to dark purple indicates increasing maturity, but fruits may be harvested slightly early and ripened indoors. The flesh is creamy, rich, and flavorful with excellent avocado oil content. Brogdon has Guatemalan race genetics that contribute its cold hardiness — Guatemalan race avocados are considerably more cold-tolerant than West Indian race types and can survive light frosts. In zone 9 Brogdon is one of the few avocado varieties that can survive the occasional subfreezing nights that occur during cold winters, making it the recommended variety for the most frost-challenged avocado planting sites.",
+    "sources": [
+      "University of Florida IFAS Extension — Cold-Hardy Avocado Cultivars",
+      "Texas A&M AgriLife Extension — Avocado Production in South Texas",
+      "Louisiana State University AgCenter — Brogdon Avocado"
+    ]
+  },
+  {
+    "slug": "bonita-sweet-potato",
+    "common_name": "Bonita Sweet Potato",
+    "scientific_name": "Ipomoea batatas 'Bonita'",
+    "category": "vegetable",
+    "subcategory": "sweet potato",
+    "days_to_germination": {
+      "min": 14,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 80
+    },
+    "days_to_maturity": {
+      "min": 100,
+      "max": 120
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 6
+      },
+      "note": "Plant slips (rooted stem cuttings) after soil has warmed to 65°F and all frost danger has passed; in zone 9 plant April–June. Bonita is adapted to the Gulf Coast's hot, humid summer conditions and produces reliably even in the high-heat periods of July–August when some varieties reduce tuber set. Harvest when vines begin to yellow and die back, or after 100 days. In zone 9 a second planting in late July can produce a fall harvest."
+    },
+    "usda_zones": {
+      "min": 8,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 12,
+      "max": 18
+    },
+    "spread_in": {
+      "min": 36,
+      "max": 60
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in full sun in loose, well-drained, slightly acidic, sandy to sandy-loam soil — sweet potatoes do not tolerate waterlogged or compacted soil; Bonita is a white-fleshed sweet potato released by the Louisiana State University AgCenter specifically for Gulf Coast production conditions, selected for its firm, dry, mildly sweet flesh that is used as a staple starchy vegetable rather than as a dessert-sweet orange-fleshed type. The large, oblong, tan-skinned tubers have creamy white flesh with a dry, starchy texture more similar to a dry-type white potato than to the moist, orange Beauregard type — making Bonita suitable for soups, stews, fried preparations, and the Latin American-style cooking (boniato) where a dry, non-sweet white sweet potato is traditional. The vine shows good heat and humidity tolerance and is specifically tested for performance in the Gulf South's challenging summer conditions. Bonita is popular in Louisiana and Gulf Coast markets catering to Caribbean and Latin American culinary traditions.",
+    "sources": [
+      "Louisiana State University AgCenter — Bonita Sweet Potato Release",
+      "University of Florida IFAS Extension — White-Fleshed Sweet Potato Varieties",
+      "Texas A&M AgriLife Extension — Gulf Coast Sweet Potato Production"
+    ]
+  },
+  {
+    "slug": "turmeric-mango",
+    "common_name": "Mango Turmeric",
+    "scientific_name": "Curcuma amada",
+    "category": "herb",
+    "subcategory": "turmeric",
+    "days_to_germination": {
+      "min": 21,
+      "max": 45
+    },
+    "germination_soil_temp_f": {
+      "min": 68,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 180,
+      "max": 270
+    },
+    "maturity_from": "transplant",
+    "sow_method": "tuber",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 6
+      },
+      "note": "Plant rhizome divisions in spring when soil temperature reaches 68°F; in zone 9 plant March–May. Mango turmeric thrives in partial shade and performs well under the dappled light of tall trees or on the east side of structures. Harvest rhizomes in late fall when the foliage yellows and dies back, typically October–November in zone 9. In zone 9 the rhizomes can overwinter in the ground with heavy mulching."
+    },
+    "usda_zones": {
+      "min": 8,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 24,
+      "max": 48
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 30
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Plant in partial shade to full sun in rich, well-drained, moist, humus-rich soil; Mango Turmeric (Curcuma amada) is an Indian ginger-family plant producing rhizomes with a pronounced raw mango aroma and flavor when cut — distinctly different from the warm, earthy, peppery flavor of regular turmeric (Curcuma longa). When the fresh rhizomes are sliced, they release a strongly fruity, tropical aroma with pronounced mango-citrus notes, making them a completely different culinary ingredient from turmeric despite their similar appearance. In Indian cuisine, Mango Turmeric rhizomes are used primarily as a pickle vegetable — sliced and preserved in salt, lemon juice, or vinegar where the bright mango flavor develops into a tart-fruity preserve used as a condiment. The plant is also used in Ayurvedic medicine (called Ambi Haladi in Sanskrit) for its anti-inflammatory and digestive properties. The attractive flowering tropical foliage with large, paddle-shaped leaves adds ornamental value to partially shaded garden areas in zone 9.",
+    "sources": [
+      "University of Florida IFAS Extension — Tropical Ginger Family Crops",
+      "Louisiana State University AgCenter — Tropical Rhizomes for Gulf Coast",
+      "American Journal of Food Science — Curcuma amada Phytochemistry"
+    ]
+  },
+  {
+    "slug": "pepper-bishop-crown",
+    "common_name": "Bishop Crown Pepper",
+    "scientific_name": "Capsicum baccatum 'Bishop Crown'",
+    "category": "vegetable",
+    "subcategory": "pepper",
+    "days_to_germination": {
+      "min": 10,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 75,
+      "max": 90
+    },
+    "days_to_maturity": {
+      "min": 80,
+      "max": 100
+    },
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -6
+      },
+      "note": "Start seeds indoors 6–8 weeks before last frost; transplant after soil warms and frost risk has passed. In zone 9 start in January–February and transplant March–April. Bishop Crown behaves as a perennial in zone 9 and 10 — cut back to 6–12 inches in late winter and the woody base will regrow vigorously, producing earlier and more heavily than first-year plants. Mature perennial plants can reach 4–5 feet tall."
+    },
+    "usda_zones": {
+      "min": 8,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 36,
+      "max": 60
+    },
+    "spread_in": {
+      "min": 24,
+      "max": 36
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in full sun in well-drained, fertile, slightly acidic soil; Bishop Crown is a South American aji pepper (Capsicum baccatum) with an extraordinary, immediately recognizable shape — a round, slightly flattened main body like a small bell pepper, with 3 or 4 small, prominent, finger-like lobes hanging from the bottom equator like a bishop's miter or crown. This unusual shape (also sold as 'Chapeau de Frade' or 'Balloon Pepper') is unique among peppers and makes it instantly identifiable at markets and in the garden. The flavor is fruity, slightly sweet, and aromatic — mild to medium-hot (5,000–10,000 Scoville) with the distinctive citrusy, tropical fruitiness characteristic of Capsicum baccatum. The thick, crisp walls make it excellent for fresh eating and stuffing — the hollow interior and large body are well-suited to filling with cheese, meat, or grains. The bright red color at full ripeness is vivid and attractive. In zone 9 the perennial habit allows Bishop Crown plants to develop into productive multi-year specimens.",
+    "sources": [
+      "New Mexico State University Chile Pepper Institute — Capsicum baccatum Cultivars",
+      "University of California Cooperative Extension — Specialty Pepper Production",
+      "Pepper Research Review — Bishop Crown Morphology and Heat Levels"
+    ]
+  }
+]

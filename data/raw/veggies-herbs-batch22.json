@@ -1,0 +1,277 @@
+[
+  {
+    "slug": "licorice-basil",
+    "common_name": "Licorice Basil",
+    "scientific_name": "Ocimum basilicum 'Licorice'",
+    "category": "herb",
+    "subcategory": "culinary herb",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 80
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -2,
+        "max": 2
+      },
+      "note": "Start indoors 4 weeks early or direct sow after last frost; in zone 9 sow February–March for spring and August for fall. Licorice basil's anise oils are most concentrated when the plant is slightly stressed from heat — zone 9 summer conditions bring out the best aroma. Pinch flower heads regularly to maintain leaf production and oil concentration."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 18,
+      "max": 30
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 18
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Transplant or direct sow in fertile, well-drained soil in full sun with consistent moisture; licorice basil is a large-leaf sweet basil cultivar with an extraordinarily intense anise-licorice aroma — significantly more pronounced than standard Genovese basil — arising from exceptionally high methyl chavicol (estragole) concentration in the essential oil. The wide, dark green, slightly cupped leaves are 2–3 inches long with purple-tinged flower bracts that make the plant quite ornamental when in bloom. Licorice basil is prized for Thai-inspired cooking, Vietnamese-style salads, and beverages where a prominent anise note is desired — it is also used in cocktails, syrups, and infused vinegars. The flavor is distinctly different from Cinnamon or Thai basil types despite also containing high methyl chavicol. In zone 9 the plant performs best in spring and fall, but continues producing through summer with regular pinching and irrigation.",
+    "sources": [
+      "University of Florida IFAS Extension — Basil Essential Oil Chemistry",
+      "Purdue University NewCROP — Ocimum basilicum Cultivars",
+      "Johnny's Selected Seeds — Specialty Basil Guide"
+    ]
+  },
+  {
+    "slug": "kapoor-basil",
+    "common_name": "Kapoor Basil",
+    "scientific_name": "Ocimum basilicum 'Kapoor'",
+    "category": "herb",
+    "subcategory": "culinary herb",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 50,
+      "max": 70
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -2,
+        "max": 2
+      },
+      "note": "Start indoors 4 weeks early or direct sow after last frost; in zone 9 sow February–March for spring and August for fall. Kapoor is heat-tolerant and well-adapted to Indian-subtropical growing conditions that resemble the Gulf Coast climate, making it one of the better basil varieties for sustained summer production in zone 9."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 18,
+      "max": 30
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 18
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Direct sow or transplant in fertile, well-drained soil in full sun; Kapoor is a compact Indian sweet basil cultivar selected for high essential oil content and strong clove-camphor aroma with a distinctive spicy note absent from European Genovese varieties. The small-to-medium dark green leaves have a more robust, pungent flavor than Genovese basil and are used extensively in Indian cooking — in chutneys, raitas, and as a fresh herb added to dals and curries. Kapoor's compact habit and heat tolerance make it particularly suitable for year-round indoor container growing and for outdoor herb gardens in subtropical zone 9 where it often survives mild winters as a short-lived perennial. The slightly camphoraceous aroma also has medicinal uses in Ayurvedic tradition, closely related to but distinct from true holy basil (tulsi).",
+    "sources": [
+      "Purdue University NewCROP — Ocimum basilicum var. thyrsiflorum",
+      "Indian Council of Agricultural Research — Sweet Basil Varieties",
+      "University of Florida IFAS Extension — Subtropical Herb Production"
+    ]
+  },
+  {
+    "slug": "millionaire-japanese-eggplant",
+    "common_name": "Millionaire Japanese Eggplant",
+    "scientific_name": "Solanum melongena 'Millionaire'",
+    "category": "vegetable",
+    "subcategory": "eggplant",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 75,
+      "max": 90
+    },
+    "days_to_maturity": {
+      "min": 55,
+      "max": 65
+    },
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -6
+      },
+      "note": "Start indoors 8–10 weeks before last frost; eggplant requires sustained warmth and benefits from bottom heat during germination. In zone 9 transplant February–March for a long growing season through October–November. Millionaire thrives in summer heat and continues setting fruit when cooler-season crops fail."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 30,
+      "max": 48
+    },
+    "spread_in": {
+      "min": 24,
+      "max": 30
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Transplant into fertile, well-drained soil in full sun; Millionaire is a Japanese-type hybrid eggplant producing long (8–10 inch), slender, deep purple-black fruits of exceptional quality and high yields — the name reflects its extraordinary productivity under good growing conditions. The thin, tender skin and nearly seedless, non-bitter flesh make it ideal for slicing, stir-frying, and grilling without peeling or salting. It is a high-yield variety developed in Japan and widely grown in zone 9 commercial and home gardens for the Southern Asian food market. The plants are vigorous and productive from summer through fall, with fruit set continuing reliably even in the peak heat of Gulf Coast summers. Harvest when skin is deep purple and glossy at 6–8 inches — fruits become seedy and bitter if allowed to grow to full size.",
+    "sources": [
+      "Sakata Seed Company — Millionaire Japanese Eggplant",
+      "University of Florida IFAS Extension — Eggplant Varieties",
+      "Texas A&M AgriLife Extension — Asian Eggplant Production"
+    ]
+  },
+  {
+    "slug": "gigante-tomatillo",
+    "common_name": "Gigante Tomatillo",
+    "scientific_name": "Physalis philadelphica 'Gigante'",
+    "category": "vegetable",
+    "subcategory": "tomatillo",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 80,
+      "max": 100
+    },
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -6,
+        "max": -4
+      },
+      "note": "Start indoors 6 weeks before last frost; transplant in zone 9 February–March. Tomatillos require two plants for cross-pollination and fruit set; always plant at least two plants regardless of variety. Gigante produces the largest fruits of commonly available tomatillo varieties, making it the choice for recipes requiring large quantities of salsa verde with minimal prep work."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 24,
+      "max": 36
+    },
+    "height_in": {
+      "min": 36,
+      "max": 60
+    },
+    "spread_in": {
+      "min": 24,
+      "max": 36
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Transplant into fertile, well-drained soil in full sun; Gigante (also called Grande) tomatillo is a large-fruited Mexican selection producing fruits 2–3 inches in diameter, substantially larger than the standard tomatillo — each fruit can weigh 3–4 ounces, compared to 1–2 ounces for standard types. The large fruit size dramatically reduces the number of fruits needed per batch of salsa verde and makes individual-fruit processing (husking, cleaning) more efficient. The flavor is bright, mildly tart, and herbal — characteristic of the tomatillo — without the papery, husked fruit becoming bitter at full size. Harvest when husks begin to split and feel papery but before they yellow significantly. Plant at least two individuals for cross-pollination, which is essential for good fruit set. Plants sprawl widely and may benefit from staking or support.",
+    "sources": [
+      "University of California Cooperative Extension — Tomatillo Varieties",
+      "New Mexico State University Extension — Tomatillo Production",
+      "Texas A&M AgriLife Extension — Tomatillo for Texas"
+    ]
+  },
+  {
+    "slug": "farfugium-aureomaculata",
+    "common_name": "Aureomaculata Farfugium",
+    "scientific_name": "Ligularia tussilaginea 'Aureomaculata'",
+    "category": "flower",
+    "subcategory": "shade perennial",
+    "days_to_germination": {
+      "min": 14,
+      "max": 30
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 180,
+      "max": 365
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 8
+      },
+      "note": "Plant divisions or container plants in spring or fall in part shade to full shade; Aureomaculata is fully evergreen and perennial in zone 7b–10, requiring minimal care once established. Avoid sites with reflected afternoon sun as this causes leaf scorch; deep shade under live oaks or magnolias is ideal in zone 9."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 18,
+      "max": 24
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "shade",
+    "water": "moderate",
+    "directions": "Plant in part shade to full shade in moist, rich, well-drained soil; the Aureomaculata cultivar of farfugium is the celebrated leopard plant, named for the dramatic random yellow-to-white spots splashed across the large, round, glossy green leaves — each plant is uniquely patterned, no two exactly alike. The bold, irregular spotting creates a striking tropical effect in shade gardens, contrasting dramatically with the plain green foliage of surrounding shade plants. Like the species, Aureomaculata thrives in the heat and humidity of zone 8–9 shade gardens where the more common Ligularia dentata fails — it is fully heat-tolerant once established in shade and requires only consistent moisture to perform well year-round. Bright yellow daisy flowers appear November–January, providing rare winter color. The spotted foliage is best appreciated at mid-range distances; plant where it can be viewed from garden paths.",
+    "sources": [
+      "University of Florida IFAS Extension — Farfugium Cultivars for Florida",
+      "Louisiana State University AgCenter — Shade Ornamentals for Louisiana",
+      "American Horticultural Society — Encyclopedia of Garden Plants: Farfugium"
+    ]
+  }
+]

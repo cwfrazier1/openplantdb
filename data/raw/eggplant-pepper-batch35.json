@@ -1,0 +1,277 @@
+[
+  {
+    "slug": "purple-kohlrabi",
+    "common_name": "Purple Vienna Kohlrabi",
+    "scientific_name": "Brassica oleracea var. gongylodes 'Purple Vienna'",
+    "category": "vegetable",
+    "subcategory": "brassica",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 45,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 55,
+      "max": 65
+    },
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {
+        "min": -12,
+        "max": -8
+      },
+      "note": "Start indoors 4–6 weeks before transplant; in zone 9 transplant September–October for fall and January–February for spring. Purple Vienna has slightly better heat tolerance than white-stemmed types and can hold at harvest size slightly longer without becoming pithy. Harvest when stems are 2–3 inches across for the best texture — over-mature kohlrabi become fibrous and woody regardless of variety."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 6,
+      "max": 9
+    },
+    "height_in": {
+      "min": 12,
+      "max": 18
+    },
+    "spread_in": {
+      "min": 8,
+      "max": 12
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Start indoors and transplant into fertile, well-drained, consistently moist soil in full sun; Purple Vienna Kohlrabi is the standard purple-skinned kohlrabi, identical in flavor and culture to white-stemmed types but with a striking deep purple-red skin color that makes it visually distinctive in the garden and at market. The interior flesh is white, mild, and sweet — identical to white kohlrabi in texture and taste despite the purple exterior. The purple color, from anthocyanin pigments, is present only in the skin and does not penetrate the flesh; peeled Purple Vienna looks and tastes exactly like White Vienna. The visual contrast between the purple skin and white interior makes it popular for raw preparations like kohlrabi slaws, crudités, and salads where slicing reveals the striking bicolor cross-section. In zone 9 kohlrabi is primarily a fall vegetable transplanted in September–October; it withstands light frosts and can be harvested from November through February. Remove leaves and store harvested kohlrabi in a plastic bag in the refrigerator for up to 3 weeks.",
+    "sources": [
+      "Cornell University Vegetable Varieties for Gardeners — Kohlrabi Types",
+      "University of Florida IFAS Extension — Brassica Crop Production",
+      "Johnny's Selected Seeds — Kohlrabi Variety Comparison"
+    ]
+  },
+  {
+    "slug": "richmond-green-apple-cucumber",
+    "common_name": "Richmond Green Apple Cucumber",
+    "scientific_name": "Cucumis sativus 'Richmond Green Apple'",
+    "category": "vegetable",
+    "subcategory": "cucumber",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 90
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 70
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 2
+      },
+      "note": "Direct sow after last frost in warm soil; in zone 9 plant February–March for spring and August for fall. Richmond Green Apple is harvested when the skin has turned from green to pale ivory-green with a slight yellowish tint — at this stage the flavor is at its sweetest and most apple-like. Do not allow fruits to turn fully yellow, which indicates over-maturity. The vines are vigorous and productive; provide a trellis for best air circulation."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 24,
+      "max": 60
+    },
+    "spread_in": {
+      "min": 36,
+      "max": 72
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Direct sow in fertile, well-drained soil in full sun with consistent moisture; Richmond Green Apple is an Australian heirloom cucumber producing small, round, apple-shaped fruits of 2–3 inches diameter with smooth, pale green to ivory-green skin and crisp, exceptionally sweet, very mild, lightly perfumed white flesh with minimal seeds. The round shape and pale coloration are genuinely apple-like, and the name is descriptive — the flesh has a fresh, delicate sweetness with a faint floral note unlike the somewhat vegetal flavor of standard slicing cucumbers. The skin is thin and does not require peeling; the whole fruit can be eaten like an apple or sliced into salads where its elegant shape makes for attractive presentation. Richmond Green Apple has a reputation for very low bitterness and is considered by some cucumber enthusiasts the sweetest and most refined of the heirloom cucumber types. In zone 9 it performs well in the spring and fall cucumber seasons; the small fruit size and productive vines make it excellent for container growing on a small trellis.",
+    "sources": [
+      "Baker Creek Heirloom Seeds — Australian Cucumber Varieties",
+      "Seed Savers Exchange — Apple Cucumber Types",
+      "University of Queensland Extension — Australian Heirloom Vegetable Varieties"
+    ]
+  },
+  {
+    "slug": "florida-market-eggplant",
+    "common_name": "Florida Market Eggplant",
+    "scientific_name": "Solanum melongena 'Florida Market'",
+    "category": "vegetable",
+    "subcategory": "eggplant",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 75,
+      "max": 90
+    },
+    "days_to_maturity": {
+      "min": 75,
+      "max": 85
+    },
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -6
+      },
+      "note": "Start indoors 8–10 weeks before transplant; in zone 9 start December–January and transplant February–March. Florida Market is specifically developed for Gulf Coast and Florida conditions, with superior heat tolerance and disease resistance compared to northern eggplant varieties. In zone 9 it will produce through the hot summer months when other eggplants pause; a second planting in July–August extends production into fall. Provide full sun and consistently warm soil for best production."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 24,
+      "max": 42
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Transplant into rich, well-drained soil in full sun with consistent moisture and warm soil temperatures; Florida Market is an open-pollinated eggplant variety developed specifically for production in hot, humid, disease-prone Gulf Coast and Florida conditions — it shows markedly better performance in zone 8b–11 than northern varieties selected for cool, short-season growing conditions. The large, oval to cylindrical fruits are 6–8 inches long with smooth, glossy deep purple skin and dense, firm white flesh with relatively few seeds — the classic eggplant form ideal for slicing, grilling, roasting, baba ghanoush, moussaka, and Parmesan preparations. The superior heat tolerance allows Florida Market to continue flowering and setting fruit through Gulf Coast summers when temperatures regularly exceed 95°F — a period when many northern varieties drop their flowers. Consistent irrigation is more critical than for most vegetables, as uneven moisture causes fruit development problems and bitter flesh.",
+    "sources": [
+      "University of Florida IFAS Extension — Eggplant Production in Florida",
+      "University of Georgia Extension — Eggplant Varieties for Georgia",
+      "Texas A&M AgriLife Extension — Eggplant Production for Texas"
+    ]
+  },
+  {
+    "slug": "violette-di-firenze-eggplant",
+    "common_name": "Violette di Firenze Eggplant",
+    "scientific_name": "Solanum melongena 'Violette di Firenze'",
+    "category": "vegetable",
+    "subcategory": "eggplant",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 75,
+      "max": 90
+    },
+    "days_to_maturity": {
+      "min": 78,
+      "max": 90
+    },
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -6
+      },
+      "note": "Start indoors 8–10 weeks before transplant; in zone 9 start December–January and transplant February–March. Violette di Firenze is an Italian market type that performs well in zone 9 heat. A second planting in July extends production into fall. The plants are larger and more vigorous than most eggplants; provide generous spacing and heavy staking to support the large fruits."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 24,
+      "max": 30
+    },
+    "height_in": {
+      "min": 30,
+      "max": 48
+    },
+    "spread_in": {
+      "min": 24,
+      "max": 30
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Transplant into rich, well-drained soil in full sun; Violette di Firenze (Violet of Florence) is a striking Italian heirloom eggplant from the Tuscany region, producing large, squat, round to pear-shaped fruits with distinctive lavender-to-violet skin streaked with white — a bicolor pattern that is dramatically different from the solid-purple standard eggplant. The large fruits (6–8 inches across, up to 2 pounds) have flesh that is notably sweeter, milder, and less bitter than standard globe eggplant types, with fewer seeds and a creamier texture when cooked. The Italian tradition of grilling, broiling, or pan-frying Violette di Firenze without salting (a technique used to reduce bitterness in standard eggplant) reflects the naturally mild, sweet character of this variety. The striking bicolor appearance makes it a showstopper in the garden and at market. Cut fruits at their most beautiful stage — when lavender-violet with white streaks and still firm — rather than allowing them to develop the dull, fully-mature purple that indicates over-ripeness.",
+    "sources": [
+      "Seeds of Italy — Violette di Firenze Eggplant Growing Notes",
+      "Slow Food Foundation — Tuscan Heirloom Vegetables",
+      "Baker Creek Heirloom Seeds — Italian Eggplant Varieties"
+    ]
+  },
+  {
+    "slug": "sweet-hungarian-pepper",
+    "common_name": "Sweet Hungarian Pepper",
+    "scientific_name": "Capsicum annuum 'Sweet Hungarian'",
+    "category": "vegetable",
+    "subcategory": "pepper",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 90
+    },
+    "days_to_maturity": {
+      "min": 65,
+      "max": 78
+    },
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -10,
+        "max": -8
+      },
+      "note": "Start indoors 10–12 weeks before last frost; in zone 9 start November–December and transplant February–March. Sweet Hungarian is a prolific, dependable frying pepper well-suited to zone 9 heat; the compact plants continue setting fruit through the summer heat when bell peppers often pause. A second planting in July provides fall production. Plants benefit from light afternoon shade in peak summer to prevent blossom drop."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 18,
+      "max": 30
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Transplant into rich, well-drained soil in full sun; Sweet Hungarian is a classic frying and pickling pepper producing long, tapered, light yellow-green to red fruits of 5–8 inches with thin, tender walls, very mild heat (500–1,000 SHU), and a sweet, slightly tangy flavor that makes them the preferred pepper for Hungarian paprika production, pickled peppers, stuffed peppers, and traditional frying preparations. The thin-walled, tapered fruits cook quickly without the wateriness of thick-walled bell peppers, making them excellent for sautéing whole in olive oil, frying until blistered, stuffing with rice and ground meat, or pickling in brine. The fruit color progression from yellow-green through orange to brilliant red allows harvest at multiple stages — yellow-green for crisp, mild frying, red for maximum sweetness and paprika production. In zone 9 the compact, productive plants withstand summer heat far better than bell peppers and continue producing through the warmest months.",
+    "sources": [
+      "University of California Cooperative Extension — Sweet Pepper Varieties",
+      "Seed Savers Exchange — Sweet Hungarian Pepper Heritage Variety",
+      "Texas A&M AgriLife Extension — Frying Pepper Production for Texas"
+    ]
+  }
+]

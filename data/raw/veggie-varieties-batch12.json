@@ -1,0 +1,277 @@
+[
+  {
+    "slug": "tycoon-tomato",
+    "common_name": "Tycoon Tomato",
+    "scientific_name": "Solanum lycopersicum 'Tycoon'",
+    "category": "vegetable",
+    "subcategory": "tomato",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 68,
+      "max": 76
+    },
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -6,
+        "max": -4
+      },
+      "note": "Start indoors 6 weeks before last frost; transplant in zone 9 February–March for spring production and again in early August for a fall crop. Tycoon is a heat-tolerant determinate hybrid bred specifically for the Southern United States with strong resistance to Verticillium wilt, Fusarium wilt races 1–2, and nematodes."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 24,
+      "max": 36
+    },
+    "height_in": {
+      "min": 36,
+      "max": 48
+    },
+    "spread_in": {
+      "min": 24,
+      "max": 30
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Transplant into fertile, well-drained soil with a cage or stake; Tycoon is a determinate, heat-tolerant hybrid tomato that produces concentrated harvests of large, smooth, firm red globe tomatoes averaging 10–12 ounces. Its compact determinate habit keeps the plant manageable in the garden while still delivering excellent yields suited to canning, slicing, and fresh eating. Bred for Southern growing conditions, Tycoon sets fruit reliably when temperatures climb into the upper 80s and maintains production longer than many other large-fruited varieties. Strong disease resistance package including resistance to Verticillium wilt, Fusarium wilt (races 1 and 2), and root-knot nematodes makes it especially valuable in zone 9 soils where these pathogens are widespread.",
+    "sources": [
+      "University of Florida IFAS Extension — Florida Tomato Varieties",
+      "Texas A&M AgriLife Extension — Tomato Varieties for Texas",
+      "North Carolina State Extension — Determinate Tomato Variety Trials"
+    ]
+  },
+  {
+    "slug": "sweet-hungarian-wax-pepper",
+    "common_name": "Sweet Hungarian Wax Pepper",
+    "scientific_name": "Capsicum annuum 'Sweet Hungarian Wax'",
+    "category": "vegetable",
+    "subcategory": "pepper",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 65,
+      "max": 75
+    },
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -6
+      },
+      "note": "Start indoors 8 weeks before last frost; transplant in zone 9 February–March after nights stay above 55°F. Sweet Hungarian Wax is productive through Gulf Coast summers and handles high humidity well, producing heavily from June through October with regular fertilization."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 18,
+      "max": 24
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Transplant into well-drained, fertile soil in full sun; Sweet Hungarian Wax is the mild counterpart to the hot banana pepper — a waxy, thick-walled, banana-shaped variety that ripens from pale yellow through orange to red and carries virtually no heat (0–500 SHU). The sweet, crisp, 5–7 inch fruits are outstanding for pickling, fresh eating, roasting, and stuffing, and their attractive color progression makes them ornamental on the plant. Harvest at yellow to orange stage for the sweetest, mildest flavor; the fully red fruits are slightly sweeter but softer. This variety is particularly valued for pickling operations as the thick walls hold their crunch through the canning process. Plants are compact and tidy, ideal for raised beds and container growing.",
+    "sources": [
+      "University of Florida IFAS Extension — Pepper Varieties for Florida",
+      "Cornell University Vegetable Varieties for Gardeners — Hungarian Wax",
+      "Johnny's Selected Seeds — Wax Pepper Types"
+    ]
+  },
+  {
+    "slug": "hill-country-red-okra",
+    "common_name": "Hill Country Heirloom Red Okra",
+    "scientific_name": "Abelmoschus esculentus 'Hill Country Heirloom Red'",
+    "category": "vegetable",
+    "subcategory": "okra",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 95
+    },
+    "days_to_maturity": {
+      "min": 55,
+      "max": 65
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 2
+      },
+      "note": "Direct sow after last frost when soil is above 65°F; in zone 9 plant March–July. Hill Country Heirloom Red is a Texas heirloom variety adapted to deep summer heat and limestone-influenced soils, producing earlier and more prolifically than most standard green okra varieties under Central Texas and Gulf Coast conditions."
+    },
+    "usda_zones": {
+      "min": 6,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 48,
+      "max": 72
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Direct sow 1 inch deep in full sun in any well-drained soil; Hill Country Heirloom Red is a striking Texas heirloom okra with deep burgundy-red pods, stems, and leaf veins that make it as ornamental as it is productive. The pods are smooth with 5 ridges and should be harvested at 3–4 inches for peak tenderness; like all okra, the pods become fibrous if left to exceed 5–6 inches. The red pigmentation fades to green when cooked, similar to red-pod okra generally. Plants grow vigorously in the limestone soils and intense heat of Central Texas, where this variety has been grown by generations of families in the Hill Country region. Soaking seeds overnight in warm water before planting speeds germination. Harvest every 2–3 days in summer.",
+    "sources": [
+      "Seed Savers Exchange — Hill Country Heirloom Red Okra",
+      "Texas A&M AgriLife Extension — Okra Varieties for Texas",
+      "Southern Exposure Seed Exchange — Heirloom Okra Collection"
+    ]
+  },
+  {
+    "slug": "early-acre-pea",
+    "common_name": "Early Acre Pea",
+    "scientific_name": "Vigna unguiculata 'Early Acre'",
+    "category": "vegetable",
+    "subcategory": "legume",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 95
+    },
+    "days_to_maturity": {
+      "min": 55,
+      "max": 65
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 2
+      },
+      "note": "Direct sow after last frost when soil reaches 65°F; in zone 9 plant February–March for spring and again July–August for a fall crop. Early Acre is one of the quickest-maturing field peas available, making it valuable for both short-season production and getting a crop into the ground before summer heat peaks."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 4,
+      "max": 6
+    },
+    "height_in": {
+      "min": 16,
+      "max": 24
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 18
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Direct sow 1 inch deep in well-drained soil in full sun; Early Acre is a compact, early-maturing bush cowpea that completes its fresh-shell harvest in just 55–65 days, among the earliest of any southern pea type. The small, cream-colored seeds with a small eye have a mild, slightly sweet flavor preferred by many over the stronger-flavored crowder and black-eye types. This variety is well-adapted to the Gulf Coast's brief spring and fall shoulder seasons, fitting in a productive crop before summer extremes take hold or closing out the season after summer heat breaks. The drought tolerance of cowpeas generally extends to Early Acre, which needs minimal irrigation once established. Harvest pods while the hulls are firm and the seeds have fully plumped but before the hull begins to dry.",
+    "sources": [
+      "Louisiana State University AgCenter — Southern Pea Variety Trials",
+      "Alabama Cooperative Extension System — Southern Pea Production",
+      "Mississippi State University Extension — Field Pea Varieties"
+    ]
+  },
+  {
+    "slug": "barkers-hot-chile",
+    "common_name": "Barker's Hot New Mexico Pepper",
+    "scientific_name": "Capsicum annuum 'Barker's Hot'",
+    "category": "vegetable",
+    "subcategory": "pepper",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 78,
+      "max": 90
+    },
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -6
+      },
+      "note": "Start indoors 8 weeks before last frost; transplant after nights remain above 55°F. In zone 9 transplant February–March for a productive spring through fall season. Barker's Hot is one of the hottest New Mexico type varieties, producing 10,000–15,000 SHU, and thrives in the heat and low humidity of zone 8–9."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 24,
+      "max": 36
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Transplant into fertile, well-drained soil in full sun; Barker's Hot is a New Mexico State University-developed hot New Mexico-type chile with significantly higher heat (10,000–15,000 SHU) than standard Hatch and New Mexico No. 9 varieties, making it the choice for gardeners who want traditional New Mexico flavor with serious heat. The long, 7–8 inch fruits are produced in abundance on large, productive plants and are harvested green for roasting or left to ripen and dry red for red chile powder and ristras. Roasting mellows the heat while concentrating the flavor; roasted Barker's Hot chiles freeze well for year-round use. This variety is particularly well-suited to hot, dry climates but also performs in the humidity of zone 9 Gulf Coast with good air circulation.",
+    "sources": [
+      "New Mexico State University Chile Pepper Institute — Barker's Hot Variety",
+      "New Mexico State University Extension — Chile Pepper Variety Guide",
+      "University of Arizona Cooperative Extension — Hot Chile Pepper Production"
+    ]
+  }
+]

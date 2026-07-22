@@ -1,0 +1,277 @@
+[
+  {
+    "slug": "sweet-potato",
+    "common_name": "Sweet Potato",
+    "scientific_name": "Ipomoea batatas",
+    "category": "vegetable",
+    "subcategory": "root vegetable",
+    "days_to_germination": {
+      "min": 14,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 90,
+      "max": 120
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 4
+      },
+      "note": "Plant slips (rooted cuttings) after soil warms to at least 65°F, 2–4 weeks after last frost. In zone 9 the long warm season allows planting from April through June; the vines will persist as perennials if the ground never freezes. Start slips indoors 6 weeks before planting by suspending seed tubers half-submerged in water."
+    },
+    "usda_zones": {
+      "min": 8,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 12,
+      "max": 18
+    },
+    "spread_in": {
+      "min": 36,
+      "max": 72
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant slips in loose, well-drained, slightly sandy soil with moderate fertility — excess nitrogen produces lush vines but small tubers. Hills or raised beds 6–8 inches high improve drainage and root development; space slips 12–18 inches apart in rows 3–4 feet wide to allow vines to trail freely. Keep soil evenly moist for the first three weeks until plants establish, then reduce irrigation; the vines tolerate brief dry spells once mature. Harvest when vines begin to yellow or just before first frost by gently digging with a fork, being careful not to bruise the thin skins; cure tubers at 80–85°F with high humidity for 10–14 days to convert starches to sugars and heal surface wounds.",
+    "sources": [
+      "North Carolina State Extension — Growing Sweet Potatoes",
+      "Louisiana State University AgCenter — Sweet Potato Production",
+      "University of Florida IFAS Extension — Sweet Potato in the Florida Garden"
+    ]
+  },
+  {
+    "slug": "taro",
+    "common_name": "Taro (Dasheen)",
+    "scientific_name": "Colocasia esculenta",
+    "category": "vegetable",
+    "subcategory": "root vegetable",
+    "days_to_germination": {
+      "min": 14,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 180,
+      "max": 240
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant corms or corm tops (huli) in spring once soil reaches 70°F. In zone 9 taro can be planted from March through June and left in the ground year-round; freeze damage kills tops but established clumps resprout from corms once temperatures warm."
+    },
+    "usda_zones": {
+      "min": 8,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 36,
+      "max": 60
+    },
+    "spread_in": {
+      "min": 24,
+      "max": 48
+    },
+    "sun": "partial",
+    "water": "wet",
+    "directions": "Plant small corms or corm divisions 3–4 inches deep in rich, moisture-retentive or even boggy soil; taro thrives at pond edges and in rain gardens where most vegetables would rot. Consistent moisture is essential — allow soil to dry even slightly and leaf edges will scorch; in zone 9 summer heat, daily irrigation or standing water keeps plants vigorous. Harvest the central corm when leaves begin to yellow, typically 6–9 months after planting, and leave the smaller daughter corms in place to continue the stand. All parts must be cooked before eating as raw tissue contains calcium oxalate crystals that cause intense mouth irritation.",
+    "sources": [
+      "University of Florida IFAS Extension — Taro Production in Florida",
+      "Hawaii Cooperative Extension — Taro (Kalo) Production Guide",
+      "USDA NRCS Plants Database — Colocasia esculenta"
+    ]
+  },
+  {
+    "slug": "turmeric",
+    "common_name": "Turmeric",
+    "scientific_name": "Curcuma longa",
+    "category": "herb",
+    "subcategory": "spice/rhizome",
+    "days_to_germination": {
+      "min": 21,
+      "max": 45
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 210,
+      "max": 270
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant rhizome pieces 2–3 inches deep after soil warms to at least 65°F. In zone 9 this is typically February–April; the long frost-free season produces large rhizomes by fall. Pre-sprout indoors 4–6 weeks early to extend the growing season."
+    },
+    "usda_zones": {
+      "min": 8,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 24,
+      "max": 40
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Plant fresh or pre-sprouted rhizome segments (1–2 inches long with at least one bud) horizontally 2–3 inches deep in well-amended, well-drained soil; turmeric dislikes waterlogged conditions even though it needs consistent moisture throughout its long growing season. Partial shade is beneficial in zone 9 summers — morning sun with afternoon shade prevents leaf scorch and keeps the root zone cooler. Tops die back naturally in fall; wait until leaves are fully yellow, then dig carefully with a garden fork to avoid severing the delicate branching rhizomes. Cure harvested rhizomes at room temperature for 2 weeks before storing, or boil and dry for powder.",
+    "sources": [
+      "University of Florida IFAS Extension — Turmeric",
+      "Purdue University NewCROP — Curcuma longa",
+      "Texas A&M AgriLife Extension — Tropical Plants for Texas Gardens"
+    ]
+  },
+  {
+    "slug": "cowpea",
+    "common_name": "Cowpea (Black-Eyed Pea)",
+    "scientific_name": "Vigna unguiculata",
+    "category": "vegetable",
+    "subcategory": "legume",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 95
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 90
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 2
+      },
+      "note": "Direct sow after last frost once soil reaches 65°F; in zone 9 this is typically February–March for spring and again July–August for a fall crop. Cowpeas actually germinate fastest and produce best at soil temperatures above 70°F — they thrive in summer heat that kills most other legumes."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 6,
+      "max": 12
+    },
+    "height_in": {
+      "min": 18,
+      "max": 36
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Direct sow 1 inch deep into any well-drained soil, including poor sandy or clay soils — cowpeas fix nitrogen and improve soil fertility without added fertilizer. They are exceptionally heat and drought tolerant once established, making them the premier summer legume for the Gulf Coast and similar hot, humid climates. Harvest green-shell peas when pods are plump but skins are still soft, or leave pods to dry on the vine for dry beans. Bush types need no support; vining or half-runner types benefit from a simple trellis. Inoculate seeds with cowpea rhizobia if growing in new ground for maximum nitrogen fixation.",
+    "sources": [
+      "University of Florida IFAS Extension — Cowpeas",
+      "Texas A&M AgriLife Extension — Southern Peas",
+      "Alabama Cooperative Extension — Growing Southern Peas in the Home Garden"
+    ]
+  },
+  {
+    "slug": "malabar-spinach",
+    "common_name": "Malabar Spinach (Ceylon Spinach)",
+    "scientific_name": "Basella alba",
+    "category": "vegetable",
+    "subcategory": "leafy green",
+    "days_to_germination": {
+      "min": 10,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 50,
+      "max": 70
+    },
+    "maturity_from": "transplant",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 2
+      },
+      "note": "Sow after last frost once soil reaches 65°F; scarify the hard seed coat or soak seeds 24 hours to improve germination. In zone 9, direct sow from March through July; the vine grows fastest in summer heat when true spinach fails. In frost-free gardens it persists as a short-lived perennial."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 60,
+      "max": 120
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 24
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Train the twining vine up a trellis, fence, or arbor in enriched, moist soil; Malabar spinach flourishes in the heat and humidity that wilts true spinach, making it the go-to summer green for southern gardens. Begin harvesting leaf tips and young leaves when plants are 12 inches tall — regular harvest encourages bushy growth and delays flowering. The thick, succulent leaves have a mild flavor and slight mucilaginous texture that holds up well in stir-fries, curries, and soups; the tender tips can also be eaten raw in salads. The red-stemmed variety (Basella rubra) is equally productive and adds ornamental interest.",
+    "sources": [
+      "University of Florida IFAS Extension — Malabar Spinach",
+      "Louisiana State University AgCenter — Tropical Greens",
+      "Purdue University NewCROP — Basella alba"
+    ]
+  }
+]

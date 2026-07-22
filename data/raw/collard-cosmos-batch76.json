@@ -1,0 +1,277 @@
+[
+  {
+    "slug": "collard-georgia-southern",
+    "common_name": "Georgia Southern Collard Greens",
+    "scientific_name": "Brassica oleracea var. viridis 'Georgia Southern'",
+    "category": "vegetable",
+    "subcategory": "collard",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 50,
+      "max": 65
+    },
+    "days_to_maturity": {
+      "min": 75,
+      "max": 85
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -6,
+        "max": -3
+      },
+      "note": "Direct sow or transplant 3–6 weeks before last frost; in zone 9 sow September–February for fall through spring harvest. In zone 9 collards are best grown as a fall-through-spring crop when temperatures are cooler — frost actually improves the flavor by converting starches to sugars in the leaves. Summer heat causes bitterness and reduced quality. Georgia Southern is especially heat-tolerant compared to most collards and can be harvested in zone 9 from October through April. Harvest outer leaves as needed."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 24,
+      "max": 36
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in full sun in well-drained, fertile, slightly acidic to neutral soil; Georgia Southern is the original Southern heirloom collard variety — one of the oldest and most historically significant vegetables in American Southern cooking, with documented continuous cultivation in the southeastern United States for well over a century. The large, smooth, blue-green leaves with a prominent pale midrib are the defining collard green appearance in traditional Southern cuisine — different from the crinkled leaves of kale and the heading structure of cabbage, collards are a non-heading form of Brassica oleracea that produces large individual leaves harvest continuously from the outer portions of the plant. The slow-cooked Southern preparation — simmering collards with smoked pork (ham hock, fatback, or smoked turkey) for hours with salt and vinegar until tender — transforms the tough, slightly bitter raw leaves into silky, rich, deeply flavorful cooked greens that are a cornerstone of Southern food culture. Georgia Southern is particularly valued for its mild flavor, large leaf size, and exceptional heat tolerance that allows spring and fall production in zone 9.",
+    "sources": [
+      "Southern Exposure Seed Exchange — Georgia Southern Heirloom Collard",
+      "Seed Savers Exchange — Georgia Southern Collard History",
+      "Louisiana State University AgCenter — Collard Greens for Gulf South"
+    ]
+  },
+  {
+    "slug": "kale-red-russian",
+    "common_name": "Red Russian Kale",
+    "scientific_name": "Brassica napus 'Red Russian'",
+    "category": "vegetable",
+    "subcategory": "kale",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 45,
+      "max": 65
+    },
+    "days_to_maturity": {
+      "min": 50,
+      "max": 60
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -6,
+        "max": -3
+      },
+      "note": "Direct sow 3–6 weeks before last frost; in zone 9 sow September–February for fall through spring harvest. Red Russian is the most tender and mildest-flavored kale — young leaves harvested before 4 inches are excellent raw in salads without any massage or marinating required. In zone 9 fall planting in September–October produces beautiful leaves through the cool season; the red-purple color intensifies with cold temperatures, making fall-harvested Red Russian particularly attractive."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 18,
+      "max": 24
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 18
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Plant in full sun to partial shade in well-drained, fertile, slightly acidic to neutral soil; Red Russian Kale is widely considered the most versatile and palatable kale variety for fresh and minimally processed use — the flat, deeply indented, gray-green leaves with red-purple stems and leaf margins have a tenderness and mild sweetness that allows them to be eaten raw in salads (particularly baby leaves) without the fibrous toughness and bitterness that makes many kale varieties unpleasant uncooked. Unlike the curly kales that require extensive massage to soften for salad use, Red Russian baby leaves can be used directly in mixed green salads, smoothies, and fresh preparations. The flavor is distinctly sweeter and less bitter than curly kale, with a mild earthiness and peppery undertone that becomes even more pleasant after frost — cold temperatures convert starches to sugars, dramatically improving the sweetness of all kale but especially Red Russian. The partial shade tolerance makes Red Russian one of the better kale choices for kitchen gardens with limited full-sun space.",
+    "sources": [
+      "Cornell University Cooperative Extension — Kale Variety Trial",
+      "University of Florida IFAS Extension — Cool-Season Kale for Florida",
+      "Louisiana State University AgCenter — Kale and Collards for Gulf South"
+    ]
+  },
+  {
+    "slug": "radish-watermelon",
+    "common_name": "Watermelon Radish",
+    "scientific_name": "Raphanus sativus 'Watermelon'",
+    "category": "vegetable",
+    "subcategory": "radish",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 50,
+      "max": 65
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 70
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -6,
+        "max": -3
+      },
+      "note": "Direct sow 3–6 weeks before last frost; in zone 9 sow September–February for fall through spring harvest. Watermelon radish performs best in cool fall weather — the pink interior color is more vivid and the flavor milder in fall-grown roots than spring plantings. In zone 9 the fall planting (September–November) produces the finest quality. The large roots (2–4 inches diameter) require 60–70 days — significantly longer than small spring radishes — and develop best in cool soil with consistent moisture. Thin to 4–5 inches apart."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 4,
+      "max": 5
+    },
+    "height_in": {
+      "min": 8,
+      "max": 14
+    },
+    "spread_in": {
+      "min": 5,
+      "max": 8
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in full sun in deep, loose, well-drained, slightly acidic to neutral soil free of rocks and compaction; Watermelon Radish is a Chinese heirloom daikon-type radish producing large (golf ball to small apple sized), round roots with an unremarkable white-green exterior that opens to reveal a dramatically vivid magenta-pink interior — when sliced crosswise the cross-section closely resembles a miniature watermelon, with the pale green rind and pink-red interior creating the watermelon pattern that gives this radish its common name. The visual reveal of slicing a Watermelon Radish is one of the most surprising in the vegetable garden — the dramatic interior color makes it the most visually striking vegetable for salads, garnishes, and decorative vegetable presentations. The flavor is milder, sweeter, and less pungent than small red radishes, with only moderate spiciness and a crisp, juicy texture. The large size provides substantial raw radish slices for salads, vegetable platters, and pickled preparations. Fall-grown roots develop the most vivid pink color.",
+    "sources": [
+      "Johnny's Selected Seeds — Watermelon Radish Description",
+      "University of Wisconsin Extension — Specialty Radish Production",
+      "Cornell University Cooperative Extension — Asian Radish Varieties"
+    ]
+  },
+  {
+    "slug": "cosmo-double-click-cranberry",
+    "common_name": "Double Click Cranberry Cosmos",
+    "scientific_name": "Cosmos bipinnatus 'Double Click Cranberry'",
+    "category": "flower",
+    "subcategory": "cosmos",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 75,
+      "max": 90
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 3
+      },
+      "note": "Direct sow after last frost when soil is warm; in zone 9 plant March–May and again August for fall bloom. Double Click series cosmos blooms 75–90 days from seed — longer than single-flowered cosmos. The double flowers have significantly longer vase life than single cosmos; harvest as buds begin to open for 7–10 days of cut flower enjoyment. In zone 9 successive sowings 4–6 weeks apart through spring extend the productive season."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 36,
+      "max": 48
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 18
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant in full sun in well-drained, lean to moderately fertile, neutral soil — cosmos performs best in poor soil and actually blooms less when over-fertilized; Double Click Cranberry is a semi-double to fully double-flowered cosmos variety in a vivid deep cranberry-magenta color — an unusual form for a species (Cosmos bipinnatus) that is normally only available in single-petaled form. The Double Click series from PanAmerican Seed was developed specifically to introduce double-flowered forms to the cosmos genus, creating lush, full, pompom-like flower heads that look more like a small chrysanthemum or dahlia than the familiar daisy form of standard cosmos. The deep cranberry color paired with the full, multi-petaled form makes Double Click Cranberry one of the most distinctive cosmos varieties for cut flower production and ornamental garden use. Like all cosmos, it is extremely heat-tolerant and drought-resistant once established — a remarkable low-maintenance annual that produces continuously from first bloom until frost.",
+    "sources": [
+      "All-America Selections — Double Click Cosmos Award",
+      "PanAmerican Seed — Double Click Cosmos Series Introduction",
+      "University of Florida IFAS Extension — Annual Flowers for Full Sun"
+    ]
+  },
+  {
+    "slug": "sage-purple",
+    "common_name": "Purple Sage",
+    "scientific_name": "Salvia officinalis 'Purpurea'",
+    "category": "herb",
+    "subcategory": "sage",
+    "days_to_germination": {
+      "min": 14,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 90,
+      "max": 180
+    },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 6
+      },
+      "note": "Plant rooted cuttings or container-grown plants in spring; in zone 9 plant February–April or September–October. Purple Sage performs as a perennial in zones 5–8 but may decline after 2–3 years in zone 9 heat and humidity — treat as a short-lived perennial or replant every few years from cuttings. Cut plants back by one-third in early spring and again after the main flush of spring bloom to maintain compact shape and prevent woodiness. Excellent drainage is essential in zone 9."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 18,
+      "max": 24
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant in full sun in very well-drained, lean, slightly alkaline to neutral soil — culinary sage rots in heavy, wet soils; Purple Sage is a cultivar of common culinary sage (Salvia officinalis) selected for its ornamental foliage — the leaves are a soft, velvety purple-gray rather than the standard gray-green, creating a striking two-tone ornamental effect when the plant is in growth. The culinary flavor and fragrance are identical to standard sage — the same warm, resinous, camphor-and-pine aroma and savory flavor used in Thanksgiving stuffing, sage butter for pasta, sausage seasoning, and Italian cooking — making Purple Sage a practical dual-use plant where ornamental value complements culinary function. The lavender-blue flowers in spring (April–May) add a third color to the already-attractive plant, and both the flowers and the purple-gray foliage are used in dried wreaths, herbal sachets, and potpourri. Purple Sage retains the same beneficial compounds as common sage (ursolic acid, rosmarinic acid, thujone) used medicinally for generations.",
+    "sources": [
+      "University of Vermont Extension — Culinary Sage Cultivars",
+      "Texas A&M AgriLife Extension — Ornamental Herbs for Texas",
+      "University of Florida IFAS Extension — Sage for Florida Herb Gardens"
+    ]
+  }
+]

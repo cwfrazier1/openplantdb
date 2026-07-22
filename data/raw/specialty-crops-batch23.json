@@ -1,0 +1,277 @@
+[
+  {
+    "slug": "star-southern-highbush-blueberry",
+    "common_name": "Star Southern Highbush Blueberry",
+    "scientific_name": "Vaccinium corymbosum 'Star'",
+    "category": "berry",
+    "subcategory": "blueberry",
+    "days_to_germination": {
+      "min": 30,
+      "max": 60
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 1095,
+      "max": 1460
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": 4
+      },
+      "note": "Plant container-grown shrubs in late winter to early spring; in zone 8–9 plant December–February for best establishment before summer heat. Star is one of the lowest-chill southern highbush blueberries (approximately 200 hours), making it highly reliable across zone 8–9 and into zone 10a. Self-fertile but production improves with a nearby SHB cross-pollinator such as Sharpblue, O'Neal, or Misty."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 60,
+      "max": 72
+    },
+    "height_in": {
+      "min": 48,
+      "max": 72
+    },
+    "spread_in": {
+      "min": 48,
+      "max": 60
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in acidic (pH 4.5–5.5), well-drained soil amended with pine bark or peat in full sun; Star is a University of Florida/IFAS-released southern highbush blueberry selected specifically for very low chilling requirements (approximately 200 hours below 45°F), making it one of the best choices for zone 8–9 gardens where chilling is variable from year to year. The large, firm, excellent-flavored berries ripen in May–June in most Gulf Coast plantings, earlier than rabbiteye varieties and with superior berry size and flavor. Unlike rabbiteye blueberries, Star is self-fertile and will produce a reasonable crop without a cross-pollinator, though yields are maximized with one nearby. The more compact, upright habit (4–6 feet tall versus 8–10 feet for mature rabbiteye) makes Star better suited to smaller gardens and container plantings. Maintain consistent moisture through the production season, as SHB types are more sensitive to drought than rabbiteye.",
+    "sources": [
+      "University of Florida IFAS Extension — Star Southern Highbush Blueberry Release",
+      "University of Georgia Extension — Southern Highbush Blueberry Cultivar Trials",
+      "Louisiana State University AgCenter — Low-Chill Blueberry Production"
+    ]
+  },
+  {
+    "slug": "purple-passion-asparagus",
+    "common_name": "Purple Passion Asparagus",
+    "scientific_name": "Asparagus officinalis 'Purple Passion'",
+    "category": "vegetable",
+    "subcategory": "perennial vegetable",
+    "days_to_germination": {
+      "min": 14,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 730,
+      "max": 1095
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": 4
+      },
+      "note": "Plant 1-year crowns in early spring as soon as the soil can be worked; in zone 8–9 plant December–February for winter establishment before spring emergence. Allow plants to establish for two full seasons without harvesting before taking a full crop in the third year. In zone 9 asparagus goes dormant in summer heat and re-emerges in fall; harvest timing differs from northern gardens and is primarily a spring vegetable."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 36,
+      "max": 60
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant 1-year crowns 6–8 inches deep in well-drained, fertile soil amended with compost in full sun; Purple Passion is a New Zealand-bred asparagus cultivar that produces vivid deep-purple spears with 25–40% higher sugar content and significantly lower fiber than standard green varieties — the purple color comes from anthocyanins concentrated in the outer tissues. The raw spears are noticeably sweeter and more tender than green asparagus and can be eaten raw in salads and crudités where the color is preserved; cooking turns the spears green as the anthocyanins break down under heat. Flavor is superior to most green varieties whether raw or cooked. Established beds are productive for 15–25 years. In zone 9 the plant benefits from a sandy, well-drained location and may require supplemental irrigation in the long, dry spring. Skip the first two seasons' harvest to allow crown development; thereafter harvest only the first 4–6 weeks of the spring flush.",
+    "sources": [
+      "Cornell University Vegetable Varieties for Gardeners — Purple Passion Asparagus",
+      "University of California Cooperative Extension — Asparagus Variety Trials",
+      "New Zealand Asparagus Council — Purple Passion Introduction"
+    ]
+  },
+  {
+    "slug": "magnolia-muscadine",
+    "common_name": "Magnolia Muscadine Grape",
+    "scientific_name": "Vitis rotundifolia 'Magnolia'",
+    "category": "berry",
+    "subcategory": "grape",
+    "days_to_germination": {
+      "min": 30,
+      "max": 60
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 1095,
+      "max": 1460
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": 4
+      },
+      "note": "Plant container-grown vines in late winter to early spring; in zone 7–9 plant December–February. Magnolia is self-fertile and does not require a separate male pollinator — unlike many muscadine varieties that carry only pistillate (female) flowers, Magnolia has perfect flowers (both male and female). Space vines 10–15 feet apart on a trellis system; the 4-arm Kniffin system is standard for muscadines in the Gulf South."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 120,
+      "max": 180
+    },
+    "height_in": {
+      "min": 240,
+      "max": 480
+    },
+    "spread_in": {
+      "min": 120,
+      "max": 180
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in full sun in any well-drained, slightly acidic to neutral soil; Magnolia is a USDA-developed self-fertile bronze muscadine grape, bearing medium to large bronze-to-copper-colored fruits with a mild, sweet flavor and thin, tender skin — one of the more elegant-tasting muscadine varieties for fresh eating, without the strongly musky, foxy character of older selections. The perfect-flowered Magnolia vine can pollinate female-only varieties like Carlos and Fry planted nearby, making it doubly useful as a multi-variety vineyard anchor. Fruits ripen in late August to September in most zone 8–9 plantings, later than some early-season varieties. The vines are vigorous and productive, typically yielding 15–20 pounds per vine at maturity. Train on a 4-wire trellis system, prune back to 2–3 buds per spur in late winter, and fertilize lightly in early spring.",
+    "sources": [
+      "USDA Agricultural Research Service — Muscadine Grape Cultivars",
+      "University of Georgia Extension — Muscadine Grape Varieties",
+      "Mississippi State University Extension — Muscadine Grape Production"
+    ]
+  },
+  {
+    "slug": "elephant-ear-coffee-cups",
+    "common_name": "Coffee Cups Elephant Ear",
+    "scientific_name": "Colocasia esculenta 'Coffee Cups'",
+    "category": "flower",
+    "subcategory": "tropical perennial",
+    "days_to_germination": {
+      "min": 14,
+      "max": 28
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 90,
+      "max": 180
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant divisions or tubers after last frost when soil is warm; in zone 8–9 plant March–April. Coffee Cups is evergreen and root-hardy in zone 8b–11; in zone 8a and colder, mulch heavily to protect tubers over winter. Prefers partial shade to shade in zone 9 where afternoon sun can scorch the large leaves; full sun is acceptable if consistent moisture is maintained."
+    },
+    "usda_zones": {
+      "min": 8,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 24,
+      "max": 36
+    },
+    "height_in": {
+      "min": 36,
+      "max": 60
+    },
+    "spread_in": {
+      "min": 24,
+      "max": 48
+    },
+    "sun": "partial",
+    "water": "high",
+    "directions": "Plant in moist, humus-rich soil in partial shade to full shade in the heat of zone 9; Coffee Cups is a distinctive Colocasia esculenta cultivar whose large, bright green leaves develop strongly upturned margins as they mature, forming a pronounced cup or bowl shape that collects and holds rainwater — creating a living water feature that attracts wildlife and provides a dramatic focal point in the garden. The cupped leaves can hold several cups of water at a time, glinting and shimmering in dappled light; the effect is most pronounced on leaves of 18 inches or larger diameter. Unlike many dramatic elephant ear varieties, Coffee Cups performs well in partial to deep shade with consistent moisture, making it one of the most useful large-leaf shade plants for zone 8–9 gardens. The plant spreads readily by stolons and clumping; divide every 2–3 years to control spread. Provide consistent moisture or even wet-soil conditions, as the plant grows naturally along streamsides and in boggy areas.",
+    "sources": [
+      "University of Florida IFAS Extension — Colocasia Cultivars for Florida",
+      "Louisiana State University AgCenter — Elephant Ear Varieties for Louisiana",
+      "North Carolina State Extension — Colocasia in Southern Gardens"
+    ]
+  },
+  {
+    "slug": "pineapple-tomatillo",
+    "common_name": "Pineapple Tomatillo",
+    "scientific_name": "Physalis ixocarpa 'Pineapple'",
+    "category": "vegetable",
+    "subcategory": "tomatillo",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 75,
+      "max": 100
+    },
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -6,
+        "max": -4
+      },
+      "note": "Start indoors 6 weeks before last frost; transplant in zone 9 February–March for spring and July for fall. Tomatillos require at least two plants from different seed sources for cross-pollination and reliable fruit set; plant Pineapple Tomatillo alongside a green-fruiting type for maximum production. The papery husk turns tan and splits as fruits mature to gold-yellow."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 24,
+      "max": 36
+    },
+    "height_in": {
+      "min": 36,
+      "max": 60
+    },
+    "spread_in": {
+      "min": 24,
+      "max": 36
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Transplant into fertile, well-drained soil in full sun; Pineapple Tomatillo is a named selection of Physalis ixocarpa that ripens to a distinctive golden-yellow rather than the standard tomatillo green, with a noticeably sweeter, more tropical flavor that includes a pineapple-like brightness absent from green-fruiting types. The medium-sized fruits, typically 1–1.5 inches in diameter, fill and split the papery husk as they ripen to gold, at which point they are at peak sweetness. The sweeter profile makes Pineapple Tomatillo less acidic than standard green tomatillos and more suitable for fresh eating out of hand, in fruit salsas, or in preparations where a less tart tomatillo flavor is desired. Standard green tomatillos provide better classic salsa verde acidity; Pineapple works best where a milder, sweeter, more unusual tomatillo experience is the goal. Like all tomatillos, plant at least two individuals for cross-pollination.",
+    "sources": [
+      "University of California Cooperative Extension — Tomatillo Specialty Varieties",
+      "Baker Creek Heirloom Seeds — Pineapple Tomatillo Variety Notes",
+      "New Mexico State University Extension — Tomatillo Cultivar Selection"
+    ]
+  }
+]

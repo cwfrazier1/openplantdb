@@ -1,0 +1,277 @@
+[
+  {
+    "slug": "carolina-gold-rice",
+    "common_name": "Carolina Gold Rice",
+    "scientific_name": "Oryza sativa 'Carolina Gold'",
+    "category": "vegetable",
+    "subcategory": "grain",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 100,
+      "max": 130
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Direct sow in flooded or consistently moist ground after last frost when soil temperature reaches 65°F; in zone 9 plant April–May for an August–October harvest. Carolina Gold can be grown in standard garden beds kept consistently moist rather than flooded, though paddy conditions give the highest yields. Expect 2–4 pounds of rough rice per 100 square feet in garden conditions."
+    },
+    "usda_zones": {
+      "min": 8,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 6,
+      "max": 9
+    },
+    "height_in": {
+      "min": 48,
+      "max": 72
+    },
+    "spread_in": {
+      "min": 6,
+      "max": 9
+    },
+    "sun": "full",
+    "water": "high",
+    "directions": "Sow seed 0.5–1 inch deep in rich, heavy, moisture-retentive soil in full sun; Carolina Gold is America's most historically significant rice variety, the first variety commercially grown in colonial South Carolina and Georgia during the 18th century, and the foundation of lowcountry cuisine including pilau, perloo, and hoppin' john. It is a long-grained, gold-hulled, aromatic variety with exceptional flavor — nutty, fragrant, and creamy when cooked — that is the standard against which all Southern rice is measured. The variety nearly disappeared after the Civil War but was revived by dedicated seed savers and is now grown by specialty mills in the Carolinas. Home gardeners can grow it in consistently moist beds without true paddies; simply keep soil saturated throughout the growing season. Harvest when seed heads droop and grain has turned golden, then thresh and process as whole-grain brown rice or hull fully.",
+    "sources": [
+      "Anson Mills — Carolina Gold Rice Heritage Grain",
+      "Clemson University Cooperative Extension — Carolina Gold Rice",
+      "University of South Carolina — Lowcountry Digital History Initiative: Rice Culture"
+    ]
+  },
+  {
+    "slug": "sea-island-red-pea",
+    "common_name": "Sea Island Red Pea",
+    "scientific_name": "Vigna unguiculata 'Sea Island Red'",
+    "category": "vegetable",
+    "subcategory": "legume",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 95
+    },
+    "days_to_maturity": {
+      "min": 80,
+      "max": 90
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 2
+      },
+      "note": "Direct sow after last frost when soil reaches 65°F; in zone 9 plant March–May for spring harvest and July–August for fall. Sea Island Red Pea is a deeply historic Gullah/Geechee heirloom preserved for generations on the sea islands of Georgia and South Carolina, recently revived as part of Southern food heritage preservation."
+    },
+    "usda_zones": {
+      "min": 6,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 4,
+      "max": 6
+    },
+    "height_in": {
+      "min": 18,
+      "max": 36
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 36
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Direct sow 1 inch deep in any well-drained soil in full sun; the Sea Island Red Pea is a semi-vining, dark-red-to-brown speckled cowpea that was the foundation of Gullah/Geechee cuisine on the sea islands of Georgia and South Carolina from the colonial period through the early 20th century. The variety served as the original ingredient in hoppin' john and purloo dishes before black-eyed peas replaced it in most recipes. It is an exceptional-flavored cowpea with earthy, rich, deeply savory notes and a dense, creamy texture when fresh-shelled that surpasses commercial black-eyed peas in the estimation of many who have tasted both. The vine habit is moderate — plants sprawl 2–3 feet and may benefit from short supports. Revived through efforts by the Anson Mills and Slow Food USA Ark of Taste programs.",
+    "sources": [
+      "Anson Mills — Sea Island Red Pea Heritage Grain",
+      "Slow Food USA Ark of Taste — Sea Island Red Pea",
+      "University of Georgia Extension — Georgia Heirloom Seeds"
+    ]
+  },
+  {
+    "slug": "scotch-bonnet-pepper",
+    "common_name": "Scotch Bonnet Pepper",
+    "scientific_name": "Capsicum chinense 'Scotch Bonnet'",
+    "category": "vegetable",
+    "subcategory": "pepper",
+    "days_to_germination": {
+      "min": 10,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 75,
+      "max": 90
+    },
+    "days_to_maturity": {
+      "min": 90,
+      "max": 120
+    },
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -10,
+        "max": -8
+      },
+      "note": "Start indoors 10 weeks before last frost; Capsicum chinense is slow to germinate and requires warm soil (80°F+) and a long growing season. In zone 9 start in January for a March transplant date. The plants thrive in the Gulf Coast's summer heat and produce prolifically through the fall; they may overwinter in protected zone 9b–10 locations."
+    },
+    "usda_zones": {
+      "min": 9,
+      "max": 12
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 24,
+      "max": 48
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 30
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Transplant into fertile, well-drained soil in full sun after soil and nights have thoroughly warmed; the Scotch bonnet is the defining pepper of Caribbean cuisine, particularly Jamaican jerk and Trinidadian cooking, with a distinctive fruity-floral heat (100,000–350,000 SHU) and a unique, tropical, almost fruity aroma that separates it from habanero despite the close botanical relationship. The small, flattened, wrinkled fruits ripen from green through yellow, orange, and red, and can be used at any ripe stage — the green stage has the most vegetal flavor while red fruits are sweetest and hottest. Unlike habaneros, genuine scotch bonnets have a more complex, sweeter aroma profile with notes of cherry and apple. The plants are tall and bushy, very productive in warm conditions, and benefit from staking as fruit clusters become heavy.",
+    "sources": [
+      "University of the West Indies — Capsicum chinense in the Caribbean",
+      "Purdue University NewCROP — Capsicum chinense",
+      "University of Florida IFAS Extension — Specialty Pepper Production"
+    ]
+  },
+  {
+    "slug": "mulato-isleno-pepper",
+    "common_name": "Mulato Isleno Pepper",
+    "scientific_name": "Capsicum annuum 'Mulato Isleno'",
+    "category": "vegetable",
+    "subcategory": "pepper",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 80,
+      "max": 100
+    },
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -6
+      },
+      "note": "Start indoors 8 weeks before last frost; transplant in zone 9 February–March. Mulato Isleno is a dried chile variety that requires the full summer season to develop and ripen; allow fruits to turn chocolate-brown on the plant before harvesting for drying. In zone 9 the long, warm growing season is ideal for this variety's development."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 24,
+      "max": 36
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Transplant into fertile, well-drained soil in full sun; Mulato Isleno is a poblano-type dried chile grown specifically for its distinctive chocolate-brown dried form rather than for fresh use — unlike the more common ancho (dried red poblano), the mulato is harvested at a later stage when fruits turn from green directly to dark brown, producing a darker, smokier, more complex dried chile with chocolate, coffee, and dried fruit undertones. It is one of the three chiles traditionally used in mole negro (with ancho and pasilla), contributing a smoky depth that neither ancho nor pasilla provides alone. Dry fully ripe, dark-brown fruits in a dehydrator or low oven for 2–4 hours until leathery and pliable. Plants are productive on fertile soil in zone 9 and tend to be tall with upright growth habit.",
+    "sources": [
+      "New Mexico State University Chile Pepper Institute — Mulato Type Chile",
+      "University of California Cooperative Extension — Dried Chile Types",
+      "Slow Food USA — Mexican Dried Chiles"
+    ]
+  },
+  {
+    "slug": "colossus-southern-pea",
+    "common_name": "Colossus Southern Pea",
+    "scientific_name": "Vigna unguiculata 'Colossus'",
+    "category": "vegetable",
+    "subcategory": "legume",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 95
+    },
+    "days_to_maturity": {
+      "min": 65,
+      "max": 75
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 2
+      },
+      "note": "Direct sow after last frost when soil reaches 65°F; in zone 9 plant March–May for spring and July–August for fall. Colossus is named for its exceptionally large seeds and long pods — it is one of the largest-seeded blackeye-type cowpeas available, making shelling more efficient than small-seeded varieties."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 4,
+      "max": 6
+    },
+    "height_in": {
+      "min": 20,
+      "max": 30
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Direct sow 1 inch deep in any well-drained soil in full sun; Colossus is a vigorous, bush-type Southern pea selected for exceptionally large seeds and long, productive pods — the big, cream-colored seeds with the characteristic black eye shell out more quickly than the smaller-seeded varieties, making it a practical choice for preserving and cooking in large quantities. Like all cowpeas, it fixes atmospheric nitrogen and thrives in the heat and humidity of Gulf Coast summers when most other legumes fail. The high yield per plant and large seed size make Colossus a commercial and home-garden standard in the Gulf Coast South, particularly for fresh-shell operations. Harvest when pods are fully plump and light green, before the hull begins to dry and yellow.",
+    "sources": [
+      "Louisiana State University AgCenter — Southern Pea Variety Trials",
+      "Texas A&M AgriLife Extension — Cowpea Production",
+      "Alabama Cooperative Extension System — Southern Peas for Alabama"
+    ]
+  }
+]

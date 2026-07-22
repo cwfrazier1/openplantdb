@@ -1,0 +1,277 @@
+[
+  {
+    "slug": "guava",
+    "common_name": "Guava",
+    "scientific_name": "Psidium guajava",
+    "category": "fruit",
+    "subcategory": "tropical fruit",
+    "days_to_germination": {
+      "min": 14,
+      "max": 28
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 730,
+      "max": 1095
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 8
+      },
+      "note": "Plant container-grown trees in spring after all frost risk passes; in zone 9 protect young trees from frost their first two winters. Guava bears fruit year-round once established in frost-free conditions, typically 2–4 years from transplant."
+    },
+    "usda_zones": {
+      "min": 9,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 120,
+      "max": 180
+    },
+    "height_in": {
+      "min": 96,
+      "max": 240
+    },
+    "spread_in": {
+      "min": 96,
+      "max": 180
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in well-drained, fertile soil in full sun; guava tolerates a wide range of soil types including sand and clay but performs poorly with standing water. Young trees are frost-sensitive — provide frost cloth when temperatures threaten to drop below 28°F; mature trees can survive brief dips to 24°F but may lose production for a season. Prune after each fruiting flush to control size and encourage new wood, which bears the heaviest crop; a light annual fertilization with a balanced citrus-type fertilizer maintains vigor. Harvest fruit when the skin transitions from bright green to pale yellow-green and the aroma becomes noticeable — guavas ripen rapidly off the tree in 2–5 days.",
+    "sources": [
+      "University of Florida IFAS Extension — Guava Growing in the Florida Home Landscape",
+      "Texas A&M AgriLife Extension — Guava",
+      "California Rare Fruit Growers — Guava Fact Sheet"
+    ]
+  },
+  {
+    "slug": "fancy-leaf-caladium",
+    "common_name": "Fancy-Leaf Caladium",
+    "scientific_name": "Caladium x hortulanum",
+    "category": "flower",
+    "subcategory": "shade tropical",
+    "days_to_germination": {
+      "min": 14,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 80
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 90
+    },
+    "maturity_from": "transplant",
+    "sow_method": "tuber",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 6
+      },
+      "note": "Plant tubers 1–2 inches deep, knobby side up, after soil reaches 70°F; in zone 9 this is typically March–May. Tubers can be left in ground year-round in zones 9–11 with winter mulch, or lifted after frost kills foliage and stored above 60°F for replanting."
+    },
+    "usda_zones": {
+      "min": 9,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 12,
+      "max": 24
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 18
+    },
+    "sun": "shade",
+    "water": "moderate",
+    "directions": "Caladiums are the quintessential tropical shade plant, producing large, paper-thin leaves in spectacular combinations of red, pink, white, and green that brighten dark beds and containers through the summer heat. Plant tubers shallowly in loose, humus-rich, well-drained soil under trees or on the north side of structures where they receive bright indirect light or dappled morning sun; direct afternoon sun bleaches and scorches the leaves. Keep soil evenly moist but never waterlogged — the tubers rot readily in standing water. In zone 9 the long warm season produces lush foliage from May through October; reduce watering as leaves yellow in fall and allow tubers to go dormant in place with a layer of mulch.",
+    "sources": [
+      "University of Florida IFAS Extension — Caladiums for Florida",
+      "Texas A&M AgriLife Extension — Caladium",
+      "American Caladium Growers Association"
+    ]
+  },
+  {
+    "slug": "tulsi",
+    "common_name": "Tulsi (Holy Basil)",
+    "scientific_name": "Ocimum tenuiflorum",
+    "category": "herb",
+    "subcategory": "sacred herb",
+    "days_to_germination": {
+      "min": 5,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 80
+    },
+    "days_to_maturity": {
+      "min": 50,
+      "max": 75
+    },
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -6,
+        "max": -4
+      },
+      "note": "Start seeds indoors 6 weeks before last frost; transplant after all frost risk passes and nights stay above 50°F. In zone 9 direct sow is also possible from March through July. Tulsi is a short-day plant and will bolt faster in longer days; successive sowings every 4–6 weeks extend leaf harvest."
+    },
+    "usda_zones": {
+      "min": 10,
+      "max": 12
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 18,
+      "max": 36
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 18
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Grow in fertile, well-drained soil in full sun; tulsi is more heat and humidity tolerant than sweet basil but equally frost-sensitive. Pinch flower buds as they form to prolong leaf harvest and maintain essential oil concentration in the foliage; once plants flower the leaves become more pungent and may turn slightly bitter. The clove-scented leaves are used in Indian cooking (especially in Hindu religious rituals), Ayurvedic medicine, and increasingly in Western herbal teas. In zone 9 tulsi often self-seeds, and seedlings can persist from year to year as tender perennials if protected from the rare hard frost.",
+    "sources": [
+      "Purdue University NewCROP — Ocimum tenuiflorum",
+      "University of Florida IFAS Extension — Basil in Florida",
+      "USDA Agricultural Research Service — Ocimum species"
+    ]
+  },
+  {
+    "slug": "lablab-bean",
+    "common_name": "Lablab Bean (Hyacinth Bean)",
+    "scientific_name": "Lablab purpureus",
+    "category": "cover-crop",
+    "subcategory": "warm-season legume",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 70,
+      "max": 100
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 2
+      },
+      "note": "Direct sow after last frost in warm soil; in zone 9 plant from March through July. Lablab grows vigorously as a summer cover crop and can also be trellised as an ornamental, bearing purple flowers and glossy purple-black pods that are edible when young. It fixes nitrogen and smothers weeds effectively."
+    },
+    "usda_zones": {
+      "min": 8,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 6,
+      "max": 12
+    },
+    "height_in": {
+      "min": 60,
+      "max": 120
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 36
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Direct sow seeds 1 inch deep after soil warms; lablab establishes quickly and vines aggressively — provide a strong trellis or fence for ornamental plantings, or let it sprawl as a ground cover in cover-crop beds. It tolerates heat, drought, and poor soil far better than most other legumes, making it ideal for summer cover-cropping in the Deep South where other legumes fail. Young pods and leaves are edible after cooking (raw pods contain low levels of cyanogenic glycosides), and the dried seeds are a staple pulse in Africa and South Asia. Till in at flowering for maximum green manure nitrogen contribution to the soil.",
+    "sources": [
+      "University of Florida IFAS Extension — Lablab",
+      "USDA SARE — Managing Cover Crops Profitably: Lablab",
+      "Purdue University NewCROP — Lablab purpureus"
+    ]
+  },
+  {
+    "slug": "alocasia-macrorrhiza",
+    "common_name": "Giant Taro (Upright Elephant Ear)",
+    "scientific_name": "Alocasia macrorrhiza",
+    "category": "vegetable",
+    "subcategory": "tropical foliage",
+    "days_to_germination": {
+      "min": 14,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 240,
+      "max": 365
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 6
+      },
+      "note": "Plant rhizome offsets or divisions in spring after soil warms to 65°F. In zone 9 Alocasia macrorrhiza typically suffers freeze damage to the tops in hard freezes but resprouts from the rhizome in spring; mulch heavily in winter. Established clumps can produce enormous, upward-facing leaves reaching 4–6 feet long."
+    },
+    "usda_zones": {
+      "min": 8,
+      "max": 12
+    },
+    "spacing_in": {
+      "min": 36,
+      "max": 60
+    },
+    "height_in": {
+      "min": 48,
+      "max": 180
+    },
+    "spread_in": {
+      "min": 48,
+      "max": 120
+    },
+    "sun": "partial",
+    "water": "high",
+    "directions": "Plant in deep, humus-rich, moisture-retentive soil in bright indirect light or dappled shade; unlike Colocasia (which faces its leaves downward and outward), Alocasia macrorrhiza holds its enormous leaves facing up and skyward on stout, upright petioles, creating a dramatic architectural effect in tropical gardens. The stems and corms are edible after extensive cooking in many Pacific Island and Asian cuisines, but all parts contain high levels of calcium oxalate and must be boiled for at least 45 minutes to neutralize the crystals. Water generously during the growing season and reduce irrigation in cooler months; the large leaves transpire heavily and wilting is the first sign of drought stress. Clumps spread slowly by offsets that can be separated and replanted.",
+    "sources": [
+      "University of Florida IFAS Extension — Elephant Ear",
+      "Hawaii Cooperative Extension — Alocasia",
+      "Missouri Botanical Garden Plant Finder — Alocasia macrorrhiza"
+    ]
+  }
+]

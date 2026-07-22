@@ -1,0 +1,277 @@
+[
+  {
+    "slug": "malabar-spinach-red",
+    "common_name": "Red Malabar Spinach",
+    "scientific_name": "Basella alba var. rubra",
+    "category": "vegetable",
+    "subcategory": "leaf green",
+    "days_to_germination": {
+      "min": 10,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 80
+    },
+    "days_to_maturity": {
+      "min": 70,
+      "max": 90
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 6
+      },
+      "note": "Direct sow or transplant after all frost danger has passed when soil is thoroughly warm; in zone 9 plant April–June. Red Malabar Spinach thrives in zone 9's hot, humid summers when traditional spinach bolts within weeks — it is at its most productive in conditions (heat and humidity) that make conventional cool-season greens impossible. Provide a trellis, fence, or string support — the vines reach 6–10 feet in a full season. Harvest regularly by cutting stem tips 4–6 inches long, which stimulates branching and more production."
+    },
+    "usda_zones": {
+      "min": 9,
+      "max": 12
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 72,
+      "max": 120
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Plant in partial shade to full sun in moist, well-drained, fertile soil — Red Malabar Spinach tolerates partial shade better than most warm-season vegetables and grows productively in dappled light; Red Malabar Spinach is the magenta-stemmed ornamental form of Malabar spinach (Basella), a tropical Asian climbing vine whose thick, succulent leaves and stems provide a heat-tolerant alternative to true spinach (Spinacia) for hot-summer gardens. While true spinach bolts and becomes unusably bitter within days of warm weather arriving, Red Malabar Spinach actively thrives in the heat and humidity of zone 9 summers, producing increasingly large quantities of glossy, thick, mild-flavored leaves through the entire warm season. The mild, slightly mucilaginous, neutral flavor of the leaves works well in stir-fries, soups, green smoothies, and anywhere true spinach would be used — the slight mucilage (similar to okra) actually serves as a natural thickening agent in soups and stews. The striking red-purple stems and glossy dark green leaves make the vine ornamentally attractive climbing a fence or trellis.",
+    "sources": [
+      "University of Florida IFAS Extension — Malabar Spinach for Florida Gardens",
+      "Louisiana State University AgCenter — Heat-Tolerant Greens for Gulf South",
+      "Texas A&M AgriLife Extension — Warm-Season Leafy Vegetables"
+    ]
+  },
+  {
+    "slug": "mint-mojito",
+    "common_name": "Mojito Mint",
+    "scientific_name": "Mentha x villosa 'Mojito'",
+    "category": "herb",
+    "subcategory": "mint",
+    "days_to_germination": {
+      "min": 10,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 90
+    },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": -2,
+        "max": 6
+      },
+      "note": "Plant divisions or rooted cuttings in spring or fall; in zone 9 plant year-round except in the hottest summer weeks. Like all mints, Mojito Mint spreads aggressively by underground runners — plant in containers or in beds with buried barriers to prevent it from overtaking other plants. In zone 9 Mojito Mint grows robustly in partial shade, which slows its spread slightly while maintaining leaf quality. Harvest frequently to prevent flowering; once mint flowers the leaf flavor diminishes."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 18,
+      "max": 30
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 36
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Plant in partial shade to full sun in moist, well-drained, moderately fertile soil — mint tolerates a wide range of conditions but is most productive with consistent moisture and morning sun with afternoon shade protection; Mojito Mint (also called Cuban Mint or Hierba Buena) is the specific mint variety traditionally used in Cuban mojito cocktails and throughout Latin American cuisine where the common name 'hierba buena' (good herb) refers to this distinctive spearmint type. The large, soft, round, slightly fuzzy leaves have a distinctive mint character that is milder and fruitier than standard peppermint — less cool and piercing, with sweet spearmint notes and a smooth, rounded flavor that makes it the preferred mint for beverages where a harsh mint punch would overpower the other ingredients. The mojito's balance of rum, lime, sugar, and mint depends on this softer mint character to support rather than dominate. Mojito Mint also works excellently in fresh summer drinks, desserts, herb sauces, and anywhere a gentle, approachable mint flavor is desired over the assertive cool of peppermint.",
+    "sources": [
+      "University of Florida IFAS Extension — Culinary Mints for Florida Gardens",
+      "Texas A&M AgriLife Extension — Specialty Herb Production",
+      "Purdue University Center for New Crops — Mentha Species Identification"
+    ]
+  },
+  {
+    "slug": "arugula-rocket-roquette",
+    "common_name": "Roquette Arugula",
+    "scientific_name": "Eruca vesicaria subsp. sativa 'Roquette'",
+    "category": "vegetable",
+    "subcategory": "arugula",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 45,
+      "max": 65
+    },
+    "days_to_maturity": {
+      "min": 35,
+      "max": 45
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -6,
+        "max": -3
+      },
+      "note": "Direct sow 3–6 weeks before last frost as soon as soil can be worked; in zone 9 sow October–March for fall through spring harvest. Roquette bolts quickly in warm weather — sow in succession every 2–3 weeks for continuous harvest through the cool season. In zone 9 the fall sowing in October–November produces the best quality, most flavorful crop before the plant bolts in warm spring weather. The small white flowers that appear when the plant bolts are edible with the same peppery flavor as the leaves."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 4,
+      "max": 6
+    },
+    "height_in": {
+      "min": 6,
+      "max": 12
+    },
+    "spread_in": {
+      "min": 6,
+      "max": 10
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Plant in partial shade to full sun in well-drained, moderately fertile, neutral to slightly alkaline soil; Roquette is the Italian heirloom arugula variety — the specific selection used for millennia in Italian cuisine that gave arugula its character and reputation as the quintessential Italian salad green. The deeply lobed, dark green leaves have the intense peppery, nutty, slightly bitter flavor that defines the arugula experience — more pronounced than milder modern selections. The flavor becomes sharper and more assertive as the weather warms (approaching bolting), while young winter-grown leaves are milder and more delicate. Roquette's use in Italian cooking spans from the simple classic of arugula, shaved Parmesan, and lemon in a pizza topping, to fresh salads with olive oil, to pasta dishes and antipasto plates across Italy. The small, lobed leaf shape and strong flavor make Roquette the most authentic form for Italian culinary preparations. The partial shade tolerance allows it to be grown under taller plants in a kitchen garden, extending the season slightly.",
+    "sources": [
+      "Slow Food Presidia — Italian Heritage Arugula Varieties",
+      "Cornell University Cooperative Extension — Arugula Production Guide",
+      "University of Florida IFAS Extension — Cool-Season Salad Greens"
+    ]
+  },
+  {
+    "slug": "zinnia-queen-red-lime",
+    "common_name": "Queen Red Lime Zinnia",
+    "scientific_name": "Zinnia elegans 'Queen Red Lime'",
+    "category": "flower",
+    "subcategory": "zinnia",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 80
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 70
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 3
+      },
+      "note": "Direct sow after last frost when soil is warm; in zone 9 plant March–May and again August for fall bloom. Queen Red Lime is a large-flowered (3–4 inch) variety that performs best in hot summer conditions — the color is most vivid in heat and loses some intensity in cool autumn weather. The cut flowers last 7–10 days in a vase; harvest when outer petals are open and center is still tight. In zone 9 zinnias thrive in the summer heat that challenges most other cut flowers."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 15
+    },
+    "height_in": {
+      "min": 30,
+      "max": 36
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 15
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in full sun in well-drained, fertile, slightly acidic to neutral soil; Queen Red Lime is one of the most striking and distinctive zinnia varieties available to cut flower growers and garden designers — a large-flowered double zinnia with warm crimson-red petals grading inward to a unique lime-green center, creating a bicolor effect that no other common annual flower replicates. The unusual red-to-lime color combination has made Queen Red Lime a favorite of professional florists seeking distinctive colors for modern, unusual arrangements, and the transition from the outer warm red petals to the inner cool lime-green center becomes more pronounced as the flower ages and the center petals enlarge. Like all zinnias, Queen Red Lime is extremely heat-loving and essentially thrives in zone 9's hottest summer weeks when most cut flowers cannot be grown productively — the brilliant color intensity and large flower size actually improve as temperatures rise. The tall, sturdy stems (30–36 inches) provide excellent cut flower value with long vase life.",
+    "sources": [
+      "Johnny's Selected Seeds — Queen Red Lime Zinnia Cut Flower Trials",
+      "University of Florida IFAS Extension — Zinnia Production for Cut Flowers",
+      "Louisiana State University AgCenter — Summer Cut Flowers for Gulf South"
+    ]
+  },
+  {
+    "slug": "tomato-cloud-nine",
+    "common_name": "Cloud Nine Tomato",
+    "scientific_name": "Solanum lycopersicum 'Cloud Nine'",
+    "category": "vegetable",
+    "subcategory": "tomato",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 75,
+      "max": 80
+    },
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -6,
+        "max": -4
+      },
+      "note": "Start seeds indoors 4–6 weeks before last frost; transplant after all frost danger has passed. In zone 9 start in January–February and transplant in February–March. The white tomatoes can be difficult to judge for ripeness by color — ripe fruits develop a creamy, slightly yellowish blush and become slightly soft to the touch. Cloud Nine is indeterminate and produces most productively with cage or stake support. In zone 9 the fall planting in August produces exceptional quality fruit."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 24,
+      "max": 36
+    },
+    "height_in": {
+      "min": 60,
+      "max": 84
+    },
+    "spread_in": {
+      "min": 24,
+      "max": 36
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in full sun in well-drained, fertile, slightly acidic soil with cage or stake support; Cloud Nine is a large, beefsteak-type heirloom tomato producing very large (often 1–2 pound) fruits with ivory-white to pale cream skin and nearly white flesh — one of the few tomato varieties that is genuinely white rather than pale yellow or cream-colored at full ripeness. Like other white tomatoes, Cloud Nine lacks the red lycopene pigment that colors standard tomatoes, instead producing a nearly colorless fruit with very low acid content. The flavor is exceptionally mild, honey-sweet, and rich without the sharpness of red varieties — often described as having a complex sweetness that is difficult to describe as 'tomato-like' in the traditional sense, more like eating a sweet, meaty fruit with subtle complexity. Cloud Nine is preferred for fresh eating and mild preparations where the low-acid, ultra-sweet character can be fully appreciated — it is less well-suited to cooking where the delicate pale color and mild flavor are lost.",
+    "sources": [
+      "Seed Savers Exchange — Cloud Nine White Tomato",
+      "Baker Creek Heirloom Seeds — White Tomato Varieties",
+      "Southern Exposure Seed Exchange — Heirloom Tomato Trials"
+    ]
+  }
+]

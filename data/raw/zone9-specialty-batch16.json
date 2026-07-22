@@ -1,0 +1,277 @@
+[
+  {
+    "slug": "spineless-nopal-cactus",
+    "common_name": "Spineless Nopal Cactus",
+    "scientific_name": "Opuntia ellisiana",
+    "category": "vegetable",
+    "subcategory": "cactus",
+    "days_to_germination": {
+      "min": 14,
+      "max": 28
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 90
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 120
+    },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 8
+      },
+      "note": "Plant pad cuttings in spring; allow cut surfaces to callus for 1–2 weeks before planting in dry, well-drained soil. In zone 8–11 this cactus grows year-round as a perennial shrub. Harvest new pads (nopales) when they are 4–6 inches long and bright green — typically spring through summer — before they harden and develop glochids."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 36,
+      "max": 60
+    },
+    "height_in": {
+      "min": 36,
+      "max": 72
+    },
+    "spread_in": {
+      "min": 36,
+      "max": 60
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant paddles upright with the cut end 2–3 inches deep in gritty, extremely well-drained soil — wet soil in any season will cause rot. Opuntia ellisiana is the premier spineless edible nopal cactus for home gardens, prized because even young pads lack the large spines of most prickly pears, though fine glochids still develop on mature pads. Harvest only young, tender spring pads (nopales) at 4–6 inches before glochid development; use gloves and scrub pads under running water to remove any remaining tiny spines before cooking. Nopales taste mildly tangy and have a mucilaginous texture when cooked — excellent grilled, scrambled with eggs, in tacos, or pickled in escabeche. The plant survives full drought periods once established and requires no irrigation or fertilization in zone 8–9 soils.",
+    "sources": [
+      "Texas A&M AgriLife Extension — Spineless Cactus for Texas Gardens",
+      "Lady Bird Johnson Wildflower Center — Opuntia ellisiana",
+      "USDA NRCS Plants Database — Opuntia ellisiana"
+    ]
+  },
+  {
+    "slug": "engelmann-prickly-pear",
+    "common_name": "Engelmann Prickly Pear",
+    "scientific_name": "Opuntia engelmannii",
+    "category": "fruit",
+    "subcategory": "cactus",
+    "days_to_germination": {
+      "min": 14,
+      "max": 30
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 90
+    },
+    "days_to_maturity": {
+      "min": 90,
+      "max": 180
+    },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 8
+      },
+      "note": "Plant pad cuttings in spring or early fall; allow cut surfaces to callus for 1 week before planting in dry, sandy or rocky, well-drained soil. Engelmann prickly pear tolerates rocky limestone soils and extended drought. Fruits (tunas) ripen deep red-purple in late summer through early fall — harvest with heavy gloves and tongs."
+    },
+    "usda_zones": {
+      "min": 6,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 60,
+      "max": 96
+    },
+    "height_in": {
+      "min": 36,
+      "max": 72
+    },
+    "spread_in": {
+      "min": 60,
+      "max": 96
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant paddles vertically with the cut end 2–3 inches deep in very well-drained, rocky or sandy soil in full sun; Engelmann prickly pear is the most widespread cactus of the American Southwest, ranging from Texas to California and into Mexico, and the principal source of edible tunas (fruits) and nopales (young pads) used in Mexican and Southwestern cooking. The large, red-purple tunas that ripen in late summer are exceptionally sweet with a flavor reminiscent of watermelon and bubblegum, high in antioxidants and vitamin C — they are eaten fresh, juiced into agua fresca and syrups, or made into jelly and candy. Harvest fruits with tongs and singe off glochids over a flame or scrub under running water before eating. This native cactus requires essentially zero maintenance once established in appropriate soil and will not tolerate standing water or clay soil.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center — Opuntia engelmannii",
+      "Texas A&M AgriLife Extension — Texas Native Cacti",
+      "USDA NRCS Plants Database — Opuntia engelmannii"
+    ]
+  },
+  {
+    "slug": "porto-rico-sweet-potato",
+    "common_name": "Porto Rico Sweet Potato",
+    "scientific_name": "Ipomoea batatas 'Porto Rico'",
+    "category": "vegetable",
+    "subcategory": "sweet potato",
+    "days_to_germination": {
+      "min": 14,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 110,
+      "max": 120
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 3
+      },
+      "note": "Plant slips (rooted cuttings from sprouted storage roots) after last frost when soil is warm; in zone 9 plant April–June for a September–November harvest. Porto Rico is a full-vine variety that spreads more widely than bush types and is best grown with ample space or on a mound system to control spreading."
+    },
+    "usda_zones": {
+      "min": 8,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 12,
+      "max": 18
+    },
+    "spread_in": {
+      "min": 60,
+      "max": 120
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant slips 4–6 inches deep in loose, well-drained, slightly sandy soil amended with organic matter in full sun; Porto Rico is one of the oldest named American sweet potato varieties, recorded since the early 1900s and widely grown in Louisiana, Mississippi, and the Gulf Coast region for generations before the introduction of Beauregard and Covington. The medium-sized, copper-skinned tubers have bright orange, moist flesh with a rich, sweet, creamy flavor — considered by many Southern gardeners to have superior taste to modern commercial varieties. The vining plants spread widely, up to 10 feet, and should be positioned in open areas or at garden edges. Cure harvested roots at 85°F with high humidity for 7–10 days before storage to maximize sweetness and shelf life.",
+    "sources": [
+      "Louisiana State University AgCenter — Sweet Potato Varieties for Louisiana",
+      "Mississippi State University Extension — Sweet Potato Production",
+      "Southern Exposure Seed Exchange — Porto Rico Sweet Potato Slips"
+    ]
+  },
+  {
+    "slug": "table-ace-acorn-squash",
+    "common_name": "Table Ace Acorn Squash",
+    "scientific_name": "Cucurbita pepo 'Table Ace'",
+    "category": "vegetable",
+    "subcategory": "squash",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 95
+    },
+    "days_to_maturity": {
+      "min": 75,
+      "max": 85
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -2,
+        "max": 2
+      },
+      "note": "Direct sow or transplant after last frost; in zone 9 direct sow February–March for spring and August–September for fall. Table Ace's semi-bush habit is more compact than most acorn squash, making it suitable for smaller garden plots where standard spreading vines would overwhelm the space."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 24,
+      "max": 36
+    },
+    "height_in": {
+      "min": 12,
+      "max": 18
+    },
+    "spread_in": {
+      "min": 36,
+      "max": 60
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Direct sow 2–3 seeds per hill 1 inch deep in rich, well-drained soil and thin to the strongest plant; Table Ace is an All-America Selections award-winning hybrid acorn squash with a compact, semi-bush habit that takes up considerably less garden space than standard vine-type acorn squash. The dark green, 1–2 pound fruits have the classic acorn shape with ridged skin and deep orange, dry, sweet flesh that pairs well with butter and brown sugar. Harvest when the skin resists fingernail pressure and the underside rind in contact with the soil turns orange; fruits left on the vine too long become fibrous. Store cured fruits in a cool, dry location for up to 3 months. The semi-bush habit makes Table Ace the preferred choice for gardeners who want acorn squash flavor in a space-efficient plant.",
+    "sources": [
+      "All-America Selections — Table Ace Award Record",
+      "Cornell University Vegetable Varieties for Gardeners — Acorn Squash",
+      "University of Illinois Extension — Winter Squash Varieties"
+    ]
+  },
+  {
+    "slug": "woollypod-vetch",
+    "common_name": "Woollypod Vetch",
+    "scientific_name": "Vicia villosa subsp. dasycarpa",
+    "category": "cover-crop",
+    "subcategory": "legume cover crop",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 40,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 120,
+      "max": 180
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -4
+      },
+      "note": "Sow in fall 8–4 weeks before first frost; in zone 8–9 sow October–November for growth through the mild winter and spring. Woollypod vetch is more heat-tolerant and less winter-hardy than hairy vetch — ideal for zone 8–9 gardens where hairy vetch may winter-kill in hard freezes or survive poorly into warm spring conditions."
+    },
+    "usda_zones": {
+      "min": 6,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 2,
+      "max": 4
+    },
+    "height_in": {
+      "min": 18,
+      "max": 48
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Broadcast seed at 2–4 lbs per 1,000 square feet and lightly rake or roll in; woollypod vetch is a winter annual legume cover crop closely related to hairy vetch (V. villosa) but better adapted to mild-winter areas including zone 8–9 Gulf Coast gardens where it tolerates the warmer spring temperatures that cause hairy vetch to prematurely bloom and die. Like all vetches, it fixes 60–120 lbs of nitrogen per acre when inoculated with appropriate Rhizobium before seeding. The twining vines climb any support and produce a dense, weed-suppressing mat through winter. Terminate by mowing or tillage before summer vegetable planting; the nitrogen-rich biomass decomposes rapidly in warm soils to feed the following crop. Often used in mix with cereal rye or oats for a more stable, weed-smothering cover.",
+    "sources": [
+      "USDA SARE — Woollypod Vetch Cover Crop",
+      "University of California Cooperative Extension — Vetch Cover Crops",
+      "Texas A&M AgriLife Extension — Winter Cover Crops for Gulf Coast"
+    ]
+  }
+]

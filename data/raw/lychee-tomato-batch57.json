@@ -1,0 +1,277 @@
+[
+  {
+    "slug": "lychee-kaimana",
+    "common_name": "Kaimana Lychee",
+    "scientific_name": "Litchi chinensis 'Kaimana'",
+    "category": "fruit",
+    "subcategory": "lychee",
+    "days_to_germination": {
+      "min": 7,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 1825,
+      "max": 2555
+    },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 8
+      },
+      "note": "Plant air-layered or grafted trees in spring; in zone 9 plant March–May. Kaimana requires a cool-dry period in winter to initiate flower buds — temperatures below 59°F for several weeks trigger flowering. Zone 9 winters typically provide this naturally, making it one of the better lychee climates. Do not overwater in winter; controlled mild stress during cool season promotes flower initiation. Young trees are frost-sensitive and should be protected below 28°F."
+    },
+    "usda_zones": {
+      "min": 9,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 240,
+      "max": 360
+    },
+    "height_in": {
+      "min": 180,
+      "max": 360
+    },
+    "spread_in": {
+      "min": 180,
+      "max": 300
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in full sun in deep, well-drained, fertile, slightly acidic soil; Kaimana is a lychee cultivar developed at the University of Hawaii for its exceptional combination of large fruit size, outstanding flavor, and reliable production in subtropical conditions. The name means 'diamond' in Hawaiian and reflects the premium quality of the fruit. The large, dark red fruits have a very small ('chicken tongue') seed — a highly valued characteristic that means more of the edible white aril is present relative to seed volume. The translucent, white, juicy flesh has a complex, floral, honey-lychee fragrance and flavor. Kaimana ripens in June–July in zone 9, providing fresh lychee in a season when few other tropical fruits are available. As a relatively cold-tolerant lychee, Kaimana has gained popularity in zone 9 gardens from Florida's Gulf Coast to California's coastal areas, where the mild winters provide flower-inducing chilling without the destructive hard freezes that damage lychee trees.",
+    "sources": [
+      "University of Hawaii Cooperative Extension — Kaimana Lychee Production Guide",
+      "University of Florida IFAS Extension — Lychee Cultivar Selection for Florida",
+      "Louisiana State University AgCenter — Tropical Fruits for the Gulf South"
+    ]
+  },
+  {
+    "slug": "jaboticaba-sabara",
+    "common_name": "Sabara Jaboticaba",
+    "scientific_name": "Plinia cauliflora 'Sabara'",
+    "category": "fruit",
+    "subcategory": "jaboticaba",
+    "days_to_germination": {
+      "min": 14,
+      "max": 60
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 2555,
+      "max": 3650
+    },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 8
+      },
+      "note": "Plant container-grown trees in spring; in zone 9 plant March–May. Sabara jaboticaba is slow-growing but long-lived and extremely productive once mature. In zone 9 the tree requires frost protection when young (below 28°F); established trees of 5+ years tolerate brief temperature drops to 24–26°F. Plant in a sheltered microclimate if hard freezes occur in your area. The tree is self-fertile and bears without a cross-pollinator."
+    },
+    "usda_zones": {
+      "min": 9,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 120,
+      "max": 240
+    },
+    "height_in": {
+      "min": 120,
+      "max": 240
+    },
+    "spread_in": {
+      "min": 120,
+      "max": 180
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in full sun in well-drained, fertile, slightly acidic soil — jaboticaba tolerates a wider pH range than most tropical fruits and performs well in amended Gulf Coast soils; Sabara is the most widely grown jaboticaba cultivar, a selection of the Brazilian grape tree (Plinia cauliflora) renowned for its unique and visually remarkable fruiting habit — the small, grape-like fruits emerge directly from the trunk and main branches of the tree rather than on terminal shoots, covering the bark in dense clusters of dark purple fruits that look like the tree has been decorated with purple grapes. The fruits are eaten fresh (popped open to reveal the sweet, translucent white pulp inside a thick purple skin), or processed into jams, wines, and liqueurs. Jaboticaba trees fruit multiple times per year in zone 9 after triggering by rain or irrigation following a dry period, providing periodic fresh fruit throughout the growing season. Sabara is the highest-quality eating variety, with sweet, rich, complex fruit flavor and good fresh-eating skin-to-pulp ratio.",
+    "sources": [
+      "University of Florida IFAS Extension — Jaboticaba Production in Florida",
+      "California Rare Fruit Growers — Jaboticaba Varieties",
+      "Louisiana State University AgCenter — Exotic Tropical Fruits for Gulf South"
+    ]
+  },
+  {
+    "slug": "feijoa-apollo",
+    "common_name": "Apollo Feijoa",
+    "scientific_name": "Acca sellowiana 'Apollo'",
+    "category": "fruit",
+    "subcategory": "feijoa",
+    "days_to_germination": {
+      "min": 14,
+      "max": 30
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 80
+    },
+    "days_to_maturity": {
+      "min": 1095,
+      "max": 1825
+    },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 8
+      },
+      "note": "Plant container-grown shrubs in spring; in zone 9 plant February–April. Apollo is partially self-fertile and can produce some fruit without a cross-pollinator, but planting with Nazemetz, Coolidge, or Mammoth significantly increases crop size. Apollo has good cold tolerance to approximately 15–18°F when established, making it reliable in zone 8 and zone 9. Harvest fruits as they fall naturally from the plant in October–December."
+    },
+    "usda_zones": {
+      "min": 8,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 96,
+      "max": 144
+    },
+    "height_in": {
+      "min": 72,
+      "max": 120
+    },
+    "spread_in": {
+      "min": 72,
+      "max": 120
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in full sun in well-drained, fertile, slightly acidic soil; Apollo is a New Zealand-selected feijoa (pineapple guava) cultivar prized for producing very large, oval fruits with exceptionally smooth skin and outstanding flavor — rated by New Zealand feijoa growers as one of the best-flavored cultivars, with a rich, complex tropical aroma combining pineapple, guava, strawberry, and mint notes. The thick-skinned, moderately large fruits (3–6 ounces) have a balance of sweetness and acidity that appeals to a wide range of palates. Apollo is among the earlier-ripening feijoa varieties, beginning to drop fruit in October in zone 9 — ahead of the main feijoa season — and providing a longer total harvest window when planted alongside mid-to-late ripening varieties. Like all feijoa, Apollo's spring flowers with white petals and edible bright red stamens are ornamental and can be eaten fresh as a sweet-tart floral treat. The silvery-green evergreen foliage and attractive compact shrub form make Apollo an excellent edible landscape plant for year-round interest.",
+    "sources": [
+      "New Zealand Institute for Plant and Food Research — Apollo Feijoa Variety Notes",
+      "California Rare Fruit Growers — Feijoa Cultivar Selection",
+      "University of Florida IFAS Extension — Feijoa Production Guide"
+    ]
+  },
+  {
+    "slug": "pepper-aci-sivri",
+    "common_name": "Aci Sivri Pepper",
+    "scientific_name": "Capsicum annuum 'Aci Sivri'",
+    "category": "vegetable",
+    "subcategory": "pepper",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 70,
+      "max": 85
+    },
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -6
+      },
+      "note": "Start seeds indoors 6–8 weeks before last frost; transplant after all frost danger has passed. In zone 9 start in January–February and transplant March–April. In zone 9 Aci Sivri will persist as a perennial through mild winters — cut back hard in late winter and the plant will regrow from the woody base, producing earlier and more heavily than first-year plants. Individual plants can grow to 3–4 feet tall over multiple seasons."
+    },
+    "usda_zones": {
+      "min": 8,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 24,
+      "max": 48
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in full sun in well-drained, fertile, slightly acidic soil; Aci Sivri (pronounced ah-juh SIV-ree, meaning 'hot sharp' in Turkish) is a Turkish heirloom cayenne-type pepper producing long (4–6 inch), thin, slightly wrinkled, pointed fruits that turn from pale green to deep red when ripe. The heat level ranges from mild when young and green to genuinely hot (15,000–30,000+ Scoville) when fully red-ripe, with the heat increasing significantly as the fruit matures and dries. The thin-walled, aromatic fruits dry quickly and are widely used in Turkish cuisine as a dried spice pepper, ground into flakes or paprika-style powder. Fresh green Aci Sivri is used in Turkish salads and grilled vegetable dishes where its mild-to-medium heat adds flavor without overwhelming. The prolific, heavily-bearing plants are extremely popular in Turkish home gardens and have been grown continuously for centuries. In zone 9 the long warm season allows multiple harvests and the plants often overwinter as perennials, returning larger each year.",
+    "sources": [
+      "Turkish Ministry of Agriculture — Traditional Pepper Cultivars of Turkey",
+      "Seed Savers Exchange — Aci Sivri Heirloom Pepper",
+      "University of California Cooperative Extension — Turkish Pepper Varieties"
+    ]
+  },
+  {
+    "slug": "tomato-zapotec-pleated",
+    "common_name": "Zapotec Pleated Tomato",
+    "scientific_name": "Solanum lycopersicum 'Zapotec Pleated'",
+    "category": "vegetable",
+    "subcategory": "tomato",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 80,
+      "max": 90
+    },
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -6,
+        "max": -4
+      },
+      "note": "Start seeds indoors 4–6 weeks before last frost; transplant after frost danger has passed. In zone 9 start in January–February and transplant February–March for an early spring crop before peak summer heat. In zone 9 a fall planting in August for harvest in October–November often produces higher-quality fruits than the spring crop."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 24,
+      "max": 36
+    },
+    "height_in": {
+      "min": 48,
+      "max": 72
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in full sun in well-drained, fertile, slightly acidic soil and stake or cage the indeterminate vines; Zapotec Pleated is a Mexican heirloom tomato from the Zapotec people of Oaxaca, producing large (8–16 ounce), deeply ridged and pleated, hollow, orange-red fruits unlike any standard tomato — the characteristic heavy ribbing creates a natural cavity in the hollow center that makes Zapotec Pleated the ideal stuffing tomato for chiles-rellenos-style preparations, baked stuffed tomatoes, and presentations where the natural hollow serves as an edible container. The thick, meaty, sweet-acidic flesh has excellent flavor and the hollow structure minimizes the gel and seeds that make most large tomatoes watery when sliced. The unusual appearance — rustic, ridged, and slightly irregular — reflects the traditional Mesoamerican approach to tomato selection where utility (hollow stuffing structure, thick walls) was prioritized alongside flavor. In zone 9 the fall planting often produces the most attractive, well-colored fruits as cooler October temperatures enhance both color development and flavor concentration.",
+    "sources": [
+      "Seed Savers Exchange — Zapotec Pleated Heirloom Tomato",
+      "Southern Exposure Seed Exchange — Mexican Heirloom Tomatoes",
+      "University of Arizona Cooperative Extension — Heirloom Tomato Varieties"
+    ]
+  }
+]

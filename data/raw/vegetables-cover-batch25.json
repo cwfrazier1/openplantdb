@@ -1,0 +1,277 @@
+[
+  {
+    "slug": "mortgage-lifter-lima-bean",
+    "common_name": "Mortgage Lifter Lima Bean",
+    "scientific_name": "Phaseolus lunatus 'Mortgage Lifter'",
+    "category": "vegetable",
+    "subcategory": "legume",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 75,
+      "max": 90
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 2
+      },
+      "note": "Direct sow after last frost when soil is warm; in zone 9 plant March–May and again July–August for fall. Mortgage Lifter is a pole type requiring a sturdy trellis 6 feet or taller. In zone 9 the vines produce prolifically through the long warm season and may survive mild winters as short-lived perennials, returning from the roots."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 6,
+      "max": 9
+    },
+    "height_in": {
+      "min": 60,
+      "max": 96
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 18
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Direct sow 1 inch deep in well-drained, moderately fertile soil in full sun; Mortgage Lifter lima bean is an Appalachian heirloom from Virginia and West Virginia — an exceptionally productive, large-seeded pole lima with big, flat seeds that can reach half an inch across and fill the pod tightly with 3–5 massive seeds per pod. The sheer yield of these large limas made the variety valuable for subsistence gardeners who could shell, cook, and preserve enormous quantities of butter beans from a small planting, historically giving the variety its name. Fresh-shelled Mortgage Lifter limas have an exceptionally creamy, buttery, starchy flavor — richer than most commercial lima beans and similar in quality to the best Virginia butter beans. Like all limas, they thrive in Gulf Coast heat and continue producing through summer when most other legumes have failed. Harvest pods when plump and the seeds inside are full but still green for fresh eating; allow to fully dry on the vine for dry beans.",
+    "sources": [
+      "Seed Savers Exchange — Mortgage Lifter Lima Bean Heritage Variety",
+      "Southern Exposure Seed Exchange — Appalachian Heirloom Limas",
+      "University of Virginia Cooperative Extension — Lima Bean Production in Virginia"
+    ]
+  },
+  {
+    "slug": "pinto-bean",
+    "common_name": "Pinto Bean",
+    "scientific_name": "Phaseolus vulgaris 'Pinto'",
+    "category": "vegetable",
+    "subcategory": "legume",
+    "days_to_germination": {
+      "min": 6,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 85,
+      "max": 100
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 2
+      },
+      "note": "Direct sow after last frost when soil reaches 60°F; in zone 9 plant March–April for spring and July–August for fall. Pinto beans are primarily a dry bean — the plant must be allowed to fully mature and dry before harvest, which takes the full season. In zone 9 the spring crop typically produces dry beans by June–July; a fall planting dried in November–December. Bush habit requires no staking."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 4,
+      "max": 6
+    },
+    "height_in": {
+      "min": 18,
+      "max": 24
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 18
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Direct sow 1–1.5 inches deep in well-drained, moderately fertile soil in full sun; pinto beans are the most widely grown dry bean in the United States, accounting for nearly half of all dry bean production, and the foundation of Southwestern and Mexican cooking — the primary bean in refried beans (frijoles refritos), bean soup, and chili. The tan seeds with reddish-brown speckles (the Spanish name 'pinto' means 'painted') turn uniformly tan-brown when cooked, at which point the flavor is rich, earthy, and starchy with a creamy texture that falls apart when mashed. Bush-habit pinto plants are compact and self-supporting, producing a single concentrated harvest suitable for home-scale production and storage. The dry beans store for 2–3 years in a cool, dry location. In zone 9 the plants are susceptible to bean rust in humid conditions; provide adequate spacing for air circulation.",
+    "sources": [
+      "University of Arizona Cooperative Extension — Dry Bean Production",
+      "New Mexico State University Extension — Common Dry Beans",
+      "USDA Agricultural Research Service — Phaseolus vulgaris Cultivar Development"
+    ]
+  },
+  {
+    "slug": "korean-radish",
+    "common_name": "Korean Radish",
+    "scientific_name": "Raphanus sativus 'Korean Giant'",
+    "category": "vegetable",
+    "subcategory": "root vegetable",
+    "days_to_germination": {
+      "min": 5,
+      "max": 7
+    },
+    "germination_soil_temp_f": {
+      "min": 45,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 55,
+      "max": 70
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {
+        "min": -10,
+        "max": -6
+      },
+      "note": "Direct sow in fall; in zone 9 sow September–November for a December–February harvest. Korean radish can also be sown in early spring in zone 9 (January–February) for a spring crop before heat causes bolting. The large roots require loose, deep, well-tilled soil for straight development; rocky or compacted soil causes forking. Fall crops have the best flavor and texture."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 4,
+      "max": 6
+    },
+    "height_in": {
+      "min": 12,
+      "max": 18
+    },
+    "spread_in": {
+      "min": 4,
+      "max": 6
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Direct sow 0.5 inch deep and thin to 4–6 inches apart in loose, well-tilled, deep, fertile soil in full sun; Korean radish (mu, 무) is the standard radish of Korean cuisine — a large, stout, mostly white root with a green shoulder, shorter and more rounded than Japanese daikon but crisper, denser, and somewhat spicier. The typical Korean Giant root weighs 1–3 pounds with a firm, juicy, slightly peppery crunch used extensively in kimchi (kkakdugi, cubed radish kimchi), pickled banchan side dishes, and stir-fried radish sides (musaengchae). The flavor is richer and more assertive than mild daikon while remaining far milder than small European radish types. Young tops are also edible and used in soups and kimchi. Harvest when roots reach 2–3 inches in diameter for the best texture — over-mature Korean radishes become pithy and hollow at the core.",
+    "sources": [
+      "Rural Development Administration (Korea) — Raphanus sativus var. hortensis",
+      "University of Hawaii Extension — Radish Production in Hawaii",
+      "Rutgers University — Asian Vegetable Production: Radish Types"
+    ]
+  },
+  {
+    "slug": "boothby-blonde-cucumber",
+    "common_name": "Boothby Blonde Cucumber",
+    "scientific_name": "Cucumis sativus 'Boothby Blonde'",
+    "category": "vegetable",
+    "subcategory": "cucumber",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 90
+    },
+    "days_to_maturity": {
+      "min": 55,
+      "max": 65
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 2
+      },
+      "note": "Direct sow after last frost in warm soil; in zone 9 plant February–March for spring and August–September for fall. Boothby Blonde is best harvested young at 3–4 inches for fresh eating; at full maturity the fruits are 5–6 inches and still mild but beginning to yellow. Remove overripe fruits promptly to keep the vine producing. Bush habit is compact; no trellis required but vines benefit from light support."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 18,
+      "max": 24
+    },
+    "spread_in": {
+      "min": 36,
+      "max": 60
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Direct sow 1 inch deep in fertile, well-drained soil in full sun with consistent moisture; Boothby Blonde is a Maine heirloom cucumber preserved by the Boothby family of Livermore Falls and introduced to the broader seed-saving community through Seed Savers Exchange. The small, oval fruits are ivory-to-pale-yellow with black or white spines — the pale color is the key distinguishing feature that makes identification by color a reliable harvest guide. Harvest when the fruits are still ivory-white at 3–5 inches; yellowing indicates over-maturity. The flesh is exceptionally crisp, mild, and sweet with thin skin that does not require peeling — the flavor is more delicate than standard green cucumbers, with less bitterness and a refreshing, clean taste ideal for fresh eating, simple salads, and sliced into yogurt or dressings. The unusual pale exterior makes it a novelty in the garden and at farmers' markets. Heat tolerance is adequate for zone 9 spring crops, but fall production is best.",
+    "sources": [
+      "Seed Savers Exchange — Boothby Blonde Cucumber Heritage Variety",
+      "Cornell University Vegetable Varieties for Gardeners — Boothby Blonde",
+      "University of Maine Cooperative Extension — Cucumber Production"
+    ]
+  },
+  {
+    "slug": "iron-and-clay-cowpea",
+    "common_name": "Iron and Clay Cowpea",
+    "scientific_name": "Vigna unguiculata 'Iron and Clay'",
+    "category": "cover-crop",
+    "subcategory": "legume cover crop",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 95
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 90
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Broadcast or drill in warm soil after last frost; in zone 9 plant April–August for summer cover cropping. Iron and Clay germinates and establishes rapidly in warm soil and is drought-tolerant once established — making it the standard summer cover crop throughout the Gulf South where summers are too hot and dry for most other leguminous covers. Terminate by mowing, rolling, or tilling before pods fully set to prevent reseeding."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 4,
+      "max": 8
+    },
+    "height_in": {
+      "min": 18,
+      "max": 36
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 36
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Broadcast 50–100 lbs of seed per acre (or 3–4 oz per 100 sq ft for garden use) into prepared, warm soil in full sun; Iron and Clay cowpea is the standard warm-season leguminous cover crop for the Gulf South and mid-Atlantic, valued for rapid establishment, exceptional heat and drought tolerance, vigorous weed suppression, and the ability to fix 100–150 lbs of nitrogen per acre when properly inoculated with rhizobium. The rambling vines spread 2–3 feet and form a dense ground cover that shades out weeds and prevents erosion during the fallow period between summer and fall crops. Inoculate seed with cowpea-specific Bradyrhizobium inoculant before planting for maximum nitrogen fixation. Terminate by mowing and incorporating 3–4 weeks before the next crop; the decomposing vines release nitrogen gradually for the following crop. Iron and Clay cowpea also provides excellent wildlife food plot value, attracting white-tailed deer, quail, and doves.",
+    "sources": [
+      "USDA Natural Resources Conservation Service — Iron and Clay Cowpea",
+      "Mississippi State University Extension — Cover Crop Guide for the Gulf South",
+      "Texas A&M AgriLife Extension — Cowpea as a Summer Cover Crop"
+    ]
+  }
+]

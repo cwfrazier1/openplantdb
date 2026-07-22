@@ -1,0 +1,277 @@
+[
+  {
+    "slug": "artichoke-green-globe-improved",
+    "common_name": "Green Globe Improved Artichoke",
+    "scientific_name": "Cynara cardunculus var. scolymus 'Green Globe Improved'",
+    "category": "vegetable",
+    "subcategory": "artichoke",
+    "days_to_germination": {
+      "min": 10,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 85,
+      "max": 150
+    },
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -4
+      },
+      "note": "Start seeds indoors 6–8 weeks before last frost; transplant when 8–10 inches tall. In zone 9 plant transplants in February–March or divisions in fall. Vernalization (exposure to temperatures below 50°F for several weeks) stimulates the first-year flowering that produces edible buds — in zone 9, the mild winters naturally provide this, and the plants flower each spring from February through May. After harvest, cut plants back by half in late spring and they will resprout for a fall secondary harvest in zone 9."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 48,
+      "max": 72
+    },
+    "height_in": {
+      "min": 36,
+      "max": 60
+    },
+    "spread_in": {
+      "min": 48,
+      "max": 60
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in full sun in well-drained, deep, fertile, slightly acidic to neutral soil; Green Globe Improved is the primary commercial artichoke variety grown in California's Monterey County — the heart of American artichoke production — and the selection standard against which most other artichoke varieties are measured. The large, globe-shaped, tightly-closed heads of deep green overlapping bracts contain the edible fleshy bract bases and the prize, the meaty, tender artichoke heart at the center. The 'Improved' designation indicates a more consistent, uniform selection with better vigor than the original Green Globe. In zone 9, artichoke is particularly well-adapted — the mild winters provide the natural vernalization required to initiate bud production, and the plants can persist for 5–8 years as perennial specimens if given adequate space and annual fertilization. Zone 9's long growing season supports two harvesting periods: the main spring crop (February–May) and a secondary fall crop (September–October) after the summer regrowth period.",
+    "sources": [
+      "University of California Cooperative Extension — Artichoke Production Guide",
+      "Louisiana State University AgCenter — Artichoke Production in the Gulf South",
+      "Texas A&M AgriLife Extension — Globe Artichoke for Texas Gardens"
+    ]
+  },
+  {
+    "slug": "rhubarb-victoria",
+    "common_name": "Victoria Rhubarb",
+    "scientific_name": "Rheum rhabarbarum 'Victoria'",
+    "category": "vegetable",
+    "subcategory": "rhubarb",
+    "days_to_germination": {
+      "min": 14,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 50,
+      "max": 65
+    },
+    "days_to_maturity": {
+      "min": 365,
+      "max": 730
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": -6,
+        "max": -2
+      },
+      "note": "Plant crowns or divisions in early spring; in zone 7–8 plant January–February while dormant. Rhubarb requires 500+ hours below 40°F to break dormancy and produce vigorously — it performs best in zones 3–7 where cold winters are reliable. In zone 8 rhubarb is possible with adequate winter cooling but may decline after a few years. In zone 9 rhubarb is very challenging as insufficient chilling produces poor growth; gardeners in zone 9 should consider growing rhubarb in containers that can be refrigerated in winter. Do not harvest stalks in the first year — allow the plant to establish."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 8
+    },
+    "spacing_in": {
+      "min": 36,
+      "max": 48
+    },
+    "height_in": {
+      "min": 24,
+      "max": 36
+    },
+    "spread_in": {
+      "min": 36,
+      "max": 48
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in full sun in deep, well-drained, fertile, slightly acidic soil with high organic matter content; Victoria is the oldest and most widely grown named rhubarb variety, introduced in the 1830s in Britain and remaining the standard variety against which others are compared — it has an exceptionally long cultivation record of nearly 200 years as a garden and commercial vegetable. The thick, large, greenish-pink to light red stalks are produced in large quantities and have the classic, sharp, tart-sour rhubarb flavor used in pies, crumbles, jams, and sauces — the pairing of rhubarb's tartness with strawberry sweetness in strawberry-rhubarb pie is one of the iconic spring desserts of North American and British cooking. Victoria produces primarily green to light pink stalks rather than the deep red of ornamental varieties like Crimson Red; the color is purely cosmetic with no effect on flavor. As a cool-climate perennial, Victoria thrives best where winters are cold and long (zones 3–6) but performs adequately through zone 8 with attention to soil improvement and consistent watering.",
+    "sources": [
+      "Cornell University Cooperative Extension — Rhubarb Variety Selection",
+      "University of Illinois Extension — Rhubarb for the Home Garden",
+      "Pennsylvania State University Extension — Victoria Rhubarb Production"
+    ]
+  },
+  {
+    "slug": "blackberry-navaho",
+    "common_name": "Navaho Blackberry",
+    "scientific_name": "Rubus hybrid 'Navaho'",
+    "category": "berry",
+    "subcategory": "blackberry",
+    "days_to_germination": {
+      "min": 14,
+      "max": 60
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 365,
+      "max": 730
+    },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": -6,
+        "max": 0
+      },
+      "note": "Plant bare-root or container-grown canes in late winter to early spring; in zone 9 plant December–February. Navaho is erect and self-supporting — tip new canes at 3–4 feet in midsummer to encourage branching and maximize fruiting wood the following year. Remove old canes to the ground after harvest. Chill hour requirement is approximately 400–500 hours (viable in most of zone 9). Navaho ripens in late June, about 2 weeks after Arapaho, providing a sequential harvest window when both varieties are planted."
+    },
+    "usda_zones": {
+      "min": 6,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 36,
+      "max": 48
+    },
+    "height_in": {
+      "min": 60,
+      "max": 84
+    },
+    "spread_in": {
+      "min": 24,
+      "max": 36
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in full sun in well-drained, fertile, slightly acidic soil; Navaho is a thornless erect blackberry developed by the University of Arkansas fruit breeding program and released in 1988. The large, glossy, jet-black berries are among the sweetest of any commercial blackberry variety — significantly sweeter than most thorned varieties and with a more balanced sweet-tart flavor than the extremely tart early-season varieties. The high sugar content and mild, pleasant flavor make Navaho berries exceptional for fresh eating without added sugar and for preserves where reduced sugar is desired. The thornless, erect habit makes harvesting unusually practical: no thorns to navigate and no extensive trellis infrastructure required. Navaho produces mid-to-late season, ripening in late June–July in zone 9, providing fruit after the earlier erect varieties have finished and extending the fresh blackberry season. The firm berries have good post-harvest shelf life, remaining harvestable for several days without softening if kept cool.",
+    "sources": [
+      "University of Arkansas Division of Agriculture — Navaho Blackberry Release",
+      "Louisiana State University AgCenter — Blackberry Varieties for the South",
+      "Texas A&M AgriLife Extension — Blackberry Production Guide"
+    ]
+  },
+  {
+    "slug": "squash-baby-boo",
+    "common_name": "Baby Boo Pumpkin",
+    "scientific_name": "Cucurbita pepo 'Baby Boo'",
+    "category": "vegetable",
+    "subcategory": "pumpkin",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 90,
+      "max": 100
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 1,
+        "max": 3
+      },
+      "note": "Direct sow after last frost when soil reaches 70°F; in zone 9 plant March–May. Baby Boo pumpkins pair well with Jack Be Little (orange mini pumpkin) for two-color autumn arrangements from a single planting space. Allow fruits to cure on the vine until stem shrivels and skin is hard. The pure white skin of Baby Boo makes it a striking element in mixed ornamental displays — it retains its white color for months after harvest when kept in a cool, dry location."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 24,
+      "max": 36
+    },
+    "height_in": {
+      "min": 10,
+      "max": 18
+    },
+    "spread_in": {
+      "min": 60,
+      "max": 96
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in full sun in well-drained, fertile, slightly acidic soil; Baby Boo is a white-skinned miniature pumpkin producing small (2–3 inch), perfectly round, deeply ribbed fruits of pure creamy white — the white color makes it the natural complement to the orange Jack Be Little in autumn decorating, where the two varieties together provide the classic orange-and-white color combination of fall décor. The white skin remains crisp and ornamental for 3–4 months after harvest, making Baby Boo extremely long-lasting in decorative arrangements compared to fresh-cut flowers. Like all miniature pumpkins, Baby Boo is edible — the small amounts of sweet, dense flesh inside the tiny fruits can be scooped out after roasting in the oven. The pure white skin is unusual among Cucurbita pepo varieties and results from absence of the carotenoid pigments that give most pumpkins their orange color. Baby Boo plants are productive, often generating 8–15 fruits per plant from compact vines.",
+    "sources": [
+      "Cornell University Cooperative Extension — Miniature Pumpkin Varieties",
+      "University of Florida IFAS Extension — Ornamental Pumpkins",
+      "Louisiana State University AgCenter — Small Pumpkin Production"
+    ]
+  },
+  {
+    "slug": "strawberry-camino-real",
+    "common_name": "Camino Real Strawberry",
+    "scientific_name": "Fragaria x ananassa 'Camino Real'",
+    "category": "berry",
+    "subcategory": "strawberry",
+    "days_to_germination": {
+      "min": 14,
+      "max": 28
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 90,
+      "max": 120
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -2,
+        "max": 4
+      },
+      "note": "Plant plugs or bare-root transplants in fall for winter-spring production; in zone 9 plant September–November. Camino Real is a short-day variety that requires decreasing day length to initiate flower buds — plant in fall so shortening days trigger bud initiation before winter. In zone 9 this produces fruit from December through April. Camino Real has excellent heat tolerance for a June-bearing type, performing better than most strawberries through the warm Gulf Coast spring."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 10,
+      "max": 14
+    },
+    "height_in": {
+      "min": 6,
+      "max": 10
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 18
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in full sun in well-drained, fertile, slightly acidic (pH 5.5–6.5) soil with high organic matter; Camino Real is a University of California Davis-developed short-day strawberry cultivar selected for warm-winter California production and widely adapted to Gulf Coast and subtropical conditions. The large, firm, conical, deep red berries have outstanding fresh-eating flavor — a combination of sweetness, bright strawberry aroma, and moderate acidity that consistently ranks among the top cultivars in taste evaluations for warm-climate production. Firm berries have good shelf life after harvest (important for home gardeners who may not harvest daily), retaining quality for 3–5 days refrigerated without softening or loss of flavor. The plant shows good tolerance for common strawberry diseases including Phytophthora crown rot, which is important in humid Gulf Coast conditions where soil moisture management can be challenging. The variety performs best when planted in fall as a fresh transplant, fruiting through the cool season in zone 9 and producing its best-quality fruit in the cool winter months.",
+    "sources": [
+      "University of California Davis — Camino Real Strawberry Cultivar Release",
+      "Louisiana State University AgCenter — Strawberry Variety Trials for Gulf South",
+      "University of Florida IFAS Extension — Short-Day Strawberry Varieties"
+    ]
+  }
+]

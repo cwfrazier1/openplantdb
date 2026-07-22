@@ -1,0 +1,277 @@
+[
+  {
+    "slug": "desert-rose",
+    "common_name": "Desert Rose",
+    "scientific_name": "Adenium obesum",
+    "category": "flower",
+    "subcategory": "succulent perennial",
+    "days_to_germination": {
+      "min": 7,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 75,
+      "max": 90
+    },
+    "days_to_maturity": {
+      "min": 365,
+      "max": 730
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 8
+      },
+      "note": "Plant in spring after all frost danger is past; in zone 9 plant March–May. Desert Rose is grown in containers in zone 9 and brought indoors or to a frost-free location during winter freezes — it cannot tolerate temperatures below 40°F without damage and is killed by frost. It blooms most heavily in full sun and in soil that is allowed to dry between waterings. In zone 9 the active growing season is March–November; reduce water in winter."
+    },
+    "usda_zones": {
+      "min": 10,
+      "max": 12
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 36
+    },
+    "height_in": {
+      "min": 18,
+      "max": 60
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 30
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant in full sun in very well-drained, gritty, low-fertility soil — overwatering and poor drainage are the primary causes of failure; Desert Rose is a succulent shrub native to sub-Saharan Africa and the Arabian Peninsula, producing a stout, swollen stem base (caudex) that stores water and gives the plant its dramatic, bonsai-like silhouette — one of the most architecturally distinctive succulents available to zone 9 gardeners. The brilliant trumpet-shaped flowers in hot pink, red, white, coral, or multicolored forms (depending on variety) bloom profusely from spring through fall, covering the leafy stems in showy clusters. Desert Rose performs best in the hot, bright conditions of the Gulf Coast summer and tolerates the heat that would wilt most ornamentals. In zone 9 it must be container-grown and protected from winter freezes below 40°F; bring containers indoors to a bright, frost-free location from November through March. The sculptural caudex becomes more impressive and valuable as the plant ages — established plants with large caudex formations are prized as living sculpture.",
+    "sources": [
+      "University of Florida IFAS Extension — Adenium obesum for Florida",
+      "Texas A&M AgriLife Extension — Desert Rose Container Growing",
+      "Louisiana State University AgCenter — Tropical Succulents for the Gulf South"
+    ]
+  },
+  {
+    "slug": "drunken-woman-lettuce",
+    "common_name": "Drunken Woman Frizzy-Headed Lettuce",
+    "scientific_name": "Lactuca sativa 'Drunken Woman Frizzy-Headed'",
+    "category": "vegetable",
+    "subcategory": "leafy green",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 40,
+      "max": 68
+    },
+    "days_to_maturity": {
+      "min": 55,
+      "max": 70
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {
+        "min": -10,
+        "max": -6
+      },
+      "note": "Direct sow in fall or early spring; in zone 9 sow September–November for fall harvest or January–February for spring. The slow-bolting tendency of this Italian heirloom variety makes it an excellent choice for late-spring extension in zone 9, where it holds quality 1–2 weeks longer than standard looseleaf varieties before bolting. Successive sowings extend the harvest window through the cool season."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 8,
+      "max": 12
+    },
+    "height_in": {
+      "min": 6,
+      "max": 10
+    },
+    "spread_in": {
+      "min": 10,
+      "max": 14
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Direct sow or transplant in partial shade to full sun in moist, fertile, well-drained soil; Drunken Woman Frizzy-Headed is an Italian heirloom looseleaf lettuce with one of the most whimsical names in the vegetable kingdom — a literal translation of the Italian 'Ubriaca della Testa Frizzy' — producing large, loosely-headed plants with heavily frilled, ruffled, wavy leaves in a mix of red-bronze tones on green, giving the plant an exuberant, disheveled appearance that the name aptly describes. The large, floppy, curly leaves have a mild, tender, slightly buttery flavor with the red-bronze pigmentation adding a slight edge of complexity over standard green looseleaf. The decorative appearance makes it a standout in the garden and at market, where the dramatic frilly form catches the eye among more uniform types. Drunken Woman Frizzy-Headed is notably slow to bolt and holds in the garden longer than many other looseleaf types, a quality valued in warm climates. The large leaf size makes it easy to harvest by stripping outer leaves for a continuous cut-and-come-again operation.",
+    "sources": [
+      "Baker Creek Heirloom Seeds — Italian Heirloom Lettuce",
+      "Seed Savers Exchange — Frizzy-Headed Looseleaf Lettuces",
+      "Seeds of Italy — Lattuga Ubriaca della Testa Frizzy"
+    ]
+  },
+  {
+    "slug": "sucrine-lettuce",
+    "common_name": "Sucrine Lettuce",
+    "scientific_name": "Lactuca sativa 'Sucrine'",
+    "category": "vegetable",
+    "subcategory": "leafy green",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 40,
+      "max": 68
+    },
+    "days_to_maturity": {
+      "min": 50,
+      "max": 60
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {
+        "min": -10,
+        "max": -6
+      },
+      "note": "Direct sow in fall or early spring; in zone 9 sow September–November or January–February. Sucrine is a small-heading type that produces compact, single-serving heads of 4–5 inches — plant more densely at 6–8 inch spacing. Succession sow every 2–3 weeks for a continuous harvest. The sweet, crisp flavor and compact size make Sucrine a favorite for container growing and raised beds."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 6,
+      "max": 10
+    },
+    "height_in": {
+      "min": 5,
+      "max": 8
+    },
+    "spread_in": {
+      "min": 5,
+      "max": 8
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Direct sow or transplant in partial shade to full sun in moist, fertile, well-drained soil; Sucrine is a French mini-romaine lettuce producing compact, upright, 4–5 inch heads with thick, crunchy, deeply green leaves and an exceptional sweetness that is apparent even in the name — 'sucrine' derives from the French 'sucre' (sugar). It is considered by many French market gardeners to have the best flavor of any small lettuce, combining the crunch and structure of romaine with a delicate sweetness entirely absent from full-sized romaine varieties. The small, compact heads are the right size for a single salad portion, and the thick leaves hold up to dressings without wilting — ideal for individual Caesar salads and composed appetizer plates. Sucrine is the standard small romaine type in French markets and has become highly popular in North American specialty food markets and upscale restaurants. The tight, compact head formation and small size allow close spacing (6–8 inches) that maximizes production from small garden spaces.",
+    "sources": [
+      "Territorial Seed Company — Sucrine Lettuce Variety Notes",
+      "Seeds of Italy — French Mini-Romaine Varieties",
+      "University of California Cooperative Extension — Specialty Lettuce Production"
+    ]
+  },
+  {
+    "slug": "lolla-rossa-lettuce",
+    "common_name": "Lolla Rossa Lettuce",
+    "scientific_name": "Lactuca sativa 'Lolla Rossa'",
+    "category": "vegetable",
+    "subcategory": "leafy green",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 40,
+      "max": 68
+    },
+    "days_to_maturity": {
+      "min": 55,
+      "max": 70
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {
+        "min": -10,
+        "max": -6
+      },
+      "note": "Direct sow in fall or early spring; in zone 9 sow September–November for fall harvest or January–February for spring. Lolla Rossa can be harvested as baby leaves (cut 2–3 inches tall) or allowed to develop to full rosettes. Successive sowings every 3 weeks provide a continuous supply. The red color is most intense in cool weather; warm temperatures reduce pigmentation."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 8,
+      "max": 12
+    },
+    "height_in": {
+      "min": 6,
+      "max": 10
+    },
+    "spread_in": {
+      "min": 8,
+      "max": 14
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Direct sow or transplant in partial shade to full sun in moist, fertile, well-drained soil; Lolla Rossa is an Italian looseleaf lettuce producing rosettes of tightly frilled, deeply ruffled, deep burgundy-red to crimson leaves — the most intensely frilled and ruffled of all red lettuces, with a texture often compared to coral or ruffled fabric. The heavy frilling maximizes surface area and catches dressings exceptionally well, making Lolla Rossa a favorite in mixed salad bowls and mesclun mixes where its dramatic appearance creates visual impact. The flavor is mild and tender with a slight bitterness from the red pigments that is barely perceptible in young leaves and becomes slightly more pronounced in older, larger leaves. The deep red color makes Lolla Rossa one of the highest-anthocyanin lettuces, providing significant antioxidant content. It is the standard red frilly lettuce in European market and supermarket displays, where it has been in continuous commercial production since the 1970s, and is equally valuable in North American specialty salad production and home gardens.",
+    "sources": [
+      "Seeds of Italy — Lolla Rossa Lettuce Growing Notes",
+      "Cornell University Vegetable Varieties for Gardeners — Red Looseleaf Lettuce",
+      "University of Florida IFAS Extension — Specialty Lettuce Production"
+    ]
+  },
+  {
+    "slug": "flashy-trout-back-lettuce",
+    "common_name": "Flashy Trout Back Lettuce",
+    "scientific_name": "Lactuca sativa 'Flashy Trout Back'",
+    "category": "vegetable",
+    "subcategory": "leafy green",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 40,
+      "max": 68
+    },
+    "days_to_maturity": {
+      "min": 55,
+      "max": 65
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {
+        "min": -10,
+        "max": -6
+      },
+      "note": "Direct sow in fall or early spring; in zone 9 sow September–November or January–February. Flashy Trout Back is cold-hardy and slow to bolt, making it suitable for the full cool season in zone 9. The red spotting pattern is more pronounced in cool weather and may fade in warm spring conditions. Harvest outer leaves continuously or pull entire heads at 55–65 days."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 8,
+      "max": 12
+    },
+    "height_in": {
+      "min": 6,
+      "max": 10
+    },
+    "spread_in": {
+      "min": 8,
+      "max": 12
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Direct sow or transplant in partial shade to full sun in moist, fertile, well-drained soil; Flashy Trout Back (Forellen or Forellenschluss variant) is an Austrian heirloom romaine-type lettuce producing upright, semi-cos heads with large, spoon-shaped, bright green leaves heavily spotted with wine-red to maroon splashes and streaks — the pattern resembles the speckled back of a brown trout, giving the lettuce its evocative name. The combination of romaine structure (crisp, upright leaves with a prominent midrib) with the unique spotted coloring makes Flashy Trout Back one of the most visually distinctive lettuces for mixed plantings and specialty salad mixes. The flavor is mild, slightly sweet, and crisp — typical romaine quality without bitterness. The Austrian origin indicates good cold hardiness and a slow-to-bolt character that extends the harvest window in zone 9's warm springs. The dramatic spotted pattern on each leaf makes every head unique and immediately recognizable in market displays; it is one of the most frequently photographed heirloom lettuce varieties.",
+    "sources": [
+      "Seed Savers Exchange — Flashy Trout Back Lettuce Heritage Variety",
+      "Baker Creek Heirloom Seeds — Austrian Heirloom Lettuce",
+      "Cornell University Vegetable Varieties for Gardeners — Romaine and Cos Lettuce"
+    ]
+  }
+]

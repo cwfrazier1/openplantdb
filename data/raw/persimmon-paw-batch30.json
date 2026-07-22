@@ -1,0 +1,277 @@
+[
+  {
+    "slug": "napa-cabbage-blues",
+    "common_name": "Napa Cabbage Blues",
+    "scientific_name": "Brassica rapa subsp. pekinensis 'Blues'",
+    "category": "vegetable",
+    "subcategory": "brassica",
+    "days_to_germination": {
+      "min": 4,
+      "max": 7
+    },
+    "germination_soil_temp_f": {
+      "min": 45,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 50,
+      "max": 60
+    },
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {
+        "min": -14,
+        "max": -10
+      },
+      "note": "Start indoors 3–4 weeks before transplant; in zone 9 transplant September–October for fall harvest. Blues is particularly tolerant of warm fall temperatures at the start of the season, which is the most common reason napa cabbage fails in zone 9 — it sets heads even when early fall temperatures are still warm, then matures perfectly in December–February. Spring plantings in zone 9 (January–February transplant) are shorter-season and may bolt before heading fully."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 12,
+      "max": 18
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 18
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Start indoors and transplant into fertile, well-drained, consistently moist soil in full sun; Blues is a high-performing napa cabbage hybrid selected specifically for resistance to tipburn and premature bolting — the two primary failure modes for napa cabbage in warmer regions. The compact, upright heads weigh 4–6 pounds with tightly wrapped, pale yellow-green interior leaves and crisp, juicy, mildly sweet flavor that is ideal for fresh eating, kimchi, stir-fries, braises, and raw slaws. Blues develops solid heads without the loose, poorly-wrapped outer structure common in heat-stressed napa cabbage; the improved tip-burn resistance means more marketable heads per planting. In zone 9 fall is the primary season — transplant in September for harvest from November through January. Consistent soil moisture is critical for head development; water stress causes loose, poorly-filled heads and encourages premature bolting.",
+    "sources": [
+      "Johnny's Selected Seeds — Blues Napa Cabbage Performance Trials",
+      "University of California Cooperative Extension — Asian Brassica Crops for California",
+      "Rutgers University — Asian Vegetables: Napa Cabbage Production"
+    ]
+  },
+  {
+    "slug": "greek-oregano-kaliteri",
+    "common_name": "Greek Oregano Kaliteri",
+    "scientific_name": "Origanum vulgare subsp. hirtum 'Kaliteri'",
+    "category": "herb",
+    "subcategory": "culinary herb",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 55,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 90
+    },
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": 0
+      },
+      "note": "Start indoors 6–8 weeks before last frost or direct sow in early spring; in zone 9 plant September–November or January–March. Kaliteri grows best in lean, well-drained, slightly alkaline soil — avoid rich, moist conditions that dilute essential oil content and reduce flavor intensity. The name 'Kaliteri' means 'the best' in Greek. Harvest before flowering for peak essential oil concentration; cut back by half after each flush to maintain compact habit."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 12,
+      "max": 18
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant in full sun in lean, very well-drained, slightly alkaline soil — avoid overwatering and rich fertilization; Greek Oregano Kaliteri is a select strain of true Greek oregano (Origanum vulgare subsp. hirtum) chosen for exceptionally high essential oil content and intense, pungent flavor — the variety name means 'the best' in Greek. The aromatic, white-woolly leaves are strongly pungent with the hot, spicy, complex oregano fragrance that defines Mediterranean cooking from Greek salads to Neapolitan pizza to Spanish sofrito. Most oregano sold at grocery stores is mild and nearly flavorless compared to properly grown Greek oregano subsp. hirtum; Kaliteri represents a selected high-oil strain of an already superior subspecies. The small, compact mound of woolly gray-green leaves is attractive in the herb garden and the white summer flowers are valuable to bees. In zone 9 the plant grows vigorously in fall, winter, and spring but may become semi-dormant in peak summer heat. Soil drainage is more critical than fertility — soggy soil kills Greek oregano quickly.",
+    "sources": [
+      "Richters Herb Catalogue — Greek Oregano Kaliteri",
+      "University of Florida IFAS Extension — Mediterranean Herbs for Florida",
+      "Texas A&M AgriLife Extension — Perennial Herb Production for Texas"
+    ]
+  },
+  {
+    "slug": "pomegranate-salavatski",
+    "common_name": "Salavatski Pomegranate",
+    "scientific_name": "Punica granatum 'Salavatski'",
+    "category": "fruit",
+    "subcategory": "pomegranate",
+    "days_to_germination": {
+      "min": 30,
+      "max": 60
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 80
+    },
+    "days_to_maturity": {
+      "min": 1095,
+      "max": 1825
+    },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 8
+      },
+      "note": "Plant container-grown trees or rooted cuttings in spring; in zone 9 plant February–April. Salavatski is one of the most cold-hardy pomegranate varieties, tolerating temperatures to about 10–15°F when established — substantially hardier than most other fruiting pomegranates and suitable for zone 7b–11. Trees are self-fertile; no cross-pollination is needed. Pomegranates fruit on new wood; prune lightly after the first year to encourage branching and fruit spur development."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 96,
+      "max": 144
+    },
+    "height_in": {
+      "min": 96,
+      "max": 168
+    },
+    "spread_in": {
+      "min": 72,
+      "max": 120
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant in full sun in well-drained soil — pomegranates tolerate a wide range of soil types including clay and alkaline soils; Salavatski (also spelled Salavatsky, Salavatskij) is a Central Asian pomegranate from the Caucasus region of Russia and Azerbaijan, valued primarily for its exceptional cold hardiness among fruiting pomegranate varieties — it survives temperatures to 10–15°F that would kill most other cultivars, making it the go-to choice for zone 7b–8 growers and providing extra insurance in zone 9a. The large, deep-red to garnet fruits ripen in September–November with tart-sweet, ruby-red arils surrounding tender seeds — the flavor is typically more tart than softer varieties like Wonderful, which suits pomegranate juice, grenadine, and Persian cooking better than fresh eating. Trees are extremely drought-tolerant once established and long-lived; established specimens may produce fruit for decades or even centuries. In zone 9 pomegranates produce heavily and reliably; Salavatski offers cold-hardiness insurance for zone 9a gardens where rare hard freezes occasionally occur.",
+    "sources": [
+      "California Rare Fruit Growers Association — Pomegranate Cultivar Comparison",
+      "University of Georgia Extension — Pomegranate Production in Georgia",
+      "Texas A&M AgriLife Extension — Pomegranates for Texas"
+    ]
+  },
+  {
+    "slug": "australian-winter-pea",
+    "common_name": "Australian Winter Pea",
+    "scientific_name": "Lathyrus hirsutus",
+    "category": "cover-crop",
+    "subcategory": "legume cover crop",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 35,
+      "max": 65
+    },
+    "days_to_maturity": {
+      "min": 90,
+      "max": 150
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -4
+      },
+      "note": "Broadcast or drill in fall; in zone 9 sow October–November. Australian Winter Pea is cold-hardy to about 10–15°F once established and is one of the most reliable cool-season leguminous cover crops for the Gulf South — it establishes in fall, grows slowly through winter, and produces a large flush of biomass in late winter and early spring before being terminated ahead of the spring garden. Inoculate with hairy vetch-type Rhizobium inoculant for best nitrogen fixation. Terminate by mowing or rolling when pods begin to form."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 2,
+      "max": 4
+    },
+    "height_in": {
+      "min": 12,
+      "max": 36
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Broadcast 40–80 lbs per acre (or 2–3 oz per 100 sq ft) into prepared soil in fall; Australian Winter Pea (Lathyrus hirsutus) is a vining, annual cool-season legume used as a winter cover crop and green manure throughout the Deep South, Gulf Coast, and mid-South. It is one of the few leguminous cover crops that establishes reliably in Gulf Coast fall conditions, tolerating the warm early-fall temperatures that prevent hairy vetch from establishing and the occasional winter cold snaps that kill crimson clover. The sprawling, twining vines produce a dense, weed-suppressing mat through winter and a large flush of nitrogen-rich biomass in late winter–early spring. When inoculated with the correct Rhizobium strain, it fixes 50–100 lbs of nitrogen per acre. Australian Winter Pea is sometimes called hairy vetchling or Caley pea; it is not edible and should not be confused with edible garden peas. Terminate by mowing or rolling 3–4 weeks before the next crop to allow residue to decompose and release nitrogen.",
+    "sources": [
+      "USDA Natural Resources Conservation Service — Lathyrus hirsutus Cover Crop",
+      "Mississippi State University Extension — Cool-Season Cover Crops for the Deep South",
+      "Texas A&M AgriLife Extension — Winter Cover Crops for Texas"
+    ]
+  },
+  {
+    "slug": "pawpaw-overleese",
+    "common_name": "Overleese Pawpaw",
+    "scientific_name": "Asimina triloba 'Overleese'",
+    "category": "fruit",
+    "subcategory": "pawpaw",
+    "days_to_germination": {
+      "min": 90,
+      "max": 120
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 1825,
+      "max": 2555
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 6
+      },
+      "note": "Plant container-grown trees in early spring before bud break; in zone 9 plant February–March. Pawpaws have a fleshy, easily-damaged taproot that makes transplanting difficult — purchase container-grown trees and disturb the root ball as little as possible at planting. A second variety is required for pollination; use hand-pollination with a small brush between different pawpaw varieties for best fruit set. Trees need 2–3 years of establishment before significant fruiting begins."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 96,
+      "max": 144
+    },
+    "height_in": {
+      "min": 120,
+      "max": 240
+    },
+    "spread_in": {
+      "min": 72,
+      "max": 120
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Plant in partial shade when young, transitioning to full sun as the tree matures; Overleese is a named pawpaw cultivar selected by Charles Zimmerman from southern Indiana, producing very large, high-quality fruits — among the largest of any named pawpaw variety at 6–16 ounces per fruit, with a distinctive elongated shape. The creamy, custard-like yellow flesh has a rich tropical flavor combining notes of banana, vanilla, and mango with a dense, smooth texture and relatively few, large seeds. Overleese is regarded as one of the premier flavor varieties in the Corwin Davis and Neal Peterson selection programs and produces heavy crops on mature trees. Pawpaws are the largest edible fruit native to North America and require cross-pollination from a different named variety — plant two or more cultivars within 50 feet, or hand-pollinate using a brush to transfer pollen between flowers on different trees. Ripe fruits fall from the tree in September–October and must be eaten or refrigerated within a week; they do not ship well, which is why pawpaws remain a local specialty.",
+    "sources": [
+      "Kentucky State University Pawpaw Program — Overleese Cultivar Profile",
+      "Ohio State University Extension — Growing Pawpaws",
+      "North Carolina State University Extension — Pawpaw Production Guide"
+    ]
+  }
+]

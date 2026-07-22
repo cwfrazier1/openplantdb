@@ -1,0 +1,277 @@
+[
+  {
+    "slug": "centurion-rabbiteye-blueberry",
+    "common_name": "Centurion Rabbiteye Blueberry",
+    "scientific_name": "Vaccinium virgatum 'Centurion'",
+    "category": "berry",
+    "subcategory": "blueberry",
+    "days_to_germination": {
+      "min": 30,
+      "max": 60
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 1095,
+      "max": 1460
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": 4
+      },
+      "note": "Plant container-grown shrubs in late winter to early spring; in zone 8–9 plant December–February. Centurion is a mid-to-late season rabbiteye variety that extends the harvest window into mid-July in zone 8–9 after early and mid-season varieties have finished. Plant with Premier, Climax, or Brightwell for cross-pollination."
+    },
+    "usda_zones": {
+      "min": 6,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 72,
+      "max": 96
+    },
+    "height_in": {
+      "min": 72,
+      "max": 120
+    },
+    "spread_in": {
+      "min": 60,
+      "max": 84
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in acidic (pH 4.5–5.5), well-drained sandy or loamy soil with pine bark amendment in full sun; Centurion is a late-season rabbiteye blueberry that ripens in July in zone 8–9, extending the pick-your-own season after mid-season varieties like Brightwell have finished. The large, firm, dark blue berries have excellent flavor and shipping quality, and the upright, vigorous shrubs can reach 8–10 feet at maturity. Centurion requires approximately 400–500 chilling hours, making it suitable for zone 7–8b but less reliable in the mildest parts of zone 9a where chilling accumulation can be inconsistent. Plant as part of a multi-variety planting to achieve full-season harvest from late May through mid-July. The firm, large berries are particularly well-suited to fresh markets and U-pick operations where shelf life matters.",
+    "sources": [
+      "University of Georgia Extension — Rabbiteye Blueberry Cultivar Performance",
+      "Louisiana State University AgCenter — Rabbiteye Blueberry Production",
+      "University of Florida IFAS Extension — Blueberry Cultivar Guide"
+    ]
+  },
+  {
+    "slug": "farfugium-leopard-plant",
+    "common_name": "Farfugium (Leopard Plant)",
+    "scientific_name": "Ligularia tussilaginea",
+    "category": "flower",
+    "subcategory": "shade perennial",
+    "days_to_germination": {
+      "min": 14,
+      "max": 30
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 180,
+      "max": 365
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 8
+      },
+      "note": "Plant divisions or container plants in spring or fall in part shade to full shade; farfugium establishes readily in moist, shaded locations. In zone 7b–10 it is fully evergreen through winter and thrives year-round. The bold, leathery foliage provides a dramatic tropical effect throughout the growing season; flowers appear in fall to winter."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 18,
+      "max": 30
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 30
+    },
+    "sun": "shade",
+    "water": "moderate",
+    "directions": "Plant in part shade to full shade in moist, rich, well-drained soil; farfugium (sometimes called leopard plant) is one of the finest and most underused shade perennials for Southern gardens, producing large, round, leathery, glossy green leaves up to 12 inches across on long petioles — creating a bold, tropical-looking accent in shaded beds where most other perennials look tired. Unlike its cousin Ligularia dentata, farfugium tolerates the heat and humidity of zone 8–9 summers without wilting, making it far better suited to Gulf Coast gardens. Bright yellow daisy flowers appear in November–December, providing rare winter color in shade beds. The standard species has plain green leaves; the cultivar 'Aureomaculata' (leopard plant) features dramatic yellow spots on the foliage. Divide crowded clumps every 3–4 years in early spring; the plant is virtually maintenance-free beyond occasional watering during dry periods.",
+    "sources": [
+      "University of Florida IFAS Extension — Farfugium for Florida Gardens",
+      "Louisiana State University AgCenter — Shade Plants for Louisiana",
+      "Texas A&M AgriLife Extension — Farfugium in Gulf Coast Gardens"
+    ]
+  },
+  {
+    "slug": "mammoth-basil",
+    "common_name": "Mammoth Basil",
+    "scientific_name": "Ocimum basilicum 'Mammoth'",
+    "category": "herb",
+    "subcategory": "culinary herb",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 80
+    },
+    "maturity_from": "seed",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": -2
+      },
+      "note": "Start indoors 4 weeks before last frost and transplant after all frost danger has passed; in zone 9 transplant February–March and again August for fall production. Mammoth's large leaf size makes it particularly prone to slug and snail damage at transplant; protect young plants until established. Pinch flower stalks promptly to maintain leaf production."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 18,
+      "max": 24
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Transplant into fertile, well-drained soil in full sun with consistent moisture; Mammoth basil is prized for its extraordinarily large leaves, regularly reaching 4–6 inches long and 3–4 inches wide — far larger than standard Genovese varieties. The oversized leaves are ideal for making whole-leaf Caprese salad arrangements, individual-leaf wraps, and for presentations where a single perfect leaf is the feature rather than chiffonade. Flavor is standard Genovese-type — sweet, clove-like, aromatic — with no sacrifice in quality for the size increase. The relatively compact plant habit for a large-leaf variety makes Mammoth more manageable than some other large basil types. Pinch flower buds as soon as they appear to maintain leaf production; in zone 9 the plant will bolt in May–June but often rebounds for fall production.",
+    "sources": [
+      "University of Florida IFAS Extension — Basil Varieties for Florida",
+      "Cornell University Herb Garden — Large-Leaf Basil Types",
+      "Johnny's Selected Seeds — Sweet Basil Variety Guide"
+    ]
+  },
+  {
+    "slug": "mrs-burns-lemon-basil",
+    "common_name": "Mrs. Burns' Lemon Basil",
+    "scientific_name": "Ocimum citriodorum 'Mrs. Burns'",
+    "category": "herb",
+    "subcategory": "culinary herb",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 55,
+      "max": 75
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -2,
+        "max": 2
+      },
+      "note": "Start indoors 4 weeks early or direct sow after last frost; in zone 9 sow February–March for spring and August for fall. Mrs. Burns' is hardier and more heat-tolerant than most lemon basil varieties, continuing to produce well through the Gulf Coast summer where other lemon basil types stall or bolt early."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 18,
+      "max": 30
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 18
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Direct sow or transplant into fertile, well-drained soil in full sun; Mrs. Burns' Lemon Basil is an heirloom New Mexico variety saved by Laura Burns and introduced through Seed Savers Exchange — it produces intensely lemon-scented leaves with a clean, bright citrus aroma considered the best-flavored of all lemon basil strains by many herb enthusiasts. The leaves are broader and darker green than most lemon basil types, and the overall plant is more robust and heat-tolerant than the standard Thai lemon basil or commercial Lemon Basil varieties. The white flowers are also fragrant and edible, and the plant sets viable seed readily for saving. This variety is especially valuable in the Gulf Coast South where heat persistence is required; most lemon basils drop productivity by midsummer but Mrs. Burns' continues into the fall.",
+    "sources": [
+      "Seed Savers Exchange — Mrs. Burns' Lemon Basil Heritage Variety",
+      "New Mexico State University Extension — Herb Production",
+      "Cornell University Herb Garden — Lemon Basil Varieties"
+    ]
+  },
+  {
+    "slug": "fino-verde-basil",
+    "common_name": "Fino Verde Basil",
+    "scientific_name": "Ocimum basilicum 'Fino Verde'",
+    "category": "herb",
+    "subcategory": "culinary herb",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 50,
+      "max": 70
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -2,
+        "max": 2
+      },
+      "note": "Start indoors 4 weeks early or direct sow after last frost; in zone 9 sow February–March and August for fall. Fino Verde's compact habit makes it ideal for containers, window boxes, and tight spaces in raised beds. Pinch stem tips regularly to maintain compact, bushy form and delay bolting."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 10,
+      "max": 14
+    },
+    "height_in": {
+      "min": 12,
+      "max": 18
+    },
+    "spread_in": {
+      "min": 10,
+      "max": 14
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Direct sow or transplant into fertile, well-drained soil in full sun with consistent moisture; Fino Verde is the classic compact Ligurian basil from the Italian Riviera, where the small, dark green, rounded leaves are the traditional variety used in authentic Genovese pesto. The tiny leaves (less than 1 inch) are more aromatic per unit area than large-leafed varieties — the essential oil concentration is higher in the smaller leaves — and the resulting pesto has a brighter, more complex flavor than pesto made with Genovese or large-leaf types. The compact, tidy, 12–18 inch plants are ideal for container growing and rarely need staking. Regular pinching maintains bushiness and dramatically delays bolting in summer heat. In zone 9 the small leaf size also makes it more heat-tolerant than large-leafed types in peak summer.",
+    "sources": [
+      "University of California Cooperative Extension — Italian Basil Varieties",
+      "Cornell University Herb Garden — Small-Leaf Basil Types",
+      "University of Florida IFAS Extension — Specialty Herb Production"
+    ]
+  }
+]

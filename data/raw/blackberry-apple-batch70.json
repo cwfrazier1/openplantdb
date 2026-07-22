@@ -1,0 +1,277 @@
+[
+  {
+    "slug": "strawberry-florida-beauty",
+    "common_name": "Florida Beauty Strawberry",
+    "scientific_name": "Fragaria x ananassa 'Florida Beauty'",
+    "category": "berry",
+    "subcategory": "strawberry",
+    "days_to_germination": {
+      "min": 14,
+      "max": 28
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 90,
+      "max": 120
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -2,
+        "max": 4
+      },
+      "note": "Plant transplants (plugs) in fall for winter-spring production; in zone 9 plant September–November. Florida Beauty is a day-neutral strawberry that fruits without a specific photoperiod requirement, allowing production throughout the cool season in zone 9 — from approximately November through April. Set plants with the crown at soil level (not buried, not too high). In zone 9 strawberries perform as cool-season annuals planted fresh each fall; the summer heat ends production and most gardeners replace plants each season."
+    },
+    "usda_zones": {
+      "min": 8,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 10,
+      "max": 14
+    },
+    "height_in": {
+      "min": 6,
+      "max": 10
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 18
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in full sun in well-drained, fertile, slightly acidic soil with high organic matter content; Florida Beauty is a University of Florida-developed day-neutral strawberry cultivar specifically bred for warm-winter production in zones 8–10, where traditional June-bearing strawberries from northern breeding programs produce poorly or fail entirely. The 'day-neutral' characteristic allows Florida Beauty to initiate flower buds and set fruit based on temperature rather than day length, enabling continuous fruit production throughout zone 9's cool season (November–April) regardless of the photoperiod. The medium-to-large, glossy, red fruits have excellent flavor — sweet with the bright strawberry character that distinguishes the best fresh-market strawberries from commercial long-distance shipping varieties. Florida Beauty was developed for performance in Florida, Gulf Coast, and similar warm-winter climates where most northern strawberry varieties fail to produce adequate fruit, making it one of the most appropriate strawberry choices for zone 9 home gardens.",
+    "sources": [
+      "University of Florida IFAS Extension — Florida Beauty Strawberry Cultivar Release",
+      "Louisiana State University AgCenter — Strawberry Production for Gulf South",
+      "Texas A&M AgriLife Extension — Strawberry Varieties for Texas"
+    ]
+  },
+  {
+    "slug": "blackberry-arapaho",
+    "common_name": "Arapaho Blackberry",
+    "scientific_name": "Rubus hybrid 'Arapaho'",
+    "category": "berry",
+    "subcategory": "blackberry",
+    "days_to_germination": {
+      "min": 14,
+      "max": 60
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 365,
+      "max": 730
+    },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": -6,
+        "max": 0
+      },
+      "note": "Plant bare-root canes in late winter or early spring; in zone 9 plant December–March. Arapaho is erect-growing and needs only light tipping of new canes at 3–4 feet to encourage lateral branching for maximum fruiting wood — unlike trailing blackberries, no extensive trellis infrastructure is required. In zone 9 Arapaho requires only 400–500 chill hours, making it viable in most zone 9 areas. Fruiting occurs on second-year canes (floricanes); remove old canes to the ground after harvest each year."
+    },
+    "usda_zones": {
+      "min": 6,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 36,
+      "max": 48
+    },
+    "height_in": {
+      "min": 60,
+      "max": 84
+    },
+    "spread_in": {
+      "min": 24,
+      "max": 36
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in full sun in well-drained, fertile, slightly acidic soil; Arapaho was the first thornless erect blackberry ever released, developed by the University of Arkansas fruit breeding program in 1993 — a significant milestone in blackberry cultivation that eliminated the primary obstacle to home garden blackberry growing for many people who found thorned blackberries impractical to pick and manage. The erect, self-supporting canes reach 5–7 feet and require only tipping (not a full trellis system) to remain manageable. The large, glossy, firm-yet-juicy berries with excellent sweet-tart flavor ripen in early June in zone 9, among the earliest erect blackberries. The firm texture allows berries to be picked and stored for several days without softening — an advantage for home gardeners who harvest on a schedule. Arapaho was succeeded by later thornless varieties (Apache, Natchez) with larger berries, but remains widely planted for its early ripening, good flavor, and reliable performance in zone 6–9.",
+    "sources": [
+      "University of Arkansas Division of Agriculture — Arapaho Thornless Blackberry Release",
+      "Louisiana State University AgCenter — Blackberry Varieties for Gulf South",
+      "Texas A&M AgriLife Extension — Blackberry Production for Texas"
+    ]
+  },
+  {
+    "slug": "squash-jack-be-little",
+    "common_name": "Jack Be Little Pumpkin",
+    "scientific_name": "Cucurbita pepo 'Jack Be Little'",
+    "category": "vegetable",
+    "subcategory": "pumpkin",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 85,
+      "max": 100
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 1,
+        "max": 3
+      },
+      "note": "Direct sow after last frost when soil reaches 70°F; in zone 9 plant March–June. Jack Be Little is a compact vining plant that produces many fruits — allow all fruits to develop since the small size means production of 10–20 fruits per plant is achievable. The tiny fruits cure in place on the vine; harvest when stems are dry and skin is hard. Cured properly (2 weeks in warm, dry conditions) the fruits store for 3–4 months as decorative pieces and can still be eaten after the ornamental season."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 24,
+      "max": 36
+    },
+    "height_in": {
+      "min": 10,
+      "max": 18
+    },
+    "spread_in": {
+      "min": 60,
+      "max": 96
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in full sun in well-drained, fertile, slightly acidic soil; Jack Be Little is an All-America Selections award-winning miniature pumpkin producing perfectly proportioned, deeply ribbed, orange fruits only 2–4 inches across and weighing 3–8 ounces — a precisely scaled-down replica of a full-size pumpkin that has become one of the most popular autumn decorating elements for tabletop arrangements, wreaths, and centerpieces since winning its AAS award in 1989. The tiny fruits are also fully edible: halved and roasted in the oven or microwave, they produce a small amount of dense, sweet, pumpkin-flavored flesh that can be eaten directly from the shell — the shell becoming the natural serving bowl. The vine produces abundantly (often 10–15 fruits per plant) from a relatively compact plant footprint, making it highly space-efficient for ornamental pumpkin production. Jack Be Little became the defining mini pumpkin that launched the specialty ornamental squash market and has remained the most recognized mini pumpkin variety.",
+    "sources": [
+      "All-America Selections — Jack Be Little Pumpkin 1989 Award",
+      "Cornell University Cooperative Extension — Miniature Pumpkin Production",
+      "University of Florida IFAS Extension — Ornamental Pumpkin Varieties"
+    ]
+  },
+  {
+    "slug": "apple-gala",
+    "common_name": "Gala Apple",
+    "scientific_name": "Malus domestica 'Gala'",
+    "category": "fruit",
+    "subcategory": "apple",
+    "days_to_germination": {
+      "min": 30,
+      "max": 90
+    },
+    "germination_soil_temp_f": {
+      "min": 35,
+      "max": 50
+    },
+    "days_to_maturity": {
+      "min": 1095,
+      "max": 1460
+    },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -2
+      },
+      "note": "Plant bare-root trees in late winter while dormant; in zone 8–9 plant December–February. Gala requires 500–600 chill hours (hours below 45°F) to break dormancy — viable in zone 8 and in colder parts of zone 9 that accumulate adequate chilling. Plant with a compatible cross-pollinator (Fuji, Honeycrisp, Granny Smith) within 50 feet for good fruit set. Gala is among the earlier-ripening apple varieties (August in zone 8–9), well ahead of the fall apple season."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 150,
+      "max": 200
+    },
+    "height_in": {
+      "min": 120,
+      "max": 200
+    },
+    "spread_in": {
+      "min": 120,
+      "max": 160
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in full sun in well-drained, fertile, slightly acidic to neutral soil — apples require excellent drainage and are not adapted to clay-heavy sites; Gala is a New Zealand-developed apple variety (Golden Delicious x Kidds Orange Red) released in 1934 that has become one of the top-selling apple varieties in the world and the most planted apple in the United States as of the 2010s. The medium-sized, striped red-and-gold fruits have a distinctive mild, sweet, honey-like flavor with very low acidity that makes them exceptionally popular for fresh eating across all age groups — the approachable, sweet flavor profile has made Gala the preferred apple in school lunch programs, grocery stores, and fresh snacking applications. The crisp, fine-grained texture holds up well for several weeks in refrigerator storage. Numerous Gala strains and sports ('Royal Gala', 'Regal Prince', 'Galaxy') offer improved color or earlier ripening but share the same flavor profile. The early-to-mid season ripening (August in warm climates) makes Gala one of the first fresh apples available each year.",
+    "sources": [
+      "New Zealand Plant Variety Rights — Gala Apple Original Registration",
+      "Washington State University Extension — Apple Variety Guide",
+      "Texas A&M AgriLife Extension — Apple Variety Selection for Texas"
+    ]
+  },
+  {
+    "slug": "tulsi-kapoor",
+    "common_name": "Kapoor Tulsi",
+    "scientific_name": "Ocimum tenuiflorum 'Kapoor'",
+    "category": "herb",
+    "subcategory": "basil",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 90
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Direct sow or transplant after all frost danger has passed; in zone 9 plant March–May. Kapoor tulsi is a compact (12–18 inch) holy basil that thrives in zone 9's warm, humid summers and often self-seeds to create a self-perpetuating colony. In Ayurvedic tradition the plant should not be harvested after dark or on certain days; for culinary and medicinal use, harvest fresh leaves continuously to prevent bolting. In zone 9 the plant can overwinter in frost-free spots as a short-lived perennial, but is best treated as an annual that self-seeds."
+    },
+    "usda_zones": {
+      "min": 9,
+      "max": 12
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 12,
+      "max": 20
+    },
+    "spread_in": {
+      "min": 10,
+      "max": 16
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in full sun in well-drained, moderately fertile, slightly acidic soil; Kapoor Tulsi is a named variety of holy basil (Ocimum tenuiflorum) selected for compact habit and exceptionally high eugenol content — the volatile oil component that gives tulsi its characteristic warm, clove-like fragrance is highest in the Kapoor selection, making it the preferred variety for medicinal use in Ayurvedic preparations where eugenol concentration matters. In Hindu tradition, Tulsi (also called Vrinda or the Holy Basil) is the most sacred plant in the home, representing Lakshmi and kept in a tulsi pot on the veranda of traditional Indian homes where it is tended daily. Beyond its religious significance, Kapoor Tulsi is used medicinally for digestive support, as an adaptogen for stress, in tea blends for respiratory health, and as an aromatic in Indian and Southeast Asian cooking where the clove-camphor notes are distinctly different from sweet basil. The compact Kapoor selection fits easily in container or herb garden cultivation and grows robustly in the warm conditions of the Gulf South.",
+    "sources": [
+      "University of Florida IFAS Extension — Holy Basil for Florida Gardens",
+      "Purdue University Center for New Crops — Ocimum tenuiflorum",
+      "Texas A&M AgriLife Extension — Specialty Basil and Herb Production"
+    ]
+  }
+]

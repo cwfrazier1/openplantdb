@@ -1,0 +1,277 @@
+[
+  {
+    "slug": "collard-champion",
+    "common_name": "Champion Collard Greens",
+    "scientific_name": "Brassica oleracea var. viridis 'Champion'",
+    "category": "vegetable",
+    "subcategory": "collard",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 50,
+      "max": 65
+    },
+    "days_to_maturity": {
+      "min": 75,
+      "max": 85
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -6,
+        "max": -3
+      },
+      "note": "Direct sow or transplant 3–6 weeks before last frost; in zone 9 sow September–February for fall through spring harvest. Champion was developed as an improved Southern collard with resistance to downy mildew — a significant disease concern in the humid Gulf Coast climate where other collard varieties may develop foliar disease in warm, wet conditions. In zone 9 Champion's disease resistance makes it particularly well-suited to the humid fall growing season; frost improves the flavor significantly as it does with all collards. Harvest outer leaves as needed."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 24,
+      "max": 36
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in full sun in well-drained, fertile, slightly acidic to neutral soil; Champion is an open-pollinated Southern collard variety developed as a disease-resistant improvement over traditional Georgia Southern — the same large-leafed, upright, non-heading collard type of traditional Southern cuisine but with improved resistance to downy mildew (Peronospora brassicae) that affects other varieties in warm, humid growing conditions typical of the Gulf South. The large, smooth, dark green to blue-green leaves with a prominent pale midrib are slightly more uniform in size and more upright in growth habit than Georgia Southern, making Champion a preferred choice for growers seeking both culinary quality and consistent appearance. The classic slow-simmered Southern preparation — cooking collard leaves for hours with smoked pork until deeply tender — works identically with Champion; the mild, rich flavor and large leaf size produce the same deeply satisfying braised greens associated with Southern food culture. Disease resistance makes Champion the practical choice for fall production in the Gulf South where humidity and warmth encourage fungal disease in more susceptible varieties.",
+    "sources": [
+      "Southern Exposure Seed Exchange — Champion Collard Variety Description",
+      "Louisiana State University AgCenter — Collard Greens for Gulf South Gardens",
+      "North Carolina State University Extension — Collard Variety Trials for Southeast"
+    ]
+  },
+  {
+    "slug": "mizuna-red-kingdom",
+    "common_name": "Red Kingdom Mizuna",
+    "scientific_name": "Brassica rapa var. japonica 'Red Kingdom'",
+    "category": "vegetable",
+    "subcategory": "mizuna",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 45,
+      "max": 65
+    },
+    "days_to_maturity": {
+      "min": 21,
+      "max": 40
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -6,
+        "max": -3
+      },
+      "note": "Direct sow 3–6 weeks before last frost; in zone 9 sow September–March for fall through spring harvest. Red Kingdom produces baby salad leaves in as little as 21 days and reaches full size by 35–40 days — one of the fastest-growing cool-season greens available. Harvest as baby leaves for mild salad use or allow to reach full size for a more pronounced peppery flavor. In zone 9 successive sowings every 2–3 weeks maintain continuous supply through the cool season. The vibrant red-purple color makes Red Kingdom an excellent cut-and-come-again salad green that persists beautifully through zone 9 winters."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 4,
+      "max": 6
+    },
+    "height_in": {
+      "min": 6,
+      "max": 12
+    },
+    "spread_in": {
+      "min": 6,
+      "max": 10
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Plant in partial shade to full sun in well-drained, moderately fertile, slightly acidic to neutral soil; Red Kingdom is a red-leaved selection of mizuna (Brassica rapa var. japonica) that combines the deeply cut, feathery leaf shape of traditional green mizuna with vivid deep ruby-red to burgundy-purple leaf color — creating one of the most ornamental salad greens available for kitchen garden beds and mixed containers. Mizuna is a Japanese mustard green with a mild, slightly peppery, pleasantly tangy flavor that is substantially less harsh than red mustard or arugula, making Red Kingdom one of the most approachable and versatile peppery greens for fresh salads. Baby leaves harvested at 2–3 inches have a particularly mild and delicate flavor that works well in mixed salad blends; mature leaves develop more pronounced peppery notes similar to mild arugula. The vivid red-purple color is most intense in cool weather and fades somewhat as temperatures rise in spring — a cool autumn or winter planting in zone 9 produces the most visually striking, deeply colored leaves. Red Kingdom's partial shade tolerance makes it a productive salad green for kitchen gardens with limited full-sun space.",
+    "sources": [
+      "Johnny's Selected Seeds — Red Kingdom Mizuna Description",
+      "University of Florida IFAS Extension — Asian Greens for Florida Gardens",
+      "Louisiana State University AgCenter — Cool-Season Salad Greens for Gulf South"
+    ]
+  },
+  {
+    "slug": "radish-purple-plum",
+    "common_name": "Purple Plum Radish",
+    "scientific_name": "Raphanus sativus 'Purple Plum'",
+    "category": "vegetable",
+    "subcategory": "radish",
+    "days_to_germination": {
+      "min": 3,
+      "max": 7
+    },
+    "germination_soil_temp_f": {
+      "min": 45,
+      "max": 65
+    },
+    "days_to_maturity": {
+      "min": 25,
+      "max": 30
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -6,
+        "max": -2
+      },
+      "note": "Direct sow 2–6 weeks before last frost; in zone 9 sow October–March for fall through spring harvest. Purple Plum is one of the fastest-maturing radish varieties — ready in as little as 25 days. Sow in succession every 7–10 days for continuous harvest through the cool season. In zone 9 fall sowings in October–November produce the best radish quality; spring radishes may bolt quickly as temperatures rise. Thin to 2 inches apart for proper round shape development. Harvest promptly when roots reach 1 inch diameter — oversize radishes become pithy and unpleasantly hot."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 2,
+      "max": 3
+    },
+    "height_in": {
+      "min": 6,
+      "max": 10
+    },
+    "spread_in": {
+      "min": 3,
+      "max": 5
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in full sun in loose, well-drained, slightly acidic to neutral soil; Purple Plum is a round, globe-shaped spring radish with uniformly deep violet-purple skin — a dramatic and attractive departure from the familiar red-and-white Cherry Belle type, with the rich purple skin creating an unusual ornamental effect in the radish row and on vegetable platters. When sliced, Purple Plum reveals clean white flesh with only the thin purple skin providing color — the interior is typical crisp, juicy, peppery radish with the same satisfying bite as standard spring radishes. The flavor is classic spring radish: pungent, peppery, slightly sweet when very fresh, and progressively hotter as the root ages or the weather warms. The round, smooth shape and uniform size make Purple Plum excellent for sliced vegetable platters, salads, and garnishes where the deep purple skin creates visual contrast with other vegetables. As one of the fastest-maturing vegetables available, radishes including Purple Plum are often direct-sown between slow-growing transplants (tomatoes, peppers, squash) to use the space productively while the main crop establishes.",
+    "sources": [
+      "Johnny's Selected Seeds — Purple Plum Radish Description",
+      "Cornell University Cooperative Extension — Spring Radish Production",
+      "University of Florida IFAS Extension — Cool-Season Radishes for Florida"
+    ]
+  },
+  {
+    "slug": "kohlrabi-early-white-vienna",
+    "common_name": "Early White Vienna Kohlrabi",
+    "scientific_name": "Brassica oleracea var. gongylodes 'Early White Vienna'",
+    "category": "vegetable",
+    "subcategory": "kohlrabi",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 45,
+      "max": 65
+    },
+    "days_to_maturity": {
+      "min": 45,
+      "max": 60
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -6,
+        "max": -3
+      },
+      "note": "Direct sow or transplant 3–6 weeks before last frost; in zone 9 sow September–February for fall through spring harvest. Kohlrabi is one of the fastest-maturing Brassica crops — ready in 45–60 days from seed. Harvest when the swollen stem reaches 2–3 inches diameter; larger sizes can become woody and fibrous. In zone 9 fall planting produces excellent quality; plants handle light frost with no damage. The rapid maturity makes kohlrabi valuable for succession planting between other slower crops. Peel the tough outer skin before eating."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 6,
+      "max": 9
+    },
+    "height_in": {
+      "min": 12,
+      "max": 18
+    },
+    "spread_in": {
+      "min": 8,
+      "max": 12
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in full sun in well-drained, fertile, slightly acidic to neutral soil; Early White Vienna is the standard open-pollinated kohlrabi variety — the pale green, globe-shaped swollen stem that has defined kohlrabi's appearance in seed catalogs and markets for more than a century. Kohlrabi is among the most distinctive of all vegetables because the edible part is neither a root nor a leaf but a dramatically swollen, above-ground stem that balloons into a globe shape at the base of the plant with the leaves attached at the sides — a growth habit that surprises gardeners encountering kohlrabi for the first time. The crisp, juicy white flesh beneath the thin pale-green skin has a flavor often described as a mild, sweet, slightly broccoli-stem-flavored apple — kohlrabi is excellent eaten raw like an apple, cut into sticks for snacking and dipping, shredded into slaws, or cooked in stir-fries and soups where it retains some crunch even when heated. The flavor is far milder and sweeter than most brassicas, making kohlrabi one of the most approachable and snackable vegetables directly from the garden, particularly attractive to children who enjoy the mild sweetness and the theatrical process of peeling and eating the unusual globe.",
+    "sources": [
+      "Cornell University Cooperative Extension — Kohlrabi Production Guide",
+      "University of Florida IFAS Extension — Kohlrabi for Florida Gardens",
+      "Southern Exposure Seed Exchange — Early White Vienna Kohlrabi Description"
+    ]
+  },
+  {
+    "slug": "parsnip-harris-model",
+    "common_name": "Harris Model Parsnip",
+    "scientific_name": "Pastinaca sativa 'Harris Model'",
+    "category": "vegetable",
+    "subcategory": "parsnip",
+    "days_to_germination": {
+      "min": 14,
+      "max": 28
+    },
+    "germination_soil_temp_f": {
+      "min": 50,
+      "max": 65
+    },
+    "days_to_maturity": {
+      "min": 100,
+      "max": 130
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "soil_workable",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Direct sow as soon as soil can be worked in early spring — parsnip requires a long, cool growing season of 100–130 days and cannot tolerate summer heat. Germination is notoriously slow (14–28 days) and erratic; sow thickly and thin to 3–4 inches after germination. Parsnip performs best in zones 3–7 where hard fall frosts convert the roots' starches to sugars — the classic technique of leaving roots in the ground through fall frosts and harvesting in late fall/winter produces the sweetest, most intensely flavored roots. Zone 9 gardeners will find parsnip very challenging due to insufficient cold for sweetness development."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 7
+    },
+    "spacing_in": {
+      "min": 3,
+      "max": 4
+    },
+    "height_in": {
+      "min": 18,
+      "max": 24
+    },
+    "spread_in": {
+      "min": 4,
+      "max": 6
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in full sun in deep, loose, well-drained, slightly acidic to neutral, stone-free soil — parsnip requires the same deep, uncompacted growing conditions as carrots but needs even more space due to the larger root; Harris Model is the standard American parsnip variety, selected in the 1880s by the Joseph Harris Seed Company as a smooth, uniform improvement over the traditional English Hollow Crown parsnip — fewer hollow crowns, smoother skin, and better root uniformity make Harris Model the most widely grown American parsnip. The long, tapering, ivory-white roots develop a rich, complex flavor that is unmistakably its own: sweet and aromatic with earthy, celery-like, and nuttily caramelized notes when roasted — a flavor that lacks any close comparison among other vegetables. The signature technique for maximizing parsnip flavor is 'frosting' — leaving harvested or in-ground roots exposed to repeated hard frosts that convert starches to sugars, creating a dramatically sweeter root than summer-harvested parsnips. Roasted parsnips (with butter, herbs, and honey) are one of the great classic British-American root vegetable preparations, where high heat caramelizes the natural sugars and transforms the texture from firm-and-dense to tender and lightly crisp at the edges.",
+    "sources": [
+      "Joseph Harris Seed Company — Harris Model Parsnip Historical Introduction",
+      "Cornell University Cooperative Extension — Parsnip Production Guide",
+      "University of Minnesota Extension — Root Vegetable Growing Guide"
+    ]
+  }
+]

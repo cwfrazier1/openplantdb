@@ -1,0 +1,277 @@
+[
+  {
+    "slug": "mammoth-red-rock-cabbage",
+    "common_name": "Mammoth Red Rock Cabbage",
+    "scientific_name": "Brassica oleracea var. capitata 'Mammoth Red Rock'",
+    "category": "vegetable",
+    "subcategory": "brassica",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 45,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 95,
+      "max": 110
+    },
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {
+        "min": -20,
+        "max": -14
+      },
+      "note": "Start indoors 6–8 weeks before transplant; in zone 9 start August and transplant September–October for a December–March harvest. Mammoth Red Rock is a late-season storage type that needs the full fall-to-winter growing period to develop its characteristic large, dense heads — rushing it with too-late planting produces undersized heads. In zone 9 the purple-red color deepens and intensifies after frost, which converts some starches to sugars and improves flavor."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 12,
+      "max": 18
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Start indoors and transplant into fertile, well-drained, consistently moist soil in full sun; Mammoth Red Rock is a large, late-season red cabbage heirloom that forms very dense, dark red-purple heads of 8–10 pounds — among the largest and densest of red cabbage types. The firm, tightly-packed heads have a robust, slightly peppery flavor that mellows to rich sweetness after frost exposure and is perfect for braised red cabbage with apples and vinegar (the classic Scandinavian and German preparation), coleslaw, sauerkraut, and long-storage use. Red cabbage keeps far longer than green cabbage — 3–4 months in cold storage at near-freezing temperatures — making Mammoth Red Rock particularly valuable for homesteaders and home food preservation. The deeply saturated red-purple color comes from anthocyanin pigments that are natural pH indicators, turning more blue-purple in alkaline cooking water and more red in acidic conditions (add vinegar to fix the red color when braising). In zone 9 Mammoth Red Rock is a fall-planted crop that matures through the winter months.",
+    "sources": [
+      "Seed Savers Exchange — Mammoth Red Rock Cabbage Heritage Variety",
+      "Cornell University Vegetable Varieties for Gardeners — Late-Season Red Cabbage",
+      "Southern Exposure Seed Exchange — Storage Cabbage Varieties"
+    ]
+  },
+  {
+    "slug": "nero-di-toscana-kale",
+    "common_name": "Nero di Toscana Kale",
+    "scientific_name": "Brassica oleracea var. palmifolia 'Nero di Toscana'",
+    "category": "vegetable",
+    "subcategory": "leafy green",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 45,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 80
+    },
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {
+        "min": -14,
+        "max": -10
+      },
+      "note": "Start indoors 4–6 weeks before transplant; in zone 9 transplant September–October for a November–March harvest. Nero di Toscana is cold-hardy to about 10–15°F and is one of the kales with the longest productive season in zone 9, providing a continuous harvest of lower leaves from fall through late spring. The flavor improves dramatically after cold exposure — first frost converts starches to sugar and deepens the savory, mineral flavor of the dark leaves."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 24,
+      "max": 36
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 18
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Start indoors and transplant into fertile, well-drained soil in full sun; Nero di Toscana (also known as Lacinato kale, Dinosaur kale, or Cavolo Nero) is the traditional Italian black kale of Tuscany, producing long, strap-like leaves with a deeply blistered (savoyed) surface and an almost blue-black dark green color — the darkest of all kale types. The texture is firmer and the flavor is more savory, mineral, and complex than curly kale, with less bitterness and a sweeter, earthier depth that develops most fully after frost. Nero di Toscana is the authentic ingredient in ribollita (Tuscan bread and vegetable soup), farinata di cavolo nero, and braised Tuscan kale side dishes where curly kale cannot substitute. The long, upright growth habit exposes the lower leaves for continuous harvest while the growing tip extends upward — a productive cut-and-come-again pattern that provides months of harvest from a single planting. Remove individual outer leaves for harvest to allow continuous new growth from the center growing point.",
+    "sources": [
+      "Slow Food Foundation — Cavolo Nero di Toscana Presidio",
+      "University of Florida IFAS Extension — Kale Varieties for Florida",
+      "Seeds of Italy — Nero di Toscana Kale Growing Notes"
+    ]
+  },
+  {
+    "slug": "japanese-indigo",
+    "common_name": "Japanese Indigo",
+    "scientific_name": "Persicaria tinctoria",
+    "category": "herb",
+    "subcategory": "dye plant",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 80
+    },
+    "days_to_maturity": {
+      "min": 70,
+      "max": 90
+    },
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -6,
+        "max": -4
+      },
+      "note": "Start indoors 6–8 weeks before last frost; in zone 9 start February–March and transplant March–April. Japanese Indigo is a warm-season annual harvested before flowering for the highest leaf indican content; harvest the first flush of leaves when plants are 12–18 inches tall, then allow regrowth for a second harvest. In zone 9 the long warm season allows 2–3 harvests before fall. The plants self-sow readily in zone 9 conditions and may naturalize in moist garden areas."
+    },
+    "usda_zones": {
+      "min": 6,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 24,
+      "max": 48
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 18
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Start indoors and transplant into fertile, moist, well-drained soil in full sun; Japanese Indigo (Ai, Tade Ai) is the traditional indigo dye plant of Japan, used for over 1,500 years to produce the brilliant blue textile dye that colors traditional Japanese fabrics including indigo-dyed cotton, shibori tie-dye, and katazome stencil-printed cloth. The blue dye precursor indican is stored in the fresh leaves and requires a fermentation vat (sukumo) or direct fresh-leaf dyeing process to produce the indigo pigment that bonds to fiber. Unlike the tropical indigo plant (Indigofera), Japanese Indigo thrives in temperate garden conditions and is accessible to North American home growers. Fresh leaves yield blue dye directly when crushed and applied to cotton in the sun — a simple process known as 'leaf printing' that produces soft blue marks without a dye vat. The ornamental plants with reddish stems and oval, deep green leaves and pink flower spikes in fall are attractive in the garden and valuable to craft dyers, fiber artists, and natural dye enthusiasts.",
+    "sources": [
+      "Botanical Colors — Japanese Indigo Natural Dye Guide",
+      "University of Georgia Extension — Natural Dye Plants for the Southeast",
+      "Richters Herb Catalogue — Japanese Indigo Growing Notes"
+    ]
+  },
+  {
+    "slug": "black-spanish-radish",
+    "common_name": "Black Spanish Radish",
+    "scientific_name": "Raphanus sativus 'Black Spanish'",
+    "category": "vegetable",
+    "subcategory": "root vegetable",
+    "days_to_germination": {
+      "min": 5,
+      "max": 7
+    },
+    "germination_soil_temp_f": {
+      "min": 45,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 55,
+      "max": 70
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {
+        "min": -12,
+        "max": -8
+      },
+      "note": "Direct sow in fall; in zone 9 sow September–November for a December–February harvest. Black Spanish radish is a large winter storage type that requires the full 55–70 days of cool weather to develop properly — it is not a quick spring radish. In zone 9 fall planting is the primary season; spring planting usually bolts before the roots size up. Harvest roots before heavy spring rains cause them to split or become pithy."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 4,
+      "max": 6
+    },
+    "height_in": {
+      "min": 12,
+      "max": 18
+    },
+    "spread_in": {
+      "min": 4,
+      "max": 6
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Direct sow 0.5 inch deep and thin to 4–6 inches in loose, deep, well-prepared soil in full sun; Black Spanish Radish is an ancient winter storage radish documented in cultivation since at least the 1500s and widely grown in France, Germany, and Eastern Europe as a cold-season storage crop. The round to slightly elongated roots are 3–4 inches across with striking jet-black skin and brilliant white, very firm, pungent flesh inside — the flavor is substantially stronger and more peppery than spring radishes, with a dry, dense texture and a sharp spicy bite that is characteristic of all large winter radish types. The traditional preparation is sliced paper-thin and eaten with butter and salt as a crudité, or grated raw into salads where the pungency is diluted by other ingredients. Black Spanish radish stores for 2–3 months in cold storage with the greens removed, making it a genuine cold-pantry root crop unlike the quick-to-deteriorate spring radish types. The distinctive black skin and white interior create dramatic visual contrast in raw preparations.",
+    "sources": [
+      "Seed Savers Exchange — Black Spanish Radish Heritage Variety",
+      "Cornell University Vegetable Varieties for Gardeners — Winter Radishes",
+      "Seeds of Change — European Heirloom Root Vegetables"
+    ]
+  },
+  {
+    "slug": "white-wonder-cucumber",
+    "common_name": "White Wonder Cucumber",
+    "scientific_name": "Cucumis sativus 'White Wonder'",
+    "category": "vegetable",
+    "subcategory": "cucumber",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 90
+    },
+    "days_to_maturity": {
+      "min": 58,
+      "max": 65
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 2
+      },
+      "note": "Direct sow after last frost in warm soil; in zone 9 plant February–March for spring and August for fall. White Wonder matures ivory-white and should be harvested when fully colored but before any yellowing begins — at this stage the flesh is at its most crisp, cool, and mild. Remove overripe fruits promptly to keep the vine producing. Provide a trellis for more vertical growth and cleaner fruit."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 24,
+      "max": 60
+    },
+    "spread_in": {
+      "min": 36,
+      "max": 72
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Direct sow in fertile, well-drained soil in full sun with consistent moisture; White Wonder is an heirloom slicing cucumber producing large, 7–8 inch fruits with ivory-to-cream-white skin, crisp white flesh, and an exceptionally mild, cool, lightly sweet flavor with virtually no bitterness — the mildest of all cucumber types. The white color results from the absence of chlorophyll in the skin rather than from immaturity; properly ripe White Wonder fruits are uniformly ivory-white and are never green. The skin is thin and does not require peeling, and the flesh is juicier and more tender than standard green cucumbers with the same thin-skinned type. White Wonder cucumbers are a curiosity and conversation piece in the garden and at farmers' markets, attracting attention precisely because the white color is unexpected. The heat tolerance is comparable to standard cucumber types, and the vigorous vines produce well through zone 9 spring and fall seasons. Pick every 2–3 days to maintain production.",
+    "sources": [
+      "Seed Savers Exchange — White Wonder Cucumber Heritage Variety",
+      "Baker Creek Heirloom Seeds — White Cucumber Varieties",
+      "Cornell University Vegetable Varieties for Gardeners — White Cucumber Types"
+    ]
+  }
+]

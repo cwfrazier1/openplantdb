@@ -1,0 +1,277 @@
+[
+  {
+    "slug": "alderman-pea",
+    "common_name": "Alderman Pea",
+    "scientific_name": "Pisum sativum 'Alderman'",
+    "category": "vegetable",
+    "subcategory": "legume",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 40,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 68,
+      "max": 74
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -6,
+        "max": -4
+      },
+      "note": "Direct sow as soon as soil can be worked in late winter to early spring; in zone 9 sow January–February for a March–April harvest before heat ends the season. Alderman is a tall vine (4–5 feet) requiring a sturdy trellis or fence. In zone 9 the spring pea season is brief — 6–10 weeks from planting to heat shutdown. A fall sowing in October can extend the season, but fall peas in zone 9 often produce a lighter crop than spring."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 2,
+      "max": 4
+    },
+    "height_in": {
+      "min": 48,
+      "max": 60
+    },
+    "spread_in": {
+      "min": 4,
+      "max": 8
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Direct sow 1 inch deep in loose, well-drained, fertile soil in full sun; provide a trellis or fence for the tall vines; Alderman (also known as Tall Telephone) is a large-vine heirloom shelling pea producing very large, dark green pods of 4–5 inches, each containing 7–9 fat, sweet, dark green peas — the largest peas of any standard shelling type. It has been grown in American gardens since the 1880s and remains a benchmark for flavor and production among home garden peas. The large, starchy-sweet peas are particularly good for freezing because their size and firm texture hold up better than smaller-seeded varieties. The tall vines (4–5 feet) require stout support but reward with heavy production when trellised properly. Alderman is specifically adapted to the heavy production that makes the short cool-season window economically worthwhile for home gardeners and market growers — the high pod count and large pod size maximize yield from the brief growing window in zone 9. Do not fertilize heavily with nitrogen; peas fix their own and excess nitrogen promotes foliage over fruit.",
+    "sources": [
+      "Seed Savers Exchange — Alderman Pea Heritage Variety",
+      "Southern Exposure Seed Exchange — Tall Telephone Pea History",
+      "Cornell University Vegetable Varieties for Gardeners — Shelling Peas"
+    ]
+  },
+  {
+    "slug": "sugar-snap-pea",
+    "common_name": "Sugar Snap Pea",
+    "scientific_name": "Pisum sativum var. macrocarpon 'Sugar Snap'",
+    "category": "vegetable",
+    "subcategory": "legume",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 40,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 70
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -6,
+        "max": -4
+      },
+      "note": "Direct sow as soon as soil can be worked; in zone 9 sow January–February. Sugar Snap pea requires a trellis at 4–6 feet tall for the original tall strain; dwarf bush strains are available but the original tall type produces more heavily over a longer period. In zone 9 the pea season closes in April–May when heat arrives; maximizing yield requires early planting and heavy harvesting every 2–3 days. Powdery mildew can be a problem in humid zone 9 springs; plant early to harvest before disease pressure peaks."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 2,
+      "max": 4
+    },
+    "height_in": {
+      "min": 48,
+      "max": 72
+    },
+    "spread_in": {
+      "min": 4,
+      "max": 8
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Direct sow 1 inch deep in loose, well-drained, fertile soil in full sun with a trellis or fence for the tall vines; Sugar Snap Pea was bred by Calvin Lamborn and introduced in 1979, winning the All-America Selections award and transforming the edible-pod pea category — it combined the thick, succulent, fleshy pod of snow peas with the full, plump, sweet peas inside, creating a pod that is outstanding eaten raw, pod-and-all, with no tough strings to remove at the right harvest stage. The crisp snap when a mature pod is broken — and the burst of sweetness from the swollen peas inside — made Sugar Snap immediately distinctive from flat snow peas. Harvest when pods are round and full but still bright green before the pod skin begins to wrinkle; at this stage the natural sugars are at their peak. Overmature pods develop a tough string along the suture and the peas inside become starchy. In zone 9 Sugar Snap pea is primarily a January–April crop that provides the most rewarding fresh vegetable of the cool season.",
+    "sources": [
+      "All-America Selections — Sugar Snap Pea 1979 Award Record",
+      "University of California Cooperative Extension — Edible-Pod Pea Production",
+      "Cornell University Vegetable Varieties for Gardeners — Snap Peas"
+    ]
+  },
+  {
+    "slug": "king-sieg-leek",
+    "common_name": "King Sieg Leek",
+    "scientific_name": "Allium ampeloprasum 'King Sieg'",
+    "category": "vegetable",
+    "subcategory": "allium",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 50,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 70,
+      "max": 90
+    },
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {
+        "min": -20,
+        "max": -14
+      },
+      "note": "Start indoors 10–12 weeks before transplant; in zone 9 start August–September and transplant October–November. King Sieg is selected for mild winters and performs exceptionally well in zone 9, where it can be harvested through the winter without bolting. Transplant seedlings at pencil thickness into deep, wide holes or a trench; blanch the lower shank by earthing up soil as the plant grows. Harvest from November through March in zone 9 before spring warming initiates bolting."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 4,
+      "max": 6
+    },
+    "height_in": {
+      "min": 18,
+      "max": 30
+    },
+    "spread_in": {
+      "min": 4,
+      "max": 6
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Start indoors and transplant into deep, fertile, consistently moist soil in full sun; King Sieg is a Belgian-bred leek cultivar selected for the mild winter climates of the maritime Pacific Northwest and Gulf South — specifically bred to produce long, thick, white-blanche shanks without premature bolting in mild, frost-free or light-frost winters. Standard leek cultivars selected for cold northern climates often bolt prematurely when grown in mild zone 8–10 winters because the mild temperatures signal the plant that spring has arrived; King Sieg has delayed bolting response, allowing harvest through February and March in zone 9 without quality loss. The thick, tender white shanks with a mild, sweet leek flavor are excellent in potato-leek soup, braised whole, sautéed as a vegetable side, or used in place of onions where a milder allium is needed. Earth up soil around the shanks as the plants grow to extend the white, blanched portion and reduce the proportion of green.",
+    "sources": [
+      "Territorial Seed Company — King Sieg Leek Variety Notes",
+      "Oregon State University Extension — Leek Production for the Pacific Northwest",
+      "University of California Cooperative Extension — Leek Varieties for Mild Climates"
+    ]
+  },
+  {
+    "slug": "parade-bunching-onion",
+    "common_name": "Parade Bunching Onion",
+    "scientific_name": "Allium fistulosum 'Parade'",
+    "category": "vegetable",
+    "subcategory": "allium",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 50,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 70
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {
+        "min": -10,
+        "max": -6
+      },
+      "note": "Direct sow in fall or early spring; in zone 9 sow September–November for winter harvest or January–February for spring. Parade is a non-bulbing type that produces a single upright stem rather than multiple small bulbs, giving cleaner, more uniform appearance. Successive sowings every 4 weeks provide continuous harvest of young green onions. Plants can also be harvested at baby green stage (25–30 days) or at full size at 60–70 days."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 1,
+      "max": 2
+    },
+    "height_in": {
+      "min": 18,
+      "max": 24
+    },
+    "spread_in": {
+      "min": 1,
+      "max": 2
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Direct sow thinly in fertile, well-drained soil in full sun; Parade is a bunching onion (Japanese-type scallion or green onion) producing straight, uniform, single-stemmed plants with bright white bases, upright green tops, and a clean, mild, sweet flavor — the ideal scallion for fresh eating, garnishing, and all uses where an attractive, uniform appearance matters. Unlike multiplying types that form clusters of small bulbs, Parade produces a single straight stem that is easier to harvest, wash, and present. The non-bulbing, perennial-type Allium fistulosum species tolerates more cold, heat, and wet soil than common bulbing onions, making it well-suited to zone 9 year-round production. Parade is widely used in commercial food service and restaurant settings precisely because the straight, single-stem habit provides uniform portions without the cleaning and sorting of cluster types. In zone 9 plant Parade in fall for the cleanest, sweetest harvest through winter and spring.",
+    "sources": [
+      "Johnny's Selected Seeds — Parade Bunching Onion Variety Notes",
+      "University of Florida IFAS Extension — Scallion and Green Onion Production",
+      "Texas A&M AgriLife Extension — Bunching Onions for Texas Gardens"
+    ]
+  },
+  {
+    "slug": "red-long-of-tropea-onion",
+    "common_name": "Red Long of Tropea Onion",
+    "scientific_name": "Allium cepa 'Red Long of Tropea'",
+    "category": "vegetable",
+    "subcategory": "allium",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 50,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 100,
+      "max": 120
+    },
+    "maturity_from": "seed",
+    "sow_method": "indoor-start",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {
+        "min": -20,
+        "max": -14
+      },
+      "note": "Start indoors 10–12 weeks before transplant; in zone 9 start August–September and transplant October–November. Red Long of Tropea is a long-day onion adapted to the short winter days and mild temperatures of coastal Mediterranean and Gulf South climates. In zone 9 it produces a winter-to-spring crop, bulbing up in January–March as day length increases. Unlike short-day bulbing onions, Red Long of Tropea can be pulled young as a sweet salad onion before full bulb development."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 4,
+      "max": 6
+    },
+    "height_in": {
+      "min": 18,
+      "max": 24
+    },
+    "spread_in": {
+      "min": 4,
+      "max": 6
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Start indoors and transplant into deep, fertile, well-drained soil in full sun; Red Long of Tropea (Cipolla Rossa di Tropea) is the iconic long, elongated red onion of the Calabrian coast town of Tropea in southern Italy, with IGP protected status as a geographic-origin food product. The bulbs are strikingly elongated — cylindrical to torpedo-shaped rather than globe-shaped — with brilliant deep-magenta-red skin and white-to-light-pink flesh with exceptionally low pungency and high natural sweetness. The Tropea onion is the standard for Italian raw onion preparations — sliced thin on bruschetta, dressed with olive oil and herbs, or pickled in vinegar — where the mild, almost sweet flavor allows the onion to be eaten raw without the harsh bite of standard globe onions. The visual appeal of the deep red, elongated shape makes it a striking addition to salads and charcuterie boards. In zone 9 it bulbs up reliably through the mild winter and produces excellent results in the sandy loam soils typical of Gulf Coast gardens.",
+    "sources": [
+      "Slow Food Foundation — Presidia Red Onion of Tropea",
+      "University of Naples Federico II — Italian Heirloom Onion Varieties",
+      "Seeds of Italy — Cipolla Rossa di Tropea Production Notes"
+    ]
+  }
+]
