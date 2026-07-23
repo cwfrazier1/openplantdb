@@ -1,0 +1,83 @@
+[
+  {
+    "slug": "herrania-mariae",
+    "common_name": "Pataste",
+    "scientific_name": "Herrania mariae",
+    "category": "fruit",
+    "subcategory": "Amazonian shade-tolerant cacao-relative fruit tree",
+    "days_to_germination": {"min": 14, "max": 30},
+    "germination_soil_temp_f": {"min": 72, "max": 85},
+    "days_to_maturity": {"min": 1095, "max": 2190},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Plant in deep shade to partial shade in moist, humus-rich, well-drained, acidic soil in zone 10–12; Pataste (Wild Cacao, Cacao Silvestre) is a small, shade-tolerant understorey tree in the cacao family (Malvaceae/Theobromaceae) from the Amazonian lowlands of Brazil, Colombia, and Peru — producing cacao-like pods directly on the trunk and major branches (cauliflory) with sweet, white pulp around bitter seeds used locally to make traditional chocolate drinks and as a wild cacao substitute."
+    },
+    "usda_zones": {"min": 10, "max": 12},
+    "spacing_in": {"min": 96, "max": 180},
+    "height_in": {"min": 120, "max": 240},
+    "spread_in": {"min": 96, "max": 180},
+    "sun": "shade",
+    "water": "high",
+    "directions": "Plant Herrania mariae in deep to partial shade in moist, humus-rich, well-drained, acidic soil with consistently high humidity; maintain soil moisture year-round; protect from all frost and dry winds. Pataste is a close relative of cultivated cacao (Theobroma cacao) in the same subfamily Byttnerioideae, sharing cacao's characteristic cauliflorous pod production — the colorful, oval to elongated pods emerge directly from the trunk and major branches rather than at the branch tips. The pulp surrounding the seeds is white, translucent, and sweet (similar to cacao pulp, eaten fresh or fermented for beverages); the seeds themselves are bitter and high in theobromine like cacao, and have historically been used by Amazonian peoples as a cacao substitute or mixed with true cacao for chocolate preparation. Herrania is a genetically diverse cacao relative of significant interest to cacao breeders for disease-resistance genes, and several species produce viable chocolate-flavored pods. Growing in the deep, humid, understory shade of Amazonian forests, Pataste is adapted to conditions of very high humidity, no frost, and dappled to deep shade — making it a perfect choice for shaded positions in zone 10–12 tropical gardens where true cacao may grow poorly in full exposure.",
+    "sources": ["Cuatrecasas, J., 'Cacao and its Allies' (USDA, 1964)", "USDA ARS — Herrania genetic resources for cacao improvement", "Kew Science — Herrania mariae"]
+  },
+  {
+    "slug": "beilschmiedia-pendula",
+    "common_name": "Laurel Avocado",
+    "scientific_name": "Beilschmiedia pendula",
+    "category": "fruit",
+    "subcategory": "Caribbean Lauraceae wild avocado relative tree",
+    "days_to_germination": {"min": 21, "max": 60},
+    "germination_soil_temp_f": {"min": 68, "max": 82},
+    "days_to_maturity": {"min": 1825, "max": 5475},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Plant container stock in spring in partial shade to full sun in fertile, moist, well-drained, slightly acidic to neutral soil in zone 10–12; Laurel Avocado (West Indian Laurel, Palo de Laurel) is a medium to large forest tree of the Lauraceae family — related to true avocado (Persea americana) — native to tropical forests of the Caribbean, Central America, and northern South America, bearing oval to pear-shaped fruits resembling small avocados with greenish to purple-black skin and oily, avocado-like green flesh with a distinct laurel-leaf flavor."
+    },
+    "usda_zones": {"min": 10, "max": 12},
+    "spacing_in": {"min": 120, "max": 240},
+    "height_in": {"min": 240, "max": 600},
+    "spread_in": {"min": 120, "max": 240},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Plant Beilschmiedia pendula in fertile, moist, well-drained, slightly acidic soil in partial shade to full sun; water regularly during establishment; mature trees are fairly drought-tolerant; harvest fruits when fully colored and give slightly to gentle pressure. Laurel Avocado is one of numerous wild Lauraceae fruit trees related to the cultivated avocado — in the Beilschmiedia genus, distributed across tropical Asia, Africa, and the Americas. The Caribbean species B. pendula produces fruits that closely resemble small avocados in appearance and texture: oval to pear-shaped, 2–3 inches long, with dark greenish to purple-black skin and green, oily, smooth-textured flesh surrounding a single large seed. The flavor is avocado-like but distinctly different — the laurel-family heritage shows in a subtle aromatic note reminiscent of bay leaves, giving the fruit a more complex character than standard avocado. Eaten fresh with salt and lime, used in local Caribbean cooking as an avocado substitute, and occasionally used to press for oil. The tree grows naturally in humid Caribbean forest and coastal woodland environments and tolerates periodic flooding better than cultivated avocado. Of interest as a potential rootstock for avocado cultivation research and as a wild relative for avocado breeding programs.",
+    "sources": ["Flora of the Lesser Antilles — Beilschmiedia pendula", "Kew Science — Beilschmiedia pendula", "USDA GRIN — Beilschmiedia pendula"]
+  },
+  {
+    "slug": "duranta-stenostachya",
+    "common_name": "Brazilian Skyflower",
+    "scientific_name": "Duranta stenostachya",
+    "category": "flower",
+    "subcategory": "Brazilian native small ornamental shrub",
+    "days_to_germination": {"min": 14, "max": 30},
+    "germination_soil_temp_f": {"min": 68, "max": 82},
+    "days_to_maturity": {"min": 180, "max": 365},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Root stem cuttings or plant container stock in spring in full sun to partial shade in well-drained, moderately fertile, moist soil in zone 9–11; Brazilian Skyflower is a compact, rounded shrub from the scrubby savannas and forest edges of Brazil — smaller and more cold-hardy than the common Pigeon Berry (Duranta erecta) — producing abundant sprays of small, violet-blue to lavender flowers in dense, narrow racemes throughout the warm season, followed by yellow-orange berry clusters, and making an excellent low hedge or border shrub for warm gardens."
+    },
+    "usda_zones": {"min": 9, "max": 11},
+    "spacing_in": {"min": 36, "max": 60},
+    "height_in": {"min": 36, "max": 72},
+    "spread_in": {"min": 36, "max": 60},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant Duranta stenostachya in well-drained, moderately fertile soil in full sun to partial shade; water regularly during establishment; prune after flowering to maintain compact shape; more cold-hardy than Duranta erecta, tolerating light frost to about 28°F. CAUTION: the berries are toxic to humans and pets. Brazilian Skyflower is a close relative of the widely grown Pigeon Berry (Duranta erecta) but with a distinctly different character: where D. erecta is a large, sprawling, vigorous shrub or small tree reaching 15 feet, D. stenostachya stays compact and rounded at 3–6 feet, making it much more manageable in typical garden situations. The flower spikes are narrower and more erect than D. erecta's cascading clusters, giving a slightly different visual effect; the violet-blue to lavender flower color is similar. Originally from the cerrado and forest-savanna transitions of interior Brazil, it is adapted to the seasonal drought and lean soils of tropical savannas — making it more drought-tolerant than D. erecta once established. The compact form makes it an excellent choice for informal hedges, mixed shrub borders, and foundation plantings in zone 9–11 gardens. Butterflies and hummingbirds visit the flowers just as reliably as they visit D. erecta. The yellow-orange berry clusters are ornamental through winter and much appreciated by mockingbirds and thrushes — but should not be eaten by people or pets.",
+    "sources": ["Flora do Brasil — Duranta stenostachya", "Kew Science — Duranta stenostachya", "USDA GRIN — Duranta stenostachya"]
+  }
+]

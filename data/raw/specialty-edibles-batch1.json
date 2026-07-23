@@ -1,0 +1,83 @@
+[
+  {
+    "slug": "abelmoschus-manihot",
+    "common_name": "Edible Hibiscus (Sunset Muskmallow, Aibika)",
+    "scientific_name": "Abelmoschus manihot",
+    "category": "vegetable",
+    "subcategory": "tropical leafy vegetable",
+    "days_to_germination": {"min": 7, "max": 14},
+    "germination_soil_temp_f": {"min": 70, "max": 80},
+    "days_to_maturity": {"min": 60, "max": 90},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Direct sow or transplant after last frost in moist, well-drained, fertile, slightly acidic to neutral soil in full sun; edible hibiscus grows rapidly in warm, humid conditions and begins producing harvestable leaves within 6–8 weeks — one of the most productive leafy vegetables per square foot in tropical gardens."
+    },
+    "usda_zones": {"min": 8, "max": 12},
+    "spacing_in": {"min": 24, "max": 36},
+    "height_in": {"min": 60, "max": 120},
+    "spread_in": {"min": 24, "max": 36},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Sow seeds 1 inch deep in well-drained, fertile, slightly acidic to neutral soil in full sun; edible hibiscus grows rapidly and may be harvested as a cut-and-come-again leafy green from 6 weeks. Abelmoschus manihot (edible hibiscus, aibika, or sunset muskmallow) is a large, fast-growing, tropical Asian shrub that produces an edible leaf crop as important as spinach across much of Melanesia, Papua New Guinea, and the Pacific Islands — the large, lobed, maple-leaf-like leaves (4–8 inches wide) are harvested young and cooked as a spinach substitute in stews, stir-fries, and soups; the young leaves have a mild, slightly mucilaginous (okra-like) texture and are highly nutritious, rich in protein, calcium, and vitamins A and C. The plant also produces very large, 4-to-6-inch, sulfur-yellow hibiscus flowers with a dark-purple eye that are strikingly ornamental; the flowers are also edible (used in salads and desserts). In zone 9, edible hibiscus grows as a fast annual or short-lived perennial, easily reaching 6–8 feet in a single season. The plants are closely related to okra (A. esculentus) and share its preference for heat, humidity, and well-drained, fertile soil; they cross readily with ornamental hibiscus but not with roselle (H. sabdariffa).",
+    "sources": ["World Vegetable Center — Abelmoschus manihot", "University of Hawaii Cooperative Extension — Tropical Leafy Vegetables", "Pacific Community — Traditional Crops of the Pacific"]
+  },
+  {
+    "slug": "solanum-sisymbriifolium",
+    "common_name": "Litchi Tomato (Morelle de Balbis, Sticky Nightshade)",
+    "scientific_name": "Solanum sisymbriifolium",
+    "category": "fruit",
+    "subcategory": "tropical berry shrub",
+    "days_to_germination": {"min": 7, "max": 21},
+    "germination_soil_temp_f": {"min": 70, "max": 80},
+    "days_to_maturity": {"min": 70, "max": 100},
+    "maturity_from": "seed",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": -6, "max": -4},
+      "note": "Start seeds indoors 4–6 weeks before last frost; transplant in full sun in well-drained, moderately fertile, slightly acidic to neutral soil after all frost danger; litchi tomato is an extremely robust, thorny, and productive plant that self-seeds prolifically in warm climates — handle with care as the numerous spines can be painful."
+    },
+    "usda_zones": {"min": 8, "max": 12},
+    "spacing_in": {"min": 36, "max": 60},
+    "height_in": {"min": 48, "max": 72},
+    "spread_in": {"min": 36, "max": 60},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Start seeds indoors 4–6 weeks before last frost; transplant to full sun in well-drained, moderately fertile, slightly acidic to neutral soil; wear gloves when handling — plants are densely spiny. Solanum sisymbriifolium (litchi tomato or morelle de Balbis) is a South American tomato relative producing small (1/2-to-3/4-inch), bright-red berries resembling tiny tomatoes, enclosed in a spiny, papery calyx that peels back to reveal the glossy red fruit at maturity — the resemblance to lychee fruit when partially enclosed in its papery husk gives the plant its common name 'litchi tomato.' The flavor is sweet-tart, similar to a cherry tomato but with a distinct floral undertone; fruits are eaten fresh, used in jams, pies, and salsas, or dried. The plants are extremely productive in warm climates, bearing prolifically from midsummer through frost. The entire plant is covered with numerous, sharp, reddish-orange spines on stems, leaves, and calyces that make handling without gloves painful; despite this deterrent, the plants are interesting and productive specialty edibles. CAUTION: Like all nightshades, the leaves, stems, and unripe berries are toxic; consume ripe fruits only. The spiny character makes litchi tomato a useful barrier or living fence plant.",
+    "sources": ["Purdue University — New Crop Resources — Solanum sisymbriifolium", "Cornell University Extension — Specialty Nightshades", "World Vegetable Center"]
+  },
+  {
+    "slug": "wedelia-trilobata",
+    "common_name": "Creeping Oxeye (Bay Biscayne Creeping Oxeye, Wedelia)",
+    "scientific_name": "Wedelia trilobata",
+    "category": "flower",
+    "subcategory": "groundcover annual or tender perennial",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 60, "max": 90},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 8},
+      "note": "Plant rooted cuttings or container stock in spring in well-drained, moderately fertile, slightly acidic to neutral soil in full sun to part shade; creeping oxeye is an extremely vigorous, salt-tolerant groundcover for hot, sunny locations in zones 9–12 but is INVASIVE in Florida and many tropical regions — verify local regulations before planting."
+    },
+    "usda_zones": {"min": 9, "max": 12},
+    "spacing_in": {"min": 18, "max": 24},
+    "height_in": {"min": 6, "max": 12},
+    "spread_in": {"min": 24, "max": 48},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in well-drained, moderately fertile, slightly acidic to neutral soil in full sun to part shade; root cuttings root extremely easily in moist soil or water. IMPORTANT NOTE: Wedelia trilobata is listed as invasive in Florida, Hawaii, many Caribbean islands, and other tropical regions where it outcompetes native vegetation — check local regulations before planting. Wedelia trilobata (creeping oxeye) is a low-growing, sprawling, tropical groundcover from the Caribbean and Central America producing cheerful, 1-inch, yellow daisy-like flowers with yellow centers nearly year-round in warm climates, on dense, mat-forming, succulent-stemmed trailing plants with glossy, dark-green, three-lobed leaves. It has been widely planted as a lawn alternative and groundcover throughout the Sunbelt for its heat, drought, and salt tolerance and its continuous yellow flowers; however, it has escaped cultivation and become seriously invasive in Florida and other warm, humid regions, smothering native vegetation and riparian areas. Wherever it is legal to grow, it is an outstanding low-maintenance groundcover for sunny, dry, coastal, or roadside banks; root cuttings root within days in moist soil. Grow with awareness of its invasive potential and do not plant near natural areas.",
+    "sources": ["University of Florida IFAS Extension — Invasive Plants", "USDA PLANTS Database", "Florida Exotic Pest Plant Council"]
+  }
+]

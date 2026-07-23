@@ -1,0 +1,83 @@
+[
+  {
+    "slug": "viola-tricolor",
+    "common_name": "Pansy (Heartsease, Wild Pansy)",
+    "scientific_name": "Viola tricolor",
+    "category": "flower",
+    "subcategory": "cool-season annual",
+    "days_to_germination": {"min": 7, "max": 14},
+    "germination_soil_temp_f": {"min": 55, "max": 65},
+    "days_to_maturity": {"min": 55, "max": 80},
+    "maturity_from": "seed",
+    "sow_method": "indoor-start",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {"min": -14, "max": -10},
+      "note": "Start seeds indoors 10–14 weeks before fall transplant date (August–September in zone 9) in moist, moderately fertile, slightly acidic to neutral soil in full sun to part shade; Viola tricolor is the wild European species parent of modern hybrid pansies and is smaller-flowered, more self-seeding, and more cold-hardy than hybrid types — outstanding for naturalistic winter-garden settings."
+    },
+    "usda_zones": {"min": 2, "max": 10},
+    "spacing_in": {"min": 6, "max": 9},
+    "height_in": {"min": 4, "max": 10},
+    "spread_in": {"min": 6, "max": 9},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Start seeds indoors or sow in place in fall in moist, moderately fertile, slightly acidic to neutral soil in full sun to part shade; Viola tricolor self-seeds prolifically and naturalizes readily in suitable gardens. Viola tricolor (heartsease or wild pansy) is the original wild European violet from which all modern garden pansies and violas have been derived — a small, free-flowering, self-seeding annual or short-lived perennial producing an abundance of charming, 3/4-to-1.5-inch, three-colored (typically violet-purple, yellow, and white) face-patterned flowers from fall through spring in mild climates. Unlike modern hybrid pansies (Viola × wittrockiana), the species heartsease is smaller-flowered, more prolific, more self-seeding, and more graceful — it naturalizes into a delightful ground-covering mass in cool-season beds, cottage gardens, and informal settings. The plant has a centuries-long history in European folk medicine and culinary use: the edible flowers have been used as garnishes, crystallized for confectionery decoration, and used to make flower teas and infusions (heartsease tea is a traditional folk remedy). In zone 9, sow in September–October for fall-through-spring bloom; the plants self-seed and return annually with minimal intervention. All Viola flowers are edible and mild-flavored.",
+    "sources": ["Royal Horticultural Society (RHS)", "Missouri Botanical Garden Plant Finder", "Herb Society of America — Edible Flowers"]
+  },
+  {
+    "slug": "viola-cornuta",
+    "common_name": "Horned Violet (Tufted Pansy, Viola)",
+    "scientific_name": "Viola cornuta",
+    "category": "flower",
+    "subcategory": "cool-season perennial",
+    "days_to_germination": {"min": 10, "max": 21},
+    "germination_soil_temp_f": {"min": 55, "max": 65},
+    "days_to_maturity": {"min": 60, "max": 90},
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {"min": -12, "max": -8},
+      "note": "Start seeds indoors 8–12 weeks before fall transplant date in moist, humus-rich, moderately fertile, slightly acidic to neutral soil in full sun to part shade; Viola cornuta is a true perennial violet species (unlike annual hybrid pansies) from the Pyrenees Mountains, blooming prolifically in cool weather and surviving mild winters for multi-year performance in zones 5–9."
+    },
+    "usda_zones": {"min": 5, "max": 9},
+    "spacing_in": {"min": 8, "max": 12},
+    "height_in": {"min": 5, "max": 10},
+    "spread_in": {"min": 9, "max": 15},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Start seeds indoors in late summer or fall in moist, moderately fertile, slightly acidic to neutral soil; transplant in fall in zone 9 for winter-spring bloom. Viola cornuta (horned violet or tufted pansy) is the perennial parent species of the 'viola' group of cool-season flowers — a true perennial native to the Pyrenees Mountains of Spain and France that produces masses of small, 1-to-1.5-inch, five-petaled flowers in purple, blue, white, yellow, and bicolor in spring (and fall in mild climates), on compact, spreading, tufted plants that bloom more prolifically and over a longer season than hybrid pansies (V. × wittrockiana). Unlike annual pansies, V. cornuta comes back reliably from the root each year in zones 5–9 and performs as a cool-season perennial groundcover. The 'Sorbet' series of modern violas is derived largely from V. cornuta and represents the best of the viola type: compact, free-flowering, heat-tolerant, and better adapted to mild climates than large-flowered pansies. In zone 9, violas perform from October through April; shear plants after the main spring bloom flush for compact regrowth and often a second blooming period in fall. All Viola flowers are edible.",
+    "sources": ["Missouri Botanical Garden Plant Finder", "University of Florida IFAS Extension — Cool-Season Annuals", "All-America Selections — Violas"]
+  },
+  {
+    "slug": "dendrocalamus-asper",
+    "common_name": "Giant Bamboo (Dragon Bamboo, Rough Bamboo)",
+    "scientific_name": "Dendrocalamus asper",
+    "category": "vegetable",
+    "subcategory": "tropical clumping bamboo",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 1095, "max": 1825},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 8},
+      "note": "Plant container-grown rhizome divisions or culm cuttings in spring in deep, moist, fertile, slightly acidic to neutral, well-drained soil in full sun; giant bamboo is one of the largest bamboos in the world and is clump-forming (not running) — a critical distinction that makes it manageable and non-invasive, unlike running bamboo species."
+    },
+    "usda_zones": {"min": 9, "max": 12},
+    "spacing_in": {"min": 120, "max": 240},
+    "height_in": {"min": 360, "max": 960},
+    "spread_in": {"min": 120, "max": 240},
+    "sun": "full",
+    "water": "high",
+    "directions": "Plant in deep, moist, fertile, slightly acidic to neutral soil in full sun; provide deep, consistent irrigation — giant bamboo is a water-demanding tropical plant. Dendrocalamus asper (giant bamboo or dragon bamboo) is one of the largest bamboo species in the world — a clumping (not running, not invasive) tropical giant native to Southeast Asia producing massive culms (stems) that can reach 20–40 meters tall and up to 20 cm in diameter in tropical climates, although in zone 9 conditions it is somewhat smaller (20–30 feet) and more manageable. The young shoots are among the most commercially important bamboo shoots in Southeast Asia — extraordinarily large, thick, and mild-flavored, sold fresh and canned throughout the region. Unlike running bamboo (Phyllostachys and others), Dendrocalamus asper forms a tightly clumped, slowly expanding clump and does not send runners underground to colonize surrounding areas — making it vastly more manageable in a garden setting. The mature culms are used for structural bamboo construction, furniture, crafts, and musical instruments. In zone 9, the clump will be killed to the ground by hard freezes but may resprout from the base if the root zone is well-mulched.",
+    "sources": ["University of Florida IFAS Extension — Bamboo", "USDA Forest Service — Tropical Bamboos", "World Bamboo Organization — Dendrocalamus asper"]
+  }
+]

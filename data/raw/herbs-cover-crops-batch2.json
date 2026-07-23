@@ -1,0 +1,83 @@
+[
+  {
+    "slug": "ferula-communis",
+    "common_name": "Giant Fennel (Common Giant Fennel)",
+    "scientific_name": "Ferula communis",
+    "category": "herb",
+    "subcategory": "perennial Mediterranean herb",
+    "days_to_germination": {"min": 14, "max": 28},
+    "germination_soil_temp_f": {"min": 55, "max": 68},
+    "days_to_maturity": {"min": 730, "max": 1825},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {"min": -8, "max": -4},
+      "note": "Direct sow fresh seeds in fall (seeds have short viability) in well-drained, lean to moderately fertile, slightly alkaline to neutral, rocky to sandy soil in full sun; giant fennel is a monocarpic perennial (blooms once, then dies) that spends years as a large, dramatic rosette of lacy green foliage before sending up a towering flower stalk — extraordinarily architectural when in bloom."
+    },
+    "usda_zones": {"min": 7, "max": 10},
+    "spacing_in": {"min": 36, "max": 60},
+    "height_in": {"min": 60, "max": 120},
+    "spread_in": {"min": 36, "max": 60},
+    "sun": "full",
+    "water": "low",
+    "directions": "Sow fresh seeds in fall in well-drained, lean, rocky to sandy, slightly alkaline to neutral soil in full sun; giant fennel does not transplant well — sow in place. Ferula communis (giant fennel) is an imposing, large-scale Mediterranean perennial herb — related to but very different from common fennel (Foeniculum vulgare) — that spends its first several years as a large, dramatic, knee-to-waist-high rosette of finely divided, blue-green, intensely ferny foliage before producing a towering, 6-to-10-foot flower stalk bearing large, golden-yellow umbels of flowers in late spring. The plant is monocarpic, meaning it flowers once, sets seed, then dies; it must be grown from seed and takes 3–7 years to reach flowering size. In Greek mythology, the giant fennel (narthex) was used as the staff by which Prometheus carried fire from the gods — the pithy, slow-burning stems were historically used as torches and fire-carriers across the Mediterranean. NOTE: Unlike culinary fennel (which is edible), giant fennel contains sesquiterpene coumarins that can cause skin photosensitivity and is toxic to livestock (especially sheep); it is grown as an ornamental structural plant, not a food plant. Seeds lose viability quickly; sow within weeks of harvest.",
+    "sources": ["Royal Horticultural Society (RHS)", "Missouri Botanical Garden Plant Finder", "Kew Royal Botanic Gardens — Plants of the World Online"]
+  },
+  {
+    "slug": "camelina-sativa",
+    "common_name": "Gold of Pleasure (False Flax)",
+    "scientific_name": "Camelina sativa",
+    "category": "cover-crop",
+    "subcategory": "cool-season oilseed cover crop",
+    "days_to_germination": {"min": 5, "max": 10},
+    "germination_soil_temp_f": {"min": 35, "max": 55},
+    "days_to_maturity": {"min": 75, "max": 110},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {"min": -10, "max": -6},
+      "note": "Direct sow in fall (October–November in zone 9) or very early spring in well-drained, lean to moderately fertile, slightly acidic to neutral soil in full sun; camelina is a cool-season oilseed brassica relative that germinates in near-freezing temperatures, grows rapidly, and matures a seed crop in 75–110 days — useful as a short-season winter annual oilseed or cover crop."
+    },
+    "usda_zones": {"min": 3, "max": 9},
+    "spacing_in": {"min": 3, "max": 6},
+    "height_in": {"min": 18, "max": 36},
+    "spread_in": {"min": 6, "max": 12},
+    "sun": "full",
+    "water": "low",
+    "directions": "Broadcast or drill seeds at 0.25–0.5 lbs per 1,000 sq ft in fall or early spring in well-drained, lean to moderately fertile soil in full sun; camelina establishes rapidly and needs little management. Camelina sativa (gold of pleasure or false flax) is an ancient European oilseed crop from the brassica family — known to have been cultivated in Europe since the Bronze Age — that is experiencing a significant agricultural renaissance as a low-input winter cover crop, biofuel feedstock, and omega-3-rich nutritional oil. The seeds contain 35–40% oil with an exceptionally high omega-3 fatty acid content (35–40% linolenic acid) and an unusually long shelf life due to naturally high vitamin E (tocopherol) content; the oil is gaining recognition as a culinary and nutritional product. As a cover crop, camelina is notable for its extreme cold-hardiness (germinates above 35°F), exceptional drought tolerance, and ability to grow in poor, lean soils where most crops struggle. It is one of the few cover crops that can be grown in dry, high-altitude, or marginal soils as a productive cash crop or green manure. The small, shiny, golden-brown seeds are harvested in summer when the seed pods turn golden-tan.",
+    "sources": ["USDA Agricultural Research Service — Camelina", "University of Idaho Extension — Camelina", "Purdue University — New Crop Resources — Camelina sativa"]
+  },
+  {
+    "slug": "ribes-hirtellum",
+    "common_name": "Gooseberry (Hawthorn Gooseberry)",
+    "scientific_name": "Ribes hirtellum",
+    "category": "berry",
+    "subcategory": "native edible berry shrub",
+    "days_to_germination": {"min": 30, "max": 90},
+    "germination_soil_temp_f": {"min": 35, "max": 55},
+    "days_to_maturity": {"min": 730, "max": 1460},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": -4, "max": 0},
+      "note": "Plant bare-root or container stock in early spring before bud break in moist, well-drained, slightly acidic to neutral, moderately fertile, humus-rich soil in full sun to part shade; hawthorn gooseberry is a North American native gooseberry species that tolerates more shade and moisture than European gooseberry cultivars and is resistant to white pine blister rust."
+    },
+    "usda_zones": {"min": 3, "max": 7},
+    "spacing_in": {"min": 48, "max": 72},
+    "height_in": {"min": 36, "max": 60},
+    "spread_in": {"min": 36, "max": 60},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Plant in moist, well-drained, slightly acidic to neutral, moderately fertile soil in full sun to part shade; provide consistent moisture during fruit development. Ribes hirtellum (hawthorn gooseberry or Appalachian gooseberry) is a native North American gooseberry species found naturally in cool, moist woodlands, bog margins, and rocky slopes from Labrador to Missouri — the most widespread of the native American gooseberries and a parent of many modern gooseberry cultivars. The shrubs are compact and moderately thorny, producing clusters of small, 1/2-inch, green to red-purple, translucent fruits in June–July with the characteristic sweet-tart gooseberry flavor excellent for preserves, pies, fools, wines, and chutneys. Unlike European gooseberry cultivars (Ribes uva-crispa), which often struggle with mildew in humid eastern North American summers, R. hirtellum and its native cultivar hybrids have better disease resistance in humid climates. An important distinction: Ribes species (gooseberries and currants) can serve as alternate hosts for white pine blister rust; planting within 1,000 feet of white pine stands is regulated or prohibited in some states — check local regulations. In zone 9, gooseberry requires deep mulching and consistent moisture and is marginal at the southern edge of its range; best in cooler climates.",
+    "sources": ["Lady Bird Johnson Wildflower Center", "University of Vermont Extension — Native Gooseberries", "USDA PLANTS Database — Ribes hirtellum"]
+  }
+]

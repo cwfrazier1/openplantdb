@@ -1,0 +1,56 @@
+[
+  {
+    "slug": "morus-multicaulis",
+    "common_name": "Chinese White Mulberry (Silkworm Mulberry, King White Mulberry)",
+    "scientific_name": "Morus multicaulis",
+    "category": "fruit",
+    "subcategory": "edible fruiting tree",
+    "days_to_germination": {"min": 21, "max": 42},
+    "germination_soil_temp_f": {"min": 60, "max": 75},
+    "days_to_maturity": {"min": 1095, "max": 1825},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": -4, "max": 4},
+      "note": "Plant grafted cuttings or container stock in spring in well-drained, moderately fertile, slightly acidic to neutral soil in full sun; Chinese white mulberry is the silkworm's preferred host plant and produces sweet, large white-to-lavender mulberry fruits — grown for both sericulture (silk production) and as an edible fruit tree in warm climates."
+    },
+    "usda_zones": {"min": 5, "max": 10},
+    "spacing_in": {"min": 180, "max": 360},
+    "height_in": {"min": 120, "max": 360},
+    "spread_in": {"min": 120, "max": 300},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in well-drained, moderately fertile, slightly acidic to neutral soil in full sun; mulberry tolerates a wide range of soil conditions once established. Morus multicaulis (Chinese white mulberry or silkworm mulberry) is the mulberry species most important to global sericulture (silk production) — the leaves are the sole or preferred food source for the silkworm (Bombyx mori), whose cocoons are processed into silk thread. The species is a distinct subspecies or variety within the Morus alba complex, selected over millennia in China, Japan, and Korea for large, tender, nutritious leaves with high silkworm productivity. It produces sweet, large, white-to-pale-lavender to white-pink fruits that ripen in early summer — slightly milder and sweeter than red mulberry, excellent fresh, in pies, jams, syrups, and wine. The tree is fast-growing and quite large, eventually reaching 20–30 feet with a spreading canopy that provides excellent summer shade. In zone 9, the large, sweet fruits ripen in May–June; the tree is deciduous and provides summer shade then winters interest with a distinctive, broadly spreading branch structure. An underused fruit tree for Gulf Coast food gardens where its heat and drought tolerance are genuine assets.",
+    "sources": ["University of Florida IFAS Extension — Mulberry", "Missouri Botanical Garden Plant Finder", "Texas A&M AgriLife Extension — Fruit Trees"]
+  },
+  {
+    "slug": "sesbania-cannabina",
+    "common_name": "Hemp Sesbania (Dhaincha, River Hemp)",
+    "scientific_name": "Sesbania cannabina",
+    "category": "cover-crop",
+    "subcategory": "warm-season nitrogen-fixing annual",
+    "days_to_germination": {"min": 5, "max": 10},
+    "germination_soil_temp_f": {"min": 65, "max": 85},
+    "days_to_maturity": {"min": 60, "max": 90},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Direct sow after last frost in moist to seasonally wet, moderately fertile, slightly acidic to neutral, clay to sandy loam soil in full sun; hemp sesbania is a fast-growing tropical legume used as a summer green manure crop in South and Southeast Asian paddy rice systems — it grows rapidly, fixes large amounts of nitrogen, and is incorporated before rice planting to enrich the soil."
+    },
+    "usda_zones": {"min": 8, "max": 12},
+    "spacing_in": {"min": 6, "max": 12},
+    "height_in": {"min": 60, "max": 180},
+    "spread_in": {"min": 12, "max": 24},
+    "sun": "full",
+    "water": "high",
+    "directions": "Broadcast or drill seeds in warm, moist soil in full sun at 3–5 lbs per 1,000 sq ft; incorporate into the soil as a green manure before flowering for maximum nitrogen benefit. Sesbania cannabina (dhaincha or hemp sesbania) is a fast-growing, tropical Asian legume used as one of the most important green manure and cover crop species in paddy rice farming systems across South and Southeast Asia. In Bangladesh, India, and Southeast Asia, dhaincha is sown in flooded or waterlogged paddies before the rice crop — a location where most cover crops cannot survive, but where dhaincha thrives in saturated conditions. It grows to 4–6 feet in 60–90 days, fixing substantial nitrogen through root symbiosis with Rhizobium bacteria, and is then incorporated into the flooded paddy soil as a nitrogen-rich green manure that significantly reduces the need for synthetic fertilizers in rice production. The plant is also notable for fiber extraction — the stems yield strong, durable bast fiber (hence 'hemp sesbania') historically used for rope, jute bags, and paper production in South Asia. As a garden cover crop in zone 8–12, it is outstanding for wet, poorly drained, nitrogen-deficient soils where other legumes cannot grow.",
+    "sources": ["International Rice Research Institute — Green Manure", "Indian Council of Agricultural Research — Dhaincha", "USDA SARE — Cover Crop Encyclopedia"]
+  }
+]
