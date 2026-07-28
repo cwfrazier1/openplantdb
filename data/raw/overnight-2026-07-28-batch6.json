@@ -1,0 +1,277 @@
+[
+  {
+    "slug": "box-huckleberry",
+    "common_name": "Box Huckleberry (Long-Lived Evergreen Creeping Shade Shrub)",
+    "scientific_name": "Gaylussacia brachycera",
+    "category": "berry",
+    "subcategory": "native shade groundcover shrub",
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": null,
+      "max": null
+    },
+    "days_to_maturity": {
+      "min": 1095,
+      "max": 1825
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant divisions or container stock in spring in moist, strongly acidic, humus-rich soil in shade to partial shade; Box Huckleberry spreads very slowly by rhizomes to form a low, dense, evergreen groundcover, and established colonies are extremely long-lived."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 8
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 6,
+      "max": 12
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 36
+    },
+    "sun": "shade",
+    "water": "moderate",
+    "directions": "Plant in moist, acidic (pH 4.5-5.5), humus-rich, well-drained soil in shade to partial shade, and mulch with pine needles or leaf litter to maintain acidity and moisture. Box Huckleberry is a rare, low, evergreen, boxwood-like shrub native to scattered sites in the eastern United States, forming slow-spreading clonal colonies that are among the longest-lived plant clones known, with some wild colonies estimated at over a thousand years old. Small, glossy, leathery evergreen leaves cover the low, dense mat of stems, and it bears small pink, bell-shaped spring flowers followed by sparse but edible, sweet, dark blue berries in summer, similar in flavor to other huckleberries though the plant fruits lightly in cultivation. Because it tolerates deep shade and stays low and evergreen year-round, it makes a distinctive, slow-growing woodland groundcover for shaded native gardens where few other fruiting shrubs will grow; give it consistent moisture and avoid disturbing the shallow rhizome mat once established.",
+    "sources": [
+      "USDA Forest Service — Gaylussacia brachycera Conservation Notes",
+      "Missouri Botanical Garden Plant Finder",
+      "Pennsylvania Natural Heritage Program"
+    ]
+  },
+  {
+    "slug": "scotia-elderberry",
+    "common_name": "Scotia Elderberry (Cold-Hardy Canadian Elderberry)",
+    "scientific_name": "Sambucus canadensis 'Scotia'",
+    "category": "berry",
+    "subcategory": "shrub fruit",
+    "days_to_germination": {
+      "min": 60,
+      "max": 90
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 365,
+      "max": 730
+    },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant rooted cuttings or container stock in spring in moist, fertile soil; Scotia is not self-fertile and should be planted with another elderberry cultivar such as Adams or York nearby for cross-pollination and full fruit set."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 8
+    },
+    "spacing_in": {
+      "min": 72,
+      "max": 96
+    },
+    "height_in": {
+      "min": 72,
+      "max": 120
+    },
+    "spread_in": {
+      "min": 72,
+      "max": 96
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Plant in moist, fertile, well-drained soil in full sun to partial shade; elderberries tolerate wet sites better than most fruiting shrubs and are well suited to low or seasonally damp spots in the garden. Scotia is a Nova Scotia-origin American elderberry selection valued for its very early ripening and large, showy fruit clusters of small, dark purple-black berries, borne on a vigorous, suckering shrub. Berries must be cooked before eating, as raw elderberries and other plant parts contain compounds that can cause stomach upset; ripe, cooked fruit is traditionally made into syrup, jelly, wine, and pie, and the broad, flat flower clusters can also be used fresh or dried for elderflower cordial and fritters. Prune out the oldest canes each winter to renew the shrub, since elderberries fruit best on relatively young wood, and cut the whole planting back hard every few years to keep it a manageable size.",
+    "sources": [
+      "Nova Scotia Department of Agriculture — Elderberry Cultivar Notes",
+      "University of Missouri Center for Agroforestry — Elderberry Production Guide",
+      "Cornell University Small Fruit Program"
+    ]
+  },
+  {
+    "slug": "wild-yam",
+    "common_name": "Wild Yam (American Wild Yam, Colic Root)",
+    "scientific_name": "Dioscorea villosa",
+    "category": "herb",
+    "subcategory": "native woodland vine",
+    "days_to_germination": {
+      "min": 30,
+      "max": 90
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 730,
+      "max": 1095
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 6
+      },
+      "note": "Plant root divisions or container stock in spring in moist, humus-rich soil in partial shade; Wild Yam is a twining, herbaceous vine that dies back to its rhizome each winter and re-emerges in spring, slowly forming a spreading colony under trees and along woodland edges."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 24
+    },
+    "height_in": {
+      "min": 60,
+      "max": 240
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 36
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Plant in moist, well-drained, humus-rich soil in partial to dappled shade, giving the twining vine a fence, shrub, or trellis to climb. Wild Yam is a native North American woodland vine long used in traditional herbal medicine, historically valued for its knotty rhizome, which contains diosgenin, a plant steroid compound that served as an early industrial source for synthesizing progesterone and other steroid hormones; despite folk claims, the raw rhizome is not directly hormonally active when eaten and is not a food crop like true cultivated yams. In the garden it is grown chiefly as a native woodland vine for naturalized shade plantings, valued for its heart-shaped leaves, twining habit, and small, inconspicuous summer flowers followed by distinctive three-winged seed capsules in fall. It spreads slowly by rhizome once established and tolerates a range of shaded conditions, making it a good choice for a low-maintenance native groundcover vine at a woodland edge.",
+    "sources": [
+      "USDA PLANTS Database — Dioscorea villosa",
+      "Lady Bird Johnson Wildflower Center",
+      "United Plant Savers — At-Risk Medicinal Plant List"
+    ]
+  },
+  {
+    "slug": "davis-pawpaw",
+    "common_name": "Davis Pawpaw (Reliable Historic Michigan Pawpaw)",
+    "scientific_name": "Asimina triloba 'Davis'",
+    "category": "fruit",
+    "subcategory": "tree fruit",
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": null,
+      "max": null
+    },
+    "days_to_maturity": {
+      "min": 1825,
+      "max": 2190
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": 4
+      },
+      "note": "Plant container-grown trees in spring in moist, humus-rich, slightly acidic to neutral soil in partial shade when young, transitioning to full sun at maturity; Davis needs a second, genetically distinct pawpaw cultivar nearby for cross-pollination and reliable fruit set."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 120,
+      "max": 180
+    },
+    "height_in": {
+      "min": 144,
+      "max": 240
+    },
+    "spread_in": {
+      "min": 120,
+      "max": 180
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Plant in moist, humus-rich, slightly acidic to neutral soil in partial shade when young, transitioning to full sun at fruiting age; Davis is one of the oldest widely propagated named pawpaw cultivars, selected by Michigan pawpaw breeder Corwin Davis in the mid-20th century from wild seedling trees and long valued for its consistent, reliable production and good flavor. Fruits are medium-sized with smooth, pale yellow, fiber-free flesh and a rich, sweet, banana-custard flavor, though the seeds are somewhat larger in proportion to flesh than in some newer cultivars. Davis ripens in the early-to-mid part of the pawpaw season and, alongside cultivars like Sunflower and Taytwo, played a foundational role in the mid-20th-century revival of interest in pawpaw as a cultivated fruit. Hand-pollinate with a small brush during the brief flowering window to improve fruit set, since pawpaw's natural pollinators (flies and beetles, drawn to the maroon flowers' faint carrion scent) are often scarce in home gardens.",
+    "sources": [
+      "Kentucky State University Pawpaw Research Program — Cultivar History",
+      "Virginia Cooperative Extension — Pawpaw Production",
+      "North Carolina State Extension"
+    ]
+  },
+  {
+    "slug": "pa-golden-pawpaw",
+    "common_name": "PA Golden Pawpaw (Pennsylvania Selection with Rich Golden Flesh)",
+    "scientific_name": "Asimina triloba 'PA Golden'",
+    "category": "fruit",
+    "subcategory": "tree fruit",
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": null,
+      "max": null
+    },
+    "days_to_maturity": {
+      "min": 1825,
+      "max": 2190
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": 4
+      },
+      "note": "Plant container-grown trees in spring in moist, humus-rich, slightly acidic to neutral soil in partial shade when young, transitioning to full sun at maturity; PA Golden needs a second, genetically distinct pawpaw cultivar nearby for cross-pollination and reliable fruit set."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 120,
+      "max": 180
+    },
+    "height_in": {
+      "min": 144,
+      "max": 240
+    },
+    "spread_in": {
+      "min": 120,
+      "max": 180
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Plant in moist, humus-rich, slightly acidic to neutral soil in partial shade when young, transitioning to full sun at fruiting age; PA Golden is a Pennsylvania-origin pawpaw selection prized for its rich, deep golden-yellow flesh, smooth fiber-free texture, and intensely sweet, tropical flavor that many growers rank among the best-tasting named cultivars available. The medium-to-large fruits ripen over a relatively long window in the mid-to-late season, and the tree is a consistent, productive bearer once established. Because of its outstanding flavor and reliability, PA Golden is one of the more widely recommended cultivars for new home pawpaw plantings. Hand-pollinate with a small brush during the brief flowering window to improve fruit set, and plant with a second distinct cultivar such as Sunflower, Shenandoah, or Susquehanna for cross-pollination.",
+    "sources": [
+      "Kentucky State University Pawpaw Research Program",
+      "Pennsylvania State University Extension — Pawpaw Culture",
+      "North Carolina State Extension"
+    ]
+  }
+]

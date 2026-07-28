@@ -1,0 +1,167 @@
+[
+  {
+    "slug": "koralle-lingonberry",
+    "common_name": "Koralle Lingonberry (Heavy-Bearing European Lingonberry)",
+    "scientific_name": "Vaccinium vitis-idaea 'Koralle'",
+    "category": "berry",
+    "subcategory": "lingonberry",
+    "days_to_germination": {
+      "min": 30,
+      "max": 90
+    },
+    "germination_soil_temp_f": {
+      "min": 55,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 730,
+      "max": 1460
+    },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 6
+      },
+      "note": "Plant container-grown plants in spring in very acidic, moist, well-drained soil; Koralle is self-fertile and, like other lingonberry cultivars, can produce two crops per year — a smaller summer crop and a larger fall crop."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 7
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 8,
+      "max": 12
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 36
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Plant in partial shade to full sun in very acidic (pH 4.5-5.5), moist, humus-rich, well-drained soil similar to blueberry growing conditions. Koralle is a classic Dutch-bred lingonberry cultivar, one of the earliest widely distributed named lingonberry selections and still valued for its heavy, reliable fruit production and vigorous, dense, low-growing habit. The glossy evergreen foliage forms an attractive year-round groundcover, topped with clusters of small white to pale pink bell-shaped spring flowers followed by bright red, tart berries used in Scandinavian-style jams, sauces, and preserves. Because lingonberries thrive in acidic soil and tolerate shade better than most fruiting shrubs, Koralle makes an excellent edible groundcover planted beneath blueberries, azaleas, or pines where soil is already acidic. Shear plants back lightly every few years to rejuvenate growth and maintain a dense, productive mat.",
+    "sources": [
+      "Oregon State University Extension — Lingonberry Cultivar Evaluation",
+      "University of Minnesota Extension",
+      "USDA ARS — Vaccinium vitis-idaea Cultivar Notes"
+    ]
+  },
+  {
+    "slug": "tribute-strawberry",
+    "common_name": "Tribute Strawberry (Day-Neutral Everbearing Strawberry)",
+    "scientific_name": "Fragaria × ananassa 'Tribute'",
+    "category": "berry",
+    "subcategory": "strawberry",
+    "days_to_germination": {
+      "min": 14,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 90,
+      "max": 120
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -2,
+        "max": 2
+      },
+      "note": "Plant dormant crowns or plugs in early spring; Tribute is a day-neutral (everbearing) cultivar that flowers and fruits continuously through the growing season regardless of day length, rather than producing one concentrated June crop."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 8
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 15
+    },
+    "height_in": {
+      "min": 6,
+      "max": 10
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 18
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant dormant crowns with the crown at soil level in well-drained, fertile, slightly acidic soil in full sun; remove the first flush of flowers after planting to strengthen the plant before letting it fruit. Tribute is a USDA-released day-neutral strawberry cultivar, valued for producing a steady, moderate harvest of medium-large, firm, well-flavored berries from late spring through fall rather than a single concentrated June crop, extending the home strawberry season significantly compared with traditional June-bearing types. It shows good resistance to several common strawberry diseases, including red stele and verticillium wilt, making it a dependable choice in a range of soil conditions. Because day-neutral types put continuous energy into fruiting rather than runner production, they produce fewer runners than June-bearers, and removing flowers for the first several weeks after planting helps establish a stronger root system for sustained production through the season.",
+    "sources": [
+      "USDA Agricultural Research Service — Tribute strawberry release notes",
+      "Cornell University Small Fruit Program",
+      "University of California Cooperative Extension — Strawberry Variety Evaluation"
+    ]
+  },
+  {
+    "slug": "tristar-strawberry",
+    "common_name": "Tristar Strawberry (Compact Day-Neutral Everbearing Strawberry)",
+    "scientific_name": "Fragaria × ananassa 'Tristar'",
+    "category": "berry",
+    "subcategory": "strawberry",
+    "days_to_germination": {
+      "min": 14,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 90,
+      "max": 120
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -2,
+        "max": 2
+      },
+      "note": "Plant dormant crowns or plugs in early spring; Tristar is a day-neutral (everbearing) cultivar that flowers and fruits continuously through the growing season, well suited to containers and small raised beds because of its compact habit."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 8
+    },
+    "spacing_in": {
+      "min": 10,
+      "max": 14
+    },
+    "height_in": {
+      "min": 6,
+      "max": 8
+    },
+    "spread_in": {
+      "min": 10,
+      "max": 14
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant dormant crowns with the crown at soil level in well-drained, fertile, slightly acidic soil in full sun; remove the first flush of flowers after planting to strengthen the plant before letting it fruit. Tristar is a USDA-released day-neutral strawberry cultivar bred alongside Tribute, valued for its compact, tidy plant habit and continuous production of small-to-medium, sweet, glossy red berries from late spring through fall, making it a favorite for hanging baskets, containers, and small raised beds where a sprawling June-bearer would be impractical. It shows good disease resistance for a day-neutral type, including tolerance to red stele root rot, and its everbearing habit means a small planting can supply a steady trickle of fresh berries all season rather than one large harvest. Pinch off runners as they form to keep the plant's energy focused on fruit production rather than spreading.",
+    "sources": [
+      "USDA Agricultural Research Service — Tristar strawberry release notes",
+      "Cornell University Small Fruit Program",
+      "University of California Cooperative Extension — Strawberry Variety Evaluation"
+    ]
+  }
+]
