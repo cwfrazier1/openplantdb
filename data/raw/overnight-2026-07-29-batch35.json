@@ -1,0 +1,222 @@
+[
+  {
+    "slug": "groundhog-radish-cover",
+    "common_name": "Groundhog Radish (Deep-Tillage Forage Radish Cover Crop)",
+    "scientific_name": "Raphanus sativus 'Groundhog'",
+    "category": "cover-crop",
+    "subcategory": "brassica",
+    "days_to_germination": {
+      "min": 3,
+      "max": 7
+    },
+    "germination_soil_temp_f": {
+      "min": 45,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 50,
+      "max": 70
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {
+        "min": -10,
+        "max": -6
+      },
+      "note": "Sow 6-10 weeks before first frost; Groundhog is a forage radish cultivar bred for an especially large, deep taproot that drills through compacted soil layers more aggressively than standard daikon-type tillage radish."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 4,
+      "max": 6
+    },
+    "height_in": {
+      "min": 18,
+      "max": 30
+    },
+    "spread_in": {
+      "min": 6,
+      "max": 10
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Broadcast seed about 1/2 inch deep in late summer to early fall; Groundhog is a forage radish cultivar selected for producing an especially large, thick, deeply penetrating taproot, even more aggressive at breaking through plow pans and compacted subsoil layers than standard daikon-type tillage radish. The huge root can grow a foot or more deep, drilling channels that improve water infiltration and root penetration for the following crop, while scavenging and holding nitrogen that would otherwise leach away over winter. In zones cold enough for a hard freeze, the roots die and rot in place over winter, leaving open channels and releasing captured nutrients as they decompose, so no spring tillage or herbicide termination is needed. In milder zones where the radish survives, mow before it flowers and sets seed to prevent it becoming a volunteer weed in the following crop.",
+    "sources": [
+      "USDA Sustainable Agriculture Research & Education — Forage Radish Cover Crop Guide",
+      "Penn State Extension — Forage Radish Cover Crop Cultivars",
+      "Cover Crop Solutions — Groundhog Radish variety notes"
+    ]
+  },
+  {
+    "slug": "nitro-radish-cover",
+    "common_name": "Nitro Radish (Nitrogen-Scavenging Forage Radish Cover Crop)",
+    "scientific_name": "Raphanus sativus 'Nitro'",
+    "category": "cover-crop",
+    "subcategory": "brassica",
+    "days_to_germination": {
+      "min": 3,
+      "max": 7
+    },
+    "germination_soil_temp_f": {
+      "min": 45,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 50,
+      "max": 70
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {
+        "min": -10,
+        "max": -6
+      },
+      "note": "Sow 6-10 weeks before first frost; Nitro is a forage radish cultivar bred for rapid fall growth and aggressive nitrogen scavenging, capturing residual soil nitrogen in its foliage and root before winter leaching losses occur."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 4,
+      "max": 6
+    },
+    "height_in": {
+      "min": 18,
+      "max": 30
+    },
+    "spread_in": {
+      "min": 6,
+      "max": 10
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Broadcast seed about 1/2 inch deep in late summer to early fall; Nitro is a forage radish cultivar bred for exceptionally fast fall growth and strong nitrogen-scavenging ability, rapidly taking up residual soil nitrogen left over from a previous crop's fertilization before fall and winter rains can leach it below the root zone. The large taproot also breaks through compacted soil layers, improving structure and water infiltration for the following crop. In zones cold enough for a hard freeze, the roots die and rot in place over winter, releasing the captured nitrogen back into the topsoil in plant-available form as they decompose, timed to benefit a spring-planted crop. In milder zones where the radish survives, mow before it flowers and sets seed to prevent it becoming a volunteer weed in the following crop.",
+    "sources": [
+      "USDA Sustainable Agriculture Research & Education — Forage Radish Cover Crop Guide",
+      "Penn State Extension — Nitrogen-Scavenging Cover Crops",
+      "Cover Crop Solutions — Nitro Radish variety notes"
+    ]
+  },
+  {
+    "slug": "graza-radish-cover",
+    "common_name": "Graza Radish (Multi-Branching Grazing and Tillage Radish Cover Crop)",
+    "scientific_name": "Raphanus sativus 'Graza'",
+    "category": "cover-crop",
+    "subcategory": "brassica",
+    "days_to_germination": {
+      "min": 3,
+      "max": 7
+    },
+    "germination_soil_temp_f": {
+      "min": 45,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 50,
+      "max": 70
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {
+        "min": -10,
+        "max": -6
+      },
+      "note": "Sow 6-10 weeks before first frost; Graza is an Australian-bred forage radish cultivar with a multi-branched, shallower root system than daikon-type tillage radishes, producing abundant leafy forage suited to grazing as well as soil-building."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 4,
+      "max": 6
+    },
+    "height_in": {
+      "min": 18,
+      "max": 30
+    },
+    "spread_in": {
+      "min": 6,
+      "max": 10
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Broadcast seed about 1/2 inch deep in late summer to early fall; Graza was bred in Australia specifically for dual use as livestock forage and a soil-building cover crop, with a more branched, fibrous root system than single-taproot daikon-type tillage radishes, along with abundant, fast-growing leafy top growth well suited to grazing or mowing for biomass. Its extensive root network still provides meaningful soil loosening and organic matter benefits, though with less of the single deep-drilling taproot effect of dedicated tillage radish cultivars like Groundhog. In zones cold enough for a hard freeze, the roots die back over winter, releasing captured nutrients as they decompose. In milder zones where the plant survives, mow or graze before it flowers and sets seed to prevent it becoming a volunteer weed in the following crop.",
+    "sources": [
+      "Cover Crop Solutions — Graza Radish variety notes",
+      "USDA Sustainable Agriculture Research & Education — Forage Radish Cover Crop Guide",
+      "Oregon State University Extension — Brassica Cover Crops for Forage and Soil Health"
+    ]
+  },
+  {
+    "slug": "wrens-abruzzi-rye",
+    "common_name": "Wrens Abruzzi Rye (Early-Maturing Southern Winter Cereal Rye)",
+    "scientific_name": "Secale cereale 'Wrens Abruzzi'",
+    "category": "cover-crop",
+    "subcategory": "grass",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 34,
+      "max": 65
+    },
+    "days_to_maturity": {
+      "min": 120,
+      "max": 150
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": 4
+      },
+      "note": "Direct sow in fall; Wrens Abruzzi is one of the most widely grown cereal rye cover crop cultivars in the South, valued for earlier fall growth and earlier spring maturity than many other rye varieties, letting it be terminated and the ground replanted sooner."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 1,
+      "max": 2
+    },
+    "height_in": {
+      "min": 36,
+      "max": 60
+    },
+    "spread_in": {
+      "min": 1,
+      "max": 2
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Broadcast seed at 100-120 lbs/acre (1.5-2 lbs/1000 sq ft) in fall; mow or roll-crimp before spring vegetable planting. Wrens Abruzzi is one of the most popular and widely available cereal rye cover crop cultivars in the southeastern United States, selected for vigorous fall establishment and notably earlier spring maturity than many other rye varieties, which lets growers terminate it and get the following crop planted sooner in spring. Like other cereal ryes, it germinates in cool soil down to the mid-30s Fahrenheit and grows steadily through winter, providing substantial biomass, deep rooting that improves soil structure, effective weed suppression, and erosion control on fallow ground during the cool season. Its dense root system scavenges and holds nitrogen that would otherwise leach away over winter, releasing it back to the soil as the residue breaks down after termination. Terminate by mowing, rolling, or incorporation two to three weeks before planting the following crop to allow residue to begin breaking down and to avoid allelopathic effects on small-seeded crops planted too soon after termination.",
+    "sources": [
+      "Texas A&M AgriLife Extension — Cereal Rye Cover Crop Variety Selection",
+      "Louisiana State University AgCenter — Winter Cover Crop Recommendations",
+      "USDA Natural Resources Conservation Service — Cereal Rye Cover Crop Guide"
+    ]
+  }
+]

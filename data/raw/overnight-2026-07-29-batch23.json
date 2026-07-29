@@ -1,0 +1,277 @@
+[
+  {
+    "slug": "procut-sunflower",
+    "common_name": "ProCut Sunflower (Industry-Standard Single-Stem Cut Flower Series)",
+    "scientific_name": "Helianthus annuus 'ProCut'",
+    "category": "flower",
+    "subcategory": "annual",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 80
+    },
+    "days_to_maturity": {
+      "min": 55,
+      "max": 65
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 6
+      },
+      "note": "Direct sow after last frost when soil is above 60F; for succession harvests, sow every 1-2 weeks through summer. ProCut is the industry-standard commercial cut-flower sunflower series, bred as single-stem, pollen-free, uniform-height plants specifically for high-volume, high-quality cut-flower production."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 6,
+      "max": 9
+    },
+    "height_in": {
+      "min": 48,
+      "max": 72
+    },
+    "spread_in": {
+      "min": 6,
+      "max": 9
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Direct sow seeds 0.5 inch deep in full sun after last frost; grow on a tight spacing of 6-9 inches, since ProCut is bred as a true single-stem variety that puts all its energy into one large flower on one straight stem rather than branching. ProCut is the benchmark commercial cut-flower sunflower series used by professional flower farms worldwide, prized for exceptional uniformity in height, bloom timing, and flower size, along with pollen-free flowers that make it ideal for arrangements and bouquets without dropping pollen on fabric or furniture. The series is available in multiple colors including gold, lemon, bicolor, and red tones, all sharing the same single-stem habit and reliable, predictable performance that makes succession planting for continuous harvest straightforward. Because each plant produces only one flower, close spacing maximizes stems per square foot, and because there is no branching, ProCut plantings are typically harvested all at once about 55-65 days after sowing rather than picked over an extended period. Harvest when the petals have just begun to unfurl but the center disk is still tight, for the longest vase life.",
+    "sources": [
+      "Sakata Seed — ProCut Sunflower Series variety notes",
+      "Association of Specialty Cut Flower Growers — Commercial Sunflower Variety Evaluation",
+      "Johnny's Selected Seeds — ProCut Series Comparison"
+    ]
+  },
+  {
+    "slug": "sunrich-sunflower",
+    "common_name": "SunRich Sunflower (Pollen-Free Single-Stem Cut Flower Series)",
+    "scientific_name": "Helianthus annuus 'SunRich'",
+    "category": "flower",
+    "subcategory": "annual",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 80
+    },
+    "days_to_maturity": {
+      "min": 55,
+      "max": 65
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 6
+      },
+      "note": "Direct sow after last frost when soil is above 60F; for succession harvests, sow every 1-2 weeks through summer. SunRich is a major commercial single-stem, pollen-free cut-flower sunflower series bred for uniform bloom timing and strong stems, widely used alongside ProCut in professional cut-flower production."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 6,
+      "max": 9
+    },
+    "height_in": {
+      "min": 48,
+      "max": 72
+    },
+    "spread_in": {
+      "min": 6,
+      "max": 9
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Direct sow seeds 0.5 inch deep in full sun after last frost; grow on a tight spacing of 6-9 inches to encourage the single, unbranched flowering stem this series is bred to produce. SunRich is one of the leading commercial cut-flower sunflower series, offering pollen-free flowers in gold, lemon-yellow, orange, and other colors on strong, straight, single stems bred specifically for uniformity, making it a favorite of market growers who need predictable, evenly timed harvests. Because plants do not branch, close spacing maximizes stem count per bed, and the whole planting typically matures and is harvested together roughly 55-65 days after sowing. The pollen-free trait keeps arrangements and clothing clean of the yellow pollen that standard sunflowers shed heavily once open. Harvest when petals have just begun to unfurl but the center disk remains tight for the best vase life, and succession sow every one to two weeks through the growing season for a continuous cut-flower supply.",
+    "sources": [
+      "Sakata Seed — SunRich Sunflower Series variety notes",
+      "Association of Specialty Cut Flower Growers — Commercial Sunflower Variety Evaluation",
+      "North Carolina State University Extension — Specialty Cut Flower Production"
+    ]
+  },
+  {
+    "slug": "ring-of-fire-sunflower",
+    "common_name": "Ring of Fire Sunflower (Bicolor Red-and-Gold Branching Sunflower)",
+    "scientific_name": "Helianthus annuus 'Ring of Fire'",
+    "category": "flower",
+    "subcategory": "annual",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 80
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 70
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 6
+      },
+      "note": "Direct sow after last frost when soil is above 60F; Ring of Fire is a branching, pollen-free bicolor sunflower with rings of deep burgundy-red at the petal base fading to golden-yellow tips, a striking bicolor pattern popular for cut-flower arrangements."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 48,
+      "max": 72
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Direct sow seeds 0.5 inch deep in full sun after last frost; thin to 12-18 inches for good branching. Ring of Fire produces striking bicolor blooms with a deep burgundy-red ring at the base of each petal fading outward to bright golden-yellow tips, creating a fiery, sunset-like halo effect that stands out clearly from single-toned sunflower varieties. As a branching type, each plant produces multiple flowers over an extended harvest window rather than a single bloom, making it productive for both garden display and cut-flower use, and the flowers are pollen-free, keeping arrangements and clothing free of the yellow pollen standard sunflowers shed. Deadhead or harvest spent blooms to encourage continued branching and flowering through the season. Grow in full sun with support in windy sites, since the branching habit and multiple large flowers can make plants somewhat top-heavy.",
+    "sources": [
+      "Johnny's Selected Seeds — Bicolor Sunflower Varieties",
+      "Association of Specialty Cut Flower Growers — Sunflower Variety Evaluation",
+      "Baker Creek Heirloom Seeds — Bicolor Sunflower Collection"
+    ]
+  },
+  {
+    "slug": "strawberry-blonde-sunflower",
+    "common_name": "Strawberry Blonde Sunflower (Soft Rose-Pink Branching Cut Flower Sunflower)",
+    "scientific_name": "Helianthus annuus 'Strawberry Blonde'",
+    "category": "flower",
+    "subcategory": "annual",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 80
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 70
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 6
+      },
+      "note": "Direct sow after last frost when soil is above 60F; Strawberry Blonde is a branching, pollen-free sunflower with soft rose-pink to strawberry-red petals fading to a lighter blush at the tips, a departure from the typical yellow-gold sunflower palette popular for romantic cut-flower arrangements."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 48,
+      "max": 60
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Direct sow seeds 0.5 inch deep in full sun after last frost; thin to 12-18 inches for good branching. Strawberry Blonde produces soft rose-pink to strawberry-red petals that fade to a paler blush near the tips, a warm, muted bicolor effect quite different from the bold golds and reds of most sunflower varieties, making it a favorite for romantic, soft-toned floral arrangements and mixed cutting gardens. As a branching type, each plant produces multiple medium-sized blooms over an extended harvest window rather than a single flower, and the blooms are pollen-free, keeping arrangements and clothing free of the yellow pollen standard sunflowers shed heavily once open. Deadhead or harvest spent blooms regularly to encourage continued branching and flowering through the season, from midsummer into fall. Grow in full sun and provide support in windy, exposed sites, since branching plants with multiple flowers can become top-heavy.",
+    "sources": [
+      "Renee's Garden Seeds — Strawberry Blonde Sunflower variety notes",
+      "Association of Specialty Cut Flower Growers — Sunflower Variety Evaluation",
+      "Floret Flower Farm — Soft-Toned Cut-Flower Sunflowers"
+    ]
+  },
+  {
+    "slug": "soraya-sunflower",
+    "common_name": "Soraya Sunflower (AAS-Winning Branching Orange Sunflower)",
+    "scientific_name": "Helianthus annuus 'Soraya'",
+    "category": "flower",
+    "subcategory": "annual",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 80
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 70
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 6
+      },
+      "note": "Direct sow after last frost when soil is above 60F; Soraya is an All-America Selections winning branching sunflower producing abundant, bright golden-orange blooms on strong, well-branched plants, valued for both garden display and cut-flower use."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 48,
+      "max": 72
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Direct sow seeds 0.5 inch deep in full sun after last frost; thin to 12-18 inches for good branching. Soraya was recognized as an All-America Selections winner for its outstanding combination of bright, rich golden-orange flowers, strong branching habit, and excellent garden performance, producing an abundance of medium-large blooms over a long season rather than a single giant flower. The sturdy, well-branched plants hold up well in the garden and produce enough stems for repeated cutting without depleting the display, making Soraya equally useful as a garden specimen and as a reliable cut-flower producer for home bouquets. Deadhead or harvest spent blooms regularly to encourage continued branching and flowering from midsummer through the first frost. Grow in full sun, and stake or provide wind protection in exposed sites, since well-branched plants loaded with multiple large flowers can become top-heavy in storms.",
+    "sources": [
+      "All-America Selections — Soraya Sunflower Award Notes",
+      "Association of Specialty Cut Flower Growers — Sunflower Variety Evaluation",
+      "Johnny's Selected Seeds — Branching Sunflower Varieties"
+    ]
+  }
+]

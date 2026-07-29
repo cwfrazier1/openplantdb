@@ -1,0 +1,277 @@
+[
+  {
+    "slug": "ufsun-peach",
+    "common_name": "UFSun Peach (University of Florida Ultra-Low-Chill Freestone Peach)",
+    "scientific_name": "Prunus persica 'UFSun'",
+    "category": "fruit",
+    "subcategory": "stone fruit",
+    "days_to_germination": {
+      "min": 90,
+      "max": 120
+    },
+    "germination_soil_temp_f": {
+      "min": 50,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 1095,
+      "max": 1460
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -4
+      },
+      "note": "Plant bare-root trees in December-January while dormant; UFSun was released by the University of Florida IFAS stone fruit breeding program with a chill requirement of only about 100 hours, letting it fruit reliably in central and even south Florida where standard 'Gulf' series peaches (about 400 hours) can bloom erratically. Self-fertile, no pollinizer required."
+    },
+    "usda_zones": {
+      "min": 9,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 180,
+      "max": 240
+    },
+    "height_in": {
+      "min": 120,
+      "max": 180
+    },
+    "spread_in": {
+      "min": 144,
+      "max": 180
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in well-drained, slightly acidic soil in full sun, choosing a site without a low-lying frost pocket since bloom can begin as early as December in warm winters. UFSun is one of the University of Florida's ultra-low-chill releases, bred to extend backyard and commercial peach production into areas of central and south Florida too warm for even the Texas 'Gulf' series. Fruit is medium-sized, yellow-fleshed, and freestone with a mild, sweet flavor and an attractive red blush, ripening in April, well ahead of most other peach varieties. Because bloom happens so early, protect trees from a late hard freeze with row cover if a cold snap threatens, and thin fruit to about 6 inches apart once set to improve size. Prune annually to an open-center vase shape after harvest to keep the canopy low and to renew the one-year-old wood that peaches fruit on.",
+    "sources": [
+      "University of Florida IFAS — Stone Fruit Breeding Program low-chill peach releases",
+      "University of Florida IFAS Extension — Dooryard Fruit Varieties for Florida",
+      "Texas A&M AgriLife Extension — Peach Chilling Requirement Comparisons"
+    ]
+  },
+  {
+    "slug": "ufbest-peach",
+    "common_name": "UFBest Peach (University of Florida Ultra-Low-Chill Freestone Peach)",
+    "scientific_name": "Prunus persica 'UFBest'",
+    "category": "fruit",
+    "subcategory": "stone fruit",
+    "days_to_germination": {
+      "min": 90,
+      "max": 120
+    },
+    "germination_soil_temp_f": {
+      "min": 50,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 1095,
+      "max": 1460
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -4
+      },
+      "note": "Plant bare-root trees in December-January while dormant; UFBest is a University of Florida IFAS release bred alongside UFSun and UFGold for an extremely low chill requirement, letting it fruit reliably through the warm winters of central and south Florida. Self-fertile, no pollinizer required."
+    },
+    "usda_zones": {
+      "min": 9,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 180,
+      "max": 240
+    },
+    "height_in": {
+      "min": 120,
+      "max": 180
+    },
+    "spread_in": {
+      "min": 144,
+      "max": 180
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in well-drained, slightly acidic soil in full sun, siting trees away from low frost pockets since bloom can begin in December during mild winters. UFBest is one of the University of Florida's ultra-low-chill peach releases, developed to give growers south of the traditional Gulf Coast peach belt a dependable home-orchard option despite winters too warm for standard varieties. Fruit is medium to large, yellow-fleshed, and freestone with good sugar and a bright red blush, ripening in mid-to-late April. Because such a low chill requirement makes bloom erratic and extended in unusually warm years, watch closely through late winter and be ready to cover young trees if a hard freeze threatens; otherwise care follows standard peach practice — thin fruit to about 6 inches apart and prune annually to an open, low vase shape to keep the tree productive and easy to harvest.",
+    "sources": [
+      "University of Florida IFAS — Stone Fruit Breeding Program low-chill peach releases",
+      "University of Florida IFAS Extension — Dooryard Fruit Varieties for Florida",
+      "Texas A&M AgriLife Extension — Peach Chilling Requirement Comparisons"
+    ]
+  },
+  {
+    "slug": "california-early-garlic",
+    "common_name": "California Early Garlic (Classic Commercial Silverskin Softneck)",
+    "scientific_name": "Allium sativum 'California Early'",
+    "category": "vegetable",
+    "subcategory": "allium",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 45,
+      "max": 65
+    },
+    "days_to_maturity": {
+      "min": 200,
+      "max": 240
+    },
+    "maturity_from": "transplant",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": 4
+      },
+      "note": "Plant individual cloves 1-2 inches deep in fall; California Early has one of the lowest chilling requirements of any garlic type and is the softneck silverskin grown commercially through California's mild-winter Central Valley, making it one of the more dependable garlics for zone 8-10 gardens where hardneck types divide poorly."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 4,
+      "max": 6
+    },
+    "height_in": {
+      "min": 18,
+      "max": 24
+    },
+    "spread_in": {
+      "min": 4,
+      "max": 6
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant individual cloves pointed-end-up, 1-2 inches deep and 4-6 inches apart, in loose, well-drained soil; in mild-winter zones like the Gulf Coast, planting in October-November gives roots time to establish before the brief winter chill. California Early is the classic commercial silverskin softneck grown across California's Central Valley and is prized for its adaptability to warm-winter regions, low chilling requirement, and tight, easy-to-braid skins. Bulbs are medium-sized with 12-16 cloves in white to faintly purple-blushed wrappers and a flavor that is strong raw but mellows well when cooked. As the name suggests, it matures earlier than most other varieties, often ready for harvest by late spring, which helps it dodge the fungal pressure that builds in humid Gulf Coast soil as summer heat arrives. Harvest when the lower third to half of the leaves have yellowed, cure in a warm, dry, shaded, well-ventilated spot for 3-4 weeks, then trim and store; well-cured bulbs keep 6-8 months.",
+    "sources": [
+      "University of California Cooperative Extension — Garlic Production in California",
+      "Filaree Garlic Farm — Silverskin variety descriptions",
+      "Texas A&M AgriLife Extension — Garlic Variety Selection for Texas"
+    ]
+  },
+  {
+    "slug": "california-late-garlic",
+    "common_name": "California Late Garlic (Long-Storing Commercial Silverskin Softneck)",
+    "scientific_name": "Allium sativum 'California Late'",
+    "category": "vegetable",
+    "subcategory": "allium",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 45,
+      "max": 65
+    },
+    "days_to_maturity": {
+      "min": 230,
+      "max": 270
+    },
+    "maturity_from": "transplant",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": 4
+      },
+      "note": "Plant individual cloves 1-2 inches deep in fall; like its sister strain California Early, California Late has a very low chilling requirement and grows reliably in mild-winter zone 8-10 gardens, but needs several extra weeks in the ground to size up its larger bulbs."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 4,
+      "max": 6
+    },
+    "height_in": {
+      "min": 18,
+      "max": 26
+    },
+    "spread_in": {
+      "min": 4,
+      "max": 6
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant individual cloves pointed-end-up, 1-2 inches deep and 4-6 inches apart, in loose, well-drained soil enriched with compost. California Late is the other pillar of California's commercial silverskin garlic industry alongside California Early, grown for its higher yield, larger bulb size, and notably long storage life of up to 10-12 months when well cured — among the best of any garlic type. Bulbs typically hold 16-20 cloves in tight white wrappers arranged in the overlapping layers characteristic of true silverskins, with a flavor that is sharp raw and mellow when roasted. Its low chilling requirement makes it as well suited to warm-winter Gulf Coast gardens as California Early, though it needs several additional weeks in the ground to fully size before harvest. Harvest once the lower third to half of the leaves have yellowed and browned, cure in a warm, dry, shaded, airy location for 3-4 weeks, then trim and store somewhere cool and dry.",
+    "sources": [
+      "University of California Cooperative Extension — Garlic Production in California",
+      "Filaree Garlic Farm — Silverskin variety descriptions",
+      "Texas A&M AgriLife Extension — Garlic Variety Selection for Texas"
+    ]
+  },
+  {
+    "slug": "louisiana-purple-pod-bean",
+    "common_name": "Louisiana Purple Pod Bean (Heat-Tolerant Southern Heirloom Pole Bean)",
+    "scientific_name": "Phaseolus vulgaris 'Louisiana Purple Pod'",
+    "category": "vegetable",
+    "subcategory": "bean",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 70
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Direct sow after last frost when soil is above 60F; Louisiana Purple Pod is a vigorous heirloom pole bean bred for Gulf South heat and humidity, and its deep purple pods stand out sharply against the green foliage for fast harvest. In zone 9, plant March-May for a summer crop and again in August for a fall harvest."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 4,
+      "max": 6
+    },
+    "height_in": {
+      "min": 72,
+      "max": 96
+    },
+    "spread_in": {
+      "min": 8,
+      "max": 12
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Direct sow seeds 1 inch deep at the base of a sturdy 6-8 foot trellis or pole support after the danger of frost has passed. Louisiana Purple Pod is a Deep South heirloom pole bean selected over generations for reliable production through the heat and humidity that stall many snap bean varieties, and it shows good resistance to common bean mosaic virus and rust compared to older commercial types. Pods emerge deep purple, which makes them easy to spot among the leaves at harvest time, and the color cooks away to ordinary green so the beans can be prepared exactly like any other snap bean. Pick pods at 5-6 inches long while still tender for the best snap texture, and pick regularly to keep vines producing; left longer, pods can also be shelled fresh or dried for winter storage. Vines climb vigorously and benefit from consistent moisture during flowering and pod set to prevent blossom drop during extreme heat.",
+    "sources": [
+      "Southern Exposure Seed Exchange — Louisiana Purple Pod Bean",
+      "Seed Savers Exchange — Heirloom Bean Collection",
+      "LSU AgCenter — Home Garden Vegetable Variety Recommendations"
+    ]
+  }
+]
