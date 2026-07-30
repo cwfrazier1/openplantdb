@@ -1,0 +1,222 @@
+[
+  {
+    "slug": "palmetto-st-augustine-grass",
+    "common_name": "Palmetto St. Augustine Grass (Shade-Tolerant Semi-Dwarf Lawn Grass)",
+    "scientific_name": "Stenotaphrum secundatum 'Palmetto'",
+    "category": "cover-crop",
+    "subcategory": "grass",
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 95
+    },
+    "days_to_maturity": {
+      "min": 30,
+      "max": 60
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "warm",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 8
+      },
+      "note": "Establish from sod or plugs (not seed) when soil temperature is consistently above 70°F; Palmetto is a semi-dwarf St. Augustine cultivar selected for better shade tolerance and a finer, denser texture than older cultivars like Floratam, making it the preferred choice for the tree-shaded residential lots common throughout the Gulf South."
+    },
+    "usda_zones": {
+      "min": 8,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 24
+    },
+    "height_in": {
+      "min": 2,
+      "max": 4
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 24
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Install sod or plugs in spring through midsummer, keeping consistently moist for four to six weeks during establishment, then mow at 2.5–3.5 inches. Palmetto is a semi-dwarf St. Augustine grass cultivar bred specifically for improved shade tolerance and a finer leaf texture than the older, more sun-demanding Floratam cultivar, making it the standard recommendation for Gulf South lawns with significant tree canopy where straight species or Floratam would thin out. It also shows good cold tolerance for a St. Augustine selection and a slower vertical growth rate, meaning less frequent mowing than more vigorous cultivars. Like all St. Augustine grass it spreads by above-ground stolons and establishes readily from sod or plugs, filling in bare spots within a season under good conditions. Watch for chinch bugs, a major pest of St. Augustine throughout the Gulf South, and gray leaf spot fungal disease in hot, humid, overwatered conditions — water deeply but infrequently rather than daily light sprinkling to reduce disease pressure.",
+    "sources": [
+      "University of Florida IFAS Extension — St. Augustine Grass Cultivars",
+      "Texas A&M AgriLife Extension — St. Augustine Grass for Texas",
+      "Louisiana State University AgCenter — Warm-Season Turfgrass Variety Comparison"
+    ]
+  },
+  {
+    "slug": "floratam-st-augustine-grass",
+    "common_name": "Floratam St. Augustine Grass (Disease-Resistant Commercial Standard Lawn Grass)",
+    "scientific_name": "Stenotaphrum secundatum 'Floratam'",
+    "category": "cover-crop",
+    "subcategory": "grass",
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 95
+    },
+    "days_to_maturity": {
+      "min": 30,
+      "max": 60
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "warm",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 8
+      },
+      "note": "Establish from sod or plugs (not seed) when soil temperature is consistently above 70°F; Floratam is the dominant commercial and residential St. Augustine cultivar across Florida and the Gulf Coast, bred for strong disease and chinch bug resistance but needing more direct sun than shade-bred cultivars like Palmetto."
+    },
+    "usda_zones": {
+      "min": 8,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 24
+    },
+    "height_in": {
+      "min": 3,
+      "max": 5
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Install sod or plugs in spring through midsummer, keeping consistently moist for four to six weeks during establishment, then mow at 3–4 inches. Floratam is the most widely planted St. Augustine grass cultivar in the Gulf South, developed by the University of Florida and Texas A&M and released in 1973 specifically for resistance to St. Augustine decline virus and chinch bugs, problems that devastated older St. Augustine plantings at the time. It remains the industry standard for new sod installation because of its vigorous growth, coarse but attractive texture, and continued good pest and disease resistance, but it has notably poorer shade tolerance than newer cultivars like Palmetto or Seville, thinning out significantly under moderate to heavy tree canopy — reserve it for lawn areas with at least six to eight hours of direct sun. It spreads aggressively by above-ground stolons, recovering quickly from wear and filling bare patches readily. Avoid mowing too short, since St. Augustine cannot recover well from scalping that removes the green leaf tissue.",
+    "sources": [
+      "University of Florida IFAS Extension — St. Augustine Grass Cultivars",
+      "Texas A&M AgriLife Extension — St. Augustine Grass for Texas",
+      "Louisiana State University AgCenter — Warm-Season Turfgrass Variety Comparison"
+    ]
+  },
+  {
+    "slug": "tiftuf-bermudagrass",
+    "common_name": "TifTuf Bermudagrass (Drought-Tolerant Water-Efficient Turf Cultivar)",
+    "scientific_name": "Cynodon dactylon 'TifTuf'",
+    "category": "cover-crop",
+    "subcategory": "grass",
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 95
+    },
+    "days_to_maturity": {
+      "min": 30,
+      "max": 60
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "warm",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 8
+      },
+      "note": "Establish from sod or plugs (not seed, as TifTuf is a patented sterile hybrid) when soil temperature is consistently above 65°F; TifTuf is a University of Georgia release bred for significantly better drought tolerance and water-use efficiency than older bermudagrass cultivars."
+    },
+    "usda_zones": {
+      "min": 6,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 24
+    },
+    "height_in": {
+      "min": 1,
+      "max": 3
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Install sod or plugs in a full-sun site in spring through midsummer, keeping consistently moist for two to three weeks during establishment, then mow at 1–2 inches with a reel or rotary mower kept sharp for a clean cut. TifTuf is a hybrid bermudagrass released by the University of Georgia in 2016, bred specifically for outstanding drought tolerance and water-use efficiency — university trials found it uses substantially less irrigation water than common bermudagrass and older hybrid cultivars while maintaining better color and density under drought stress, making it a strong choice for water-conscious Gulf Coast lawns. It also shows excellent wear tolerance, fast recovery from damage, and good cold hardiness for a bermudagrass. Like all bermudagrass, it demands full sun — at least six to eight hours daily — and declines quickly under any significant shade, so it is not a fit for tree-shaded lawns. Fertilize and water according to a standard bermudagrass program, and expect the fastest, most vigorous growth and highest mowing frequency during peak summer heat.",
+    "sources": [
+      "University of Georgia — TifTuf Bermudagrass Release",
+      "Texas A&M AgriLife Extension — Bermudagrass Cultivars for Texas",
+      "Louisiana State University AgCenter — Warm-Season Turfgrass Variety Comparison"
+    ]
+  },
+  {
+    "slug": "empire-zoysia-grass",
+    "common_name": "Empire Zoysia Grass (Fast-Establishing Broad-Bladed Zoysia Cultivar)",
+    "scientific_name": "Zoysia japonica 'Empire'",
+    "category": "cover-crop",
+    "subcategory": "grass",
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 95
+    },
+    "days_to_maturity": {
+      "min": 45,
+      "max": 90
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "warm",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 8
+      },
+      "note": "Establish from sod or plugs (not seed) when soil temperature is consistently above 65°F; Empire zoysia was selected for notably faster establishment and spread than older, notoriously slow-growing zoysia cultivars, while retaining good drought and shade tolerance."
+    },
+    "usda_zones": {
+      "min": 6,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 24
+    },
+    "height_in": {
+      "min": 1,
+      "max": 3
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 24
+    },
+    "sun": "partial",
+    "water": "low",
+    "directions": "Install sod or plugs in spring through midsummer, keeping consistently moist during establishment, then mow at 1.5–2.5 inches. Empire zoysia was bred and selected in Texas specifically to address the biggest historical complaint about zoysia lawns — notoriously slow establishment — filling in and spreading noticeably faster from plugs or sod than older, finer-textured zoysia cultivars, while keeping the dense, soft, medium-to-broad-bladed turf and good drought tolerance zoysia is known for. It tolerates moderate shade better than bermudagrass, making it a middle-ground option between full-sun bermudagrass and the more shade-tolerant but slower St. Augustine grass. Zoysia forms a dense, weed-resistant sod once established and holds up well to foot traffic and heat, going dormant and straw-colored with the first hard frost and greening back up reliably in spring. Dethatch periodically, since zoysia's dense growth habit can build up thatch over time, and avoid mowing too low, which stresses the turf and invites weed encroachment.",
+    "sources": [
+      "Texas A&M AgriLife Extension — Zoysiagrass Cultivars for Texas",
+      "Louisiana State University AgCenter — Warm-Season Turfgrass Variety Comparison",
+      "University of Georgia Cooperative Extension"
+    ]
+  }
+]

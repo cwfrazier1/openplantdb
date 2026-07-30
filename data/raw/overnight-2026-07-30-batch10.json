@@ -1,0 +1,387 @@
+[
+  {
+    "slug": "philadelphia-fleabane",
+    "common_name": "Philadelphia Fleabane",
+    "scientific_name": "Erigeron philadelphicus",
+    "category": "flower",
+    "subcategory": "native wildflower",
+    "days_to_germination": {
+      "min": 10,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 55,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 90,
+      "max": 150
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -2
+      },
+      "note": "Direct sow in fall for natural cold stratification, or spring-sow after moist chilling, in moist, average to rich soil in full sun to partial shade; Philadelphia fleabane self-seeds readily and naturalizes quickly into damp meadows, ditches, and woodland edges."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 8
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 12,
+      "max": 30
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 18
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Plant in moist, average to rich soil in full sun to partial shade; Philadelphia fleabane is one of the most widespread native fleabanes in eastern North America, found naturally in damp meadows, ditches, roadsides, and open woodland edges, where it produces an abundance of small, daisy-like flowers with dozens of very fine, thread-like pink-to-white rays around a bright yellow center. It blooms early, from mid-spring into summer, providing an important nectar source for small native bees, syrphid flies, and other early-season pollinators before many summer wildflowers begin blooming. Plants form loose rosettes that send up multiple flowering stems and self-seed readily, naturalizing into cheerful colonies in a damp meadow or the informal edge of a rain garden without becoming aggressively weedy in a maintained bed. It is short-lived as an individual plant (often biennial or short-lived perennial) but persists reliably in a planting through continuous self-seeding. Cut back after the main bloom flush to tidy the planting and encourage a possible rebloom later in the season.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "Illinois Wildflowers",
+      "USDA PLANTS Database"
+    ]
+  },
+  {
+    "slug": "oakleaf-fleabane",
+    "common_name": "Oakleaf Fleabane",
+    "scientific_name": "Erigeron quercifolius",
+    "category": "flower",
+    "subcategory": "native wildflower",
+    "days_to_germination": {
+      "min": 10,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 90,
+      "max": 150
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -2
+      },
+      "note": "Direct sow in fall for natural cold stratification, or spring-sow, in average, well-drained sandy to loamy soil in full sun to partial shade; oakleaf fleabane is a Gulf Coast and Southeastern coastal plain native well adapted to the sandy soils and mild winters typical of Gulf South gardens."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 10,
+      "max": 15
+    },
+    "height_in": {
+      "min": 8,
+      "max": 20
+    },
+    "spread_in": {
+      "min": 10,
+      "max": 15
+    },
+    "sun": "partial",
+    "water": "low",
+    "directions": "Plant in average, well-drained, sandy to loamy soil in full sun to partial shade; oakleaf fleabane is a Southeastern and Gulf Coast native fleabane named for its distinctively lobed, oak-leaf-shaped basal foliage, distinguishing it at a glance from the smoother-leaved fleabane species found farther north and inland. It forms low rosettes that send up slender flowering stems topped with small, fine-rayed, pale lavender-to-white daisy flowers over a long bloom period from spring into summer, providing steady nectar for small native bees and other pollinators through the Gulf South's early growing season. It thrives in the sandy, well-drained soils common across the coastal plain and tolerates both the heat and the periodic dry spells typical of a Gulf Coast summer better than more northern fleabane species. Well suited to informal cottage gardens, pollinator meadows, and the sunny to lightly shaded edges of a native plant bed; it self-seeds modestly, filling in gaps without becoming aggressive, and needs no more care than an occasional tidy-up after the main flowering flush.",
+    "sources": [
+      "USDA PLANTS Database",
+      "Lady Bird Johnson Wildflower Center",
+      "Atlas of Florida Plants"
+    ]
+  },
+  {
+    "slug": "purpledisk-sunflower",
+    "common_name": "Purpledisk Sunflower",
+    "scientific_name": "Helianthus atrorubens",
+    "category": "flower",
+    "subcategory": "native prairie perennial sunflower",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 90,
+      "max": 150
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -2,
+        "max": 2
+      },
+      "note": "Direct sow in spring in lean, well-drained, sandy to loamy soil in full sun to partial shade; purpledisk sunflower is native to dry open woods and pine barrens of the Southeast and tolerates lean, dry soil better than most cultivated garden perennials."
+    },
+    "usda_zones": {
+      "min": 6,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 30
+    },
+    "height_in": {
+      "min": 24,
+      "max": 60
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 30
+    },
+    "sun": "partial",
+    "water": "low",
+    "directions": "Plant in lean, well-drained soil in full sun to partial shade; purpledisk sunflower is a Southeastern native perennial sunflower of dry open woods, pine savannas, and roadside edges, easily distinguished from other perennial sunflowers by its dark reddish-purple central disk contrasting sharply with bright yellow ray petals — a striking two-tone flower that stands out in a late-summer meadow or native border. Unlike some rhizomatous perennial sunflowers, it forms a well-behaved clump from a basal rosette of mostly unbranched, hairy leaves and does not spread aggressively, making it a good choice for a mixed native perennial bed rather than only a large naturalized meadow. Flowers open from midsummer into fall, providing an important late-season nectar source for native bees and butterflies when many earlier bloomers have finished, and the seed heads that follow feed goldfinches and other songbirds through fall and winter. It tolerates the lean, dry, sandy or clay soils typical of open Southeastern woods and needs little supplemental water once established, making it a good low-input choice for a sunny to lightly shaded native planting.",
+    "sources": [
+      "USDA PLANTS Database",
+      "Lady Bird Johnson Wildflower Center",
+      "North Carolina State Extension — Plant Toolbox"
+    ]
+  },
+  {
+    "slug": "catbells-wild-indigo",
+    "common_name": "Catbells (Coastalplain Wild Indigo)",
+    "scientific_name": "Baptisia perfoliata",
+    "category": "flower",
+    "subcategory": "native perennial",
+    "days_to_germination": {
+      "min": 21,
+      "max": 30
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 365,
+      "max": 1095
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -4
+      },
+      "note": "Direct sow scarified seed in fall in lean, sandy, well-drained soil in full sun; like other baptisias it develops a deep taproot and resents transplanting, so choose the permanent site with care. This species is native to dry, sandy coastal plain woods and pine flatwoods of the Southeast."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 30
+    },
+    "height_in": {
+      "min": 12,
+      "max": 24
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 30
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Direct sow scarified seed in fall in lean, sandy, well-drained soil in full sun; catbells is an unusual and distinctive Southeastern coastal plain native wild indigo, immediately recognizable by its perfoliate leaves — round, disk-like blue-green foliage that appears to be pierced through the middle by the stem, giving the sprawling, low-growing plant a striking, almost succulent architectural texture unlike any other Baptisia species. In late spring it produces small clusters of bright yellow pea-family flowers scattered along the trailing stems, followed by the inflated seed pods typical of the genus. Native to dry, sandy pine flatwoods and scrub habitats from the Carolinas through Georgia and into the Florida panhandle, it thrives in lean, well-drained, sandy soil and full sun, tolerating drought and poor fertility better than richer garden perennials. Like all baptisias it fixes nitrogen, is deer-resistant, and develops a deep, tough taproot that makes established plants essentially permanent but impossible to transplant successfully — sow seed directly where the plant is meant to grow.",
+    "sources": [
+      "USDA PLANTS Database",
+      "Atlas of Florida Plants",
+      "North Carolina State Extension — Plant Toolbox"
+    ]
+  },
+  {
+    "slug": "walters-aster",
+    "common_name": "Walter's Aster",
+    "scientific_name": "Symphyotrichum walteri",
+    "category": "flower",
+    "subcategory": "native perennial wildflower",
+    "days_to_germination": {
+      "min": 14,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 90,
+      "max": 150
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant container-grown transplants in spring in average, well-drained, sandy to loamy soil in full sun to partial shade; Walter's aster is a Southeastern coastal plain native that blooms notably late in the season, well after many other native asters have finished."
+    },
+    "usda_zones": {
+      "min": 6,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 24,
+      "max": 48
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Plant in average, well-drained, sandy to loamy soil in full sun to partial shade; Walter's aster is a Southeastern coastal plain native perennial found naturally in open pine woods, savannas, and woodland edges from the Carolinas to the Gulf Coast, producing wiry, well-branched stems studded with small, pale lavender-to-white ray flowers and yellow centers. Its standout feature is bloom timing — flowering runs from late summer into late fall, often continuing later into the season than many other native asters, making it a valuable late-season nectar source for migrating monarch butterflies and the last generations of native bees active before winter. Plants are airy and gracefully branched rather than dense, working well threaded through a mixed native border or naturalized under high pine canopy where its light shade tolerance suits it well. It tolerates the sandy, well-drained soils typical of the coastal plain and needs only routine moisture, without the wet, boggy conditions some other native asters prefer. Cut back by about a third in early summer to encourage bushier growth and more abundant fall bloom.",
+    "sources": [
+      "USDA PLANTS Database",
+      "Atlas of Florida Plants",
+      "North Carolina State Extension — Plant Toolbox"
+    ]
+  },
+  {
+    "slug": "downy-indigo-bush",
+    "common_name": "Downy Indigo Bush",
+    "scientific_name": "Amorpha herbacea",
+    "category": "flower",
+    "subcategory": "native shrub",
+    "days_to_germination": {
+      "min": 14,
+      "max": 30
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 365,
+      "max": 730
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Direct sow scarified seed in fall in lean, sandy, well-drained soil in full sun; downy indigo bush is native to dry Southeastern sandhills and open pine woods and, like other Amorpha species, develops a deep root system that makes transplanting difficult once established."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 24,
+      "max": 48
+    },
+    "height_in": {
+      "min": 18,
+      "max": 48
+    },
+    "spread_in": {
+      "min": 24,
+      "max": 48
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Sow in lean, sandy, well-drained soil in full sun; downy indigo bush is a low, semi-woody Southeastern native legume of dry sandhills, scrub, and open pine woods, related to the taller false indigo bush but distinguished by its shorter, more subshrub-like stature and the soft, downy hairs covering its compound gray-green leaves. In summer it produces upright spikes of small, deep purple-blue flowers with prominent orange anthers, similar in form to leadplant, that attract native bumblebees and other pollinators. As a nitrogen-fixing legume it thrives in poor, sandy, infertile soil where many other flowering shrubs struggle, and it is well adapted to fire-maintained pine ecosystems, resprouting readily from the root crown after burning or hard pruning. It is drought-tolerant once established and requires very little supplemental water or fertility, making it a low-maintenance choice for a sunny, sandy native planting or a naturalized dry meadow in the Gulf South and greater Southeast.",
+    "sources": [
+      "USDA PLANTS Database",
+      "Atlas of Florida Plants",
+      "North Carolina State Extension — Plant Toolbox"
+    ]
+  },
+  {
+    "slug": "butterweed",
+    "common_name": "Butterweed (Cressleaf Groundsel)",
+    "scientific_name": "Packera glabella",
+    "category": "flower",
+    "subcategory": "native wildflower",
+    "days_to_germination": {
+      "min": 10,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 50,
+      "max": 65
+    },
+    "days_to_maturity": {
+      "min": 90,
+      "max": 150
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -6,
+        "max": 0
+      },
+      "note": "Direct sow in fall in moist, rich, disturbed soil in full sun to partial shade; butterweed is a native winter annual/biennial that germinates in fall, overwinters as a rosette, and blooms in early spring, then dies back after setting seed for the year."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 8,
+      "max": 12
+    },
+    "height_in": {
+      "min": 12,
+      "max": 36
+    },
+    "spread_in": {
+      "min": 8,
+      "max": 12
+    },
+    "sun": "partial",
+    "water": "high",
+    "directions": "Plant in moist, rich, disturbed soil in full sun to partial shade; butterweed is a native winter annual to biennial wildflower common in floodplains, ditches, wet fields, and disturbed bottomland soil across the eastern and central United States, where it forms bright, unmissable sheets of golden-yellow daisy flowers in early spring before most other plants have greened up. It germinates in fall, overwinters as a low rosette of glossy, deeply lobed leaves, then bolts and blooms in March and April, providing an important, abundant early-season nectar source for the first bees and other pollinators active in spring. After flowering and setting abundant seed, plants die back completely by early summer, so it works best worked into a naturalized wet meadow, floodplain planting, or the damp margin of a rain garden rather than a tidy, controlled bed, since it self-seeds prolifically and can be locally weedy in the moist, disturbed soil it favors. Note that butterweed contains pyrrolizidine alkaloids and is toxic if ingested by livestock, so avoid planting it in or near grazed pasture.",
+    "sources": [
+      "USDA PLANTS Database",
+      "Illinois Wildflowers",
+      "Missouri Botanical Garden Plant Finder"
+    ]
+  }
+]

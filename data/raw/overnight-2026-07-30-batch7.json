@@ -1,0 +1,106 @@
+[
+  {
+    "slug": "van-deman-quince",
+    "common_name": "Van Deman Quince (Historic USDA-Named Heirloom Quince)",
+    "scientific_name": "Cydonia oblonga 'Van Deman'",
+    "category": "fruit",
+    "subcategory": "tree fruit",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 730,
+      "max": 1460
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 8
+      },
+      "note": "Plant bare-root or container trees in spring in well-drained, fertile soil in full sun; quince is self-fertile and needs no pollinator, and Van Deman is a productive, well-documented older American heirloom cultivar."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 120,
+      "max": 180
+    },
+    "height_in": {
+      "min": 120,
+      "max": 180
+    },
+    "spread_in": {
+      "min": 120,
+      "max": 180
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in well-drained, fertile soil in full sun; Van Deman is a historic American quince cultivar named for USDA pomologist Henry E. Van Deman, documented in older state and federal pomology references among the notable named quince selections grown in American orchards in the late nineteenth and early twentieth centuries. It produces large, aromatic, golden-yellow fruit with the classic hard, tart flesh that transforms into a fragrant, rosy-pink preserve or paste once cooked with sugar. Like other quince, it is self-fertile, needs no separate pollinator, and begins bearing within a few years of planting on a young tree. Prune to an open vase form for good air circulation, which is the primary defense against fire blight, the main disease risk for quince in humid climates. Harvest fruit in fall once it has turned fully golden and developed its strong, characteristic perfume, and store in a cool, dry spot, where quince keeps considerably longer than most tree fruit.",
+    "sources": [
+      "USDA PLANTS Database",
+      "California Rare Fruit Growers",
+      "North Carolina State Extension"
+    ]
+  },
+  {
+    "slug": "dumbarton-oaks-hardy-kiwi",
+    "common_name": "Dumbarton Oaks Hardy Kiwi (Historic Vigorous Kiwiberry Vine)",
+    "scientific_name": "Actinidia arguta 'Dumbarton Oaks'",
+    "category": "berry",
+    "subcategory": "kiwi",
+    "days_to_germination": {
+      "min": 30,
+      "max": 90
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 1095,
+      "max": 1825
+    },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 6
+      },
+      "note": "Plant container-grown vines in spring on a very sturdy trellis, fence, or pergola; Dumbarton Oaks is a female cultivar and requires a male hardy kiwi vine such as 'Meader' within about 30–50 feet for pollination and fruit set."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 8
+    },
+    "spacing_in": {
+      "min": 120,
+      "max": 180
+    },
+    "height_in": {
+      "min": 72,
+      "max": 180
+    },
+    "spread_in": {
+      "min": 120,
+      "max": 240
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in full sun to partial shade in well-drained, moderately fertile soil, with a sturdy permanent trellis or arbor in place before planting; Dumbarton Oaks is one of the older named hardy kiwi selections in American cultivation, long associated with the historic ornamental gardens of the Dumbarton Oaks estate in Washington, D.C., and maintained since among hardy fruit collectors and specialty nurseries as a vigorous, reliably productive female vine. Like other Actinidia arguta cultivars it produces smooth-skinned, grape-sized fruit that is eaten whole without peeling, with a sweet, complex flavor often compared to a cross between kiwi and green grape. As a dioecious cultivar it requires a separate male hardy kiwi vine planted nearby for pollination, since it will flower but set little fruit on its own. The vine is notably cold-hardy, tolerating winter temperatures well below what damages fuzzy kiwi, and grows vigorously once established, so provide a very sturdy, permanent support structure from the start.",
+    "sources": [
+      "Cornell University Small Fruit Production Guide",
+      "USDA National Plant Germplasm System",
+      "specialty fruit nursery variety notes (hardy kiwi heritage selections)"
+    ]
+  }
+]

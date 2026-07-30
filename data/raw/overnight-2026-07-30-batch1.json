@@ -1,0 +1,167 @@
+[
+  {
+    "slug": "sochan",
+    "common_name": "Sochan (Cutleaf Coneflower)",
+    "scientific_name": "Rudbeckia laciniata",
+    "category": "vegetable",
+    "subcategory": "native perennial edible green",
+    "days_to_germination": {
+      "min": 14,
+      "max": 30
+    },
+    "germination_soil_temp_f": {
+      "min": 55,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 90
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": -2,
+        "max": 4
+      },
+      "note": "Set divisions or nursery starts in early spring in consistently moist, rich soil in partial shade; seed germinates slowly and unevenly without cold stratification, so division is the faster route to a harvestable patch. Space plants to allow airflow, since dense stands in shade can be prone to fungal leaf spot."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 30
+    },
+    "height_in": {
+      "min": 24,
+      "max": 96
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 36
+    },
+    "sun": "partial",
+    "water": "high",
+    "directions": "Grow in moist, humus-rich soil along a woodland edge or shaded bed; sochan is a tall native perennial in the sunflower family long gathered by the Cherokee and other Southeastern tribes as one of the first spring greens, still harvested today in the Great Smoky Mountains under a treaty-protected gathering right. The deeply cut, lance-shaped basal leaves are picked young in early spring before flowering stalks rise, then cooked like a mild, slightly nutty spinach or wild green — raw leaves can cause stomach upset in some people and are best cooked. Established clumps spread by rhizome and can be divided every few years to renew vigor and expand the patch; leave some growth uncut so plants can flower and support pollinators in mid-to-late summer, when tall yellow daisy-like blooms appear well above the foliage. Cut plants back hard after flowering to encourage a fresh flush of tender basal leaves for a second harvest window in fall.",
+    "sources": [
+      "USDA PLANTS Database",
+      "North Carolina State Extension — Plant Toolbox",
+      "Great Smoky Mountains Association — traditional Cherokee foodways references"
+    ]
+  },
+  {
+    "slug": "scarlett-muscadine",
+    "common_name": "Scarlett Muscadine Grape",
+    "scientific_name": "Vitis rotundifolia 'Scarlett'",
+    "category": "berry",
+    "subcategory": "grape",
+    "days_to_germination": {
+      "min": 30,
+      "max": 90
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 730,
+      "max": 1095
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant rooted vines in late winter to early spring on a sturdy trellis or arbor in well-drained soil in full sun; Scarlett is self-fertile and will crop on its own, though yields improve further with a second variety nearby."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 120,
+      "max": 240
+    },
+    "height_in": {
+      "min": 60,
+      "max": 96
+    },
+    "spread_in": {
+      "min": 120,
+      "max": 240
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant in well-drained, moderately fertile soil in full sun and train onto a single-wire or double-curtain trellis; Scarlett is a self-fertile muscadine released by the University of Georgia breeding program, selected for its reddish-bronze skin color, above-average berry size, and reliable self-pollination, making it a good choice for a home planting with limited space for a separate pollinizer vine. The flavor is sweet with the classic musky muscadine character, and the vine is vigorous and productive once established, typically bearing its first meaningful crop in year three. Prune hard every winter back to spurs on the permanent cordon, since muscadines fruit on new growth from the current season's canes. Harvest berries individually as they ripen and detach easily from the stem, over a multi-week window in late summer, and provide consistent moisture during fruit swell to reduce splitting after heavy rain.",
+    "sources": [
+      "University of Georgia Cooperative Extension — Muscadine Grape Varieties",
+      "Texas A&M AgriLife Extension — Muscadine Grape Production",
+      "Ison's Nursery and Vineyard variety notes"
+    ]
+  },
+  {
+    "slug": "paulk-muscadine",
+    "common_name": "Paulk Muscadine Grape",
+    "scientific_name": "Vitis rotundifolia 'Paulk'",
+    "category": "berry",
+    "subcategory": "grape",
+    "days_to_germination": {
+      "min": 30,
+      "max": 90
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 730,
+      "max": 1095
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant rooted vines in late winter to early spring on a sturdy trellis or arbor in well-drained soil in full sun; Paulk is self-fertile and vigorous, so give it ample trellis space — it outgrows most older muscadine varieties."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 144,
+      "max": 240
+    },
+    "height_in": {
+      "min": 60,
+      "max": 96
+    },
+    "spread_in": {
+      "min": 144,
+      "max": 240
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant in well-drained, moderately fertile soil in full sun and give the vine generous trellis space; Paulk is a self-fertile muscadine released by the University of Georgia breeding program and has quickly become popular for producing some of the largest berries of any muscadine cultivar, with glossy black-purple skin and a sweet, mild flavor good for fresh eating. Vines are notably vigorous and heavy-bearing, often needing more aggressive winter pruning than older varieties to keep the canopy in bounds and light penetrating to the fruiting spurs. Train young vines to a single trunk and permanent cordon along a wire, then prune all lateral growth back to short spurs each winter, since fruit forms on new shoots from that spur wood. Harvest from late summer into early fall as berries turn fully black and detach freely from the stem; because Paulk berries are large and thin-skinned relative to older varieties, pick promptly at ripeness to avoid splitting after rain.",
+    "sources": [
+      "University of Georgia Cooperative Extension — Muscadine Grape Varieties",
+      "Texas A&M AgriLife Extension — Muscadine Grape Production",
+      "Ison's Nursery and Vineyard variety notes"
+    ]
+  }
+]

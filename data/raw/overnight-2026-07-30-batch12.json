@@ -1,0 +1,274 @@
+[
+  {
+    "slug": "assam-tea",
+    "common_name": "Assam Tea (Broad-Leaved Tropical Tea Variety)",
+    "scientific_name": "Camellia sinensis var. assamica",
+    "category": "herb",
+    "subcategory": "evergreen tea shrub",
+    "days_to_germination": {
+      "min": 30,
+      "max": 90
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 80
+    },
+    "days_to_maturity": {
+      "min": 1095,
+      "max": 1825
+    },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 8
+      },
+      "note": "Plant container-grown plants or rooted cuttings in spring in well-drained, consistently moist, acidic, humus-rich soil in partial shade; Assam tea is the broad-leaved tropical botanical variety of the tea plant, less cold-tolerant than the small-leaved China variety but well suited to the heat and humidity of the Gulf South."
+    },
+    "usda_zones": {
+      "min": 8,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 36,
+      "max": 60
+    },
+    "height_in": {
+      "min": 48,
+      "max": 120
+    },
+    "spread_in": {
+      "min": 36,
+      "max": 72
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Plant in well-drained, highly acidic (pH 4.5–6.0), humus-rich soil in partial shade with protection from harsh afternoon sun; Assam tea is the large-leaved, tropical botanical variety of the tea plant, native to the hot, humid Assam region of northeastern India, and is the source of the malty, full-bodied character prized in classic Assam and many English breakfast-style black teas. Compared to the small-leaved China variety (Camellia sinensis var. sinensis) more commonly grown in cooler climates, Assam tea grows faster, produces larger leaves, and tolerates heat and humidity better, but it is noticeably less cold-hardy, making it a better fit for the warm, humid Gulf South than for northern tea gardens. Begin harvesting the tender top two leaves and a bud once plants are three to four years old and well established; frequent light plucking encourages a dense, bushy, more productive shape. Provide consistent moisture, since tea plants are sensitive to drought stress, and mulch well to keep roots cool and the acidic soil moist.",
+    "sources": [
+      "The Great Mississippi Tea Company",
+      "Camellia Forest Nursery",
+      "USDA Agricultural Research Service Tea Research"
+    ]
+  },
+  {
+    "slug": "sochi-tea",
+    "common_name": "Sochi Tea (Cold-Hardy Tea Cultivar)",
+    "scientific_name": "Camellia sinensis 'Sochi'",
+    "category": "herb",
+    "subcategory": "evergreen tea shrub",
+    "days_to_germination": {
+      "min": 30,
+      "max": 90
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 80
+    },
+    "days_to_maturity": {
+      "min": 1095,
+      "max": 1825
+    },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 8
+      },
+      "note": "Plant container-grown plants or rooted cuttings in spring in well-drained, consistently moist, acidic, humus-rich soil in partial shade; Sochi is among the most cold-hardy named tea cultivars available, originally selected for cultivation on Russia's Black Sea coast, and is the standard recommendation for growers pushing tea cultivation into cooler zones than the species typically tolerates."
+    },
+    "usda_zones": {
+      "min": 6,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 36,
+      "max": 60
+    },
+    "height_in": {
+      "min": 36,
+      "max": 96
+    },
+    "spread_in": {
+      "min": 36,
+      "max": 72
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Plant in well-drained, highly acidic (pH 4.5–6.0), humus-rich soil in partial shade — morning sun with afternoon shade is ideal; Sochi is a cold-hardy tea cultivar originally developed for the Black Sea coastal tea-growing region of Russia, the northernmost commercial tea-producing area in the world, and is widely sold in the US specifically because it tolerates significantly colder winters than typical tea plants, with reports of surviving briefly into the single digits °F once well established. This makes it the go-to choice for tea growers in cooler zones than the Gulf South, such as the mid-South and lower Appalachians, though it also performs well in the milder winters of zone 8–9. Leaves and growth habit are similar to standard small-leaved China-type tea, suitable for the same green, oolong, or black tea processing depending on how the harvested leaf is handled. Begin light harvesting of the top two leaves and a bud once plants are well established at three to four years old, and mulch heavily to protect the acid-loving root system through winter in the colder end of its range.",
+    "sources": [
+      "The Great Mississippi Tea Company",
+      "Camellia Forest Nursery",
+      "USDA Agricultural Research Service Tea Research"
+    ]
+  },
+  {
+    "slug": "koseret",
+    "common_name": "Koseret (Ethiopian Culinary Herb)",
+    "scientific_name": "Lippia abyssinica",
+    "category": "herb",
+    "subcategory": "culinary",
+    "days_to_germination": {
+      "min": 14,
+      "max": 28
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 90,
+      "max": 150
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 6
+      },
+      "note": "Transplant after all frost danger has passed into well-drained, fertile soil in full sun to partial shade; koseret is a tender perennial in frost-free climates but is typically grown as a warm-season annual or overwintered in a container further north."
+    },
+    "usda_zones": {
+      "min": 9,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 24,
+      "max": 48
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in well-drained, fertile soil in full sun to partial shade after frost danger passes; koseret is an aromatic Ethiopian shrub whose dried, crumbled leaves are a foundational seasoning in Ethiopian and Eritrean cooking, most notably in kitfo (spiced raw or lightly cooked minced beef) and gomen (collard-style greens), lending a pungent, herbal, faintly citrusy-minty aroma unlike common Western culinary herbs. Leaves are typically harvested, dried in the shade, and crumbled into a fine seasoning rather than used fresh, concentrating their aromatic oils. The plant grows as a soft-wooded perennial shrub in frost-free tropical and subtropical climates and can be grown as a warm-season annual or container plant that overwinters indoors farther north. Harvest leafy stems regularly through the growing season to encourage bushy new growth, and dry the harvest in a warm, shaded, well-ventilated spot before storing in an airtight container for use throughout the year.",
+    "sources": [
+      "Purdue University NewCROP",
+      "general horticultural and ethnobotanical reference"
+    ]
+  },
+  {
+    "slug": "korarima",
+    "common_name": "Korarima (Ethiopian Cardamom)",
+    "scientific_name": "Aframomum corrorima",
+    "category": "herb",
+    "subcategory": "culinary spice",
+    "days_to_germination": {
+      "min": 30,
+      "max": 60
+    },
+    "germination_soil_temp_f": {
+      "min": 75,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 730,
+      "max": 1095
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 6
+      },
+      "note": "Plant divisions or container-grown rhizomes after all frost danger passes in moist, rich, well-drained soil in partial shade; korarima needs consistent warmth and humidity year-round and is best grown as a container plant that can be moved under cover outside of zone 10–11."
+    },
+    "usda_zones": {
+      "min": 10,
+      "max": 12
+    },
+    "spacing_in": {
+      "min": 24,
+      "max": 36
+    },
+    "height_in": {
+      "min": 36,
+      "max": 72
+    },
+    "spread_in": {
+      "min": 24,
+      "max": 36
+    },
+    "sun": "partial",
+    "water": "high",
+    "directions": "Plant in moist, rich, well-drained soil in partial shade with protection from hot afternoon sun; korarima, or Ethiopian cardamom, is a ginger-family relative whose aromatic seed pods are a key spice in Ethiopian cooking, most notably in berbere spice blend and in the traditional Ethiopian coffee ceremony, where whole pods are sometimes added to the roasting coffee. It is a distinct species from both true cardamom (Elettaria cardamomum) and the West African spice grains of paradise (Aframomum melegueta), with its own warm, slightly citrusy-peppery, resinous flavor. The plant grows as a clumping, ginger-like perennial with broad leaves and produces its aromatic seed pods near the base of the plant close to the soil. It needs consistent warmth, humidity, and moisture year-round and is intolerant of any frost, so outside of zone 10–11 it is best grown in a large container that can be moved to a warm, bright indoor spot for winter. Harvest pods once they mature and dry to a deep reddish-brown, then dry further and store whole, grinding just before use to preserve aroma.",
+    "sources": [
+      "Purdue University NewCROP",
+      "general horticultural and ethnobotanical reference"
+    ]
+  },
+  {
+    "slug": "mahlab",
+    "common_name": "Mahlab (Mahaleb Cherry, St. Lucie Cherry)",
+    "scientific_name": "Prunus mahaleb",
+    "category": "fruit",
+    "subcategory": "tree fruit",
+    "days_to_germination": {
+      "min": 60,
+      "max": 120
+    },
+    "germination_soil_temp_f": {
+      "min": 40,
+      "max": 55
+    },
+    "days_to_maturity": {
+      "min": 1095,
+      "max": 1825
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": 4
+      },
+      "note": "Plant container or bare-root trees in spring in well-drained, alkaline to neutral soil in full sun; mahlab is grown primarily for the aromatic kernel inside its cherry pits, and is also widely used as an understock for grafting other Prunus species because of its adaptability and drought tolerance."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 120,
+      "max": 216
+    },
+    "height_in": {
+      "min": 120,
+      "max": 300
+    },
+    "spread_in": {
+      "min": 120,
+      "max": 240
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant in well-drained, alkaline to neutral soil in full sun; mahlab, or mahaleb cherry, is a small ornamental cherry species native to the Mediterranean and Middle East, grown far more for the fragrant kernel inside its small, bitter cherry pits than for the fruit's thin, tart flesh, which is not typically eaten fresh. The dried, ground kernels — called mahlab or mahleb — have a distinctive bitter-almond, floral, faintly cherry aroma used to flavor Middle Eastern, Greek, and Mediterranean pastries and breads, including Greek tsoureki, Cypriot flaounes, and Middle Eastern ka'ak. To harvest the spice, collect ripe pits, crack them to remove the kernel inside, and grind the kernels just before use, since their aroma fades quickly once ground. The tree itself is small, fragrant-flowered in spring, and notably drought- and alkaline-soil-tolerant, which is also why it is widely used as a rootstock for grafting sweet and sour cherries in regions with dry, calcareous soils unsuited to standard cherry rootstocks. It tolerates heat and poor soil well once established.",
+    "sources": [
+      "Purdue University NewCROP",
+      "general horticultural and culinary reference"
+    ]
+  }
+]
