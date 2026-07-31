@@ -1,0 +1,332 @@
+[
+  {
+    "slug": "black-medic-cover",
+    "common_name": "Black Medic",
+    "scientific_name": "Medicago lupulina",
+    "category": "cover-crop",
+    "subcategory": "nitrogen-fixing legume",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 50,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 90
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": 2
+      },
+      "note": "Broadcast seed onto a firm seedbed in early spring or late summer to early fall, into average to poor, well-drained soil in full sun; black medic tolerates lean, compacted, or droughty soil better than most other clover-type cover crops."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 4,
+      "max": 6
+    },
+    "height_in": {
+      "min": 4,
+      "max": 12
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 18
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Broadcast seed onto a firm, weed-suppressed seedbed in average to poor soil in full sun; black medic is a low, spreading, clover-like nitrogen-fixing legume with small trifoliate leaves and clusters of tiny yellow flowers followed by distinctive small black, kidney-shaped seed pods that give the plant its common name. It is unusually tolerant of poor, compacted, and drought-prone soil compared to true clovers, making it a useful short-term green manure and living mulch for tough sites where richer legumes struggle to establish. Left to grow, it self-seeds readily and can persist as a low-growing component of a mixed cover crop or pasture stand for several years. Mow or till in at flowering to maximize nitrogen contribution to the soil, or allow a portion to set seed if ongoing self-sustaining cover is the goal.",
+    "sources": [
+      "USDA SARE cover crop guide",
+      "USDA PLANTS Database",
+      "Oregon State University Extension"
+    ]
+  },
+  {
+    "slug": "low-hop-clover",
+    "common_name": "Low Hop Clover",
+    "scientific_name": "Trifolium campestre",
+    "category": "cover-crop",
+    "subcategory": "annual legume",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 50,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 90
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -6,
+        "max": 0
+      },
+      "note": "Broadcast seed onto a firm seedbed in fall, into average, well-drained soil in full sun; low hop clover germinates with fall rains, overwinters as a low rosette, and completes its life cycle by late spring."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 3,
+      "max": 6
+    },
+    "height_in": {
+      "min": 4,
+      "max": 12
+    },
+    "spread_in": {
+      "min": 8,
+      "max": 12
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Broadcast seed onto a firm, weed-suppressed seedbed in average, well-drained soil in full sun; low hop clover is a small, low-growing annual clover with tiny, bright yellow, hop-like flower heads that dry to a distinctive papery brown as seed matures. It fixes modest nitrogen while providing quick, dense soil cover and light forage value, and its low, spreading habit makes it a good short-season nurse cover between vegetable plantings or in orchard row middles. Because it completes its life cycle quickly, it fits well into a rotation ahead of a warm-season cash crop, either tilled in green for maximum nitrogen contribution or left to mature and self-seed for a returning stand. It tolerates lean, sandy, or compacted soils where richer clovers may fail to establish reliably.",
+    "sources": [
+      "USDA SARE cover crop guide",
+      "USDA PLANTS Database",
+      "Oregon State University Extension"
+    ]
+  },
+  {
+    "slug": "rabbits-foot-clover",
+    "common_name": "Rabbit's-foot Clover",
+    "scientific_name": "Trifolium arvense",
+    "category": "cover-crop",
+    "subcategory": "annual legume",
+    "days_to_germination": {
+      "min": 10,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 50,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 90
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -6,
+        "max": 0
+      },
+      "note": "Broadcast seed onto a firm seedbed in fall into lean, sandy, well-drained soil in full sun; rabbit's-foot clover tolerates poor, dry, acidic sand better than almost any other cover crop clover."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 4,
+      "max": 6
+    },
+    "height_in": {
+      "min": 6,
+      "max": 16
+    },
+    "spread_in": {
+      "min": 6,
+      "max": 10
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Broadcast seed onto a firm, weed-suppressed seedbed in lean, sandy soil in full sun; rabbit's-foot clover is named for its soft, fuzzy, elongated flower heads covered in fine silky hairs that resemble a small rabbit's foot, appearing pale pink to grayish over a long spring and early summer bloom. It is exceptionally tolerant of poor, droughty, acidic sand and other marginal soils where most other cover crop legumes fail to thrive, making it a useful stabilizing and nitrogen-fixing option for sandy, low-fertility ground. The soft, ornamental flower heads are sometimes used in dried arrangements, adding minor secondary value beyond its cover cropping role. Mow or till in at flowering for green manure, or allow seed to mature and shatter for a self-sustaining stand on suitable sandy sites.",
+    "sources": [
+      "USDA SARE cover crop guide",
+      "USDA PLANTS Database",
+      "USDA NRCS Plant Fact Sheet"
+    ]
+  },
+  {
+    "slug": "spotted-medick",
+    "common_name": "Spotted Medick (Spotted Burclover)",
+    "scientific_name": "Medicago arabica",
+    "category": "cover-crop",
+    "subcategory": "annual legume",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 50,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 100
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -6,
+        "max": 0
+      },
+      "note": "Broadcast seed onto a firm seedbed in fall into average, well-drained soil in full sun; spotted medick is easily identified by the distinctive dark purple-black blotch marking the center of each leaflet."
+    },
+    "usda_zones": {
+      "min": 6,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 4,
+      "max": 6
+    },
+    "height_in": {
+      "min": 4,
+      "max": 8
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 18
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Broadcast seed onto a firm, weed-suppressed seedbed in average, well-drained soil in full sun; spotted medick is a low, sprawling winter annual legume easily recognized by the dark purple-black spot marking the center of each clover-like leaflet, distinguishing it at a glance from plain medics and clovers. Small yellow flowers in spring give way to distinctive spiny, coiled seed pods that cling readily to fur, socks, and equipment, a dispersal strategy worth noting when growing it near foot traffic areas. As a self-reseeding winter annual, it establishes with fall rains, fixes nitrogen and covers soil through winter, then completes its cycle and dies back with the onset of summer heat. Mow or till before pod set if seed dispersal onto pathways or unwanted areas is a concern, otherwise let it mature to maintain a self-sustaining stand.",
+    "sources": [
+      "USDA SARE cover crop guide",
+      "USDA PLANTS Database",
+      "Oregon State University Extension"
+    ]
+  },
+  {
+    "slug": "annual-yellow-sweetclover-sourclover",
+    "common_name": "Annual Yellow Sweetclover (Sourclover)",
+    "scientific_name": "Melilotus indicus",
+    "category": "cover-crop",
+    "subcategory": "annual legume",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 55,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 90,
+      "max": 120
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -6,
+        "max": 0
+      },
+      "note": "Broadcast seed onto a firm seedbed in fall into average, well-drained, slightly alkaline soil in full sun; sourclover is a fast, self-reseeding winter annual legume more compact than biennial yellow and white sweetclover."
+    },
+    "usda_zones": {
+      "min": 6,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 4,
+      "max": 8
+    },
+    "height_in": {
+      "min": 12,
+      "max": 24
+    },
+    "spread_in": {
+      "min": 8,
+      "max": 12
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Broadcast seed onto a firm, weed-suppressed seedbed in average, well-drained soil in full sun; sourclover is a fast-growing winter annual legume with small, bright yellow, sweetly fragrant flowers on slender spikes, related to but shorter-lived and less woody than the biennial yellow and white sweetclovers grown for forage and honey production. It fixes nitrogen efficiently over a single growing season, germinating with fall rains and completing its life cycle by late spring, making it well suited to rotation ahead of a summer cash crop without the multi-year commitment of biennial sweetclovers. It is notably tolerant of alkaline and saline soils where many other cover crop legumes struggle, and it self-seeds reliably once introduced to a compatible site. Mow or incorporate at early flowering for maximum green manure value, since the coumarin compounds that give sweetclovers their characteristic scent can taint hay if not properly cured.",
+    "sources": [
+      "USDA SARE cover crop guide",
+      "USDA PLANTS Database",
+      "USDA ARS National Plant Germplasm System (GRIN-Global)"
+    ]
+  },
+  {
+    "slug": "narbon-vetch",
+    "common_name": "Narbon Vetch",
+    "scientific_name": "Vicia narbonensis",
+    "category": "cover-crop",
+    "subcategory": "winter annual legume",
+    "days_to_germination": {
+      "min": 10,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 45,
+      "max": 65
+    },
+    "days_to_maturity": {
+      "min": 120,
+      "max": 180
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -6,
+        "max": -2
+      },
+      "note": "Direct sow in fall into average, well-drained soil in full sun; Narbon vetch is a larger-seeded, more upright winter annual vetch than hairy or common vetch, historically grown as both a cover crop and a grain legume for livestock feed."
+    },
+    "usda_zones": {
+      "min": 6,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 4,
+      "max": 6
+    },
+    "height_in": {
+      "min": 18,
+      "max": 36
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 18
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Direct sow into average, well-drained soil in full sun in fall; Narbon vetch is a sturdy, semi-upright Mediterranean winter annual legume with broader leaflets and larger seeds than hairy or common vetch, historically grown as a dual-purpose cover crop and grain legume for livestock feed in parts of the Mediterranean and Middle East. It fixes substantial nitrogen over the winter growing season, and its more upright habit produces less tangled, easier-to-manage biomass than sprawling hairy vetch when grown as a standalone cover rather than with a grass companion. Pale blue-violet flowers appear in spring, followed by pods of relatively large, flattened seed that can be harvested for use as a rotational grain legume in addition to its soil-building role. Terminate by mowing or crimping at early flowering for maximum green manure value, or allow pods to mature if seed harvest is the goal.",
+    "sources": [
+      "USDA SARE cover crop guide",
+      "USDA ARS National Plant Germplasm System (GRIN-Global)",
+      "Purdue University Center for New Crops and Plant Products"
+    ]
+  }
+]

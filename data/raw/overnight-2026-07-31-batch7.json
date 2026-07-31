@@ -1,0 +1,277 @@
+[
+  {
+    "slug": "slender-amaranth-livid",
+    "common_name": "Slender Amaranth (Livid Amaranth, Chinese Spinach)",
+    "scientific_name": "Amaranthus blitum",
+    "category": "vegetable",
+    "subcategory": "warm-season leaf amaranth",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 30,
+      "max": 55
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 1,
+        "max": 6
+      },
+      "note": "Direct sow after last frost once soil has warmed, into fertile, moisture-retentive, well-drained soil in full sun; slender amaranth is a fast, mild-flavored leaf amaranth widely grown as a hot-weather substitute for spinach."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 4,
+      "max": 8
+    },
+    "height_in": {
+      "min": 12,
+      "max": 24
+    },
+    "spread_in": {
+      "min": 8,
+      "max": 12
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Broadcast or drill seed thinly into warm, fertile, evenly moist soil in full sun, thinning seedlings to a few inches apart for continuous baby-leaf harvest. Slender amaranth grows quickly into low, branching plants with tender, mild, spinach-like leaves that hold up to heat and humidity far better than true spinach, making it a reliable summer green in hot climates where cool-season greens have already bolted. Harvest by pinching young shoot tips and outer leaves regularly, which encourages fresh branching growth and delays the onset of flowering; older plants become slightly coarser but remain edible when cooked. It self-sows readily in disturbed garden soil, so remove spent plants before seed drop if volunteer seedlings are not wanted the following season. Cook briefly like spinach or chard, as the leaves wilt down substantially and have a mild, slightly earthy flavor.",
+    "sources": [
+      "Purdue University Center for New Crops and Plant Products",
+      "University of Hawaii CTAHR Extension",
+      "USDA ARS National Plant Germplasm System (GRIN-Global)"
+    ]
+  },
+  {
+    "slug": "bracted-passionflower",
+    "common_name": "Bracted Passionflower",
+    "scientific_name": "Passiflora affinis",
+    "category": "flower",
+    "subcategory": "native vine",
+    "days_to_germination": {
+      "min": 21,
+      "max": 45
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 365,
+      "max": 545
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant after last frost in well-drained, average soil in full sun to partial shade with a trellis, fence, or shrub to climb; bracted passionflower is less cold-hardy than maypop and dies to the ground in all but the mildest winters within its zone range."
+    },
+    "usda_zones": {
+      "min": 8,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 24,
+      "max": 36
+    },
+    "height_in": {
+      "min": 60,
+      "max": 96
+    },
+    "spread_in": {
+      "min": 36,
+      "max": 60
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Plant in well-drained soil in full sun to partial shade with support to climb; bracted passionflower is a smaller-flowered Texas and northeastern Mexico native passionvine, distinguished from the showier maypop by its more finely three-lobed leaves and modest, pale greenish-white to cream flowers backed by a distinctive ring of leafy bracts. Like other native passionflowers, it is an essential larval host plant for gulf fritillary and other passionflower-dependent butterflies, and the vine is often grown specifically for that wildlife value rather than for its comparatively small, less palatable fruit. It spreads by root suckers to form a thicket over time, which is useful for naturalizing a butterfly garden corner but should be watched in smaller, mixed borders. Where winters bring hard freezes, expect the top growth to die back, with new shoots emerging from the roots once the soil warms in spring.",
+    "sources": [
+      "USDA PLANTS Database",
+      "Lady Bird Johnson Wildflower Center",
+      "Native Plant Society of Texas"
+    ]
+  },
+  {
+    "slug": "mustang-grape",
+    "common_name": "Mustang Grape",
+    "scientific_name": "Vitis mustangensis",
+    "category": "fruit",
+    "subcategory": "native wild grape",
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": null,
+      "max": null
+    },
+    "days_to_maturity": {
+      "min": 730,
+      "max": 1095
+    },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": -2,
+        "max": 4
+      },
+      "note": "Plant dormant hardwood cuttings or bare-root vines in late winter to early spring into well-drained soil in full sun with a sturdy arbor, fence, or trellis; mustang grape is an extremely vigorous, heat- and drought-tolerant Texas and Gulf South native."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 96,
+      "max": 144
+    },
+    "height_in": {
+      "min": 120,
+      "max": 240
+    },
+    "spread_in": {
+      "min": 96,
+      "max": 180
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant against a sturdy arbor, fence, or large tree in well-drained soil in full sun; mustang grape is one of the toughest and most vigorous native grapes of Texas and the Gulf South, tolerating extreme heat, drought, poor soil, and disease pressure that eliminates most cultivated bunch grapes in the region. Leaves have a distinctive dense white to rust-colored woolly underside, and the vine climbs aggressively by tendrils, quickly covering large structures if not managed. Small, tart, dark purple to black grapes ripen from midsummer into fall and are prized locally for jelly, juice, and wine once sweetened, though the juice is intensely acidic and the skins can irritate skin and eyes on contact, so handle fresh fruit with care. Prune hard each winter to control size and improve air circulation, since the vine's vigor can quickly overwhelm nearby structures and trees if left unchecked.",
+    "sources": [
+      "USDA PLANTS Database",
+      "Texas A&M AgriLife Extension",
+      "Lady Bird Johnson Wildflower Center"
+    ]
+  },
+  {
+    "slug": "missouri-gooseberry",
+    "common_name": "Missouri Gooseberry",
+    "scientific_name": "Ribes missouriense",
+    "category": "berry",
+    "subcategory": "native gooseberry",
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": null,
+      "max": null
+    },
+    "days_to_maturity": {
+      "min": 545,
+      "max": 730
+    },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": -2,
+        "max": 4
+      },
+      "note": "Plant rooted cuttings or bare-root shrubs in early spring into moist, well-drained, slightly acidic to neutral soil in full sun to partial shade; Missouri gooseberry tolerates more shade than most fruiting shrubs and is naturally found along woodland edges and fencerows."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 7
+    },
+    "spacing_in": {
+      "min": 36,
+      "max": 60
+    },
+    "height_in": {
+      "min": 36,
+      "max": 60
+    },
+    "spread_in": {
+      "min": 36,
+      "max": 60
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Plant in moist, well-drained soil in full sun to partial shade; Missouri gooseberry is a thorny, arching Midwestern and Great Plains native shrub found wild along woodland edges, fencerows, and thickets, tolerating more shade than most fruiting berries while still producing a reliable crop. Small, greenish-white, bell-shaped flowers in early spring give way to smooth, purple-black berries by early summer that are tart-sweet and excellent fresh once fully ripe, or cooked into pies, jams, and preserves while still slightly underripe and firmer. It is notably more heat- and humidity-tolerant than European gooseberry cultivars, and its wide native range makes it naturally adapted to variable continental climates from hot summers to severe winters. Prune out the oldest, least productive canes each winter to renew vigor, and watch for the sharp spines at each leaf node when harvesting or pruning.",
+    "sources": [
+      "USDA PLANTS Database",
+      "Lady Bird Johnson Wildflower Center",
+      "University of Minnesota Extension"
+    ]
+  },
+  {
+    "slug": "white-beautyberry",
+    "common_name": "White Beautyberry (Lactea Beautyberry)",
+    "scientific_name": "Callicarpa americana 'Lactea'",
+    "category": "flower",
+    "subcategory": "native shrub cultivar",
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": null,
+      "max": null
+    },
+    "days_to_maturity": {
+      "min": 365,
+      "max": 730
+    },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 6
+      },
+      "note": "Plant rooted cuttings or container-grown shrubs in spring in moist, slightly acidic, well-drained to moderately moist soil in partial shade to full sun; 'Lactea' is propagated by cuttings to preserve its white-fruited trait, since seedlings often revert toward the species' typical magenta berry color."
+    },
+    "usda_zones": {
+      "min": 6,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 48,
+      "max": 72
+    },
+    "height_in": {
+      "min": 36,
+      "max": 96
+    },
+    "spread_in": {
+      "min": 48,
+      "max": 96
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Plant in partial shade to full sun in moist, slightly acidic to neutral, well-drained to moderately moist soil; 'Lactea' is a naturally occurring white-fruited selection of American beautyberry, identical to the wild species in habit, foliage, and pale lilac summer flowers but bearing clusters of translucent, ivory-white berries instead of the typical magenta-purple, for a strikingly different look against the same arching, deciduous stems. The pale berries persist into fall and are just as valuable to mockingbirds and other fruit-eating birds as the species type, though some gardeners note the paler fruit can be slightly less visible to foraging wildlife against green foliage. Because seed-grown plants frequently revert to the common purple-berried form, propagate only from rooted cuttings taken from a confirmed white-fruited plant to preserve the trait. Prune hard in late winter, as with the species, since flowers and berries form on the current season's new growth.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "North Carolina State Extension Gardener",
+      "University of Florida IFAS Extension"
+    ]
+  }
+]
