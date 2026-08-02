@@ -1,0 +1,265 @@
+[
+  {
+    "slug": "bababerry-raspberry",
+    "common_name": "Bababerry Raspberry (Low-Chill Everbearing Southern Raspberry)",
+    "scientific_name": "Rubus idaeus 'Bababerry'",
+    "category": "berry",
+    "subcategory": "raspberry",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 365,
+      "max": 730
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": 0
+      },
+      "note": "Plant dormant canes or container plants in late winter to early spring in well-drained, fertile, organically rich soil in full sun to light afternoon shade; Bababerry is one of the very few raspberry cultivars bred specifically for low-chill, high-heat climates and needs afternoon shade protection in the hottest Gulf South summers."
+    },
+    "usda_zones": {
+      "min": 6,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 24,
+      "max": 36
+    },
+    "height_in": {
+      "min": 48,
+      "max": 60
+    },
+    "spread_in": {
+      "min": 24,
+      "max": 36
+    },
+    "sun": "partial",
+    "water": "high",
+    "directions": "Plant in well-drained, fertile, organically rich soil in full sun with afternoon shade protection in hot climates, and mulch heavily to keep roots cool, since raspberries are naturally adapted to cooler regions and struggle with Gulf South summer heat. Bred in Louisiana specifically to fruit in low-chill, high-heat conditions where almost no other raspberry succeeds, Bababerry is an everbearing cultivar producing two crops a year — a smaller early-summer crop on floricanes and a heavier fall crop on primocanes — with medium red berries of good flavor. It represents one of the only realistic raspberry options for Gulf South gardeners determined to grow this normally cool-climate fruit, though yields and vigor remain modest compared to raspberries grown in their preferred cooler range. Cut spent floricanes to the ground after their early summer crop and manage primocanes for the fall crop, keeping the planting well watered and mulched through the hottest months.",
+    "sources": [
+      "LSU AgCenter — low-chill raspberry variety notes",
+      "Texas A&M AgriLife Extension — small fruit production for warm climates",
+      "Southern Exposure Seed Exchange"
+    ]
+  },
+  {
+    "slug": "jostaberry",
+    "common_name": "Jostaberry (Blackcurrant-Gooseberry Hybrid)",
+    "scientific_name": "Ribes × nidigrolaria",
+    "category": "berry",
+    "subcategory": "currant-gooseberry hybrid",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 365,
+      "max": 730
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -6,
+        "max": -2
+      },
+      "note": "Plant dormant bare-root or container stock in fall or late winter in moist, fertile, well-drained soil in full sun to partial shade; jostaberry needs cool winters and struggles in the Deep South's mild, humid climate, performing best in the upper South and cooler regions."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 7
+    },
+    "spacing_in": {
+      "min": 48,
+      "max": 72
+    },
+    "height_in": {
+      "min": 48,
+      "max": 72
+    },
+    "spread_in": {
+      "min": 48,
+      "max": 72
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Plant in moist, fertile, well-drained soil in full sun to partial shade, and mulch to keep roots cool, since this hybrid inherits its cool-climate preference from both currant and gooseberry parents. Jostaberry is a thornless hybrid bred in Germany from a cross of blackcurrant and gooseberry, combining the vigor and disease resistance of both parents into a productive, easy-care shrub that bears large, smooth, dark purple-black berries with a flavor described as a cross between the two — richer and less tart than gooseberry, milder and less musky than blackcurrant. The thornless canes make picking far easier than with true gooseberries, and the shrub is notably resistant to the powdery mildew and rust diseases that trouble many currants and gooseberries. It performs best in regions with cold winters and mild summers, generally struggling with the heat, humidity, and mild winters of the Deep South, so it suits cooler parts of the transition zone and the upper South far better than true Gulf Coast gardens. Prune out the oldest third of canes each winter to encourage strong new fruiting wood.",
+    "sources": [
+      "Royal Horticultural Society",
+      "University of Minnesota Extension — Ribes cultivar notes",
+      "Missouri Botanical Garden Plant Finder"
+    ]
+  },
+  {
+    "slug": "sweetcrisp-blueberry",
+    "common_name": "Sweetcrisp Southern Highbush Blueberry (Crisp-Textured Low-Chill Blueberry)",
+    "scientific_name": "Vaccinium corymbosum interspecific hybrid 'Sweetcrisp'",
+    "category": "berry",
+    "subcategory": "blueberry",
+    "days_to_germination": {
+      "min": 30,
+      "max": 90
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 730,
+      "max": 1095
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant during winter dormancy in very acidic, well-drained soil amended with peat or sulfur; Sweetcrisp requires only about 300 chill hours, making it well suited to the mild winters of the Gulf South, and while partially self-fruitful it produces best with a second southern highbush cultivar nearby."
+    },
+    "usda_zones": {
+      "min": 8,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 48,
+      "max": 72
+    },
+    "height_in": {
+      "min": 48,
+      "max": 72
+    },
+    "spread_in": {
+      "min": 48,
+      "max": 60
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Amend soil to pH 4.5–5.5 with peat or elemental sulfur before planting, and mulch heavily with pine bark to maintain the moist, acidic conditions southern highbush blueberries require. Sweetcrisp is a University of Florida southern highbush release notable for its unusually firm, crisp berry texture — distinct from the softer bite of most blueberries — paired with high sugar content and good flavor, along with very low chill requirements that make it one of the most reliable blueberry choices for the Deep South and coastal Gulf region. The compact, productive bush ripens over a fairly long mid-season window, and its firm texture holds up especially well for fresh eating and short-term storage. Plant with a second southern highbush cultivar for best cross-pollination and yield, and prune out old, unproductive wood each winter to keep the bush vigorous.",
+    "sources": [
+      "University of Florida IFAS Extension — southern highbush blueberry variety records",
+      "LSU AgCenter — Blueberry Variety Performance in Louisiana",
+      "North Carolina State Extension — Blueberry Cultivar Evaluations"
+    ]
+  },
+  {
+    "slug": "star-southern-highbush-blueberry",
+    "common_name": "Star Southern Highbush Blueberry (Early-Ripening Low-Chill Blueberry)",
+    "scientific_name": "Vaccinium corymbosum interspecific hybrid 'Star'",
+    "category": "berry",
+    "subcategory": "blueberry",
+    "days_to_germination": {
+      "min": 30,
+      "max": 90
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 730,
+      "max": 1095
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant during winter dormancy in very acidic, well-drained soil amended with peat or sulfur; Star requires roughly 300 chill hours and, though partially self-fruitful, sets a heavier crop with a second southern highbush cultivar nearby for cross-pollination."
+    },
+    "usda_zones": {
+      "min": 8,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 48,
+      "max": 72
+    },
+    "height_in": {
+      "min": 48,
+      "max": 72
+    },
+    "spread_in": {
+      "min": 48,
+      "max": 60
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Amend soil to pH 4.5–5.5 with peat or elemental sulfur before planting, and provide consistent moisture through spring fruit development for the best berry size. Star is a University of Florida southern highbush release valued for its very early ripening, often among the first blueberries ready to harvest in Gulf South gardens, bearing firm, flavorful, medium to large berries on a vigorous, productive bush. Its low chill requirement and early season make it a good choice for extending the front end of the blueberry harvest, particularly useful when paired with a mid- or late-season rabbiteye or southern highbush cultivar to spread the crop over a longer window. Plant with a second compatible southern highbush variety for the best fruit set, and prune out the oldest canes each winter to keep the bush productive.",
+    "sources": [
+      "University of Florida IFAS Extension — southern highbush blueberry variety records",
+      "LSU AgCenter — Blueberry Variety Performance in Louisiana",
+      "North Carolina State Extension — Blueberry Cultivar Evaluations"
+    ]
+  },
+  {
+    "slug": "legacy-blueberry",
+    "common_name": "Legacy Blueberry (Adaptable Highbush-Southern Highbush Hybrid)",
+    "scientific_name": "Vaccinium corymbosum 'Legacy'",
+    "category": "berry",
+    "subcategory": "blueberry",
+    "days_to_germination": {
+      "min": 30,
+      "max": 90
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 730,
+      "max": 1095
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant during winter dormancy in very acidic, well-drained soil amended with peat or sulfur; Legacy requires roughly 400–500 chill hours, moderate for a highbush type, and benefits from a second highbush or southern highbush cultivar nearby for the best fruit set."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 48,
+      "max": 72
+    },
+    "height_in": {
+      "min": 60,
+      "max": 84
+    },
+    "spread_in": {
+      "min": 48,
+      "max": 60
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Amend soil to pH 4.5–5.5 with peat or elemental sulfur before planting, and mulch well to maintain the moist, acidic soil conditions blueberries require. Legacy is a USDA release bred from a cross between northern highbush and southern highbush parentage, giving it unusually broad climate adaptability — it performs well from the upper South through much of the Gulf region, bridging the gap between cultivars suited only to cold winters and those needing very low chill. The semi-evergreen bush produces heavy crops of firm, sweet, richly flavored medium-sized berries over a fairly long mid-to-late season, and its vigorous, upright growth habit makes it easy to manage and harvest. Its adaptability and reliable production have made it one of the more versatile blueberry cultivars for gardeners uncertain whether a northern or southern highbush type suits their exact climate. Prune out the oldest canes each winter to keep the bush renewing itself with productive new wood.",
+    "sources": [
+      "USDA Agricultural Research Service — blueberry variety release records",
+      "North Carolina State Extension — Blueberry Cultivar Evaluations",
+      "LSU AgCenter — Blueberry Variety Performance in Louisiana"
+    ]
+  }
+]

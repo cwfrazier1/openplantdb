@@ -1,0 +1,222 @@
+[
+  {
+    "slug": "ha-ogen-melon",
+    "common_name": "Ha'Ogen Melon (Israeli Green-Fleshed Muskmelon)",
+    "scientific_name": "Cucumis melo var. reticulatus 'Ha'Ogen'",
+    "category": "vegetable",
+    "subcategory": "melon",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 95
+    },
+    "days_to_maturity": {
+      "min": 75,
+      "max": 85
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 3
+      },
+      "note": "Direct sow in hills after last frost once soil is reliably above 65°F, or start indoors 3–4 weeks earlier in peat pots for a head start; Ha'Ogen thrives in the long, hot Gulf South summer but needs steady moisture through fruit set. In zone 9, plant March–April for a June–July harvest and consider a fall crop in late July for October picking."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 36,
+      "max": 48
+    },
+    "height_in": {
+      "min": 12,
+      "max": 18
+    },
+    "spread_in": {
+      "min": 60,
+      "max": 96
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Sow 1 inch deep in hills of 3 seeds after danger of frost has passed, thinning to the strongest 2 plants per hill once true leaves appear. Keep soil evenly moist during flowering and fruit set, then taper watering in the final week to concentrate sugars, and harvest when the melon slips easily from the vine with a full, sweet aroma at the blossom end. Ha'Ogen is a kibbutz-bred Israeli heirloom named for Kibbutz HaOgen, prized for its compact 2–3 lb round fruit with lightly netted, gold-green rind that streaks orange as it ripens, enclosing pale green flesh with an intensely sweet, spicy-floral flavor reminiscent of Charentais melons. Because it slips clean from the vine at peak ripeness rather than holding firm like shipping cantaloupes, it is best suited to home gardens and farmers markets rather than long-distance transport. Vigorous, disease-tolerant vines produce heavily over a relatively short window, so successive plantings extend the harvest.",
+    "sources": [
+      "Seed Savers Exchange — Ha'Ogen melon variety notes",
+      "Baker Creek Heirloom Seeds — melon variety descriptions",
+      "University of California Cooperative Extension — Specialty Melon Production Guide"
+    ]
+  },
+  {
+    "slug": "boule-dor-melon",
+    "common_name": "Boule d'Or Melon (Golden Ball Muskmelon)",
+    "scientific_name": "Cucumis melo var. cantalupensis 'Boule d'Or'",
+    "category": "vegetable",
+    "subcategory": "melon",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 95
+    },
+    "days_to_maturity": {
+      "min": 85,
+      "max": 95
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 3
+      },
+      "note": "Direct sow in hills once soil has warmed past 65°F after last frost, or transplant peat-pot-started seedlings to avoid root disturbance; give Boule d'Or full sun and consistent moisture through the long ripening season typical of Gulf Coast summers. In zone 9, plant March–April for late-summer harvest."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 36,
+      "max": 48
+    },
+    "height_in": {
+      "min": 12,
+      "max": 18
+    },
+    "spread_in": {
+      "min": 60,
+      "max": 96
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Sow seeds 1 inch deep in hills after frost danger has passed, thinning to 2 strong plants per hill; mulch to conserve moisture and suppress weeds around the sprawling vines. Harvest when the golden-yellow rind fully colors and the fruit releases a musky-sweet fragrance at the stem end, usually with a slight give when pressed. Boule d'Or ('Golden Ball') is a French heirloom cantaloupe-type melon dating to the late 1800s, bearing round, 2–3 lb fruit with a distinctive smooth, deep-gold rind faintly ribbed rather than netted, enclosing firm, pale orange flesh with a rich, honeyed sweetness that intensifies in storage. Unlike most cantaloupes, Boule d'Or keeps for several weeks after picking without losing flavor, making it valued by market gardeners for extending the melon season. Vines are moderately vigorous and benefit from trellising in smaller gardens if fruit weight is supported in slings.",
+    "sources": [
+      "Seed Savers Exchange — Boule d'Or melon variety notes",
+      "Kitazawa Seed Co. and heirloom seed catalog descriptions",
+      "University of California Cooperative Extension — Specialty Melon Production Guide"
+    ]
+  },
+  {
+    "slug": "purple-beauty-pepper",
+    "common_name": "Purple Beauty Pepper (Sweet Purple Bell Pepper)",
+    "scientific_name": "Capsicum annuum 'Purple Beauty'",
+    "category": "vegetable",
+    "subcategory": "pepper",
+    "days_to_germination": {
+      "min": 10,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 75,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 70,
+      "max": 75
+    },
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -6
+      },
+      "note": "Start seed indoors 6–8 weeks before the last frost under warm conditions, then transplant into the garden after nighttime lows stay above 55°F. In zone 9, set out transplants in March for a spring crop and again in July for a fall crop, since fruit set slows once summer temperatures exceed the mid-90s."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 18,
+      "max": 24
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Start seed indoors under grow lights or a warm sunny window 6–8 weeks before the last frost, and harden off before transplanting into fertile, well-drained soil after all frost danger has passed. Pick fruit at the deep purple stage for a mild, crisp bell flavor, or leave on the plant to ripen fully to red for a sweeter finish. Purple Beauty is a compact, high-yielding bell pepper cultivar that produces blocky, medium-sized fruit that emerges green, matures to a glossy deep purple, and eventually ripens to bright red if left on the plant, giving gardeners three color and flavor stages from a single planting. The eye-catching purple stage retains crisp texture and holds up well raw in salads or on a crudité tray, and the plants tend to be sturdy and productive in home garden conditions across a wide range of climates. Because purple pigment can fade to green when cooked, Purple Beauty is best showcased fresh.",
+    "sources": [
+      "Seed Savers Exchange — Purple Beauty pepper variety notes",
+      "Cornell University Vegetable Varieties for Gardeners database",
+      "Southern Exposure Seed Exchange — pepper variety descriptions"
+    ]
+  },
+  {
+    "slug": "doux-despagne-pepper",
+    "common_name": "Doux d'Espagne Pepper (Sweet of Spain Frying Pepper)",
+    "scientific_name": "Capsicum annuum 'Doux d'Espagne'",
+    "category": "vegetable",
+    "subcategory": "pepper",
+    "days_to_germination": {
+      "min": 10,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 75,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 68,
+      "max": 75
+    },
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -6
+      },
+      "note": "Start seed indoors 6–8 weeks before the last frost and transplant once nights stay above 55°F; this old French heirloom sets fruit reliably in warm weather but benefits from afternoon shade cloth during the hottest stretch of Gulf Coast summers. In zone 9, transplant in March and again in midsummer for a fall crop."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 24,
+      "max": 30
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Start seed indoors 6–8 weeks before the last frost, harden off seedlings, and transplant into fertile, well-drained soil once frost danger has passed. Harvest elongated fruit green for a mild, grassy flavor or let them ripen fully to red for a sweeter, richer taste well suited to roasting and frying. Doux d'Espagne ('Sweet of Spain') is a 19th-century French heirloom frying pepper producing long, tapered, blocky-shouldered fruit up to 6–8 inches that are thin-walled and entirely sweet with no heat, similar in use to Italian frying types but with a distinctively rich, old-world flavor. Plants are productive and tolerate a range of soils, making this a dependable choice for gardeners wanting a classic European sweet pepper for skillet cooking rather than fresh salad use. Fruit is best picked while walls are still tender, since older peppers can develop a slightly tougher skin.",
+    "sources": [
+      "Seed Savers Exchange — heirloom pepper variety notes",
+      "Kokopelli Seed Foundation — European heirloom pepper archive",
+      "Baker Creek Heirloom Seeds — pepper variety descriptions"
+    ]
+  }
+]
