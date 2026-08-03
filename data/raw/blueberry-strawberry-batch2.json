@@ -1,0 +1,167 @@
+[
+  {
+    "slug": "ozarkblue-blueberry",
+    "common_name": "Ozarkblue Blueberry (Cold-Hardy Southern-Adapted Northern Highbush)",
+    "scientific_name": "Vaccinium corymbosum 'Ozarkblue'",
+    "category": "berry",
+    "subcategory": "blueberry",
+    "days_to_germination": {
+      "min": 30,
+      "max": 90
+    },
+    "germination_soil_temp_f": {
+      "min": 55,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 1095,
+      "max": 1460
+    },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 8
+      },
+      "note": "Plant container-grown plants in fall or early spring in very acidic, well-drained soil; Ozarkblue needs roughly 800-900 chill hours yet still performs unusually well in warmer climates for a northern highbush type, making it one of the more heat-tolerant northern highbush blueberries available to southern growers."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 8
+    },
+    "spacing_in": {
+      "min": 48,
+      "max": 72
+    },
+    "height_in": {
+      "min": 48,
+      "max": 72
+    },
+    "spread_in": {
+      "min": 48,
+      "max": 60
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in full sun in strongly acidic (pH 4.5-5.5), well-drained soil amended with pine bark or peat, and mulch heavily to protect the shallow root system. Ozarkblue was developed by the University of Arkansas and stands out among northern highbush blueberries for its unusual heat tolerance and adaptability to warmer regions that would stress most other northern highbush cultivars, while still delivering the large size, firm texture, and excellent, well-balanced sweet-tart flavor the group is known for. It ripens late in the blueberry season, extending the harvest window when planted alongside earlier-ripening cultivars. Cross-pollination with a second highbush cultivar improves fruit set and size. Fertilize lightly with acid-forming fertilizer in early spring, water deeply during dry spells, and prune out old canes each winter to keep the bush productive.",
+    "sources": [
+      "University of Arkansas Division of Agriculture — Blueberry Cultivar Releases",
+      "North Carolina State Extension — Blueberry Cultivar Evaluations",
+      "University of Georgia Cooperative Extension — Blueberry Variety Profiles"
+    ]
+  },
+  {
+    "slug": "alachua-blueberry",
+    "common_name": "Alachua Southern Highbush Blueberry (Florida-Bred Low-Chill Blueberry)",
+    "scientific_name": "Vaccinium corymbosum interspecific hybrid 'Alachua'",
+    "category": "berry",
+    "subcategory": "blueberry",
+    "days_to_germination": {
+      "min": 30,
+      "max": 90
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 730,
+      "max": 1095
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": 4
+      },
+      "note": "Plant dormant bushes in winter in acidic, well-drained soil amended with pine bark or peat; Alachua needs only about 300 chill hours, named for the north-central Florida county where the University of Florida breeding program that released it is based."
+    },
+    "usda_zones": {
+      "min": 8,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 48,
+      "max": 72
+    },
+    "height_in": {
+      "min": 48,
+      "max": 72
+    },
+    "spread_in": {
+      "min": 48,
+      "max": 60
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Amend the planting bed to pH 4.5-5.2 with pine bark fines before setting out dormant bushes in winter, and mulch well to conserve moisture around the shallow root zone. Alachua is a University of Florida southern highbush release bred for the state's mild winters, producing medium to large, firm, flavorful berries on a vigorous bush that ripens over a solid midseason window. Its very low chilling requirement makes it a dependable choice even after an unusually warm winter along the Gulf Coast, where higher-chill varieties can bloom poorly or fail to set fruit. Plant with a second low-chill southern highbush cultivar nearby to improve pollination and yield, fertilize with acid-forming fertilizer in early spring, and prune out old wood each winter to sustain strong production.",
+    "sources": [
+      "University of Florida IFAS Extension — Southern Highbush Blueberry Cultivars",
+      "LSU AgCenter — Blueberry Variety Performance in Louisiana",
+      "University of Georgia Cooperative Extension — Blueberry Variety Profiles"
+    ]
+  },
+  {
+    "slug": "eversweet-strawberry",
+    "common_name": "Eversweet Strawberry (Day-Neutral Everbearing Strawberry)",
+    "scientific_name": "Fragaria x ananassa 'Eversweet'",
+    "category": "berry",
+    "subcategory": "strawberry",
+    "days_to_germination": {
+      "min": 14,
+      "max": 42
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 90,
+      "max": 150
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Set crowns in early spring at soil level so the growing point is neither buried nor exposed; Eversweet is day-neutral and fruits continuously through the first season rather than waiting for the following spring."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 6,
+      "max": 12
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 18
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant crowns in full sun in fertile, well-drained soil, spacing about a foot apart in raised beds or containers, and keep evenly moist with drip irrigation and a straw mulch to keep developing berries clean. Eversweet is a day-neutral strawberry bred for a longer, more consistently sweet fruiting season than many other everbearing types, producing a steady supply of medium, richly flavored berries from late spring through fall rather than concentrating fruit into one or two flushes. Pinch off the first flush of blossoms for a few weeks after planting to help young plants establish a strong root system before letting them fruit continuously. Renew the planting every two to three years as yields decline, and watch for the same pests and diseases common to other strawberries, including spider mites and gray mold in humid weather.",
+    "sources": [
+      "University of California Cooperative Extension — Strawberry Cultivars",
+      "North Carolina State Extension — Strawberry Production",
+      "Oregon State University Extension — Day-Neutral Strawberry Varieties"
+    ]
+  }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "slug": "gafford-pecan",
+    "common_name": "Gafford Pecan (Scab-Resistant Type-1 Pecan)",
+    "scientific_name": "Carya illinoinensis 'Gafford'",
+    "category": "fruit",
+    "subcategory": "nut tree",
+    "days_to_germination": {
+      "min": 90,
+      "max": 150
+    },
+    "germination_soil_temp_f": {
+      "min": 50,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 1825,
+      "max": 2555
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -4
+      },
+      "note": "Plant dormant bare-root trees in late winter in deep, fertile, well-drained soil; Gafford is a Type-1 (protandrous) pecan pollinator noted for excellent scab resistance, an important trait in the humid Gulf South, and pairs well with a Type-2 cultivar like Zinner for cross-pollination."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 360,
+      "max": 720
+    },
+    "height_in": {
+      "min": 480,
+      "max": 960
+    },
+    "spread_in": {
+      "min": 360,
+      "max": 600
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in deep, fertile, well-drained soil in full sun, siting a compatible Type-2 pollinator such as Zinner nearby for good nut fill, since pecans are wind-pollinated and most cultivars set a much heavier crop with a cross-pollinator. Gafford is a Type-1 pecan valued by Gulf South growers for its notably strong resistance to pecan scab, the fungal disease that causes the most consistent yield losses for pecan growers in humid regions and drives the need for regular fungicide spraying on susceptible cultivars. Its disease resistance makes it a lower-maintenance choice for home orchards without a commercial spray program. Water deeply during nut fill in late summer, and expect the tree to take several years to reach bearing age before producing consistent annual crops.",
+    "sources": [
+      "Louisiana State University AgCenter — Pecan Variety Recommendations",
+      "Mississippi State University Extension — Pecan Cultivars",
+      "Texas A&M AgriLife Extension — Pecan Variety Selection"
+    ]
+  },
+  {
+    "slug": "zinner-pecan",
+    "common_name": "Zinner Pecan (Scab-Resistant Thin-Shelled Type-2 Pecan)",
+    "scientific_name": "Carya illinoinensis 'Zinner'",
+    "category": "fruit",
+    "subcategory": "nut tree",
+    "days_to_germination": {
+      "min": 90,
+      "max": 150
+    },
+    "germination_soil_temp_f": {
+      "min": 50,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 1825,
+      "max": 2555
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -4
+      },
+      "note": "Plant dormant bare-root trees in late winter in deep, fertile, well-drained soil; Zinner is a Type-2 (protogynous) pecan noted for scab resistance and a thin, easy-cracking shell, and pairs well with a Type-1 cultivar like Gafford for cross-pollination."
+    },
+    "usda_zones": {
+      "min": 6,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 360,
+      "max": 720
+    },
+    "height_in": {
+      "min": 480,
+      "max": 960
+    },
+    "spread_in": {
+      "min": 360,
+      "max": 600
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in deep, fertile, well-drained soil in full sun, siting a compatible Type-1 pollinator such as Gafford nearby, since pecans are wind-pollinated and cross-pollination between a Type-1 and Type-2 cultivar produces much better nut set than a single cultivar alone. Zinner is a Type-2 pecan valued for combining good resistance to pecan scab with a notably thin, easy-cracking shell that yields plump, high-quality kernels, making it appealing for home growers who want good disease resistance without sacrificing nut quality. As with other scab-resistant cultivars, it is a lower-maintenance choice for Gulf South home orchards without a regular commercial fungicide program. Water deeply during nut fill in late summer, and expect several years of growth before the tree reaches consistent bearing age.",
+    "sources": [
+      "Louisiana State University AgCenter — Pecan Variety Recommendations",
+      "Mississippi State University Extension — Pecan Cultivars",
+      "Texas A&M AgriLife Extension — Pecan Variety Selection"
+    ]
+  },
+  {
+    "slug": "carolina-buckthorn",
+    "common_name": "Carolina Buckthorn (Native Understory Tree with Red-to-Black Fruit)",
+    "scientific_name": "Frangula caroliniana",
+    "category": "flower",
+    "subcategory": "native understory tree",
+    "days_to_germination": {
+      "min": 60,
+      "max": 180
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 730,
+      "max": 1460
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 6
+      },
+      "note": "Plant container-grown trees in spring in moist, well-drained, slightly acidic soil in partial shade to full sun; Carolina Buckthorn is a native understory tree found across the southeastern and south-central US, including Louisiana, Mississippi, Texas, and Alabama, and is unrelated to the invasive European buckthorns."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 96,
+      "max": 180
+    },
+    "height_in": {
+      "min": 120,
+      "max": 300
+    },
+    "spread_in": {
+      "min": 96,
+      "max": 180
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Plant in moist, well-drained, slightly acidic soil in partial shade to full sun, siting it as an understory or woodland-edge tree where it naturally occurs. Carolina Buckthorn is a native small tree or large shrub found across the southeastern and south-central United States, valued for its clusters of small berries that ripen through a striking progression of colors from red to dark purple-black over summer, providing an extended food source for birds and other wildlife as different berries in the same cluster ripen at different rates. Its glossy, deep green foliage and neat, rounded form make it a good choice for naturalized plantings, woodland gardens, and wildlife landscaping, and unlike the invasive European buckthorns it is a well-behaved native that does not spread aggressively. It tolerates a range of soil types and light conditions once established and needs little maintenance beyond occasional shaping if a more tree-like form is wanted.",
+    "sources": [
+      "USDA PLANTS Database",
+      "Lady Bird Johnson Wildflower Center",
+      "North Carolina State Extension"
+    ]
+  }
+]

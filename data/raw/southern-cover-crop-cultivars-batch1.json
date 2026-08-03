@@ -1,0 +1,277 @@
+[
+  {
+    "slug": "kenland-red-clover",
+    "common_name": "Kenland Red Clover (Disease-Resistant Standard Red Clover Cultivar)",
+    "scientific_name": "Trifolium pratense 'Kenland'",
+    "category": "cover-crop",
+    "subcategory": "legume",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 40,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 90
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -4
+      },
+      "note": "Sow 4-8 weeks before first fall frost, or frost-seed in late winter; Kenland, a 1947 Kentucky Agricultural Experiment Station release, remains the most widely used red clover cultivar in the US, bred for resistance to southern anthracnose."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 1,
+      "max": 2
+    },
+    "height_in": {
+      "min": 12,
+      "max": 24
+    },
+    "spread_in": {
+      "min": 6,
+      "max": 12
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Broadcast inoculated seed onto a prepared bed at 8-10 lb per acre, raking to a quarter-inch depth. Kenland was released in 1947 by the Kentucky Agricultural Experiment Station and quickly became the standard red clover cultivar across much of the country, prized for resistance to southern anthracnose, a fungal disease that severely limited the persistence of older red clover strains in warm, humid climates like the Gulf South. It overwinters reliably and puts on vigorous growth in early spring, fixing substantial nitrogen for the following crop. Terminate at early flower stage, before the first florets open to brown, to capture maximum fixed nitrogen; a second flush of growth often follows mowing, allowing an additional cutting of biomass before final incorporation.",
+    "sources": [
+      "USDA Natural Resources Conservation Service — Cover Crop Species Guides",
+      "University of Kentucky Cooperative Extension",
+      "SARE (Sustainable Agriculture Research and Education) — Cover Crop Chart"
+    ]
+  },
+  {
+    "slug": "eco-till-radish",
+    "common_name": "Eco-Till Radish (Named Daikon-Type Tillage and Forage Radish)",
+    "scientific_name": "Raphanus sativus 'Eco-Till'",
+    "category": "cover-crop",
+    "subcategory": "brassica",
+    "days_to_germination": {
+      "min": 4,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 45,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 90
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {
+        "min": -10,
+        "max": -6
+      },
+      "note": "Sow 6-10 weeks before first fall frost so the deep taproot has time to develop before hard freezes; Eco-Till is a named daikon-type tillage radish cultivar bred for a long, thick taproot that breaks up compacted soil."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 4,
+      "max": 6
+    },
+    "height_in": {
+      "min": 18,
+      "max": 30
+    },
+    "spread_in": {
+      "min": 8,
+      "max": 12
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Broadcast or drill seed into a firm, well-prepared seedbed at a shallow depth in late summer to early fall. Eco-Till is a named daikon-type tillage radish cultivar bred to send a long, thick taproot deep into the soil profile, physically fracturing compacted layers ('biodrilling') that limit root growth and water infiltration in subsequent crops, while its lush top growth suppresses weeds and scavenges leftover soil nitrogen before winter. The taproot decomposes over winter after being killed by hard freezes, leaving open channels in the soil and releasing scavenged nutrients back for spring planting. In the mild winters of the Gulf South, plant early enough in fall for the radish to reach a hard freeze or be mechanically terminated, since it may not winterkill reliably in the warmest zones.",
+    "sources": [
+      "USDA Natural Resources Conservation Service — Cover Crop Species Guides",
+      "SARE (Sustainable Agriculture Research and Education) — Cover Crop Chart",
+      "Penn State Extension — Tillage Radish Cover Crop"
+    ]
+  },
+  {
+    "slug": "au-robin-crimson-clover",
+    "common_name": "AU Robin Crimson Clover (Early-Maturing Reseeding Crimson Clover)",
+    "scientific_name": "Trifolium incarnatum 'AU Robin'",
+    "category": "cover-crop",
+    "subcategory": "legume",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 45,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 90,
+      "max": 150
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -2
+      },
+      "note": "Sow in fall for a winter-to-spring cover crop; AU Robin, bred at Auburn University, matures and flowers earlier than common crimson clover and reseeds itself reliably, making it well suited to the Gulf South's mild winters."
+    },
+    "usda_zones": {
+      "min": 6,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 2,
+      "max": 4
+    },
+    "height_in": {
+      "min": 12,
+      "max": 24
+    },
+    "spread_in": {
+      "min": 8,
+      "max": 14
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Broadcast seed onto a prepared seedbed in fall, raking lightly to ensure good seed-to-soil contact. AU Robin was bred at Auburn University specifically for the Gulf South, flowering and setting seed earlier than common crimson clover strains, which allows it to complete its life cycle and reseed itself reliably even where a following summer crop needs the ground relatively early. Its brilliant crimson flower spikes provide excellent early-season pollinator forage in addition to nitrogen fixation and weed suppression. Because it reseeds so readily, a single planting can establish a self-sustaining crimson clover cover crop rotation in a bed over successive years if allowed to set seed before termination.",
+    "sources": [
+      "Auburn University College of Agriculture",
+      "USDA Natural Resources Conservation Service — Cover Crop Species Guides",
+      "SARE (Sustainable Agriculture Research and Education) — Cover Crop Chart"
+    ]
+  },
+  {
+    "slug": "aroostook-winter-rye",
+    "common_name": "Aroostook Winter Rye (Cold-Hardy Standard Cover Crop Cereal Rye)",
+    "scientific_name": "Secale cereale 'Aroostook'",
+    "category": "cover-crop",
+    "subcategory": "grass",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 34,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 90
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {
+        "min": -6,
+        "max": 0
+      },
+      "note": "Sow in fall through early winter; Aroostook, developed in Maine, is a widely used cover crop cereal rye valued as a dependable, cold-hardy standard for winter cover and spring weed suppression."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 2,
+      "max": 4
+    },
+    "height_in": {
+      "min": 36,
+      "max": 60
+    },
+    "spread_in": {
+      "min": 6,
+      "max": 10
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Broadcast or drill seed into a prepared seedbed in fall, as late as early winter in mild climates since cereal rye germinates in cold soil better than almost any other cover crop grain. Aroostook, developed in Maine, is considered a gold-standard cover crop cereal rye cultivar, valued for outstanding cold hardiness, rapid fall establishment, and a dense root system that suppresses weeds and prevents erosion through winter. In spring it produces allelopathic compounds as it decomposes that further suppress weed germination in the following crop, a widely used benefit in no-till and reduced-till vegetable systems. Mow and terminate before the rye sets seed, typically at or just after flowering, since mature rye can be difficult to kill and may become a volunteer weed if allowed to seed.",
+    "sources": [
+      "USDA Natural Resources Conservation Service — Cover Crop Species Guides",
+      "SARE (Sustainable Agriculture Research and Education) — Cover Crop Chart",
+      "University of Maine Cooperative Extension"
+    ]
+  },
+  {
+    "slug": "bigbee-berseem-clover",
+    "common_name": "Bigbee Berseem Clover (Gulf South-Bred Winter-Hardy Berseem Clover)",
+    "scientific_name": "Trifolium alexandrinum 'Bigbee'",
+    "category": "cover-crop",
+    "subcategory": "legume",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 45,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 90
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -2
+      },
+      "note": "Sow in fall for a winter cover crop; Bigbee, released by Mississippi State University, was bred specifically for improved winter hardiness and reseeding ability in the Gulf South, extending berseem clover's usefulness beyond its traditionally more tender range."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 2,
+      "max": 4
+    },
+    "height_in": {
+      "min": 18,
+      "max": 30
+    },
+    "spread_in": {
+      "min": 8,
+      "max": 14
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Broadcast seed onto a prepared, fertile seedbed in fall, raking lightly for good seed-to-soil contact. Bigbee was released by Mississippi State University specifically to extend the useful range of berseem clover, a fast-growing, high-quality nitrogen-fixing legume traditionally limited by poor winter hardiness, into the Deep South by improving its cold tolerance and self-reseeding ability. It grows quickly and can be cut multiple times through the cool season for forage or green manure, regrowing vigorously after each cutting or grazing. Terminate by mowing and incorporating before spring planting, or allow a final growth flush to flower and reseed if a self-sustaining stand is wanted in future years.",
+    "sources": [
+      "Mississippi State University Extension",
+      "USDA Natural Resources Conservation Service — Cover Crop Species Guides",
+      "SARE (Sustainable Agriculture Research and Education) — Cover Crop Chart"
+    ]
+  }
+]

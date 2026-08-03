@@ -1,0 +1,332 @@
+[
+  {
+    "slug": "texstar-peach",
+    "common_name": "TexStar Peach (Texas A&M Very Low-Chill Freestone Peach)",
+    "scientific_name": "Prunus persica 'TexStar'",
+    "category": "fruit",
+    "subcategory": "peach",
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": 35,
+      "max": 55
+    },
+    "days_to_maturity": {
+      "min": 1095,
+      "max": 1460
+    },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -2
+      },
+      "note": "Plant bare-root trees in late winter while fully dormant; TexStar needs only about 450 chill hours, making it one of the more reliable freestone peaches for the mild, short winters of coastal Texas and the Gulf South where higher-chill peaches bloom poorly or fail to set fruit."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 180,
+      "max": 240
+    },
+    "height_in": {
+      "min": 120,
+      "max": 180
+    },
+    "spread_in": {
+      "min": 120,
+      "max": 168
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant bare-root trees in late winter in full sun on well-drained soil, since peach roots are very susceptible to rot in wet ground; prune to an open-vase shape the first year to let light into the canopy. TexStar was released by Texas A&M AgriLife specifically for the low-chill needs of the Texas Gulf Coast, producing a medium to large, yellow-fleshed freestone peach with attractive red-blushed skin and good flavor for a low-chill selection. It is self-fertile and does not need a second peach for pollination, though bloom can still be lost to a late hard freeze after an especially warm winter, so avoid low frost pockets when siting the tree. Thin fruit to one every 6-8 inches along the branch once they reach marble size to improve final fruit size, and fertilize lightly in spring and again after harvest.",
+    "sources": [
+      "Texas A&M AgriLife Extension — Peach Variety Selection for Texas and the Gulf Coast",
+      "Louisiana State University AgCenter — Low-Chill Peach Variety Recommendations for the Gulf South",
+      "University of Florida IFAS Extension — Low-Chill Peach Production"
+    ]
+  },
+  {
+    "slug": "sam-houston-peach",
+    "common_name": "Sam Houston Peach (Low-Chill Freestone Peach for the Gulf Coast)",
+    "scientific_name": "Prunus persica 'Sam Houston'",
+    "category": "fruit",
+    "subcategory": "peach",
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": 35,
+      "max": 55
+    },
+    "days_to_maturity": {
+      "min": 1095,
+      "max": 1460
+    },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -2
+      },
+      "note": "Plant bare-root trees in late winter while dormant; Sam Houston needs roughly 500 chill hours, which is low enough to fruit reliably around Houston and other mild-winter Gulf Coast locations that are too warm for most commercial peach varieties."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 180,
+      "max": 240
+    },
+    "height_in": {
+      "min": 120,
+      "max": 180
+    },
+    "spread_in": {
+      "min": 120,
+      "max": 168
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Set out bare-root trees in late winter in full sun and well-drained soil, then prune young trees to an open, vase-shaped form to maximize light and airflow through the canopy in humid Gulf Coast conditions. Sam Houston is a Texas A&M-developed freestone peach bred for reliable fruiting in the low-chill winters around Houston and the upper Texas Gulf Coast, producing medium-sized, yellow-fleshed fruit with a red-blushed skin and good flavor considering its low chilling requirement. The tree is self-fertile, so a single tree will set fruit, but siting it away from low-lying frost pockets helps protect the early bloom from a late freeze. Thin fruit to about 6 inches apart when they reach marble size to improve size and quality, and watch for the humidity-related fungal diseases common to peaches in the Gulf South, treating preventively if brown rot or leaf curl has been a problem in the area.",
+    "sources": [
+      "Texas A&M AgriLife Extension — Peach Variety Selection for Texas and the Gulf Coast",
+      "Louisiana State University AgCenter — Low-Chill Peach Variety Recommendations for the Gulf South",
+      "University of Florida IFAS Extension — Low-Chill Peach Production"
+    ]
+  },
+  {
+    "slug": "flordahome-peach",
+    "common_name": "Flordahome Peach (Early University of Florida Low-Chill Peach)",
+    "scientific_name": "Prunus persica 'Flordahome'",
+    "category": "fruit",
+    "subcategory": "peach",
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": 35,
+      "max": 55
+    },
+    "days_to_maturity": {
+      "min": 1095,
+      "max": 1460
+    },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -2
+      },
+      "note": "Plant bare-root trees in late winter while dormant; Flordahome needs roughly 400-450 chill hours, one of the earlier University of Florida low-chill releases bred to fruit reliably through the state's mild winters."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 180,
+      "max": 240
+    },
+    "height_in": {
+      "min": 120,
+      "max": 180
+    },
+    "spread_in": {
+      "min": 120,
+      "max": 168
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant bare-root trees in late winter in full sun on well-drained soil, and prune to an open-vase shape in the first year or two to establish a strong, light-filled framework. Flordahome is one of the University of Florida's early low-chill peach releases, bred alongside Flordaking to give Gulf Coast and Florida growers a dependable option where standard high-chill peaches bloom erratically or fail to set fruit after mild winters. It bears medium, yellow-fleshed freestone fruit with a red-blushed skin and pleasant, mild flavor for a low-chill selection, ripening in late spring before the worst of the summer heat. The tree is self-fertile and productive, though a late-season freeze after unusually early bloom can still reduce a crop, so avoid planting in frost-prone low spots. Thin developing fruit to 6-8 inches apart and fertilize lightly each spring to sustain consistent annual production.",
+    "sources": [
+      "University of Florida IFAS Extension — Low-Chill Peach Production",
+      "Louisiana State University AgCenter — Low-Chill Peach Variety Recommendations for the Gulf South",
+      "Texas A&M AgriLife Extension — Peach Variety Selection for Texas and the Gulf Coast"
+    ]
+  },
+  {
+    "slug": "thomas-black-walnut",
+    "common_name": "Thomas Black Walnut (Classic Large-Nutted Eastern Black Walnut)",
+    "scientific_name": "Juglans nigra 'Thomas'",
+    "category": "fruit",
+    "subcategory": "nut tree",
+    "days_to_germination": {
+      "min": 90,
+      "max": 180
+    },
+    "germination_soil_temp_f": {
+      "min": 35,
+      "max": 45
+    },
+    "days_to_maturity": {
+      "min": 1825,
+      "max": 2555
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": 2
+      },
+      "note": "Plant bare-root or container-grown grafted trees in late winter to early spring in deep, well-drained soil; Thomas is self-fruitful but produces heavier, more reliable crops with a second black walnut cultivar nearby for cross-pollination, and grafted trees typically begin bearing several years before seedling trees."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 480,
+      "max": 720
+    },
+    "height_in": {
+      "min": 600,
+      "max": 900
+    },
+    "spread_in": {
+      "min": 480,
+      "max": 720
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant grafted trees into deep, fertile, well-drained soil in full sun, well away from vegetable gardens and shade-sensitive plants since black walnut roots exude juglone, a compound toxic to many other species. Thomas is one of the oldest and most widely planted named black walnut cultivars, selected in Pennsylvania in the 1880s and still valued for its consistently large, well-filled nuts, relatively thin shell, and good cracking quality compared with wild seedling trees. The vigorous, long-lived tree needs several years to reach bearing age but then produces reliably for decades, with nuts maturing and dropping in fall for hulling, curing, and cracking. Keep young trees watered during establishment, and protect the trunk from mower and string-trimmer damage; mature trees need little care beyond an occasional light fertilization and removal of any dead or crossing limbs.",
+    "sources": [
+      "Purdue University Extension — Black Walnut Cultivar Recommendations",
+      "University of Missouri Center for Agroforestry — Black Walnut Production",
+      "Northern Nut Growers Association"
+    ]
+  },
+  {
+    "slug": "stampede-sunchoke",
+    "common_name": "Stampede Sunchoke (Early-Maturing Jerusalem Artichoke)",
+    "scientific_name": "Helianthus tuberosus 'Stampede'",
+    "category": "vegetable",
+    "subcategory": "root vegetable",
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": 50,
+      "max": 65
+    },
+    "days_to_maturity": {
+      "min": 100,
+      "max": 125
+    },
+    "maturity_from": "transplant",
+    "sow_method": "tuber",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -2,
+        "max": 2
+      },
+      "note": "Plant tuber sections 3-5 inches deep around the last frost date in any well-drained soil in full sun; Stampede matures noticeably earlier than most sunchokes, forming large tubers before other varieties have finished bulking up, which suits areas with a shorter frost-free window."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 72,
+      "max": 96
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 36
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant tuber pieces in well-drained soil in a dedicated bed, since sunchokes spread aggressively from any tuber left in the ground and are difficult to fully remove once established. Stampede is prized among Jerusalem artichoke growers for maturing its large, smooth-skinned tubers earlier than most other varieties, allowing an earlier fall harvest and giving northern growers a reliable crop even where the growing season is on the short side. Foliage grows tall and topped with small yellow sunflowers in late summer before dying back after frost, at which point the tubers are ready to dig; a light frost is said to improve their sweet, nutty flavor by converting stored inulin into simple sugars. Harvest tubers from fall through early spring as needed, leaving a few in the ground to resprout the following year, and rotate or contain the bed to keep the planting from spreading into unwanted areas.",
+    "sources": [
+      "University of Minnesota Extension — Jerusalem Artichoke",
+      "Seed Savers Exchange",
+      "Southern Exposure Seed Exchange"
+    ]
+  },
+  {
+    "slug": "red-fuseau-sunchoke",
+    "common_name": "Red Fuseau Sunchoke (Red-Skinned Fingerling Jerusalem Artichoke)",
+    "scientific_name": "Helianthus tuberosus 'Red Fuseau'",
+    "category": "vegetable",
+    "subcategory": "root vegetable",
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": 50,
+      "max": 65
+    },
+    "days_to_maturity": {
+      "min": 120,
+      "max": 150
+    },
+    "maturity_from": "transplant",
+    "sow_method": "tuber",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -2,
+        "max": 2
+      },
+      "note": "Plant tuber sections 3-5 inches deep around the last frost date in any well-drained soil in full sun; Red Fuseau is an old French heirloom valued for its elongated, red-skinned tubers, which are smoother and easier to clean than many knobby sunchoke varieties."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 72,
+      "max": 120
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 36
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant tuber pieces in a dedicated, well-drained bed in full sun, since this vigorous heirloom spreads readily by underground tubers and can be difficult to eradicate once established. Red Fuseau is a long-grown French heirloom sunchoke prized for its elongated, finger-shaped, red-skinned tubers, which are smoother-skinned and easier to scrub clean than the knobby tubers of many other varieties, and its nutty, sweet-earthy flavor is well regarded among heirloom growers. The tall plants produce cheerful small yellow sunflowers in late summer before dying back with frost, which signals it is time to dig the tubers; cold exposure is said to sweeten the flavor by converting stored inulin to sugar. Harvest from fall into early spring as needed, and leave a portion of tubers in the ground each year to regenerate next season's crop while thinning the bed to keep it contained.",
+    "sources": [
+      "Seed Savers Exchange",
+      "Southern Exposure Seed Exchange",
+      "University of Minnesota Extension — Jerusalem Artichoke"
+    ]
+  }
+]

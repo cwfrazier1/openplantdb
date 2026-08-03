@@ -1,0 +1,112 @@
+[
+  {
+    "slug": "forage-plantain-cover",
+    "common_name": "Forage Plantain (Tonic/Puna-Type Chicory-Mix Cover Crop)",
+    "scientific_name": "Plantago lanceolata",
+    "category": "cover-crop",
+    "subcategory": "broadleaf",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 50,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 365
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 6
+      },
+      "note": "Broadcast or drill in spring or late summer into a firm, weed-free seedbed; forage-type plantain establishes quickly, tolerates close grazing or mowing, and is commonly blended with clover or chicory in multi-species cover crop and pasture mixes."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 2,
+      "max": 6
+    },
+    "height_in": {
+      "min": 8,
+      "max": 24
+    },
+    "spread_in": {
+      "min": 6,
+      "max": 12
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Broadcast at a shallow depth onto a firm, weed-free seedbed in full sun, and roll or rake lightly to ensure good seed-to-soil contact. Improved forage-type plantains, developed from New Zealand pasture breeding programs, form a leafy, deep-rooted rosette that tolerates drought, grazing, and mowing far better than the common lawn weed plantain most gardeners know, making it a popular addition to multi-species cover crop and pasture mixes alongside clover and chicory. Its deep taproot helps break up compacted soil and draw up minerals, while the broad leaves suppress weeds and provide palatable, mineral-rich forage for livestock or a soil-building living mulch in vegetable rotations. Mow or graze periodically to keep it from flowering and setting seed if persistence is not wanted, or terminate by tillage or close mowing at the crown before the next planting.",
+    "sources": [
+      "USDA Natural Resources Conservation Service — Cover Crop Species Guides",
+      "Oregon State University Extension — Forage Plantain",
+      "SARE (Sustainable Agriculture Research and Education) — Cover Crop Chart"
+    ]
+  },
+  {
+    "slug": "big-v-mayhaw",
+    "common_name": "Big V Mayhaw (Selected Western Mayhaw Cultivar)",
+    "scientific_name": "Crataegus opaca 'Big V'",
+    "category": "fruit",
+    "subcategory": "mayhaw",
+    "days_to_germination": {
+      "min": 60,
+      "max": 120
+    },
+    "germination_soil_temp_f": {
+      "min": 40,
+      "max": 55
+    },
+    "days_to_maturity": {
+      "min": 1825,
+      "max": 2555
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": 4
+      },
+      "note": "Plant bare-root or container-grown trees in late winter to early spring in moist, acidic soil; Big V is a named western mayhaw selection that fruits best with a second mayhaw cultivar nearby for cross-pollination."
+    },
+    "usda_zones": {
+      "min": 6,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 180,
+      "max": 300
+    },
+    "height_in": {
+      "min": 180,
+      "max": 300
+    },
+    "spread_in": {
+      "min": 180,
+      "max": 240
+    },
+    "sun": "full",
+    "water": "high",
+    "directions": "Plant in full sun in moist to wet, acidic soil, since mayhaw is a native wetland tree that thrives in the poorly drained, low-lying ground where most fruit trees fail. Big V is a named selection of western mayhaw grown by Gulf South orchardists for its good fruit size and productive habit, bearing clusters of small, tart, aromatic red fruit that ripen in May and are gathered for the region's traditional mayhaw jelly. Plant with a second mayhaw cultivar nearby to ensure strong cross-pollination and fruit set, and expect the young tree to begin bearing within three to five years, with production increasing steadily as it matures over the following decade. Mayhaw needs little care once established beyond occasional pruning to remove crossing or damaged limbs.",
+    "sources": [
+      "Louisiana State University AgCenter — Mayhaw Production and Culture",
+      "Texas A&M AgriLife Extension — Mayhaw for Gulf Coast",
+      "Mississippi State University Extension — Mayhaw"
+    ]
+  }
+]

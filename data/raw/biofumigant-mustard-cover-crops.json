@@ -1,0 +1,112 @@
+[
+  {
+    "slug": "pacific-gold-mustard-cover",
+    "common_name": "Pacific Gold Mustard (High-Glucosinolate Biofumigant Cover Crop)",
+    "scientific_name": "Brassica juncea 'Pacific Gold'",
+    "category": "cover-crop",
+    "subcategory": "brassica",
+    "days_to_germination": {
+      "min": 3,
+      "max": 7
+    },
+    "germination_soil_temp_f": {
+      "min": 45,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 90
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {
+        "min": -10,
+        "max": -6
+      },
+      "note": "Sow in early fall for a fall-to-winter cover, or as early as soil can be worked in spring; Pacific Gold was bred specifically for elevated glucosinolate content, giving it a stronger biofumigant effect against soilborne pathogens and nematodes than standard mustard cover crops."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 1,
+      "max": 2
+    },
+    "height_in": {
+      "min": 36,
+      "max": 60
+    },
+    "spread_in": {
+      "min": 8,
+      "max": 12
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Broadcast seed onto a firm, well-prepared seedbed and rake to a shallow quarter-inch depth; Pacific Gold germinates quickly in cool soil and grows into a tall, vigorous stand that suppresses weeds through competition. It was selected specifically for high glucosinolate content in its leaf and stem tissue, which breaks down into biofumigant isothiocyanate compounds when the plant is chopped and immediately incorporated at early flowering, giving a stronger suppressive effect on soilborne pathogens, weed seeds, and some plant-parasitic nematodes than standard mustard cover crops. For the strongest biofumigation effect, mow and till in within minutes to trap the volatile compounds in the soil, then irrigate and cover with plastic tarp for one to two weeks. Terminate before seed set, since mustard reseeds readily and can become a weed if allowed to mature.",
+    "sources": [
+      "USDA Natural Resources Conservation Service — Brassica Cover Crop Guides",
+      "University of California Cooperative Extension — Biofumigation with Mustard Cover Crops",
+      "SARE (Sustainable Agriculture Research and Education) — Cover Crop Chart"
+    ]
+  },
+  {
+    "slug": "caliente-mustard-cover",
+    "common_name": "Caliente Mustard (Biofumigant Cover Crop Blend)",
+    "scientific_name": "Brassica juncea 'Caliente'",
+    "category": "cover-crop",
+    "subcategory": "brassica",
+    "days_to_germination": {
+      "min": 3,
+      "max": 7
+    },
+    "germination_soil_temp_f": {
+      "min": 45,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 90
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {
+        "min": -10,
+        "max": -6
+      },
+      "note": "Sow in early fall for a fall-to-winter cover, or as early as soil can be worked in spring; Caliente is a high-glucosinolate mustard bred for biofumigation, commonly used ahead of vegetable crops sensitive to soilborne disease and nematode pressure."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 1,
+      "max": 2
+    },
+    "height_in": {
+      "min": 36,
+      "max": 60
+    },
+    "spread_in": {
+      "min": 8,
+      "max": 12
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Broadcast seed onto a firm, well-prepared seedbed and rake to a shallow quarter-inch depth; Caliente establishes quickly in cool soil and forms a tall, dense, weed-suppressing stand. Like other biofumigant mustards it was bred for elevated glucosinolate content in its tissue, which converts to volatile isothiocyanate compounds that suppress soilborne pathogens, weed seeds, and some nematode populations when the plant is mowed and immediately incorporated into the soil at early flowering. For the strongest fumigant effect, till in within minutes of mowing, irrigate, and tarp the bed for one to two weeks to trap the gases before planting the next crop. Terminate before seed set to prevent the mustard itself from becoming a weed in later plantings.",
+    "sources": [
+      "USDA Natural Resources Conservation Service — Brassica Cover Crop Guides",
+      "University of California Cooperative Extension — Biofumigation with Mustard Cover Crops",
+      "SARE (Sustainable Agriculture Research and Education) — Cover Crop Chart"
+    ]
+  }
+]
