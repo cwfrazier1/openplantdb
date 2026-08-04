@@ -1,0 +1,277 @@
+[
+  {
+    "slug": "sunki-mandarin",
+    "common_name": "Sunki Mandarin (Cold-Hardy Sour Mandarin)",
+    "scientific_name": "Citrus reticulata 'Sunki'",
+    "category": "fruit",
+    "subcategory": "citrus",
+    "days_to_germination": {
+      "min": 14,
+      "max": 30
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 80
+    },
+    "days_to_maturity": {
+      "min": 730,
+      "max": 1460
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 6
+      },
+      "note": "Plant grafted or container-grown trees in spring in well-drained soil in full sun; Sunki is among the most cold-hardy true mandarins available and is also widely used as a cold-hardy rootstock, including in Flying Dragon trifoliate crosses bred for the Gulf South and Southeast."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 96,
+      "max": 180
+    },
+    "height_in": {
+      "min": 96,
+      "max": 180
+    },
+    "spread_in": {
+      "min": 96,
+      "max": 180
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in well-drained soil in full sun; Sunki is an exceptionally cold-hardy sour mandarin, tolerating brief dips into the low teens F once well established, well beyond what a standard satsuma or sweet orange survives. The small, seedy fruit is too tart and sour for most people to eat fresh, but it makes excellent marmalade, ade, and juice for cooking, and the tree's extreme hardiness has made it one of the parents behind many of the cold-hardy citrus hybrids bred for the Southeast. Sunki is also planted specifically as a dwarfing, cold-tolerant rootstock for grafting less-hardy scion varieties, which is how many home gardeners in zone 7-8 encounter it even without seeking out the fruit itself. Give young trees winter protection for their first few years; mature, well-established wood is considerably tougher. Harvest fruit once fully colored, and expect to use it in the kitchen rather than eating it fresh off the tree.",
+    "sources": [
+      "USDA Agricultural Research Service — Citrus Germplasm Collection",
+      "University of Georgia Extension — Cold-Hardy Citrus for the Southeast",
+      "Louisiana State University AgCenter — Citrus Production Guide"
+    ]
+  },
+  {
+    "slug": "swingle-citrumelo",
+    "common_name": "Swingle Citrumelo (Rootstock Citrus)",
+    "scientific_name": "Citrus paradisi x Poncirus trifoliata 'Swingle'",
+    "category": "fruit",
+    "subcategory": "citrus",
+    "days_to_germination": {
+      "min": 14,
+      "max": 30
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 80
+    },
+    "days_to_maturity": {
+      "min": 730,
+      "max": 1460
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 6
+      },
+      "note": "Plant grafted or container-grown trees in spring in well-drained soil in full sun; Swingle citrumelo is grown almost exclusively as a rootstock onto which a desired orange, grapefruit, or mandarin scion is grafted, rather than for its own fruit."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 96,
+      "max": 180
+    },
+    "height_in": {
+      "min": 96,
+      "max": 180
+    },
+    "spread_in": {
+      "min": 96,
+      "max": 180
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in well-drained soil in full sun; Swingle citrumelo is a grapefruit x trifoliate orange hybrid that became the standard commercial citrus rootstock across much of Florida and the Gulf South after older rootstocks succumbed to citrus blight and tristeza virus, valued for disease resistance, cold hardiness well beyond standard sweet orange, and good compatibility with most common scion varieties. Its own fruit is bitter, seedy, and essentially inedible, so it is used as understock for grafting a named orange, grapefruit, mandarin, or lemon variety rather than being grown for fruit. Trees show trifoliate-influenced foliage with small, three-part leaves and light thorns, especially on young wood. Home gardeners most often encounter Swingle citrumelo already grafted beneath a named citrus at the nursery rather than planting it directly, but it can also be grown from seed to produce rootstock trees for home grafting projects.",
+    "sources": [
+      "University of Florida IFAS Extension — Citrus Rootstock Selection Guide",
+      "USDA Agricultural Research Service — Citrus Germplasm Collection",
+      "Texas A&M AgriLife Extension"
+    ]
+  },
+  {
+    "slug": "bloomsweet-grapefruit",
+    "common_name": "Bloomsweet Grapefruit (Cold-Hardy Grapefruit Hybrid)",
+    "scientific_name": "Citrus x 'Bloomsweet'",
+    "category": "fruit",
+    "subcategory": "citrus",
+    "days_to_germination": {
+      "min": 14,
+      "max": 30
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 80
+    },
+    "days_to_maturity": {
+      "min": 730,
+      "max": 1460
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 6
+      },
+      "note": "Plant grafted or container-grown trees in spring in well-drained soil in full sun; Bloomsweet is noticeably more cold-tolerant than true grapefruit, making it a better fit for zone 8b-9 gardens where standard grapefruit struggles."
+    },
+    "usda_zones": {
+      "min": 8,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 96,
+      "max": 180
+    },
+    "height_in": {
+      "min": 96,
+      "max": 180
+    },
+    "spread_in": {
+      "min": 96,
+      "max": 180
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in well-drained soil in full sun; Bloomsweet is a grapefruit-like hybrid selected for cold hardiness beyond that of standard grapefruit cultivars, producing pale yellow, thin-skinned, juicy fruit with a mild, less bitter flavor than classic grapefruit and only a light blush of the typical grapefruit tang. The tree's improved cold tolerance, credited to its mixed parentage, has made it a popular choice for gardeners in the cooler parts of the Gulf Coast citrus belt who want grapefruit-style fruit without the cold sensitivity of true Citrus x paradisi selections. Fruit ripens in winter and holds well on the tree, sweetening further if left to hang after coloring fully. Give young trees winter protection for their first several years in zone 8, since even improved hardiness has limits; mature trees tolerate brief dips into the low-to-mid 20s F with minimal damage.",
+    "sources": [
+      "University of California Riverside Citrus Variety Collection",
+      "University of Florida IFAS Extension — Citrus Production Guide",
+      "Texas A&M AgriLife Extension"
+    ]
+  },
+  {
+    "slug": "chandler-pomelo",
+    "common_name": "Chandler Pomelo",
+    "scientific_name": "Citrus maxima 'Chandler'",
+    "category": "fruit",
+    "subcategory": "citrus",
+    "days_to_germination": {
+      "min": 14,
+      "max": 30
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 80
+    },
+    "days_to_maturity": {
+      "min": 730,
+      "max": 1460
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 6
+      },
+      "note": "Plant grafted or container-grown trees in spring in well-drained soil in full sun and a sheltered site; Chandler pomelo is one of the least cold-hardy common citrus types and needs frost protection anywhere winter lows regularly drop below the high 20s F."
+    },
+    "usda_zones": {
+      "min": 9,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 96,
+      "max": 180
+    },
+    "height_in": {
+      "min": 96,
+      "max": 180
+    },
+    "spread_in": {
+      "min": 96,
+      "max": 180
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in well-drained soil in full sun in a warm, sheltered site; Chandler is a University of California Riverside pomelo selection prized for its very large fruit (often 4-6 pounds), thick pink-blushed rind, and sweet, low-acid pink flesh with relatively little of the bitterness found in some other pomelo types. The huge fruit takes a long season to mature, typically ripening in late fall to winter, and the tree needs a warm, essentially frost-free site to size and sweeten the crop properly, making it best suited to zone 9b-10 in sheltered microclimates or container culture that can be moved under cover for winter. The thick rind makes the fruit easy to peel and section by hand once cut open, and segments hold their shape well for fresh eating, salads, and citrus platters. Give young trees consistent moisture and wind protection, and expect the first meaningful crop several years after planting.",
+    "sources": [
+      "University of California Riverside Citrus Variety Collection",
+      "University of Florida IFAS Extension — Citrus Production Guide",
+      "California Rare Fruit Growers"
+    ]
+  },
+  {
+    "slug": "christines-choice-tea",
+    "common_name": "Christine's Choice Tea (Cold-Hardy Southeast Tea Cultivar)",
+    "scientific_name": "Camellia sinensis 'Christine's Choice'",
+    "category": "herb",
+    "subcategory": "evergreen tea shrub",
+    "days_to_germination": {
+      "min": 30,
+      "max": 90
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 80
+    },
+    "days_to_maturity": {
+      "min": 1095,
+      "max": 1825
+    },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 8
+      },
+      "note": "Plant container-grown plants or rooted cuttings in spring in well-drained, consistently moist, acidic, humus-rich soil in partial shade; Christine's Choice was selected in North Carolina specifically for reliable performance in the humid Southeast, including the Gulf South."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 36,
+      "max": 60
+    },
+    "height_in": {
+      "min": 36,
+      "max": 96
+    },
+    "spread_in": {
+      "min": 36,
+      "max": 72
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Plant in well-drained, highly acidic (pH 4.5-6.0), humus-rich soil in partial shade — morning sun with afternoon shade is ideal, especially in hot Gulf South summers; Christine's Choice is a tea cultivar selected and named by Camellia Forest Nursery in North Carolina from Southeast-grown seedling stock, chosen specifically for vigorous, reliable growth and good leaf quality in the humid, hot-summer conditions of the American Southeast rather than for the extreme cold tolerance bred into Sochi-type selections. It is a popular choice for home tea growers from the Carolinas through the Gulf Coast who want a productive plant adapted to regional humidity and disease pressure rather than one optimized for northern cold snaps. Leaves and growth habit are typical of small-leaved China-type tea, suitable for green, oolong, or black tea processing depending on how the harvested leaf is handled. Begin light harvesting of the top two leaves and a bud once plants are well established at three to four years old, and mulch well to protect the acid-loving root system.",
+    "sources": [
+      "Camellia Forest Nursery",
+      "The Great Mississippi Tea Company",
+      "North Carolina State University Extension"
+    ]
+  }
+]

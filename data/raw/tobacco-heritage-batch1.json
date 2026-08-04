@@ -1,0 +1,112 @@
+[
+  {
+    "slug": "tobacco",
+    "common_name": "Tobacco",
+    "scientific_name": "Nicotiana tabacum",
+    "category": "herb",
+    "subcategory": "annual crop",
+    "days_to_germination": {
+      "min": 10,
+      "max": 20
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 80
+    },
+    "days_to_maturity": {
+      "min": 90,
+      "max": 130
+    },
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -6
+      },
+      "note": "Press seed onto the surface of moist starting mix without covering — tobacco seed needs light to germinate — 6-8 weeks before last frost, and transplant seedlings out after all frost danger has passed and soil has warmed."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 36,
+      "max": 72
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Transplant into fertile, well-drained, slightly acidic soil in full sun; tobacco is a fast-growing annual grown for its large, broad leaves, which are harvested, cured, and fermented into the leaf used in cigars, cigarettes, and pipe tobacco. As flower buds form, most growers 'top' the plant by removing the flowering tip, which redirects energy into leaf size and thickness, and then remove the side shoots ('suckers') that sprout below the cut, though some plants can be left to flower for their tall spikes of pink, trumpet-shaped blooms if seed saving or ornamental effect is the goal. Harvest leaves progressively from the bottom of the stalk upward as they mature and turn pale yellow-green, then cure them by hanging in a warm, well-ventilated, shaded space for several weeks before further fermentation. All parts of the plant contain nicotine and are toxic if ingested by pets, livestock, or children, and the sticky leaf hairs can cause skin irritation (green tobacco sickness) in sensitive individuals during handling, so wear long sleeves when working with mature plants.",
+    "sources": [
+      "North Carolina State University Extension — Flue-Cured Tobacco Guide",
+      "University of Kentucky Cooperative Extension — Burley Tobacco Production",
+      "USDA Agricultural Research Service"
+    ]
+  },
+  {
+    "slug": "perique-tobacco",
+    "common_name": "Perique Tobacco (Aztec Tobacco)",
+    "scientific_name": "Nicotiana rustica",
+    "category": "herb",
+    "subcategory": "annual crop",
+    "days_to_germination": {
+      "min": 10,
+      "max": 20
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 80
+    },
+    "days_to_maturity": {
+      "min": 90,
+      "max": 120
+    },
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -6
+      },
+      "note": "Press seed onto the surface of moist starting mix without covering — the fine seed needs light to germinate — 6-8 weeks before last frost, and transplant seedlings out after frost danger has passed; historically grown in the rich alluvial soils of St. James Parish, Louisiana."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 30,
+      "max": 60
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Transplant into fertile, moisture-retentive soil in full sun; Nicotiana rustica is a shorter, broader-leaved, much more potent species than common tobacco, historically grown by the Choctaw and later by Acadian farmers along the Mississippi River in St. James Parish, Louisiana, where its cured leaf became the base for Perique, a uniquely fermented tobacco with a distinctive dark, fruity, spicy character produced by packing the cured leaf under heavy pressure in wooden barrels for months, a traditional process protected as a geographic specialty of the region. The broad, crinkled, yellow-green leaves are harvested and air-cured much like common tobacco before undergoing the distinctive pressure-fermentation that sets Perique apart from other tobaccos. This species is also of historical significance as one of the tobaccos originally cultivated and traded by Indigenous peoples of North America prior to European contact. All parts of the plant contain nicotine at notably higher concentrations than common tobacco and are toxic if ingested, so keep well away from pets, livestock, and children, and wear long sleeves when handling mature plants to avoid skin absorption.",
+    "sources": [
+      "Louisiana State University AgCenter — Perique Tobacco History and Production",
+      "USDA Agricultural Research Service — GRIN Taxonomy",
+      "Smithsonian Institution — American Tobacco History"
+    ]
+  }
+]

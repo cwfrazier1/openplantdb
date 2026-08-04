@@ -1,0 +1,112 @@
+[
+  {
+    "slug": "little-millet",
+    "common_name": "Little Millet (Samai)",
+    "scientific_name": "Panicum sumatrense",
+    "category": "vegetable",
+    "subcategory": "grain",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 90
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 90
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 1,
+        "max": 4
+      },
+      "note": "Sow after last frost when soil is warm; little millet is one of the fastest-maturing small grains and tolerates poor, dry soils and short growing seasons better than most other millets."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 4,
+      "max": 8
+    },
+    "height_in": {
+      "min": 18,
+      "max": 36
+    },
+    "spread_in": {
+      "min": 6,
+      "max": 10
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Sow seed 1/4 inch deep in prepared rows or broadcast on a firm seedbed, thinning to 4-8 inches when plants are established; little millet is an ancient South Asian grain crop, among the earliest domesticated grasses on the subcontinent, valued today for its very short growing season (as little as 60 days to maturity), drought tolerance, and ability to produce a reliable crop on poor, marginal soils where other grains fail. The compact plant produces loose, open seed panicles that ripen unevenly, so many growers harvest by cutting whole panicles as they mature rather than waiting for a single uniform harvest date. Thresh by rubbing or flailing dried panicles to release the small seeds, then winnow to remove chaff; the tiny grains are hulled before cooking (whole grain, similar to other millets) and are notably high in fiber and micronutrients compared to rice or wheat. Its short season and drought tolerance make it a useful catch crop or dry-season grain trial in Gulf South gardens.",
+    "sources": [
+      "International Crops Research Institute for the Semi-Arid Tropics (ICRISAT)",
+      "Plants for a Future (pfaf.org)",
+      "USDA Agricultural Research Service — GRIN Taxonomy"
+    ]
+  },
+  {
+    "slug": "kodo-millet",
+    "common_name": "Kodo Millet (Kodra)",
+    "scientific_name": "Paspalum scrobiculatum",
+    "category": "vegetable",
+    "subcategory": "grain",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 90
+    },
+    "days_to_maturity": {
+      "min": 100,
+      "max": 140
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 1,
+        "max": 4
+      },
+      "note": "Sow after last frost when soil is warm; kodo millet is exceptionally tolerant of poor, waterlogged, or drought-prone soils and is traditionally grown as a reliable famine-reserve crop where other grains fail."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 6,
+      "max": 10
+    },
+    "height_in": {
+      "min": 24,
+      "max": 48
+    },
+    "spread_in": {
+      "min": 8,
+      "max": 12
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Sow seed 1/4 inch deep in prepared rows or broadcast on a firm seedbed, thinning to 6-10 inches when plants are established; kodo millet is a South Asian and West African grain grass valued for exceptional hardiness, tolerating both drought and temporary waterlogging better than almost any other cultivated grain, which has made it a traditional insurance crop in unpredictable growing conditions. The clumping plant produces slender seed spikes on branching stalks that ripen over an extended period; harvest by cutting mature heads as they brown and finishing the dry-down on a tarp in the sun before threshing by flailing or rubbing to release the small, hard seeds. Freshly harvested and properly dried kodo millet is safe and nutritious, but note that grain infected by a specific fungus (Aspergillus tamarii) during wet storage can become toxic, so dry and store the harvest promptly and thoroughly, a standard precaution long practiced by traditional growers. The grain is notably high in dietary fiber and has a mild, slightly nutty flavor when cooked whole like rice.",
+    "sources": [
+      "International Crops Research Institute for the Semi-Arid Tropics (ICRISAT)",
+      "Plants for a Future (pfaf.org)",
+      "USDA Agricultural Research Service — GRIN Taxonomy"
+    ]
+  }
+]

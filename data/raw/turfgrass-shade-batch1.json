@@ -1,0 +1,57 @@
+[
+  {
+    "slug": "manilagrass",
+    "common_name": "Manilagrass (Fine-Textured Shade-Tolerant Zoysia)",
+    "scientific_name": "Zoysia matrella",
+    "category": "cover-crop",
+    "subcategory": "grass",
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 95
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 120
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "warm",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 8
+      },
+      "note": "Establish from sod or plugs (not seed) when soil temperature is consistently above 65F; Manilagrass spreads more slowly than Empire or other Zoysia japonica cultivars, so plugging on a tight grid or laying full sod gives the fastest usable lawn."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 6,
+      "max": 12
+    },
+    "height_in": {
+      "min": 1,
+      "max": 2
+    },
+    "spread_in": {
+      "min": 6,
+      "max": 12
+    },
+    "sun": "partial",
+    "water": "low",
+    "directions": "Install sod or plugs in spring through midsummer, keeping consistently moist during establishment, then mow at 1-2 inches with a sharp reel or rotary mower. Manilagrass is a fine-bladed, dense, dark-green zoysia species distinct from the broader-leaved Zoysia japonica used in cultivars like Empire, prized specifically for tolerating more shade than almost any other warm-season turfgrass while still forming a lush, carpet-like, golf-green-quality lawn in full sun. It spreads by both rhizomes and stolons but fills in more slowly than japonica-type zoysia, so patience during establishment pays off with a notably fine, plush texture once mature. Like other zoysias, it goes dormant and straw-colored after the first hard frost and greens back up in spring, and its dense growth habit resists weed encroachment once established. Watch for thatch buildup over time and dethatch periodically; avoid excessive nitrogen fertilization, which encourages thatch and disease pressure more than it improves this naturally slow, dense-growing grass.",
+    "sources": [
+      "University of Florida IFAS Extension — Zoysiagrass for Florida Lawns",
+      "Texas A&M AgriLife Extension — Zoysiagrass Cultivars for Texas",
+      "Louisiana State University AgCenter — Warm-Season Turfgrass Variety Comparison"
+    ]
+  }
+]

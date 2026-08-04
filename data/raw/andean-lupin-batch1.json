@@ -1,0 +1,57 @@
+[
+  {
+    "slug": "tarwi-andean-lupin",
+    "common_name": "Tarwi (Andean Lupin, Pearl Lupin)",
+    "scientific_name": "Lupinus mutabilis",
+    "category": "vegetable",
+    "subcategory": "legume grain",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 50,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 150,
+      "max": 210
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -2,
+        "max": 2
+      },
+      "note": "Direct sow around last frost in cool, well-drained soil; inoculate seed with the correct Bradyrhizobium lupini strain before sowing, since standard pea or clover inoculant will not work. Tarwi is a highland Andean crop adapted to cool nights and long, mild growing seasons — it performs best where summer heat is moderate rather than in prolonged intense heat."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 8,
+      "max": 12
+    },
+    "height_in": {
+      "min": 24,
+      "max": 72
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 18
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Sow in well-drained, neutral to slightly acidic soil in full sun; tarwi is a highland Andean lupin domesticated in Peru, Bolivia, and Ecuador thousands of years ago and grown as a protein- and oil-rich grain legume, with seed protein content rivaling soybean. The plant produces attractive blue-to-purple pea-family flower spikes followed by pods containing pale, disc-shaped seeds that are intensely bitter and contain alkaloids in their raw state, requiring a traditional debittering process before eating — seeds are boiled, then soaked in several changes of running or repeatedly refreshed water for several days until the bitterness is leached out, after which they are eaten much like a lupini bean, added to soups and stews, or ground into flour. Like other lupins, the deep taproot fixes atmospheric nitrogen and improves soil fertility, and the plant tolerates poor, thin mountain soils and considerable drought once established. Harvest pods once they dry and rattle, then thresh and process the seed before use; never eat the raw, unprocessed seed, as the alkaloid content can be harmful undiluted.",
+    "sources": [
+      "FAO Plant Production and Protection Paper — Lupins in Human and Animal Nutrition",
+      "Purdue University Center for New Crops and Plants Products — Tarwi",
+      "International Center for Andean Crops (CIP)"
+    ]
+  }
+]

@@ -1,0 +1,385 @@
+[
+  {
+    "slug": "kurrat",
+    "common_name": "Kurrat (Egyptian Leek)",
+    "scientific_name": "Allium ampeloprasum var. kurrat",
+    "category": "vegetable",
+    "subcategory": "allium",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 50,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 90
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -4
+      },
+      "note": "In mild-winter regions (zone 8 and warmer), direct sow 4–8 weeks before the first fall frost for a traditional Nile Delta-style winter harvest; in colder climates sow in spring after the last frost for a summer cutting crop instead."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 2,
+      "max": 4
+    },
+    "height_in": {
+      "min": 12,
+      "max": 20
+    },
+    "spread_in": {
+      "min": 4,
+      "max": 6
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Kurrat is the same species as leek and elephant garlic but is grown exclusively for its flat, garlicky-oniony foliage rather than a swollen shank or bulb, and it is a staple flavoring green in Egyptian and eastern Mediterranean kitchens. Broadcast or drill seed thickly into rich, well-drained soil, since plants are grown in dense clumps rather than as individually spaced bulbs. Once shoots reach 8–10 in, cut foliage back to about 2 in above the crown; the clump will resprout, allowing several successive harvests over the cool season. Established clumps can also be divided in fall to propagate new plantings vegetatively.",
+    "sources": [
+      "World Vegetables (Rubatzky & Yamaguchi), Springer",
+      "FAO Ecocrop database",
+      "general horticultural reference"
+    ]
+  },
+  {
+    "slug": "ahipa",
+    "common_name": "Ahipa (Andean Yam Bean)",
+    "scientific_name": "Pachyrhizus ahipa",
+    "category": "vegetable",
+    "subcategory": "root",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 150,
+      "max": 180
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 4
+      },
+      "note": "Direct sow 2–4 weeks after the last frost once soil is thoroughly warm; unlike jicama, ahipa is not photoperiod-sensitive and will size up its roots reliably during long temperate summer days, so it does not need a tropical short-day season to bulk up."
+    },
+    "usda_zones": {
+      "min": 9,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 8,
+      "max": 12
+    },
+    "height_in": {
+      "min": 12,
+      "max": 24
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 18
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "A domesticated relative of jicama from the eastern Andean valleys of Bolivia and northern Argentina, ahipa grows as a compact, bushy, semi-erect legume rather than jicama's rampant climbing vine, so it needs no trellis and fits closer garden spacing. Pinch off flower buds as they form throughout the season to keep the plant's energy directed into the turnip-shaped storage roots instead of seed production. As with jicama, only the root is edible; the foliage, pods, and seeds contain rotenone and should not be eaten. Harvest once foliage begins to yellow in fall, typically 5–6 months after sowing.",
+    "sources": [
+      "Lost Crops of the Incas, National Academies Press",
+      "FAO Ecocrop database",
+      "general horticultural reference"
+    ]
+  },
+  {
+    "slug": "amazonian-yam-bean",
+    "common_name": "Amazonian Yam Bean (Chuin, Jicáma de Árbol)",
+    "scientific_name": "Pachyrhizus tuberosus",
+    "category": "vegetable",
+    "subcategory": "root",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 240,
+      "max": 300
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 4
+      },
+      "note": "Direct sow into warm soil well after all frost danger has passed; this species needs a long, humid tropical-to-subtropical growing season of eight months or more to fully size its roots, so outside true tropical climates it is best attempted in a large container or greenhouse border."
+    },
+    "usda_zones": {
+      "min": 10,
+      "max": 12
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 60,
+      "max": 120
+    },
+    "spread_in": {
+      "min": 36,
+      "max": 72
+    },
+    "sun": "full",
+    "water": "high",
+    "directions": "Native to the Amazon basin and cultivated across lowland tropical South America, this vigorous twining vine produces the largest storage roots of the cultivated yam beans, sometimes exceeding several pounds under good conditions, with flesh that is starchier and less sweet than jicama's. Provide a sturdy trellis or fence, since the vine climbs aggressively and can smother nearby plants if left unsupported. Remove flower buds as they appear to keep the plant's energy focused on root bulking rather than seed set. As with its relatives, only the cooked or raw root is edible; the leaves, pods, and seeds contain rotenone and are toxic.",
+    "sources": [
+      "Lost Crops of the Incas, National Academies Press",
+      "Purdue University Center for New Crops and Plants Products",
+      "general horticultural reference"
+    ]
+  },
+  {
+    "slug": "kalettes",
+    "common_name": "Kalettes (Flower Sprouts)",
+    "scientific_name": "Brassica oleracea 'Kalettes'",
+    "category": "vegetable",
+    "subcategory": "brassica",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 45,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 100,
+      "max": 125
+    },
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {
+        "min": -18,
+        "max": -14
+      },
+      "note": "Start indoors 14–18 weeks before the first fall frost so the tall stalks mature during cool autumn weather, the same schedule used for Brussels sprouts."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 24,
+      "max": 36
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Kalettes are an open-pollinated cross between Brussels sprouts and kale, first bred by Tozer Seeds in the UK and released commercially in the early 2010s; the result is a tall stalk lined with loose, frilly, purple-green rosettes instead of the tight round buttons of a standard Brussels sprout. Grow exactly as you would Brussels sprouts: stake the tall stalks against wind, keep soil evenly moist, and top the growing point once the lowest rosettes reach marble size to concentrate energy in the remaining buds. Harvest rosettes from the bottom of the stalk upward as they firm up; flavor becomes noticeably sweeter and less bitter after a hard frost. A single stalk can be harvested over several weeks as rosettes mature sequentially up its length.",
+    "sources": [
+      "Tozer Seeds",
+      "Cornell University Vegetable Growing Guides",
+      "general horticultural reference"
+    ]
+  },
+  {
+    "slug": "victory-onion",
+    "common_name": "Victory Onion (Alpine Leek)",
+    "scientific_name": "Allium victorialis",
+    "category": "vegetable",
+    "subcategory": "allium",
+    "days_to_germination": {
+      "min": 21,
+      "max": 45
+    },
+    "germination_soil_temp_f": {
+      "min": 40,
+      "max": 60
+    },
+    "days_to_maturity": {
+      "min": 730,
+      "max": 1095
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Sow fresh seed in fall so it experiences a natural winter cold stratification, or plant divisions from an established clump in early spring or fall; fresh seed germinates far more reliably than stored seed, which can take a full year or more."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 8
+    },
+    "spacing_in": {
+      "min": 6,
+      "max": 10
+    },
+    "height_in": {
+      "min": 12,
+      "max": 24
+    },
+    "spread_in": {
+      "min": 6,
+      "max": 12
+    },
+    "sun": "partial",
+    "water": "high",
+    "directions": "Unlike most culinary alliums, this broad-leafed perennial of the subalpine forests of Europe and northeastern Asia thrives in partial shade and consistently moist, humus-rich soil rather than open, sun-baked beds, making it a good companion for a woodland or shade herb garden. It is a slow starter, typically taking two to three years from seed to reach a harvestable clump size, so most gardeners begin with nursery divisions instead. Both the broad garlicky leaves and small bulbs are edible and are prized in Japan (gyoja-ninniku) and Korea (myeongi), where young spring leaves are harvested sparingly, leaving most of the clump intact so it can bulk up for future seasons. Established clumps are long-lived and can be divided every several years to propagate new plantings.",
+    "sources": [
+      "Plants For A Future (PFAF) database",
+      "Flora of Japan",
+      "general horticultural reference"
+    ]
+  },
+  {
+    "slug": "livingstone-potato",
+    "common_name": "Livingstone Potato (Native Potato)",
+    "scientific_name": "Plectranthus esculentus",
+    "category": "vegetable",
+    "subcategory": "African tuber vegetable",
+    "days_to_germination": {
+      "min": 14,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 80
+    },
+    "days_to_maturity": {
+      "min": 180,
+      "max": 210
+    },
+    "maturity_from": "transplant",
+    "sow_method": "tuber",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 4
+      },
+      "note": "Plant tuber pieces or rooted stem cuttings 2–3 in deep after soil has warmed well past the last frost; this tropical African crop needs a long, frost-free warm season similar to sweet potato."
+    },
+    "usda_zones": {
+      "min": 9,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 12,
+      "max": 24
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 36
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "A minor but locally important root crop of the mint family, Livingstone potato is grown across the savanna belt of southern and central Africa for the small clusters of starchy, nutty-flavored tubers that form along its sprawling, square-stemmed, aromatic foliage. Because flowering and seed set are unreliable, it is propagated vegetatively from saved tuber pieces or leafy stem cuttings rather than from seed. Plants form a low, spreading mound and benefit from loose, well-drained soil that allows the tuber clusters to expand freely at the base of each stem. Dig tubers once the foliage yellows and dies back at the end of the growing season, handling them gently since the skins are thin and bruise easily.",
+    "sources": [
+      "Lost Crops of Africa, Volume II: Vegetables, National Research Council / National Academies Press",
+      "general horticultural reference"
+    ]
+  },
+  {
+    "slug": "hausa-potato",
+    "common_name": "Hausa Potato (Frafra Potato)",
+    "scientific_name": "Solenostemon rotundifolius",
+    "category": "vegetable",
+    "subcategory": "African tuber vegetable",
+    "days_to_germination": {
+      "min": 14,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 120,
+      "max": 150
+    },
+    "maturity_from": "transplant",
+    "sow_method": "tuber",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 4
+      },
+      "note": "Plant small whole tubers 2 in deep like seed potatoes once the soil is thoroughly warm and frost danger has passed; matures faster than most tropical root crops, in about four to five months."
+    },
+    "usda_zones": {
+      "min": 9,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 8,
+      "max": 12
+    },
+    "height_in": {
+      "min": 6,
+      "max": 12
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 18
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "A close relative of Livingstone potato in the mint family, Hausa potato forms a much lower, more compact plant that produces dense clusters of small, pea- to walnut-sized tubers directly at its base rather than spread along trailing stems. It is a staple garden crop across West Africa, especially in Ghana and Nigeria where it is known as Frafra potato, and it is also cultivated in parts of southern India, where it goes by the name Chinese potato or koorka. Propagate from small whole tubers saved from the previous harvest, planted similarly to seed potatoes in loose, fertile soil. Harvest once the compact foliage yellows, usually four to five months after planting; the nutty, slightly resinous tubers store best left in the ground until just before use.",
+    "sources": [
+      "Lost Crops of Africa, Volume II: Vegetables, National Research Council / National Academies Press",
+      "general horticultural reference"
+    ]
+  }
+]

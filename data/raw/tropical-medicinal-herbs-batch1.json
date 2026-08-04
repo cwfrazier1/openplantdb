@@ -1,0 +1,167 @@
+[
+  {
+    "slug": "justicia-pectoralis",
+    "common_name": "Sweet Broom (Carpenter's Herb, Tilo)",
+    "scientific_name": "Justicia pectoralis",
+    "category": "herb",
+    "subcategory": "perennial medicinal herb",
+    "days_to_germination": {
+      "min": 14,
+      "max": 28
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 80
+    },
+    "days_to_maturity": {
+      "min": 90,
+      "max": 150
+    },
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 6,
+        "max": 8
+      },
+      "note": "Start seed indoors 6-8 weeks before last frost and transplant once nights stay reliably above 55F; in zone 9 sweet broom grows year-round in a sheltered, partly shaded bed but should be protected or brought into a container for winter if a hard freeze threatens."
+    },
+    "usda_zones": {
+      "min": 9,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 12,
+      "max": 24
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 18
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Plant in moist, humus-rich, well-drained soil in partial shade to partial sun; sweet broom is a low, spreading tropical American herb long used across the Caribbean and South America as a folk remedy for coughs, colds, and respiratory complaints, brewed as a sweet, vanilla-and-hay-scented tea from the fresh or dried leaves, which contain coumarin, the aromatic compound also found in sweet woodruff and tonka bean. The small, narrow, bright-green leaves release their characteristic sweet fragrance most strongly once cut and dried, making it a plant grown as much for scent and tea as for garden appearance. It thrives in the dappled shade of a tropical understory planting and tolerates the humidity of a Gulf South summer well, though it has no frost tolerance and needs to overwinter indoors or under cover outside of zone 10-11. Harvest stems as needed for fresh tea, or cut and hang-dry bundles for longer storage; regular light harvesting encourages bushier regrowth.",
+    "sources": [
+      "Plants for a Future (pfaf.org)",
+      "Fairchild Tropical Botanic Garden",
+      "USDA Agricultural Research Service — GRIN Taxonomy"
+    ]
+  },
+  {
+    "slug": "justicia-adhatoda",
+    "common_name": "Malabar Nut (Vasaka)",
+    "scientific_name": "Justicia adhatoda",
+    "category": "herb",
+    "subcategory": "evergreen medicinal shrub",
+    "days_to_germination": {
+      "min": 21,
+      "max": 45
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 80
+    },
+    "days_to_maturity": {
+      "min": 365,
+      "max": 730
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 8
+      },
+      "note": "Plant container-grown shrubs in spring in well-drained, moderately fertile soil in partial shade to full sun; established Malabar nut tolerates light frost and brief dips into the mid-20s F, making it usable in sheltered zone 8b-9 sites as well as zone 10-11."
+    },
+    "usda_zones": {
+      "min": 9,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 36,
+      "max": 60
+    },
+    "height_in": {
+      "min": 60,
+      "max": 108
+    },
+    "spread_in": {
+      "min": 48,
+      "max": 72
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Plant in well-drained, moderately fertile soil in partial shade to full sun; Malabar nut, known as vasaka in Ayurvedic medicine, is a fast-growing evergreen shrub from South Asia long used in traditional respiratory remedies, with the leaves brewed into teas and syrups historically employed for coughs, bronchitis, and asthma-like symptoms. The plant forms an attractive, dense, leafy shrub with large, dark-green, lance-shaped leaves and showy white flowers marked with purple-veined lower lips, produced in short spikes mainly in spring, that attract pollinators despite the plant's primary reputation as a medicinal rather than ornamental subject. It tolerates a range of light conditions from partial shade to nearly full sun and adapts well to average garden soil once established, needing only routine watering during dry spells. In the Gulf South, Malabar nut can be grown as a woody perennial shrub in sheltered zone 9 gardens, cut back hard after a hard freeze to resprout from the base, or grown further north as a container specimen brought indoors for winter. Prune periodically to maintain a bushy shape and encourage fresh leaf growth for harvest.",
+    "sources": [
+      "Plants for a Future (pfaf.org)",
+      "Indian Council of Agricultural Research",
+      "USDA Agricultural Research Service — GRIN Taxonomy"
+    ]
+  },
+  {
+    "slug": "eclipta-prostrata",
+    "common_name": "False Daisy (Bhringraj)",
+    "scientific_name": "Eclipta prostrata",
+    "category": "herb",
+    "subcategory": "annual medicinal herb",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 80
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 90
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 6
+      },
+      "note": "Direct sow after last frost in consistently moist to wet, humus-rich soil in partial shade to full sun; false daisy germinates readily in warm, damp soil and self-seeds freely once established, so it is best confined to a pot or a bed where its spread is welcome."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 6,
+      "max": 12
+    },
+    "height_in": {
+      "min": 6,
+      "max": 18
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 24
+    },
+    "sun": "partial",
+    "water": "high",
+    "directions": "Plant in consistently moist to wet, humus-rich soil in partial shade to full sun, near a pond edge, rain garden, or regularly irrigated bed; false daisy, known as bhringraj in Ayurvedic and Southeast Asian herbal traditions, is a sprawling, low-growing annual with small white daisy-like flowers, traditionally harvested for its leaves and juice, which are infused into hair oils and used in folk remedies for hair and scalp health, liver support, and minor wound care. It grows as an opportunistic weed of damp ditches, rice paddy margins, and pond edges throughout the warm regions of the world, which translates in the garden to a plant that thrives with regular moisture and spreads readily by both trailing stems that root at the nodes and abundant self-seeding. Harvest leaves and stems as needed through the growing season; the plant regrows quickly after cutting. Because it seeds around freely in consistently damp soil, site it where volunteer seedlings are easy to manage or grow it in a container to keep it contained.",
+    "sources": [
+      "Plants for a Future (pfaf.org)",
+      "USDA Agricultural Research Service — GRIN Taxonomy",
+      "National Tropical Botanical Garden"
+    ]
+  }
+]

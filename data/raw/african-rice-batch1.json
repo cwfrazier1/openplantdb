@@ -1,0 +1,57 @@
+[
+  {
+    "slug": "african-rice",
+    "common_name": "African Rice",
+    "scientific_name": "Oryza glaberrima",
+    "category": "vegetable",
+    "subcategory": "grain",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 90
+    },
+    "days_to_maturity": {
+      "min": 90,
+      "max": 150
+    },
+    "maturity_from": "seed",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 4,
+        "max": 8
+      },
+      "note": "Start seeds indoors 6-8 weeks before transplanting; transplant when soil temperature reaches 70F. In warm climates (zones 9-11) direct sow in flooded beds after last frost."
+    },
+    "usda_zones": {
+      "min": 8,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 6,
+      "max": 9
+    },
+    "height_in": {
+      "min": 18,
+      "max": 48
+    },
+    "spread_in": {
+      "min": 6,
+      "max": 9
+    },
+    "sun": "full",
+    "water": "high",
+    "directions": "Start seeds in shallow flats of moist potting mix at 70-80F, then transplant 6-9-inch seedlings to flooded paddies, water gardens, or large containers filled with heavy garden soil and submerged under 2-4 inches of standing water; African rice tolerates upland, non-flooded cultivation somewhat better than Asian rice, but still performs best with consistent moisture or shallow flooding. Domesticated independently in the Niger River delta region of West Africa thousands of years ago, entirely separately from Asian rice (Oryza sativa), African rice was brought to the Americas by enslaved West Africans and became foundational to the historic Carolina and Gulf Coast lowcountry rice culture, carrying deep agricultural and culinary heritage. It is generally more tolerant of heat, drought, poor soil, and weed competition than Asian rice, though yields tend to run lower and the grain shatters (drops from the panicle) more readily at maturity, so harvest promptly once panicles droop and grains turn golden. Drain standing water three to four weeks before harvest and allow the plant to dry on the stalk before cutting; hand threshing is practical for small home plots.",
+    "sources": [
+      "USDA Agricultural Research Service — GRIN Taxonomy",
+      "Truelove Seeds — African Rice Growing Notes",
+      "Carolina Gold Rice Foundation"
+    ]
+  }
+]

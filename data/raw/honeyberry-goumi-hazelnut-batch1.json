@@ -1,0 +1,277 @@
+[
+  {
+    "slug": "indigo-gem-honeyberry",
+    "common_name": "Indigo Gem Honeyberry",
+    "scientific_name": "Lonicera caerulea 'Indigo Gem'",
+    "category": "berry",
+    "subcategory": "shrub fruit",
+    "days_to_germination": {
+      "min": 14,
+      "max": 28
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 68
+    },
+    "days_to_maturity": {
+      "min": 730,
+      "max": 1095
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 2
+      },
+      "note": "Plant bare-root or container shrubs in early spring; Indigo Gem is self-infertile and needs a compatible pollinizer such as Indigo Treat or Berry Blue planted nearby, ideally a different cultivar series flowering at the same time."
+    },
+    "usda_zones": {
+      "min": 2,
+      "max": 7
+    },
+    "spacing_in": {
+      "min": 48,
+      "max": 72
+    },
+    "height_in": {
+      "min": 36,
+      "max": 60
+    },
+    "spread_in": {
+      "min": 36,
+      "max": 60
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant two or more compatible cultivars in well-drained, slightly acidic soil in full sun for cross-pollination, since Indigo Gem sets almost no fruit alone. Bred at the University of Saskatchewan from Russian breeding stock, Indigo Gem is one of the earliest widely planted North American haskap cultivars, valued for its productive, compact bush and elongated, deep-blue berries with a tart, slightly grape-like flavor closer to the wild species than the sweeter modern releases. It is among the earliest fruits to ripen each year, often ahead of strawberries, which makes it a useful season-opener but also puts its early flowers at some frost risk in variable spring weather. Like all haskaps, it is extremely cold-hardy but performs poorly in hot, humid summers, so it is best suited to northern gardens and short-season climates rather than the Gulf South. Fruit forms on second-year and older wood, so limit pruning in the first few years to dead or crossing branches before starting renewal pruning of older canes.",
+    "sources": [
+      "University of Saskatchewan Fruit Program — Haskap Cultivar Release Notes",
+      "Oregon State University Extension — Haskap/Honeyberry Production",
+      "Agriculture and Agri-Food Canada — Honeyberry Cultivar Trials"
+    ]
+  },
+  {
+    "slug": "berry-blue-honeyberry",
+    "common_name": "Berry Blue Honeyberry",
+    "scientific_name": "Lonicera caerulea 'Berry Blue'",
+    "category": "berry",
+    "subcategory": "shrub fruit",
+    "days_to_germination": {
+      "min": 14,
+      "max": 28
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 68
+    },
+    "days_to_maturity": {
+      "min": 730,
+      "max": 1095
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 2
+      },
+      "note": "Plant bare-root or container shrubs in early spring; Berry Blue is self-infertile and needs a compatible pollinizer such as Honey Bee or Aurora planted nearby for reliable fruit set."
+    },
+    "usda_zones": {
+      "min": 2,
+      "max": 7
+    },
+    "spacing_in": {
+      "min": 36,
+      "max": 60
+    },
+    "height_in": {
+      "min": 36,
+      "max": 48
+    },
+    "spread_in": {
+      "min": 36,
+      "max": 48
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant two or more compatible cultivars in well-drained, slightly acidic soil in full sun for cross-pollination, since Berry Blue is not reliably self-fertile. This is one of the earlier commercially available honeyberry cultivars in North America, forming a compact, tidy bush well suited to small gardens and mixed borders, with round-to-oval berries that ripen a bit later than the earliest University of Saskatchewan releases, helping spread out the harvest window when several cultivars are planted together. Flavor is tart with a mild blueberry-like undertone, better suited to jam, syrup, and baking than to fresh eating for most palates, though fully ripe fruit sweetens considerably. Berry Blue is extremely cold-hardy, tolerating winters well below -30F, but struggles in hot, humid summer climates and is a poor match for zone 8-10 gardens. As with other haskaps, avoid heavy pruning in the first several years and then renew the oldest wood periodically to keep the bush productive.",
+    "sources": [
+      "Oregon State University Extension — Haskap/Honeyberry Production",
+      "University of Saskatchewan Fruit Program — Haskap Cultivar Release Notes",
+      "Agriculture and Agri-Food Canada — Honeyberry Cultivar Trials"
+    ]
+  },
+  {
+    "slug": "tundra-honeyberry",
+    "common_name": "Tundra Honeyberry",
+    "scientific_name": "Lonicera caerulea 'Tundra'",
+    "category": "berry",
+    "subcategory": "shrub fruit",
+    "days_to_germination": {
+      "min": 14,
+      "max": 28
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 68
+    },
+    "days_to_maturity": {
+      "min": 730,
+      "max": 1095
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 2
+      },
+      "note": "Plant bare-root or container shrubs in early spring; Tundra is self-infertile and needs a compatible University of Saskatchewan pollinizer such as Borealis or Honey Bee planted nearby for good fruit set."
+    },
+    "usda_zones": {
+      "min": 2,
+      "max": 7
+    },
+    "spacing_in": {
+      "min": 48,
+      "max": 72
+    },
+    "height_in": {
+      "min": 48,
+      "max": 60
+    },
+    "spread_in": {
+      "min": 48,
+      "max": 60
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant two or more compatible cultivars in well-drained, slightly acidic soil in full sun for cross-pollination, since Tundra will not set a worthwhile crop alone. Released by the University of Saskatchewan breeding program as a mid-to-late-season pollinizer partner for Borealis, Tundra bears firm, mild-flavored, elongated blue berries that hold their shape well and are less prone to splitting after rain than some earlier cultivars, making them good for both fresh eating and processing. The upright, vigorous bush is easy to hand-harvest and tends to crop reliably once established. Tundra is extremely cold-hardy, surviving winter lows well below -40F, but like all haskaps it performs poorly in hot, humid summer regions and is not recommended for the Gulf South. Prune only to remove dead or crossing wood for the first several years, then begin renewal pruning of the oldest canes to keep production high.",
+    "sources": [
+      "University of Saskatchewan Fruit Program — Haskap Cultivar Release Notes",
+      "Oregon State University Extension — Haskap/Honeyberry Production",
+      "Agriculture and Agri-Food Canada — Honeyberry Cultivar Trials"
+    ]
+  },
+  {
+    "slug": "goumi-red-gem",
+    "common_name": "Red Gem Goumi",
+    "scientific_name": "Elaeagnus multiflora 'Red Gem'",
+    "category": "berry",
+    "subcategory": "goumi",
+    "days_to_germination": {
+      "min": 30,
+      "max": 90
+    },
+    "germination_soil_temp_f": {
+      "min": 55,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 730,
+      "max": 1095
+    },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 8
+      },
+      "note": "Plant container-grown shrubs in spring or fall; in zone 9 plant February-April or October-November. Red Gem is self-fertile but fruits more heavily with another goumi cultivar nearby for cross-pollination. In zone 9 it bears earlier, in May-June, than in northern climates."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 96,
+      "max": 144
+    },
+    "height_in": {
+      "min": 72,
+      "max": 120
+    },
+    "spread_in": {
+      "min": 72,
+      "max": 120
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant in full sun in well-drained soil of average to poor fertility; heavy nitrogen fertilization is unnecessary and can suppress fruiting in this nitrogen-fixing shrub. Red Gem is a goumi selection valued for producing an especially heavy crop of small, silvery-speckled scarlet berries on a compact, easy-to-manage bush, making it a good choice where space is limited but a full-size goumi's yield is still wanted. The tart-sweet, faintly astringent flavor mellows as the fruit ripens fully in late spring, and berries are equally good eaten fresh off the bush, cooked into jam or syrup, or dried. Like other Elaeagnus, Red Gem fixes atmospheric nitrogen through root nodules, improving soil fertility for neighboring plants, and its dense, silvery-leaved habit doubles as an attractive, wildlife-friendly hedge or windbreak component in a food forest planting.",
+    "sources": [
+      "Oikos Tree Crops — Goumi Berry Cultivar Notes",
+      "Raintree Nursery — Goumi Berry Growing Guide",
+      "University of Nebraska Extension — Uncommon Small Fruits"
+    ]
+  },
+  {
+    "slug": "santiam-hazelnut",
+    "common_name": "Santiam Hazelnut",
+    "scientific_name": "Corylus avellana 'Santiam'",
+    "category": "fruit",
+    "subcategory": "nut / drupe",
+    "days_to_germination": {
+      "min": 90,
+      "max": 150
+    },
+    "germination_soil_temp_f": {
+      "min": 35,
+      "max": 45
+    },
+    "days_to_maturity": {
+      "min": 1460,
+      "max": 1825
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": 4
+      },
+      "note": "Plant bare-root or container trees in late winter to early spring; Santiam is self-incompatible and needs a genetically compatible, bloom-matched pollinizer cultivar planted within about 100 feet, since hazelnuts are wind-pollinated."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 8
+    },
+    "spacing_in": {
+      "min": 180,
+      "max": 240
+    },
+    "height_in": {
+      "min": 144,
+      "max": 240
+    },
+    "spread_in": {
+      "min": 144,
+      "max": 216
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in full sun in deep, well-drained, fertile loam; Santiam is an Oregon State University release bred for strong resistance to eastern filbert blight, the fungal disease that has devastated susceptible hazelnut orchards, while also carrying blight-immune 'Gasaway' resistance genetics distinct from some earlier resistant releases, which helps slow the disease's ability to overcome a single resistance source when multiple resistant cultivars are planted regionally. Trees are moderately vigorous and productive, bearing medium-large, round, good-flavored kernels well suited to both fresh eating and processing. Like other European hazelnuts, Santiam needs winter chilling and is intolerant of the hot, humid, disease-pressured conditions of the Gulf South, performing best in the Pacific Northwest and other cool-summer, moderate-winter regions. Because hazelnuts are self-incompatible and pollinated by wind-borne pollen in late winter, plant with a bloom-compatible pollinizer cultivar for a reliable crop, and expect the first significant harvest around year four to five after planting.",
+    "sources": [
+      "Oregon State University Extension — Hazelnut Cultivar Guide",
+      "Oregon Hazelnut Industry Office",
+      "Washington State University Extension"
+    ]
+  }
+]
