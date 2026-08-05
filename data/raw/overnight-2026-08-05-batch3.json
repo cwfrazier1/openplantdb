@@ -1,0 +1,265 @@
+[
+  {
+    "slug": "hull-less-oat",
+    "common_name": "Hull-less Oat (Naked Oat, Streaker Oat)",
+    "scientific_name": "Avena nuda",
+    "category": "vegetable",
+    "subcategory": "grain",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 40,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 100,
+      "max": 130
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -4
+      },
+      "note": "In mild-winter zones sow in fall for a late-spring grain harvest; in colder zones sow as early as the soil can be worked in spring. Unlike common oats (Avena sativa), the groat threshes free of its hull without a commercial huller, making this the practical species for a home gardener who wants to actually eat their own oat harvest."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 1,
+      "max": 3
+    },
+    "height_in": {
+      "min": 24,
+      "max": 40
+    },
+    "spread_in": {
+      "min": 3,
+      "max": 6
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Broadcast or drill seed into cool, firm, fertile soil in full sun and rake in for good contact; hull-less oat grows and looks much like ordinary cereal oats but its grain separates cleanly from the hull during ordinary hand or flail threshing, skipping the abrasive dehulling step that makes standard Avena sativa impractical to process by hand. Harvest when the seed heads have dried to tan and the grain is hard, cutting whole stalks and letting them finish drying under cover for a week or two before threshing. Yields are somewhat lower than commercial oat varieties bred for hulled grain, but for a home patch the labor saved at threshing time more than makes up for it. In the Gulf South, fall sowing lets the crop bulk up over winter and mature before summer heat arrives.",
+    "sources": [
+      "Oregon State University Extension — Small Grains",
+      "Cornell University Small Grains Program",
+      "Sustainable Agriculture Research and Education (SARE)"
+    ]
+  },
+  {
+    "slug": "hull-less-barley",
+    "common_name": "Hull-less Barley (Naked Barley)",
+    "scientific_name": "Hordeum vulgare var. nudum",
+    "category": "vegetable",
+    "subcategory": "grain",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 45,
+      "max": 65
+    },
+    "days_to_maturity": {
+      "min": 90,
+      "max": 120
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -2
+      },
+      "note": "Sow in fall in mild-winter zones for a spring grain harvest, or as early as the ground can be worked in cold-winter climates; unlike common covered barley, the hull-less type threshes free of its hull, making it the variety worth growing when the goal is eating the grain rather than feeding livestock or building soil."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 1,
+      "max": 3
+    },
+    "height_in": {
+      "min": 24,
+      "max": 40
+    },
+    "spread_in": {
+      "min": 3,
+      "max": 6
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Drill or broadcast seed into cool, firm, fertile soil in full sun; hull-less barley grows exactly like the familiar covered feed-barley but its papery hull separates from the kernel during threshing instead of staying glued on, so home growers can dehull a season's grain by hand-flailing and winnowing rather than needing a commercial pearling mill. Harvest when the heads have dried tan and kernels are hard, cutting stalks and drying them under cover for a week or two before threshing. The naked kernels cook like pearled barley in soups and pilafs, or can be milled into a nutty, high-fiber flour. In the Gulf South, fall planting takes advantage of the mild winter growing window and lets the crop mature and dry down before summer humidity sets in.",
+    "sources": [
+      "Oregon State University Extension — Small Grains",
+      "Washington State University Extension — Hulless Barley",
+      "Sustainable Agriculture Research and Education (SARE)"
+    ]
+  },
+  {
+    "slug": "kaniwa",
+    "common_name": "Kañiwa (Cañihua)",
+    "scientific_name": "Chenopodium pallidicaule",
+    "category": "vegetable",
+    "subcategory": "pseudograin",
+    "days_to_germination": {
+      "min": 5,
+      "max": 12
+    },
+    "germination_soil_temp_f": {
+      "min": 50,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 100,
+      "max": 130
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -2,
+        "max": 2
+      },
+      "note": "Sow around the last frost date; kañiwa is a close, smaller-seeded relative of quinoa from the high Andes, bred for a shorter, tougher growing season, and does best with a cool finish rather than peak summer heat."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 8,
+      "max": 12
+    },
+    "height_in": {
+      "min": 18,
+      "max": 30
+    },
+    "spread_in": {
+      "min": 8,
+      "max": 12
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Broadcast or sow seed shallowly in firm, well-drained soil in full sun and thin seedlings to 8–12 inches apart; kañiwa is an Andean pseudograin closely related to both quinoa and the already-familiar huauzontle, distinguished by tiny, dark reddish-brown seeds borne on a shorter, bushier plant. Unlike quinoa, its seed coat carries little to no bitter saponin, so it needs little or no rinsing before cooking or roasting, and the plant tends to shatter and self-sow readily once mature. Harvest when seed heads have dried and seed threshes free easily, then dry further indoors before storing whole grain in a sealed container. Roasted kañiwa (kañiwako) has a nutty flavor and is traditionally ground into a toasted flour called cañihuaco, used as a high-protein addition to porridges and baked goods.",
+    "sources": [
+      "FAO",
+      "Purdue University New Crops Resource Online Program",
+      "International Center for Biosaline Agriculture"
+    ]
+  },
+  {
+    "slug": "katy-road-pink-rose",
+    "common_name": "Katy Road Pink Rose (Found Texas Polyantha)",
+    "scientific_name": "Rosa 'Katy Road Pink'",
+    "category": "flower",
+    "subcategory": "shrub rose",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 90,
+      "max": 180
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": -2,
+        "max": 4
+      },
+      "note": "Plant container or bare-root own-root roses in spring in well-drained soil in full sun; Katy Road Pink is a Texas 'found rose,' rescued and named for the road it was discovered growing on, closely related to Caldwell Pink but slightly larger-flowered and equally tough."
+    },
+    "usda_zones": {
+      "min": 6,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 24,
+      "max": 36
+    },
+    "height_in": {
+      "min": 24,
+      "max": 36
+    },
+    "spread_in": {
+      "min": 24,
+      "max": 36
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant in well-drained, average soil in full sun. Katy Road Pink is one of the classic Texas 'found roses' rescued by rose rustlers from an old homesite along the road that gives it its name, and like most found roses it is grown own-root, making it far more resilient to freeze dieback than grafted roses since any new growth from the base is still the same good rose. It produces clusters of small, semi-double, clear pink flowers in nearly continuous flushes from spring through fall, on a compact, dense, twiggy shrub that needs almost no spraying to stay healthy through the Gulf South's humid summers. Give it an occasional light shaping and a spring feeding; otherwise it thrives on neglect, making it an outstanding low-maintenance landscape or hedge rose.",
+    "sources": [
+      "Antique Rose Emporium reference",
+      "Texas SmartScape",
+      "American Rose Society"
+    ]
+  },
+  {
+    "slug": "marie-daly-rose",
+    "common_name": "Marie Daly Rose (Thornless Louisiana China Rose)",
+    "scientific_name": "Rosa 'Marie Daly'",
+    "category": "flower",
+    "subcategory": "shrub rose",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 90,
+      "max": 180
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": -2,
+        "max": 4
+      },
+      "note": "Plant container or bare-root own-root roses in spring in well-drained soil in full sun; Marie Daly is a thornless sport of Cécile Brünner discovered in Louisiana and is widely planted where a nearly spine-free rose is wanted along walkways and near seating areas."
+    },
+    "usda_zones": {
+      "min": 6,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 30,
+      "max": 42
+    },
+    "height_in": {
+      "min": 30,
+      "max": 48
+    },
+    "spread_in": {
+      "min": 30,
+      "max": 42
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant in well-drained, average soil in full sun. Marie Daly arose as a thornless sport of the beloved Cécile Brünner and was discovered and popularized in Louisiana, retaining that variety's dainty, shell-pink, sweetheart-shaped blooms and repeat flowering while dropping nearly all of the thorns from the canes — a real practical benefit for planting along paths, near doorways, or anywhere hands and clothing brush against the shrub. It grows own-root, dense, and bushy, and tolerates the heat and humidity of the Deep South with minimal disease pressure. Prune lightly after the main spring flush to encourage continued rebloom, and expect flowers in flushes from spring through fall in a mild Gulf Coast climate.",
+    "sources": [
+      "Antique Rose Emporium reference",
+      "American Rose Society",
+      "Louisiana State University AgCenter"
+    ]
+  }
+]

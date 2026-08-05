@@ -1,0 +1,222 @@
+[
+  {
+    "slug": "prime-ark-horizon-blackberry",
+    "common_name": "Prime-Ark Horizon Blackberry (Extended-Season Primocane-Fruiting)",
+    "scientific_name": "Rubus 'Prime-Ark Horizon'",
+    "category": "berry",
+    "subcategory": "bramble",
+    "days_to_germination": {
+      "min": 30,
+      "max": 90
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 200,
+      "max": 365
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant dormant canes or containerized transplants in late winter through early spring; Prime-Ark Horizon is a 2021 University of Arkansas release, the sixth primocane-fruiting blackberry from the program, bred to extend the fall primocane fruiting season beyond Prime-Ark 45 with larger, better-flavored fruit. Unlike most other Prime-Ark releases, this cultivar has thorns rather than being thornless."
+    },
+    "usda_zones": {
+      "min": 6,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 36,
+      "max": 48
+    },
+    "height_in": {
+      "min": 60,
+      "max": 84
+    },
+    "spread_in": {
+      "min": 36,
+      "max": 48
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant dormant canes 1-2 inches deep in well-drained, fertile, slightly acidic soil in full sun; Prime-Ark Horizon is the newest primocane-fruiting blackberry from the University of Arkansas breeding program, meaning that unlike traditional blackberries it fruits on the current season's new canes in addition to the usual second-year floricanes, extending the harvest window into fall. It produces larger fruit with a good sugar-to-acid balance and was bred to push the primocane fruiting season later than the earlier Prime-Ark releases. Because it retains thorns, unlike Prime-Ark Freedom and Prime-Ark Traveler, handle canes with care and consider glove use during pruning and harvest. To get both a summer floricane crop and a fall primocane crop, leave some canes unpruned; for a fall-only crop, mow all canes to the ground in late winter.",
+    "sources": [
+      "University of Arkansas Agricultural Experiment Station",
+      "John R. Clark blackberry breeding program release notes",
+      "general horticultural reference"
+    ]
+  },
+  {
+    "slug": "cabrillo-strawberry",
+    "common_name": "Cabrillo Strawberry (UC Davis Day-Neutral Everbearing Hybrid)",
+    "scientific_name": "Fragaria x ananassa 'Cabrillo'",
+    "category": "berry",
+    "subcategory": "strawberry",
+    "days_to_germination": {
+      "min": 14,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 90,
+      "max": 150
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": -2,
+        "max": 4
+      },
+      "note": "Plant dormant crowns in early spring for a day-neutral, everbearing crop that produces through the growing season rather than a single winter flush; Cabrillo is a UC Davis release bred to succeed older day-neutral varieties like Albion and Monterey, with strong yield across both winter and summer plantings."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 6,
+      "max": 10
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 18
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant dormant crowns with the crown at soil level in raised, well-drained beds in full sun; Cabrillo is a day-neutral strawberry from the University of California, Davis breeding program, bred as an improvement on the widely grown Albion and Monterey cultivars, producing large, uniform berries with strong yield across multiple planting seasons rather than a single concentrated harvest. Because it is day-neutral, it can flower and fruit throughout the growing season rather than only during short winter days, giving Gulf South gardeners a longer strawberry season if grown as a spring-planted crop rather than the typical fall-planted short-day type. Maintain consistent drip irrigation, raised beds, and regular removal of runners to keep the plant's energy focused on fruit production.",
+    "sources": [
+      "University of California, Davis — US Plant Patent PP27830",
+      "university extension strawberry variety trial reports",
+      "general horticultural reference"
+    ]
+  },
+  {
+    "slug": "fronteras-strawberry",
+    "common_name": "Fronteras Strawberry (Crown Rot and Mildew-Resistant Short-Day Hybrid)",
+    "scientific_name": "Fragaria x ananassa 'Fronteras'",
+    "category": "berry",
+    "subcategory": "strawberry",
+    "days_to_germination": {
+      "min": 14,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 100,
+      "max": 160
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 8
+      },
+      "note": "Plant dormant crowns in October–November in zone 9 for a winter-into-spring crop; Fronteras is a UC Davis release documented with resistance to Macrophomina crown rot, an emerging major strawberry disease, plus moderate resistance to powdery mildew, Verticillium wilt, and Phytophthora crown rot."
+    },
+    "usda_zones": {
+      "min": 6,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 6,
+      "max": 10
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 18
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant dormant crowns with the crown at soil level in raised, well-drained beds in full sun; Fronteras is a short-day strawberry from the University of California, Davis breeding program with a documented, unusually broad disease-resistance package, including resistance to Macrophomina crown rot, an emerging soil-borne disease that has become a significant problem in strawberry production, plus moderate resistance to powdery mildew, Verticillium wilt, and Phytophthora crown rot. This combination of resistances makes it a strong choice for gardeners whose beds have struggled with soil-borne disease in previous strawberry plantings. Like other short-day strawberries in zone 9, treat it as a winter annual, planting fresh crowns each fall for harvest through winter into spring. Maintain consistent drip irrigation and raised, well-drained beds for the best results.",
+    "sources": [
+      "University of California, Davis — US Plant Patent PP26709",
+      "university extension strawberry variety trial reports",
+      "general horticultural reference"
+    ]
+  },
+  {
+    "slug": "sweet-ann-strawberry",
+    "common_name": "Sweet Ann Strawberry (Large-Fruited Day-Neutral Organic-Favorite Hybrid)",
+    "scientific_name": "Fragaria x ananassa 'Sweet Ann'",
+    "category": "berry",
+    "subcategory": "strawberry",
+    "days_to_germination": {
+      "min": 14,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 90,
+      "max": 150
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": -2,
+        "max": 4
+      },
+      "note": "Plant dormant crowns in early spring for a day-neutral crop that produces through the growing season rather than a single winter flush; Sweet Ann is a Lassen Canyon Nursery release known for very large fruit with excellent sugar-acid balance and disease resistance to most common strawberry pathogens except fusarium wilt."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 6,
+      "max": 10
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 18
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant dormant crowns with the crown at soil level in raised, well-drained beds in full sun; Sweet Ann is a day-neutral strawberry bred by Lassen Canyon Nursery, prized for very large, richly flavored fruit with an excellent balance of sugar and acidity that has made it a favorite among organic growers. It flowers and fruits over a long season rather than concentrating into one winter flush, which suits a spring-planted Gulf Coast strawberry patch well. It carries resistance to most common strawberry diseases, though it remains susceptible to fusarium wilt, so avoid planting in soil where fusarium-susceptible crops have struggled and practice good bed rotation. Maintain consistent drip irrigation, raised beds, and remove runners regularly to keep the plant's energy focused on fruit production.",
+    "sources": [
+      "Lassen Canyon Nursery — US Plant Patent USPP22472P3",
+      "Bob Wells Nursery",
+      "general horticultural reference"
+    ]
+  }
+]

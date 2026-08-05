@@ -1,0 +1,167 @@
+[
+  {
+    "slug": "microclover",
+    "common_name": "Microclover (Dwarf Lawn White Clover)",
+    "scientific_name": "Trifolium repens 'Pirouette'",
+    "category": "cover-crop",
+    "subcategory": "legume",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 50,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 90
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": -2,
+        "max": 8
+      },
+      "note": "Overseed into an existing lawn or bare soil in spring or early fall; microclover was bred specifically as a small-leaved, low-flowering white clover for blending into turfgrass, staying inconspicuous under mowing instead of forming the tall, showy clumps of standard Dutch white clover."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 1,
+      "max": 3
+    },
+    "height_in": {
+      "min": 2,
+      "max": 4
+    },
+    "spread_in": {
+      "min": 4,
+      "max": 8
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Overseed thinly into an existing lawn (after aerating or dethatching for better seed-to-soil contact) or scatter over bare soil in spring or early fall, keeping the surface moist until it sprouts. Microclover was selected specifically for lawn blends, with much smaller leaves and far fewer flowers than ordinary white clover, so it fills in bare and thin patches, fixes nitrogen for companion turfgrass, and stays green through drought while remaining low and unobtrusive under regular mowing rather than dominating the lawn's look. It tolerates close mowing better than standard clover and spreads by creeping stolons to knit together a resilient, low-input lawn that needs less fertilizer and less water than turfgrass alone. Because it fixes its own nitrogen, avoid heavy nitrogen fertilization, which favors grass over clover and can thin out the clover component over time.",
+    "sources": [
+      "Oregon State University Extension — Microclover in Lawns",
+      "Pennsylvania State University Extension — Clover Lawns",
+      "general horticultural reference"
+    ]
+  },
+  {
+    "slug": "mountain-magic-tomato",
+    "common_name": "Mountain Magic Tomato (Disease-Resistant Cherry-Cocktail Hybrid)",
+    "scientific_name": "Solanum lycopersicum 'Mountain Magic'",
+    "category": "vegetable",
+    "subcategory": "tomato",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 66,
+      "max": 75
+    },
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -6
+      },
+      "note": "Start indoors 6–8 weeks before transplanting; Mountain Magic is a North Carolina State University-bred hybrid with exceptional resistance to late blight, early blight, and septoria leaf spot, making it one of the most disease-tolerant tomatoes available for the humid, blight-prone Gulf South growing season."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 24,
+      "max": 36
+    },
+    "height_in": {
+      "min": 60,
+      "max": 84
+    },
+    "spread_in": {
+      "min": 24,
+      "max": 36
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Start seeds at 70-80°F, transplant after soil warms and nights stay above 50°F, then stake or cage the vigorous indeterminate vines; Mountain Magic was bred by Dr. Randy Gardner at North Carolina State University specifically to combine outstanding disease resistance with excellent flavor, standing up to late blight, early blight, and septoria leaf spot far better than most home-garden tomatoes. It produces heavy clusters of 1-2 ounce, deep red cocktail-sized fruit with rich, well-balanced sweet-tart flavor prized by growers who find most disease-resistant hybrids bland by comparison. Because it keeps producing healthy foliage and fruit even under the fungal disease pressure that builds in humid Gulf Coast summers, it is an especially good choice for gardeners who have struggled with blight on other varieties. Pick fruit as it ripens to bright red and keep harvesting regularly to encourage continued production through the season.",
+    "sources": [
+      "North Carolina State University — Tomato Breeding Program",
+      "Johnny's Selected Seeds",
+      "Cornell University Vegetable Breeding"
+    ]
+  },
+  {
+    "slug": "defiant-phr-tomato",
+    "common_name": "Defiant PhR Tomato (Late Blight-Resistant Slicer)",
+    "scientific_name": "Solanum lycopersicum 'Defiant PhR'",
+    "category": "vegetable",
+    "subcategory": "tomato",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 65,
+      "max": 70
+    },
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -6
+      },
+      "note": "Start indoors 6–8 weeks before transplanting; Defiant PhR carries the Ph-3 resistance gene against late blight along with tolerance to early blight and septoria leaf spot, making it a strong choice for humid, disease-prone gardens like the Gulf South where fungal pressure builds quickly in summer."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 24,
+      "max": 36
+    },
+    "height_in": {
+      "min": 36,
+      "max": 54
+    },
+    "spread_in": {
+      "min": 24,
+      "max": 36
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Start seeds at 70-80°F, transplant after soil warms and nights stay above 50°F, and cage or stake the semi-determinate plants; Defiant PhR was bred by Dr. Randy Gardner at North Carolina State University to give home and organic growers a reliably productive slicing tomato that resists late blight, the fast-moving fungal disease capable of destroying an entire planting within days in wet, humid weather. It bears a heavy crop of medium to large (6-8 oz), round, deep red fruit with solid, meaty flesh and good classic tomato flavor, ripening early enough to get well ahead of peak disease season in many climates. Because it also shows good tolerance to early blight and septoria leaf spot, it tends to hold healthy foliage later into the season than most slicing tomatoes grown in the humid Gulf South, keeping plants productive longer. Harvest as fruit ripens to full red color and keep picking regularly to encourage continued fruit set.",
+    "sources": [
+      "North Carolina State University — Tomato Breeding Program",
+      "Cornell University Vegetable Breeding",
+      "Johnny's Selected Seeds"
+    ]
+  }
+]

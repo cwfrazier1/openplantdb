@@ -1,0 +1,112 @@
+[
+  {
+    "slug": "aristotle-pepper",
+    "common_name": "Aristotle Bell Pepper (Bacterial Spot-Resistant Hybrid)",
+    "scientific_name": "Capsicum annuum 'Aristotle X3R'",
+    "category": "vegetable",
+    "subcategory": "pepper",
+    "days_to_germination": {
+      "min": 10,
+      "max": 16
+    },
+    "germination_soil_temp_f": {
+      "min": 75,
+      "max": 90
+    },
+    "days_to_maturity": {
+      "min": 70,
+      "max": 80
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -2,
+        "max": 0
+      },
+      "note": "Start seeds indoors 8–10 weeks before transplanting; transplant into fertile, well-drained soil in full sun after the last frost date. Aristotle carries resistance to three races of bacterial leaf spot (X3R), a disease that spreads rapidly in the humid, rain-splashed conditions typical of Gulf South summers and can defoliate less resistant bell pepper varieties."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 24,
+      "max": 30
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Set out transplants in fertile, well-drained soil in full sun after the last frost date; Aristotle is a widely grown commercial and home-garden bell pepper hybrid bred specifically for resistance to three races of bacterial leaf spot, a disease that thrives in the warm, humid, rain-prone conditions common across the Gulf South and can otherwise strip a pepper plant of foliage and ruin fruit quality. It produces large, thick-walled, blocky green bells that ripen to red if left on the plant, on a compact, well-branched plant that holds up well to heat. Because it keeps its leaf canopy healthier than more disease-susceptible varieties, Aristotle tends to shade and protect its own developing fruit from sunscald better through the peak of summer. Harvest at the green stage for a milder flavor or let fruit fully ripen to red for maximum sweetness.",
+    "sources": [
+      "University of Florida IFAS Extension — Pepper Variety Trials",
+      "Texas A&M AgriLife Extension — Pepper Production",
+      "Johnny's Selected Seeds"
+    ]
+  },
+  {
+    "slug": "green-machine-zucchini",
+    "common_name": "Green Machine Zucchini (High-Yield Virus-Tolerant Hybrid)",
+    "scientific_name": "Cucurbita pepo 'Green Machine'",
+    "category": "vegetable",
+    "subcategory": "summer squash",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 95
+    },
+    "days_to_maturity": {
+      "min": 48,
+      "max": 55
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 4
+      },
+      "note": "Direct sow 1 inch deep in hills after soil warms to 70°F; Green Machine is a market-grower favorite bred for heavy, sustained yields and strong disease tolerance, holding up well to the mosaic virus and powdery mildew pressure that builds quickly in Gulf South summer humidity."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 24,
+      "max": 36
+    },
+    "height_in": {
+      "min": 18,
+      "max": 30
+    },
+    "spread_in": {
+      "min": 24,
+      "max": 36
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Direct sow in warm, fertile, well-drained soil in full sun after all frost danger passes; Green Machine is a vigorous hybrid zucchini widely grown by market farmers for its exceptionally heavy, sustained yield and improved tolerance to common summer squash viruses, which spread fast via aphids in humid conditions and can quickly stunt and discolor fruit on less tolerant varieties. It produces uniform, dark green, cylindrical fruit on an open, upright bush habit that makes harvesting easy even as the plant fills out. Because it keeps producing healthy, well-colored fruit later into the season than many older zucchini varieties, it is a strong choice for gardeners who have struggled with virus or mildew cutting squash harvests short. Pick fruit at 6–8 inches for the best eating quality, checking plants daily during peak production since zucchini left on the plant quickly grows oversized and tough.",
+    "sources": [
+      "Johnny's Selected Seeds",
+      "Cornell Cooperative Extension",
+      "University of Florida IFAS Extension — Squash Production"
+    ]
+  }
+]

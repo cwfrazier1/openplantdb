@@ -1,0 +1,277 @@
+[
+  {
+    "slug": "county-fair-cucumber",
+    "common_name": "County Fair Cucumber (Bacterial Wilt-Resistant Pickling Cucumber)",
+    "scientific_name": "Cucumis sativus 'County Fair'",
+    "category": "vegetable",
+    "subcategory": "cucurbit",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 95
+    },
+    "days_to_maturity": {
+      "min": 48,
+      "max": 58
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 2
+      },
+      "note": "Direct sow after last frost in warm soil; County Fair was bred at the University of Wisconsin and is one of the few cucumber varieties with genetic resistance to bacterial wilt, a cucumber beetle-vectored disease that can kill an entire planting within days once beetle populations build up in a Gulf South summer."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 12,
+      "max": 18
+    },
+    "spread_in": {
+      "min": 24,
+      "max": 36
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Sow seed 1 inch deep in warm, fertile, well-drained soil after all frost risk has passed; County Fair is a compact, gynoecious pickling cucumber notable among cucumber varieties for carrying real genetic resistance to bacterial wilt, a serious disease spread by cucumber beetle feeding that quickly wilts and kills susceptible vines with no cure once infected. It also shows tolerance to cucumber mosaic virus, powdery mildew, angular leaf spot, and anthracnose, giving it an unusually broad disease package for a pickling type. Fruit is blocky and uniformly sized, ideal for dill or bread-and-butter pickles when picked at 3-5 inches. Because cucumber beetles and the wilt they spread are a persistent problem in warm, humid Gulf Coast gardens, County Fair is a strong choice where bacterial wilt has wiped out other cucumber plantings in the past.",
+    "sources": [
+      "University of Wisconsin-Madison — Vegetable Crop Breeding",
+      "Cornell Cooperative Extension",
+      "seed catalog reference (Jung Seed, Gurney's, True Leaf Market)"
+    ]
+  },
+  {
+    "slug": "multipik-squash",
+    "common_name": "Multipik Squash (Virus-Tolerant Yellow Straightneck Hybrid)",
+    "scientific_name": "Cucurbita pepo 'Multipik'",
+    "category": "vegetable",
+    "subcategory": "summer squash",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 95
+    },
+    "days_to_maturity": {
+      "min": 50,
+      "max": 58
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 4
+      },
+      "note": "Direct sow 1 inch deep in hills after soil warms to 70°F; Multipik carries the 'precocious yellow' gene, which keeps fruit a clean, bright yellow even when the plant is infected with mosaic viruses that would otherwise mottle and discolor the skin of most yellow squash — a real practical advantage in aphid-prone Gulf South gardens where mosaic virus is common."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 24,
+      "max": 36
+    },
+    "height_in": {
+      "min": 18,
+      "max": 30
+    },
+    "spread_in": {
+      "min": 24,
+      "max": 36
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Direct sow in warm, fertile, well-drained soil in full sun after all frost danger passes; Multipik is a widely grown yellow straightneck summer squash hybrid valued for heavy, sustained production and for its 'precocious' gene, which masks the green mottling that mosaic viruses normally cause, so fruit keeps its attractive, uniform bright yellow color for market and table even under virus pressure. The compact, open bush habit produces slender, smooth-skinned fruit best picked young at 5-6 inches for the most tender texture. Because summer squash is highly attractive to aphids that spread mosaic viruses in humid Gulf Coast gardens, Multipik's cosmetic virus tolerance helps keep the harvest looking good even in a bad aphid year. Check plants daily during peak production and pick promptly, since squash left on the vine quickly grows oversized and seedy.",
+    "sources": [
+      "Johnny's Selected Seeds",
+      "Cornell Cooperative Extension",
+      "seed catalog reference (Harris Seeds, Holmes Seed Company)"
+    ]
+  },
+  {
+    "slug": "success-pm-squash",
+    "common_name": "Success PM Squash (Powdery Mildew-Resistant Yellow Squash)",
+    "scientific_name": "Cucurbita pepo 'Success PM'",
+    "category": "vegetable",
+    "subcategory": "summer squash",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 95
+    },
+    "days_to_maturity": {
+      "min": 48,
+      "max": 55
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 4
+      },
+      "note": "Direct sow 1 inch deep in hills after soil warms to 70°F; Success PM was bred specifically for resistance to powdery mildew, the fungal disease that typically ends a Gulf South summer squash planting by midsummer once the white, dusty coating spreads across the foliage."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 24,
+      "max": 36
+    },
+    "height_in": {
+      "min": 18,
+      "max": 30
+    },
+    "spread_in": {
+      "min": 24,
+      "max": 36
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Direct sow in warm, fertile, well-drained soil in full sun after all frost danger passes; Success PM is a yellow summer squash bred to carry meaningful resistance to powdery mildew, the fungal disease that coats squash leaves in a white, dusty film and typically shuts down production in a Gulf South garden by midsummer, well before the season would otherwise end. Because the foliage stays healthier and photosynthesizing longer, plants tend to keep setting good-quality fruit later into the summer than mildew-susceptible varieties. Harvest fruit young, at 5-6 inches, for the most tender texture and mildest flavor, checking plants daily during peak production since summer squash quickly grows oversized if missed for even a couple of days.",
+    "sources": [
+      "Cornell Cooperative Extension",
+      "seed catalog reference (Fruition Seeds, Turtle Tree Seed)",
+      "general horticultural reference"
+    ]
+  },
+  {
+    "slug": "payroll-squash",
+    "common_name": "Payroll Squash (Disease-Tolerant Hybrid Zucchini)",
+    "scientific_name": "Cucurbita pepo 'Payroll'",
+    "category": "vegetable",
+    "subcategory": "summer squash",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 95
+    },
+    "days_to_maturity": {
+      "min": 45,
+      "max": 52
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 4
+      },
+      "note": "Direct sow 1 inch deep in hills after soil warms to 70°F; Payroll is a commercial hybrid zucchini bred for tolerance to common squash mosaic viruses and powdery mildew, holding production longer into a humid Gulf South summer than older open-pollinated zucchini varieties."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 24,
+      "max": 36
+    },
+    "height_in": {
+      "min": 18,
+      "max": 30
+    },
+    "spread_in": {
+      "min": 24,
+      "max": 36
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Direct sow in warm, fertile, well-drained soil in full sun after all frost danger passes; Payroll is an early, high-yielding hybrid zucchini bred with tolerance to several common squash viruses and powdery mildew, letting it hold healthy foliage and keep setting fruit later into the season than many older varieties once disease pressure builds. It produces uniform, dark green, cylindrical fruit on a compact, open bush habit that makes spotting and harvesting fruit easy even as the plant fills out. Pick at 6-8 inches for the best eating quality, checking daily during peak summer production since zucchini left on the plant even a day or two too long quickly grows oversized and seedy.",
+    "sources": [
+      "seed catalog reference (Holmes Seed Company, Harris Seeds)",
+      "Cornell Cooperative Extension",
+      "general horticultural reference"
+    ]
+  },
+  {
+    "slug": "enterprise-squash",
+    "common_name": "Enterprise Squash (Broad-Spectrum Virus-Resistant Zucchini)",
+    "scientific_name": "Cucurbita pepo 'Enterprise'",
+    "category": "vegetable",
+    "subcategory": "summer squash",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 95
+    },
+    "days_to_maturity": {
+      "min": 48,
+      "max": 55
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 4
+      },
+      "note": "Direct sow 1 inch deep in hills after soil warms to 70°F; Enterprise is a hybrid zucchini bred for resistance to a broad package of common cucurbit mosaic viruses, an important advantage in aphid-prone Gulf South gardens where virus pressure often shortens the summer squash season."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 24,
+      "max": 36
+    },
+    "height_in": {
+      "min": 18,
+      "max": 30
+    },
+    "spread_in": {
+      "min": 24,
+      "max": 36
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Direct sow in warm, fertile, well-drained soil in full sun after all frost danger passes; Enterprise is a hybrid zucchini bred for resistance to a broad spectrum of the mosaic viruses that commonly spread through squash plantings via aphids, keeping foliage healthier and fruit better colored later into a humid Gulf South summer than more virus-susceptible varieties. The compact, open bush habit produces uniform, dark green cylindrical fruit that is easy to spot and harvest as the plant fills in. Pick fruit at 6-8 inches for the best texture and flavor, checking plants daily during peak production since summer squash quickly grows oversized and tough if missed for even a couple of days.",
+    "sources": [
+      "seed catalog reference (Syngenta, Harris Seeds)",
+      "Cornell Cooperative Extension",
+      "general horticultural reference"
+    ]
+  }
+]
