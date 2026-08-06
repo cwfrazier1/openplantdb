@@ -1,0 +1,421 @@
+[
+  {
+    "slug": "zeon-zoysia-grass",
+    "common_name": "Zeon Zoysia Grass (Fine-Bladed Shade-Tolerant Zoysia Cultivar)",
+    "scientific_name": "Zoysia matrella 'Zeon'",
+    "category": "cover-crop",
+    "subcategory": "turfgrass",
+    "days_to_germination": null,
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 95
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 120
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "warm",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 8
+      },
+      "note": "Establish only from sod or plugs (not seed) once soil is consistently above 65°F; Zeon is a fine-textured Zoysia matrella cultivar selected for notably better shade tolerance than bermudagrass and finer leaf texture than broader-bladed Zoysia japonica cultivars like Empire."
+    },
+    "usda_zones": {
+      "min": 8,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 6,
+      "max": 12
+    },
+    "height_in": {
+      "min": 1,
+      "max": 2
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 24
+    },
+    "sun": "partial",
+    "water": "low",
+    "directions": "Set plugs or sod closer together than coarser zoysia cultivars, 6-12 inches apart, since Zeon spreads more slowly and benefits from denser initial coverage; keep evenly moist through the first growing season. Zeon was selected and released by a Texas turfgrass producer for its unusually fine, soft leaf blade and strong performance in partial shade, making it a popular choice for lawns with filtered tree cover where bermudagrass thins out. It tolerates close mowing to a putting-green-like height, holds color well into cooler weather, and needs relatively little fertilizer or water once established, though it goes tan-brown with the first hard frost. Dethatch periodically since dense zoysia growth builds thatch over time, and avoid scalping, which slows recovery.",
+    "sources": [
+      "Texas A&M AgriLife Extension",
+      "University of Florida IFAS Extension",
+      "Clemson Cooperative Extension"
+    ]
+  },
+  {
+    "slug": "el-toro-zoysia-grass",
+    "common_name": "El Toro Zoysia Grass (Fast-Establishing Semi-Dwarf Zoysia Cultivar)",
+    "scientific_name": "Zoysia japonica 'El Toro'",
+    "category": "cover-crop",
+    "subcategory": "turfgrass",
+    "days_to_germination": null,
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 95
+    },
+    "days_to_maturity": {
+      "min": 45,
+      "max": 90
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "warm",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 8
+      },
+      "note": "Establish from sod or plugs (not seed) once soil is consistently warm; El Toro was bred at the University of California specifically to establish faster than the notoriously slow older zoysia standard, Meyer, while keeping good cold tolerance and pest resistance."
+    },
+    "usda_zones": {
+      "min": 6,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 24
+    },
+    "height_in": {
+      "min": 1,
+      "max": 3
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 24
+    },
+    "sun": "partial",
+    "water": "low",
+    "directions": "Install plugs or sod in spring through midsummer and irrigate frequently until roots knit in, then mow at 1-2 inches. El Toro is a semi-dwarf, medium-textured Zoysia japonica cultivar released to fix the biggest historical complaint about zoysia lawns, slow fill-in, spreading noticeably faster from plugs than older cultivars like Meyer while adding improved resistance to zoysia mite and billbugs. It handles moderate shade better than bermudagrass and forms a dense, wear-tolerant, weed-suppressing sod once established, going dormant and straw-colored after the first hard frost and greening back reliably each spring. Avoid excess nitrogen and mowing too low, both of which stress zoysia turf.",
+    "sources": [
+      "University of California Agriculture and Natural Resources",
+      "Texas A&M AgriLife Extension",
+      "Louisiana State University AgCenter"
+    ]
+  },
+  {
+    "slug": "tifway-bermudagrass",
+    "common_name": "Tifway Bermudagrass (Tifway 419, Fine-Textured Hybrid Sports Turf)",
+    "scientific_name": "Cynodon dactylon x transvaalensis 'Tifway'",
+    "category": "cover-crop",
+    "subcategory": "turfgrass",
+    "days_to_germination": null,
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 95
+    },
+    "days_to_maturity": {
+      "min": 30,
+      "max": 60
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "warm",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 8
+      },
+      "note": "Establish only from sprigs, plugs, or sod, since Tifway is a sterile interspecific hybrid that produces no viable seed; plant in full sun once soil is reliably above 65°F."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 24
+    },
+    "height_in": {
+      "min": 1,
+      "max": 2
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Establish exclusively by vegetative sprigs, plugs, or sod in full sun, then mow low and frequently, 0.5 to 1.5 inches is typical on quality turf, with a sharp reel or rotary mower. Released from the USDA-University of Georgia breeding program at Tifton in 1960, Tifway is a hybrid of common and African bermudagrass that became the dominant fine-textured turf for golf courses and sports fields for decades because of its dense, dark-green stand, excellent wear tolerance, and fast recovery from traffic damage. Being sterile, it cannot spread as a weed and must be deliberately propagated, which also keeps a Tifway lawn genetically uniform and consistent in texture. Like all bermudagrass it demands full sun and declines quickly in shade, and it needs regular dethatching or verticutting since its aggressive stolon and rhizome growth builds thatch fast.",
+    "sources": [
+      "University of Georgia Cooperative Extension",
+      "Texas A&M AgriLife Extension",
+      "Clemson Cooperative Extension"
+    ]
+  },
+  {
+    "slug": "celebration-bermudagrass",
+    "common_name": "Celebration Bermudagrass (Dark Blue-Green Salt- and Shade-Tolerant Turf Cultivar)",
+    "scientific_name": "Cynodon dactylon x transvaalensis 'Celebration'",
+    "category": "cover-crop",
+    "subcategory": "turfgrass",
+    "days_to_germination": null,
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 95
+    },
+    "days_to_maturity": {
+      "min": 30,
+      "max": 60
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "warm",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 8
+      },
+      "note": "Establish only from sod, sprigs, or plugs, as Celebration is a patented sterile hybrid; install in full sun once soil is consistently warm and keep moist through establishment."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 24
+    },
+    "height_in": {
+      "min": 1,
+      "max": 2
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Install sod, sprigs, or plugs in a full-sun site in spring through midsummer and irrigate frequently for the first several weeks, then mow at 1-2 inches. Celebration was developed and patented by a Florida sod grower in the early 2000s and quickly became prized on golf courses and professional sports stadiums for its striking dark blue-green color, dense wiry stand, and unusually good tolerance of salt spray, drought, and moderate shade compared with older hybrid bermudagrasses. It recovers quickly from heavy foot or athletic traffic and holds color into cooler fall weather better than common bermudagrass, though it still goes dormant and straw-brown after hard frost. Being a sterile hybrid, it must be propagated vegetatively and will not come true, or come at all, from seed.",
+    "sources": [
+      "University of Florida IFAS Extension",
+      "Texas A&M AgriLife Extension",
+      "Louisiana State University AgCenter"
+    ]
+  },
+  {
+    "slug": "raleigh-st-augustine-grass",
+    "common_name": "Raleigh St. Augustine Grass (Cold-Hardy Piedmont-Adapted Lawn Grass)",
+    "scientific_name": "Stenotaphrum secundatum 'Raleigh'",
+    "category": "cover-crop",
+    "subcategory": "turfgrass",
+    "days_to_germination": null,
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 95
+    },
+    "days_to_maturity": {
+      "min": 30,
+      "max": 60
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "warm",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 8
+      },
+      "note": "Establish from sod or plugs (not seed) once soil is consistently above 70°F; Raleigh was bred at North Carolina State University specifically for cold hardiness, allowing St. Augustine lawns further north and inland than heat-bred cultivars like Floratam tolerate."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 24
+    },
+    "height_in": {
+      "min": 3,
+      "max": 4
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 24
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Install sod or plugs in spring through midsummer, water consistently through establishment, and mow at 3-4 inches, never scalping since St. Augustine cannot regrow from cut-back stem tissue. Released by North Carolina State University in 1980, Raleigh remains the most cold-tolerant widely available St. Augustine cultivar, making it the standard choice in the transitional Piedmont and Upper South where the industry-standard Floratam is not reliably winter hardy. It has moderate shade tolerance, better than Floratam though not as strong as newer semi-dwarf cultivars, and spreads by above-ground stolons that fill in bare or worn patches readily. It is more prone than some cultivars to gray leaf spot and brown patch fungal disease in hot, humid, overly wet conditions, so water in the morning and avoid overwatering.",
+    "sources": [
+      "North Carolina State University Extension",
+      "Texas A&M AgriLife Extension",
+      "University of Florida IFAS Extension"
+    ]
+  },
+  {
+    "slug": "herniaria-glabra",
+    "common_name": "Rupturewort (Green Carpet)",
+    "scientific_name": "Herniaria glabra",
+    "category": "flower",
+    "subcategory": "lawn alternative groundcover",
+    "days_to_germination": {
+      "min": 14,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 90
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Sow seed or set out small plugs in spring in lean, well-drained soil in full sun to light shade; rupturewort forms an extremely low, dense, moss-like mat that tolerates light foot traffic and is a popular filler between pavers and stepping stones."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 6,
+      "max": 12
+    },
+    "height_in": {
+      "min": 1,
+      "max": 2
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 18
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Sow fine seed directly on well-prepared, lean, well-drained soil in spring and keep lightly moist until germinated, or set out plugs spaced 6-12 inches apart and let them knit together over one to two seasons. Rupturewort forms a dense, wiry, evergreen-to-semi-evergreen mat of tiny bright green leaves that bronzes attractively in cold weather, staying under two inches tall without any mowing, which makes it a genuine no-mow lawn substitute for small sunny areas, gravel gardens, and paver joints. Once established it is extremely drought tolerant and thrives in poor, gritty soils where turfgrass struggles, though it needs decent drainage and dislikes heavy, waterlogged clay. It tolerates light foot traffic but not heavy or repeated wear, and the tiny greenish summer flowers are inconspicuous, adding no significant ornamental interest beyond the foliage carpet itself.",
+    "sources": [
+      "Missouri Botanical Garden Plant Finder",
+      "Royal Horticultural Society",
+      "North Carolina State Extension"
+    ]
+  },
+  {
+    "slug": "treneague-chamomile",
+    "common_name": "Treneague Chamomile (Non-Flowering Chamomile Lawn Cultivar)",
+    "scientific_name": "Chamaemelum nobile 'Treneague'",
+    "category": "flower",
+    "subcategory": "herb lawn groundcover",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 90,
+      "max": 180
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant rooted divisions or plugs in spring in light, well-drained, sandy soil in full sun; Treneague is a sterile, non-flowering selection propagated only vegetatively, since it sets no viable seed, and is the classic cultivar for traditional ornamental chamomile lawns."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 6,
+      "max": 9
+    },
+    "height_in": {
+      "min": 2,
+      "max": 4
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 18
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Set out rooted divisions or purchased plugs 6-9 inches apart in spring into light, sandy, well-drained soil and keep watered until the mat knits together, typically over one to two seasons. Treneague was discovered as a naturally non-flowering sport of Roman chamomile near the village of Treneague in Cornwall and has been propagated by division ever since, because a plant that never flowers produces no seed of its own; the payoff is a low, dense, feathery, apple-scented evergreen mat that never needs deadheading and tolerates light foot traffic, occasional gentle mowing, or rolling, making it the traditional choice for chamomile lawns and chamomile garden seats in historic English gardens. It thrives on neglect in poor, lean, well-drained soil and full sun, resents heavy clay or waterlogging, and should be kept largely traffic-free while newly planted until the mat fully closes.",
+    "sources": [
+      "Royal Horticultural Society",
+      "Missouri Botanical Garden Plant Finder",
+      "Cornell Cooperative Extension"
+    ]
+  },
+  {
+    "slug": "sivan-melon",
+    "common_name": "Sivan Melon (Israeli Galia-Type Hybrid Muskmelon)",
+    "scientific_name": "Cucumis melo 'Sivan'",
+    "category": "vegetable",
+    "subcategory": "melon",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 95
+    },
+    "days_to_maturity": {
+      "min": 75,
+      "max": 85
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 2
+      },
+      "note": "Direct sow in hills after all frost danger has passed and soil is warm, or start indoors 3 weeks early in short-season climates; Sivan is an Israeli-bred Galia-type hybrid prized for its intensely sweet, aromatic pale green flesh and reliably early, heavy fruit set."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 24,
+      "max": 36
+    },
+    "height_in": {
+      "min": 12,
+      "max": 18
+    },
+    "spread_in": {
+      "min": 60,
+      "max": 96
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Sow 3-4 seeds per hill after soil has warmed and danger of frost has passed, thinning to two vigorous plants per hill, or transplant tender young seedlings if a short growing season demands a head start. Sivan is a Galia-type F1 hybrid melon bred in Israel, popular there and across the Mediterranean and Middle East for its round, heavily netted rind that shifts from green to golden yellow at ripeness and its highly aromatic, pale green, sugary flesh that develops flavor unusually fast for a muskmelon, typically ready 75-85 days from sowing. Grow it like other Galia types on black plastic mulch to warm the root zone and suppress weeds, keep watering consistent through fruit set, then taper off as fruits near maturity to concentrate sugars. Harvest at full slip, when the fruit separates cleanly from the vine with gentle pressure and the blossom end gives off a strong sweet fragrance.",
+    "sources": [
+      "Chiltern Seeds",
+      "Real Seeds",
+      "Texas A&M AgriLife Extension"
+    ]
+  }
+]

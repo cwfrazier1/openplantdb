@@ -1,0 +1,430 @@
+[
+  {
+    "slug": "narrowleaf-milkweed",
+    "common_name": "Narrowleaf Milkweed (Mexican Whorled Milkweed)",
+    "scientific_name": "Asclepias fascicularis",
+    "category": "flower",
+    "subcategory": "native perennial",
+    "days_to_germination": {
+      "min": 10,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 100,
+      "max": 200
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 8
+      },
+      "note": "Direct sow in fall for natural winter cold-moist stratification, or cold-stratify seed 30 days before a spring sowing; narrowleaf milkweed germinates readily once dormancy is broken and establishes from a deep taproot."
+    },
+    "usda_zones": {
+      "min": 6,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 24,
+      "max": 40
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant in well-drained soil, including heavier clay and seasonally moist sites, in full sun. Narrowleaf milkweed is the most widespread milkweed of the American West, native from California and the Great Basin north into Washington and east into the Rocky Mountain foothills, where it grows along ditches, seasonal creek beds, and disturbed grassland edges. Its narrow, willow-like leaves are arranged in loose whorls along slender stems, and it produces clusters of small, pale lavender-to-whitish flowers from early to late summer, making it a key monarch butterfly host plant and nectar source along the western migratory flyway. Once established from its deep taproot it is markedly drought tolerant and spreads slowly by rhizome to form loose colonies; plants die back completely to the ground in winter and re-emerge late in spring, so mark the planting location to avoid disturbing the dormant crown. Avoid heavy summer irrigation in areas with dry summers, as narrowleaf milkweed is adapted to a winter-wet, summer-dry precipitation pattern.",
+    "sources": [
+      "Xerces Society for Invertebrate Conservation",
+      "Calscape / California Native Plant Society",
+      "USDA PLANTS Database"
+    ]
+  },
+  {
+    "slug": "tall-green-milkweed",
+    "common_name": "Tall Green Milkweed (Prairie Milkweed)",
+    "scientific_name": "Asclepias hirtella",
+    "category": "flower",
+    "subcategory": "native perennial",
+    "days_to_germination": {
+      "min": 14,
+      "max": 28
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 100,
+      "max": 200
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 8
+      },
+      "note": "Direct sow in fall for winter cold-moist stratification, or cold-stratify seed 60 days before spring sowing; tall green milkweed is slower to establish than common milkweed but is more compact and well-behaved once mature."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 8
+    },
+    "spacing_in": {
+      "min": 15,
+      "max": 18
+    },
+    "height_in": {
+      "min": 18,
+      "max": 36
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 18
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant in dry to mesic, well-drained soil, including sandy and rocky ground, in full sun. Tall green milkweed is a lesser-known prairie species that once ranged widely through remnant tallgrass and sand prairies of the Midwest and Northeast but has become locally uncommon as native grasslands were converted to agriculture, making garden plantings valuable for regional monarch and pollinator conservation. It bears dense, rounded clusters of greenish-white flowers with a faint fragrance in early to midsummer, held tightly against narrow, willowy leaves on an upright, non-spreading stem, giving it a tidier and less rangy habit than common milkweed. As with all milkweeds it serves as a larval host plant for monarch butterflies and is visited by a wide range of native bees and other pollinators for nectar. It tolerates lean, dry soils and heat well once its taproot is established, and unlike Asclepias syriaca it does not spread aggressively by rhizome, making it a good choice for smaller native plant beds.",
+    "sources": [
+      "Illinois Wildflowers",
+      "USDA PLANTS Database",
+      "Minnesota Wildflowers"
+    ]
+  },
+  {
+    "slug": "woollypod-milkweed",
+    "common_name": "Woollypod Milkweed (Indian Milkweed)",
+    "scientific_name": "Asclepias eriocarpa",
+    "category": "flower",
+    "subcategory": "native perennial",
+    "days_to_germination": {
+      "min": 10,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 100,
+      "max": 200
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 8
+      },
+      "note": "Direct sow in fall for natural winter chilling, or cold-stratify seed 30 days before spring sowing; woollypod milkweed is adapted to California's dry-summer climate and resents summer irrigation once established."
+    },
+    "usda_zones": {
+      "min": 8,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 24,
+      "max": 36
+    },
+    "height_in": {
+      "min": 24,
+      "max": 48
+    },
+    "spread_in": {
+      "min": 24,
+      "max": 36
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant in well-drained, lean soil, including clay and decomposed granite, in full sun. Woollypod milkweed is a California foothill and chaparral native named for the dense, felt-like white wool that covers its distinctive large seed pods, which split open in fall to release silky-tufted seed. Its broad, gray-green, softly fuzzy leaves and rounded clusters of pale pink-to-purplish flowers make it one of the more ornamentally striking western milkweeds, and it is an important larval host for monarch butterflies across its range in the coastal and interior foothills of California and the Sierra Nevada. It is deeply drought tolerant once its taproot is established, going summer-dormant or semi-dormant in the driest sites, and performs best with no supplemental irrigation beyond the establishment period. Note that woollypod milkweed's foliage is considered relatively higher in cardenolide toxicity than some other milkweed species and should be sited away from grazing livestock.",
+    "sources": [
+      "Calscape / California Native Plant Society",
+      "Xerces Society for Invertebrate Conservation",
+      "USDA PLANTS Database"
+    ]
+  },
+  {
+    "slug": "riddells-goldenrod",
+    "common_name": "Riddell's Goldenrod",
+    "scientific_name": "Solidago riddellii",
+    "category": "flower",
+    "subcategory": "native perennial",
+    "days_to_germination": {
+      "min": 14,
+      "max": 28
+    },
+    "germination_soil_temp_f": {
+      "min": 55,
+      "max": 65
+    },
+    "days_to_maturity": {
+      "min": 240,
+      "max": 365
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 8
+      },
+      "note": "Direct sow in fall for winter cold-moist stratification, or plant divisions/container stock in spring; Riddell's goldenrod prefers consistently moist to seasonally wet calcareous soils and is a signature species of prairie fens and wet meadows."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 8
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 18,
+      "max": 36
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "high",
+    "directions": "Plant in consistently moist to wet, calcium-rich soil in full sun to light partial shade. Riddell's goldenrod is a distinctive wetland species of Midwestern prairie fens, wet-mesic prairies, and calcareous sedge meadows, easily recognized by its narrow, folded, boat-shaped leaves that curve upward along the stem below flat-topped clusters of golden-yellow flowers in late summer and early fall. It is an excellent late-season nectar source for native bees, migrating monarch butterflies, and other pollinators, blooming alongside asters and other fall composites. Because it depends on consistently saturated to seasonally wet, mineral-rich soils in the wild, it is best suited to rain gardens, pond margins, and low, poorly drained spots in the landscape rather than average dry garden beds. It spreads gradually to form a modest colony but is far less aggressive than the well-known Canada goldenrod, making it a good choice for smaller wetland-style native plantings.",
+    "sources": [
+      "Illinois Wildflowers",
+      "USDA PLANTS Database",
+      "Minnesota Wildflowers"
+    ]
+  },
+  {
+    "slug": "ohio-goldenrod",
+    "common_name": "Ohio Goldenrod",
+    "scientific_name": "Solidago ohioensis",
+    "category": "flower",
+    "subcategory": "native perennial",
+    "days_to_germination": {
+      "min": 14,
+      "max": 28
+    },
+    "germination_soil_temp_f": {
+      "min": 55,
+      "max": 65
+    },
+    "days_to_maturity": {
+      "min": 240,
+      "max": 365
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 8
+      },
+      "note": "Direct sow in fall for winter cold-moist stratification, or plant divisions/container stock in spring; Ohio goldenrod is a calciphile that grows best in consistently moist, mineral-rich fen and wet prairie soils."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 7
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 24,
+      "max": 40
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "high",
+    "directions": "Plant in consistently moist to wet, calcareous soil in full sun. Ohio goldenrod is a regional specialty of Great Lakes-area prairie fens, calcareous wet meadows, and interdunal wetlands, where it grows alongside other fen specialists such as Riddell's goldenrod and grass-of-Parnassus. It is distinguished by smooth, glossy, mostly basal leaves and flat-topped, corymb-like clusters of bright yellow flowers held above the foliage on unbranched stems from late summer into fall. Like other late-blooming goldenrods it is an important nectar and pollen source for native bees and migrating monarch butterflies at a time when few other wildflowers remain in bloom, and its heavy, insect-transported pollen does not cause hay fever (that is the wind-borne pollen of ragweed, which blooms at the same time). Because it depends on steady soil moisture and calcium-rich conditions in the wild, it performs best in rain gardens, pond edges, and naturally wet low spots rather than average well-drained garden soil, and it is a good conservation-value choice for restoring regional fen and wet prairie plant communities.",
+    "sources": [
+      "USDA PLANTS Database",
+      "Michigan Natural Features Inventory",
+      "Minnesota Wildflowers"
+    ]
+  },
+  {
+    "slug": "blonde-ambition-blue-grama",
+    "common_name": "Blonde Ambition Blue Grama Grass",
+    "scientific_name": "Bouteloua gracilis 'Blonde Ambition'",
+    "category": "flower",
+    "subcategory": "native ornamental grass",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 90,
+      "max": 180
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 6
+      },
+      "note": "Plant container divisions in spring in well-drained, lean soil in full sun; Blonde Ambition tolerates poor, dry, and alkaline soils and needs no supplemental fertilization once established."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 18,
+      "max": 30
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant in well-drained, lean to average soil in full sun. Blonde Ambition is a Plant Select introduction (discovered and named by Colorado horticulturist Dan Johnson) selected from the native shortgrass-prairie species blue grama for its unusually large, showy, horizontally held chartreuse-to-golden seed heads, which resemble tiny eyelashes or flags lined up along the flowering stems from midsummer through fall. The fine-textured, blue-green foliage forms a low, dense mound, while the flowering stems rise well above it, and the straw-gold seed heads persist through winter, providing months of texture and movement along with seed for birds. It is exceptionally heat and drought tolerant once established, reflecting its origin as a dominant grass of the shortgrass prairies of the Great Plains and American Southwest, and needs minimal irrigation, no fertilization, and no winter protection. Cut the previous season's growth back to a few inches in late winter before new growth emerges to keep the clump tidy.",
+    "sources": [
+      "Plant Select (Colorado State University / Denver Botanic Gardens)",
+      "Missouri Botanical Garden Plant Finder",
+      "USDA PLANTS Database"
+    ]
+  },
+  {
+    "slug": "cheyenne-sky-switchgrass",
+    "common_name": "Cheyenne Sky Switchgrass (Compact Red Switchgrass)",
+    "scientific_name": "Panicum virgatum 'Cheyenne Sky'",
+    "category": "flower",
+    "subcategory": "native ornamental grass",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 90,
+      "max": 180
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 6
+      },
+      "note": "Plant container divisions in spring in well-drained to moist, lean to moderately fertile soil in full sun; Cheyenne Sky reliably colors red earlier in the season than most switchgrass cultivars, often showing color by early summer."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 30
+    },
+    "height_in": {
+      "min": 30,
+      "max": 36
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant in well-drained to moist, lean to moderately fertile soil in full sun. Cheyenne Sky is a compact selection of the native prairie grass switchgrass, bred to stay a tidy 30-36 inches tall with a strongly upright, non-flopping habit that makes it well suited to smaller garden beds and container plantings where the straight species (which can reach 5-6 feet) is too large. Its most distinctive feature is early, reliable color change: the blue-green summer foliage begins flushing wine-red from the tips down by early to midsummer, well ahead of most other switchgrass cultivars that do not color until fall, giving it a much longer season of ornamental interest. Airy, pink-tinged seed head panicles appear above the foliage in late summer, adding movement and texture and providing winter forage for birds. As a switchgrass cultivar it retains the deep, fibrous root system and drought tolerance of the wild species, requires no supplemental fertilization in average soils, and adapts to both dry upland sites and periodically moist low spots. Cut the clump back to a few inches in late winter before new growth emerges.",
+    "sources": [
+      "Missouri Botanical Garden Plant Finder",
+      "North Carolina State Extension",
+      "Chicagoland Grows Plant Introduction Program"
+    ]
+  },
+  {
+    "slug": "summer-nights-heliopsis",
+    "common_name": "Summer Nights False Sunflower (Dark-Stemmed Oxeye)",
+    "scientific_name": "Heliopsis helianthoides 'Summer Nights'",
+    "category": "flower",
+    "subcategory": "native perennial",
+    "days_to_germination": {
+      "min": 10,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 90,
+      "max": 150
+    },
+    "maturity_from": "seed",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": -2,
+        "max": 6
+      },
+      "note": "Plant divisions or container stock in spring or fall in average to moist, well-drained soil in full sun; Summer Nights develops its darkest stem and foliage color in full sun with consistent moisture."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 36,
+      "max": 48
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in average to moist, well-drained soil in full sun. Summer Nights is a German-bred selection of the native false sunflower, chosen for its near-black, purple-flushed stems and dark green foliage with purple undertones that provide dramatic contrast to its abundant golden-orange, daisy-form flowers produced from midsummer through early fall. The long, sturdy stems make it a favorite for cut flower use, and the extended bloom period makes it one of the most reliable, long-flowering native-species perennials for the summer border. Like the wild species, it is highly attractive to a wide range of native bees, butterflies, and other pollinating insects, and its seed heads provide food for goldfinches and other seed-eating birds if left standing into fall and winter. It is tolerant of heat and average garden conditions once established, benefits from division every three to four years to maintain vigor, and generally does not require staking despite its height, thanks to its sturdy, dark stems.",
+    "sources": [
+      "Missouri Botanical Garden Plant Finder",
+      "Chicago Botanic Garden Plant Evaluation",
+      "North Carolina State Extension"
+    ]
+  }
+]

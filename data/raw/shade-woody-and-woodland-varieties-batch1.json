@@ -1,0 +1,320 @@
+[
+  {
+    "slug": "trientalis-borealis",
+    "common_name": "Starflower (Northern Starflower)",
+    "scientific_name": "Trientalis borealis",
+    "category": "flower",
+    "subcategory": "native woodland wildflower",
+    "days_to_germination": {
+      "min": 60,
+      "max": 365
+    },
+    "germination_soil_temp_f": {
+      "min": 35,
+      "max": 50
+    },
+    "days_to_maturity": {
+      "min": 365,
+      "max": 730
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Transplant rhizome divisions or container plugs in early spring into cool, moist, acidic, humus-rich woodland soil in partial to full shade; fresh seed sown outdoors in fall typically requires two winters of cold exposure before it germinates."
+    },
+    "usda_zones": {
+      "min": 2,
+      "max": 7
+    },
+    "spacing_in": {
+      "min": 6,
+      "max": 10
+    },
+    "height_in": {
+      "min": 4,
+      "max": 8
+    },
+    "spread_in": {
+      "min": 6,
+      "max": 10
+    },
+    "sun": "shade",
+    "water": "moderate",
+    "directions": "Plant in cool, consistently moist, acidic, humus-rich soil under a closed deciduous or mixed-conifer canopy in partial to full shade; starflower is a diminutive rhizomatous wildflower of eastern and northern North American forests that produces a single whorl of glossy, lance-shaped leaves atop a slender stem, from which one or two crisp white, seven-pointed, star-shaped flowers open in late spring. The foliage and flowers fade back to the ground by mid to late summer as the plant enters dormancy, so it is best paired with later-emerging ferns or wild ginger that can fill the gap it leaves. Colonies spread slowly by thin underground rhizomes and slender stolon-like tubers, eventually forming a loose, low woodland carpet once conditions suit it; established plants resent disturbance and transplant divisions establish far more reliably than seed. It is a minor but valued early-season nectar source for small native bees and syrphid flies foraging in the shaded forest understory.",
+    "sources": [
+      "USDA PLANTS Database",
+      "New England Wild Flower Society (Native Plant Trust) — Go Botany",
+      "Illinois Wildflowers"
+    ]
+  },
+  {
+    "slug": "taxus-baccata",
+    "common_name": "English Yew (Common Yew)",
+    "scientific_name": "Taxus baccata",
+    "category": "flower",
+    "subcategory": "evergreen shade conifer",
+    "days_to_germination": {
+      "min": 180,
+      "max": 545
+    },
+    "germination_soil_temp_f": {
+      "min": 40,
+      "max": 60
+    },
+    "days_to_maturity": {
+      "min": 1825,
+      "max": 5475
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant container or balled-and-burlapped stock in spring or early fall in moist, well-drained, humus-rich soil in partial to full shade; English yew is one of the very few conifers that thrives in deep shade and tolerates heavy pruning for hedging or topiary. All parts except the fleshy red aril contain toxic taxine alkaloids and must be kept away from children and livestock."
+    },
+    "usda_zones": {
+      "min": 6,
+      "max": 7
+    },
+    "spacing_in": {
+      "min": 24,
+      "max": 48
+    },
+    "height_in": {
+      "min": 120,
+      "max": 480
+    },
+    "spread_in": {
+      "min": 96,
+      "max": 240
+    },
+    "sun": "shade",
+    "water": "moderate",
+    "directions": "Plant in moist, well-drained, humus-rich soil in partial to full shade; English yew is a long-lived, slow-growing evergreen conifer native to Europe, North Africa, and western Asia, prized in cultivation for dense, dark-green, needled foliage that holds its color and density in deep shade where almost no other conifer will grow. Left unpruned it slowly develops into a broad, spreading small tree, but it tolerates repeated, severe shearing better than almost any other woody plant and has been the classic subject of formal hedges and topiary in shaded European gardens for centuries. Female plants produce small, bright red, fleshy arils in fall that are the only non-toxic part of the plant — the needles, bark, wood, and seed within the aril all contain taxine alkaloids that are dangerous if ingested by people, pets, or livestock. Established plants are extremely drought- and pollution-tolerant once rooted in and require little care beyond an annual shearing if a formal shape is desired.",
+    "sources": [
+      "Royal Horticultural Society",
+      "Missouri Botanical Garden Plant Finder",
+      "North Carolina State Extension — Plants Database"
+    ]
+  },
+  {
+    "slug": "taxus-media-hicksii",
+    "common_name": "Hicks Yew",
+    "scientific_name": "Taxus x media 'Hicksii'",
+    "category": "flower",
+    "subcategory": "evergreen shade shrub",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 1095,
+      "max": 3650
+    },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant container-grown shrubs in spring or early fall in moist, well-drained soil in partial to full shade; Hicks Yew is a naturally narrow, upright hybrid selected in the early 1900s at the Hicks Nurseries on Long Island and remains one of the most widely planted foundation and hedge shrubs in the northeastern and midwestern United States. All parts except the red aril flesh are toxic if eaten."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 7
+    },
+    "spacing_in": {
+      "min": 24,
+      "max": 36
+    },
+    "height_in": {
+      "min": 96,
+      "max": 180
+    },
+    "spread_in": {
+      "min": 48,
+      "max": 96
+    },
+    "sun": "shade",
+    "water": "moderate",
+    "directions": "Plant in moist, well-drained, average garden soil in partial to full shade; Hicks Yew is a columnar hybrid between English yew (Taxus baccata) and Japanese yew (Taxus cuspidata) that combines the deep-shade tolerance of its parents with markedly better cold hardiness, making it one of the most dependable evergreen conifers for foundation planting, screening, and formal hedging as far north as USDA zone 4. Its naturally upright, multi-stemmed, vase-shaped habit needs little corrective pruning to stay narrow, though it accepts shearing readily for a tighter formal hedge. The dark, glossy, flattened needles hold their color through winter, and female plants set small red arils in fall that attract birds, though the seed inside the aril and every other part of the plant contain toxic taxine alkaloids. Unlike most evergreens, Hicks Yew performs equally well on the shaded north side of a building as it does in full sun, and it tolerates urban pollution and heavy clay so long as drainage is adequate.",
+    "sources": [
+      "Missouri Botanical Garden Plant Finder",
+      "Cornell University Cooperative Extension",
+      "Iowa State University Extension and Outreach"
+    ]
+  },
+  {
+    "slug": "ilex-aquifolium",
+    "common_name": "English Holly",
+    "scientific_name": "Ilex aquifolium",
+    "category": "flower",
+    "subcategory": "evergreen shade tree",
+    "days_to_germination": {
+      "min": 545,
+      "max": 1095
+    },
+    "germination_soil_temp_f": {
+      "min": 50,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 1825,
+      "max": 5475
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant container or balled-and-burlapped stock in spring in moist, well-drained, slightly acidic soil in partial shade; English holly tolerates deep shade for foliage growth but sets its heaviest crop of berries with at least a few hours of direct or bright filtered sun, and requires a male pollinator nearby for female plants to fruit."
+    },
+    "usda_zones": {
+      "min": 6,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 60,
+      "max": 120
+    },
+    "height_in": {
+      "min": 96,
+      "max": 480
+    },
+    "spread_in": {
+      "min": 96,
+      "max": 240
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Plant in moist, well-drained, slightly acidic soil in partial shade to filtered sun; English holly is the classic broadleaf evergreen of Christmas wreaths and greenery, native to western and southern Europe, bearing stiff, glossy, spine-edged dark green leaves and, on pollinated female plants, abundant bright red berries that persist through winter and feed thrushes, waxwings, and other birds when little else is available. It is dioecious, so a male cultivar such as 'Blue Prince' or 'J.C. van Tol' (a self-fertile selection) must be planted within pollinator range of a female such as 'Blue Princess' or 'Argentea Marginata' for reliable fruit set. As a large, pyramidal shrub or small tree it makes an outstanding dense screen, windbreak, or specimen for shaded woodland-edge gardens, and it withstands shearing well if a more formal hedge is wanted. In the Pacific Northwest, English holly has escaped cultivation and is classified as an invasive species in forest understories, so gardeners in that region should choose non-invasive native or sterile cultivars instead, or deadhead berries before birds can disperse the seed.",
+    "sources": [
+      "Royal Horticultural Society",
+      "Missouri Botanical Garden Plant Finder",
+      "King County Noxious Weed Control Program (Washington)"
+    ]
+  },
+  {
+    "slug": "prunus-laurocerasus",
+    "common_name": "Cherry Laurel (English Laurel)",
+    "scientific_name": "Prunus laurocerasus",
+    "category": "flower",
+    "subcategory": "evergreen shade shrub",
+    "days_to_germination": {
+      "min": 90,
+      "max": 180
+    },
+    "germination_soil_temp_f": {
+      "min": 40,
+      "max": 55
+    },
+    "days_to_maturity": {
+      "min": 730,
+      "max": 2555
+    },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -6,
+        "max": -2
+      },
+      "note": "Plant container-grown shrubs or root semi-hardwood cuttings in late summer to fall in moist, well-drained soil in partial to full shade; cherry laurel is among the very few broadleaf evergreens that thrives in dense shade, making it a standard understory hedge and screening plant in maritime and Pacific Northwest climates. Leaves and seeds contain cyanogenic compounds and are toxic if eaten."
+    },
+    "usda_zones": {
+      "min": 6,
+      "max": 8
+    },
+    "spacing_in": {
+      "min": 36,
+      "max": 72
+    },
+    "height_in": {
+      "min": 120,
+      "max": 360
+    },
+    "spread_in": {
+      "min": 96,
+      "max": 360
+    },
+    "sun": "shade",
+    "water": "moderate",
+    "directions": "Plant in moist, well-drained, average to fertile soil in partial to full shade; cherry laurel is a vigorous, broad-spreading, broadleaf evergreen shrub native to southeastern Europe and southwestern Asia, grown for its large, glossy, deep-green leaves and upright spikes of small, fragrant white flowers in mid-spring, followed by cherry-like fruits that ripen from red to glossy black. Few other evergreen shrubs of comparable size tolerate the deep, dry shade cast by mature trees as well as cherry laurel does, which has made it a staple hedge, screening, and foundation plant throughout the maritime Pacific Northwest and the British Isles for generations. Compact cultivars such as 'Otto Luyken' and 'Zabeliana' stay low and spreading for foundation use, while 'Schipkaensis' (Schip laurel) is notably more cold hardy for zone 6 gardens. Because it self-seeds readily in the deep shade it favors, cherry laurel has naturalized aggressively in woodlands in parts of the Pacific Northwest and the United Kingdom, so spent flower spikes should be sheared off before fruit ripens in gardens near wild or natural areas, and all plant parts other than the ripe fruit pulp should be kept away from children and grazing animals.",
+    "sources": [
+      "Royal Horticultural Society",
+      "Missouri Botanical Garden Plant Finder",
+      "Clemson Cooperative Extension"
+    ]
+  },
+  {
+    "slug": "ranunculus-ficaria",
+    "common_name": "Lesser Celandine (Fig Buttercup)",
+    "scientific_name": "Ranunculus ficaria",
+    "category": "flower",
+    "subcategory": "shade spring ephemeral",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 180,
+      "max": 365
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -4
+      },
+      "note": "Plant dormant tubers or bulbils in fall, 1-2 inches deep, in moist, humus-rich soil in partial shade under deciduous trees; lesser celandine emerges and blooms in earliest spring before tree canopies leaf out, then dies back completely to underground tubers by early summer. It spreads readily by tubers and is regarded as an invasive weed in much of the northeastern and mid-Atlantic United States, so plant only well-behaved, sterile ornamental cultivars and never near streams, floodplains, or natural areas."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 8
+    },
+    "spacing_in": {
+      "min": 6,
+      "max": 12
+    },
+    "height_in": {
+      "min": 2,
+      "max": 4
+    },
+    "spread_in": {
+      "min": 8,
+      "max": 12
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Plant tubers in fall in moist, humus-rich soil in partial shade to dappled sun beneath deciduous trees; lesser celandine is a low, mat-forming spring ephemeral native to Europe and western Asia that carpets the shaded woodland floor with glossy, heart-shaped leaves and glistening, bright yellow, buttercup-like flowers in the first mild weeks of spring, then vanishes completely underground by early summer as the tree canopy closes overhead. The species itself spreads with great vigor from both underground tubers and small bulbils that form in the leaf axils, and it has escaped cultivation to become a serious invasive weed of moist floodplain forests across much of the northeastern and mid-Atlantic United States, where it can carpet the forest floor and crowd out spring-blooming native wildflowers before most of them emerge. Gardeners who want its bright, glossy foliage should instead choose named ornamental selections such as the dark bronze-purple-leaved 'Brazen Hussy' or the fully double-flowered 'Flore Pleno', both of which set little or no viable seed and spread far more slowly than the wild type; even so, these should be planted in contained beds away from wild woodlands and watercourses. Once dormant in summer, mark planting locations, since the foliage disappears entirely until the following late winter.",
+    "sources": [
+      "Royal Horticultural Society",
+      "Missouri Botanical Garden Plant Finder",
+      "Pennsylvania Department of Conservation and Natural Resources — Invasive Plant Fact Sheet"
+    ]
+  }
+]

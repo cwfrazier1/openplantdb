@@ -1,0 +1,100 @@
+[
+  {
+    "slug": "steuben-grape",
+    "common_name": "Steuben Grape (Cornell-Bred Spicy Blue Table Grape)",
+    "scientific_name": "Vitis 'Steuben'",
+    "category": "fruit",
+    "subcategory": "table grape",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 1460,
+      "max": 1825
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 6
+      },
+      "note": "Plant bare-root vines in early spring as soon as soil can be worked; Steuben, bred at Cornell University's Geneva, New York station, needs a real winter chill and is best suited to zones 5-8 rather than the Gulf South."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 8
+    },
+    "spacing_in": {
+      "min": 72,
+      "max": 96
+    },
+    "height_in": {
+      "min": 60,
+      "max": 120
+    },
+    "spread_in": {
+      "min": 72,
+      "max": 120
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant on a trellis or arbor in full sun in well-drained soil, pruning heavily each winter with a cane-pruning system. Steuben was bred at Cornell University's Geneva, New York agricultural experiment station and is grown for its blue-black, slip-skin berries with a rich, spicy-sweet, almost wine-like flavor that many growers consider superior to Concord for fresh eating, though it also makes excellent juice and jelly. It is a reliable, productive vine that ripens in midseason and stores unusually well for a labrusca-type grape. As a high-chill northern grape, it is not recommended for the Deep South, where Pierce's disease and mild winters favor muscadines or Pierce's-tolerant hybrid bunch grapes instead.",
+    "sources": [
+      "Cornell University College of Agriculture and Life Sciences",
+      "University of Minnesota Extension",
+      "Ohio State University Extension"
+    ]
+  },
+  {
+    "slug": "reliance-grape",
+    "common_name": "Reliance Grape (Cold-Hardy Pink Seedless Table Grape)",
+    "scientific_name": "Vitis 'Reliance'",
+    "category": "fruit",
+    "subcategory": "table grape",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 1460,
+      "max": 1825
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 6
+      },
+      "note": "Plant bare-root vines in early spring as soon as soil can be worked; Reliance is exceptionally cold-hardy for a seedless grape, tolerating winters well beyond what most seedless table grapes survive, but still needs a real winter chill and is not suited to the Deep South."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 8
+    },
+    "spacing_in": {
+      "min": 72,
+      "max": 96
+    },
+    "height_in": {
+      "min": 60,
+      "max": 120
+    },
+    "spread_in": {
+      "min": 72,
+      "max": 120
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant on a trellis or arbor in full sun in well-drained soil, and prune heavily each winter using a cane-pruning system. Reliance was bred at the University of Arkansas and is prized for its outstanding cold hardiness among seedless grapes, along with medium-sized pink-red berries that are sweet, tender-skinned, and easy to eat fresh off the cluster. It ripens in midseason and is self-fruitful, though thinning clusters improves berry size and vine longevity. Because it needs sustained winter chill to perform well, it is best suited to northern and mid-South gardens rather than the humid, mild-winter Gulf Coast, where muscadines and Pierce's-tolerant hybrids are more reliable.",
+    "sources": [
+      "University of Arkansas Division of Agriculture",
+      "Cornell University College of Agriculture and Life Sciences",
+      "Ohio State University Extension"
+    ]
+  }
+]

@@ -1,0 +1,387 @@
+[
+  {
+    "slug": "rubicon-napa-cabbage",
+    "common_name": "Rubicon Napa Cabbage (Disease-Resistant Barrel-Type Hybrid)",
+    "scientific_name": "Brassica rapa subsp. pekinensis 'Rubicon'",
+    "category": "vegetable",
+    "subcategory": "Asian brassica",
+    "days_to_germination": {
+      "min": 4,
+      "max": 7
+    },
+    "germination_soil_temp_f": {
+      "min": 50,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 56,
+      "max": 60
+    },
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {
+        "min": -10,
+        "max": -8
+      },
+      "note": "Start seed indoors and transplant 8-10 weeks before the first fall frost for the classic autumn crop; Rubicon's bolt tolerance also allows a riskier late-summer direct sowing in cooler climates."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 10,
+      "max": 14
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 16
+    },
+    "sun": "full",
+    "water": "high",
+    "directions": "Transplant into rich, consistently moist soil, keeping plants well watered to prevent tipburn and premature bolting. Rubicon forms dense, barrel-shaped heads with good resistance to fusarium yellows, making it a reliable choice where soilborne disease has hurt other napa types. Harvest when heads feel firm and heavy; the tight wrap holds well in the field and in cold storage. Its balanced sweet-mild flavor suits both fresh kimchi and quick stir-fries.",
+    "sources": [
+      "Johnny's Selected Seeds",
+      "Cornell Cooperative Extension",
+      "World Vegetable Center"
+    ]
+  },
+  {
+    "slug": "sakurajima-daikon",
+    "common_name": "Sakurajima Daikon (Giant Japanese Winter Radish)",
+    "scientific_name": "Raphanus sativus 'Sakurajima'",
+    "category": "vegetable",
+    "subcategory": "Asian root vegetable",
+    "days_to_germination": {
+      "min": 4,
+      "max": 7
+    },
+    "germination_soil_temp_f": {
+      "min": 50,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 100,
+      "max": 130
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {
+        "min": -16,
+        "max": -12
+      },
+      "note": "Direct sow in deeply worked, stone-free soil 12-16 weeks before the first fall frost; this landrace needs a long, cool finishing period to bulk up its enormous root."
+    },
+    "usda_zones": {
+      "min": 2,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 24,
+      "max": 36
+    },
+    "height_in": {
+      "min": 18,
+      "max": 24
+    },
+    "spread_in": {
+      "min": 24,
+      "max": 36
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Sow directly since the massive taproot resents transplanting, and thin aggressively to give each plant a full 2-3 foot circle of loose, deeply tilled soil. Named for the volcanic island near Kagoshima where it originated, this cultivar can swell to 40-100 pounds while staying surprisingly dense and low-fiber compared to other giant radishes. Harvest before hard freezes and store in a cool root cellar; despite its size the flesh stays sweet and is prized locally for simmered dishes and pickling.",
+    "sources": [
+      "Kitazawa Seed Company",
+      "Baker Creek Heirloom Seeds",
+      "Sakata Seed Corporation"
+    ]
+  },
+  {
+    "slug": "minowase-daikon",
+    "common_name": "Minowase Daikon (Classic Long White Japanese Radish)",
+    "scientific_name": "Raphanus sativus 'Minowase'",
+    "category": "vegetable",
+    "subcategory": "Asian root vegetable",
+    "days_to_germination": {
+      "min": 4,
+      "max": 7
+    },
+    "germination_soil_temp_f": {
+      "min": 50,
+      "max": 80
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 70
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {
+        "min": -10,
+        "max": -8
+      },
+      "note": "Direct sow into deep, loose soil 8-10 weeks before the first fall frost; a light frost after sizing up improves sweetness and crispness."
+    },
+    "usda_zones": {
+      "min": 2,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 6,
+      "max": 9
+    },
+    "height_in": {
+      "min": 14,
+      "max": 18
+    },
+    "spread_in": {
+      "min": 10,
+      "max": 14
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Thin seedlings early to prevent forked roots, and keep soil evenly moist to avoid splitting as the roots elongate. Minowase is the foundational Japanese daikon type behind many named strains, producing smooth, pure-white roots 18-24 inches long that taper only slightly. It is the traditional choice for takuan pickles as well as fresh grating and simmering, valued for its mild, clean flavor and dependable uniformity.",
+    "sources": [
+      "Kitazawa Seed Company",
+      "Evergreen Seeds",
+      "Sakata Seed Corporation"
+    ]
+  },
+  {
+    "slug": "manganji-pepper",
+    "common_name": "Manganji Pepper (Kyoto Sweet Togarashi)",
+    "scientific_name": "Capsicum annuum 'Manganji'",
+    "category": "vegetable",
+    "subcategory": "Asian sweet pepper",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 75,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 65,
+      "max": 75
+    },
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 2
+      },
+      "note": "Start seed indoors 8 weeks before the last frost and transplant out once nights stay reliably above 55°F, 0-2 weeks after the last frost date."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 24,
+      "max": 30
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Grow like a sweet pepper in warm, well-drained soil with steady moisture to keep pods tender and mild. Manganji is a traditional Kyoto vegetable cultivar producing large, glossy, thin-walled pods similar in shape to shishito but noticeably bigger and generally sweeter, though occasional fruits turn hot under heat or drought stress. Harvest young and green for pan-frying or grilling whole, a popular preparation in Kyoto cuisine.",
+    "sources": [
+      "Kitazawa Seed Company",
+      "Sakata Seed Corporation",
+      "Slow Food Foundation for Biodiversity"
+    ]
+  },
+  {
+    "slug": "cheongyang-pepper",
+    "common_name": "Cheongyang Pepper (Korean Hot Green Chile)",
+    "scientific_name": "Capsicum annuum 'Cheongyang'",
+    "category": "vegetable",
+    "subcategory": "Asian hot pepper",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 75,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 70,
+      "max": 80
+    },
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 2
+      },
+      "note": "Start seed indoors 8-10 weeks before the last frost and transplant out 0-2 weeks after last frost once soil has warmed."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 20,
+      "max": 28
+    },
+    "spread_in": {
+      "min": 16,
+      "max": 20
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Cultivate in full sun with consistent watering, staking taller plants once heavily laden with fruit. Bred in South Korea in the early 1980s as a cross between a Thai chile and a Korean landrace pepper, Cheongyang delivers notably more heat than standard Korean green chiles while keeping their thin walls and grassy flavor. Slice fresh into stews like jjigae, dip raw into ssamjang, or dry and grind for a fiery version of gochugaru.",
+    "sources": [
+      "Rural Development Administration (South Korea)",
+      "Kitazawa Seed Company",
+      "Evergreen Seeds"
+    ]
+  },
+  {
+    "slug": "pasilla-mixe-pepper",
+    "common_name": "Pasilla Mixe Pepper (Oaxacan Smoked Chile)",
+    "scientific_name": "Capsicum annuum 'Pasilla Mixe'",
+    "category": "vegetable",
+    "subcategory": "Latin American hot pepper",
+    "days_to_germination": {
+      "min": 10,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 75,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 80,
+      "max": 90
+    },
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 2
+      },
+      "note": "Start seed indoors 8-10 weeks before the last frost in a warm spot and transplant out only after soil and night air are reliably warm."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 24,
+      "max": 36
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Give plants full sun, warm nights, and moderate consistent water; the tall bushy plants benefit from staking once fruit-heavy. This landrace is grown in the highlands of the Mixe region of Oaxaca and traditionally left to ripen to a deep brownish-black before being slow smoke-dried over wood fires, producing a chile with intense smoky, fruity, tobacco-like depth and considerable heat. Use dried pods rehydrated into moles, adobos, and salsas where a smokier alternative to chipotle is wanted.",
+    "sources": [
+      "Rancho Gordo",
+      "Baker Creek Heirloom Seeds",
+      "Slow Food Foundation for Biodiversity"
+    ]
+  },
+  {
+    "slug": "chile-puya-pepper",
+    "common_name": "Chile Puya (Mexican Dried Chile, Guajillo's Fiery Cousin)",
+    "scientific_name": "Capsicum annuum 'Puya'",
+    "category": "vegetable",
+    "subcategory": "Latin American hot pepper",
+    "days_to_germination": {
+      "min": 10,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 75,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 75,
+      "max": 85
+    },
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 2
+      },
+      "note": "Start seed indoors 8 weeks before the last frost and set plants out after danger of frost has passed and soil has warmed."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 24,
+      "max": 30
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Grow as a standard warm-season pepper in full sun with well-drained soil, watering deeply but infrequently once established. Chile Puya produces slender pods closely resembling guajillo but shorter, narrower, and notably hotter, typically left on the plant to ripen fully to deep red before drying. Dried pods are toasted and rehydrated for robust red salsas, adobos, and marinades across central and western Mexico, often blended alongside guajillo and ancho for layered heat and flavor.",
+    "sources": [
+      "Chile Pepper Institute, New Mexico State University",
+      "Rancho Gordo",
+      "Baker Creek Heirloom Seeds"
+    ]
+  }
+]

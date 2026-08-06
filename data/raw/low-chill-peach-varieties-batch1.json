@@ -1,0 +1,106 @@
+[
+  {
+    "slug": "tropicsnow-peach",
+    "common_name": "TropicSnow Peach (University of Florida Low-Chill White Peach)",
+    "scientific_name": "Prunus persica 'TropicSnow'",
+    "category": "fruit",
+    "subcategory": "peach",
+    "days_to_germination": null,
+    "germination_soil_temp_f": {
+      "min": 35,
+      "max": 55
+    },
+    "days_to_maturity": {
+      "min": 1095,
+      "max": 1460
+    },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -2
+      },
+      "note": "Plant bare-root trees in late winter while dormant, in full sun with excellent drainage; TropicSnow needs only about 150-200 chilling hours, among the lowest chill requirements of any named peach, making it reliable even in mild Gulf Coast winters."
+    },
+    "usda_zones": {
+      "min": 8,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 180,
+      "max": 240
+    },
+    "height_in": {
+      "min": 120,
+      "max": 180
+    },
+    "spread_in": {
+      "min": 120,
+      "max": 168
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant bare-root trees in late winter in full sun with excellent drainage, and prune to an open-vase shape in the early years to let light into the canopy. TropicSnow was released by the University of Florida breeding program as one of the lowest-chill white-fleshed peaches available, developed to give far-southern and even subtropical growers a genuine tree-ripened peach where standard varieties fail to bloom reliably. The medium-sized freestone fruit has creamy white skin blushed with red and sweet, low-acid white flesh, a flavor profile many gardeners prefer to the tangier yellow-fleshed low-chill peaches bred for the same region. Thin fruit to 6-8 inches apart when marble-sized to improve size and quality, and expect an early harvest, typically in late spring, well ahead of summer heat.",
+    "sources": [
+      "University of Florida IFAS Extension",
+      "Louisiana State University AgCenter",
+      "Texas A&M AgriLife Extension"
+    ]
+  },
+  {
+    "slug": "flordacrest-peach",
+    "common_name": "Flordacrest Peach (University of Florida Low-Chill Freestone Peach)",
+    "scientific_name": "Prunus persica 'Flordacrest'",
+    "category": "fruit",
+    "subcategory": "peach",
+    "days_to_germination": null,
+    "germination_soil_temp_f": {
+      "min": 35,
+      "max": 55
+    },
+    "days_to_maturity": {
+      "min": 1095,
+      "max": 1460
+    },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -2
+      },
+      "note": "Plant bare-root trees in late winter while dormant, in full sun with excellent drainage; Flordacrest needs roughly 300 chilling hours, low enough for reliable bloom and fruit set across most of the Gulf South."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 180,
+      "max": 240
+    },
+    "height_in": {
+      "min": 120,
+      "max": 180
+    },
+    "spread_in": {
+      "min": 120,
+      "max": 168
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant bare-root trees in late winter in full sun with excellent drainage, since peach roots are quickly damaged by standing water. Flordacrest is a low-chill freestone peach from the University of Florida breeding program, bred to extend the low-chill peach harvest window with medium to large fruit, attractive red-blushed yellow skin, and firm, good-flavored yellow flesh that holds up well for fresh eating. It is self-fertile and does not require a second tree for pollination, though planting a second early-blooming low-chill peach nearby can improve fruit set in a light bloom year. Thin fruit clusters to 6-8 inches apart when fruit reaches marble size to improve final size, and expect ripening in late spring to early summer, consistent with other low-chill Florida-bred peaches.",
+    "sources": [
+      "University of Florida IFAS Extension",
+      "Louisiana State University AgCenter",
+      "Texas A&M AgriLife Extension"
+    ]
+  }
+]

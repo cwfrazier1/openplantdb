@@ -1,0 +1,112 @@
+[
+  {
+    "slug": "white-egg-turnip",
+    "common_name": "White Egg Turnip (Fast-Maturing Egg-Shaped Heirloom)",
+    "scientific_name": "Brassica rapa 'White Egg'",
+    "category": "vegetable",
+    "subcategory": "root vegetable",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 45,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 45,
+      "max": 50
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {
+        "min": -10,
+        "max": -6
+      },
+      "note": "Direct sow in fall (late August–October in zone 9) or very early spring in well-drained, fertile soil in full sun; White Egg is one of the fastest-maturing turnips and quickly turns pithy if left in the ground past size, so sow in succession and pull promptly."
+    },
+    "usda_zones": {
+      "min": 2,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 3,
+      "max": 5
+    },
+    "height_in": {
+      "min": 10,
+      "max": 16
+    },
+    "spread_in": {
+      "min": 4,
+      "max": 6
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Direct sow in well-drained, fertile soil in full sun and thin young seedlings to a few inches apart; White Egg is a classic 19th-century American heirloom prized for its smooth, pure-white, egg-shaped roots that sit mostly above the soil line, making them easy to spot and pull. Flesh is exceptionally fine-grained, crisp, and mild for a turnip, holding its quality raw in slaws as well as cooked, and the roots reach usable size faster than almost any other turnip variety. Because it matures so quickly it is an excellent choice for a fast catch crop between other plantings or for gardeners who want an early fall harvest well before frost; roots left in the ground too long lose their fine texture and become woody, so check size regularly and harvest promptly once roots reach 2–3 inches across.",
+    "sources": [
+      "Southern Exposure Seed Exchange",
+      "Seed Savers Exchange",
+      "University of Kentucky Cooperative Extension"
+    ]
+  },
+  {
+    "slug": "alltop-turnip",
+    "common_name": "Alltop Turnip (Bulbless Cut-and-Come-Again Greens Turnip)",
+    "scientific_name": "Brassica rapa 'Alltop'",
+    "category": "vegetable",
+    "subcategory": "leafy green",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 45,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 35,
+      "max": 45
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {
+        "min": -12,
+        "max": -4
+      },
+      "note": "Direct sow thickly in fertile, well-drained soil in full sun to partial shade; Alltop was bred purely for greens production and does not bulb, so plant closer than a root-crop turnip and cut leaves repeatedly rather than thinning for roots."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 2,
+      "max": 4
+    },
+    "height_in": {
+      "min": 12,
+      "max": 20
+    },
+    "spread_in": {
+      "min": 6,
+      "max": 10
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Direct sow thickly in fertile, well-drained soil, in full sun for the fastest growth or partial shade in warmer weather; Alltop is a Southern-bred turnip selected purely for its tops and produces no usable bulb at all, channeling its energy instead into a heavy, upright flush of smooth, dark, mild-flavored leaves. It is markedly more heat- and bolt-tolerant than dual-purpose turnip varieties, which lets it be sown earlier in late summer and later into spring than most turnip greens, and it regrows vigorously after cutting for repeated cut-and-come-again harvests through fall and winter. Because there is no root to size up, plants can be spaced tightly and simply mowed or sheared back by a third to a half whenever leaves reach eating size, making it an efficient, high-yield choice for gardeners who grow turnips strictly for potlikker and greens rather than roots.",
+    "sources": [
+      "Southern Exposure Seed Exchange",
+      "University of Georgia Cooperative Extension",
+      "Sow True Seed"
+    ]
+  }
+]

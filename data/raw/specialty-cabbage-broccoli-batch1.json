@@ -1,0 +1,112 @@
+[
+  {
+    "slug": "deadon-cabbage",
+    "common_name": "Deadon Cabbage (Dark Red Savoy-Type Winter Cabbage)",
+    "scientific_name": "Brassica oleracea var. capitata 'Deadon'",
+    "category": "vegetable",
+    "subcategory": "heirloom cabbage",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 45,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 150,
+      "max": 180
+    },
+    "maturity_from": "seed",
+    "sow_method": "indoor-start",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {
+        "min": -24,
+        "max": -18
+      },
+      "note": "Start indoors in mid to late summer for a fall and winter harvest; Deadon's deep red-purple color intensifies with cold exposure, much like January King, and the heads store and hold in the garden exceptionally well through winter."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 12,
+      "max": 18
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Start seed indoors and transplant into well-amended, firm soil in full sun, giving plants room for a dense, round head. Deadon is a modern British-bred winter cabbage prized for producing solid, deep red-purple heads with excellent flavor and remarkably long field-holding ability, standing in good condition through hard frosts and well into winter without splitting or losing quality. Its rich color, cold hardiness, and dense, slow-to-bolt heads make it a favorite for extending the fresh cabbage harvest deep into the cold season, and the color deepens further after frost. Firm transplants in well to prevent wind-rock, protect young plants from cabbage worms and aphids, and harvest as needed through winter, since mature heads hold in the garden far longer than most summer cabbages.",
+    "sources": [
+      "Johnny's Selected Seeds",
+      "Royal Horticultural Society",
+      "University of Massachusetts Extension"
+    ]
+  },
+  {
+    "slug": "purple-peacock-broccoli",
+    "common_name": "Purple Peacock Broccoli (Ornamental Kale-Broccoli Cross)",
+    "scientific_name": "Brassica oleracea 'Purple Peacock'",
+    "category": "vegetable",
+    "subcategory": "specialty brassica",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 45,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 75
+    },
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -6,
+        "max": -4
+      },
+      "note": "Start indoors and transplant in early spring for a spring crop, or in mid to late summer for a fall and winter harvest; frost sweetens the deep purple foliage and improves flavor, much like ornamental kale."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 18,
+      "max": 30
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Transplant into fertile, well-drained soil in full sun; Purple Peacock is an open-pollinated cross between purple broccoli and Russian kale, producing deeply lobed, ruffled, purple-veined leaves along with small, tender purple broccoli-like side shoots rather than one large central head. Both the ornamental foliage and the small flowering shoots are edible, making it a dual-purpose plant valued equally for cut-and-come-again greens and for its striking, frost-enhanced color in the fall and winter garden. Harvest outer leaves and side shoots regularly to encourage continued production, and expect the purple coloring and flavor to intensify after the plant experiences a light frost.",
+    "sources": [
+      "Wild Garden Seed",
+      "Southern Exposure Seed Exchange",
+      "Baker Creek Heirloom Seeds"
+    ]
+  }
+]

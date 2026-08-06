@@ -1,0 +1,406 @@
+[
+  {
+    "slug": "northline-saskatoon",
+    "common_name": "Northline Saskatoon (Early-Ripening Prairie Saskatoon Cultivar)",
+    "scientific_name": "Amelanchier alnifolia 'Northline'",
+    "category": "berry",
+    "subcategory": "juneberry",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 730,
+      "max": 1460
+    },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 6
+      },
+      "note": "Plant container or bare-root suckers/cuttings in early spring while dormant; Northline is self-fertile but sets a heavier crop with a second saskatoon cultivar nearby for cross-pollination."
+    },
+    "usda_zones": {
+      "min": 2,
+      "max": 7
+    },
+    "spacing_in": {
+      "min": 72,
+      "max": 96
+    },
+    "height_in": {
+      "min": 72,
+      "max": 120
+    },
+    "spread_in": {
+      "min": 60,
+      "max": 96
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Northline is a prairie-bred saskatoon selection valued for producing very large, sweet, almond-scented berries earlier in the season than many other named cultivars. Plant in full sun in well-drained soil, spacing plants to allow air movement and reduce foliar disease, and mulch to conserve moisture through establishment. It suckers moderately to form a multi-stemmed thicket over time, so remove wayward suckers if a tidier hedge form is wanted. The extreme cold hardiness of this cultivar makes it a staple of Canadian Prairie saskatoon orchards, where fruit is picked for fresh eating, pies, and preserves.",
+    "sources": [
+      "University of Saskatchewan Horticulture Extension",
+      "Alberta Agriculture and Forestry",
+      "North Dakota State University Extension"
+    ]
+  },
+  {
+    "slug": "honeywood-saskatoon",
+    "common_name": "Honeywood Saskatoon (Vigorous Saskatchewan Fruit Cultivar)",
+    "scientific_name": "Amelanchier alnifolia 'Honeywood'",
+    "category": "berry",
+    "subcategory": "juneberry",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 730,
+      "max": 1460
+    },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 6
+      },
+      "note": "Plant dormant bare-root or container stock in early spring; give Honeywood extra room compared to compact cultivars, as it grows into a large, vigorous, upright shrub."
+    },
+    "usda_zones": {
+      "min": 2,
+      "max": 7
+    },
+    "spacing_in": {
+      "min": 72,
+      "max": 120
+    },
+    "height_in": {
+      "min": 96,
+      "max": 144
+    },
+    "spread_in": {
+      "min": 72,
+      "max": 108
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Honeywood is a Saskatchewan-origin saskatoon selection known for its vigorous, upright growth habit and reliable heavy fruit set even on younger plants. The dark purple-blue berries have the classic sweet, nutty saskatoon flavor and hold well on the bush for a staggered harvest. Plant in full sun with good drainage; because the shrub grows tall and dense, allow generous spacing in a hedgerow planting and prune out older canes periodically to maintain vigor and light penetration. It is a common choice in commercial U-pick saskatoon plantings across the Canadian Prairies for its dependable productivity.",
+    "sources": [
+      "University of Saskatchewan Horticulture Extension",
+      "Saskatchewan Ministry of Agriculture",
+      "Boughen Nurseries"
+    ]
+  },
+  {
+    "slug": "aronia-mckenzie",
+    "common_name": "McKenzie Aronia (North Dakota-Bred Black Chokeberry)",
+    "scientific_name": "Aronia melanocarpa 'McKenzie'",
+    "category": "berry",
+    "subcategory": "aronia",
+    "days_to_germination": {
+      "min": 30,
+      "max": 90
+    },
+    "germination_soil_temp_f": {
+      "min": 55,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 730,
+      "max": 1095
+    },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 6
+      },
+      "note": "Plant container-grown or bare-root shrubs in early spring; McKenzie is self-fertile and tolerates wet or heavy soils better than most fruiting shrubs, making it a good choice for low-lying or clay sites."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 7
+    },
+    "spacing_in": {
+      "min": 48,
+      "max": 84
+    },
+    "height_in": {
+      "min": 72,
+      "max": 120
+    },
+    "spread_in": {
+      "min": 60,
+      "max": 96
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "McKenzie is a North Dakota-selected black chokeberry valued for its taller, more vigorous growth and heavy annual fruit set compared to more compact aronia cultivars. The glossy black berries ripen in late summer and are extremely high in anthocyanins, making them popular for juice, syrup, and jam production despite their astringent raw flavor. Plant in full sun for the best fruit yield and fall color; the species tolerates poor, wet, or compacted soils that would stress most other fruiting shrubs, and it needs little more than occasional thinning of old canes to stay productive. Its exceptional cold hardiness suits it well to short-season northern climates.",
+    "sources": [
+      "North Dakota State University Extension",
+      "University of Minnesota Extension",
+      "USDA Agricultural Research Service"
+    ]
+  },
+  {
+    "slug": "robin-hill-serviceberry",
+    "common_name": "Robin Hill Serviceberry (Pink-Blushed Hybrid Serviceberry)",
+    "scientific_name": "Amelanchier x grandiflora 'Robin Hill'",
+    "category": "berry",
+    "subcategory": "serviceberry",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 730,
+      "max": 1460
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": 4
+      },
+      "note": "Plant container or balled-and-burlapped trees in fall or spring in moist, well-drained, slightly acidic soil in full sun to partial shade; Robin Hill is prized for pink-tinged buds that open to soft blush-pink flowers, a rare flower color among serviceberries."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 144,
+      "max": 240
+    },
+    "height_in": {
+      "min": 180,
+      "max": 240
+    },
+    "spread_in": {
+      "min": 144,
+      "max": 192
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Robin Hill is a hybrid serviceberry cultivar distinguished from most white-flowered types by its deep pink flower buds that open to a pale pink that fades toward white as the blooms mature, giving a two-toned effect on the shrub in early spring. Plant in moist, well-drained soil in full sun to light shade for the strongest bloom and best orange-red fall color. Like other Amelanchier x grandiflora selections, it produces sweet, blueberry-like fruit in early summer that draws songbirds quickly, so gardeners hoping to harvest berries should net the plant or watch it closely as fruit ripens. It works well as a specimen tree or in a naturalized shrub border.",
+    "sources": [
+      "Missouri Botanical Garden Plant Finder",
+      "North Carolina State Extension",
+      "American Public Gardens Association"
+    ]
+  },
+  {
+    "slug": "princess-diana-serviceberry",
+    "common_name": "Princess Diana Serviceberry (Compact Hybrid Serviceberry with Brilliant Fall Color)",
+    "scientific_name": "Amelanchier x grandiflora 'Princess Diana'",
+    "category": "berry",
+    "subcategory": "serviceberry",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 730,
+      "max": 1460
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": 4
+      },
+      "note": "Plant container or balled-and-burlapped trees in fall or spring in moist, well-drained, slightly acidic soil in full sun to partial shade; Princess Diana is more compact than many serviceberry cultivars and is noted for good resistance to leaf spot and mildew."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 8
+    },
+    "spacing_in": {
+      "min": 120,
+      "max": 192
+    },
+    "height_in": {
+      "min": 144,
+      "max": 216
+    },
+    "spread_in": {
+      "min": 120,
+      "max": 168
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Princess Diana is a hybrid serviceberry cultivar selected for clean, disease-resistant foliage and some of the most vivid red-orange fall color of any Amelanchier selection, often outperforming Autumn Brilliance in cooler climates. Clusters of white flowers open in early spring before the leaves, followed by small, sweet, blueberry-flavored fruit in early summer that is quickly taken by birds if not netted. Plant in moist, well-drained, slightly acidic soil in full sun to part shade; its somewhat more compact, rounded habit suits smaller landscapes better than larger serviceberry types. It requires minimal pruning beyond removing dead or crossing branches after bloom.",
+    "sources": [
+      "Missouri Botanical Garden Plant Finder",
+      "University of Kentucky Extension",
+      "North Carolina State Extension"
+    ]
+  },
+  {
+    "slug": "cornus-mas-golden-glory",
+    "common_name": "Golden Glory Cornelian Cherry (Upright Heavy-Flowering Cornus mas Cultivar)",
+    "scientific_name": "Cornus mas 'Golden Glory'",
+    "category": "fruit",
+    "subcategory": "fruiting dogwood",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 1095,
+      "max": 1460
+    },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 6
+      },
+      "note": "Plant container-grown or bare-root trees in early spring while dormant; Golden Glory blooms more heavily and at a younger age than seedling cornelian cherry, and its narrower, more upright form suits it well to screening or hedge use."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 8
+    },
+    "spacing_in": {
+      "min": 96,
+      "max": 168
+    },
+    "height_in": {
+      "min": 180,
+      "max": 240
+    },
+    "spread_in": {
+      "min": 120,
+      "max": 168
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Golden Glory is a selection of cornelian cherry prized for its unusually dense, heavy display of small yellow flowers along bare branches in very early spring, well ahead of forsythia, making it one of the first woody plants to bloom each year. Its habit is more upright and uniform than seedling-grown Cornus mas, so it is often planted as a screen or informal hedge as well as a specimen tree. Like other cornelian cherries, it produces oblong, cherry-red, tart edible fruit in summer that can be gathered for syrup, jam, and traditional Eastern European preserves once fully soft-ripe. The tree tolerates a wide range of soils, drought once established, and urban conditions with very few pest or disease problems.",
+    "sources": [
+      "Morton Arboretum",
+      "Cornell University Cooperative Extension",
+      "Missouri Botanical Garden Plant Finder"
+    ]
+  },
+  {
+    "slug": "elderberry-ranch",
+    "common_name": "Ranch Elderberry (Missouri-Bred American Elderberry Cultivar)",
+    "scientific_name": "Sambucus canadensis 'Ranch'",
+    "category": "fruit",
+    "subcategory": "elderberry",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 365,
+      "max": 730
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": -2,
+        "max": 6
+      },
+      "note": "Plant container or bare-root shrubs in spring in moist, fertile soil in full sun; Ranch is self-fertile but produces best when planted with a second elderberry cultivar for cross-pollination and higher yield."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 60,
+      "max": 96
+    },
+    "height_in": {
+      "min": 72,
+      "max": 144
+    },
+    "spread_in": {
+      "min": 60,
+      "max": 96
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Ranch is an American elderberry selection developed through the University of Missouri's elderberry improvement program alongside better-known releases like Bob Gordon and Wyldewood, chosen for productive, well-formed clusters and reliable performance in commercial-scale plantings. Plant in full sun in moist, fertile soil, and keep well watered during establishment since elderberries are shallow-rooted and drought-sensitive. Large, flat-topped white flower clusters appear in early summer and can be harvested for elderflower cordial, followed by heavy clusters of dark purple-black berries in late summer used for syrup, jam, and wine after cooking. Prune out the oldest canes each dormant season to keep the shrub vigorous and productive.",
+    "sources": [
+      "University of Missouri Extension",
+      "Midwest Elderberry Cooperative",
+      "Missouri Botanical Garden Plant Finder"
+    ]
+  },
+  {
+    "slug": "islander-pepper",
+    "common_name": "Islander Pepper (AAS-Winning Lavender-to-Red Ornamental-Edible Bell Pepper)",
+    "scientific_name": "Capsicum annuum 'Islander'",
+    "category": "vegetable",
+    "subcategory": "pepper",
+    "days_to_germination": {
+      "min": 10,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 75,
+      "max": 90
+    },
+    "days_to_maturity": {
+      "min": 70,
+      "max": 85
+    },
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -6
+      },
+      "note": "Start indoors 6-8 weeks before the last frost and transplant into warm soil after danger of frost has passed; Islander's compact habit makes it well suited to containers and patio plantings as well as garden beds."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 15,
+      "max": 18
+    },
+    "height_in": {
+      "min": 14,
+      "max": 20
+    },
+    "spread_in": {
+      "min": 14,
+      "max": 20
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Islander is an All-America Selections-winning bell-type pepper bred for a striking color progression, with fruits maturing from ivory through lavender-purple before finishing orange and finally red, so the plant often carries several colors simultaneously. Start seed indoors in warm conditions and transplant after the soil has warmed, since fruit color development is strongest in full sun and consistent warmth. The compact, well-branched plants were selected as much for garden and container ornamental value as for eating quality, though the blocky fruit is genuinely sweet and crisp at any ripeness stage. Pick continually through the color stages both to enjoy the visual display and to keep the plant setting new fruit.",
+    "sources": [
+      "All-America Selections",
+      "PanAmerican Seed",
+      "University of Georgia Cooperative Extension"
+    ]
+  }
+]

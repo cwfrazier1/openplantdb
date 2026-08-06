@@ -1,0 +1,271 @@
+[
+  {
+    "slug": "common-lilac",
+    "common_name": "Common Lilac (French Lilac)",
+    "scientific_name": "Syringa vulgaris",
+    "category": "flower",
+    "subcategory": "edible-flower shrub",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 730,
+      "max": 1095
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": -2,
+        "max": 2
+      },
+      "note": "Plant bare-root or containerized shrubs in early spring or fall in well-drained, near-neutral soil; lilac needs a period of winter chill to bloom well and may take two to three years to flower from a young plant."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 7
+    },
+    "spacing_in": {
+      "min": 60,
+      "max": 96
+    },
+    "height_in": {
+      "min": 96,
+      "max": 180
+    },
+    "spread_in": {
+      "min": 72,
+      "max": 144
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Site in full sun with good air circulation to reduce powdery mildew, and prune spent flower clusters immediately after bloom since next year's buds set almost right away. The intensely fragrant purple, lavender, pink, or white florets are a classic foraged edible flower, stripped from the woody stem and used fresh in salads and desserts or infused into sugar, syrup, jelly, and shortbread; only the petals are eaten, as the green calyx is bitter. Established plants are long-lived and drought-tolerant once rooted, and old, overgrown shrubs respond well to renewal pruning by removing a third of the oldest canes each year.",
+    "sources": [
+      "Missouri Botanical Garden Plant Finder",
+      "University of Vermont Extension",
+      "North Carolina State University Extension"
+    ]
+  },
+  {
+    "slug": "silverleaf-desmodium",
+    "common_name": "Silverleaf Desmodium (Push-Pull Intercrop Legume)",
+    "scientific_name": "Desmodium uncinatum",
+    "category": "cover-crop",
+    "subcategory": "companion legume",
+    "days_to_germination": {
+      "min": 7,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 90,
+      "max": 120
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 1,
+        "max": 6
+      },
+      "note": "Direct sow or transplant seedlings between maize or sorghum rows after last frost once soil has warmed; establishes best with light scarification of seed and inoculation with rhizobium."
+    },
+    "usda_zones": {
+      "min": 9,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 24
+    },
+    "height_in": {
+      "min": 12,
+      "max": 24
+    },
+    "spread_in": {
+      "min": 24,
+      "max": 48
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Interplant this trailing perennial legume between rows of maize or sorghum as the intercrop half of the East African push-pull system; its roots release allelopathic compounds that suppress the parasitic weed Striga, while its foliage emits volatiles that repel egg-laying stemborer moths, pushing them toward a border trap crop such as Napier grass. It also fixes nitrogen and forms a dense mat that smothers weeds and protects soil from erosion. Cut back periodically to prevent it from overtopping the main crop, and it can be grazed or cut for high-protein fodder once established.",
+    "sources": [
+      "ICIPE (International Centre of Insect Physiology and Ecology) Push-Pull Technology",
+      "Rothamsted Research",
+      "FAO Plant Production and Protection"
+    ]
+  },
+  {
+    "slug": "molasses-grass",
+    "common_name": "Molasses Grass (Push-Pull Trap Grass)",
+    "scientific_name": "Melinis minutiflora",
+    "category": "cover-crop",
+    "subcategory": "companion grass",
+    "days_to_germination": {
+      "min": 10,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 68,
+      "max": 86
+    },
+    "days_to_maturity": {
+      "min": 90,
+      "max": 120
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 1,
+        "max": 6
+      },
+      "note": "Broadcast fine seed onto a well-prepared warm seedbed after last frost, or plant as a border strip around a cereal crop; it establishes slowly and benefits from weed-free conditions in its first weeks."
+    },
+    "usda_zones": {
+      "min": 9,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 6,
+      "max": 12
+    },
+    "height_in": {
+      "min": 24,
+      "max": 48
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant as a border or intercrop around maize and sorghum in a push-pull companion planting system; the sticky, aromatic foliage releases volatile terpenes that repel stemborer moths and confuse aphids, pushing them away from the cash crop while also attracting natural enemies of pests. It is sometimes used as a trap-crop border for ticks in pastures, since the sticky hairs physically entangle and kill tick larvae. Mow or graze periodically to keep it from becoming rank, and note it can naturalize in frost-free climates, so site it where spread is acceptable.",
+    "sources": [
+      "ICIPE Push-Pull Technology",
+      "Tropical Forages (CSIRO/FAO database)",
+      "University of Florida IFAS Extension"
+    ]
+  },
+  {
+    "slug": "chinese-milk-vetch",
+    "common_name": "Chinese Milk Vetch (Genge, Astragalus Green Manure)",
+    "scientific_name": "Astragalus sinicus",
+    "category": "cover-crop",
+    "subcategory": "legume green manure",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 50,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 150,
+      "max": 210
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -6,
+        "max": -2
+      },
+      "note": "Broadcast into rice paddies or garden beds in early fall after the summer crop is harvested; overwinters as a low rosette and resumes vigorous growth and flowering in spring."
+    },
+    "usda_zones": {
+      "min": 6,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 2,
+      "max": 4
+    },
+    "height_in": {
+      "min": 8,
+      "max": 16
+    },
+    "spread_in": {
+      "min": 8,
+      "max": 16
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Broadcast seed onto bare or freshly harvested soil in early fall so seedlings establish before winter dormancy; the plant resumes growth in early spring, producing showy magenta-pink pea flowers that are prized by pollinators and edible young shoots eaten as a spring vegetable in East Asian cuisine. Traditionally undersown in rice paddies across China, Japan, and Korea as a winter green manure, it fixes substantial nitrogen and is turned under or flooded before spring transplanting to build soil fertility without synthetic fertilizer. Terminate by tilling in or flooding at early bloom for maximum green-manure value before the crop turns fibrous.",
+    "sources": [
+      "FAO Plant Production and Protection",
+      "Japan International Research Center for Agricultural Sciences",
+      "Cornell Small Farms Program"
+    ]
+  },
+  {
+    "slug": "sesbania-rostrata",
+    "common_name": "Stem-Nodulating Sesbania (Paddy Green Manure)",
+    "scientific_name": "Sesbania rostrata",
+    "category": "cover-crop",
+    "subcategory": "legume green manure",
+    "days_to_germination": {
+      "min": 3,
+      "max": 7
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 90
+    },
+    "days_to_maturity": {
+      "min": 45,
+      "max": 60
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 8
+      },
+      "note": "Direct sow into wet or flooded paddy soil after the danger of frost, once water and air temperatures are consistently warm; grows fastest under flooded, waterlogged conditions unlike most legumes."
+    },
+    "usda_zones": {
+      "min": 9,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 4,
+      "max": 8
+    },
+    "height_in": {
+      "min": 60,
+      "max": 120
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "high",
+    "directions": "Broadcast or drill seed directly into flooded or saturated paddy soil, where this fast-growing tropical legume thrives unlike most nitrogen fixers. It develops unique nodules along its submerged stem in addition to its roots, hosting rhizobia that keep fixing nitrogen even under waterlogged, low-oxygen conditions that would stop most cover crops. Grown as a pre-rice green manure, it is slashed and incorporated into the mud six to eight weeks after sowing, shortly before rice transplanting, contributing as much nitrogen as a substantial fertilizer application. It tolerates salinity and poor drainage better than most legume cover crops, making it valuable in lowland tropical rice systems.",
+    "sources": [
+      "International Rice Research Institute (IRRI)",
+      "FAO Plant Production and Protection",
+      "Tropical Forages (CSIRO/FAO database)"
+    ]
+  }
+]

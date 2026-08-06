@@ -1,0 +1,552 @@
+[
+  {
+    "slug": "idagold-yellow-mustard",
+    "common_name": "IdaGold Yellow Mustard (High-Glucosinolate Biofumigant Cover Crop)",
+    "scientific_name": "Sinapis alba 'IdaGold'",
+    "category": "cover-crop",
+    "subcategory": "brassica cover crop",
+    "days_to_germination": {
+      "min": 3,
+      "max": 7
+    },
+    "germination_soil_temp_f": {
+      "min": 45,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 45,
+      "max": 65
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -5
+      },
+      "note": "Sow in late summer to early fall for a fall biofumigant cover, or as early as soil can be worked in spring; IdaGold was selected for elevated sinalbin glucosinolate content, giving it strong biofumigant activity against soilborne pathogens, nematodes, and weed seeds when flail-mowed and incorporated at early flowering."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 2,
+      "max": 4
+    },
+    "height_in": {
+      "min": 24,
+      "max": 40
+    },
+    "spread_in": {
+      "min": 10,
+      "max": 18
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Broadcast seed onto a fine, well-drained seedbed at roughly 10-15 lb per acre and rake in lightly, since good soil contact speeds this fast-germinating brassica. IdaGold produces abundant leafy growth and yellow flowers within six to eight weeks, at which point flail mowing and immediately incorporating the tissue releases the greatest concentration of biofumigant compounds. Because it shares pest and disease susceptibilities with other brassicas, avoid planting it directly ahead of or after cabbage-family vegetables in the same bed. It also draws large numbers of pollinators when allowed to flower fully instead of being incorporated early.",
+    "sources": [
+      "USDA SARE — Cover Crop Encyclopedia",
+      "University of Idaho Extension",
+      "Washington State University Extension — Mustard Biofumigant Cover Crops"
+    ]
+  },
+  {
+    "slug": "nemat-arugula-cover-crop",
+    "common_name": "Nemat Arugula (Nematode-Suppressive Rocket Cover Crop)",
+    "scientific_name": "Eruca sativa 'Nemat'",
+    "category": "cover-crop",
+    "subcategory": "brassica cover crop",
+    "days_to_germination": {
+      "min": 3,
+      "max": 7
+    },
+    "germination_soil_temp_f": {
+      "min": 45,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 40,
+      "max": 60
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -5
+      },
+      "note": "Sow in late summer to early fall for a cool-season cover, or in early spring; Nemat was selected for biofumigant and trap-crop activity against root-knot nematodes and is more drought-tolerant than mustard covers, making it useful on lighter, drier soils."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 2,
+      "max": 4
+    },
+    "height_in": {
+      "min": 18,
+      "max": 30
+    },
+    "spread_in": {
+      "min": 8,
+      "max": 14
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Broadcast seed at 8-12 lb per acre onto a raked, well-drained seedbed and keep evenly moist until the fast-germinating seedlings emerge. Nemat's rapid, spicy-scented foliage draws root-knot nematode juveniles into its roots, where the plant acts as a poor host and interrupts the nematode life cycle, while glucosinolates released from mowed, incorporated tissue add further biofumigant suppression of soilborne pathogens. Terminate by mowing and tilling in at early flowering, before pods form, to prevent volunteer reseeding into the following crop. Avoid rotating directly into other brassica vegetables the same season.",
+    "sources": [
+      "USDA SARE — Cover Crop Encyclopedia",
+      "University of California Agriculture and Natural Resources",
+      "Cornell Small Farms Program"
+    ]
+  },
+  {
+    "slug": "purple-bounty-hairy-vetch",
+    "common_name": "Purple Bounty Hairy Vetch (Early-Flowering Winter-Hardy Hairy Vetch)",
+    "scientific_name": "Vicia villosa 'Purple Bounty'",
+    "category": "cover-crop",
+    "subcategory": "legume cover crop",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 45,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 200,
+      "max": 260
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -4
+      },
+      "note": "Drill or broadcast inoculated seed in early to mid-fall so plants establish before hard frost; Purple Bounty flowers roughly two weeks earlier than common hairy vetch, letting growers roll-crimp or mow-terminate it sooner ahead of a warm-season crop."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 8
+    },
+    "spacing_in": {
+      "min": 2,
+      "max": 4
+    },
+    "height_in": {
+      "min": 12,
+      "max": 36
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Drill or broadcast inoculated seed in early to mid-fall so plants establish before hard frost; Purple Bounty was bred at the USDA-ARS Beltsville lab specifically for reliable winter survival as far north as upstate New York, filling a gap left by hairy vetch types adapted mainly to the mid-Atlantic and South. It flowers roughly two weeks earlier than common hairy vetch, which lets growers roll-crimp or mow-terminate it sooner ahead of a warm-season crop without sacrificing nitrogen contribution. Inoculate seed with the appropriate Rhizobium leguminosarum strain before planting, and mix with winter rye or wheat for structural support and easier mechanical termination.",
+    "sources": [
+      "USDA Agricultural Research Service — Purple Bounty Hairy Vetch Release",
+      "SARE — Managing Cover Crops Profitably",
+      "Rodale Institute"
+    ]
+  },
+  {
+    "slug": "osceola-white-clover",
+    "common_name": "Osceola White Clover (Ladino-Type Summer-Persistent White Clover)",
+    "scientific_name": "Trifolium repens 'Osceola'",
+    "category": "cover-crop",
+    "subcategory": "legume cover crop",
+    "days_to_germination": {
+      "min": 3,
+      "max": 7
+    },
+    "germination_soil_temp_f": {
+      "min": 45,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 90
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": 0
+      },
+      "note": "Frost-seed in late winter or broadcast in early spring onto a firm, weed-free seedbed; can also be sown in early fall in warmer zones for winter establishment."
+    },
+    "usda_zones": {
+      "min": 6,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 2,
+      "max": 4
+    },
+    "height_in": {
+      "min": 6,
+      "max": 14
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Broadcast inoculated seed onto a firm, weed-free seedbed and rake lightly, since the tiny seed germinates best within the top quarter inch of soil. Osceola was bred at the University of Florida as an intermediate ladino-type white clover with notably better summer persistence in hot, humid conditions than standard Louisiana-type white clovers, making it well suited to Southeastern gardens and pastures. It spreads by surface stolons to form a dense, mowable, nitrogen-fixing groundcover that tolerates regular foot traffic and light grazing. Mow periodically to keep it from being shaded out by taller companion plants, or let it flower to support pollinators.",
+    "sources": [
+      "University of Florida IFAS Extension",
+      "USDA NRCS Plant Guide — White Clover",
+      "SARE — Managing Cover Crops Profitably"
+    ]
+  },
+  {
+    "slug": "piper-sudangrass",
+    "common_name": "Piper Sudangrass (Fine-Stemmed True Sudangrass Cover Crop)",
+    "scientific_name": "Sorghum bicolor var. sudanense 'Piper'",
+    "category": "cover-crop",
+    "subcategory": "grass cover crop",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 95
+    },
+    "days_to_maturity": {
+      "min": 45,
+      "max": 70
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 1,
+        "max": 10
+      },
+      "note": "Sow after last frost once soil is reliably above 65°F; this true sudangrass establishes and tillers faster than taller sorghum-sudangrass hybrids and regrows vigorously after mowing."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 1,
+      "max": 3
+    },
+    "height_in": {
+      "min": 48,
+      "max": 84
+    },
+    "spread_in": {
+      "min": 4,
+      "max": 8
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Broadcast or drill seed about 1 in deep into warm soil once temperatures are reliably above 65°F, since this true sudangrass (rather than a taller sorghum-sudangrass hybrid) germinates and tillers quickly in summer heat. Piper is valued for fine, quick-curing stems, lower prussic-acid risk than many sudangrass types, and resistance to leaf blight and anthracnose, and it regrows vigorously after mowing or grazing. Mow at 3-4 feet to encourage tillering and additional biomass before a final termination cut, and allow a few weeks for the fibrous residue to break down before direct-seeding a follow-up crop. Its deep, fibrous root system breaks up compacted soil and scavenges leftover nitrogen between summer plantings.",
+    "sources": [
+      "Oregon State University Extension",
+      "SARE — Managing Cover Crops Profitably: Sorghum-Sudangrass",
+      "USDA NRCS Cover Crop Fact Sheet"
+    ]
+  },
+  {
+    "slug": "mancan-buckwheat",
+    "common_name": "Mancan Buckwheat (Large-Seeded Canadian Cover Crop Buckwheat)",
+    "scientific_name": "Fagopyrum esculentum 'Mancan'",
+    "category": "cover-crop",
+    "subcategory": "broadleaf cover crop",
+    "days_to_germination": {
+      "min": 3,
+      "max": 5
+    },
+    "germination_soil_temp_f": {
+      "min": 50,
+      "max": 80
+    },
+    "days_to_maturity": {
+      "min": 30,
+      "max": 45
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 1,
+        "max": 8
+      },
+      "note": "Sow anytime after last frost in warm, frost-free weather; a fast-establishing large-seeded selection that flowers in five to six weeks."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 1,
+      "max": 2
+    },
+    "height_in": {
+      "min": 24,
+      "max": 48
+    },
+    "spread_in": {
+      "min": 4,
+      "max": 8
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Broadcast seed about half an inch deep into warm, workable soil any time after the last frost, since Mancan germinates within days and quickly forms a dense weed-smothering canopy. Developed in Canada, Mancan is a large-seeded selection with bigger leaves and thicker stems than older buckwheat varieties, giving it slightly greater biomass and a more robust stand for soil building and pollinator forage. Mow or till it under at first bloom, roughly five to six weeks after sowing, before seed sets, since buckwheat reseeds readily and can become a volunteer weed if left to mature. Because it breaks down quickly, it can be followed by a fall crop within two to three weeks of incorporation.",
+    "sources": [
+      "Agriculture and Agri-Food Canada",
+      "SARE — Managing Cover Crops Profitably: Buckwheat",
+      "Cornell Small Farms Program"
+    ]
+  },
+  {
+    "slug": "frosty-berseem-clover",
+    "common_name": "Frosty Berseem Clover (Cold-Tolerant Multi-Cut Berseem Clover)",
+    "scientific_name": "Trifolium alexandrinum 'Frosty'",
+    "category": "cover-crop",
+    "subcategory": "legume cover crop",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 45,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 90
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -2
+      },
+      "note": "Sow in late summer to early fall for a winter cover crop; Frosty was bred for markedly better cold tolerance than older berseem types like Bigbee and can survive hard freezes into the mid-South and lower Midwest."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 2,
+      "max": 4
+    },
+    "height_in": {
+      "min": 18,
+      "max": 32
+    },
+    "spread_in": {
+      "min": 8,
+      "max": 14
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Broadcast inoculated seed onto a fine, fertile seedbed in late summer to early fall and rake lightly for good soil contact. Frosty was bred for substantially better cold tolerance than older berseem clover types such as Bigbee, allowing stands to survive hard freezes into the mid-South and lower Midwest without winterkill. Its rapid regrowth after cutting or grazing supports several harvests through fall and spring, and low hard-seed content lets it establish quickly enough to fill in thin or winterkilled patches in an existing stand. Terminate by mowing and incorporating before it sets seed if reseeding is not desired, or allow a final cutting to flower for pollinators.",
+    "sources": [
+      "Mississippi State University Extension",
+      "University of Tennessee Extension",
+      "SARE — Managing Cover Crops Profitably: Berseem Clover"
+    ]
+  },
+  {
+    "slug": "lutana-cicer-milkvetch",
+    "common_name": "Lutana Cicer Milkvetch (Rhizomatous Perennial Range and Cover Crop Legume)",
+    "scientific_name": "Astragalus cicer 'Lutana'",
+    "category": "cover-crop",
+    "subcategory": "perennial legume cover crop",
+    "days_to_germination": {
+      "min": 7,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 55,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 365,
+      "max": 730
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": 0
+      },
+      "note": "Direct-sow scarified, properly inoculated seed in early spring into lean, well-drained, slightly alkaline soil; requires a Rhizobium strain specific to cicer milkvetch, distinct from common pea or bean inoculants."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 8
+    },
+    "spacing_in": {
+      "min": 6,
+      "max": 12
+    },
+    "height_in": {
+      "min": 12,
+      "max": 24
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 36
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Direct-sow scarified, properly inoculated seed into a lean, well-drained, slightly alkaline seedbed in early spring, since cicer milkvetch requires a specific Rhizobium strain rather than the common pea or bean inoculants. Lutana, released from Bridger, Montana plant materials work, was selected for early spring growth, fast recovery after cutting, and vigorous rhizome spread, making it one of the most widely planted cicer milkvetch cultivars for range seeding and long-term cover. Establishment is slow the first year while the plant builds its rhizome system, but stands become dense and highly productive by the second or third season and can persist for a decade or more without reseeding. Because it spreads aggressively underground, give it dedicated space away from less competitive companion species.",
+    "sources": [
+      "USDA Natural Resources Conservation Service",
+      "University of Wyoming Extension",
+      "Montana State University Extension"
+    ]
+  },
+  {
+    "slug": "whistler-austrian-winter-pea",
+    "common_name": "Whistler Austrian Winter Pea (Winter-Hardy Forage and Cover Crop Pea)",
+    "scientific_name": "Pisum sativum subsp. arvense 'Whistler'",
+    "category": "cover-crop",
+    "subcategory": "legume cover crop",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 40,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 150,
+      "max": 210
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -4
+      },
+      "note": "Drill or broadcast inoculated seed 4-8 weeks before the first hard freeze; Whistler showed excellent winter survival in USDA Mid-South trials, extending the reliable range for fall-sown Austrian winter peas."
+    },
+    "usda_zones": {
+      "min": 6,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 1,
+      "max": 2
+    },
+    "height_in": {
+      "min": 18,
+      "max": 36
+    },
+    "spread_in": {
+      "min": 4,
+      "max": 8
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Drill or broadcast inoculated seed about 1 in deep in fall, several weeks before the first hard freeze, so plants establish a strong root system before winter dormancy. Whistler was evaluated and shown to have excellent winter survival at USDA plant materials trials in the Mid-South, making it a reliable fall-sown alternative among Austrian winter pea types for growers north of the traditional winter pea range. Like other winter peas, it fixes nitrogen through root nodules, produces tender edible shoots and tendrils that can be harvested through winter and early spring, and is often seeded with cereal rye or oats for physical support. Terminate by mowing, rolling, or tilling at flowering in spring for maximum nitrogen contribution ahead of a summer crop.",
+    "sources": [
+      "USDA NRCS Plant Materials Center — Coffeeville, Mississippi",
+      "SARE — Managing Cover Crops Profitably: Field Peas",
+      "Oregon State University Extension"
+    ]
+  },
+  {
+    "slug": "impact-forage-collard",
+    "common_name": "Impact Forage Collard (Biofumigant Brassica Cover Crop)",
+    "scientific_name": "Brassica oleracea var. viridis 'Impact'",
+    "category": "cover-crop",
+    "subcategory": "brassica cover crop",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 45,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 90
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {
+        "min": -10,
+        "max": -6
+      },
+      "note": "Sow in late summer to early fall for cool-season biomass and biofumigation; grown for leafy growth and taproot rather than a harvestable head, so thinning is unnecessary."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 6,
+      "max": 12
+    },
+    "height_in": {
+      "min": 24,
+      "max": 48
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Broadcast or drill seed into a fertile, well-drained seedbed in late summer to early fall for a cool-season cover; thinning is unnecessary since the crop is grown for biomass rather than a harvestable head. Impact produces tall, leafy growth and a deep taproot that breaks up compacted soil layers and scavenges nitrogen and other nutrients from below the reach of most cover crop roots. Like other brassica covers, its tissue contains glucosinolates that convert to biofumigant compounds when the plant is flail-mowed and immediately incorporated, helping suppress soilborne pathogens and some plant-parasitic nematodes. It tolerates hard frosts better than many brassica covers, so it can be grazed or left standing later into winter before termination.",
+    "sources": [
+      "SARE — Managing Cover Crops Profitably: Brassicas",
+      "USDA NRCS Cover Crop Fact Sheets",
+      "University of Georgia Extension"
+    ]
+  }
+]
