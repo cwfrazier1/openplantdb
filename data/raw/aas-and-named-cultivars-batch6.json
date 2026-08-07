@@ -1,0 +1,827 @@
+[
+  {
+    "slug": "sunset-torch-tomato",
+    "common_name": "Sunset Torch Tomato (AAS-Winning Striped Flame Grape Tomato)",
+    "scientific_name": "Solanum lycopersicum 'Sunset Torch'",
+    "category": "vegetable",
+    "subcategory": "tomato",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 75
+    },
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -6,
+        "max": -4
+      },
+      "note": "Start indoors 4-6 weeks before last frost; Sunset Torch is a vigorous indeterminate grape tomato that needs a full-length warm season and sturdy staking or caging to support the long fruiting vine."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 24,
+      "max": 36
+    },
+    "height_in": {
+      "min": 60,
+      "max": 84
+    },
+    "spread_in": {
+      "min": 24,
+      "max": 30
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Start seeds indoors and transplant after the last frost into fertile, well-drained soil in full sun, then stake or cage the vine well since it is a tall, vigorous indeterminate grower. Sunset Torch is an AAS National Winner prized for fruit that ripens through a striking flame-like progression — green fruit color up in streaks of gold, orange, and finally red as they mature, so a single cluster shows several colors at once and individual fruits look hand-painted. The oblong grape-type fruits are sweet and crack-resistant, produced in long, heavy clusters over a long harvest window. Pick fruit as it fully colors for the sweetest flavor; because color develops gradually, clusters can be harvested a few fruits at a time as each one finishes ripening. Prune suckers lightly to keep air moving through the dense foliage in humid climates.",
+    "sources": [
+      "All-America Selections — Sunset Torch Tomato winner announcement",
+      "PanAmerican Seed variety documentation",
+      "university extension AAS trial garden notes"
+    ]
+  },
+  {
+    "slug": "bauer-lettuce",
+    "common_name": "Bauer Lettuce (AAS-Winning Heat-Tolerant Oakleaf)",
+    "scientific_name": "Lactuca sativa 'Bauer'",
+    "category": "vegetable",
+    "subcategory": "lettuce",
+    "days_to_germination": {
+      "min": 3,
+      "max": 10
+    },
+    "days_to_maturity": {
+      "min": 45,
+      "max": 55
+    },
+    "germination_soil_temp_f": {
+      "min": 40,
+      "max": 75
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": -2
+      },
+      "note": "Direct sow or transplant 2-4 weeks before last frost for a spring crop; Bauer is a green oakleaf-type lettuce bred for slow bolting and good performance as days warm, extending the spring harvest window further than older oakleaf strains."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 8,
+      "max": 10
+    },
+    "height_in": {
+      "min": 8,
+      "max": 10
+    },
+    "spread_in": {
+      "min": 8,
+      "max": 10
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Sow on the soil surface and press in gently, or start transplants indoors for an earlier crop; germinate at 50-70F. Bauer is an AAS-winning oakleaf lettuce recognized for outstanding heat tolerance and slow bolting compared to older oakleaf varieties, producing a loose, deeply lobed rosette of tender, mild green leaves that hold their quality and texture well into warmer weather. It is well suited to both cut-and-come-again harvesting of outer leaves and a single whole-head cut. In zone 9, use it as an early-spring or fall crop and provide afternoon shade during any unseasonably warm stretch to delay bitterness. Keep soil consistently moist for the sweetest, most tender leaves.",
+    "sources": [
+      "All-America Selections — Bauer Lettuce winner announcement",
+      "seed trade variety documentation",
+      "university extension AAS trial garden notes"
+    ]
+  },
+  {
+    "slug": "konan-kohlrabi",
+    "common_name": "Konan Kohlrabi (AAS-Winning Compact Globe Kohlrabi)",
+    "scientific_name": "Brassica oleracea var. gongylodes 'Konan'",
+    "category": "vegetable",
+    "subcategory": "kohlrabi",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 50,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 45,
+      "max": 55
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": -2
+      },
+      "note": "Direct sow or transplant 2-4 weeks before last frost; Konan is a compact, fast-maturing globe kohlrabi bred to stay tender and crack-free even when bulbs size up, and it grows well in containers as well as open beds."
+    },
+    "usda_zones": {
+      "min": 2,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 6,
+      "max": 9
+    },
+    "height_in": {
+      "min": 10,
+      "max": 14
+    },
+    "spread_in": {
+      "min": 8,
+      "max": 10
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Direct sow, or start transplants and set out 2-4 weeks before last frost, into fertile, well-drained soil in full sun. Konan is an AAS-winning kohlrabi bred for a compact plant habit and smooth, uniform, pale-green globes that stay crisp, sweet, and free of the woodiness or cracking that plagues older kohlrabi varieties even at a larger harvest size, giving gardeners a wider window to pick. The neat, upright plant fits well in small beds, raised beds, and large containers. Harvest bulbs when they reach 2-3 inches across for the best texture; peel the tough outer skin before eating raw in slaws or cooked. As a cool-season crop it can bolt and turn woody in summer heat, so grow it as an early spring or fall crop in zone 9.",
+    "sources": [
+      "All-America Selections — Konan Kohlrabi winner announcement",
+      "seed trade variety documentation",
+      "university extension AAS trial garden notes"
+    ]
+  },
+  {
+    "slug": "goldilocks-acorn-squash",
+    "common_name": "Goldilocks Acorn Squash (AAS-Winning Compact Bush Acorn Squash)",
+    "scientific_name": "Cucurbita pepo 'Goldilocks'",
+    "category": "vegetable",
+    "subcategory": "winter squash",
+    "days_to_germination": {
+      "min": 7,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 95
+    },
+    "days_to_maturity": {
+      "min": 80,
+      "max": 90
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 1,
+        "max": 3
+      },
+      "note": "Direct sow after all danger of frost has passed and soil has warmed; Goldilocks is a semi-bush acorn squash bred for a much more compact vine than traditional sprawling acorn types, so it fits well in smaller vegetable gardens and raised beds."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 24,
+      "max": 36
+    },
+    "height_in": {
+      "min": 12,
+      "max": 18
+    },
+    "spread_in": {
+      "min": 36,
+      "max": 48
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Direct sow after the soil has warmed into fertile, well-drained soil in full sun, spacing plants generously even though the semi-bush habit takes noticeably less room than traditional sprawling acorn squash vines. Goldilocks is an AAS-winning acorn squash producing golden-orange, deeply ribbed fruit with sweet, fine-textured, deep-orange flesh, on a plant compact enough for smaller gardens while still yielding a full crop of 4-6 fruits per plant. Fruit is ready to harvest when the rind hardens and the color deepens to a solid gold-orange, typically as the vine begins to decline in late summer or fall; cure harvested squash in a warm, dry spot for a week or two before storing to improve flavor and shelf life. Watch for squash vine borer and squash bugs, which are common problems for all Cucurbita pepo squash in the Gulf South.",
+    "sources": [
+      "All-America Selections — Goldilocks Acorn Squash winner announcement",
+      "seed trade variety documentation",
+      "university extension AAS trial garden notes"
+    ]
+  },
+  {
+    "slug": "just-sweet-pepper",
+    "common_name": "Just Sweet Pepper (AAS-Winning Compact Snacking Pepper)",
+    "scientific_name": "Capsicum annuum 'Just Sweet'",
+    "category": "vegetable",
+    "subcategory": "sweet pepper",
+    "days_to_germination": {
+      "min": 10,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 75,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 75
+    },
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -6
+      },
+      "note": "Start indoors 6-8 weeks before last frost at warm soil temperature; Just Sweet is a compact, heavily fruiting snacking pepper bred to hold up well in containers as well as garden beds."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 14,
+      "max": 20
+    },
+    "spread_in": {
+      "min": 14,
+      "max": 18
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Start seeds indoors at warm soil temperature and transplant after the last frost into fertile, well-drained soil in full sun. Just Sweet is an AAS-winning snack-type sweet pepper bred for a compact, well-branched plant that produces heavy clusters of small, elongated, bell-flavored fruits that ripen quickly from green to bright red and are sweet and crunchy enough to eat straight off the plant. The small, tidy plant size makes it an excellent choice for large containers and patio growing, not just garden beds. Pick fruit continuously through the season, either green or fully ripe red, to keep the plant producing; the earlier and more often fruit is harvested, the more the plant sets. Feed lightly through the season, since heavy nitrogen encourages foliage over fruit.",
+    "sources": [
+      "All-America Selections — Just Sweet Pepper winner announcement",
+      "seed trade variety documentation",
+      "university extension AAS trial garden notes"
+    ]
+  },
+  {
+    "slug": "artwork-broccoli",
+    "common_name": "Artwork Broccoli (AAS-Winning Heat-Tolerant Stem Broccoli)",
+    "scientific_name": "Brassica oleracea var. italica 'Artwork'",
+    "category": "vegetable",
+    "subcategory": "broccoli",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 45,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 100
+    },
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -6,
+        "max": -4
+      },
+      "note": "Start indoors 4-6 weeks before last frost for a spring crop, or in mid- to late summer for a fall crop; Artwork is a stem-type (broccolini-style) broccoli that yields a small central head followed by a long, extended harvest of tender side shoots rather than one large main head."
+    },
+    "usda_zones": {
+      "min": 2,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 18,
+      "max": 24
+    },
+    "spread_in": {
+      "min": 14,
+      "max": 18
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Start transplants and set out in early spring or midsummer into fertile, well-drained soil in full sun. Artwork is an AAS-winning stem broccoli, closer in style to broccolini than a traditional single-head broccoli, forming a modest central head that is quickly followed by a long, heavy, extended flush of slender, tender side shoots that can be harvested continuously for weeks — total yield per plant far exceeds a standard main-head variety. It is notably more heat tolerant than most broccoli, holding quality and continuing to produce shoots even as warm weather sets in, which makes it a good choice for stretching the harvest later into a Gulf South spring than most broccoli allows. Harvest shoots with 4-6 inches of stem while the small flower buds are still tight; regular picking encourages more side shoots to form. Keep soil consistently moist and side-dress with compost partway through the harvest period to sustain the long production window.",
+    "sources": [
+      "All-America Selections — Artwork Broccoli winner announcement",
+      "seed trade variety documentation",
+      "university extension AAS trial garden notes"
+    ]
+  },
+  {
+    "slug": "escamillo-pepper",
+    "common_name": "Escamillo Pepper (AAS-Winning Golden Italian Frying Pepper)",
+    "scientific_name": "Capsicum annuum 'Escamillo'",
+    "category": "vegetable",
+    "subcategory": "sweet pepper",
+    "days_to_germination": {
+      "min": 10,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 75,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 75
+    },
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -6
+      },
+      "note": "Start indoors 6-8 weeks before last frost at warm soil temperature; Escamillo is an early-maturing Corno di Toro-type Italian frying pepper that colors up to gold well before most sweet peppers finish ripening."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 14,
+      "max": 18
+    },
+    "height_in": {
+      "min": 20,
+      "max": 28
+    },
+    "spread_in": {
+      "min": 16,
+      "max": 20
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Start seeds indoors at warm soil temperature and transplant after the last frost into fertile, well-drained soil in full sun. Escamillo is an AAS-winning Italian frying-type sweet pepper producing long, tapered, elegantly curved fruits that ripen unusually early from green to a rich golden yellow, giving a full harvest of fully ripe, sweetest-stage peppers well before many other sweet pepper varieties finish coloring. Fruits are thin-walled and sweet, excellent sautéed or grilled as well as eaten fresh, and the plant is productive and reasonably compact for a frying-pepper type. Stake plants loosely if fruit load bends the branches, and harvest continuously once fruits reach full gold color to keep new peppers setting.",
+    "sources": [
+      "All-America Selections — Escamillo Pepper winner announcement",
+      "seed trade variety documentation",
+      "university extension AAS trial garden notes"
+    ]
+  },
+  {
+    "slug": "cornito-giallo-pepper",
+    "common_name": "Cornito Giallo Pepper (AAS-Winning Compact Yellow Mini Frying Pepper)",
+    "scientific_name": "Capsicum annuum 'Cornito Giallo'",
+    "category": "vegetable",
+    "subcategory": "sweet pepper",
+    "days_to_germination": {
+      "min": 10,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 75,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 75
+    },
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -6
+      },
+      "note": "Start indoors 6-8 weeks before last frost at warm soil temperature; Cornito Giallo is a compact, container-friendly mini Italian frying pepper bred for heavy yields of small, sweet, thin-walled yellow fruit on a smaller plant than standard Corno di Toro types."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 16
+    },
+    "height_in": {
+      "min": 14,
+      "max": 20
+    },
+    "spread_in": {
+      "min": 14,
+      "max": 18
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Start seeds indoors at warm soil temperature and transplant after the last frost into fertile, well-drained soil in full sun, or grow in a large container on a sunny patio. Cornito Giallo is an AAS-winning miniature Italian frying pepper, a scaled-down version of the classic Corno di Toro type, producing an abundance of small, slender, sweet yellow fruits on a compact plant well suited to container culture. Fruits can be picked young and green-yellow for a milder flavor or left to fully color for peak sweetness; the thin walls cook down quickly when sautéed whole. The heavy, continuous fruit set on a relatively small plant makes it one of the more productive choices for patio and small-space pepper growing. Harvest regularly to keep new flowers and fruit coming.",
+    "sources": [
+      "All-America Selections — Cornito Giallo Pepper winner announcement",
+      "seed trade variety documentation",
+      "university extension AAS trial garden notes"
+    ]
+  },
+  {
+    "slug": "pick-a-bushel-cucumber",
+    "common_name": "Pick a Bushel Cucumber (AAS-Winning Compact Bush Pickling Cucumber)",
+    "scientific_name": "Cucumis sativus 'Pick a Bushel'",
+    "category": "vegetable",
+    "subcategory": "pickling cucumber",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 95
+    },
+    "days_to_maturity": {
+      "min": 50,
+      "max": 55
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 1,
+        "max": 3
+      },
+      "note": "Direct sow after all danger of frost has passed and soil has warmed; Pick a Bushel is a compact, semi-bush pickling cucumber bred for container and small-space growing, needing far less room than vining pickling types."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 12,
+      "max": 18
+    },
+    "spread_in": {
+      "min": 24,
+      "max": 30
+    },
+    "sun": "full",
+    "water": "high",
+    "directions": "Direct sow after the soil has warmed into fertile, well-drained soil in full sun, or grow in a large container with a small trellis. Pick a Bushel is an AAS-winning pickling cucumber bred for a genuinely compact semi-bush habit, producing full-size yields of crisp, uniform, 3-5 inch pickling cukes on a plant small enough for patios, raised beds, and tight garden spaces where a standard vining pickler would sprawl out of bounds. It bears heavily and continuously over a relatively short, concentrated season, ideal for gardeners who want a big pickling harvest all at once for a canning batch. Pick fruit at the size wanted for the pickle style being made — small gherkins to full-size dills — and harvest every day or two once fruiting begins, since oversized cucumbers slow down further production. Keep soil evenly moist, especially as fruit is sizing, to avoid bitter or misshapen cucumbers.",
+    "sources": [
+      "All-America Selections — Pick a Bushel Cucumber winner announcement",
+      "seed trade variety documentation",
+      "university extension AAS trial garden notes"
+    ]
+  },
+  {
+    "slug": "flame-star-cauliflower",
+    "common_name": "Flame Star Cauliflower (Heat-Tolerant Orange Cauliflower)",
+    "scientific_name": "Brassica oleracea var. botrytis 'Flame Star'",
+    "category": "vegetable",
+    "subcategory": "cauliflower",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 45,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 75
+    },
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -6,
+        "max": -4
+      },
+      "note": "Start indoors 4-6 weeks before last frost for a spring crop, or in mid- to late summer for a fall crop; Flame Star is an orange-curded cauliflower that holds its color and forms well-domed heads under warmer conditions than most cauliflower tolerates."
+    },
+    "usda_zones": {
+      "min": 2,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 18,
+      "max": 24
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Start transplants and set out in early spring or midsummer into fertile, well-drained soil in full sun. Flame Star produces smooth, well-domed heads in a vivid, natural, sunny orange, colored throughout the curd (not just the surface) by a higher-than-normal beta-carotene content, so the color holds through cooking rather than fading like some orange cauliflower selections. It is notably more heat tolerant during head formation than white cauliflower varieties, making it a more forgiving choice for a Gulf South spring crop that runs into early-summer warmth before harvest. Blanching is unnecessary since sun exposure does not bleach or damage the orange curd the way it can discolor white types. Harvest heads while curds are still tight and firm, before the individual florets begin to separate and loosen.",
+    "sources": [
+      "Sakata Seed variety documentation",
+      "Johnny's Selected Seeds — Flame Star Cauliflower variety notes",
+      "university extension trial garden notes"
+    ]
+  },
+  {
+    "slug": "tiara-cabbage",
+    "common_name": "Tiara Cabbage (Early Mini Green Cabbage)",
+    "scientific_name": "Brassica oleracea var. capitata 'Tiara'",
+    "category": "vegetable",
+    "subcategory": "cabbage",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 45,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 45,
+      "max": 55
+    },
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -6,
+        "max": -4
+      },
+      "note": "Start indoors 4-6 weeks before last frost for a spring crop, or in late summer for a fall crop; Tiara is a fast-maturing, small-headed cabbage bred for close spacing and high-density planting, giving a much larger yield per bed than standard full-size cabbage."
+    },
+    "usda_zones": {
+      "min": 2,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 10,
+      "max": 12
+    },
+    "height_in": {
+      "min": 8,
+      "max": 10
+    },
+    "spread_in": {
+      "min": 10,
+      "max": 12
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Start transplants and set out in early spring or late summer into fertile, well-drained soil in full sun, spacing plants closely since Tiara is bred specifically for high-density planting. It forms small, dense, round green heads of about 1-2 pounds in a notably short season, one of the fastest-maturing cabbages commonly grown, which lets gardeners fit in an extra planting or squeeze a crop into a narrow spring or fall window between other vegetables. The compact head size also suits smaller households better than a large storage cabbage does. Harvest as soon as heads feel firm and solid, since fast-maturing types can split if left in the ground too long after reaching full size. Watch for cabbage worms and aphids, common pests on all brassicas in the Gulf South.",
+    "sources": [
+      "Johnny's Selected Seeds — Tiara Cabbage variety notes",
+      "seed trade variety documentation",
+      "university extension trial garden notes"
+    ]
+  },
+  {
+    "slug": "devotion-basil",
+    "common_name": "Devotion Basil (Downy Mildew-Tolerant Genovese Basil)",
+    "scientific_name": "Ocimum basilicum 'Devotion'",
+    "category": "herb",
+    "subcategory": "culinary annual",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 75
+    },
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -6,
+        "max": -4
+      },
+      "note": "Start indoors 4-6 weeks before last frost at warm soil temperature; Devotion is a Rutgers-bred Genovese-type basil selected for strong tolerance of downy mildew, the fungal disease that quickly ruins basil plantings in the humid Gulf South."
+    },
+    "usda_zones": {
+      "min": 2,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 10,
+      "max": 12
+    },
+    "height_in": {
+      "min": 18,
+      "max": 24
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 16
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Start seeds indoors at warm soil temperature and transplant after the last frost into fertile, well-drained soil in full sun. Devotion is one of the Rutgers University downy-mildew-tolerant Genovese basil releases, bred specifically to resist Peronospora belbahrii, the airborne fungal pathogen that causes basil downy mildew and can wipe out an entire planting of standard Genovese basil within days during warm, humid, or rainy weather — a near-annual problem for basil grown along the Gulf Coast. It retains the classic large, glossy, sweetly aromatic Genovese leaf and flavor prized for pesto and Italian cooking, without sacrificing disease resistance for flavor. Pinch growing tips regularly and remove flower spikes as they form to keep the plant bushy and productive all season; harvest leaves anytime once the plant is established, picking in the morning for the best essential oil content.",
+    "sources": [
+      "Rutgers University — Downy Mildew-Resistant Basil Breeding Program",
+      "seed trade variety documentation",
+      "university extension trial garden notes"
+    ]
+  },
+  {
+    "slug": "suntastic-sunflower",
+    "common_name": "Suntastic Yellow with Black Center Sunflower (AAS-Winning Dwarf Branching Sunflower)",
+    "scientific_name": "Helianthus annuus 'Suntastic Yellow with Black Center'",
+    "category": "flower",
+    "subcategory": "dwarf branching annual",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 50,
+      "max": 65
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Direct sow after the last frost once soil has warmed; Suntastic is a dwarf, heavily branching sunflower bred for container and bedding-plant use, producing many blooms per plant instead of a single large flower head."
+    },
+    "usda_zones": {
+      "min": 2,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 10,
+      "max": 14
+    },
+    "height_in": {
+      "min": 14,
+      "max": 20
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 16
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Direct sow after the last frost into well-drained soil in full sun, or grow in containers on a sunny patio. Suntastic is an AAS-winning dwarf bedding sunflower, bred specifically to branch heavily from a compact base instead of growing a single tall stalk, so each small plant produces a steady succession of classic bright-yellow, black-centered flowers over many weeks rather than one big bloom. Its short, sturdy stature holds up well without staking, in beds, borders, and pots alike, unlike full-size sunflower varieties. Deadhead spent flowers to encourage continued branching and bloom. Because it flowers on new growth continuously, it performs as a long-season bedding plant rather than a single-harvest cut flower, though individual stems can still be cut for small arrangements.",
+    "sources": [
+      "All-America Selections — Suntastic Yellow with Black Center Sunflower winner announcement",
+      "seed trade variety documentation",
+      "university extension AAS trial garden notes"
+    ]
+  },
+  {
+    "slug": "chapel-hill-gold-lantana",
+    "common_name": "Chapel Hill Gold Lantana (Cold-Hardy Sterile Gold Lantana)",
+    "scientific_name": "Lantana camara 'Chapel Hill Gold'",
+    "category": "flower",
+    "subcategory": "cold-hardy landscape shrub",
+    "days_to_germination": {
+      "min": 21,
+      "max": 45
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 90,
+      "max": 120
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Set out nursery transplants after the last frost into well-drained soil in full sun; Chapel Hill Gold is a North Carolina State University release bred for cold hardiness well beyond most lantana as well as sterility, so it does not set the viable seed that lets ordinary lantana escape into natural areas."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 30,
+      "max": 42
+    },
+    "height_in": {
+      "min": 24,
+      "max": 36
+    },
+    "spread_in": {
+      "min": 36,
+      "max": 48
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant nursery starts after the last frost in well-drained soil in full sun; Chapel Hill Gold is a landscape lantana bred at North Carolina State University for two traits at once — root hardiness well into zone 7b, letting it return reliably as a herbaceous perennial in much colder winters than most lantana can survive, and functional sterility, meaning it produces few to no viable seeds and so does not spread into surrounding natural areas the way common seed-producing lantana cultivars can. It covers itself from late spring through frost in rounded clusters of clear golden-yellow flowers that are a magnet for butterflies and other pollinators. Once established it is highly drought tolerant and needs little supplemental water. In zone 9, expect the top growth to die back to the ground after a hard freeze; cut the dead stems back close to the ground in late winter and new growth will resprout from the crown in spring. Avoid overwatering and rich soil, both of which encourage leggy growth at the expense of flowering.",
+    "sources": [
+      "North Carolina State University — Chapel Hill Gold Lantana release documentation",
+      "North Carolina State Extension — Plants Database",
+      "university extension trial garden notes"
+    ]
+  },
+  {
+    "slug": "amling-pecan",
+    "common_name": "Amling Pecan (Scab-Resistant Type I Pecan)",
+    "scientific_name": "Carya illinoinensis 'Amling'",
+    "category": "fruit",
+    "subcategory": "nut tree",
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": null,
+      "max": null
+    },
+    "days_to_maturity": {
+      "min": 1460,
+      "max": 2555
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": 4
+      },
+      "note": "Plant a dormant bare-root or container-grown grafted tree in late fall through winter in deep, well-drained soil in full sun; Amling is a Type I (protandrous) pollinator, so plant it alongside a Type II cultivar such as Elliott or Sumner for reliable cross-pollination and a full nut set."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 480,
+      "max": 720
+    },
+    "height_in": {
+      "min": 480,
+      "max": 900
+    },
+    "spread_in": {
+      "min": 480,
+      "max": 720
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant a grafted tree in deep, fertile, well-drained soil in full sun, giving it plenty of room to reach its mature size and pairing it with a Type II pollinator cultivar for a good nut set. Amling is a Gulf South pecan cultivar valued for strong resistance to pecan scab, the humid-climate fungal disease that is the single biggest challenge to growing pecans without a heavy fungicide spray program in the Southeast, making it a lower-maintenance choice than older scab-susceptible standards. It bears a good crop of medium-sized, well-filled nuts with good kernel quality on a vigorous, productive tree. Young trees take several years to bear their first nuts and reach full production only after ten years or more; water deeply and regularly during establishment and through nut fill in late summer, since drought stress during fill reduces kernel quality. Provide deep, infrequent irrigation rather than frequent shallow watering to encourage a deep root system.",
+    "sources": [
+      "University of Georgia Extension — Pecan Cultivar Recommendations",
+      "Louisiana State University AgCenter — Pecan Variety Guide",
+      "Alabama Cooperative Extension System"
+    ]
+  }
+]

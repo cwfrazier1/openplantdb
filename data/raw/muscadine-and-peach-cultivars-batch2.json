@@ -1,0 +1,222 @@
+[
+  {
+    "slug": "gulfcrimson-peach",
+    "common_name": "Gulfcrimson Peach (Low-Chill Gulf South Freestone Peach)",
+    "scientific_name": "Prunus persica 'Gulfcrimson'",
+    "category": "fruit",
+    "subcategory": "stone fruit",
+    "days_to_germination": {
+      "min": 90,
+      "max": 120
+    },
+    "germination_soil_temp_f": {
+      "min": 50,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 1095,
+      "max": 1460
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -4
+      },
+      "note": "Plant bare-root trees in January-February while dormant; Gulfcrimson is a low-chill freestone peach in the same 'Gulf' breeding lineage as Gulfking and Gulfcrest, needing only about 400 chill hours, so it sets a reliable crop in the mild-winter Gulf South where standard peach varieties often fail. Self-fertile, no pollinizer required."
+    },
+    "usda_zones": {
+      "min": 8,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 180,
+      "max": 240
+    },
+    "height_in": {
+      "min": 120,
+      "max": 180
+    },
+    "spread_in": {
+      "min": 144,
+      "max": 180
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in well-drained, slightly acidic loam in full sun; Gulfcrimson is a low-chill freestone peach bred for the same mild-winter Gulf Coast conditions as its better-known siblings Gulfking and Gulfcrest, resistant to bacterial leaf spot, a disease that can defoliate susceptible peach varieties in the humid South. Fruit is medium-to-large, firm, and yellow-fleshed with attractive crimson-blushed skin and good classic peach flavor, ripening in late spring. Trees are vigorous and self-fertile, setting a full crop without a second variety nearby. Thin fruit to 6-8 inches apart in spring to size the remaining crop properly, and prune to an open-center vase shape after leaf drop each winter to maintain good light penetration and airflow, which helps control brown rot and other fungal problems common in humid Gulf Coast summers.",
+    "sources": [
+      "Texas A&M AgriLife Extension — Peach Variety Selection for Texas and the Gulf Coast",
+      "LSU AgCenter — Low-Chill Peach Variety Recommendations for the Gulf South",
+      "university extension trial garden notes"
+    ]
+  },
+  {
+    "slug": "ufone-peach",
+    "common_name": "UFOne Peach (University of Florida Ultra-Low-Chill Peach)",
+    "scientific_name": "Prunus persica 'UFOne'",
+    "category": "fruit",
+    "subcategory": "stone fruit",
+    "days_to_germination": {
+      "min": 90,
+      "max": 120
+    },
+    "germination_soil_temp_f": {
+      "min": 50,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 1095,
+      "max": 1460
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -4
+      },
+      "note": "Plant bare-root or container trees in winter while dormant; UFOne is a University of Florida release with an ultra-low chilling requirement of roughly 100-150 hours, allowing peaches to be grown successfully as far south as central and southern Florida, well beyond the range of standard peach varieties. Self-fertile, no pollinizer required."
+    },
+    "usda_zones": {
+      "min": 8,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 180,
+      "max": 240
+    },
+    "height_in": {
+      "min": 120,
+      "max": 180
+    },
+    "spread_in": {
+      "min": 144,
+      "max": 180
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in well-drained, slightly acidic loam in full sun; UFOne is part of the University of Florida's ultra-low-chill peach breeding program, developed to extend peach growing well south of where the fruit was traditionally thought possible, into areas that see only 100-150 hours of winter chill each year — far too little for standard or even most other Gulf South low-chill varieties. Fruit is medium-sized, yellow-fleshed, and freestone with good flavor for such an early-ripening, low-chill selection, typically ready in early spring. Because it flowers so early, a late cold snap can occasionally damage blooms even in mild climates, so a somewhat sheltered planting site helps protect the crop. Thin fruit to 6-8 inches apart once set, and prune to an open-center vase shape after harvest to maintain airflow and light penetration through the humid growing season.",
+    "sources": [
+      "University of Florida IFAS Extension — Low-Chill Peach and Nectarine Cultivars",
+      "University of Florida Stone Fruit Breeding Program release documentation",
+      "university extension trial garden notes"
+    ]
+  },
+  {
+    "slug": "crimsoncrisp-apple",
+    "common_name": "CrimsonCrisp Apple (Scab-Immune Crisp Red Apple)",
+    "scientific_name": "Malus domestica 'CrimsonCrisp'",
+    "category": "fruit",
+    "subcategory": "tree fruit",
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": null,
+      "max": null
+    },
+    "days_to_maturity": {
+      "min": 730,
+      "max": 1460
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": -6,
+        "max": -2
+      },
+      "note": "Plant bare-root trees while dormant in late winter in well-drained soil in full sun with a compatible pollinator; CrimsonCrisp is from the Purdue-Rutgers-Illinois disease-resistance breeding program and, like its stablemates GoldRush and Enterprise, needs little or no fungicide spraying in most home gardens."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 8
+    },
+    "spacing_in": {
+      "min": 120,
+      "max": 180
+    },
+    "height_in": {
+      "min": 144,
+      "max": 240
+    },
+    "spread_in": {
+      "min": 120,
+      "max": 180
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in well-drained soil in full sun with a compatible pollinator. CrimsonCrisp comes from the same Purdue-Rutgers-Illinois breeding program that produced GoldRush and Enterprise, carrying genetic immunity to apple scab along with resistance to cedar-apple rust and fire blight, making it a strong low-spray choice for home orchards in humid climates where scab is a constant pressure on susceptible varieties. The medium-size fruit has deep crimson-red skin over crisp, dense, juicy flesh with a well-balanced sweet-tart flavor, ripening in early-to-mid fall — earlier than the late-season GoldRush and Enterprise, giving a staggered harvest when planted alongside them. It stores reasonably well under cool conditions, though not as long as the latest-ripening disease-resistant selections. Thin fruit clusters to one apple per cluster in late spring to improve size and reduce limb breakage.",
+    "sources": [
+      "Purdue University Cooperative Extension",
+      "Cornell Cooperative Extension — Apple Varieties",
+      "University of Illinois Extension"
+    ]
+  },
+  {
+    "slug": "pixie-crunch-apple",
+    "common_name": "Pixie Crunch Apple (Compact Disease-Resistant Apple)",
+    "scientific_name": "Malus domestica 'Co-op 33' (Pixie Crunch)",
+    "category": "fruit",
+    "subcategory": "tree fruit",
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": null,
+      "max": null
+    },
+    "days_to_maturity": {
+      "min": 730,
+      "max": 1460
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": -6,
+        "max": -2
+      },
+      "note": "Plant bare-root trees while dormant in late winter in well-drained soil in full sun with a compatible pollinator; Pixie Crunch is from the Purdue-Rutgers-Illinois disease-resistance breeding program and has a naturally more compact tree habit than most of its scab-resistant stablemates, making it easier to fit into a smaller home orchard."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 8
+    },
+    "spacing_in": {
+      "min": 96,
+      "max": 144
+    },
+    "height_in": {
+      "min": 120,
+      "max": 180
+    },
+    "spread_in": {
+      "min": 96,
+      "max": 144
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in well-drained soil in full sun with a compatible pollinator. Pixie Crunch, also released as Co-op 33 from the Purdue-Rutgers-Illinois disease-resistance breeding program, combines genetic immunity to apple scab with a naturally denser, more compact growth habit than most other apple varieties, making it a good fit for smaller home orchards or higher-density plantings where a full-size tree would be too much. The fruit is medium-size, crisp, and juicy with a lively sweet-tart flavor and good storage quality, ripening in the fall alongside other mid-season scab-resistant varieties. Because the tree naturally stays more compact, it requires somewhat less aggressive pruning to control size than typical apple varieties, though annual pruning to maintain an open canopy and good light penetration is still recommended for fruit quality and disease control in humid climates.",
+    "sources": [
+      "Purdue University Cooperative Extension",
+      "Cornell Cooperative Extension — Apple Varieties",
+      "University of Illinois Extension"
+    ]
+  }
+]
