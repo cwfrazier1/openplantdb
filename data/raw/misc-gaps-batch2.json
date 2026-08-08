@@ -1,0 +1,83 @@
+[
+  {
+    "slug": "bigflower-vetch",
+    "common_name": "Bigflower Vetch (Showy-Flowered Winter Cover Crop Legume)",
+    "scientific_name": "Vicia grandiflora",
+    "category": "cover-crop",
+    "subcategory": "legume cover crop",
+    "days_to_germination": {"min": 7, "max": 14},
+    "germination_soil_temp_f": {"min": 45, "max": 70},
+    "days_to_maturity": {"min": 120, "max": 180},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {"min": -8, "max": -4},
+      "note": "Sow in fall 4–8 weeks before first frost; in zone 8–9 sow October–November for growth through the mild winter and a spring flower display before termination."
+    },
+    "usda_zones": {"min": 5, "max": 9},
+    "spacing_in": {"min": 2, "max": 4},
+    "height_in": {"min": 12, "max": 24},
+    "spread_in": {"min": 12, "max": 18},
+    "sun": "full",
+    "water": "low",
+    "directions": "Broadcast seed at 2–3 lbs per 1,000 square feet and lightly rake or roll in; bigflower vetch is a winter annual legume cover crop valued for both its nitrogen-fixing ability and its unusually showy, pale-yellow-and-purple flowers, larger and more ornamental than most other cover crop vetches, which makes it a favorite for early-season pollinator forage in orchard alleys and fallow beds. Like other vetches, it fixes nitrogen through root nodules when inoculated with the appropriate Rhizobium before seeding, and its low, sprawling to lightly climbing growth forms a dense, weed-suppressing mat through winter. Terminate by mowing or tillage before summer vegetable planting; the nitrogen-rich biomass breaks down quickly in warm soil to feed the following crop.",
+    "sources": ["USDA SARE — Cover Crop reference", "University of California Cooperative Extension", "general horticultural reference"]
+  },
+  {
+    "slug": "horse-apple",
+    "common_name": "Horse Apple (Large Southern Heirloom Cooking Apple)",
+    "scientific_name": "Malus domestica 'Horse'",
+    "category": "fruit",
+    "subcategory": "pome fruit",
+    "days_to_germination": {"min": 60, "max": 120},
+    "germination_soil_temp_f": {"min": 50, "max": 70},
+    "days_to_maturity": {"min": 1095, "max": 1825},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": -8, "max": -4},
+      "note": "Plant bare-root or container trees in late winter to spring in well-drained, fertile soil in full sun; Horse Apple has one of the lowest chill requirements of the old Southern apples and sets fruit reliably in warmer zone 8–9 winters where many Northern apple cultivars fail to break dormancy properly."
+    },
+    "usda_zones": {"min": 6, "max": 9},
+    "spacing_in": {"min": 180, "max": 240},
+    "height_in": {"min": 180, "max": 300},
+    "spread_in": {"min": 180, "max": 240},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in well-drained, fertile, slightly acidic soil in full sun, and plant a second apple cultivar nearby for pollination, since Horse Apple is not reliably self-fruitful. A large, old Southern heirloom of uncertain origin, Horse Apple produces big, greenish-yellow fruit with a coarse, tart flesh best suited to cooking, drying, and cider rather than fresh eating out of hand — its name reflects both its large size and its traditional use as livestock and orchard fruit as much as table fruit. Its low chill requirement and long history of successful cultivation across the Deep South make it one of the more reliable heirloom apples for Gulf Coast gardens, where many higher-chill Northern cultivars struggle to fruit consistently. Fruit ripens in mid to late summer and does not store especially well, so plan to process it into sauce, butter, or cider soon after harvest.",
+    "sources": ["Southern Exposure Seed Exchange", "Slow Food USA Ark of Taste", "general horticultural reference"]
+  },
+  {
+    "slug": "carters-blue-apple",
+    "common_name": "Carter's Blue Apple (Alabama Heirloom Purple-Blushed Apple)",
+    "scientific_name": "Malus domestica 'Carter's Blue'",
+    "category": "fruit",
+    "subcategory": "pome fruit",
+    "days_to_germination": {"min": 60, "max": 120},
+    "germination_soil_temp_f": {"min": 50, "max": 70},
+    "days_to_maturity": {"min": 1095, "max": 1825},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": -8, "max": -4},
+      "note": "Plant bare-root or container trees in late winter to spring in well-drained, fertile soil in full sun; a low-chill Deep South heirloom that sets fruit well in milder zone 8–9 winters, plant a second apple cultivar nearby for pollination."
+    },
+    "usda_zones": {"min": 6, "max": 9},
+    "spacing_in": {"min": 180, "max": 240},
+    "height_in": {"min": 180, "max": 300},
+    "spread_in": {"min": 180, "max": 240},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in well-drained, fertile, slightly acidic soil in full sun, and plant a second apple cultivar nearby for pollination, since Carter's Blue is not reliably self-fruitful. An old Alabama heirloom, Carter's Blue is named for its striking skin — a deep red so dark it takes on a distinct purple-blue bloom, especially when coated in the natural waxy blush that develops on the fruit — surrounding crisp, juicy, mildly sweet-tart white flesh good for fresh eating and cooking alike. Its long history in Deep South orchards and relatively low chill requirement have kept it in cultivation among heirloom fruit collectors seeking apples suited to warm-winter climates where many Northern cultivars fail to fruit reliably. Fruit ripens in late summer to early fall; harvest when the color deepens fully and the fruit releases easily from the spur.",
+    "sources": ["Southern Exposure Seed Exchange", "Slow Food USA Ark of Taste", "general horticultural reference"]
+  }
+]

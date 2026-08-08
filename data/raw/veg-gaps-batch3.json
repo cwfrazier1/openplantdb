@@ -1,0 +1,56 @@
+[
+  {
+    "slug": "thai-long-green-eggplant",
+    "common_name": "Thai Long Green Eggplant (Slender Pale-Green Asian Eggplant)",
+    "scientific_name": "Solanum melongena 'Thai Long Green'",
+    "category": "vegetable",
+    "subcategory": "fruiting",
+    "days_to_germination": {"min": 7, "max": 14},
+    "germination_soil_temp_f": {"min": 70, "max": 85},
+    "days_to_maturity": {"min": 65, "max": 80},
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": -8, "max": -6},
+      "note": "Start seeds indoors 8–10 weeks before last frost; transplant after all frost danger passes and soil is warm. This slender Southeast Asian type sets fruit reliably through Gulf South summer heat and humidity."
+    },
+    "usda_zones": {"min": 5, "max": 11},
+    "spacing_in": {"min": 18, "max": 24},
+    "height_in": {"min": 24, "max": 36},
+    "spread_in": {"min": 18, "max": 24},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Transplant into fertile, well-drained soil in full sun once nights stay reliably warm. Thai Long Green produces slender, curved, pale jade-green fruit up to a foot long with a mild flavor and few seeds, a traditional Southeast Asian type widely used in stir-fries, curries, and grilling, where the thin skin and tender flesh cook quickly without needing to be peeled. The productive, heat-loving plants continue setting fruit through the hottest, most humid stretch of summer, when many Western eggplant varieties slow down. Harvest fruit young and glossy for the best texture — overripe fruit turns dull and develops tougher flesh and larger seeds — and pick every few days to keep plants producing.",
+    "sources": ["University of Florida IFAS Extension", "Baker Creek Heirloom Seeds", "general horticultural reference"]
+  },
+  {
+    "slug": "veronica-romanesco",
+    "common_name": "Veronica Romanesco (Fractal Chartreuse Romanesco Broccoli)",
+    "scientific_name": "Brassica oleracea var. botrytis 'Veronica'",
+    "category": "vegetable",
+    "subcategory": "cole crop",
+    "days_to_germination": {"min": 7, "max": 14},
+    "germination_soil_temp_f": {"min": 45, "max": 85},
+    "days_to_maturity": {"min": 75, "max": 100},
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": -6, "max": -4},
+      "note": "Start indoors 4–6 weeks before last frost for a spring crop, or in mid to late summer for a fall crop; Romanesco needs a longer, cooler season to head well than standard broccoli."
+    },
+    "usda_zones": {"min": 3, "max": 10},
+    "spacing_in": {"min": 18, "max": 24},
+    "height_in": {"min": 18, "max": 24},
+    "spread_in": {"min": 24, "max": 30},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Transplant into fertile, well-drained soil in full sun, spacing plants generously to give the large outer leaves room to develop. Veronica is an early-maturing, reliable Romanesco selection known for its striking, spiraling, fractal-patterned chartreuse-green heads made up of pointed, pyramidal spirals, a strikingly geometric vegetable with a mild, nutty flavor closer to cauliflower than broccoli. It matures notably faster and more dependably than older Romanesco varieties, an important advantage in regions with a shorter cool season for heading brassicas to develop properly. Harvest the central head while the spirals are still tight before it begins to loosen and flower; in the Gulf South, a fall planting timed to head in cool weather generally outperforms a spring crop, which can bolt as temperatures rise.",
+    "sources": ["Johnny's Selected Seeds reference", "Cornell Cooperative Extension", "general horticultural reference"]
+  }
+]
