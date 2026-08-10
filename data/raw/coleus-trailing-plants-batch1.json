@@ -1,0 +1,83 @@
+[
+  {
+    "slug": "pineapple-queen-coleus",
+    "common_name": "Pineapple Queen Coleus",
+    "scientific_name": "Coleus scutellarioides 'Pineapple Queen'",
+    "category": "flower",
+    "subcategory": "shade annual foliage",
+    "days_to_germination": {"min": 10, "max": 14},
+    "germination_soil_temp_f": {"min": 70, "max": 80},
+    "days_to_maturity": {"min": 60, "max": 90},
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": -8, "max": 0},
+      "note": "Start indoors 8-10 weeks before last frost and transplant out after hardening off into rich, moist, well-drained soil in partial shade to full sun; Pineapple Queen coleus holds its bright chartreuse-gold color well in both sun and shade."
+    },
+    "usda_zones": {"min": 10, "max": 11},
+    "spacing_in": {"min": 12, "max": 18},
+    "height_in": {"min": 18, "max": 24},
+    "spread_in": {"min": 15, "max": 20},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Start indoors 8-10 weeks before last frost and transplant out after hardening off into rich, moist, well-drained soil in partial shade to full sun; Pineapple Queen coleus holds its bright chartreuse-gold color well in both sun and shade. Bright, glowing chartreuse-yellow leaves with a fine reddish edge cover a vigorous, well-branched plant that lights up a shaded bed or container with sunny color even in dim corners where flowering plants struggle to bloom. Its bright, luminous color and adaptability to both sun and shade make it a versatile filler for mixed containers or a colorful accent massed in a shady border, pairing well with darker-leaved coleus and other foliage companions for contrast. Pinch growing tips regularly to encourage bushy, compact growth, and remove flower spikes as they appear to keep the plant's energy focused on foliage production.",
+    "sources": ["Missouri Botanical Garden Plant Finder", "Royal Horticultural Society", "American Society for Horticultural Science reference"]
+  },
+  {
+    "slug": "plectranthus-forsteri-marginatus",
+    "common_name": "Variegated Swedish Ivy",
+    "scientific_name": "Plectranthus forsteri 'Marginatus'",
+    "category": "flower",
+    "subcategory": "shade groundcover perennial",
+    "days_to_germination": {"min": 14, "max": 21},
+    "germination_soil_temp_f": {"min": 65, "max": 75},
+    "days_to_maturity": {"min": 90, "max": 150},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Plant rooted cuttings or container stock after last frost in moist, well-drained soil in partial to full shade; variegated Swedish ivy roots readily from cuttings and spreads quickly in warm, humid conditions."
+    },
+    "usda_zones": {"min": 9, "max": 11},
+    "spacing_in": {"min": 12, "max": 18},
+    "height_in": {"min": 8, "max": 12},
+    "spread_in": {"min": 18, "max": 30},
+    "sun": "shade",
+    "water": "moderate",
+    "directions": "Plant rooted cuttings or container stock after last frost in moist, well-drained soil in partial to full shade; variegated Swedish ivy roots readily from cuttings and spreads quickly in warm, humid conditions. Rounded, scalloped, aromatic leaves are edged in a broad, creamy-white margin over soft green centers, trailing along succulent stems that root wherever they touch soil, quickly filling a hanging basket or groundcover area with variegated texture and a light, minty fragrance when brushed. One of the easiest and most reliable trailing houseplants and shade groundcovers, it tolerates the low light and dry air of typical indoor conditions as well as the humid shade of an outdoor porch or patio in warm climates. Pinch growing tips to encourage bushier growth, water when the top inch of soil dries, and propagate easily from stem cuttings rooted in water or moist soil.",
+    "sources": ["Missouri Botanical Garden Plant Finder", "Royal Horticultural Society", "San Marcos Growers reference"]
+  },
+  {
+    "slug": "callisia-fragrans",
+    "common_name": "Basket Plant (Chain Plant, Life Plant)",
+    "scientific_name": "Callisia fragrans",
+    "category": "flower",
+    "subcategory": "shade tropical foliage",
+    "days_to_germination": {"min": 14, "max": 21},
+    "germination_soil_temp_f": {"min": 65, "max": 75},
+    "days_to_maturity": {"min": 120, "max": 200},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Grow as a houseplant or shaded patio container in bright, indirect light in well-drained potting mix; basket plant spreads by long, arching stolons tipped with plantlets, similar in habit to a spider plant."
+    },
+    "usda_zones": {"min": 9, "max": 11},
+    "spacing_in": {"min": 15, "max": 24},
+    "height_in": {"min": 12, "max": 18},
+    "spread_in": {"min": 24, "max": 36},
+    "sun": "shade",
+    "water": "moderate",
+    "directions": "Grow as a houseplant or shaded patio container in bright, indirect light in well-drained potting mix; basket plant spreads by long, arching stolons tipped with plantlets, similar in habit to a spider plant. Thick, succulent, strap-shaped leaves form a dense central rosette from which long, wiry stolons arch outward, each tipped with a small rosette of new plantlets that root readily wherever they touch soil, an offsetting habit reminiscent of the familiar spider plant and giving rise to its common name from the many hanging 'baskets' of plantlets a mature specimen produces. Occasionally producing small, fragrant white flowers on tall stalks, it is grown chiefly for its easy-care foliage and prolific plantlet production, making it simple to propagate and share. Water when the top inch of potting mix dries, provide bright indirect light, and separate rooted plantlets to propagate new plants or refresh an aging specimen.",
+    "sources": ["Missouri Botanical Garden Plant Finder", "American Society for Horticultural Science reference", "San Marcos Growers reference"]
+  }
+]

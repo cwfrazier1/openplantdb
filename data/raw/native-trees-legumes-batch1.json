@@ -1,0 +1,83 @@
+[
+  {
+    "slug": "asclepias-texana",
+    "common_name": "Texas Milkweed",
+    "scientific_name": "Asclepias texana",
+    "category": "flower",
+    "subcategory": "native pollinator perennial",
+    "days_to_germination": {"min": 14, "max": 30},
+    "germination_soil_temp_f": {"min": 65, "max": 75},
+    "days_to_maturity": {"min": 90, "max": 150},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 6},
+      "note": "Plant container-grown transplants in spring in rocky to gravelly, alkaline, well-drained soil in partial shade to full sun; Texas milkweed grows naturally in canyon seeps and rocky washes and tolerates more shade than most milkweed species."
+    },
+    "usda_zones": {"min": 7, "max": 10},
+    "spacing_in": {"min": 15, "max": 20},
+    "height_in": {"min": 18, "max": 30},
+    "spread_in": {"min": 15, "max": 20},
+    "sun": "partial",
+    "water": "low",
+    "directions": "Plant container-grown transplants in spring in rocky to gravelly, alkaline, well-drained soil in partial shade to full sun; Texas milkweed grows naturally in canyon seeps and rocky washes and tolerates more shade than most milkweed species. Slender stems carry narrow leaves and loose clusters of pure white, sweetly fragrant flowers from spring through fall, serving as both nectar source and larval host for monarch and queen butterflies in the limestone canyons of the Edwards Plateau and Trans-Pecos where it is native. Its tolerance of partial shade makes it a valuable milkweed choice for the dappled light of a canyon garden, rocky woodland edge, or the north side of a xeriscape planting where most sun-loving milkweeds struggle. It is drought-tolerant once established and needs little care beyond cutting spent stems back in late winter.",
+    "sources": ["Lady Bird Johnson Wildflower Center", "USDA PLANTS Database", "Native Plant Trust Go Botany"]
+  },
+  {
+    "slug": "sophora-affinis",
+    "common_name": "Eve's Necklace (Texas Sophora)",
+    "scientific_name": "Sophora affinis",
+    "category": "flower",
+    "subcategory": "native flowering tree",
+    "days_to_germination": {"min": 21, "max": 45},
+    "germination_soil_temp_f": {"min": 65, "max": 75},
+    "days_to_maturity": {"min": 1095, "max": 1825},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 6},
+      "note": "Plant container-grown or balled-and-burlapped trees in spring in well-drained, limestone-based or average soil in full sun to partial shade; Eve's necklace tolerates both dry limestone soils and the partial shade of a woodland edge."
+    },
+    "usda_zones": {"min": 6, "max": 9},
+    "spacing_in": {"min": 180, "max": 240},
+    "height_in": {"min": 180, "max": 360},
+    "spread_in": {"min": 180, "max": 300},
+    "sun": "partial",
+    "water": "low",
+    "directions": "Plant container-grown or balled-and-burlapped trees in spring in well-drained, limestone-based or average soil in full sun to partial shade; Eve's necklace tolerates both dry limestone soils and the partial shade of a woodland edge. This small, graceful understory tree native to limestone woodlands and stream edges across Texas, Oklahoma, and Louisiana produces drooping clusters of fragrant, pale pink to rose flowers in mid-spring, followed by distinctive black seed pods constricted between the seeds like a string of beads, giving the tree its common name. Compound, locust-like foliage casts light, dappled shade, and the tree's small mature size makes it a good choice for planting under power lines or in a smaller landscape where a full-sized shade tree would be too large. It is drought-tolerant and low-maintenance once established, needing only occasional shaping in its early years to develop a strong branch structure.",
+    "sources": ["Lady Bird Johnson Wildflower Center", "USDA PLANTS Database", "Texas A&M Forest Service"]
+  },
+  {
+    "slug": "fraxinus-profunda",
+    "common_name": "Pumpkin Ash",
+    "scientific_name": "Fraxinus profunda",
+    "category": "flower",
+    "subcategory": "native wetland shade tree",
+    "days_to_germination": {"min": 30, "max": 90},
+    "germination_soil_temp_f": {"min": 40, "max": 60},
+    "days_to_maturity": {"min": 1825, "max": 3650},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 6},
+      "note": "Plant container-grown or balled-and-burlapped trees in spring in wet to seasonally flooded, poorly drained soil in full sun to partial shade; pumpkin ash is adapted to swamps and bottomlands and tolerates standing water far better than upland ash species."
+    },
+    "usda_zones": {"min": 5, "max": 9},
+    "spacing_in": {"min": 300, "max": 480},
+    "height_in": {"min": 600, "max": 1200},
+    "spread_in": {"min": 360, "max": 600},
+    "sun": "partial",
+    "water": "high",
+    "directions": "Plant container-grown or balled-and-burlapped trees in spring in wet to seasonally flooded, poorly drained soil in full sun to partial shade; pumpkin ash is adapted to swamps and bottomlands and tolerates standing water far better than upland ash species. Named for the swollen, pumpkin-shaped base that often develops on trees growing in permanently flooded ground, this large wetland tree bears compound leaves and winged seeds typical of ash, providing food for wildlife and dense shade over the bottomland hardwood forests and cypress-tupelo swamps of the southeastern and Gulf coastal plain. It is among the most flood-tolerant of all ash species, capable of growing in standing water for extended periods, making it valuable for restoring wet bottomland sites where few other large shade trees will survive. Like other native ash species it is vulnerable to the invasive emerald ash borer, so plant it as part of a diverse wetland tree planting rather than a monoculture.",
+    "sources": ["USDA PLANTS Database", "USDA Forest Service Silvics Manual", "Native Plant Trust Go Botany"]
+  }
+]

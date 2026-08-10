@@ -1,0 +1,83 @@
+[
+  {
+    "slug": "fleshy-hawthorn",
+    "common_name": "Fleshy Hawthorn",
+    "scientific_name": "Crataegus succulenta",
+    "category": "fruit",
+    "subcategory": "native understory tree",
+    "days_to_germination": {"min": 90, "max": 180},
+    "germination_soil_temp_f": {"min": 35, "max": 50},
+    "days_to_maturity": {"min": 1095, "max": 1825},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {"min": -4, "max": 4},
+      "note": "Plant container-grown or balled-and-burlapped trees in fall or spring in average, well-drained soil in full sun to partial shade; fleshy hawthorn tolerates a range of soils and is thorny, so site away from foot traffic."
+    },
+    "usda_zones": {"min": 3, "max": 7},
+    "spacing_in": {"min": 120, "max": 180},
+    "height_in": {"min": 120, "max": 240},
+    "spread_in": {"min": 120, "max": 180},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant container-grown or balled-and-burlapped trees in fall or spring in average, well-drained soil in full sun to partial shade; fleshy hawthorn tolerates a range of soils and is thorny, so site away from foot traffic. Clusters of white spring flowers cover this thorny native small tree, followed by unusually large, juicy, bright red fruit for a hawthorn, historically gathered and eaten fresh or made into preserves by Indigenous peoples and early settlers across its native range in the northern and central United States and Canada. Like other hawthorns it provides valuable dense, thorny cover for nesting birds and small wildlife, along with fall fruit that persists into winter as a food source when little else remains available. Water during establishment, then rely mainly on natural rainfall, and prune to remove crossing or damaged branches while avoiding the sharp thorns.",
+    "sources": ["USDA PLANTS Database", "USDA Forest Service Silvics Manual", "Native Plant Trust Go Botany"]
+  },
+  {
+    "slug": "allegheny-plum",
+    "common_name": "Allegheny Plum (Porter's Plum)",
+    "scientific_name": "Prunus alleghaniensis",
+    "category": "fruit",
+    "subcategory": "native understory tree",
+    "days_to_germination": {"min": 90, "max": 180},
+    "germination_soil_temp_f": {"min": 35, "max": 50},
+    "days_to_maturity": {"min": 1095, "max": 1825},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {"min": -4, "max": 4},
+      "note": "Plant container-grown or bare-root trees in fall or spring in well-drained, average soil in full sun; Allegheny plum spreads by root suckers and forms thickets over time, useful for naturalizing on a slope or bank."
+    },
+    "usda_zones": {"min": 4, "max": 7},
+    "spacing_in": {"min": 60, "max": 96},
+    "height_in": {"min": 96, "max": 180},
+    "spread_in": {"min": 96, "max": 144},
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant container-grown or bare-root trees in fall or spring in well-drained, average soil in full sun; Allegheny plum spreads by root suckers and forms thickets over time, useful for naturalizing on a slope or bank. Clouds of white flowers cover the thicket-forming branches in early spring before the leaves emerge, followed by small, dark purple, tart plums historically gathered by Appalachian settlers for jams and preserves, ripening in late summer on a small, suckering native tree found on dry ridges and rocky slopes of the central Appalachian region. Its suckering, thicket-forming habit makes it useful for stabilizing an eroding bank or naturalizing a difficult dry slope where its dense thicket provides wildlife cover as well as fruit. Water during establishment, then rely on natural rainfall, and allow it to sucker and spread if a naturalized thicket is the goal, or remove suckers to maintain a single specimen.",
+    "sources": ["USDA PLANTS Database", "USDA Forest Service Silvics Manual", "Native Plant Trust Go Botany"]
+  },
+  {
+    "slug": "western-mountain-ash",
+    "common_name": "Western Mountain Ash (Greene's Mountain Ash)",
+    "scientific_name": "Sorbus scopulina",
+    "category": "flower",
+    "subcategory": "native understory tree",
+    "days_to_germination": {"min": 90, "max": 180},
+    "germination_soil_temp_f": {"min": 35, "max": 50},
+    "days_to_maturity": {"min": 1095, "max": 1825},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {"min": -4, "max": 4},
+      "note": "Plant container-grown or balled-and-burlapped trees in fall or spring in moist, well-drained soil in full sun to partial shade; western mountain ash prefers cooler mountain climates and struggles with heat and drought in lowland gardens."
+    },
+    "usda_zones": {"min": 3, "max": 6},
+    "spacing_in": {"min": 96, "max": 144},
+    "height_in": {"min": 120, "max": 240},
+    "spread_in": {"min": 96, "max": 144},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Plant container-grown or balled-and-burlapped trees in fall or spring in moist, well-drained soil in full sun to partial shade; western mountain ash prefers cooler mountain climates and struggles with heat and drought in lowland gardens. Flat clusters of small white flowers open in early summer above compound, fern-like leaves on this small native tree of high-elevation forests and mountain slopes across western North America, followed by bright orange-red berry clusters that persist into fall and winter, providing important food for grouse, waxwings, and other mountain wildlife. Its compact size and showy fruit display make it a good choice for a native mountain or high-elevation garden, but it is not well adapted to hot, humid, or low-elevation conditions far from its cool mountain forest habitat. Water during establishment and dry spells, and site in a location with cool summer temperatures and good air circulation for the best long-term performance.",
+    "sources": ["USDA PLANTS Database", "USDA Forest Service Silvics Manual", "Native Plant Trust Go Botany"]
+  }
+]

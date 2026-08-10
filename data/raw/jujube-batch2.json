@@ -1,0 +1,56 @@
+[
+  {
+    "slug": "silverhill-jujube",
+    "common_name": "Silverhill Jujube (Alabama Gulf Coast Jujube)",
+    "scientific_name": "Ziziphus jujuba 'Silverhill'",
+    "category": "fruit",
+    "subcategory": "tree fruit",
+    "days_to_germination": {"min": null, "max": null},
+    "germination_soil_temp_f": {"min": null, "max": null},
+    "days_to_maturity": {"min": 1095, "max": 1825},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 2, "max": 6},
+      "note": "Plant a grafted tree in spring in full sun in any well-drained soil; Silverhill, named for the jujube-growing community of Silverhill, Alabama, is a heat- and humidity-adapted selection well suited to Gulf South conditions."
+    },
+    "usda_zones": {"min": 6, "max": 10},
+    "spacing_in": {"min": 120, "max": 200},
+    "height_in": {"min": 120, "max": 200},
+    "spread_in": {"min": 120, "max": 180},
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant a grafted tree in spring in full sun in any well-drained soil; Silverhill, named for the jujube-growing community of Silverhill, Alabama, is a heat- and humidity-adapted selection well suited to Gulf South conditions. This historic American jujube selection traces to the early twentieth-century Gulf Coast jujube plantings around Silverhill and Fairhope, Alabama, where USDA plant introductions from China were trialed and locally adapted decades before jujube saw its recent surge in popularity. It bears medium, round to oval fruit with crisp, sweet, apple-like flesh at the green-mature stage, sweetening further and wrinkling like a date as it ripens to mahogany-brown, and the tree is notably tolerant of the humid, disease-prone summers that can trouble jujube varieties bred for drier climates. Once established the tree is extremely drought-tolerant, largely pest-free, and requires only light pruning to maintain an open shape; harvest fruit in stages from crisp-green through fully wrinkled-brown depending on preferred texture.",
+    "sources": ["Louisiana State University AgCenter", "Texas A&M AgriLife Extension", "California Rare Fruit Growers"]
+  },
+  {
+    "slug": "gaziantep-jujube",
+    "common_name": "Gaziantep Jujube (Turkish Jujube)",
+    "scientific_name": "Ziziphus jujuba 'Gaziantep'",
+    "category": "fruit",
+    "subcategory": "tree fruit",
+    "days_to_germination": {"min": null, "max": null},
+    "germination_soil_temp_f": {"min": null, "max": null},
+    "days_to_maturity": {"min": 1095, "max": 1825},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 2, "max": 6},
+      "note": "Plant a grafted tree in spring in full sun in any well-drained soil; Gaziantep is a Turkish jujube selection prized for very large fruit and performs well anywhere Chinese jujube cultivars thrive."
+    },
+    "usda_zones": {"min": 6, "max": 10},
+    "spacing_in": {"min": 120, "max": 200},
+    "height_in": {"min": 120, "max": 200},
+    "spread_in": {"min": 120, "max": 180},
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant a grafted tree in spring in full sun in any well-drained soil; Gaziantep is a Turkish jujube selection prized for very large fruit and performs well anywhere Chinese jujube cultivars thrive. Named for the jujube-growing region of southeastern Turkey, this selection produces unusually large, oblong fruit with crisp, sweet, apple-flavored flesh at the green-mature stage, among the biggest fruit sizes seen in jujube collector plantings, sweetening and wrinkling further if left to ripen to full brown maturity. The tree shares the toughness typical of the species — tolerant of heat, drought, poor soil, and light frost once dormant — and bears at a young age with minimal care once established. Harvest fruit in successive pickings from the crisp green-mature stage through the fully wrinkled, date-like brown stage depending on preferred texture and sweetness, and prune lightly in winter to control the tree's naturally twiggy, zigzag growth habit.",
+    "sources": ["California Rare Fruit Growers", "Texas A&M AgriLife Extension", "North American Fruit Explorers"]
+  }
+]
