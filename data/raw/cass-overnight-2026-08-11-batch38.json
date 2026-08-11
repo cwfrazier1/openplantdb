@@ -1,0 +1,222 @@
+[
+  {
+    "slug": "oregon-ash",
+    "common_name": "Oregon Ash",
+    "scientific_name": "Fraxinus latifolia",
+    "category": "flower",
+    "subcategory": "native riparian shade tree",
+    "days_to_germination": {
+      "min": 30,
+      "max": 60
+    },
+    "germination_soil_temp_f": {
+      "min": 50,
+      "max": 65
+    },
+    "days_to_maturity": {
+      "min": 5475,
+      "max": 9125
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 6
+      },
+      "note": "Plant in fall in moist bottomland soils along Pacific Northwest streams, seasonal wetlands, or low-lying yards that stay damp through the wet season; monitor for emerald ash borer."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 420,
+      "max": 600
+    },
+    "height_in": {
+      "min": 480,
+      "max": 780
+    },
+    "spread_in": {
+      "min": 360,
+      "max": 540
+    },
+    "sun": "full",
+    "water": "high",
+    "directions": "Plant in fall in moist bottomland soils along Pacific Northwest streams, seasonal wetlands, or low-lying yards that stay damp through the wet season, since this is the only ash native west of the Rocky Mountains. Its broad, rounded canopy and compound leaves provide strong seasonal shade, turning yellow before dropping in autumn. It tolerates seasonal flooding and heavy clay soils better than most shade trees, making it valuable for riparian buffer and stormwater plantings. As with other native ashes, monitor for emerald ash borer as the pest continues to spread westward.",
+    "sources": [
+      "USDA PLANTS Database",
+      "Oregon State University Extension",
+      "USDA Forest Service Silvics Manual"
+    ]
+  },
+  {
+    "slug": "velvet-ash",
+    "common_name": "Velvet Ash",
+    "scientific_name": "Fraxinus velutina",
+    "category": "flower",
+    "subcategory": "native desert shade tree",
+    "days_to_germination": {
+      "min": 20,
+      "max": 40
+    },
+    "germination_soil_temp_f": {
+      "min": 55,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 3650,
+      "max": 7300
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 6
+      },
+      "note": "Transplant in spring into desert washes, irrigated yards, or streambank sites across the Southwest, where this drought-adapted ash tolerates alkaline soils and intense heat."
+    },
+    "usda_zones": {
+      "min": 6,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 300,
+      "max": 480
+    },
+    "height_in": {
+      "min": 360,
+      "max": 600
+    },
+    "spread_in": {
+      "min": 300,
+      "max": 480
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Transplant in spring into desert washes, irrigated yards, or streambank sites across the Southwest, where this drought-adapted ash tolerates alkaline soils and intense summer heat far better than eastern ash species. Its velvety young twigs and leaflets give the tree a soft gray-green texture, and its dense canopy makes it a popular fast-growing shade tree in arid urban landscapes. It benefits from periodic deep irrigation during establishment even though mature trees can survive on minimal supplemental water in wash habitats. Watch for emerald ash borer as its range continues to expand into the Southwest.",
+    "sources": [
+      "USDA PLANTS Database",
+      "Arizona Municipal Water Users Association",
+      "Southwest Desert Flora"
+    ]
+  },
+  {
+    "slug": "rock-elm",
+    "common_name": "Rock Elm",
+    "scientific_name": "Ulmus thomasii",
+    "category": "flower",
+    "subcategory": "native shade tree",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 55,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 5475,
+      "max": 9125
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 5
+      },
+      "note": "Plant in spring in well-drained upland soils or limestone-based ground; shows somewhat better Dutch elm disease resistance than American elm."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 7
+    },
+    "spacing_in": {
+      "min": 300,
+      "max": 480
+    },
+    "height_in": {
+      "min": 480,
+      "max": 780
+    },
+    "spread_in": {
+      "min": 300,
+      "max": 420
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in spring in well-drained upland soils or limestone-based ground where this slow-growing elm forms a narrow, pyramidal crown distinct from the vase shape of American elm. Distinctive corky wings often develop along its branches, giving winter interest that sets it apart from other native elms. Rock elm shows somewhat better resistance to Dutch elm disease than American elm, making it a worthwhile alternative for restoration plantings and long-lived shade in northern landscapes. Its exceptionally dense, heavy wood was historically valued for tool handles and shipbuilding, reflecting the tree's slow, sturdy growth habit.",
+    "sources": [
+      "USDA PLANTS Database",
+      "USDA Forest Service Silvics Manual",
+      "Minnesota Department of Natural Resources"
+    ]
+  },
+  {
+    "slug": "gambel-oak",
+    "common_name": "Gambel Oak",
+    "scientific_name": "Quercus gambelii",
+    "category": "flower",
+    "subcategory": "native shrubby specimen tree",
+    "days_to_germination": {
+      "min": 14,
+      "max": 30
+    },
+    "germination_soil_temp_f": {
+      "min": 50,
+      "max": 65
+    },
+    "days_to_maturity": {
+      "min": 3650,
+      "max": 7300
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 6
+      },
+      "note": "Set out young trees in fall on dry, rocky mountain slopes and mesas across the Intermountain West, where this drought-tolerant oak often forms colonial thickets from root sprouts."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 8
+    },
+    "spacing_in": {
+      "min": 180,
+      "max": 360
+    },
+    "height_in": {
+      "min": 180,
+      "max": 360
+    },
+    "spread_in": {
+      "min": 180,
+      "max": 300
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Set out young trees in fall on dry, rocky mountain slopes and mesas across the Intermountain West, where this drought-tolerant oak often forms dense colonial thickets from root sprouts. Its lobed, deciduous leaves turn russet-orange in fall, and its abundant acorns are an important food source for deer, black bear, and wild turkey. Gambel oak works well as a low-water specimen or naturalized thicket planting in xeriscape and wildfire-resilient landscaping in its native high-desert range. Once established it requires minimal irrigation and tolerates poor, rocky soils that few other oaks can handle.",
+    "sources": [
+      "USDA PLANTS Database",
+      "Lady Bird Johnson Wildflower Center",
+      "USDA Forest Service Silvics Manual"
+    ]
+  }
+]

@@ -1,0 +1,326 @@
+[
+  {
+    "slug": "blond-psyllium",
+    "common_name": "Blond Psyllium",
+    "scientific_name": "Plantago ovata",
+    "category": "herb",
+    "subcategory": "medicinal annual",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 90,
+      "max": 120
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 2
+      },
+      "note": "Direct-sow shallowly after frost danger passes into hot, dry, well-drained soil, since this low rosette-forming annual is prone to rot in humid or overwatered conditions."
+    },
+    "usda_zones": {
+      "min": 2,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 4,
+      "max": 6
+    },
+    "height_in": {
+      "min": 6,
+      "max": 12
+    },
+    "spread_in": {
+      "min": 6,
+      "max": 10
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Psyllium must always be taken with plenty of water, since swallowing it dry can cause choking or intestinal blockage. Direct-sow shallowly after frost danger passes into hot, dry, well-drained soil, since this low rosette-forming annual is prone to rot in humid or overwatered conditions. The mature seed husks, threshed and cleaned once seed heads dry, are the source of psyllium fiber, traditionally and medically used as a bulk-forming laxative and to support healthy cholesterol levels.",
+    "sources": [
+      "USDA GRIN",
+      "National Center for Complementary and Integrative Health (NCCIH)",
+      "American Botanical Council"
+    ]
+  },
+  {
+    "slug": "shepherds-purse",
+    "common_name": "Shepherd's Purse",
+    "scientific_name": "Capsella bursa-pastoris",
+    "category": "herb",
+    "subcategory": "medicinal annual",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 55,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 40,
+      "max": 60
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "soil_workable",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 2
+      },
+      "note": "Direct-sow as soon as the soil can be worked in early spring or again in fall; self-seeds readily and often persists as a low-maintenance garden edge herb."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 4,
+      "max": 6
+    },
+    "height_in": {
+      "min": 6,
+      "max": 18
+    },
+    "spread_in": {
+      "min": 4,
+      "max": 8
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Because of its traditional use to stimulate uterine contractions, it should be avoided in pregnancy except under professional supervision. Direct-sow as soon as the soil can be worked in early spring or again in fall; this fast-growing, cold-tolerant mustard-family plant self-seeds readily and often persists as a low-maintenance garden edge herb. The flowering aerial parts are traditionally dried and used as a styptic tea or tincture to help slow minor bleeding and to support postpartum recovery.",
+    "sources": [
+      "Plants For A Future (PFAF)",
+      "American Botanical Council",
+      "USDA NRCS PLANTS Database"
+    ]
+  },
+  {
+    "slug": "yan-hu-suo",
+    "common_name": "Yan Hu Suo",
+    "scientific_name": "Corydalis yanhusuo",
+    "category": "herb",
+    "subcategory": "medicinal perennial",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 365,
+      "max": 730
+    },
+    "maturity_from": "transplant",
+    "sow_method": "tuber",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 6
+      },
+      "note": "Plant dormant tubers in fall in humus-rich, well-drained woodland soil, ideally under deciduous trees, since this spring ephemeral emerges before the canopy leafs out."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 4,
+      "max": 6
+    },
+    "height_in": {
+      "min": 8,
+      "max": 14
+    },
+    "spread_in": {
+      "min": 6,
+      "max": 10
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Should be avoided during pregnancy. Plant dormant tubers in fall in humus-rich, well-drained woodland soil, ideally under deciduous trees, since this spring ephemeral emerges and flowers before the canopy leafs out, then dies back and stays dormant through summer heat. The tuber is a well-known TCM analgesic, traditionally decocted to invigorate blood circulation and relieve menstrual, abdominal, and musculoskeletal pain, and is distinct from ornamental Corydalis grown for foliage.",
+    "sources": [
+      "Bensky's Chinese Herbal Medicine: Materia Medica",
+      "Missouri Botanical Garden",
+      "American Botanical Council"
+    ]
+  },
+  {
+    "slug": "figwort",
+    "common_name": "Figwort",
+    "scientific_name": "Scrophularia nodosa",
+    "category": "herb",
+    "subcategory": "medicinal perennial",
+    "days_to_germination": {
+      "min": 14,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 365,
+      "max": 730
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "soil_workable",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Sow or divide established clumps into moist, humus-rich soil in partial shade in spring, since this woodland-edge perennial prefers damp ground similar to a stream bank or ditch."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 8
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 24,
+      "max": 48
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "partial",
+    "water": "high",
+    "directions": "Because related Scrophularia species contain cardioactive compounds, internal use should be approached cautiously and avoided by anyone with heart conditions without professional guidance. Sow or divide established clumps into moist, humus-rich soil in partial shade in spring, since this woodland-edge perennial prefers damp ground similar to a stream bank or ditch. The whole flowering plant, despite its strong odor, is traditionally made into a poultice or wash applied topically for minor skin irritations and historically taken to support lymphatic health.",
+    "sources": [
+      "Plants For A Future (PFAF)",
+      "Royal Botanic Gardens Kew Plants of the World Online",
+      "American Botanical Council"
+    ]
+  },
+  {
+    "slug": "chinese-motherwort",
+    "common_name": "Chinese Motherwort (Yi Mu Cao)",
+    "scientific_name": "Leonurus japonicus",
+    "category": "herb",
+    "subcategory": "medicinal annual/perennial",
+    "days_to_germination": {
+      "min": 10,
+      "max": 20
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 90,
+      "max": 120
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 2
+      },
+      "note": "Direct-sow after the last frost into full sun and average garden soil; grows quickly and self-seeds much like its Western relative, common motherwort."
+    },
+    "usda_zones": {
+      "min": 6,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 36,
+      "max": 72
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Its uterine-stimulant action means it should be avoided in pregnancy except under professional postpartum guidance. Direct-sow after the last frost into full sun and average garden soil, where this tall, bitter mint-family plant grows quickly and self-seeds much like its Western relative, common motherwort. The flowering tops are dried for TCM decoctions traditionally used to invigorate blood flow, ease menstrual discomfort, and support postpartum recovery.",
+    "sources": [
+      "Bensky's Chinese Herbal Medicine: Materia Medica",
+      "American Botanical Council",
+      "Missouri Botanical Garden"
+    ]
+  },
+  {
+    "slug": "ku-shen",
+    "common_name": "Ku Shen (Shrubby Sophora Root)",
+    "scientific_name": "Sophora flavescens",
+    "category": "herb",
+    "subcategory": "medicinal perennial",
+    "days_to_germination": {
+      "min": 21,
+      "max": 35
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 1095,
+      "max": 1460
+    },
+    "maturity_from": "seed",
+    "sow_method": "indoor-start",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 2
+      },
+      "note": "Scarify and soak the hard legume seed before starting indoors in early spring, then transplant out after frost into deep, well-drained soil."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 8
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 24,
+      "max": 48
+    },
+    "spread_in": {
+      "min": 24,
+      "max": 36
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Concentrated extracts of this root are not intended for prolonged internal use without professional guidance due to potential liver-related concerns. Scarify and soak the hard legume seed before starting indoors in early spring, then transplant out after frost into deep, well-drained soil, since the developing taproot resents later disturbance. Roots are harvested from plants three to four years old and traditionally decocted or used in topical washes in TCM to relieve itching and eczema-type skin conditions and as a folk antiparasitic.",
+    "sources": [
+      "Bensky's Chinese Herbal Medicine: Materia Medica",
+      "American Botanical Council",
+      "USDA GRIN"
+    ]
+  }
+]

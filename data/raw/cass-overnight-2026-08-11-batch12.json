@@ -1,0 +1,271 @@
+[
+  {
+    "slug": "psilostrophe-tagetina",
+    "common_name": "Paperflower (Woolly Paperflower)",
+    "scientific_name": "Psilostrophe tagetina",
+    "category": "flower",
+    "subcategory": "native perennial wildflower",
+    "days_to_germination": {
+      "min": 14,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 75,
+      "max": 100
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Direct sow after the last frost into lean, gravelly, sharply drained soil, barely covering the fine seed since it germinates best with light exposure."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 8,
+      "max": 16
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 18
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Direct sow after the last frost into lean, gravelly, sharply drained soil, barely covering the fine seed since it germinates best with light exposure. Established plants form silvery-gray mounds that bloom almost continuously from spring through fall with clusters of small, papery yellow daisies that dry in place rather than dropping. It is an important nectar source for small native bees and butterflies across the Chihuahuan and Sonoran desert grasslands and needs shearing back hard after flowering flushes to stay compact. Avoid rich soil or regular irrigation, which causes floppy, short-lived growth.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "USDA PLANTS Database",
+      "Arizona-Sonora Desert Museum"
+    ]
+  },
+  {
+    "slug": "iris-douglasiana",
+    "common_name": "Douglas Iris",
+    "scientific_name": "Iris douglasiana",
+    "category": "flower",
+    "subcategory": "native perennial wildflower (Pacific Coast iris)",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 365,
+      "max": 730
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -6,
+        "max": 0
+      },
+      "note": "Divide and transplant rhizome clumps in fall as coastal rains return, setting the fans shallowly in fast-draining, slightly acidic soil with the crown at or just above grade; from seed the species requires 60–90 days cold-moist stratification and germination itself can take several months, so division is the practical method."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 12,
+      "max": 24
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 18
+    },
+    "sun": "partial",
+    "water": "low",
+    "directions": "Divide and transplant rhizome clumps in fall as coastal rains return, setting the fans shallowly in fast-draining, slightly acidic soil with the crown at or just above grade. Douglas iris is the dominant Pacific Coast iris of California and southern Oregon's coastal grasslands and open woodlands, sending up branched stems of lavender, blue, cream, or wine-toned flowers in mid-spring above tough, evergreen, grass-like foliage. It tolerates summer drought once established, unlike most irises, and provides early-season nectar for native bees along the fog belt. Established clumps resent disturbance, and division is best done sparingly, only every several years.",
+    "sources": [
+      "Calscape — California Native Plant Society",
+      "Pacific Horticulture Society",
+      "USDA PLANTS Database"
+    ]
+  },
+  {
+    "slug": "chamaebatiaria-millefolium",
+    "common_name": "Fernbush (Desert Sweet)",
+    "scientific_name": "Chamaebatiaria millefolium",
+    "category": "flower",
+    "subcategory": "native shrub",
+    "days_to_germination": {
+      "min": 21,
+      "max": 45
+    },
+    "germination_soil_temp_f": {
+      "min": 55,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 365,
+      "max": 545
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": 4
+      },
+      "note": "Set out container-grown fernbush in fall or early spring into lean, rocky, alkaline soil in full sun."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 8
+    },
+    "spacing_in": {
+      "min": 36,
+      "max": 60
+    },
+    "height_in": {
+      "min": 36,
+      "max": 72
+    },
+    "spread_in": {
+      "min": 36,
+      "max": 60
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Set out container-grown fernbush in fall or early spring into lean, rocky, alkaline soil in full sun, where it establishes as a tough, aromatic shrub with finely dissected, fern-like foliage native to the dry mountains and mesas of the Great Basin and interior West. Plants produce airy spires of small white, rose-like flowers from midsummer into fall, well after most Great Basin shrubs have finished blooming, making it a valuable late-season nectar source for native bees and butterflies at elevation. Fernbush is exceptionally cold- and drought-tolerant, thriving in the same lean soils as sagebrush and pinyon-juniper, and needs no supplemental water once rooted in. Light shaping after bloom keeps the naturally rounded form tidy.",
+    "sources": [
+      "USDA PLANTS Database",
+      "Utah State University Extension",
+      "USDA Forest Service Fire Effects Information System"
+    ]
+  },
+  {
+    "slug": "cercocarpus-ledifolius",
+    "common_name": "Curl-leaf Mountain Mahogany",
+    "scientific_name": "Cercocarpus ledifolius",
+    "category": "flower",
+    "subcategory": "native evergreen shrub/small tree",
+    "days_to_germination": {
+      "min": 30,
+      "max": 60
+    },
+    "germination_soil_temp_f": {
+      "min": 50,
+      "max": 65
+    },
+    "days_to_maturity": {
+      "min": 730,
+      "max": 1095
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -6,
+        "max": 2
+      },
+      "note": "Plant container stock in fall or early spring into rocky, alkaline, extremely well-drained soil on exposed, sunny sites; this slow-growing, long-lived evergreen tolerates shallow, rocky soils where little else grows."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 8
+    },
+    "spacing_in": {
+      "min": 96,
+      "max": 180
+    },
+    "height_in": {
+      "min": 120,
+      "max": 360
+    },
+    "spread_in": {
+      "min": 96,
+      "max": 240
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant container stock in fall or early spring into rocky, alkaline, extremely well-drained soil on exposed, sunny sites, since curl-leaf mountain mahogany is a slow-growing, long-lived evergreen native to dry foothills and mountain slopes throughout the Intermountain West. Its inconspicuous spring flowers are wind-pollinated, but the shrub's dense evergreen cover and abundant, twisted-plumed seed heads make it critical winter browse and cover for mule deer, bighorn sheep, and small birds. It is remarkably drought- and cold-hardy once established, tolerating shallow, rocky soils where little else will grow, and needs essentially no irrigation after the first two seasons. Growth is slow, so choose the planting site carefully, as this long-lived shrub can persist for centuries.",
+    "sources": [
+      "USDA PLANTS Database",
+      "Utah State University Extension",
+      "USDA Forest Service Fire Effects Information System"
+    ]
+  },
+  {
+    "slug": "verbena-gooddingii",
+    "common_name": "Goodding's Verbena (Southwestern Verbena)",
+    "scientific_name": "Verbena gooddingii",
+    "category": "flower",
+    "subcategory": "native perennial wildflower",
+    "days_to_germination": {
+      "min": 14,
+      "max": 28
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 75,
+      "max": 100
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Direct sow in spring after the last frost, or scatter seed in fall in mild-winter zones, into lean, rocky or sandy, well-drained soil in full sun."
+    },
+    "usda_zones": {
+      "min": 6,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 6,
+      "max": 12
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Direct sow in spring after the last frost, or scatter seed in fall in mild-winter zones, into lean, rocky or sandy, well-drained soil in full sun. Goodding's verbena is a mat-forming Southwestern native that carpets desert washes and rocky slopes with rounded clusters of purple-violet flowers, blooming heaviest after rains and providing dependable nectar for butterflies, including swallowtails and painted ladies, through much of the warm season. It spreads readily by both self-seeding and rooting along trailing stems, making it a fast, low-maintenance groundcover for hot, dry sites. Cut back after flushes of bloom to encourage repeat flowering and prevent excessive woodiness.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "Arizona-Sonora Desert Museum",
+      "USDA PLANTS Database"
+    ]
+  }
+]

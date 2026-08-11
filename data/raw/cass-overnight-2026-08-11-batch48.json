@@ -1,0 +1,259 @@
+[
+  {
+    "slug": "snow-in-summer",
+    "common_name": "Snow-in-Summer",
+    "scientific_name": "Cerastium tomentosum",
+    "category": "flower",
+    "subcategory": "silvery mat-forming rock garden groundcover",
+    "days_to_germination": {
+      "min": 14,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 90,
+      "max": 120
+    },
+    "maturity_from": "seed",
+    "sow_method": "indoor-start",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -6
+      },
+      "note": "Start seed indoors six to eight weeks before the last frost, or set out nursery divisions in spring once soil is workable, spacing plants a foot or more apart."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 7
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 3,
+      "max": 8
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Start seed indoors six to eight weeks before the last frost, or set out nursery divisions in spring once soil is workable, spacing plants a foot or more apart since the woolly silver foliage spreads quickly by trailing stems. Use it as a sun-baked lawn substitute on slopes or as edging along walkways, where its white star flowers create a frothy carpet in late spring. Shear the mat back by half right after bloom to keep it tight and prevent the center from opening up and going woody. It struggles in hot, humid summers, so gardeners south of zone 7 should treat it as short-lived and give it maximum drainage.",
+    "sources": [
+      "Missouri Botanical Garden Plant Finder",
+      "Clemson Cooperative Extension HGIC",
+      "University of Minnesota Extension"
+    ]
+  },
+  {
+    "slug": "silver-carpet-dymondia",
+    "common_name": "Silver Carpet",
+    "scientific_name": "Dymondia margaretae",
+    "category": "flower",
+    "subcategory": "xeric lawn-alternative groundcover",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 365,
+      "max": 730
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 6
+      },
+      "note": "Install nursery plugs or divisions in spring on eight to twelve inch centers into fast-draining soil, watering regularly the first several months until the mat knits together."
+    },
+    "usda_zones": {
+      "min": 8,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 8,
+      "max": 12
+    },
+    "height_in": {
+      "min": 2,
+      "max": 4
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Install nursery plugs or divisions in spring on eight to twelve inch centers into fast-draining soil, watering regularly the first several months until the felted gray-green foliage knits together into a tight, walkable mat. It is one of the best true no-mow lawn substitutes for mild, dry climates and fills beautifully between stepping stones, where its tiny yellow daisies appear along the leaf margins in summer. Once established it tolerates foot traffic and extended drought, but it is not reliably cold hardy below the mid-teens Fahrenheit, so it is mainly suited to zones 8-11.",
+    "sources": [
+      "San Marcos Growers",
+      "Sunset Western Garden Book",
+      "UC Marin Master Gardeners"
+    ]
+  },
+  {
+    "slug": "creeping-wire-vine",
+    "common_name": "Creeping Wire Vine",
+    "scientific_name": "Muehlenbeckia axillaris",
+    "category": "flower",
+    "subcategory": "wiry mat-forming groundcover",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 180,
+      "max": 365
+    },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant rooted cuttings or divisions in spring, spacing them widely; give consistent moisture while young, established plantings tolerate short dry spells."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 2,
+      "max": 4
+    },
+    "spread_in": {
+      "min": 24,
+      "max": 48
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant rooted cuttings or divisions in spring, spacing them widely since the tangled wiry stems and tiny round leaves knit into a dense, low mat that can spread several feet per plant within a couple of seasons. It is tough enough to fill gaps between pavers and stepping stones and takes light foot traffic once its woody stems have matted down. Give it consistent moisture while young; established plantings tolerate short dry spells but perform best with regular watering in hot climates.",
+    "sources": [
+      "Missouri Botanical Garden Plant Finder",
+      "New Zealand Plant Conservation Network",
+      "Great Plant Picks"
+    ]
+  },
+  {
+    "slug": "alpine-globe-daisy",
+    "common_name": "Alpine Globe Daisy",
+    "scientific_name": "Globularia cordifolia",
+    "category": "flower",
+    "subcategory": "alpine rock garden groundcover",
+    "days_to_germination": {
+      "min": 21,
+      "max": 40
+    },
+    "germination_soil_temp_f": {
+      "min": 55,
+      "max": 65
+    },
+    "days_to_maturity": {
+      "min": 365,
+      "max": 730
+    },
+    "maturity_from": "seed",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Divide established mats or set out nursery starts in spring into sharply drained, lean soil; division is more dependable than seed, which needs cold stratification and germinates slowly."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 7
+    },
+    "spacing_in": {
+      "min": 10,
+      "max": 14
+    },
+    "height_in": {
+      "min": 2,
+      "max": 4
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 18
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Divide established mats or set out nursery starts in spring into sharply drained, lean soil, since this alpine cushions poorly in heavy or wet ground. It forms a dense evergreen mat of small leathery leaves studded with unusual powder-blue globe flowers in late spring, making it a good filler between flagstones or on a sunny scree slope. Seed can be sown but needs several weeks of cold stratification and germinates slowly and unevenly, so division of an existing clump is the more dependable route.",
+    "sources": [
+      "Missouri Botanical Garden Plant Finder",
+      "Alpine Garden Society",
+      "Chicago Botanic Garden"
+    ]
+  },
+  {
+    "slug": "sea-heath",
+    "common_name": "Sea Heath",
+    "scientific_name": "Frankenia laevis",
+    "category": "flower",
+    "subcategory": "coastal erosion-control groundcover",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 180,
+      "max": 365
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Set out divisions or container plants in spring into well-drained, even sandy or salty soil, spacing them roughly a foot apart; prioritize drainage over shelter when siting."
+    },
+    "usda_zones": {
+      "min": 6,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 2,
+      "max": 4
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Set out divisions or container plants in spring into well-drained, even sandy or salty soil, spacing them roughly a foot apart to let the wiry, heath-like foliage knit into a dense evergreen carpet. Small pink flowers dot the mat through summer, and its high salt and drought tolerance make it a good stabilizer for sunny coastal banks and dune edges prone to erosion. It resents winter wet more than cold, so prioritize drainage over shelter when siting it.",
+    "sources": [
+      "Royal Horticultural Society",
+      "Missouri Botanical Garden Plant Finder",
+      "Pacific Horticulture Society"
+    ]
+  }
+]

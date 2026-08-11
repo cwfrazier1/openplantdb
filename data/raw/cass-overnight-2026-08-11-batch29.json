@@ -1,0 +1,326 @@
+[
+  {
+    "slug": "eriogonum-nudum",
+    "common_name": "Naked Buckwheat",
+    "scientific_name": "Eriogonum nudum",
+    "category": "flower",
+    "subcategory": "native larval host perennial buckwheat",
+    "days_to_germination": {
+      "min": 14,
+      "max": 30
+    },
+    "germination_soil_temp_f": {
+      "min": 55,
+      "max": 65
+    },
+    "days_to_maturity": {
+      "min": 365,
+      "max": 540
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -6,
+        "max": -2
+      },
+      "note": "Direct-sow in fall so winter chilling breaks seed dormancy naturally, into lean, fast-draining soil in full sun; established plants need little to no irrigation."
+    },
+    "usda_zones": {
+      "min": 6,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 18,
+      "max": 48
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Direct-sow in fall so winter chilling breaks seed dormancy naturally, into lean, fast-draining soil in full sun; established plants need little to no irrigation. A basal rosette of grayish leaves sends up mostly leafless, wiry stems topped with airy clusters of white-to-pink or yellow flowers from summer into fall. Beyond feeding countless native bees, it is an essential larval host for the Mormon Metalmark butterfly and several blues, and its extended bloom period makes it a reliable late-season nectar source too.",
+    "sources": [
+      "Calscape — California Native Plant Society",
+      "Xerces Society",
+      "USDA Forest Service"
+    ]
+  },
+  {
+    "slug": "aristolochia-californica",
+    "common_name": "California Pipevine (California Dutchman's Pipe)",
+    "scientific_name": "Aristolochia californica",
+    "category": "flower",
+    "subcategory": "native deciduous larval host vine",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 730,
+      "max": 1095
+    },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -4
+      },
+      "note": "Set out a container-grown, cutting-propagated plant in fall so it can root in before the rainy season, giving it a trellis, fence, or shrub to twine up; seed germination is notoriously unreliable so propagation is primarily by cuttings."
+    },
+    "usda_zones": {
+      "min": 8,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 60,
+      "max": 120
+    },
+    "height_in": {
+      "min": 120,
+      "max": 240
+    },
+    "spread_in": {
+      "min": 72,
+      "max": 120
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Set out a container-grown, cutting-propagated plant in fall so it can root in before the rainy season, giving it a trellis, fence, or shrub to twine up and part shade in hot inland gardens (it tolerates more sun near the coast). Growth follows the old nursery adage of \"sleeps, creeps, then leaps\" — expect a slow first year or two before the vine takes off, and it drops its heart-shaped leaves and goes dormant in summer heat. This species is the essential, near-exclusive larval host of the Pipevine Swallowtail throughout coastal and interior California, and conservation groups actively promote planting it to rebuild local populations.",
+    "sources": [
+      "Calscape — California Native Plant Society",
+      "North American Butterfly Association",
+      "California Flora Nursery"
+    ]
+  },
+  {
+    "slug": "croton-monanthogynus",
+    "common_name": "Prairie Tea",
+    "scientific_name": "Croton monanthogynus",
+    "category": "flower",
+    "subcategory": "native prairie/glade larval host annual",
+    "days_to_germination": {
+      "min": 14,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 75,
+      "max": 100
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 3
+      },
+      "note": "Direct-sow this low, gray-green summer annual after the soil has warmed following the last frost, into lean, dry, disturbed, or rocky soil."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 8,
+      "max": 15
+    },
+    "height_in": {
+      "min": 8,
+      "max": 24
+    },
+    "spread_in": {
+      "min": 8,
+      "max": 16
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Direct-sow this low, gray-green summer annual after the soil has warmed following the last frost, into lean, dry, disturbed, or rocky soil where it naturally colonizes glades, pastures, and prairie edges. It asks for essentially no care, tolerating poor soil and drought, and will self-sow modestly from year to year once introduced. Its chief garden value is as one of only a handful of documented hosts for the Goatweed Leafwing butterfly, whose caterpillars feed on the small, felted leaves, and its seed is also eaten by quail and dove.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "Native Plant Society of Texas",
+      "Missouri Department of Conservation"
+    ]
+  },
+  {
+    "slug": "sida-rhombifolia",
+    "common_name": "Arrowleaf Sida",
+    "scientific_name": "Sida rhombifolia",
+    "category": "flower",
+    "subcategory": "larval host subshrub",
+    "days_to_germination": {
+      "min": 10,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 90,
+      "max": 120
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Direct-sow into warm soil after all frost danger has passed; behaves as a woody-based perennial in zones 9-11 and dies back to the root in colder winters within its hardiness range."
+    },
+    "usda_zones": {
+      "min": 8,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 24,
+      "max": 48
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 36
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Direct-sow into warm soil after all frost danger has passed; this diamond-leaved, small-flowered subshrub of the mallow family grows fast in full sun and tolerates poor, dry soils, self-sowing readily once established in Gulf Coast and Florida gardens. It behaves as a woody-based perennial in zones 9-11 and dies back to the root in colder winters within its hardiness range. Its main draw for pollinator gardeners is as a larval host for both the Common Checkered-Skipper and the Tropical Checkered-Skipper, which are otherwise hard to attract without a mallow-family host present.",
+    "sources": [
+      "USDA PLANTS Database",
+      "U.S. Fish and Wildlife Service",
+      "North American Butterfly Association"
+    ]
+  },
+  {
+    "slug": "viola-pedatifida",
+    "common_name": "Prairie Violet",
+    "scientific_name": "Viola pedatifida",
+    "category": "flower",
+    "subcategory": "native prairie larval host perennial",
+    "days_to_germination": {
+      "min": 14,
+      "max": 30
+    },
+    "germination_soil_temp_f": {
+      "min": 55,
+      "max": 65
+    },
+    "days_to_maturity": {
+      "min": 365,
+      "max": 540
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -6,
+        "max": -2
+      },
+      "note": "Sow seed outdoors in fall so a natural 60-day cold-moist winter chill breaks dormancy, into well-drained prairie soil in full to part sun."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 8
+    },
+    "spacing_in": {
+      "min": 8,
+      "max": 12
+    },
+    "height_in": {
+      "min": 4,
+      "max": 10
+    },
+    "spread_in": {
+      "min": 6,
+      "max": 10
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Sow seed outdoors in fall so a natural 60-day cold-moist winter chill breaks dormancy, into well-drained prairie soil in full to part sun; this deeply lobed, fine-textured violet is markedly more drought-tolerant than woodland violet species. It stays low and compact, making it well suited to short-grass prairie plantings and border edges rather than shaded gardens. Prairie violet is a critical larval host for the increasingly rare Regal Fritillary butterfly, whose restoration in the Midwest depends heavily on reestablishing violet-rich prairie remnants.",
+    "sources": [
+      "Prairie Moon Nursery",
+      "South Dakota State University Extension",
+      "University of Minnesota Extension"
+    ]
+  },
+  {
+    "slug": "viola-adunca",
+    "common_name": "Early Blue Violet (Hookedspur Violet)",
+    "scientific_name": "Viola adunca",
+    "category": "flower",
+    "subcategory": "native meadow larval host perennial",
+    "days_to_germination": {
+      "min": 14,
+      "max": 30
+    },
+    "germination_soil_temp_f": {
+      "min": 55,
+      "max": 65
+    },
+    "days_to_maturity": {
+      "min": 180,
+      "max": 365
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -6,
+        "max": -2
+      },
+      "note": "Sow stratified seed or set out nursery plugs in fall into consistently moist meadow, dune-swale, or open-woodland soil; adapts to full sun if kept adequately watered but performs best with light shade."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 6,
+      "max": 12
+    },
+    "height_in": {
+      "min": 2,
+      "max": 6
+    },
+    "spread_in": {
+      "min": 6,
+      "max": 12
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Sow stratified seed or set out nursery plugs in fall into consistently moist meadow, dune-swale, or open-woodland soil; it adapts to full sun if kept adequately watered but performs best with light shade and steady moisture. This small, spreading violet forms loose colonies by rhizome and reseeding, making an effective low groundcover in restoration and pollinator plantings from the Pacific Coast into the Rockies and northern Great Plains. It carries outsized conservation importance as the sole known larval host of the federally threatened Oregon Silverspot butterfly, and it also supports several other fritillary species across its wide range.",
+    "sources": [
+      "U.S. Fish and Wildlife Service",
+      "Native Plants Journal",
+      "Xerces Society"
+    ]
+  }
+]

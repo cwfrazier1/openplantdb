@@ -1,0 +1,167 @@
+[
+  {
+    "slug": "flakkee-carrot",
+    "common_name": "Flakkee Carrot",
+    "scientific_name": "Daucus carota 'Flakkee'",
+    "category": "vegetable",
+    "subcategory": "root",
+    "days_to_germination": {
+      "min": 10,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 45,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 75,
+      "max": 90
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -2,
+        "max": 6
+      },
+      "note": "Best sown from mid-spring through early summer for a fall harvest; a true maincrop storage carrot that keeps exceptionally well."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 2,
+      "max": 3
+    },
+    "height_in": {
+      "min": 10,
+      "max": 14
+    },
+    "spread_in": {
+      "min": 3,
+      "max": 5
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Named for the Flakkee polder region of Zeeland in the Netherlands, this sturdy Dutch heirloom produces broad-shouldered, blunt-tapered roots up to 8-9 inches long with strong tops that hold up well for bunching. It is a true maincrop storage carrot, best sown from mid-spring through early summer for a fall harvest that keeps exceptionally well in a root cellar or clamp. Flakkee's productivity and keeping ability made it foundational breeding stock behind many of today's Imperator and Autumn King-type carrots.",
+    "sources": [
+      "Vilmorin-Andrieux, The Vegetable Garden",
+      "Kitazawa Seed Co",
+      "Territorial Seed Company"
+    ]
+  },
+  {
+    "slug": "long-orange-improved-carrot",
+    "common_name": "Long Orange Improved Carrot",
+    "scientific_name": "Daucus carota 'Long Orange Improved'",
+    "category": "vegetable",
+    "subcategory": "root",
+    "days_to_germination": {
+      "min": 10,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 45,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 75,
+      "max": 85
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -2,
+        "max": 3
+      },
+      "note": "Direct sow into deeply worked beds and thin early for straight roots; a strong, old-fashioned keeper well suited to fall storage."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 3,
+      "max": 4
+    },
+    "height_in": {
+      "min": 10,
+      "max": 16
+    },
+    "spread_in": {
+      "min": 3,
+      "max": 5
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "A refined selection of the historic Dutch Long Orange carrot line that traces back to 17th-century Netherlands and was further developed by American seed houses in the 1800s, making it one of the direct ancestors of modern Danvers and Chantenay types. It produces long, tapered, deep-orange roots with a somewhat coarser core than modern Nantes hybrids but dependable yields in open garden soil. Direct sow into deeply worked beds and thin early for straight roots; it is a strong, old-fashioned keeper well suited to fall storage.",
+    "sources": [
+      "Seed Savers Exchange",
+      "Vilmorin-Andrieux, The Vegetable Garden",
+      "William Woys Weaver, Heirloom Vegetable Gardening"
+    ]
+  },
+  {
+    "slug": "diamant-celeriac",
+    "common_name": "Diamant Celeriac",
+    "scientific_name": "Apium graveolens var. rapaceum 'Diamant'",
+    "category": "vegetable",
+    "subcategory": "root",
+    "days_to_germination": {
+      "min": 14,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 110,
+      "max": 120
+    },
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -10,
+        "max": -8
+      },
+      "note": "Start seed indoors well ahead of the last frost, since germination is slow; transplant out only once nights stay reliably above freezing."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 8
+    },
+    "spacing_in": {
+      "min": 8,
+      "max": 10
+    },
+    "height_in": {
+      "min": 15,
+      "max": 20
+    },
+    "spread_in": {
+      "min": 10,
+      "max": 12
+    },
+    "sun": "full",
+    "water": "high",
+    "directions": "A German-bred open-pollinated celeriac long favored by market growers for producing round, relatively smooth globes with fewer fibrous rootlets than older celeriac types, which makes peeling and trimming considerably easier. Start seed indoors well ahead of the last frost, since germination is slow, and transplant out only once nights stay reliably above freezing. Keep the bed evenly and constantly moist through the long growing season, and periodically strip away side shoots and surface roots to concentrate growth into a dense, clean-skinned globe that stores well into winter.",
+    "sources": [
+      "Johnny's Selected Seeds",
+      "High Mowing Organic Seeds",
+      "Territorial Seed Company"
+    ]
+  }
+]

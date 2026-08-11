@@ -1,0 +1,277 @@
+[
+  {
+    "slug": "tom-thumb-popcorn",
+    "common_name": "Tom Thumb Popcorn (Dwarf Heirloom Strawberry-Type Popcorn)",
+    "scientific_name": "Zea mays 'Tom Thumb'",
+    "category": "vegetable",
+    "subcategory": "popcorn",
+    "days_to_germination": {
+      "min": 7,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 95
+    },
+    "days_to_maturity": {
+      "min": 85,
+      "max": 90
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 1,
+        "max": 3
+      },
+      "note": "Sow in blocks in average garden soil or containers; its dwarf habit lets it thrive in small spaces."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 6,
+      "max": 9
+    },
+    "height_in": {
+      "min": 36,
+      "max": 48
+    },
+    "spread_in": {
+      "min": 8,
+      "max": 12
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Sow in blocks in average garden soil or containers; its dwarf habit lets it thrive in small spaces where a full-size popcorn would be impractical. Tom Thumb is a diminutive heirloom popcorn reaching only three to four feet tall, producing small, deep-red ears reminiscent of miniature Strawberry Popcorn but on an even more compact plant. Left to dry fully on the stalk, the small hard kernels pop up light and tender, and the short ears and petite plants also make this variety popular for autumn ornamental displays as well as a genuinely productive novelty popcorn for the home popper.",
+    "sources": [
+      "Baker Creek Heirloom Seeds",
+      "Sand Hill Preservation Center",
+      "Seed Savers Exchange"
+    ]
+  },
+  {
+    "slug": "iochief-sweet-corn",
+    "common_name": "Iochief Sweet Corn (Iowa State Heirloom Open-Pollinated Sweet Corn)",
+    "scientific_name": "Zea mays 'Iochief'",
+    "category": "vegetable",
+    "subcategory": "sweet corn",
+    "days_to_germination": {
+      "min": 7,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 95
+    },
+    "days_to_maturity": {
+      "min": 85,
+      "max": 94
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 1,
+        "max": 3
+      },
+      "note": "Direct sow in blocks of at least four rows in fertile soil with consistent moisture during pollination."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 9,
+      "max": 12
+    },
+    "height_in": {
+      "min": 72,
+      "max": 96
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 18
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Direct sow in blocks of at least four rows in fertile soil with consistent moisture during pollination for full, well-filled ears. Iochief was released by Iowa State University in the early 1950s as a productive, open-pollinated main-season yellow sweet corn, at a time when hybrid sweet corns were rapidly displacing older varieties, and it has survived among heirloom growers for its vigorous stalks, large ears, and genuinely excellent old-fashioned sweet corn flavor. It remains a solid choice for gardeners who want to save their own seed year to year, something not possible with modern hybrid sweet corns.",
+    "sources": [
+      "Seed Savers Exchange",
+      "Iowa State University Extension",
+      "Sand Hill Preservation Center"
+    ]
+  },
+  {
+    "slug": "turkey-red-wheat",
+    "common_name": "Turkey Red Wheat (Historic Kansas Hard Red Winter Wheat)",
+    "scientific_name": "Triticum aestivum 'Turkey Red'",
+    "category": "vegetable",
+    "subcategory": "grain",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 40,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 240,
+      "max": 270
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -4
+      },
+      "note": "Drill or broadcast in fall, 4-6 weeks before the ground freezes, so seedlings establish a strong root system and low rosette before winter dormancy."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 8
+    },
+    "spacing_in": {
+      "min": 1,
+      "max": 3
+    },
+    "height_in": {
+      "min": 36,
+      "max": 48
+    },
+    "spread_in": {
+      "min": 3,
+      "max": 6
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Drill or broadcast in fall, 4-6 weeks before the ground freezes, so seedlings establish a strong root system and low rosette before winter dormancy, then resume growth and head out in late spring. Turkey Red was carried to Kansas by Mennonite immigrants from the Crimea and southern Russia in the 1870s, and its exceptional cold hardiness and drought tolerance helped transform the Great Plains into the wheat-growing heartland of the United States, effectively founding the American hard red winter wheat industry. The bran-red kernels mill into strong, high-protein bread flour with a robust, slightly sweet flavor, and the variety remains popular today among heritage-grain bakers and small growers for its resilience on marginal, low-input land.",
+    "sources": [
+      "Kansas State University Extension",
+      "Oldways Whole Grain Council",
+      "USDA Agricultural Research Service"
+    ]
+  },
+  {
+    "slug": "red-fife-wheat",
+    "common_name": "Red Fife Wheat (Canadian Heirloom Hard Red Spring Wheat)",
+    "scientific_name": "Triticum aestivum 'Red Fife'",
+    "category": "vegetable",
+    "subcategory": "grain",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 40,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 100,
+      "max": 120
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": -1
+      },
+      "note": "Sow as early as the ground can be worked in spring; needs a cool start and a short, reliable growing season."
+    },
+    "usda_zones": {
+      "min": 2,
+      "max": 7
+    },
+    "spacing_in": {
+      "min": 1,
+      "max": 3
+    },
+    "height_in": {
+      "min": 42,
+      "max": 54
+    },
+    "spread_in": {
+      "min": 3,
+      "max": 6
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Sow as early as the ground can be worked in spring, since Red Fife is a spring wheat that needs a cool start and a short, reliable growing season to head out before the heat of summer. Ontario farmer David Fife is credited with selecting this variety from a chance seed lot in the 1840s, and its earliness and hardiness made it the dominant wheat of the Canadian prairies for decades, underpinning the growth of the wheat trade that built Winnipeg and much of western Canadian agriculture. The kernels mill into strong, flavorful bread flour with a distinctive nutty character prized by heritage-grain bakers, and the variety is enjoying a revival among small growers seeking flavorful, regionally adapted wheat.",
+    "sources": [
+      "Seed Savers Exchange",
+      "University of Saskatchewan",
+      "Oldways Whole Grain Council"
+    ]
+  },
+  {
+    "slug": "sonora-wheat",
+    "common_name": "Sonora Wheat (White Sonora Wheat, Historic Southwestern Heirloom Wheat)",
+    "scientific_name": "Triticum aestivum 'Sonora'",
+    "category": "vegetable",
+    "subcategory": "grain",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 45,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 100,
+      "max": 120
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {
+        "min": -6,
+        "max": -2
+      },
+      "note": "Sow in fall in the low desert Southwest, where it grows through the mild winter; in cooler regions can also be sown as an early spring wheat."
+    },
+    "usda_zones": {
+      "min": 6,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 1,
+      "max": 3
+    },
+    "height_in": {
+      "min": 48,
+      "max": 60
+    },
+    "spread_in": {
+      "min": 3,
+      "max": 6
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Sow in fall in the low desert Southwest, where it grows through the mild winter and matures before the onset of intense spring heat; in cooler regions it can also be sown as an early spring wheat. Sonora wheat was brought to the Sonoran Desert missions by Spanish colonists in the 1700s and became the dominant wheat of California and the Southwest well into the 1800s, prized for thriving with minimal water on desert soils. Its soft, low-protein white kernels mill into a fine, tender flour especially suited to tortillas and pastries rather than yeasted bread, and the variety has been actively revived by Southwestern seed-saving organizations after nearly vanishing from cultivation in the twentieth century.",
+    "sources": [
+      "Native Seeds/SEARCH",
+      "University of Arizona Cooperative Extension",
+      "Oldways Whole Grain Council"
+    ]
+  }
+]

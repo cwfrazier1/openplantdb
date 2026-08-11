@@ -1,0 +1,326 @@
+[
+  {
+    "slug": "tephrosia-vogelii",
+    "common_name": "Fish Bean (Vogel's Tephrosia)",
+    "scientific_name": "Tephrosia vogelii",
+    "category": "cover-crop",
+    "subcategory": "tropical shrubby legume",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 180,
+      "max": 270
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 6
+      },
+      "note": "Scarify and broadcast seed into warm soil once frost danger has fully passed, as this fast-growing legume shrub establishes best in heat."
+    },
+    "usda_zones": {
+      "min": 9,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 24
+    },
+    "height_in": {
+      "min": 60,
+      "max": 120
+    },
+    "spread_in": {
+      "min": 24,
+      "max": 48
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Scarify and broadcast seed into warm soil once frost danger has fully passed, as this fast-growing legume shrub establishes best in heat. Widely planted as a hedgerow intercrop and short fallow in tropical Africa, where its leaves are cut and dug in as a nitrogen-rich green manure. The foliage contains rotenoid compounds and is traditionally used as a natural fish poison and crop biopesticide, so keep cuttings out of ponds and waterways. Coppice plants every few months to keep biomass leafy and prevent excessive woodiness.",
+    "sources": [
+      "World Agroforestry Centre (ICRAF) species database",
+      "FAO Ecocrop database"
+    ]
+  },
+  {
+    "slug": "desmanthus-virgatus",
+    "common_name": "Virgate Mimosa (Prostrate Bundleflower, Slender Mimosa)",
+    "scientific_name": "Desmanthus virgatus",
+    "category": "cover-crop",
+    "subcategory": "tropical perennial legume groundcover",
+    "days_to_germination": {
+      "min": 10,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 90,
+      "max": 120
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 4
+      },
+      "note": "Scarify the hard seed coat before broadcasting into warm, well-drained soil after the last frost date."
+    },
+    "usda_zones": {
+      "min": 9,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 6,
+      "max": 12
+    },
+    "height_in": {
+      "min": 12,
+      "max": 40
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Scarify the hard seed coat before broadcasting into warm, well-drained soil after the last frost date. This drought-tough, semi-woody legume forms a persistent nitrogen-fixing ground cover well suited to tropical and subtropical pasture leys sown alongside grasses like bahiagrass or bermudagrass. It tolerates heavy grazing and repeated mowing by resprouting from a woody crown, making it valuable for long-term soil cover on marginal or eroding land.",
+    "sources": [
+      "Tropical Forages (CSIRO/ILRI/FAO) database",
+      "USDA NRCS Plant Guide"
+    ]
+  },
+  {
+    "slug": "medicago-scutellata",
+    "common_name": "Snail Medic",
+    "scientific_name": "Medicago scutellata",
+    "category": "cover-crop",
+    "subcategory": "annual reseeding legume",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 50,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 90,
+      "max": 120
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Drill or broadcast shallowly onto fall soil in Mediterranean-type climates alongside a companion grass or cereal."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 3,
+      "max": 6
+    },
+    "height_in": {
+      "min": 8,
+      "max": 16
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Drill or broadcast shallowly onto fall soil in Mediterranean-type climates alongside a companion grass or cereal. Named for its tightly coiled, snail-shell-shaped pods, this low sprawling medic self-buries and reseeds from hard seed much like burr medic, giving continuous volunteer cover in orchard alleys and no-till pastures. It fixes nitrogen for a following cash crop and tolerates the periodic summer drought typical of its native range.",
+    "sources": [
+      "UC SAREP Cover Crop Database",
+      "NSW Department of Primary Industries pasture legume guide"
+    ]
+  },
+  {
+    "slug": "flemingia-macrophylla",
+    "common_name": "Flemingia",
+    "scientific_name": "Flemingia macrophylla",
+    "category": "cover-crop",
+    "subcategory": "tropical woody legume",
+    "days_to_germination": {
+      "min": 10,
+      "max": 20
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 180,
+      "max": 365
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 6
+      },
+      "note": "Sow directly into hedgerow rows in the warm season for use as a living fence or alley-cropping component alongside annual food crops."
+    },
+    "usda_zones": {
+      "min": 9,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 36
+    },
+    "height_in": {
+      "min": 48,
+      "max": 120
+    },
+    "spread_in": {
+      "min": 36,
+      "max": 60
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Sow directly into hedgerow rows in the warm season for use as a living fence or alley-cropping component alongside annual food crops. Flemingia thrives on acidic, infertile soils where many legumes fail and is repeatedly coppiced, with the cut leafy branches applied as mulch or dug in as green manure between crop rows. Its deep, spreading root system stabilizes sloped ground and suppresses weeds through shade and leaf litter buildup.",
+    "sources": [
+      "World Agroforestry Centre (ICRAF) species database",
+      "FAO Ecocrop database"
+    ]
+  },
+  {
+    "slug": "melilotus-suaveolens",
+    "common_name": "Manchurian Sweetclover (Dahurian Sweetclover)",
+    "scientific_name": "Melilotus suaveolens",
+    "category": "cover-crop",
+    "subcategory": "cold-hardy legume green manure",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 45,
+      "max": 65
+    },
+    "days_to_maturity": {
+      "min": 90,
+      "max": 365
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "soil_workable",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 3
+      },
+      "note": "Broadcast onto cold, newly workable soil as early in spring as the ground can be tilled, since this is among the most cold-tolerant sweetclovers."
+    },
+    "usda_zones": {
+      "min": 2,
+      "max": 7
+    },
+    "spacing_in": {
+      "min": 3,
+      "max": 6
+    },
+    "height_in": {
+      "min": 24,
+      "max": 60
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 18
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Broadcast onto cold, newly workable soil as early in spring as the ground can be tilled, since this is among the most cold-tolerant sweetclovers, long used as a green manure across Manchuria, Siberia, and northern China. Grow it as a short annual plow-down crop or let it stand a second season biennially for maximum root and nitrogen-fixing benefit before turning it under. As with other sweetclovers, avoid feeding moldy or improperly cured hay, because damaged foliage develops coumarin compounds that convert to a livestock-toxic anticoagulant.",
+    "sources": [
+      "USDA GRIN Taxonomy database",
+      "FAO Ecocrop database"
+    ]
+  },
+  {
+    "slug": "trifolium-glomeratum",
+    "common_name": "Clustered Clover (Cluster Clover)",
+    "scientific_name": "Trifolium glomeratum",
+    "category": "cover-crop",
+    "subcategory": "annual reseeding legume",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 50,
+      "max": 68
+    },
+    "days_to_maturity": {
+      "min": 90,
+      "max": 120
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Broadcast at a shallow depth into light, acidic sandy soils in autumn, ideally with a light surface roll to firm the seedbed."
+    },
+    "usda_zones": {
+      "min": 8,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 2,
+      "max": 4
+    },
+    "height_in": {
+      "min": 4,
+      "max": 10
+    },
+    "spread_in": {
+      "min": 6,
+      "max": 12
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Broadcast at a shallow depth into light, acidic sandy soils in autumn, ideally with a light surface roll to firm the seedbed. This mat-forming annual clover was developed for dryland pasture improvement in Mediterranean-type climates and persists through hard grazing and mowing by reseeding heavily from hard seed each summer. Interseed it with companion grasses to lift pasture nitrogen levels without any need for replanting in following years.",
+    "sources": [
+      "NSW Department of Primary Industries pasture legume guide",
+      "Australian Pastures Genebank species notes"
+    ]
+  }
+]

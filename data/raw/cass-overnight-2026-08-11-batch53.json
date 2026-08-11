@@ -1,0 +1,112 @@
+[
+  {
+    "slug": "oenothera-perennis",
+    "common_name": "Little Sundrops",
+    "scientific_name": "Oenothera perennis",
+    "category": "flower",
+    "subcategory": "native perennial wildflower",
+    "days_to_germination": {
+      "min": 14,
+      "max": 28
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 180,
+      "max": 365
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": -2,
+        "max": 4
+      },
+      "note": "Surface-sow the tiny seed in spring on well-drained, sandy or gravelly soil in a meadow, glade, or rock-garden setting."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 8
+    },
+    "spacing_in": {
+      "min": 8,
+      "max": 12
+    },
+    "height_in": {
+      "min": 6,
+      "max": 18
+    },
+    "spread_in": {
+      "min": 8,
+      "max": 12
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Surface-sow the tiny seed in spring on well-drained, sandy or gravelly soil in a meadow, glade, or rock-garden setting, since this compact, non-spreading Oenothera stays tidy compared to its more aggressive relatives. Unlike many evening primroses, its inch-wide lemon-yellow flowers open in daytime as well as evening, drawing both day-flying bees and dusk-active moths, including specialist bees that visit only Oenothera pollen. It forms a low basal rosette with slender flowering stems and works well massed at the front of a dry native border. Deadheading is unnecessary, as seed capsules provide a modest food source for small birds through fall.",
+    "sources": [
+      "USDA PLANTS Database",
+      "Native Plant Trust Go Botany",
+      "Minnesota Wildflowers"
+    ]
+  },
+  {
+    "slug": "linum-sulcatum",
+    "common_name": "Yellow Flax (Grooved Flax)",
+    "scientific_name": "Linum sulcatum",
+    "category": "flower",
+    "subcategory": "native annual/biennial wildflower",
+    "days_to_germination": {
+      "min": 10,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 55,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 90,
+      "max": 150
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -3,
+        "max": 2
+      },
+      "note": "Direct-sow onto dry, disturbed or gravelly prairie soil a few weeks before the last frost; keep on lean soil with reduced competition rather than in a rich, crowded bed."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 8
+    },
+    "spacing_in": {
+      "min": 4,
+      "max": 8
+    },
+    "height_in": {
+      "min": 8,
+      "max": 24
+    },
+    "spread_in": {
+      "min": 4,
+      "max": 8
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Direct-sow onto dry, disturbed or gravelly prairie soil a few weeks before the last frost, since this short-lived annual or biennial establishes quickly and often self-sows to persist in a planting once introduced. Small, bright yellow five-petaled flowers open for only a few morning hours through summer, closing by early afternoon, and are visited by small native bees and syrphid flies during their brief daily window. It is a pioneer species well suited to filling bare or recently disturbed patches in a prairie restoration while slower perennials establish around it. Because it is not competitive in dense vegetation, keep it on lean soil with reduced competition rather than in a rich, crowded bed.",
+    "sources": [
+      "USDA PLANTS Database",
+      "Illinois Wildflowers",
+      "Minnesota Wildflowers"
+    ]
+  }
+]

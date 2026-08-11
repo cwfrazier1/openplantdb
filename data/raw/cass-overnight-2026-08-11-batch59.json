@@ -1,0 +1,320 @@
+[
+  {
+    "slug": "cascara-sagrada",
+    "common_name": "Cascara Sagrada",
+    "scientific_name": "Rhamnus purshiana",
+    "category": "herb",
+    "subcategory": "medicinal tree/shrub",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 2920,
+      "max": 3650
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 8
+      },
+      "note": "Transplant dormant bare-root or potted stock in fall or early spring into humus-rich, well-drained soil in the dappled shade of an understory site."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 96,
+      "max": 180
+    },
+    "height_in": {
+      "min": 180,
+      "max": 360
+    },
+    "spread_in": {
+      "min": 96,
+      "max": 240
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "WARNING: bark must be harvested only from mature (8+ year old) trees and aged at least a year before use — fresh, unaged bark causes severe cramping and should never be used directly off the tree, and long-term laxative use is discouraged due to dependency and electrolyte loss risk. Transplant dormant bare-root or potted stock in fall or early spring into humus-rich, well-drained soil in the dappled shade of an understory site, mimicking its native Pacific Northwest forest habitat. This slow-growing native tree is the traditional source of cascara bark, a classic stimulant laxative once aged properly.",
+    "sources": [
+      "USDA Forest Service Fire Effects Information System",
+      "American Botanical Council HerbalGram",
+      "USDA NRCS Plant Guide"
+    ]
+  },
+  {
+    "slug": "alexandrian-senna",
+    "common_name": "Alexandrian Senna",
+    "scientific_name": "Senna alexandrina",
+    "category": "herb",
+    "subcategory": "medicinal shrub",
+    "days_to_germination": {
+      "min": 10,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 90,
+      "max": 150
+    },
+    "maturity_from": "seed",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -6
+      },
+      "note": "Nick or soak the hard seed coat before starting indoors 6-8 weeks ahead of the last frost, then transplant into full sun and sandy, fast-draining soil once nights stay warm."
+    },
+    "usda_zones": {
+      "min": 9,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 24,
+      "max": 36
+    },
+    "height_in": {
+      "min": 24,
+      "max": 48
+    },
+    "spread_in": {
+      "min": 24,
+      "max": 36
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "CAUTION: for short-term use only, contraindicated in pregnancy and intestinal obstruction; can cause cramping or electrolyte imbalance with overuse. Nick or soak the hard seed coat before starting indoors 6-8 weeks ahead of the last frost, then transplant into full sun and sandy, fast-draining soil once nights stay warm. Leaves and pods contain sennosides and are dried for the classic short-term stimulant laxative used in traditional and modern medicine alike.",
+    "sources": [
+      "American Botanical Council",
+      "WHO Monographs on Selected Medicinal Plants",
+      "USDA GRIN"
+    ]
+  },
+  {
+    "slug": "black-horehound",
+    "common_name": "Black Horehound",
+    "scientific_name": "Ballota nigra",
+    "category": "herb",
+    "subcategory": "medicinal perennial",
+    "days_to_germination": {
+      "min": 14,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 90,
+      "max": 120
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -2,
+        "max": 2
+      },
+      "note": "Direct-sow around the last frost into average, well-drained soil; naturalizes easily and self-seeds once established."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 8
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 24,
+      "max": 36
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Avoid during pregnancy, as this herb has a traditional history of use as a uterine stimulant. Direct-sow around the last frost into average, well-drained soil; this coarse, strong-smelling mint-family perennial naturalizes easily and self-seeds once established. Traditionally the flowering tops are dried for tea used to settle nausea and mild anxiety, distinct from white horehound (Marrubium vulgare), which is used mainly for coughs.",
+    "sources": [
+      "Plants For A Future (PFAF)",
+      "European Medicines Agency Community Herbal Monograph",
+      "American Botanical Council"
+    ]
+  },
+  {
+    "slug": "weeping-forsythia",
+    "common_name": "Weeping Forsythia (Lian Qiao)",
+    "scientific_name": "Forsythia suspensa",
+    "category": "herb",
+    "subcategory": "medicinal shrub",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 730,
+      "max": 1095
+    },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 8
+      },
+      "note": "Root softwood cuttings in early summer or layer low branches, then plant out in fall or spring in average, well-drained soil in full sun."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 8
+    },
+    "spacing_in": {
+      "min": 72,
+      "max": 96
+    },
+    "height_in": {
+      "min": 96,
+      "max": 120
+    },
+    "spread_in": {
+      "min": 96,
+      "max": 120
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Root softwood cuttings in early summer or layer low branches, then plant out in fall or spring in average, well-drained soil in full sun. Distinct from the common ornamental hybrid forsythia, this species is grown for its fruit capsules, harvested green or ripe and used in traditional Chinese medicine formulas said to clear heat and support the body during colds and sore throats. Prune right after spring flowering so next year's fruiting wood has time to develop.",
+    "sources": [
+      "American Botanical Council",
+      "Missouri Botanical Garden Plant Finder",
+      "Chinese Pharmacopoeia (via ABC HerbalGram)"
+    ]
+  },
+  {
+    "slug": "yuan-zhi",
+    "common_name": "Yuan Zhi (Chinese Senega Root)",
+    "scientific_name": "Polygala tenuifolia",
+    "category": "herb",
+    "subcategory": "adaptogen root",
+    "days_to_germination": {
+      "min": 21,
+      "max": 35
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 1095,
+      "max": 1460
+    },
+    "maturity_from": "seed",
+    "sow_method": "indoor-start",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "soil_workable",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Start seed indoors in a sandy, gritty mix and transplant into lean, well-drained soil once the ground can be worked; resents wet, heavy conditions."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 8
+    },
+    "spacing_in": {
+      "min": 6,
+      "max": 10
+    },
+    "height_in": {
+      "min": 8,
+      "max": 16
+    },
+    "spread_in": {
+      "min": 8,
+      "max": 12
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "May interact with sedative medications and is not a substitute for treating depression or cognitive decline. Start seed indoors in a sandy, gritty mix and transplant into lean, well-drained soil once the ground can be worked, since this steppe native resents wet, heavy conditions and is slow and seldom available outside specialty herb nurseries in the US. The pencil-thin roots are dried and aged for three to four years before use in TCM formulas traditionally taken to calm the mind, ease coughs with phlegm, and support memory.",
+    "sources": [
+      "American Botanical Council",
+      "Bensky's Chinese Herbal Medicine: Materia Medica",
+      "Missouri Botanical Garden"
+    ]
+  },
+  {
+    "slug": "common-centaury",
+    "common_name": "Common Centaury",
+    "scientific_name": "Centaurium erythraea",
+    "category": "herb",
+    "subcategory": "tea herb",
+    "days_to_germination": {
+      "min": 14,
+      "max": 28
+    },
+    "germination_soil_temp_f": {
+      "min": 55,
+      "max": 65
+    },
+    "days_to_maturity": {
+      "min": 90,
+      "max": 120
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": 0
+      },
+      "note": "Surface-sow the dust-fine seed directly in early spring, since it germinates best with light exposure and resents root disturbance from transplanting."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 4,
+      "max": 6
+    },
+    "height_in": {
+      "min": 6,
+      "max": 18
+    },
+    "spread_in": {
+      "min": 4,
+      "max": 8
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Should be avoided by anyone with active peptic ulcers given its intense bitterness. Surface-sow the dust-fine seed directly in early spring, since it germinates best with light exposure and resents root disturbance from transplanting. The whole flowering plant is cut and dried at bloom time to make a classic bitter tea, taken in small amounts before meals in traditional European herbalism to stimulate appetite and digestion.",
+    "sources": [
+      "ESCOP/Commission E Monographs",
+      "Plants For A Future (PFAF)",
+      "American Botanical Council"
+    ]
+  }
+]
