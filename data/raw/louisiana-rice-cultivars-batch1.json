@@ -1,0 +1,265 @@
+[
+  {
+    "slug": "cocodrie-rice",
+    "common_name": "Cocodrie Rice",
+    "scientific_name": "Oryza sativa 'Cocodrie'",
+    "category": "vegetable",
+    "subcategory": "grain",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 105,
+      "max": 130
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Direct sow in flooded or consistently moist ground after last frost when soil temperature reaches 65F; in zone 9 plant April-May for harvest August-September. Cocodrie is an LSU AgCenter long-grain release once grown on more Gulf South acreage than any other rice variety."
+    },
+    "usda_zones": {
+      "min": 8,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 6,
+      "max": 9
+    },
+    "height_in": {
+      "min": 36,
+      "max": 48
+    },
+    "spread_in": {
+      "min": 6,
+      "max": 9
+    },
+    "sun": "full",
+    "water": "high",
+    "directions": "Sow seed 0.5-1 inch deep in rich, heavy, moisture-retentive soil in full sun; Cocodrie is a semi-dwarf, long-grain rice released by the LSU AgCenter in 1998 and named for Louisiana's Bayou Cocodrie, quickly becoming the dominant commercial rice variety across the Gulf South rice belt because of its early maturity, high milling yield, and reliable performance under both flooded and continuously moist conditions. Home gardeners can grow it in beds kept saturated through the season rather than in true paddies, though yields are highest with standing water for at least part of the cycle. The semi-dwarf, sturdy stalks resist lodging (falling over) better than older tall varieties, which matters most in wet, windy Gulf Coast summers. Harvest when the seed heads droop and turn golden-tan, then dry and hull. As a widely proven Louisiana-bred variety, Cocodrie is an accessible entry point for gardeners curious about growing their own rice in zone 8-10 conditions.",
+    "sources": [
+      "Louisiana State University AgCenter — Rice Variety Releases",
+      "Texas A&M AgriLife Extension — Rice Production Guide",
+      "University of Arkansas Division of Agriculture — Rice Cultivar Notes"
+    ]
+  },
+  {
+    "slug": "cheniere-rice",
+    "common_name": "Cheniere Rice",
+    "scientific_name": "Oryza sativa 'Cheniere'",
+    "category": "vegetable",
+    "subcategory": "grain",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 100,
+      "max": 125
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Direct sow in flooded or consistently moist ground after last frost when soil temperature reaches 65F; in zone 9 plant April-May for harvest August-September. Cheniere is an early-maturing LSU AgCenter long-grain release, useful where a shorter Gulf South growing window is a concern."
+    },
+    "usda_zones": {
+      "min": 8,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 6,
+      "max": 9
+    },
+    "height_in": {
+      "min": 36,
+      "max": 48
+    },
+    "spread_in": {
+      "min": 6,
+      "max": 9
+    },
+    "sun": "full",
+    "water": "high",
+    "directions": "Sow seed 0.5-1 inch deep in rich, heavy, moisture-retentive soil in full sun; Cheniere is a very early-maturing, semi-dwarf long-grain rice released by the LSU AgCenter and named for the wooded ridges (cheniers) of coastal Louisiana, bred to reach harvest several days sooner than standard varieties like Cocodrie while keeping good milling quality and yield. The early maturity is useful for a second (ratoon) crop from the same plants after the first harvest, a practice common in the Gulf South where the long warm season allows regrowth from cut stubble to produce a smaller second harvest in fall. Keep the bed continuously saturated through the growing season for best results, and harvest the first crop when seed heads droop and turn golden-tan. After cutting the first crop high (leaving several inches of stubble), keep the field flooded and fertilized lightly to encourage ratoon regrowth for gardeners who want to try the extended Gulf South rice-growing technique.",
+    "sources": [
+      "Louisiana State University AgCenter — Rice Variety Releases",
+      "Texas A&M AgriLife Extension — Rice Production Guide",
+      "Mississippi State University Extension — Rice Production Guide"
+    ]
+  },
+  {
+    "slug": "jazzman-rice",
+    "common_name": "Jazzman Rice",
+    "scientific_name": "Oryza sativa 'Jazzman'",
+    "category": "vegetable",
+    "subcategory": "grain",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 110,
+      "max": 135
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Direct sow in flooded or consistently moist ground after last frost when soil temperature reaches 65F; in zone 9 plant April-May for harvest late August-September. Jazzman is an aromatic, jasmine-type long-grain rice released by the LSU AgCenter as a domestic alternative to imported jasmine rice."
+    },
+    "usda_zones": {
+      "min": 8,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 6,
+      "max": 9
+    },
+    "height_in": {
+      "min": 40,
+      "max": 54
+    },
+    "spread_in": {
+      "min": 6,
+      "max": 9
+    },
+    "sun": "full",
+    "water": "high",
+    "directions": "Sow seed 0.5-1 inch deep in rich, heavy, moisture-retentive soil in full sun; Jazzman is an aromatic long-grain rice released by the LSU AgCenter and bred to rival imported jasmine rice in fragrance and cooking quality, giving Gulf South growers a domestically adapted option for fragrant rice. The grain develops a distinctive popcorn-like aroma during cooking and a soft, slightly sticky texture similar to Thai jasmine rice, making it well suited to Southeast Asian and Cajun-Creole dishes alike. Keep the bed continuously saturated through the growing season, since consistent moisture through grain fill is especially important for developing the variety's signature aroma and flavor. Harvest when seed heads droop and turn golden-tan, then dry thoroughly before hulling and storing; aromatic rice varieties are somewhat more prone to losing fragrance in storage than standard long-grain types, so use home-hulled grain within the first several months for the best aroma.",
+    "sources": [
+      "Louisiana State University AgCenter — Rice Variety Releases",
+      "Texas A&M AgriLife Extension — Rice Production Guide",
+      "University of Arkansas Division of Agriculture — Rice Cultivar Notes"
+    ]
+  },
+  {
+    "slug": "caramel-heuchera",
+    "common_name": "Caramel Heuchera (Amber Coral Bells)",
+    "scientific_name": "Heuchera villosa 'Caramel'",
+    "category": "flower",
+    "subcategory": "shade perennial",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 180,
+      "max": 365
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 6
+      },
+      "note": "Plant divisions or container plants in spring in moist, well-drained, humus-rich soil in partial to full shade; Caramel is a heat-tolerant Heuchera villosa selection that holds its color and vigor better than many Heuchera americana hybrids in Gulf South summers."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 10,
+      "max": 14
+    },
+    "spread_in": {
+      "min": 14,
+      "max": 20
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Plant in moist, well-drained, humus-rich soil in partial to full shade, with some morning sun to develop the richest color; Caramel is a Terra Nova Nurseries introduction bred from heat-tolerant Heuchera villosa parentage, producing rounded, ruffled leaves that emerge apricot-orange and mature to a warm amber-caramel with rosy undertones, deepening further as nights cool in fall. The villosa heritage gives Caramel notably better tolerance of Gulf South heat and humidity than many hosta-and-heuchera-border classics, which can struggle or rot in a wet zone 9 summer. Small white flowers appear on wiry stems in early summer but are secondary to the foliage display. Give it consistent moisture without waterlogging, since good drainage matters more than rich soil for keeping the crown from rotting. Divide congested clumps in early spring every 3-4 years, and remove tattered old leaves in late winter to make way for fresh spring growth.",
+    "sources": [
+      "Terra Nova Nurseries — Heuchera Introductions",
+      "North Carolina State Extension — Heuchera for Southern Gardens",
+      "Missouri Botanical Garden Plant Finder"
+    ]
+  },
+  {
+    "slug": "obsidian-heuchera",
+    "common_name": "Obsidian Heuchera (Near-Black Coral Bells)",
+    "scientific_name": "Heuchera 'Obsidian'",
+    "category": "flower",
+    "subcategory": "shade perennial",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 180,
+      "max": 365
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 6
+      },
+      "note": "Plant divisions or container plants in spring in moist, well-drained, humus-rich soil in partial shade; some morning sun deepens the near-black color, while too much afternoon sun in zone 9 can scorch the glossy leaves."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 8,
+      "max": 12
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 18
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Plant in moist, well-drained, humus-rich soil in partial shade, sheltered from harsh afternoon sun in hot climates; Obsidian is a Terra Nova Nurseries introduction grown for its glossy, rounded leaves in one of the darkest, most saturated near-black purple tones available in the Heuchera color range, holding its dramatic color through the season better than many purple-leaf hybrids. The dark, reflective foliage makes a striking contrast planted alongside chartreuse hostas, golden Japanese forest grass, or silver-leaved Brunnera. Airy white flowers appear on thin stems in early summer, adding a light textural contrast above the dense foliage mound. Consistent moisture and sharp drainage both matter for this shallow-rooted plant, since soggy crowns rot quickly while drought stresses the leaves. Divide crowded clumps every 3-4 years in early spring, and clean up tattered winter foliage to keep the plant looking its best going into the growing season.",
+    "sources": [
+      "Terra Nova Nurseries — Heuchera Introductions",
+      "North Carolina State Extension — Heuchera for Southern Gardens",
+      "Missouri Botanical Garden Plant Finder"
+    ]
+  }
+]

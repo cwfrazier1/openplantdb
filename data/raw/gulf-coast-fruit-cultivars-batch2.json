@@ -1,0 +1,271 @@
+[
+  {
+    "slug": "croatan-blueberry",
+    "common_name": "Croatan Blueberry",
+    "scientific_name": "Vaccinium corymbosum 'Croatan'",
+    "category": "berry",
+    "subcategory": "blueberry",
+    "days_to_germination": {
+      "min": 30,
+      "max": 90
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 730,
+      "max": 1095
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant during winter dormancy in very acidic, well-drained soil; Croatan is one of the earliest North Carolina State highbush releases bred with low chill hours in mind, making it one of the more reliable highbush-type blueberries for zone 8-9 gardens."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 48,
+      "max": 60
+    },
+    "height_in": {
+      "min": 48,
+      "max": 72
+    },
+    "spread_in": {
+      "min": 36,
+      "max": 60
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Amend soil to pH 4.5-5.0 with peat or elemental sulfur before planting; Croatan is a historic North Carolina State University highbush blueberry release from the 1950s, bred specifically to bring highbush fruit quality to areas with milder winters than the traditional northern highbush belt, and it remains one of the lower-chill highbush options that can crop reasonably well in zone 8-9. Berries are medium-sized, light blue, firm, and sweet with the classic highbush flavor that many gardeners prefer over rabbiteye. Croatan is partially self-fruitful but produces heavier, larger-berried crops with a second southern highbush or rabbiteye cultivar blooming nearby. The compact, rounded bush needs consistent moisture and acidic, well-drained soil to perform well in Gulf South clay, so raised beds or heavily amended planting holes give the best results. Prune out the oldest wood each winter to keep the bush renewing itself.",
+    "sources": [
+      "North Carolina State University Extension — Highbush Blueberry Cultivars",
+      "University of Georgia Cooperative Extension — Blueberry Cultivars for the South",
+      "LSU AgCenter — Blueberry Variety Performance in Louisiana"
+    ]
+  },
+  {
+    "slug": "cape-fear-blueberry",
+    "common_name": "Cape Fear Blueberry",
+    "scientific_name": "Vaccinium corymbosum 'Cape Fear'",
+    "category": "berry",
+    "subcategory": "blueberry",
+    "days_to_germination": {
+      "min": 30,
+      "max": 90
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 730,
+      "max": 1095
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant during winter dormancy in very acidic, well-drained soil; Cape Fear is an early-ripening North Carolina State southern highbush release bred for low chill requirements, well suited to zone 8-9 Gulf South winters."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 48,
+      "max": 60
+    },
+    "height_in": {
+      "min": 48,
+      "max": 72
+    },
+    "spread_in": {
+      "min": 36,
+      "max": 60
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Amend soil to pH 4.5-5.0 with peat or elemental sulfur before planting; Cape Fear is a southern highbush blueberry released by North Carolina State University and selected for an early ripening window combined with a comparatively low chill requirement, which lets it set a full crop even after mild Gulf South winters that shortchange higher-chill northern highbush types. Fruit is medium-large, light blue, and firm with good classic highbush flavor. Cape Fear is only partially self-fruitful, so plant a second southern highbush or rabbiteye cultivar nearby to improve fruit set and berry size. Because southern highbush types have shallower, less drought-tolerant roots than rabbiteye, keep a thick layer of pine bark or pine straw mulch over the root zone and irrigate through dry spells, especially in the first two years after planting.",
+    "sources": [
+      "North Carolina State University Extension — Southern Highbush Blueberry Cultivars",
+      "University of Georgia Cooperative Extension — Blueberry Cultivars for the South",
+      "Texas A&M AgriLife Extension — Blueberry Production Guide"
+    ]
+  },
+  {
+    "slug": "ranger-blackberry",
+    "common_name": "Ranger Blackberry",
+    "scientific_name": "Rubus 'Ranger'",
+    "category": "berry",
+    "subcategory": "bramble",
+    "days_to_germination": {
+      "min": 30,
+      "max": 90
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 365,
+      "max": 548
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant dormant canes in late winter through early spring; Ranger is an older erect, thorny USDA-era blackberry that still performs reliably in zone 6-9 heat and humidity with minimal disease trouble."
+    },
+    "usda_zones": {
+      "min": 6,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 36,
+      "max": 48
+    },
+    "height_in": {
+      "min": 60,
+      "max": 84
+    },
+    "spread_in": {
+      "min": 36,
+      "max": 48
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant dormant canes 1-2 inches deep in fertile, well-drained, slightly acidic soil; Ranger is a mid-20th-century erect, thorny blackberry from the early era of USDA bramble breeding, valued today mostly for its toughness, cold hardiness, and productivity under low-input conditions rather than for the largest berries. Fruit is medium-sized, firm, and tart-sweet, well suited to jam, jelly, and cobbler more than fresh eating. The upright canes are self-supporting in home gardens, though a simple wire trellis keeps rows tidier and eases picking. Prune out spent floricanes to the ground right after harvest and thin new primocanes to 4-6 per plant, tipping them at about 36 inches in late summer to encourage the lateral branches that carry next year's crop. Its old-fashioned toughness and reliable cropping make Ranger a good pick for a low-maintenance hedgerow planting rather than a showcase bed.",
+    "sources": [
+      "USDA Agricultural Research Service — historic blackberry cultivar records",
+      "University of Arkansas Division of Agriculture — Blackberry Cultivar Notes",
+      "Texas A&M AgriLife Extension — Blackberry Variety Selection"
+    ]
+  },
+  {
+    "slug": "ksu-benson-pawpaw",
+    "common_name": "KSU-Benson Pawpaw",
+    "scientific_name": "Asimina triloba 'KSU-Benson'",
+    "category": "fruit",
+    "subcategory": "tree fruit",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 1825,
+      "max": 2190
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": 4
+      },
+      "note": "Plant container-grown trees in spring in moist, humus-rich, slightly acidic to neutral soil in partial shade when young, transitioning to full sun at maturity; KSU-Benson needs a genetically distinct pawpaw cultivar nearby for cross-pollination and reliable fruit set."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 120,
+      "max": 180
+    },
+    "height_in": {
+      "min": 144,
+      "max": 240
+    },
+    "spread_in": {
+      "min": 120,
+      "max": 180
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Set out grafted trees in spring in moist, humus-rich, slightly acidic to neutral soil, shading young trees for their first year or two before they can tolerate full sun. KSU-Benson is a Kentucky State University pawpaw research program release, selected alongside sibling cultivars like KSU-Atwood for good fruit size and flavor from the university's decades-long regional germplasm evaluation program. Trees are vigorous and productive once established, bearing medium-to-large fruit with smooth, rich, custardy flesh in the late-summer harvest window typical of named pawpaw selections. Because pawpaws are not self-fertile, interplant with a second, genetically distinct cultivar within about 50 feet, and consider hand-pollinating with a small paintbrush during the brief, faintly unpleasant-smelling maroon bloom, since the flies and beetles that pollinate pawpaw in the wild are often scarce around home gardens.",
+    "sources": [
+      "Kentucky State University Pawpaw Research Program",
+      "Virginia Cooperative Extension — Pawpaw Production",
+      "North Carolina State Extension — Pawpaw Cultivars"
+    ]
+  },
+  {
+    "slug": "louisiana-phlox",
+    "common_name": "Louisiana Phlox",
+    "scientific_name": "Phlox pulchra",
+    "category": "flower",
+    "subcategory": "native woodland wildflower",
+    "days_to_germination": {
+      "min": 21,
+      "max": 45
+    },
+    "germination_soil_temp_f": {
+      "min": 55,
+      "max": 68
+    },
+    "days_to_maturity": {
+      "min": 120,
+      "max": 180
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -6,
+        "max": -2
+      },
+      "note": "Plant nursery-propagated divisions in fall in humus-rich, well-drained soil in partial to full shade; cold-stratify seed 6-8 weeks if starting from seed, since fresh seed germinates unevenly. Never dig from wild colonies — buy nursery-propagated stock only."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 10,
+      "max": 15
+    },
+    "height_in": {
+      "min": 10,
+      "max": 16
+    },
+    "spread_in": {
+      "min": 10,
+      "max": 15
+    },
+    "sun": "shade",
+    "water": "moderate",
+    "directions": "Plant nursery-grown divisions in fall in humus-rich, well-drained soil in partial to full shade; Louisiana phlox is a spring-blooming woodland perennial endemic to the longleaf pine and hardwood forests of Louisiana and adjacent states, forming loose, fuzzy-leaved mounds topped in April with fragrant clusters of pink to lavender-pink flowers. It spreads slowly by short rhizomes to form an attractive, non-aggressive woodland groundcover rather than the mat-forming habit of creeping phlox species. Give it the same conditions as other spring woodland wildflowers: consistent moisture in spring while blooming, a bit more tolerance for dry shade once established under trees, and a leaf-litter mulch that mimics its native forest floor habitat. Powdery mildew can appear on foliage in late summer humidity; good air circulation and morning sun help minimize it. An excellent, under-planted native choice for Gulf South shade gardens looking for spring color under pines and hardwoods.",
+    "sources": [
+      "USDA PLANTS Database",
+      "Louisiana Native Plant Society",
+      "Lady Bird Johnson Wildflower Center"
+    ]
+  }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "slug": "louisiana-purple-sugarcane",
+    "common_name": "Louisiana Purple Sugarcane (Heirloom Syrup Cane)",
+    "scientific_name": "Saccharum officinarum 'Louisiana Purple'",
+    "category": "vegetable",
+    "subcategory": "grass",
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 270,
+      "max": 365
+    },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 4
+      },
+      "note": "Plant stalk sections (billets) with 2-3 nodes horizontally in a shallow furrow after last frost; in zone 9 plant February-April. Louisiana Purple is a deep-purple-stalked heirloom cane traditionally grown for cane syrup and chewing cane."
+    },
+    "usda_zones": {
+      "min": 8,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 24,
+      "max": 36
+    },
+    "height_in": {
+      "min": 84,
+      "max": 144
+    },
+    "spread_in": {
+      "min": 24,
+      "max": 36
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant billets of two or three nodes in loose, fertile, well-drained soil in full sun, keeping soil consistently moist through the growing season. Louisiana Purple is an heirloom sugarcane variety with deep purple-to-maroon stalks, long grown in Deep South dooryard patches both for chewing fresh (stripping and gnawing the sweet fibrous stalk) and for cooking down into dark cane syrup. Its rich color makes it a popular choice for ornamental use along fences and property lines in addition to its culinary role. Traditionally harvested in November and December after the first light frosts sweeten the stalks, it is then stripped of leaves, crushed to extract the juice, and slow-cooked into syrup, a staple of Southern country cooking. The tall, clumping perennial grass typically dies back to the rhizome after a hard freeze in zone 8-9 and regrows vigorously from the root each spring, though a hard freeze can reduce syrup yield if it strikes before harvest.",
+    "sources": [
+      "Louisiana State University AgCenter — Sugarcane Production and Heirloom Varieties",
+      "Southern Foodways Alliance — Cane Syrup Traditions",
+      "Mississippi State University Extension — Sugarcane for the Home Garden"
+    ]
+  },
+  {
+    "slug": "cp-65-357-sugarcane",
+    "common_name": "CP 65-357 Sugarcane (Historic Louisiana Commercial Cane)",
+    "scientific_name": "Saccharum officinarum 'CP 65-357'",
+    "category": "vegetable",
+    "subcategory": "grass",
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 270,
+      "max": 365
+    },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 4
+      },
+      "note": "Plant stalk sections (billets) with 2-3 nodes horizontally in a shallow furrow after last frost; in zone 9 plant February-April. CP 65-357 is a Canal Point-bred commercial sugarcane variety that was a mainstay of the Louisiana sugar industry for decades."
+    },
+    "usda_zones": {
+      "min": 8,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 24,
+      "max": 36
+    },
+    "height_in": {
+      "min": 84,
+      "max": 144
+    },
+    "spread_in": {
+      "min": 24,
+      "max": 36
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant billets of two or three nodes in loose, fertile, well-drained soil in full sun, keeping soil consistently moist through the growing season. CP 65-357 (the CP designation stands for Canal Point, Florida, the site of the joint USDA-University of Florida sugarcane breeding program) was one of the standard commercial sugarcane varieties grown across the Louisiana sugar belt for many years, valued for reliable tonnage and sugar content under Gulf South growing conditions. While it was developed for large-scale sugar production rather than dooryard syrup-making, home growers can use it the same way as heirloom syrup canes: harvest in late fall after the first light frosts sweeten the stalks, strip the leaves, crush the stalks, and cook the juice down into syrup, or simply chew the sweet stalks fresh. The tall, clumping perennial grass typically dies back to the rhizome after a hard freeze in zone 8-9 and regrows from the root each spring.",
+    "sources": [
+      "Louisiana State University AgCenter — Sugarcane Production and Heirloom Varieties",
+      "USDA-ARS Sugarcane Research Unit, Canal Point, Florida — variety release records",
+      "American Society of Sugar Cane Technologists variety notes"
+    ]
+  },
+  {
+    "slug": "cashmere-hops",
+    "common_name": "Cashmere Hops",
+    "scientific_name": "Humulus lupulus 'Cashmere'",
+    "category": "herb",
+    "subcategory": "brewing hop",
+    "days_to_germination": {
+      "min": 14,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 365,
+      "max": 730
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -2,
+        "max": 2
+      },
+      "note": "Plant rhizomes in spring around the last frost date in fertile, well-drained soil in full sun with a tall trellis or pole for the vigorous bines to climb; Cashmere is a Washington State University release descended from Cascade, bred for a similar aroma profile with higher yields."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 8
+    },
+    "spacing_in": {
+      "min": 36,
+      "max": 48
+    },
+    "height_in": {
+      "min": 180,
+      "max": 240
+    },
+    "spread_in": {
+      "min": 36,
+      "max": 48
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant rhizomes in fertile, well-drained soil in full sun with a sturdy 12-20 foot trellis, pole, or string for the twining bines to climb; Cashmere was released by Washington State University's hop breeding program as a descendant of Cascade, developed to offer a similar mild, floral-citrus aroma profile with improved yield and a more manageable, less vigorous growth habit than its parent. Cones are used mainly for aroma and flavor additions in craft brewing, contributing notes of citrus, melon, and mild spice. Hops are perennial bines that die back to the crown each winter and regrow vigorously each spring, needing several years to reach full production. Water consistently during the growing season, especially as cones develop in mid-to-late summer, and harvest when cones feel dry and papery and release a strong aromatic, slightly sticky lupulin scent when rubbed. Hops generally prefer a period of winter chill and struggle with the mild winters and intense summer humidity of the Deep South, performing best in cooler, drier climates.",
+    "sources": [
+      "Washington State University — Hop Breeding Program Release Notes",
+      "USDA-ARS National Clonal Germplasm Repository — Hop Cultivar Records",
+      "Oregon State University Extension — Hop Production Guide"
+    ]
+  }
+]

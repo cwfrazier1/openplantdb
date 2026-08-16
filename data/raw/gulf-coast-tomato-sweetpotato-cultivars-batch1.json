@@ -1,0 +1,265 @@
+[
+  {
+    "slug": "neptune-tomato",
+    "common_name": "Neptune Tomato (Heat-Set Gulf South Hybrid)",
+    "scientific_name": "Solanum lycopersicum 'Neptune'",
+    "category": "vegetable",
+    "subcategory": "tomato",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 70,
+      "max": 80
+    },
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -6
+      },
+      "note": "Start indoors 6-8 weeks before transplanting; in zone 9 start in January for March transplanting. Neptune was bred by the University of Florida specifically to keep setting fruit through the high-heat, high-humidity stretch of the Gulf South summer."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 24,
+      "max": 36
+    },
+    "height_in": {
+      "min": 36,
+      "max": 54
+    },
+    "spread_in": {
+      "min": 24,
+      "max": 36
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Start seeds 6-8 weeks before transplanting at 70-80F; Neptune is a heat-set tomato developed by the University of Florida as part of a long-running Southeastern breeding effort to keep fruit set going once nighttime temperatures climb into the mid-70s, a point at which most standard hybrids stop setting fruit. The medium-to-large, round, red fruits have solid, well-balanced flavor and enough firmness to ship and hold well, making Neptune a dependable choice for a continuous summer harvest rather than a single early flush. Plants carry good resistance to common Southern tomato diseases, but a preventive fungicide or copper spray schedule still helps in the humid Gulf South. Stake or cage plants early, since they grow vigorously, and keep watering consistent to avoid blossom end rot in the region's heavy summer rains followed by dry spells.",
+    "sources": [
+      "University of Florida IFAS Extension — Tomato Variety Trials",
+      "Texas A&M AgriLife Extension — Tomato Variety Selection",
+      "Clemson Cooperative Extension — Heat-Set Tomato Varieties"
+    ]
+  },
+  {
+    "slug": "tygress-tomato",
+    "common_name": "Tygress Tomato (TSWV-Resistant Beefsteak Hybrid)",
+    "scientific_name": "Solanum lycopersicum 'Tygress'",
+    "category": "vegetable",
+    "subcategory": "tomato",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 70,
+      "max": 80
+    },
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -6
+      },
+      "note": "Start indoors 6-8 weeks before transplanting; in zone 9 start in January for March transplanting. Tygress was an AAS Vegetable Award winner selected in part for resistance to tomato spotted wilt virus, a serious thrips-spread disease in warm climates."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 24,
+      "max": 36
+    },
+    "height_in": {
+      "min": 48,
+      "max": 66
+    },
+    "spread_in": {
+      "min": 24,
+      "max": 36
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Start seeds 6-8 weeks before transplanting at 70-80F; Tygress is a beefsteak-type hybrid tomato and All-America Selections vegetable winner bred with strong resistance to tomato spotted wilt virus (TSWV), a thrips-vectored disease that can devastate warm-climate tomato plantings with little warning. Fruits are large, meaty, and red with the classic beefsteak texture prized for slicing and sandwiches, produced on vigorous indeterminate vines that need sturdy staking or caging. Because TSWV pressure is worst where thrips populations build up in hot weather, Tygress is a particularly useful choice for Gulf South gardens that have struggled with sudden wilting and bronzed, ring-spotted fruit in past seasons. Keep watering even to avoid cracking and blossom end rot, and scout for thrips on new growth even though the plant tolerates the virus they carry.",
+    "sources": [
+      "All-America Selections — Tygress AAS Winner",
+      "University of Florida IFAS Extension — Tomato Variety Trials",
+      "Texas A&M AgriLife Extension — Tomato Variety Selection"
+    ]
+  },
+  {
+    "slug": "crista-tomato",
+    "common_name": "Crista Tomato (Disease-Resistant Southeastern Hybrid)",
+    "scientific_name": "Solanum lycopersicum 'Crista'",
+    "category": "vegetable",
+    "subcategory": "tomato",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 72,
+      "max": 82
+    },
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -6
+      },
+      "note": "Start indoors 6-8 weeks before transplanting; in zone 9 start in January for March transplanting. Crista carries a broad disease-resistance package developed for Southeastern growing conditions, reducing spray needs in humid gardens."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 24,
+      "max": 36
+    },
+    "height_in": {
+      "min": 36,
+      "max": 48
+    },
+    "spread_in": {
+      "min": 24,
+      "max": 36
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Start seeds 6-8 weeks before transplanting at 70-80F; Crista is a determinate hybrid slicing tomato bred as part of the North Carolina State University Southeastern tomato improvement program, which targets the combination of diseases (Fusarium wilt, Verticillium wilt, and gray leaf spot chief among them) that most often cut short a tomato season in the humid Southeast. Fruits are medium-large, round, and firm with reliable, well-rounded flavor rather than novelty sweetness, making Crista a workhorse slicer for the kitchen rather than a specialty variety. The compact determinate plants concentrate their harvest over a few weeks, which suits gardeners who want a predictable crop for canning or sharing. Stake or cage for support and clean fruit, and keep watering consistent through fruit set to avoid blossom end rot in the Gulf South's swings between downpours and dry spells.",
+    "sources": [
+      "North Carolina State University Extension — Southeastern Tomato Breeding Program",
+      "University of Florida IFAS Extension — Tomato Variety Trials",
+      "Clemson Cooperative Extension — Tomato Variety Selection"
+    ]
+  },
+  {
+    "slug": "orleans-sweet-potato",
+    "common_name": "Orleans Sweet Potato",
+    "scientific_name": "Ipomoea batatas 'Orleans'",
+    "category": "vegetable",
+    "subcategory": "sweet potato",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 100,
+      "max": 120
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant certified slips after the last frost when soil has warmed above 65F in well-drained, loamy soil in full sun; Orleans is an LSU AgCenter release bred as a higher-yielding, more disease-resistant alternative to Beauregard for Gulf South growers."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 12,
+      "max": 18
+    },
+    "spread_in": {
+      "min": 48,
+      "max": 84
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant certified sweet potato slips after the last frost in well-drained, loamy to sandy loam, slightly acidic soil in full sun; Orleans is a Louisiana State University AgCenter release developed as a modernized alternative to the industry-standard Beauregard, bred for higher yields, improved resistance to soil-borne diseases, and a slightly longer storage life after curing. Skin and flesh are both a rich orange, with smooth, uniformly shaped roots that store and cure well. Like all sweet potatoes, newly dug roots are starchy rather than sweet; cure at 85-90F and 85-90% humidity for 5-7 days to heal skin wounds and convert starches into the sugars that give sweet potatoes their characteristic flavor. Plant certified, virus-indexed slips rather than home-grown slips from grocery-store roots to avoid introducing sweet potato virus disease, which reduces yield over successive seasons. Well suited to Louisiana's long, humid growing season and heavy summer rainfall.",
+    "sources": [
+      "Louisiana State University AgCenter — Sweet Potato Variety Releases",
+      "North Carolina State Extension — Sweet Potato Production",
+      "Mississippi State University Extension — Sweet Potato Variety Guide"
+    ]
+  },
+  {
+    "slug": "bayou-belle-sweet-potato",
+    "common_name": "Bayou Belle Sweet Potato",
+    "scientific_name": "Ipomoea batatas 'Bayou Belle'",
+    "category": "vegetable",
+    "subcategory": "sweet potato",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 95,
+      "max": 115
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant certified slips after the last frost when soil has warmed above 65F in well-drained, loamy soil in full sun; Bayou Belle is an LSU AgCenter release selected for improved resistance to soil rot compared to older Louisiana sweet potato varieties."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 12,
+      "max": 18
+    },
+    "spread_in": {
+      "min": 48,
+      "max": 84
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant certified sweet potato slips after the last frost in well-drained, loamy to sandy loam, slightly acidic soil in full sun; Bayou Belle is a Louisiana State University AgCenter release bred to combine the deep-orange, sweet flesh Gulf South consumers expect with improved resistance to soil rot and other soil-borne diseases that build up in continuously cropped sweet potato ground. Roots are smooth-skinned, uniform, and size up reliably in Louisiana's long warm season. As with all sweet potatoes, cure freshly dug roots at 85-90F and high humidity for about a week to heal skin wounds and convert starches to sugars before storing or eating; uncured roots taste starchy rather than sweet. Start with certified, virus-indexed slips rather than sprouting grocery-store roots, since accumulated viral disease is the main long-term yield killer in home sweet potato patches. Rotate planting beds year to year to keep soil-borne disease pressure low.",
+    "sources": [
+      "Louisiana State University AgCenter — Sweet Potato Variety Releases",
+      "Mississippi State University Extension — Sweet Potato Variety Guide",
+      "North Carolina State Extension — Sweet Potato Production"
+    ]
+  }
+]
