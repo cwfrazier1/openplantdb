@@ -1,0 +1,227 @@
+[
+  {
+    "slug": "early-richmond-cherry",
+    "common_name": "Early Richmond Cherry (Classic American Heirloom Sour Cherry)",
+    "scientific_name": "Prunus cerasus 'Early Richmond'",
+    "category": "fruit",
+    "subcategory": "tart cherry tree",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 1095,
+      "max": 1460
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": -6,
+        "max": -2
+      },
+      "note": "Plant bare-root or container trees in late winter or early spring in deep, well-drained, fertile soil in full sun; Early Richmond is self-fertile, needing no pollinizer, and is best adapted to zones 4-8."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 8
+    },
+    "spacing_in": {
+      "min": 144,
+      "max": 216
+    },
+    "height_in": {
+      "min": 144,
+      "max": 240
+    },
+    "spread_in": {
+      "min": 120,
+      "max": 180
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in deep, well-drained, fertile soil in full sun. Early Richmond is a classic 19th-century American sour cherry, one of the most widely planted tart cherries before Montmorency largely replaced it commercially, prized for producing the earliest sour cherry crop of the season, ripening ahead of Montmorency and most other pie cherries. The medium-sized, bright red fruit has tender, juicy, acidic flesh that is outstanding for pies, preserves, and baking, and the self-fertile tree needs no separate pollinizer, making it a practical single-tree choice for home orchards. The tree is smaller and more manageable than most sweet cherries, cold-hardy, and reliably productive; net against birds as fruit ripens, since sour cherries are just as attractive to birds as sweet ones despite their tartness.",
+    "sources": ["Michigan State University Extension", "Cornell University Fruit Resources", "University of Illinois Extension"]
+  },
+  {
+    "slug": "royal-ann-napoleon-cherry",
+    "common_name": "Royal Ann Cherry (Napoleon Cherry, Classic Light Sweet Cherry)",
+    "scientific_name": "Prunus avium 'Royal Ann'",
+    "category": "fruit",
+    "subcategory": "sweet cherry tree",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 1095,
+      "max": 1460
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": -6,
+        "max": -2
+      },
+      "note": "Plant bare-root or container trees in late winter or early spring in deep, well-drained, fertile soil in full sun; Royal Ann is self-unfruitful and requires a compatible pollinizer such as Black Tartarian or Van, and is best adapted to zones 5-8."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 8
+    },
+    "spacing_in": {
+      "min": 144,
+      "max": 240
+    },
+    "height_in": {
+      "min": 180,
+      "max": 360
+    },
+    "spread_in": {
+      "min": 120,
+      "max": 240
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in deep, well-drained, fertile soil in full sun, ensuring a compatible pollinizer variety is planted nearby. Royal Ann, known in Europe by its original name Napoleon, is a historic light-colored sweet cherry with pale yellow skin blushed with red and firm, sweet, translucent flesh, and it holds particular commercial significance as the primary variety historically used for maraschino cherries, since its light color takes dye and processing well. Beyond processing, Royal Ann is an excellent fresh-eating cherry, with a classic sweet flavor and firm texture that also makes it good for canning. The vigorous tree requires cross-pollination from another sweet cherry variety and grows quite large without size-controlling rootstock, so plan orchard spacing accordingly; harvest when fruit reaches full color and sweetness, since light-skinned cherries like Royal Ann do not continue ripening once picked.",
+    "sources": ["Washington State University Tree Fruit Research and Extension Center", "University of California Cooperative Extension", "Oregon State University Extension"]
+  },
+  {
+    "slug": "sam-cherry",
+    "common_name": "Sam Cherry (Canadian-Bred Dark Sweet Cherry and Pollinizer)",
+    "scientific_name": "Prunus avium 'Sam'",
+    "category": "fruit",
+    "subcategory": "sweet cherry tree",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 1095,
+      "max": 1460
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": -6,
+        "max": -2
+      },
+      "note": "Plant bare-root or container trees in late winter or early spring in deep, well-drained, fertile soil in full sun; Sam is self-unfruitful and requires a compatible pollinizer, and is best adapted to zones 5-8."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 8
+    },
+    "spacing_in": {
+      "min": 144,
+      "max": 240
+    },
+    "height_in": {
+      "min": 180,
+      "max": 360
+    },
+    "spread_in": {
+      "min": 120,
+      "max": 240
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in deep, well-drained, fertile soil in full sun, ensuring a compatible pollinizer variety is planted nearby. Sam was bred at the Canadian federal research station in Summerland, British Columbia, and produces large, firm, dark mahogany-red to black sweet cherries with rich, classic sweet cherry flavor similar in style to Bing, along with good resistance to fruit cracking after rain, a genuinely useful trait in humid or rain-prone climates. Beyond its own fruit quality, Sam is widely planted as a reliable pollinizer for other sweet cherry varieties, since its bloom timing overlaps well with many popular cultivars. The tree is vigorous and productive; net against birds as fruit colors, and pick once fully dark and firm, since sweet cherries like Sam do not ripen further after harvest.",
+    "sources": ["Agriculture and Agri-Food Canada", "Washington State University Tree Fruit Research and Extension Center", "Oregon State University Extension"]
+  },
+  {
+    "slug": "van-cherry",
+    "common_name": "Van Cherry (Canadian Firm Dark Sweet Cherry and Pollinizer)",
+    "scientific_name": "Prunus avium 'Van'",
+    "category": "fruit",
+    "subcategory": "sweet cherry tree",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 1095,
+      "max": 1460
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": -6,
+        "max": -2
+      },
+      "note": "Plant bare-root or container trees in late winter or early spring in deep, well-drained, fertile soil in full sun; Van is self-unfruitful and requires a compatible pollinizer, and is best adapted to zones 5-8."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 8
+    },
+    "spacing_in": {
+      "min": 144,
+      "max": 240
+    },
+    "height_in": {
+      "min": 180,
+      "max": 360
+    },
+    "spread_in": {
+      "min": 120,
+      "max": 240
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in deep, well-drained, fertile soil in full sun, ensuring a compatible pollinizer variety is planted nearby. Van was bred at the Summerland research station in British Columbia, Canada, and remains a widely grown dark sweet cherry valued for firm, glossy, deep red-black fruit with rich flavor and good resistance to cracking, along with a bloom period that overlaps well with many other sweet cherry varieties, making it a dependable pollinizer choice throughout the industry. The tree is vigorous, cold-hardy, and productive, bearing reliably once established, and the firm fruit texture holds up well to handling for both fresh eating and processing. Net trees against birds as fruit begins to color, and harvest once cherries reach full dark color and firmness, since sweet cherries do not continue ripening after picking.",
+    "sources": ["Agriculture and Agri-Food Canada", "Washington State University Tree Fruit Research and Extension Center", "Oregon State University Extension"]
+  },
+  {
+    "slug": "emperor-francis-cherry",
+    "common_name": "Emperor Francis Cherry (Light-Skinned Sweet Cherry, Royal Ann Type)",
+    "scientific_name": "Prunus avium 'Emperor Francis'",
+    "category": "fruit",
+    "subcategory": "sweet cherry tree",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 1095,
+      "max": 1460
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": -6,
+        "max": -2
+      },
+      "note": "Plant bare-root or container trees in late winter or early spring in deep, well-drained, fertile soil in full sun; Emperor Francis is self-unfruitful and requires a compatible pollinizer, and is best adapted to zones 5-8."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 8
+    },
+    "spacing_in": {
+      "min": 144,
+      "max": 240
+    },
+    "height_in": {
+      "min": 180,
+      "max": 360
+    },
+    "spread_in": {
+      "min": 120,
+      "max": 240
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in deep, well-drained, fertile soil in full sun, ensuring a compatible pollinizer variety is planted nearby. Emperor Francis is a light-skinned sweet cherry in the same Royal Ann-Napoleon family, valued for its yellow skin blushed with red, firm, sweet flesh, and reliably heavy production, and it has historically been grown both for fresh eating and for the same maraschino and light-cherry processing markets as Royal Ann. Compared to some light sweet cherries, Emperor Francis is noted for its firmness and good resistance to cracking after rain, making it a somewhat more forgiving choice for growers in less-than-ideal dry climates. The tree is vigorous and productive; harvest once fruit reaches full blush color and sweetness, since light-skinned cherries do not continue to ripen or sweeten after picking.",
+    "sources": ["Washington State University Tree Fruit Research and Extension Center", "Michigan State University Extension", "Oregon State University Extension"]
+  }
+]

@@ -1,0 +1,206 @@
+[
+  {
+    "slug": "burpee-hybrid-cantaloupe",
+    "common_name": "Burpee Hybrid Cantaloupe (Classic Reliable American Muskmelon)",
+    "scientific_name": "Cucumis melo 'Burpee Hybrid'",
+    "category": "vegetable",
+    "subcategory": "melon",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 75,
+      "max": 90
+    },
+    "days_to_maturity": {
+      "min": 80,
+      "max": 90
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 4
+      },
+      "note": "Direct sow after soil is thoroughly warm and all frost danger has passed."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 24,
+      "max": 36
+    },
+    "height_in": {
+      "min": 12,
+      "max": 18
+    },
+    "spread_in": {
+      "min": 60,
+      "max": 96
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Sow seed an inch deep in warm, fertile, well-drained soil in full sun. Burpee Hybrid is a long-standing American cantaloupe standard, producing medium-large, heavily netted, orange-fleshed melons with sweet, aromatic flavor and reliable, heavy production that made it a home garden mainstay for decades. The vigorous vines set fruit dependably under a wide range of growing conditions, and the variety's decades-long track record reflects genuinely good, consistent performance rather than novelty. Harvest when the fruit slips easily from the vine with a gentle tug and the netted rind has turned from green to golden-tan, and reduce watering in the final week before harvest to concentrate sweetness.",
+    "sources": ["Cornell University Vegetable Varieties for Gardeners", "Texas A&M AgriLife Extension", "University of Georgia Extension"]
+  },
+  {
+    "slug": "saticoy-cantaloupe",
+    "common_name": "Saticoy Cantaloupe (Disease-Resistant California Commercial Melon)",
+    "scientific_name": "Cucumis melo 'Saticoy'",
+    "category": "vegetable",
+    "subcategory": "melon",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 75,
+      "max": 90
+    },
+    "days_to_maturity": {
+      "min": 80,
+      "max": 90
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 4
+      },
+      "note": "Direct sow after soil is thoroughly warm and all frost danger has passed."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 24,
+      "max": 36
+    },
+    "height_in": {
+      "min": 12,
+      "max": 18
+    },
+    "spread_in": {
+      "min": 60,
+      "max": 96
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Sow seed an inch deep in warm, fertile, well-drained soil in full sun. Saticoy is a California commercial cantaloupe variety bred with good resistance to powdery mildew and fusarium wilt, two diseases that shorten productive vine life in warm growing regions, helping the vine stay healthy and productive through a full summer season. The uniform, well-netted, orange-fleshed fruit has good sweet flavor and consistent size, traits that made it a reliable choice for commercial growers and equally useful for home gardeners wanting dependable production. Harvest when the fruit slips easily from the vine with a gentle tug and the rind's netting has turned from green to tan, and hold off on extra watering in the final week before harvest for the sweetest flavor.",
+    "sources": ["University of California Cooperative Extension", "Texas A&M AgriLife Extension", "Cornell University Vegetable Varieties for Gardeners"]
+  },
+  {
+    "slug": "ithaca-lettuce",
+    "common_name": "Ithaca Lettuce (Cornell-Bred Tipburn-Resistant Crisphead)",
+    "scientific_name": "Lactuca sativa 'Ithaca'",
+    "category": "vegetable",
+    "subcategory": "lettuce",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 40,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 70,
+      "max": 80
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -6,
+        "max": -2
+      },
+      "note": "Direct sow as soon as soil can be worked in early spring, or in fall for a cool-season crop."
+    },
+    "usda_zones": {
+      "min": 2,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 10,
+      "max": 12
+    },
+    "height_in": {
+      "min": 8,
+      "max": 10
+    },
+    "spread_in": {
+      "min": 10,
+      "max": 12
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Direct sow seed a quarter-inch deep in fertile, well-drained soil in full sun, thinning seedlings to ten to twelve inches apart. Ithaca was bred at Cornell University for good resistance to tipburn, a physiological disorder that causes browning at leaf edges in crisphead lettuce under heat or irregular watering stress, along with a degree of heat tolerance that lets it hold quality longer into warm weather than many older iceberg-type varieties. The dense, crisp, pale green heads deliver the familiar crunchy texture prized in classic iceberg lettuce, well suited to sandwiches and salads calling for texture over deep flavor. Keep soil consistently moist through head formation to further reduce tipburn risk, and harvest once heads feel firm and solid when gently squeezed.",
+    "sources": ["Cornell Cooperative Extension", "Seed Savers Exchange", "University of Illinois Extension"]
+  },
+  {
+    "slug": "summertime-lettuce",
+    "common_name": "Summertime Lettuce (Slow-to-Bolt Heat-Tolerant Crisphead)",
+    "scientific_name": "Lactuca sativa 'Summertime'",
+    "category": "vegetable",
+    "subcategory": "lettuce",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 40,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 65,
+      "max": 75
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": 4
+      },
+      "note": "Direct sow from early spring through early summer; bred specifically to resist bolting in warm weather better than most crisphead lettuce, extending the harvest window into the early Gulf Coast summer."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 10,
+      "max": 12
+    },
+    "height_in": {
+      "min": 8,
+      "max": 10
+    },
+    "spread_in": {
+      "min": 10,
+      "max": 12
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Direct sow seed a quarter-inch deep in fertile, well-drained soil in full sun, thinning seedlings to ten to twelve inches apart. Summertime is a crisphead lettuce bred specifically to resist bolting under the lengthening days and rising heat of late spring and early summer, holding its tight, crisp head and mild flavor for a longer harvest window than most iceberg-type lettuces manage before turning bitter and sending up a seed stalk. The dependable heat tolerance makes it a useful choice for stretching the fresh lettuce season further into warm weather on the Gulf Coast than most crisphead varieties allow. Harvest once heads feel firm and solid, and monitor closely as temperatures climb, since even heat-tolerant lettuce will eventually bolt once conditions become too warm.",
+    "sources": ["Cornell Cooperative Extension", "Seed Savers Exchange", "University of Illinois Extension"]
+  }
+]

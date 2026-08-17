@@ -1,0 +1,227 @@
+[
+  {
+    "slug": "peerless-almond",
+    "common_name": "Peerless Almond (Large-Kernel California Commercial Almond)",
+    "scientific_name": "Prunus dulcis 'Peerless'",
+    "category": "fruit",
+    "subcategory": "nut tree",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 730,
+      "max": 1460
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -2
+      },
+      "note": "Plant bare-root grafted trees in late winter in well-drained, deep, slightly alkaline to neutral, fertile soil in full sun; Peerless is self-unfruitful and requires a compatible pollinizer variety with overlapping bloom time."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 240,
+      "max": 300
+    },
+    "height_in": {
+      "min": 180,
+      "max": 300
+    },
+    "spread_in": {
+      "min": 180,
+      "max": 300
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in deep, well-drained soil in full sun, ensuring a compatible pollinizer variety with overlapping bloom time is planted nearby, since almonds are self-unfruitful. Peerless is a long-established California commercial almond variety producing large, plump, soft-shell kernels with good flavor, historically planted widely for its productivity and reliable performance in California's Central Valley almond-growing regions. The tree blooms relatively late compared to some other varieties, offering some protection against early spring frost damage to the crop, a real practical advantage in marginal or frost-prone sites. Water deeply and regularly through the growing season, particularly during kernel fill in summer, and harvest once hulls split open in late summer to early fall, allowing nuts to dry before storage.",
+    "sources": ["University of California Cooperative Extension", "Texas A&M AgriLife Extension", "Almond Board of California"]
+  },
+  {
+    "slug": "sonora-almond",
+    "common_name": "Sonora Almond (Early-Blooming Soft-Shell Sweet Almond)",
+    "scientific_name": "Prunus dulcis 'Sonora'",
+    "category": "fruit",
+    "subcategory": "nut tree",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 730,
+      "max": 1460
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -2
+      },
+      "note": "Plant bare-root grafted trees in late winter in well-drained, deep, slightly alkaline to neutral, fertile soil in full sun; Sonora is self-unfruitful and requires a compatible pollinizer with overlapping early bloom time."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 240,
+      "max": 300
+    },
+    "height_in": {
+      "min": 180,
+      "max": 300
+    },
+    "spread_in": {
+      "min": 180,
+      "max": 300
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in deep, well-drained soil in full sun, ensuring a compatible early-blooming pollinizer variety is planted nearby. Sonora is a California almond variety valued for large, attractive, very soft-shell kernels that crack open easily by hand, along with sweet, well-flavored nutmeat that makes it popular for home orchards and specialty markets alike. The tree blooms early, which gives it a head start on the growing season but also increases exposure to spring frost risk during flowering, so site selection matters for reliable annual crops. Water deeply and regularly through the growing season, especially during kernel development, and harvest once hulls split open in late summer, allowing the nuts to dry thoroughly before storage to prevent mold.",
+    "sources": ["University of California Cooperative Extension", "Texas A&M AgriLife Extension", "Almond Board of California"]
+  },
+  {
+    "slug": "ne-plus-ultra-almond",
+    "common_name": "Ne Plus Ultra Almond (Historic California Soft-Shell Almond)",
+    "scientific_name": "Prunus dulcis 'Ne Plus Ultra'",
+    "category": "fruit",
+    "subcategory": "nut tree",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 730,
+      "max": 1460
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -2
+      },
+      "note": "Plant bare-root grafted trees in late winter in well-drained, deep, slightly alkaline to neutral, fertile soil in full sun; self-unfruitful and requires a compatible pollinizer with overlapping bloom time."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 240,
+      "max": 300
+    },
+    "height_in": {
+      "min": 180,
+      "max": 300
+    },
+    "spread_in": {
+      "min": 180,
+      "max": 300
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in deep, well-drained soil in full sun, ensuring a compatible pollinizer variety with overlapping bloom time is planted nearby. Ne Plus Ultra is one of the oldest named California almond varieties still in cultivation, its name Latin for 'nothing further beyond,' reflecting the confidence of its 19th-century breeders in its quality, and it remains valued for a long, slender, soft-shell kernel with good sweet flavor. Historically an important variety in the early development of California's commercial almond industry, it has since been surpassed in commercial volume by more productive modern releases but is still grown by home orchardists and specialty producers who appreciate its distinctive nut shape and historic pedigree. Water deeply through the growing season, especially during kernel fill, and harvest once hulls split open in late summer.",
+    "sources": ["University of California Cooperative Extension", "Texas A&M AgriLife Extension", "Almond Board of California"]
+  },
+  {
+    "slug": "padre-almond",
+    "common_name": "Padre Almond (Late-Blooming Frost-Avoidant Pollinizer Almond)",
+    "scientific_name": "Prunus dulcis 'Padre'",
+    "category": "fruit",
+    "subcategory": "nut tree",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 730,
+      "max": 1460
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -2
+      },
+      "note": "Plant bare-root grafted trees in late winter in well-drained, deep, slightly alkaline to neutral, fertile soil in full sun; self-unfruitful and requires a compatible pollinizer such as Nonpareil with overlapping late bloom time."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 240,
+      "max": 300
+    },
+    "height_in": {
+      "min": 180,
+      "max": 300
+    },
+    "spread_in": {
+      "min": 180,
+      "max": 300
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in deep, well-drained soil in full sun, ensuring a compatible pollinizer variety such as Nonpareil is planted nearby with overlapping bloom time. Padre is a California almond variety notable for blooming later than most, which gives it valuable protection against the late-winter and early-spring frosts that can devastate the crop of earlier-flowering varieties, and it is widely used specifically as a pollinizer partner for Nonpareil orchards for this reason. The medium, hard-shell nut has good flavor and the tree is a consistent, productive bearer, valued in commercial orchards as much for its reliable pollination role as for its own direct nut production. Water deeply through the growing season, especially during summer kernel fill, and harvest once hulls split open in late summer to early fall.",
+    "sources": ["University of California Cooperative Extension", "Almond Board of California", "Texas A&M AgriLife Extension"]
+  },
+  {
+    "slug": "price-almond",
+    "common_name": "Price Almond (Soft-Shell California Pollinizer Almond)",
+    "scientific_name": "Prunus dulcis 'Price'",
+    "category": "fruit",
+    "subcategory": "nut tree",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 730,
+      "max": 1460
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -2
+      },
+      "note": "Plant bare-root grafted trees in late winter in well-drained, deep, slightly alkaline to neutral, fertile soil in full sun; self-unfruitful and requires a compatible pollinizer with overlapping bloom time."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 240,
+      "max": 300
+    },
+    "height_in": {
+      "min": 180,
+      "max": 300
+    },
+    "spread_in": {
+      "min": 180,
+      "max": 300
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in deep, well-drained soil in full sun, ensuring a compatible pollinizer variety with overlapping bloom time is planted nearby. Price is a California almond selected in the Ne Plus Ultra lineage, producing a similar long, slender, soft-shell kernel with good sweet flavor, and it has historically been planted as a reliable pollinizer partner for other soft-shell varieties in mixed orchard plantings. The tree is a consistent producer, and its soft shell makes for easy hand-cracking, a practical advantage for home orchardists processing a home harvest without commercial equipment. Water deeply through the growing season, especially during summer kernel fill, and harvest once hulls split open in late summer to early fall, drying nuts thoroughly before storage.",
+    "sources": ["University of California Cooperative Extension", "Texas A&M AgriLife Extension", "Almond Board of California"]
+  }
+]

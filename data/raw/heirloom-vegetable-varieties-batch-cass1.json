@@ -1,0 +1,104 @@
+[
+  {
+    "slug": "parisian-carrot",
+    "common_name": "Parisian Carrot (Tonda di Parigi Round French Heirloom Carrot)",
+    "scientific_name": "Daucus carota 'Parisian'",
+    "category": "vegetable",
+    "subcategory": "root",
+    "days_to_germination": {
+      "min": 10,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 55,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 55,
+      "max": 65
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": 0
+      },
+      "note": "Direct sow in early spring or late summer into loosened, stone-free soil; the round, golf-ball-sized roots size up fast and are well suited to shallow or heavy clay soils that stunt long-rooted carrots."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 2,
+      "max": 3
+    },
+    "height_in": {
+      "min": 6,
+      "max": 10
+    },
+    "spread_in": {
+      "min": 4,
+      "max": 6
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Sow seed a quarter-inch deep in fine, well-worked soil in full sun, keeping the bed consistently moist until seedlings establish, since carrot seed germinates slowly and unevenly. Parisian, also sold as Tonda di Parigi, is a 19th-century French heirloom grown for round, roughly golf-ball-sized roots rather than the long tapered shape of most carrots, which makes it a reliable performer in the shallow, rocky, or heavy clay soils that deform standard long carrots. The sweet, tender orange flesh and small size also make it an excellent choice for container growing on patios and small raised beds. Thin seedlings to two to three inches apart for well-rounded roots, and harvest as soon as they reach full size, since the round shape can turn woody if left too long in warm soil.",
+    "sources": ["Seed Savers Exchange", "Baker Creek Heirloom Seeds", "Renee's Garden Seeds"]
+  },
+  {
+    "slug": "aristotle-basil",
+    "common_name": "Aristotle Basil (Compact Downy Mildew-Resistant Genovese-Type Basil)",
+    "scientific_name": "Ocimum basilicum 'Aristotle'",
+    "category": "herb",
+    "subcategory": "culinary",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 80
+    },
+    "days_to_maturity": {
+      "min": 55,
+      "max": 70
+    },
+    "maturity_from": "seed",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 1,
+        "max": 3
+      },
+      "note": "Start indoors 4–6 weeks before the last frost and transplant into warm, fertile, well-drained soil in full sun once nights stay above 50°F; bred for resistance to downy mildew, a disease that thrives in the Gulf Coast's humid summers."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 10,
+      "max": 14
+    },
+    "height_in": {
+      "min": 12,
+      "max": 18
+    },
+    "spread_in": {
+      "min": 10,
+      "max": 14
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Transplant into warm, rich, well-drained soil in full sun after frost risk passes, spacing plants to keep air moving through the dense, compact canopy. Aristotle is a modern Genovese-type basil bred specifically for resistance to downy mildew, the fungal disease that turns older sweet basil varieties yellow and defoliated within weeks in hot, humid climates, making it a far more reliable choice for Gulf Coast summers than heirloom Genovese types. The tight, uniform, mounding habit produces an abundance of medium-sized, classic sweet-basil-flavored leaves that hold quality well in containers and small beds. Harvest by pinching stem tips regularly, which delays flowering and keeps the compact plant producing tender new leaves through the entire growing season.",
+    "sources": ["PanAmerican Seed", "Cornell Cooperative Extension", "Johnny's Selected Seeds"]
+  }
+]

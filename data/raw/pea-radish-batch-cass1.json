@@ -1,0 +1,104 @@
+[
+  {
+    "slug": "maestro-pea",
+    "common_name": "Maestro Pea (Disease-Resistant High-Yielding Shelling Pea)",
+    "scientific_name": "Pisum sativum 'Maestro'",
+    "category": "vegetable",
+    "subcategory": "shelling pea",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 40,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 65
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -6,
+        "max": -2
+      },
+      "note": "Direct sow 4–6 weeks before last frost in spring, or in late summer for a fall crop."
+    },
+    "usda_zones": {
+      "min": 2,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 2,
+      "max": 3
+    },
+    "height_in": {
+      "min": 24,
+      "max": 30
+    },
+    "spread_in": {
+      "min": 6,
+      "max": 8
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Direct sow an inch deep in cool, fertile, well-drained soil in full sun, providing light support such as pea netting or twiggy brush. Maestro is a modern shelling pea bred for reliable, heavy yields of dark green, well-filled pods carrying good resistance to powdery mildew and fusarium wilt, two of the most common diseases that shorten a pea harvest, particularly as the season warms toward summer. The sweet, tender peas inside are excellent fresh, frozen, or cooked, and the disease resistance helps the vine keep producing later into the season than many older, more disease-susceptible varieties manage. Pick pods promptly once well filled but before peas inside turn starchy, and keep the vine picked clean to prolong the harvest window as long as cool weather allows.",
+    "sources": ["Johnny's Selected Seeds", "Cornell Cooperative Extension", "University of Illinois Extension"]
+  },
+  {
+    "slug": "novella-pea",
+    "common_name": "Novella Pea (Self-Supporting Semi-Leafless Shelling Pea)",
+    "scientific_name": "Pisum sativum 'Novella'",
+    "category": "vegetable",
+    "subcategory": "shelling pea",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 40,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 65,
+      "max": 70
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -6,
+        "max": -2
+      },
+      "note": "Direct sow 4–6 weeks before last frost in spring, or in late summer for a fall crop; the tangled, tendril-heavy growth is largely self-supporting and needs only minimal staking."
+    },
+    "usda_zones": {
+      "min": 2,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 2,
+      "max": 3
+    },
+    "height_in": {
+      "min": 20,
+      "max": 26
+    },
+    "spread_in": {
+      "min": 8,
+      "max": 10
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Direct sow an inch deep in cool, fertile, well-drained soil in full sun, sowing a bit thicker than usual so plants can lean on and support one another. Novella is a semi-leafless ('afila') type pea in which most of the normal flat leaflets are replaced by curling tendrils, causing plants to knit themselves together into a dense, self-supporting tangle that stands mostly upright with little or no staking, a real convenience compared to conventional pea vines that flop without support. The reduced foliage also means better airflow and light penetration through the planting, which can reduce fungal disease pressure, while still producing a solid crop of sweet, tender shelling peas in well-filled pods. Pick regularly once pods fill out for the best flavor, and enjoy the relatively low-maintenance, self-supporting habit that sets this type apart from standard pea varieties.",
+    "sources": ["Johnny's Selected Seeds", "Cornell Cooperative Extension", "Seed Savers Exchange"]
+  }
+]
