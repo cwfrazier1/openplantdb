@@ -1,0 +1,167 @@
+[
+  {
+    "slug": "cirsium-horridulum",
+    "common_name": "Yellow Thistle (Bristle Thistle)",
+    "scientific_name": "Cirsium horridulum",
+    "category": "flower",
+    "subcategory": "native pollinator biennial",
+    "days_to_germination": {
+      "min": 14,
+      "max": 28
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 365,
+      "max": 545
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -2
+      },
+      "note": "Direct sow in fall into average to sandy, well-drained soil in full sun; yellow thistle forms a spiny basal rosette the first year and flowers on a tall stalk the second spring — a native, non-invasive biennial thistle valuable to pollinators, not to be confused with introduced noxious thistles."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 24,
+      "max": 60
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Direct sow in average to sandy, well-drained soil in full sun; yellow thistle is a native biennial of coastal plain prairies, dunes, and roadsides from the mid-Atlantic to Texas, spending its first year as a low, spiny rosette before sending up a tall, branching flower stalk the following spring, topped with large, showy flower heads that open yellow, cream, or occasionally reddish-purple depending on the individual plant. It is an exceptional early-spring nectar source for native bees, swallowtail butterflies, and migrating hummingbirds at a time when few other blooms are available, and goldfinches later strip the ripening seed heads. Unlike the aggressive, non-native thistles that plague pastures, yellow thistle is a well-behaved native that does not spread invasively and plays an important ecological role in coastal prairie and dune plant communities. Give it a sunny, well-drained spot at the back of a native meadow planting, away from foot traffic given its spiny foliage, and let it self-seed modestly for a sustained colony.",
+    "sources": [
+      "USDA PLANTS Database",
+      "Lady Bird Johnson Wildflower Center",
+      "Atlas of Florida Plants"
+    ]
+  },
+  {
+    "slug": "cirsium-texanum",
+    "common_name": "Texas Thistle",
+    "scientific_name": "Cirsium texanum",
+    "category": "flower",
+    "subcategory": "native pollinator biennial",
+    "days_to_germination": {
+      "min": 14,
+      "max": 28
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 365,
+      "max": 545
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -2
+      },
+      "note": "Direct sow in fall into average, well-drained prairie soil in full sun; Texas thistle forms a rosette the first year and flowers the following late spring — a native, non-invasive biennial thistle that is one of the most reliable spring nectar sources on the southern Great Plains and Gulf prairies."
+    },
+    "usda_zones": {
+      "min": 6,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 24,
+      "max": 48
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Direct sow in average, well-drained prairie soil in full sun; Texas thistle grows wild across the prairies, savannas, and roadsides of Texas, Oklahoma, and adjacent states, forming a spiny basal rosette its first year and sending up a branched flower stalk topped with rose-pink to lavender blooms the following late spring and early summer. It is a magnet for native bees, swallowtail and monarch butterflies, and hummingbirds during a season when many other prairie wildflowers have yet to bloom, and its seed heads are relished by goldfinches once they ripen. As a true native prairie species it is well-behaved in a garden setting and does not spread aggressively like the introduced pasture thistles most gardeners are taught to fear. Plant it toward the back of a sunny native prairie or pollinator bed, away from paths given its spiny leaves, and allow a modest amount of self-seeding to maintain the colony from year to year.",
+    "sources": [
+      "USDA PLANTS Database",
+      "Lady Bird Johnson Wildflower Center",
+      "Native Plant Society of Texas"
+    ]
+  },
+  {
+    "slug": "phacelia-congesta",
+    "common_name": "Blue Curls (Fiddleneck Phacelia)",
+    "scientific_name": "Phacelia congesta",
+    "category": "flower",
+    "subcategory": "native pollinator annual",
+    "days_to_germination": {
+      "min": 14,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 55,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 75,
+      "max": 100
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -6,
+        "max": -2
+      },
+      "note": "Direct sow in fall (or very early spring) into average, well-drained soil in full sun to partial shade; blue curls is a Texas native winter annual that germinates with fall rains and blooms in early spring, self-sowing readily once established."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 8,
+      "max": 12
+    },
+    "height_in": {
+      "min": 12,
+      "max": 24
+    },
+    "spread_in": {
+      "min": 8,
+      "max": 12
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Direct sow in average, well-drained soil in full sun to partial shade; blue curls is a fast-growing Texas and northern Mexico native winter annual, producing tightly coiled, fiddlehead-like flower clusters that slowly unfurl to reveal small, densely packed, violet-blue flowers with prominent stamens, opening from late winter into spring on branching, slightly sticky-hairy stems. It is one of the earliest and most reliable spring nectar sources for native bees on the southern Great Plains and Texas Hill Country, often blooming alongside bluebonnets in a naturalistic wildflower planting. Sow seed in fall to take advantage of cool-season germination and root growth, since spring-sown plants bloom later and less vigorously; established plantings self-seed freely in favorable dry, sunny conditions, returning reliably each year without replanting.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "USDA PLANTS Database",
+      "Native Plant Society of Texas"
+    ]
+  }
+]

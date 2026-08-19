@@ -1,0 +1,57 @@
+[
+  {
+    "slug": "crambe-abyssinica",
+    "common_name": "Abyssinian Crambe (Crambe Oilseed Cover Crop)",
+    "scientific_name": "Crambe abyssinica",
+    "category": "cover-crop",
+    "subcategory": "brassica",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 45,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 85,
+      "max": 100
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "soil_workable",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Direct sow in early spring as soon as the soil can be worked, into well-drained, moderately fertile soil in full sun; Abyssinian crambe is a fast-growing brassica oilseed grown as a short, single-season summer annual rather than an overwintering cover."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 4,
+      "max": 8
+    },
+    "height_in": {
+      "min": 24,
+      "max": 40
+    },
+    "spread_in": {
+      "min": 8,
+      "max": 14
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Drill or broadcast seed about a half-inch deep into a firm, well-drained seedbed in early spring once frost danger has passed for seedlings, keeping the surface evenly moist until the stand is up. Crambe abyssinica is an Ethiopian-origin brassica relative of cabbage and mustard grown almost entirely for its small round seeds, which are unusually rich in erucic acid and pressed for industrial lubricants, nylon precursors, and biodiesel rather than food use. It bolts quickly to a branching, waist-high plant topped with small white flowers, then sets seed pods within about three months, making it a useful short-cycle cash or rotation crop between vegetable plantings. Mow and incorporate residue after seed harvest, or terminate at early flowering as a green manure, since like other brassicas its glucosinolate-rich tissue offers some biofumigant suppression of soilborne pathogens when tilled in fresh.",
+    "sources": [
+      "USDA Agricultural Research Service — Crambe abyssinica",
+      "Purdue University New Crop Resources — Crambe",
+      "SARE (Sustainable Agriculture Research and Education) — Cover Crop Chart"
+    ]
+  }
+]

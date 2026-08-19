@@ -1,0 +1,112 @@
+[
+  {
+    "slug": "levant-cotton",
+    "common_name": "Levant Cotton (Old World Cotton)",
+    "scientific_name": "Gossypium herbaceum",
+    "category": "vegetable",
+    "subcategory": "fiber crop",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 95
+    },
+    "days_to_maturity": {
+      "min": 140,
+      "max": 170
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 1,
+        "max": 4
+      },
+      "note": "Direct sow 1/2 to 1 inch deep once soil has warmed well past last frost, into fertile, well-drained soil in full sun; Levant cotton is the Old World species long grown across Africa and the Middle East and matures slightly faster than American upland cotton."
+    },
+    "usda_zones": {
+      "min": 6,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 24
+    },
+    "height_in": {
+      "min": 30,
+      "max": 48
+    },
+    "spread_in": {
+      "min": 24,
+      "max": 36
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Direct sow into warm, fertile, well-drained soil in full sun after the soil has thoroughly warmed; Levant cotton is one of the two Old World cultivated cotton species, historically grown across Africa, the Middle East, and South Asia long before American upland cotton became the dominant commercial fiber crop, and it remains a favorite of heirloom-crop growers and fiber crafters for its distinct, shorter, coarser staple. Pale yellow, hibiscus-like flowers open over summer and fade before dropping, revealing bolls that split open at maturity to expose the cottony lint, ready to hand-pick once fully open and dry. It generally matures a touch faster than upland cotton, making it a reasonable choice where the growing season runs a little shorter, and its compact, shrubby habit and smaller stature suit a raised bed or container planting as well as a row. Grow it as a curiosity, dye-garden, or spinning-fiber crop, and rotate its planting site yearly like any other cotton to limit soil-borne disease buildup.",
+    "sources": [
+      "USDA ARS National Plant Germplasm System (GRIN-Global)",
+      "Purdue University New Crop Resources",
+      "Texas A&M AgriLife Extension"
+    ]
+  },
+  {
+    "slug": "abutilon-fruticosum",
+    "common_name": "Texas Indian Mallow (Pelotazo)",
+    "scientific_name": "Abutilon fruticosum",
+    "category": "flower",
+    "subcategory": "native perennial wildflower",
+    "days_to_germination": {
+      "min": 14,
+      "max": 30
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 80
+    },
+    "days_to_maturity": {
+      "min": 180,
+      "max": 365
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 6
+      },
+      "note": "Direct sow or plant transplants in spring in dry, well-drained, rocky or sandy, neutral to alkaline soil in full sun; Texas Indian mallow is a low, drought-tough native subshrub of Texas and the southern Great Plains, thriving in the same lean, sun-baked conditions favored by scarlet globemallow and other xeric wildflowers."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 12,
+      "max": 24
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Direct sow or plant transplants in dry, well-drained, rocky or sandy, neutral to alkaline soil in full sun. Texas Indian mallow is a low, softly gray-velvety native subshrub of Texas, Oklahoma, and adjacent states, producing small, apricot to soft yellow-orange, cup-shaped flowers over a long season from spring through fall on wiry, sprawling stems clothed in fuzzy, heart-shaped leaves. It grows naturally on caliche flats, limestone slopes, and dry prairie roadsides, tolerating heat, drought, and poor soil that would stress most garden perennials once established, and needs no supplemental water beyond an establishment period. Its soft gray foliage and long bloom season make it a useful, low-maintenance filler for a sunny xeriscape or native wildflower border, and its flowers are visited by a range of small native bees. Cut back lightly in late winter to encourage fresh, compact new growth for the coming season.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "USDA PLANTS Database",
+      "Native Plant Society of Texas"
+    ]
+  }
+]
