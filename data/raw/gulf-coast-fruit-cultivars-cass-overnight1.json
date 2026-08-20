@@ -1,0 +1,83 @@
+[
+  {
+    "slug": "wolfe-loquat",
+    "common_name": "Wolfe Loquat (Cold-Hardy Large-Fruited Florida Loquat)",
+    "scientific_name": "Eriobotrya japonica 'Wolfe'",
+    "category": "fruit",
+    "subcategory": "loquat cultivar",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 1095, "max": 2190},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Plant a container-grown grafted tree in spring in full to partial sun in well-drained soil; Wolfe blooms in fall and carries developing fruit through winter, so it needs a site sheltered from the hardest freezes."
+    },
+    "usda_zones": {"min": 8, "max": 10},
+    "spacing_in": {"min": 120, "max": 180},
+    "height_in": {"min": 120, "max": 240},
+    "spread_in": {"min": 120, "max": 180},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Grow Wolfe on well-drained soil in full sun and thin the fruit clusters in late winter to encourage larger individual loquats. This Florida-origin selection produces heavy clusters of large, sweet-tart orange fruit slightly earlier than many older loquat varieties, and the tree shows better resistance to fire blight than some standard selections. Gardeners along the Gulf Coast plant Wolfe for its dependable, showy late-winter to early-spring harvest, which arrives when almost no other tree fruit is ripe, and for its evergreen, ornamental year-round foliage.",
+    "sources": ["University of Florida IFAS Extension", "Texas A&M AgriLife Extension"]
+  },
+  {
+    "slug": "matsumoto-wase-satsuma",
+    "common_name": "Matsumoto Wase Satsuma (Extra-Early Cold-Hardy Satsuma Mandarin)",
+    "scientific_name": "Citrus unshiu 'Matsumoto Wase'",
+    "category": "fruit",
+    "subcategory": "citrus",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 730, "max": 1095},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 6},
+      "note": "Plant a container or bare-root tree in spring after frost danger passes, in well-drained, slightly acidic soil in full sun; as a bud-sport selection of Miyagawa, Matsumoto Wase ripens even earlier, letting Gulf Coast growers harvest well ahead of the first hard freeze."
+    },
+    "usda_zones": {"min": 8, "max": 10},
+    "spacing_in": {"min": 96, "max": 144},
+    "height_in": {"min": 96, "max": 180},
+    "spread_in": {"min": 96, "max": 144},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Site Matsumoto Wase in full sun with excellent drainage and mulch the root zone to buffer soil temperature swings through winter. This compact, precocious satsuma strain is prized for ripening its seedless, easy-peel fruit several weeks ahead of standard Owari trees, which lets home growers in marginal zone 8b-9a areas get a full crop in before the first significant cold snap. The small, glossy-leaved tree bears young and stays manageable in size, making it a popular choice for espalier or large containers as well as open-ground planting.",
+    "sources": ["Louisiana State University AgCenter", "University of Florida IFAS Extension"]
+  },
+  {
+    "slug": "mary-foos-johnson-pawpaw",
+    "common_name": "Mary Foos Johnson Pawpaw (Historic Vigorous Named Pawpaw Selection)",
+    "scientific_name": "Asimina triloba 'Mary Foos Johnson'",
+    "category": "fruit",
+    "subcategory": "tree fruit",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 1825, "max": 2190},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": -4, "max": 4},
+      "note": "Plant container-grown trees in spring in moist, humus-rich, slightly acidic soil in partial shade while young, transitioning to full sun at maturity; Mary Foos Johnson needs a genetically distinct pawpaw cultivar nearby for cross-pollination."
+    },
+    "usda_zones": {"min": 5, "max": 9},
+    "spacing_in": {"min": 120, "max": 180},
+    "height_in": {"min": 144, "max": 240},
+    "spread_in": {"min": 120, "max": 180},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Set out a grafted tree in spring in rich, well-drained soil, shading young trees for their first year or two before letting them mature into full sun. One of the earliest widely propagated named pawpaw selections, Mary Foos Johnson is valued for its vigorous, heavy-cropping habit and medium-to-large fruit with smooth, well-flavored yellow flesh. Gardeners choose it as a reliable, historically proven pollinator partner and producer alongside newer cultivars like Sunflower or Susquehanna, giving an extended pawpaw harvest window in late summer and early fall.",
+    "sources": ["Kentucky State University Pawpaw Research Program", "Purdue University Extension"]
+  }
+]
