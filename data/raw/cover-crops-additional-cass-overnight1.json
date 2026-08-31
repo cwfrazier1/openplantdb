@@ -1,0 +1,332 @@
+[
+  {
+    "slug": "rongai-lablab",
+    "common_name": "Rongai Lablab (Late-Flowering Vining Warm-Season Legume Cover Crop)",
+    "scientific_name": "Lablab purpureus 'Rongai'",
+    "category": "vegetable",
+    "subcategory": "cover crop",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 90,
+      "max": 150
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 1,
+        "max": 6
+      },
+      "note": "Direct sow 1-1.5 inches deep after soil has warmed above 65°F and frost danger has passed; Rongai is a late-flowering, photoperiod-sensitive lablab selection bred to stay vegetative and keep producing heavy biomass well into fall rather than setting seed early."
+    },
+    "usda_zones": {
+      "min": 6,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 6,
+      "max": 12
+    },
+    "height_in": {
+      "min": 36,
+      "max": 96
+    },
+    "spread_in": {
+      "min": 24,
+      "max": 48
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Direct sow into warm, well-drained soil in full sun after all danger of frost has passed, inoculating seed with a cowpea-type Rhizobium inoculant for best nitrogen fixation in fields with no prior lablab history. Rongai is a vigorous, twining lablab selection valued as a summer cover crop for its late, photoperiod-triggered flowering, which keeps the plant putting energy into leafy vine growth and root nodulation for months rather than shifting early to seed production, producing an unusually heavy mat of biomass that smothers weeds and builds organic matter. It climbs readily on trellis, fence, or companion crop and can also be grown as forage or green manure, mowed or rolled and left as mulch, or turned under ahead of a fall planting. As a legume, it fixes substantial atmospheric nitrogen through root nodule symbiosis and tolerates heat and drought once established, making it a reliable warm-season soil builder for the Gulf South growing season.",
+    "sources": [
+      "USDA NRCS Plant Materials Program",
+      "Texas A&M AgriLife Extension",
+      "University of Florida IFAS Extension"
+    ]
+  },
+  {
+    "slug": "egyptian-wheat-sorghum",
+    "common_name": "Egyptian Wheat (Tall Forage Sorghum Biomass and Screening Cover Crop)",
+    "scientific_name": "Sorghum bicolor 'Egyptian Wheat'",
+    "category": "vegetable",
+    "subcategory": "cover crop",
+    "days_to_germination": {
+      "min": 5,
+      "max": 12
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 90,
+      "max": 120
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 1,
+        "max": 8
+      },
+      "note": "Direct sow 1 inch deep after soil has warmed above 65°F; Egyptian Wheat is an exceptionally tall, sturdy forage sorghum type grown for biomass, screening, and wildlife habitat rather than as a food grain."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 4,
+      "max": 8
+    },
+    "height_in": {
+      "min": 96,
+      "max": 144
+    },
+    "spread_in": {
+      "min": 8,
+      "max": 12
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Direct sow into warm, well-drained soil in full sun after frost danger has passed, and thin or drill to a moderate stand since plants grow extremely tall and can shade neighboring rows. Egyptian Wheat is a tall, robust forage sorghum, despite the common name it is not a true wheat, prized for reaching 8 to 12 feet with thick, sturdy stalks and broad leaves that produce heavy summer biomass, build organic matter, and outcompete summer weeds. Its height and density make it a popular seasonal screen, windbreak, or living privacy hedge in addition to its cover-crop role, and the seed heads that follow provide valuable food for doves, quail, and songbirds through fall and winter. Mow, roll, or cut and drop the stalks at the end of the season to return biomass to the soil, or leave standing for winter wildlife cover; it is killed outright by the first hard freeze.",
+    "sources": [
+      "USDA NRCS Plant Materials Program",
+      "Texas A&M AgriLife Extension",
+      "Mississippi State University Extension"
+    ]
+  },
+  {
+    "slug": "bates-cereal-rye",
+    "common_name": "Bates Cereal Rye (Early-Maturing Winter-Hardy Grazing and Cover Crop Rye)",
+    "scientific_name": "Secale cereale 'Bates'",
+    "category": "vegetable",
+    "subcategory": "cover crop",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 40,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 150,
+      "max": 210
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -2
+      },
+      "note": "Direct sow 1-1.5 inches deep in fall (September-November in zone 9) in well-drained soil in full sun; Bates is an early-maturing, winter-hardy cereal rye selection bred with good grazing tolerance and vigorous fall establishment."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 1,
+      "max": 2
+    },
+    "height_in": {
+      "min": 36,
+      "max": 60
+    },
+    "spread_in": {
+      "min": 4,
+      "max": 8
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Broadcast or drill seed in fall into well-drained, average soil in full sun; cereal rye tolerates poor, sandy, or compacted ground better than almost any other cover crop grain. Bates is an early-maturing cereal rye selection noted for rapid, vigorous fall establishment and good tolerance to grazing or repeated mowing, making it a practical dual-purpose choice for gardeners or small farms wanting both winter forage and spring soil-building biomass. Its dense, fibrous root system scavenges leftover soil nitrogen, prevents winter erosion, and suppresses weeds, while the extensive root mass and above-ground residue break up compacted soil and add substantial organic matter when terminated by mowing, rolling, or tillage in spring, generally two to three weeks before the following crop is planted to allow allelopathic residues to break down. Cereal rye is among the most cold-hardy of all cover crop grains and will continue growing through cold snaps that stop other winter cover crops.",
+    "sources": [
+      "USDA NRCS Plant Materials Program",
+      "Oklahoma State University Extension",
+      "Kansas State University Research and Extension"
+    ]
+  },
+  {
+    "slug": "gulf-annual-ryegrass",
+    "common_name": "Gulf Annual Ryegrass (Fast-Establishing Gulf Coast-Bred Italian Ryegrass)",
+    "scientific_name": "Lolium multiflorum 'Gulf'",
+    "category": "vegetable",
+    "subcategory": "cover crop",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 50,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 150,
+      "max": 210
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -2
+      },
+      "note": "Direct sow in fall into well-drained soil in full sun; Gulf is a Gulf Coast-bred annual ryegrass cultivar selected for rapid germination and vigorous establishment, commonly overseeded on dormant warm-season lawns and pastures across the Deep South."
+    },
+    "usda_zones": {
+      "min": 6,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 1,
+      "max": 2
+    },
+    "height_in": {
+      "min": 12,
+      "max": 24
+    },
+    "spread_in": {
+      "min": 4,
+      "max": 8
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Broadcast seed onto well-drained, average soil in full sun in fall, raking lightly to ensure good seed-to-soil contact. Gulf is a fast-germinating, vigorous annual ryegrass cultivar developed for the humid, mild-winter conditions of the Deep South and Gulf Coast, where it is widely used to overseed dormant bermudagrass and bahiagrass lawns and pastures for winter green cover, as well as as a general-purpose erosion-control and biomass cover crop on bare fall ground. Its fibrous, shallow root system germinates and establishes faster than most other cool-season cover crops, quickly stabilizing loose or eroding soil and suppressing winter weeds, then dies back naturally with warming spring temperatures or can be mowed and turned under to add organic matter ahead of spring planting. It tolerates close, repeated mowing better than cereal grains, making it a good choice where winter foot traffic or turf appearance matters.",
+    "sources": [
+      "Mississippi State University Extension",
+      "Texas A&M AgriLife Extension",
+      "USDA NRCS Plant Materials Program"
+    ]
+  },
+  {
+    "slug": "kodiak-brown-mustard",
+    "common_name": "Kodiak Brown Mustard (High-Glucosinolate Biofumigant Cover Crop)",
+    "scientific_name": "Brassica juncea 'Kodiak'",
+    "category": "vegetable",
+    "subcategory": "cover crop",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 45,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 45,
+      "max": 60
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {
+        "min": -10,
+        "max": -4
+      },
+      "note": "Direct sow 1/4 to 1/2 inch deep in fall or early spring in well-drained soil in full sun; Kodiak is a high-glucosinolate brown mustard bred at the University of Idaho specifically for biofumigation, suppressing soilborne pathogens and nematodes when incorporated at flowering."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 4,
+      "max": 6
+    },
+    "height_in": {
+      "min": 24,
+      "max": 48
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 18
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Broadcast or drill seed into well-drained, moderately fertile soil in full sun, and mow or flail-chop the stand right at early flowering, then incorporate the shredded residue into the top few inches of soil immediately and irrigate to seal it in — the biofumigant effect depends on releasing volatile isothiocyanate compounds from the chopped tissue quickly, before they dissipate into the air. Kodiak was bred at the University of Idaho for an unusually high concentration of glucosinolates, the sulfur compounds that break down into natural soil fumigants capable of suppressing soilborne fungal pathogens, weed seed germination, and plant-parasitic nematodes, offering a lower-input alternative to chemical soil fumigation ahead of a susceptible vegetable crop. Beyond its biofumigant role, the fast, leafy growth smothers weeds and scavenges excess soil nitrogen, and the bright yellow flowers, if allowed to open, are attractive to early-season pollinators. Avoid planting into a bed just biofumigated with mustard for several weeks to allow residues to fully break down.",
+    "sources": [
+      "University of Idaho Cooperative Extension",
+      "USDA NRCS Plant Materials Program",
+      "Oregon State University Extension"
+    ]
+  },
+  {
+    "slug": "greenleaf-desmodium",
+    "common_name": "Greenleaf Desmodium (Mat-Forming Nitrogen-Fixing Tropical Forage Legume)",
+    "scientific_name": "Desmodium intortum",
+    "category": "vegetable",
+    "subcategory": "cover crop",
+    "days_to_germination": {
+      "min": 10,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 90,
+      "max": 120
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 8
+      },
+      "note": "Direct sow after soil has warmed above 65°F in well-drained soil in full sun to light partial shade; Greenleaf Desmodium is a trailing, mat-forming tropical legume grown as a warm-season nitrogen-fixing cover and forage crop, treated as an annual outside its perennial zone 9-11 range."
+    },
+    "usda_zones": {
+      "min": 8,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 24
+    },
+    "height_in": {
+      "min": 12,
+      "max": 24
+    },
+    "spread_in": {
+      "min": 24,
+      "max": 48
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Direct sow into warm, well-drained soil in full sun to light partial shade, inoculating seed with an appropriate Rhizobium inoculant for best nodulation on new ground. Greenleaf Desmodium is a sprawling, mat-forming tropical legume long used across the tropics as a soil-building cover crop and high-protein grazing forage, spreading vigorously by trailing stems that root at the nodes to form a dense, weed-suppressing groundcover while fixing substantial atmospheric nitrogen. It is also a key component of push-pull intercropping systems, where its scent helps repel stem-boring pests from adjacent food crops while trapping and disrupting their reproduction, making it useful in integrated pest management as well as soil building. In the Gulf South it behaves as a warm-season annual, killed by the first hard frost, so plant after the soil has warmed and mow or till the residue under before fall planting to release its nitrogen back to the soil.",
+    "sources": [
+      "USDA NRCS Plant Materials Program",
+      "University of Florida IFAS Extension",
+      "Food and Agriculture Organization of the United Nations"
+    ]
+  }
+]

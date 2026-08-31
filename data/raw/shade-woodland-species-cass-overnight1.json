@@ -1,0 +1,106 @@
+[
+  {
+    "slug": "sanicula-marilandica",
+    "common_name": "Black Snakeroot (Maryland Sanicle)",
+    "scientific_name": "Sanicula marilandica",
+    "category": "flower",
+    "subcategory": "native shade perennial",
+    "days_to_germination": {
+      "min": 30,
+      "max": 90
+    },
+    "germination_soil_temp_f": {
+      "min": 35,
+      "max": 55
+    },
+    "days_to_maturity": {
+      "min": 365,
+      "max": 730
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Direct sow in fall to allow winter cold stratification, or plant divisions in spring in moist, rich, well-drained soil in partial shade; Black Snakeroot is a native woodland member of the carrot family with distinctive round, bristly seed heads."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 8
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 18,
+      "max": 30
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 18
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Plant in moist, rich, well-drained soil in partial shade, similar to the woodland conditions where it grows wild across eastern and central North America. Black Snakeroot bears small, greenish-white flower clusters in late spring on branching stems above deeply divided, palmate leaves, followed by distinctive round, bur-like seed heads covered in hooked bristles that catch on fur and clothing to disperse. Despite the common name it has no confirmed effect on snakebite; the name reflects historical folk use rather than proven medicinal value. It self-sows readily in a woodland garden and provides early-season nectar for small native bees and flies before many showier woodland wildflowers bloom.",
+    "sources": [
+      "USDA PLANTS Database",
+      "Illinois Wildflowers",
+      "Lady Bird Johnson Wildflower Center"
+    ]
+  },
+  {
+    "slug": "pyrola-elliptica",
+    "common_name": "Elliptic Shinleaf (Waxflower Shinleaf)",
+    "scientific_name": "Pyrola elliptica",
+    "category": "flower",
+    "subcategory": "native shade perennial",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 730,
+      "max": 1460
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant nursery-propagated divisions in spring in moist, acidic, humus-rich soil in full to partial shade; Pyrola species are notoriously difficult to transplant successfully because of a dependence on specific soil mycorrhizal fungi, so purchase only nursery-grown stock and disturb roots as little as possible."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 7
+    },
+    "spacing_in": {
+      "min": 8,
+      "max": 12
+    },
+    "height_in": {
+      "min": 6,
+      "max": 10
+    },
+    "spread_in": {
+      "min": 8,
+      "max": 12
+    },
+    "sun": "shade",
+    "water": "moderate",
+    "directions": "Plant in moist, acidic, humus-rich woodland soil in full to partial shade, and avoid disturbing the roots more than necessary, since this species relies on a close relationship with soil fungi that makes it slow to establish after transplanting. Elliptic Shinleaf forms a low evergreen rosette of glossy, elliptical leaves from which a slender flowering stalk rises in summer, bearing a loose spike of nodding, waxy, greenish-white flowers with a sweet fragrance and a distinctive curved style. It spreads slowly by rhizomes in the deep leaf litter of rich, undisturbed forest floors, making it best suited to an established woodland garden rather than a young or heavily amended bed. Leave fallen leaves in place as mulch to maintain the organic, fungus-rich soil layer it depends on.",
+    "sources": [
+      "USDA PLANTS Database",
+      "Illinois Wildflowers",
+      "Go Botany (Native Plant Trust)"
+    ]
+  }
+]

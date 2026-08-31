@@ -1,0 +1,827 @@
+[
+  {
+    "slug": "kestrel-blueberry",
+    "common_name": "Kestrel Blueberry (Very Early Low-Chill University of Florida Southern Highbush)",
+    "scientific_name": "Vaccinium corymbosum interspecific hybrid 'Kestrel'",
+    "category": "berry",
+    "subcategory": "blueberry",
+    "days_to_germination": {
+      "min": 30,
+      "max": 60
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 1095,
+      "max": 1460
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": 4
+      },
+      "note": "Plant dormant, container-grown bushes in late winter to early spring in highly acidic soil; Kestrel is a University of Florida southern highbush release ripening very early, in April, bred for the low winter chill of the Deep South."
+    },
+    "usda_zones": {
+      "min": 8,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 48,
+      "max": 72
+    },
+    "height_in": {
+      "min": 60,
+      "max": 84
+    },
+    "spread_in": {
+      "min": 48,
+      "max": 60
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in acidic soil (pH 4.5-5.2) amended with pine bark and mulched heavily to conserve moisture and keep the shallow root system cool. Kestrel is a southern highbush blueberry bred at the University of Florida specifically for the low winter chill of north and central Florida and the Gulf Coast, ripening its fruit very early, typically by April, well ahead of most other blueberry types, allowing home growers to harvest before the summer heat sets in and before many pest and disease pressures build. As a southern highbush type, it needs consistently moist, well-drained, highly acidic soil rather than the more forgiving conditions rabbiteye types tolerate. Fertilize with an acid-forming fertilizer in early spring and again lightly after harvest, and prune out old, unproductive wood each winter to maintain vigor.",
+    "sources": [
+      "University of Florida IFAS Extension — Blueberry Breeding Program",
+      "USPTO Plant Patent records",
+      "Mississippi State University Extension"
+    ]
+  },
+  {
+    "slug": "scintilla-blueberry",
+    "common_name": "Scintilla Blueberry (Ultra-Low-Chill Mid-Spring University of Florida Southern Highbush)",
+    "scientific_name": "Vaccinium corymbosum interspecific hybrid 'Scintilla'",
+    "category": "berry",
+    "subcategory": "blueberry",
+    "days_to_germination": {
+      "min": 30,
+      "max": 60
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 1095,
+      "max": 1460
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": 4
+      },
+      "note": "Plant dormant, container-grown bushes in late winter to early spring in highly acidic soil; Scintilla needs only about 200-300 chill hours, ripening mid-April to mid-May, making it well suited to the mildest Gulf South winters."
+    },
+    "usda_zones": {
+      "min": 8,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 48,
+      "max": 72
+    },
+    "height_in": {
+      "min": 60,
+      "max": 84
+    },
+    "spread_in": {
+      "min": 48,
+      "max": 60
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in acidic soil (pH 4.5-5.2) amended with pine bark and mulched heavily to conserve moisture and keep the shallow root system cool. Scintilla is a University of Florida southern highbush release bred with an unusually low chill requirement of only about 200 to 300 hours, allowing it to break dormancy and fruit reliably even after the mild, warm winters typical of the immediate Gulf Coast and peninsular Florida where standard highbush and even many southern highbush cultivars fail to accumulate enough winter chill. It ripens over several weeks from mid-April into mid-May. As a southern highbush type, it needs consistently moist, highly acidic soil. Fertilize with an acid-forming fertilizer in early spring and again lightly after harvest, and prune out old wood each winter to maintain vigor.",
+    "sources": [
+      "University of Florida IFAS Extension — Blueberry Breeding Program",
+      "USPTO Plant Patent records",
+      "Mississippi State University Extension"
+    ]
+  },
+  {
+    "slug": "snowchaser-blueberry",
+    "common_name": "Snowchaser Blueberry (Earliest-Ripening Commercial Florida Southern Highbush)",
+    "scientific_name": "Vaccinium corymbosum interspecific hybrid 'Snowchaser'",
+    "category": "berry",
+    "subcategory": "blueberry",
+    "days_to_germination": {
+      "min": 30,
+      "max": 60
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 1095,
+      "max": 1460
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": 4
+      },
+      "note": "Plant dormant, container-grown bushes in late winter to early spring in highly acidic soil; Snowchaser is among the earliest-ripening commercial blueberry cultivars available, fruiting throughout April, but shows only marginal field vigor and benefits from attentive care."
+    },
+    "usda_zones": {
+      "min": 8,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 48,
+      "max": 72
+    },
+    "height_in": {
+      "min": 54,
+      "max": 78
+    },
+    "spread_in": {
+      "min": 48,
+      "max": 60
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in acidic soil (pH 4.5-5.2) amended with pine bark and mulched heavily to conserve moisture and keep the shallow root system cool. Snowchaser is an extremely low-chill southern highbush blueberry bred to capture the earliest possible market window, with fruit ripening throughout April, among the earliest of any commercial blueberry cultivar. This early-ripening advantage comes with a tradeoff: the cultivar is more prone to stem blight than sturdier southern highbush selections and benefits from careful site selection, good drainage, and prompt removal of any blighted canes to maintain long-term plant health. Fertilize with an acid-forming fertilizer in early spring and again lightly after harvest, and monitor closely for stem dieback, pruning out affected wood as soon as it is noticed.",
+    "sources": [
+      "University of Florida IFAS Extension — Blueberry Breeding Program",
+      "USPTO Plant Patent records",
+      "Mississippi State University Extension"
+    ]
+  },
+  {
+    "slug": "chickadee-blueberry",
+    "common_name": "Chickadee Blueberry (Very Early Large Low-Acid University of Florida Southern Highbush)",
+    "scientific_name": "Vaccinium corymbosum interspecific hybrid 'Chickadee'",
+    "category": "berry",
+    "subcategory": "blueberry",
+    "days_to_germination": {
+      "min": 30,
+      "max": 60
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 1095,
+      "max": 1460
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": 4
+      },
+      "note": "Plant dormant, container-grown bushes in late winter to early spring in highly acidic soil; Chickadee is a very early, very low-chill University of Florida release bearing large, sweet, low-acid berries."
+    },
+    "usda_zones": {
+      "min": 8,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 48,
+      "max": 72
+    },
+    "height_in": {
+      "min": 60,
+      "max": 84
+    },
+    "spread_in": {
+      "min": 48,
+      "max": 60
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in acidic soil (pH 4.5-5.2) amended with pine bark and mulched heavily to conserve moisture and keep the shallow root system cool. Chickadee is a University of Florida southern highbush release combining a very low chill requirement with unusually large, sweet, low-acid fruit, an appealing combination for fresh eating that also ripens very early in the season, giving Gulf South growers a jump on the blueberry harvest before summer heat and pest pressure build. As a southern highbush type it needs consistently moist, well-drained, highly acidic soil rather than the more forgiving conditions rabbiteye types tolerate. Fertilize with an acid-forming fertilizer in early spring and again lightly after harvest, and prune out old, unproductive wood each winter to maintain vigor and berry size.",
+    "sources": [
+      "University of Florida IFAS Extension — Blueberry Breeding Program",
+      "USPTO Plant Patent records",
+      "Mississippi State University Extension"
+    ]
+  },
+  {
+    "slug": "keecrisp-blueberry",
+    "common_name": "Keecrisp Blueberry (Crisp-Textured Mid-Late University of Florida Southern Highbush)",
+    "scientific_name": "Vaccinium corymbosum interspecific hybrid 'Keecrisp'",
+    "category": "berry",
+    "subcategory": "blueberry",
+    "days_to_germination": {
+      "min": 30,
+      "max": 60
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 1095,
+      "max": 1460
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": 4
+      },
+      "note": "Plant dormant, container-grown bushes in late winter to early spring in highly acidic soil; Keecrisp, a University of Florida cross of Sweetcrisp and Indigocrisp, ripens mid-to-late season and needs somewhat more winter chill than the earliest UF releases, best suited to the cooler edge of zone 8-9."
+    },
+    "usda_zones": {
+      "min": 8,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 48,
+      "max": 72
+    },
+    "height_in": {
+      "min": 60,
+      "max": 84
+    },
+    "spread_in": {
+      "min": 48,
+      "max": 60
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in acidic soil (pH 4.5-5.2) amended with pine bark and mulched heavily to conserve moisture and keep the shallow root system cool. Keecrisp, a University of Florida cross between the earlier Sweetcrisp and Indigocrisp releases, inherits the notably crisp, firm texture that distinguishes the Crisp lineage from the softer flesh typical of most blueberries, giving the fruit excellent fresh-eating snap and good holding quality on the bush. It ripens mid-to-late season and carries a somewhat higher chill requirement than the earliest, lowest-chill UF releases, performing best in the cooler pockets of zone 8b-9a rather than the very mildest coastal winters. Fertilize with an acid-forming fertilizer in early spring and again lightly after harvest, and prune out old wood each winter to maintain vigor.",
+    "sources": [
+      "University of Florida IFAS Extension — Blueberry Breeding Program",
+      "USPTO Plant Patent records",
+      "Mississippi State University Extension"
+    ]
+  },
+  {
+    "slug": "palmetto-blueberry",
+    "common_name": "Palmetto Southern Highbush Blueberry (University of Georgia Flavor-Standard Release)",
+    "scientific_name": "Vaccinium corymbosum interspecific hybrid 'Palmetto'",
+    "category": "berry",
+    "subcategory": "blueberry",
+    "days_to_germination": {
+      "min": 30,
+      "max": 60
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 1095,
+      "max": 1460
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": 4
+      },
+      "note": "Plant dormant, container-grown bushes in late winter to early spring in highly acidic soil; Palmetto, a 2003 University of Georgia release, needs about 400-450 chill hours and ripens in early May, long regarded as a flavor benchmark among southern highbush cultivars."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 48,
+      "max": 72
+    },
+    "height_in": {
+      "min": 60,
+      "max": 96
+    },
+    "spread_in": {
+      "min": 48,
+      "max": 72
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in acidic soil (pH 4.5-5.2) amended with pine bark and mulched heavily to conserve moisture and keep the shallow root system cool. Palmetto, released by the University of Georgia in 2003, needs a moderate 400 to 450 chill hours and ripens in early May, and has long been regarded by Southern blueberry growers as something of a flavor standard among southern highbush cultivars, prized for rich, well-balanced sweetness alongside a vigorous, productive, disease-tolerant bush. It performs reliably across a range of Gulf South soils and climates within its chill requirement, making it a dependable choice for home orchards seeking classic blueberry flavor. Fertilize with an acid-forming fertilizer in early spring and again lightly after harvest, and prune out old wood each winter to maintain vigor and fruit quality.",
+    "sources": [
+      "University of Georgia Cooperative Extension — Blueberry Varieties",
+      "University of Florida IFAS Extension",
+      "Mississippi State University Extension"
+    ]
+  },
+  {
+    "slug": "bluebelle-blueberry",
+    "common_name": "Bluebelle Rabbiteye Blueberry (Classic 1985 Florida-USDA Release)",
+    "scientific_name": "Vaccinium virgatum 'Bluebelle'",
+    "category": "berry",
+    "subcategory": "blueberry",
+    "days_to_germination": {
+      "min": 30,
+      "max": 60
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 1095,
+      "max": 1460
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": 4
+      },
+      "note": "Plant dormant, container-grown bushes in late winter to early spring in highly acidic soil; Bluebelle is a 1985 Florida-USDA rabbiteye release needing 450-500 chill hours, ripening mid-June through late July, and benefits from a second rabbiteye cultivar nearby for cross-pollination."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 72,
+      "max": 96
+    },
+    "height_in": {
+      "min": 72,
+      "max": 120
+    },
+    "spread_in": {
+      "min": 72,
+      "max": 96
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in acidic soil (pH 4.5-5.2) amended with pine bark and mulched heavily to conserve moisture and keep the shallow root system cool. Bluebelle, released in 1985 through a joint Florida-USDA breeding effort, requires a moderate 450 to 500 chill hours and bears a long, productive mid-to-late-season crop stretching from mid-June through late July, extending the rabbiteye harvest window when planted alongside earlier cultivars. It is a vigorous, reliable, well-established variety with a long track record in Southern home orchards and commercial plantings alike. Fertilize with an acid-forming fertilizer in early spring and again lightly after harvest, avoid heavy late-season nitrogen, and prune out old canes each winter to maintain strong annual production.",
+    "sources": [
+      "University of Georgia Cooperative Extension — Rabbiteye Blueberry Varieties",
+      "University of Florida IFAS Extension",
+      "Mississippi State University Extension"
+    ]
+  },
+  {
+    "slug": "briteblue-blueberry",
+    "common_name": "Briteblue Rabbiteye Blueberry (Historic 1969 Georgia Release)",
+    "scientific_name": "Vaccinium virgatum 'Briteblue'",
+    "category": "berry",
+    "subcategory": "blueberry",
+    "days_to_germination": {
+      "min": 30,
+      "max": 60
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 1095,
+      "max": 1460
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": 4
+      },
+      "note": "Plant dormant, container-grown bushes in late winter to early spring in highly acidic soil; Briteblue is a historic 1969 Georgia rabbiteye release, a sister selection to Delite and Bluebelle, needing another rabbiteye cultivar nearby for cross-pollination."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 72,
+      "max": 96
+    },
+    "height_in": {
+      "min": 72,
+      "max": 120
+    },
+    "spread_in": {
+      "min": 72,
+      "max": 96
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in acidic soil (pH 4.5-5.2) amended with pine bark and mulched heavily to conserve moisture and keep the shallow root system cool. Briteblue, released in Georgia in 1969, is a sister selection to the well-known Delite and Bluebelle rabbiteye cultivars, valued for large, light-blue, firm berries with good flavor on a vigorous, upright bush, and has remained in cultivation for over half a century as a dependable mid-to-late-season producer for Southern home orchards. Fertilize with an acid-forming fertilizer in early spring and again lightly after harvest, avoid heavy late-season nitrogen, and prune out old canes each winter to maintain strong annual production.",
+    "sources": [
+      "University of Georgia Cooperative Extension — Rabbiteye Blueberry Varieties",
+      "University of Florida IFAS Extension",
+      "Mississippi State University Extension"
+    ]
+  },
+  {
+    "slug": "georgiagem-blueberry",
+    "common_name": "Georgiagem Rabbiteye Blueberry (1986 Georgia Release)",
+    "scientific_name": "Vaccinium virgatum 'Georgiagem'",
+    "category": "berry",
+    "subcategory": "blueberry",
+    "days_to_germination": {
+      "min": 30,
+      "max": 60
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 1095,
+      "max": 1460
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": 4
+      },
+      "note": "Plant dormant, container-grown bushes in late winter to early spring in highly acidic soil; Georgiagem is a 1986 Georgia rabbiteye release, needing another rabbiteye cultivar nearby for cross-pollination and full fruit set."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 72,
+      "max": 96
+    },
+    "height_in": {
+      "min": 72,
+      "max": 120
+    },
+    "spread_in": {
+      "min": 72,
+      "max": 96
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in acidic soil (pH 4.5-5.2) amended with pine bark and mulched heavily to conserve moisture and keep the shallow root system cool. Georgiagem, released by the University of Georgia in 1986, produces a vigorous, productive bush bearing medium-to-large, well-flavored berries on a plant that has proven well adapted to the heat and humidity of the Deep South growing season. It fills a useful spot in the rabbiteye ripening sequence for growers building an extended harvest by combining early, mid, and late cultivars. Fertilize with an acid-forming fertilizer in early spring and again lightly after harvest, avoid heavy late-season nitrogen, and prune out old canes each winter to maintain strong annual production.",
+    "sources": [
+      "University of Georgia Cooperative Extension — Rabbiteye Blueberry Varieties",
+      "University of Florida IFAS Extension",
+      "Mississippi State University Extension"
+    ]
+  },
+  {
+    "slug": "yadkin-blueberry",
+    "common_name": "Yadkin Southern Highbush Blueberry (Large-Fruited NC State Release)",
+    "scientific_name": "Vaccinium corymbosum interspecific hybrid 'Yadkin'",
+    "category": "berry",
+    "subcategory": "blueberry",
+    "days_to_germination": {
+      "min": 30,
+      "max": 60
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 1095,
+      "max": 1460
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": 4
+      },
+      "note": "Plant dormant, container-grown bushes in late winter to early spring in highly acidic soil; Yadkin, a 1997 North Carolina State release, needs 500-600 chill hours and ripens late-mid season with large fruit and excellent soil adaptation."
+    },
+    "usda_zones": {
+      "min": 6,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 48,
+      "max": 72
+    },
+    "height_in": {
+      "min": 60,
+      "max": 96
+    },
+    "spread_in": {
+      "min": 48,
+      "max": 72
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in acidic soil (pH 4.5-5.2) amended with pine bark and mulched heavily to conserve moisture and keep the shallow root system cool. Yadkin, released by North Carolina State University in 1997, needs a moderate 500 to 600 chill hours and ripens in the late-mid part of the season, bearing unusually large, flavorful berries on a bush noted for excellent adaptability across a range of soil types, from heavier clay-influenced ground to sandier sites, more forgiving than some southern highbush selections that demand near-perfect drainage. It suits the cooler edge of the Gulf South and areas just north of it where winter chill runs a bit higher than the mildest coastal zones. Fertilize with an acid-forming fertilizer in early spring and again lightly after harvest, and prune out old wood each winter to maintain vigor.",
+    "sources": [
+      "North Carolina State University Extension — Blueberry Varieties",
+      "University of Georgia Cooperative Extension",
+      "Mississippi State University Extension"
+    ]
+  },
+  {
+    "slug": "new-hanover-blueberry",
+    "common_name": "New Hanover Southern Highbush Blueberry (Disease-Resistant Low-Chill NC State Release)",
+    "scientific_name": "Vaccinium corymbosum interspecific hybrid 'New Hanover'",
+    "category": "berry",
+    "subcategory": "blueberry",
+    "days_to_germination": {
+      "min": 30,
+      "max": 60
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 1095,
+      "max": 1460
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": 4
+      },
+      "note": "Plant dormant, container-grown bushes in late winter to early spring in highly acidic soil; New Hanover, a 2007 North Carolina State low-chill release, ripens mid-season (early-mid June) and shows good stem-blight and canker resistance."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 48,
+      "max": 72
+    },
+    "height_in": {
+      "min": 60,
+      "max": 84
+    },
+    "spread_in": {
+      "min": 48,
+      "max": 60
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in acidic soil (pH 4.5-5.2) amended with pine bark and mulched heavily to conserve moisture and keep the shallow root system cool. New Hanover, released by North Carolina State University in 2007, needs relatively little winter chill and ripens in early-to-mid June, offering a valuable combination of low-chill suitability for the Gulf South alongside notably good resistance to stem blight and canker, the fungal diseases that most often shorten the productive life of southern highbush blueberry bushes in humid climates. This disease tolerance makes it a lower-maintenance choice than many low-chill selections that trade hardiness for early ripening. Fertilize with an acid-forming fertilizer in early spring and again lightly after harvest, and prune out any affected wood promptly despite its improved resistance.",
+    "sources": [
+      "North Carolina State University Extension — Blueberry Varieties",
+      "University of Florida IFAS Extension",
+      "Mississippi State University Extension"
+    ]
+  },
+  {
+    "slug": "reveille-blueberry",
+    "common_name": "Reveille Southern Highbush Blueberry (Early Mechanical-Harvest NC State Release)",
+    "scientific_name": "Vaccinium corymbosum interspecific hybrid 'Reveille'",
+    "category": "berry",
+    "subcategory": "blueberry",
+    "days_to_germination": {
+      "min": 30,
+      "max": 60
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 1095,
+      "max": 1460
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": 4
+      },
+      "note": "Plant dormant, container-grown bushes in late winter to early spring in highly acidic soil; Reveille, a 1990 North Carolina State release, ripens early (early May) and was bred for mechanical fresh-market harvest, though fruit can crack in heavy rain near ripening."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 48,
+      "max": 72
+    },
+    "height_in": {
+      "min": 60,
+      "max": 84
+    },
+    "spread_in": {
+      "min": 48,
+      "max": 60
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in acidic soil (pH 4.5-5.2) amended with pine bark and mulched heavily to conserve moisture and keep the shallow root system cool. Reveille, released by North Carolina State University in 1990, ripens early, typically by the beginning of May, and was originally bred with mechanical harvest and fresh-market shipping in mind, giving it a firm, well-formed berry that holds up to handling. It is unpatented and has long been available to home growers as an early, dependable southern highbush option, though the fruit can be prone to cracking if heavy rain falls just as berries approach full ripeness, so harvest promptly once color develops. Fertilize with an acid-forming fertilizer in early spring and again lightly after harvest, and prune out old wood each winter to maintain vigor.",
+    "sources": [
+      "North Carolina State University Extension — Blueberry Varieties",
+      "University of Florida IFAS Extension",
+      "Mississippi State University Extension"
+    ]
+  },
+  {
+    "slug": "us-897-citrandarin",
+    "common_name": "US-897 Citrandarin (Semi-Dwarfing Cold-Hardy HLB-Tolerant Rootstock Hybrid)",
+    "scientific_name": "Citrus reticulata x Poncirus trifoliata 'US-897'",
+    "category": "fruit",
+    "subcategory": "citrus",
+    "days_to_germination": {
+      "min": 14,
+      "max": 30
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 80
+    },
+    "days_to_maturity": {
+      "min": 730,
+      "max": 1460
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 6
+      },
+      "note": "Plant grafted or container-grown trees in spring in well-drained soil in full sun, protecting young wood the first winter or two; US-897, a 2007 USDA-ARS citrandarin (Cleopatra mandarin x trifoliate orange), is a semi-dwarfing, cold-hardy hybrid with some tolerance to citrus greening (HLB)."
+    },
+    "usda_zones": {
+      "min": 8,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 72,
+      "max": 120
+    },
+    "height_in": {
+      "min": 72,
+      "max": 120
+    },
+    "spread_in": {
+      "min": 72,
+      "max": 120
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in well-drained soil in full sun, and protect young trees during their first winter or two while cold hardiness develops. US-897, released by the USDA-ARS citrus breeding program in 2007 from a cross of Cleopatra mandarin and trifoliate orange, was developed primarily as a semi-dwarfing rootstock but has also drawn interest for direct planting because of its combination of good cold hardiness, inherited from its trifoliate parent, and documented tolerance to huanglongbing (citrus greening), the disease that has devastated citrus production across Florida and the Gulf South. Fruit is tart and seedy, more useful for juice or marmalade than fresh eating, similar to other citrandarin hybrids. As with other trifoliate-derived hybrids, expect a semi-deciduous habit and light thorns in colder winters. Established trees tolerate significantly colder temperatures than standard mandarin or sweet orange.",
+    "sources": [
+      "USDA Agricultural Research Service — Citrus Germplasm and Rootstock Breeding",
+      "University of Florida IFAS Extension — Citrus Rootstocks",
+      "specialty cold-hardy citrus nursery variety notes"
+    ]
+  },
+  {
+    "slug": "dunstan-citrumelo",
+    "common_name": "Dunstan Citrumelo (Sweetest Least-Resinous Cold-Hardy Citrumelo Hybrid)",
+    "scientific_name": "Citrus paradisi x Poncirus trifoliata 'Dunstan'",
+    "category": "fruit",
+    "subcategory": "citrus",
+    "days_to_germination": {
+      "min": 14,
+      "max": 30
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 80
+    },
+    "days_to_maturity": {
+      "min": 730,
+      "max": 1460
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 6
+      },
+      "note": "Plant grafted or container-grown trees in spring in well-drained soil in full sun, protecting young wood the first winter or two; Dunstan, a grapefruit x trifoliate orange citrumelo, is the sweetest and least resinous of the citrumelo hybrids, cold-hardy to around 10 degrees F once established, fruit ripening fall into winter."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 96,
+      "max": 168
+    },
+    "height_in": {
+      "min": 96,
+      "max": 168
+    },
+    "spread_in": {
+      "min": 96,
+      "max": 168
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in well-drained soil in full sun, and protect young trees during their first winter or two while cold hardiness develops. Dunstan is a citrumelo, a hybrid of grapefruit and trifoliate orange, and among citrumelo selections it stands out for having noticeably better fresh-eating quality than most, with sweeter juice and less of the bitter, resinous flavor that limits many trifoliate hybrids to juice or marmalade use only. Established trees tolerate temperatures down to around 10 degrees Fahrenheit, considerably colder than standard grapefruit or orange, making it one of the more cold-hardy citrus options for the northern edge of the Gulf South citrus range. Fruit ripens from fall into winter, with flavor improving the longer it hangs on the tree in mild weather. As with other trifoliate-derived hybrids, expect a semi-deciduous habit and light thorns in colder winters.",
+    "sources": [
+      "University of Georgia Extension — Cold-Hardy Citrus for the Southeast",
+      "USDA Agricultural Research Service — Citrus Germplasm",
+      "specialty cold-hardy citrus nursery variety notes"
+    ]
+  },
+  {
+    "slug": "bingo-mandarin",
+    "common_name": "Bingo Mandarin (Early-Season Seedless Easy-Peel HLB-Tolerant Florida Mandarin)",
+    "scientific_name": "Citrus reticulata 'Bingo'",
+    "category": "fruit",
+    "subcategory": "citrus",
+    "days_to_germination": {
+      "min": 14,
+      "max": 30
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 80
+    },
+    "days_to_maturity": {
+      "min": 730,
+      "max": 1460
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 6
+      },
+      "note": "Plant grafted or container-grown trees in spring in well-drained soil in full sun; Bingo, a University of Florida release, is an early-season (October-November) seedless, easy-peel mandarin bred primarily for tolerance to citrus greening (HLB) rather than cold hardiness."
+    },
+    "usda_zones": {
+      "min": 9,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 96,
+      "max": 144
+    },
+    "height_in": {
+      "min": 96,
+      "max": 144
+    },
+    "spread_in": {
+      "min": 96,
+      "max": 144
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in well-drained soil in full sun, and bring container-grown trees under cover or protect in place during hard freezes, since Bingo is a true mandarin without the added cold tolerance of trifoliate-hybrid citrus. Bingo, released by the University of Florida, was bred primarily for improved field tolerance to huanglongbing (citrus greening), the bacterial disease that has devastated citrus groves across Florida and the Gulf South, while still delivering good fresh-market quality: an easy-peel, essentially seedless mandarin with sweet, richly flavored flesh ripening early in the season, from October into November, ahead of many other mandarin selections. It suits the milder, more coastal parts of the Gulf South citrus range where standard mandarins are already grown, rather than the colder inland areas where cold-hardy hybrids are needed. Fertilize according to standard citrus nutrition programs and monitor for greening symptoms even on resistant selections, since tolerance reduces but does not eliminate disease impact.",
+    "sources": [
+      "University of Florida IFAS Extension — Citrus Breeding Program",
+      "USPTO Plant Patent records",
+      "University of Georgia Extension — Cold-Hardy Citrus for the Southeast"
+    ]
+  }
+]

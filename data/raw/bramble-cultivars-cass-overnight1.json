@@ -1,0 +1,112 @@
+[
+  {
+    "slug": "thornfree-blackberry",
+    "common_name": "Thornfree Blackberry (Historic USDA Thornless Blackberry)",
+    "scientific_name": "Rubus 'Thornfree'",
+    "category": "berry",
+    "subcategory": "bramble",
+    "days_to_germination": {
+      "min": 30,
+      "max": 90
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 365,
+      "max": 550
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant after last hard frost in spring in deep, well-drained soil in full sun; Thornfree, released by the USDA in 1966, was one of the first commercially successful thornless blackberry cultivars."
+    },
+    "usda_zones": {
+      "min": 6,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 48,
+      "max": 72
+    },
+    "height_in": {
+      "min": 60,
+      "max": 96
+    },
+    "spread_in": {
+      "min": 48,
+      "max": 72
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in full sun in deep, well-drained soil and train the sprawling semi-erect canes onto a sturdy two-wire trellis. Released by the USDA in 1966, Thornfree was one of the first genuinely thornless blackberry cultivars to reach home gardeners and commercial growers, and its introduction helped launch the modern era of thornless bramble breeding that led to today's widely planted cultivars. It bears firm, glossy, medium-to-large black fruit with good flavor over a fairly long midsummer harvest window, on vigorous canes that need tying and support since the plant does not grow fully upright on its own. Remove spent floricanes to the ground after harvest each year to keep the planting productive.",
+    "sources": [
+      "University of Arkansas Division of Agriculture",
+      "Texas A&M AgriLife Extension",
+      "North Carolina State Extension"
+    ]
+  },
+  {
+    "slug": "nova-raspberry",
+    "common_name": "Nova Raspberry (Cold-Hardy Vigorous Canadian Red Raspberry)",
+    "scientific_name": "Rubus idaeus 'Nova'",
+    "category": "berry",
+    "subcategory": "cane fruit",
+    "days_to_germination": {
+      "min": 30,
+      "max": 90
+    },
+    "germination_soil_temp_f": {
+      "min": 55,
+      "max": 65
+    },
+    "days_to_maturity": {
+      "min": 365,
+      "max": 550
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": -2,
+        "max": 2
+      },
+      "note": "Plant dormant canes or container stock in early spring in fertile, well-drained soil in full sun; Nova was bred in Nova Scotia for exceptional winter hardiness and disease resistance."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 8
+    },
+    "spacing_in": {
+      "min": 24,
+      "max": 30
+    },
+    "height_in": {
+      "min": 48,
+      "max": 60
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in fertile, well-drained soil in full sun, and provide a trellis or wire support to keep the vigorous canes upright. Bred in Nova Scotia, this summer-bearing red raspberry was selected for outstanding winter hardiness and strong resistance to common cane diseases, making it a reliable choice for gardeners in colder climates where less hardy cultivars struggle. It produces firm, medium-large, bright red berries with good flavor on tall, vigorous, spine-covered canes over a midsummer harvest season. Remove spent floricanes after fruiting and thin new canes each spring to maintain airflow and fruit quality.",
+    "sources": [
+      "North American Bramble Growers Association",
+      "Cornell Cooperative Extension",
+      "University of Minnesota Extension"
+    ]
+  }
+]

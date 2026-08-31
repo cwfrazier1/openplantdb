@@ -1,0 +1,57 @@
+[
+  {
+    "slug": "jupiter-rice",
+    "common_name": "Jupiter Rice (Louisiana Medium-Grain Rice)",
+    "scientific_name": "Oryza sativa 'Jupiter'",
+    "category": "vegetable",
+    "subcategory": "grain",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 115,
+      "max": 135
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Direct sow in flooded or consistently moist ground after last frost when soil temperature reaches 65°F; Jupiter is an LSU AgCenter medium-grain release widely grown across Louisiana rice country."
+    },
+    "usda_zones": {
+      "min": 8,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 6,
+      "max": 9
+    },
+    "height_in": {
+      "min": 36,
+      "max": 48
+    },
+    "spread_in": {
+      "min": 6,
+      "max": 9
+    },
+    "sun": "full",
+    "water": "high",
+    "directions": "Sow seed 0.5-1 inch deep in rich, heavy, moisture-retentive soil in full sun, keeping the bed consistently saturated through the growing season whether in a flooded paddy or a well-watered garden bed. Jupiter is a widely grown Louisiana medium-grain rice released by the LSU AgCenter, valued by commercial growers and home gardeners alike for high, dependable yields and grain that cooks up moist, tender, and slightly clingy in the style favored for jambalaya, risotto-style dishes, and sushi rice rather than the fluffy separate grains of long-grain types. The sturdy, semi-dwarf plants stand up well to wind and rain compared to older tall varieties, making it a practical choice for a home rice patch. Harvest when seed heads droop and the grain has turned golden-brown, then thresh and dry thoroughly before hulling or storing.",
+    "sources": [
+      "Louisiana State University AgCenter",
+      "USDA Agricultural Research Service",
+      "Southern Foodways Alliance"
+    ]
+  }
+]

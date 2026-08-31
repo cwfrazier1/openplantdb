@@ -1,0 +1,112 @@
+[
+  {
+    "slug": "silphium-albiflorum",
+    "common_name": "White Rosinweed (Whitepetal Rosinweed)",
+    "scientific_name": "Silphium albiflorum",
+    "category": "flower",
+    "subcategory": "native wildflower",
+    "days_to_germination": {
+      "min": 21,
+      "max": 42
+    },
+    "germination_soil_temp_f": {
+      "min": 55,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 730,
+      "max": 1095
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Direct sow on the soil surface in fall so winter cold stratifies the seed; avoid transplanting once the taproot forms, since it resents disturbance."
+    },
+    "usda_zones": {
+      "min": 6,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 30
+    },
+    "height_in": {
+      "min": 20,
+      "max": 40
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Direct sow on the soil surface in fall and let winter cold break seed dormancy naturally; germination follows the next spring, and plants spend their first couple of seasons building a deep taproot before flowering size is reached. Unlike its yellow-flowered rosinweed relatives, this Texas limestone-prairie endemic produces distinctive white to pale-cream ray flowers atop rough, deeply lobed foliage, blooming through the heat of summer when many prairie companions have finished. Once established on the caliche and clay soils of its native Blackland and Grand Prairie range, it shrugs off drought and needs no supplemental water or fertilizer. Leave the coarse basal foliage in place through winter for cover, and avoid rich, regularly irrigated garden beds where it tends to flop and rot.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "Native Plant Society of Texas",
+      "USDA PLANTS Database"
+    ]
+  },
+  {
+    "slug": "silphium-gracile",
+    "common_name": "Slender Rosinweed",
+    "scientific_name": "Silphium gracile",
+    "category": "flower",
+    "subcategory": "native wildflower",
+    "days_to_germination": {
+      "min": 21,
+      "max": 42
+    },
+    "germination_soil_temp_f": {
+      "min": 55,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 730,
+      "max": 1095
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Direct sow on the soil surface in fall for natural winter stratification; establishes slowly from a deep taproot and dislikes being moved."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 30
+    },
+    "height_in": {
+      "min": 30,
+      "max": 60
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Direct sow on the soil surface in fall and allow winter cold to break seed dormancy; a deep taproot forms early and the plant resents transplanting after its first year. Native to open pinelands, sandy prairies, and roadsides across the Gulf Coastal Plain from Louisiana east to the Florida Panhandle, this rosinweed carries bright yellow sunflower-like blooms on wiry, sparsely branched stems that are noticeably more slender than bushier relatives like starry rosinweed. It thrives in lean, well-drained sandy soil and full sun, tolerating both summer heat and periodic dry spells once its taproot is established, and its late-summer flowers draw a steady stream of native bees and butterflies. Skip fertilizer and heavy irrigation, which encourage weak, floppy growth in this naturally lean-soil species.",
+    "sources": [
+      "USDA PLANTS Database",
+      "Atlas of Florida Plants",
+      "Lady Bird Johnson Wildflower Center"
+    ]
+  }
+]
