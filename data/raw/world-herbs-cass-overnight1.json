@@ -1,0 +1,83 @@
+[
+  {
+    "slug": "rutgers-obsession-dmr-basil",
+    "common_name": "Rutgers Obsession DMR Basil",
+    "scientific_name": "Ocimum basilicum 'Rutgers Obsession DMR'",
+    "category": "herb",
+    "subcategory": "culinary herb",
+    "days_to_germination": {"min": 5, "max": 10},
+    "germination_soil_temp_f": {"min": 70, "max": 85},
+    "days_to_maturity": {"min": 55, "max": 65},
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": -6, "max": -4},
+      "note": "Start indoors under warm conditions and transplant only after all frost danger and soil has warmed, since this basil has no more cold tolerance than any other sweet basil; its advantage is disease resistance, not hardiness."
+    },
+    "usda_zones": {"min": 2, "max": 11},
+    "spacing_in": {"min": 10, "max": 14},
+    "height_in": {"min": 18, "max": 24},
+    "spread_in": {"min": 12, "max": 16},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Sow indoors 4-6 weeks before the last frost and transplant into warm soil once nights stay reliably above 50°F, spacing plants a foot apart in fertile, well-drained soil. This compact Genovese-type basil was bred at Rutgers University and released for its resistance to basil downy mildew (Peronospora belbahrii), the fungal disease that devastates conventional Genovese basil in humid, wet, or overcast conditions, making it a reliable choice for gardeners in the Southeast and other mildew-prone regions. It grows more compactly and slower to establish than sibling releases like Devotion DMR, but the dark green, glossy, sweetly aromatic leaves hold their classic Genovese flavor for pesto, caprese salads, and general Italian cooking over a long season of repeated cuttings. Pinch flower spikes regularly to keep leaf production high through the season.",
+    "sources": ["Rutgers New Jersey Agricultural Experiment Station", "High Mowing Organic Seeds"]
+  },
+  {
+    "slug": "rutgers-passion-dmr-basil",
+    "common_name": "Rutgers Passion DMR Basil",
+    "scientific_name": "Ocimum basilicum 'Rutgers Passion DMR'",
+    "category": "herb",
+    "subcategory": "culinary herb",
+    "days_to_germination": {"min": 5, "max": 10},
+    "germination_soil_temp_f": {"min": 70, "max": 85},
+    "days_to_maturity": {"min": 55, "max": 68},
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": -6, "max": -4},
+      "note": "Start indoors and set out only once nights are reliably warm; this cultivar's breeding advantage is mildew resistance in muggy weather, not frost tolerance, so treat it as an ordinary tender annual."
+    },
+    "usda_zones": {"min": 2, "max": 11},
+    "spacing_in": {"min": 10, "max": 14},
+    "height_in": {"min": 18, "max": 26},
+    "spread_in": {"min": 12, "max": 16},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Direct-seed or transplant into full sun after soil has warmed, keeping plants evenly moist but never waterlogged. Part of the Rutgers basil breeding program's suite of downy-mildew-resistant Genovese-type basils, Rutgers Passion DMR carries resistance genes that keep foliage clean and productive even in the warm, humid, low-airflow conditions that trigger downy mildew outbreaks in older heirloom Genovese strains. Leaves are large, glossy, and intensely aromatic, well suited to fresh pesto, infused oils, and drying. Harvest by pinching stem tips just above a leaf pair to encourage continuous branching and delay flowering.",
+    "sources": ["Rutgers New Jersey Agricultural Experiment Station", "North Carolina State Extension"]
+  },
+  {
+    "slug": "clary-sage-vatican-white",
+    "common_name": "Vatican White Clary Sage",
+    "scientific_name": "Salvia sclarea 'Vatican White'",
+    "category": "herb",
+    "subcategory": "aromatic biennial herb",
+    "days_to_germination": {"min": 14, "max": 21},
+    "germination_soil_temp_f": {"min": 65, "max": 75},
+    "days_to_maturity": {"min": 120, "max": 365},
+    "maturity_from": "seed",
+    "sow_method": "indoor-start",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": -10, "max": -6},
+      "note": "Sow indoors in late winter for bloom the following year, or direct-sow in mid-summer for overwintered rosettes; like all clary sage this cultivar is a true biennial and will not flower until its second year unless vernalized."
+    },
+    "usda_zones": {"min": 4, "max": 9},
+    "spacing_in": {"min": 15, "max": 20},
+    "height_in": {"min": 24, "max": 30},
+    "spread_in": {"min": 15, "max": 20},
+    "sun": "full",
+    "water": "low",
+    "directions": "Sow seed indoors and transplant after danger of frost, or sow directly in mid-summer where plants are to bloom the following year, into lean, well-drained, alkaline to neutral soil. Vatican White is a compact seed-strain selection of clary sage bred for a shorter, more uniform habit than the wild species, producing tall spikes of pure white flowers held in showy pale bracts over large, wrinkled, felted gray-green leaves in early to midsummer of the second year. Like the species, its flowering stems and leaves are used in aromatherapy and traditional herbal preparations, and the strong-scented foliage is a striking foil for blue- and purple-flowered clary sage selections in an herb or cutting garden. Deadhead spent spikes to tidy plants once bloom finishes; self-sown seedlings often appear the following spring.",
+    "sources": ["Royal Horticultural Society", "Select Seeds"]
+  }
+]

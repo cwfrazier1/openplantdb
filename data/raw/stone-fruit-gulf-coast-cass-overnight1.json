@@ -1,0 +1,56 @@
+[
+  {
+    "slug": "au-rubrum-plum",
+    "common_name": "AU-Rubrum Plum (Auburn University Early-Season Dark Red Japanese-American Hybrid Plum for the Gulf South)",
+    "scientific_name": "Prunus salicina x Prunus americana 'Au Rubrum'",
+    "category": "fruit",
+    "subcategory": "plum tree",
+    "days_to_germination": {"min": null, "max": null},
+    "germination_soil_temp_f": {"min": 35, "max": 55},
+    "days_to_maturity": {"min": 1095, "max": 1460},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": -8, "max": -2},
+      "note": "Set out bare-root or container trees in late winter while dormant, in full sun with sharply drained soil to avoid Prunus root rot problems. AU-Rubrum needs roughly 650 hours of winter chilling, so it performs most reliably in zone 8 and cooler zone 9 pockets of the Gulf South rather than the mildest coastal areas."
+    },
+    "usda_zones": {"min": 6, "max": 9},
+    "spacing_in": {"min": 144, "max": 180},
+    "height_in": {"min": 120, "max": 168},
+    "spread_in": {"min": 120, "max": 156},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "AU-Rubrum was released by the Auburn University Agricultural Experiment Station as an early-ripening selection within its Japanese-American 'Au' plum breeding line, arising as a sport of the earlier Auburn release 'Crimson.' Trees are self-fruitful but set noticeably heavier crops when a second Japanese or Japanese-American plum such as Methley or another Au-series variety is planted within pollinating range. Fruit ripens mid-to-late June, well ahead of most Japanese plums, and is notably large with very dark red skin and sweet red flesh suited to fresh eating, canning, and preserves. Like the rest of the Au series, it was bred specifically for resistance to bacterial canker, bacterial leaf spot, and black knot, giving it an edge over older plum varieties under humid Southeastern growing conditions.",
+    "sources": ["Auburn University Agricultural Experiment Station", "Alabama Cooperative Extension System"]
+  },
+  {
+    "slug": "au-roadside-plum",
+    "common_name": "AU-Roadside Plum (Auburn University Dark Red Japanese-American Hybrid Plum for the Gulf South)",
+    "scientific_name": "Prunus salicina x Prunus americana 'Au Roadside'",
+    "category": "fruit",
+    "subcategory": "plum tree",
+    "days_to_germination": {"min": null, "max": null},
+    "germination_soil_temp_f": {"min": 35, "max": 55},
+    "days_to_maturity": {"min": 1095, "max": 1460},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": -8, "max": -2},
+      "note": "Plant dormant bare-root trees in late winter in full sun and well-drained soil. AU-Roadside chills out at a moderate requirement, placing it toward the higher-chill end of the Au series and best suited to zone 8 and the cooler edges of zone 9 in the Gulf South rather than the mildest coastal winters."
+    },
+    "usda_zones": {"min": 6, "max": 9},
+    "spacing_in": {"min": 144, "max": 180},
+    "height_in": {"min": 120, "max": 168},
+    "spread_in": {"min": 120, "max": 156},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "AU-Roadside was developed by the Alabama Agricultural Experiment Station at Auburn University from a cross of 'Ozark Premier' and 'Methley,' combining the fruit size of the former with the reliable Gulf South adaptation of the latter, and it outperforms Ozark Premier itself in Southern growing conditions. Fruit is large and round with striking red skin and juicy amber-yellow flesh; while capable of some self-fruitfulness, yields improve substantially with a second Japanese or Japanese-American plum planted nearby for cross-pollination. The cultivar was bred for strong resistance to bacterial canker, bacterial leaf and fruit spot, and plum leaf scald, traits that made it a favored choice for home and roadside-stand plantings across Alabama and neighboring Gulf Coast states. It ripens early in the season, extending the harvest window for home orchards that also grow later Au-series plums.",
+    "sources": ["Auburn University Agricultural Experiment Station", "Alabama Cooperative Extension System"]
+  }
+]

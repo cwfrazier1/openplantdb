@@ -1,57 +1,218 @@
 [
   {
-    "slug": "emma-kay-black-walnut",
-    "common_name": "Emma Kay Black Walnut (Heavy-Bearing Thin-Shelled Named Black Walnut)",
-    "scientific_name": "Juglans nigra 'Emma Kay'",
+    "slug": "hark-pecan",
+    "common_name": "Hark Pecan (Cold-Hardy Northern Pecan)",
+    "scientific_name": "Carya illinoinensis 'Hark'",
     "category": "fruit",
     "subcategory": "nut tree",
-    "days_to_germination": {
-      "min": 90,
-      "max": 150
-    },
-    "germination_soil_temp_f": {
-      "min": 50,
-      "max": 65
-    },
-    "days_to_maturity": {
-      "min": 1825,
-      "max": 2920
-    },
+    "days_to_germination": {"min": null, "max": null},
+    "germination_soil_temp_f": {"min": null, "max": null},
+    "days_to_maturity": {"min": 1460, "max": 2555},
     "maturity_from": "transplant",
     "sow_method": "transplant",
     "season": "perennial",
     "frost_tolerance": "hardy",
     "planting": {
       "anchor": "spring",
-      "weeks_from_anchor": {
-        "min": -6,
-        "max": -2
-      },
-      "note": "Plant bare-root or container trees while dormant in late winter in deep, well-drained soil in full sun, well away from gardens and other juglone-sensitive plants; Emma Kay is grafted onto black walnut rootstock and eventually becomes a large shade tree."
+      "weeks_from_anchor": {"min": -8, "max": -2},
+      "note": "Plant grafted, dormant bare-root trees in late winter into deep, fertile, well-drained soil in full sun; Hark is a cold-hardy northern pecan and needs a compatible cross-pollinating cultivar with an offset pollen-shed schedule to fruit reliably."
     },
-    "usda_zones": {
-      "min": 4,
-      "max": 9
-    },
-    "spacing_in": {
-      "min": 480,
-      "max": 720
-    },
-    "height_in": {
-      "min": 600,
-      "max": 960
-    },
-    "spread_in": {
-      "min": 480,
-      "max": 720
-    },
+    "usda_zones": {"min": 5, "max": 8},
+    "spacing_in": {"min": 360, "max": 480},
+    "height_in": {"min": 480, "max": 720},
+    "spread_in": {"min": 360, "max": 480},
     "sun": "full",
     "water": "moderate",
-    "directions": "Plant in deep, well-drained soil in full sun, sited well away from tomatoes, apples, and other plants sensitive to the juglone this species releases into the surrounding soil. Emma Kay is a Midwestern-selected black walnut cultivar valued among home-orchard nut growers for consistently heavy annual crops and an above-average kernel-to-shell ratio, which makes cracking and picking out whole kernel halves noticeably easier than with wild seedling trees. The tree grows vigorously into a large, cold-hardy shade tree, so give it plenty of room away from structures and smaller plantings. Nuts drop in a thick green husk in early fall that should be removed promptly to prevent staining and mold before curing the shells for a few weeks in a dry, well-ventilated spot.",
-    "sources": [
-      "Northern Nut Growers Association",
-      "University of Missouri Center for Agroforestry",
-      "Purdue University Cooperative Extension"
-    ]
+    "directions": "Hark is one of the northern pecan cultivars bred for short-season climates, bearing a medium-sized, thin-shelled nut with good kernel fill well outside the traditional Gulf South pecan belt. Give it deep, uncompacted soil and full sun, and plant a second cultivar with an offsetting pollen-shed and receptivity schedule nearby, since pecans rarely self-pollinate effectively. Watch for zinc deficiency (rosette) in spring and apply foliar zinc if new leaves emerge small and crinkled. Because it matures its crop within a shorter frost-free window than southern selections like Desirable or Stuart, Hark is the better choice for growers north of the humid Gulf Coast who still want home-scale pecan production.",
+    "sources": ["Northern Nut Growers Association", "Kansas State University Research and Extension", "University of Missouri Center for Agroforestry"]
+  },
+  {
+    "slug": "burton-hican",
+    "common_name": "Burton Hican (Pecan-Hickory Hybrid)",
+    "scientific_name": "Carya x brownii 'Burton'",
+    "category": "fruit",
+    "subcategory": "nut tree",
+    "days_to_germination": {"min": null, "max": null},
+    "germination_soil_temp_f": {"min": null, "max": null},
+    "days_to_maturity": {"min": 1460, "max": 2555},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": -8, "max": -2},
+      "note": "Plant grafted trees in late winter while dormant into deep, moist, fertile bottomland-type soil in full sun; hicans need a nearby pecan or hickory of compatible bloom timing to set a crop."
+    },
+    "usda_zones": {"min": 5, "max": 9},
+    "spacing_in": {"min": 480, "max": 720},
+    "height_in": {"min": 480, "max": 840},
+    "spread_in": {"min": 360, "max": 600},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Burton is a historic natural shagbark hickory x pecan hybrid discovered near Owensboro, Kentucky, in the late 1800s and long kept alive mainly through Northern Nut Growers Association members and university nut collections rather than commercial nurseries. Like other hicans it combines pecan-style productivity with hickory cold hardiness, producing a large, richly flavored nut, though kernel fill and seed germination rates can be inconsistent from year to year the way they often are in this hybrid group. Give it the same deep, well-drained planting site and cross-pollination planning you would use for pecan, and expect a long juvenile period before first nuts. It is best suited to collectors and diversified nut orchards rather than growers wanting a predictable annual harvest.",
+    "sources": ["Northern Nut Growers Association", "USDA National Plant Germplasm System", "University of Missouri Center for Agroforestry"]
+  },
+  {
+    "slug": "mccallister-hican",
+    "common_name": "McCallister Hican (Vigorous Pecan-Hickory Hybrid)",
+    "scientific_name": "Carya x brownii 'McCallister'",
+    "category": "fruit",
+    "subcategory": "nut tree",
+    "days_to_germination": {"min": null, "max": null},
+    "germination_soil_temp_f": {"min": null, "max": null},
+    "days_to_maturity": {"min": 1460, "max": 2555},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": -8, "max": -2},
+      "note": "Plant grafted trees in late winter while dormant into deep, moist, fertile bottomland-type soil in full sun; McCallister needs cross-pollination from a nearby pecan or hickory with an overlapping bloom period."
+    },
+    "usda_zones": {"min": 5, "max": 9},
+    "spacing_in": {"min": 480, "max": 720},
+    "height_in": {"min": 480, "max": 840},
+    "spread_in": {"min": 360, "max": 600},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "McCallister is among the most widely grafted hican selections in hobbyist nut-tree circles, prized for its exceptionally large, showy nuts on a vigorous tree. Fill percentage and seed viability are variable, a trait typical of pecan-hickory hybrids, so growers usually plant it for novelty, breeding stock, and diversified nut plantings rather than for consistent commercial yield. It needs the same deep, well-drained soil and cross-pollination partner as pecan, and tolerates colder winters than straight pecan does. Expect a long establishment period before the tree reaches bearing age.",
+    "sources": ["Northern Nut Growers Association", "USDA National Plant Germplasm System"]
+  },
+  {
+    "slug": "pleas-hican",
+    "common_name": "Pleas Hican (Historic Bitternut-Pecan Hybrid)",
+    "scientific_name": "Carya x brownii 'Pleas'",
+    "category": "fruit",
+    "subcategory": "nut tree",
+    "days_to_germination": {"min": null, "max": null},
+    "germination_soil_temp_f": {"min": null, "max": null},
+    "days_to_maturity": {"min": 1460, "max": 2555},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": -8, "max": -2},
+      "note": "Plant grafted trees in late winter while dormant into deep, moist, fertile bottomland-type soil in full sun; Pleas needs cross-pollination from a nearby pecan or hickory with overlapping bloom timing."
+    },
+    "usda_zones": {"min": 5, "max": 9},
+    "spacing_in": {"min": 480, "max": 720},
+    "height_in": {"min": 480, "max": 840},
+    "spread_in": {"min": 360, "max": 600},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Pleas is a bitternut hickory x pecan cross long documented in Northern Nut Growers Association records and considered one of the outstanding hican selections for cold hardiness, retaining a distinctly hickory-shaped nut with a rich flavor and ample kernel. As with other hicans, kernel fill and cracking quality vary by season, so it is grown chiefly by collectors and diversified nut-orchard hobbyists rather than commercial producers. Site it in deep, well-drained soil with a compatible pecan or hickory pollinator nearby, and be patient; hicans are typically slower to reach bearing age than standard pecan cultivars.",
+    "sources": ["Northern Nut Growers Association", "USDA National Plant Germplasm System"]
+  },
+  {
+    "slug": "weschcke-black-walnut",
+    "common_name": "Weschcke Black Walnut (Cold-Hardy Northern Selection)",
+    "scientific_name": "Juglans nigra 'Weschcke'",
+    "category": "fruit",
+    "subcategory": "nut tree",
+    "days_to_germination": {"min": null, "max": null},
+    "germination_soil_temp_f": {"min": null, "max": null},
+    "days_to_maturity": {"min": 1460, "max": 2555},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": -8, "max": -2},
+      "note": "Plant grafted or budded trees in late winter into deep, well-drained soil in full sun, well away from vegetable beds and other juglone-sensitive plants; Weschcke is valued for its combination of cold hardiness and better-than-average cracking quality."
+    },
+    "usda_zones": {"min": 5, "max": 8},
+    "spacing_in": {"min": 480, "max": 600},
+    "height_in": {"min": 480, "max": 720},
+    "spread_in": {"min": 360, "max": 600},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Weschcke traces to the pioneering cold-climate nut breeding work of Carl Weschcke in Minnesota and is grown for producing large kernel pieces that crack out more easily than typical wild black walnut seedlings while retaining strong winter hardiness. Give it deep, fertile, well-drained soil in full sun and plenty of room, since mature black walnuts become large shade trees; roots and leaf litter release juglone, so keep tomatoes, potatoes, and other juglone-sensitive plants at a distance. Black walnut is wind-pollinated and self-fertile, but nut set and size improve with a second seedling or grafted tree nearby for cross-pollination. It is best suited to northern growers seeking a hardier, better-cracking alternative to wild-type black walnut rather than to Gulf South plantings, which favor Persian or heartnut types instead.",
+    "sources": ["Northern Nut Growers Association", "University of Minnesota Extension"]
+  },
+  {
+    "slug": "sacajawea-hazelnut",
+    "common_name": "Sacajawea Hazelnut (EFB-Resistant Pollenizer Filbert)",
+    "scientific_name": "Corylus avellana 'Sacajawea'",
+    "category": "fruit",
+    "subcategory": "nut tree",
+    "days_to_germination": {"min": null, "max": null},
+    "germination_soil_temp_f": {"min": null, "max": null},
+    "days_to_maturity": {"min": 1095, "max": 1825},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 8},
+      "note": "Plant container or bare-root trees in well-drained, fertile, slightly acidic to neutral soil in full sun; Sacajawea is primarily grown as a pollenizer, so pair it with a compatible main-crop cultivar such as Jefferson for reliable nut set on both trees."
+    },
+    "usda_zones": {"min": 4, "max": 8},
+    "spacing_in": {"min": 120, "max": 180},
+    "height_in": {"min": 120, "max": 216},
+    "spread_in": {"min": 96, "max": 180},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Sacajawea is a more recent Oregon State University release bred with resistance to Eastern Filbert Blight, the canker disease that devastated the older Barcelona-dominated Willamette Valley hazelnut industry. It is grown mainly as a pollenizer, shedding pollen at a timing that complements resistant main-crop cultivars like Jefferson, though its round, good-quality nuts are also perfectly usable. Give it full sun and well-drained, fertile soil, and prune out any blighted cankers promptly even though the resistance greatly reduces disease pressure compared to older varieties. Because it needs a genetically distinct pollen partner nearby, plant at least two compatible cultivars together for a dependable annual crop.",
+    "sources": ["Oregon State University Extension — Hazelnut Production", "Oregon State University Department of Horticulture hazelnut breeding program"]
+  },
+  {
+    "slug": "butler-hazelnut",
+    "common_name": "Butler Hazelnut (Historic Willamette Valley Filbert)",
+    "scientific_name": "Corylus avellana 'Butler'",
+    "category": "fruit",
+    "subcategory": "nut tree",
+    "days_to_germination": {"min": null, "max": null},
+    "germination_soil_temp_f": {"min": null, "max": null},
+    "days_to_maturity": {"min": 1095, "max": 1825},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 8},
+      "note": "Plant container or bare-root trees in well-drained, fertile, slightly acidic to neutral soil in full sun; Butler needs a genetically distinct pollenizer cultivar nearby, since hazelnuts are wind-pollinated and self-incompatible."
+    },
+    "usda_zones": {"min": 4, "max": 8},
+    "spacing_in": {"min": 120, "max": 180},
+    "height_in": {"min": 96, "max": 216},
+    "spread_in": {"min": 96, "max": 180},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Butler is a 1970s-era Oregon State University release that was widely planted in the Willamette Valley before Eastern Filbert Blight reshaped the industry toward resistant cultivars, and it remains a good-flavored, large-nutted choice for home orchards outside blight-endemic areas. Set it in full sun with deep, well-drained soil and give it a compatible pollenizer, since hazelnuts shed and receive pollen on catkins through the winter months while otherwise dormant. In regions where Eastern Filbert Blight is present, inspect canes each dormant season and prune out cankers well below any visible infection to slow disease spread, since Butler lacks the resistance bred into newer OSU releases. It rewards attentive orchard sanitation with a dependable fall harvest of easily cracked, richly flavored nuts.",
+    "sources": ["Oregon State University Extension — Hazelnut Production", "Willamette Valley Hazelnut Growers Association"]
+  },
+  {
+    "slug": "lewis-hazelnut",
+    "common_name": "Lewis Hazelnut (Improved Kernel-Quality Filbert)",
+    "scientific_name": "Corylus avellana 'Lewis'",
+    "category": "fruit",
+    "subcategory": "nut tree",
+    "days_to_germination": {"min": null, "max": null},
+    "germination_soil_temp_f": {"min": null, "max": null},
+    "days_to_maturity": {"min": 1095, "max": 1825},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 8},
+      "note": "Plant container or bare-root trees in well-drained, fertile, slightly acidic to neutral soil in full sun; Lewis needs a genetically distinct pollenizer nearby for nut set."
+    },
+    "usda_zones": {"min": 4, "max": 8},
+    "spacing_in": {"min": 120, "max": 180},
+    "height_in": {"min": 96, "max": 216},
+    "spread_in": {"min": 96, "max": 180},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Lewis was released by Oregon State University's hazelnut breeding program in the late 1990s specifically to improve on the kernel quality and blanching performance of older commercial cultivars like Barcelona and Ennis, producing a good-sized, well-filled nut suited to confectionery use as well as fresh eating. Plant it in full sun and deep, well-drained soil alongside a compatible pollenizer cultivar, since hazelnut catkins shed pollen in late winter while female flowers on a genetically different plant must be receptive at the same time. Lewis predates the Eastern Filbert Blight-resistant OSU releases, so growers in blight-affected regions should scout canes yearly during the dormant season and prune out cankers to manage the disease. It remains a solid choice for home orchardists focused on nut quality where blight pressure is low or well managed.",
+    "sources": ["Oregon State University Extension — Hazelnut Production", "Oregon State University Department of Horticulture hazelnut breeding program"]
   }
 ]
