@@ -1,0 +1,167 @@
+[
+  {
+    "slug": "guinea-grass",
+    "common_name": "Guinea Grass (Tall Tropical Forage and Pasture Grass)",
+    "scientific_name": "Megathyrsus maximus",
+    "category": "cover-crop",
+    "subcategory": "grass",
+    "days_to_germination": {
+      "min": 10,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 95
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 90
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 8
+      },
+      "note": "Direct sow after soil has warmed well past the last frost; Guinea grass is a tall, tropical bunchgrass grown for pasture and cut forage in zones 9-11, going dormant or dying back with any hard frost."
+    },
+    "usda_zones": {
+      "min": 9,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 24,
+      "max": 36
+    },
+    "height_in": {
+      "min": 48,
+      "max": 96
+    },
+    "spread_in": {
+      "min": 24,
+      "max": 36
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Direct sow into fertile, well-drained soil in full sun after the soil has thoroughly warmed; Guinea grass is a robust, deep-rooted tropical bunchgrass native to Africa and widely naturalized and cultivated throughout the tropics and subtropics as a high-yielding forage for cattle and other livestock. It produces abundant, leafy growth that can be grazed rotationally or cut for hay, tolerating a range of soil types and showing good drought tolerance once its deep root system is established, though it responds strongly to fertility and moisture with much higher yields. In the Gulf South it performs as a warm-season perennial in the mildest coastal zones and as a reseeding or replanted annual further inland, since it has little frost tolerance and dies back or is killed outright by a hard freeze. Cut or graze before flowering for the best forage quality, since nutritive value declines as the grass matures and seed heads form.",
+    "sources": [
+      "USDA NRCS Plant Guide",
+      "University of Florida IFAS Extension — Forage Grasses",
+      "Tropical Forages database (CSIRO/CIAT/ILRI)"
+    ]
+  },
+  {
+    "slug": "tifton-9-bahiagrass",
+    "common_name": "Tifton 9 Bahiagrass (High-Yield Improved Forage Bahiagrass)",
+    "scientific_name": "Paspalum notatum 'Tifton 9'",
+    "category": "cover-crop",
+    "subcategory": "grass",
+    "days_to_germination": {
+      "min": 14,
+      "max": 28
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 95
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 90
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 8
+      },
+      "note": "Direct sow scarified seed after last frost when soil is consistently warm; Tifton 9 is a USDA-released bahiagrass strain selected specifically for higher forage yield and more vigorous seedling growth than common Pensacola bahia."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 1,
+      "max": 2
+    },
+    "height_in": {
+      "min": 6,
+      "max": 24
+    },
+    "spread_in": {
+      "min": 6,
+      "max": 18
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Sow scarified seed into well-prepared, warm soil in full sun, keeping the seedbed moist during the slow two-to-four-week germination period. Tifton 9, released by USDA-ARS breeders in Georgia, is an improved forage strain of bahiagrass selected through recurrent selection for taller growth, more vigorous seedlings, and notably higher forage yield than common Pensacola bahia, while retaining the species' legendary drought tolerance, low input requirements, and adaptation to poor, sandy, acidic Gulf South soils. It is grown primarily for cattle pasture and hay rather than residential turf, tolerating close, frequent grazing and rebounding quickly. Its deep root system draws on soil moisture well below the reach of shallower-rooted grasses, making it one of the most reliable warm-season pasture grasses for the Gulf Coast's sandy coastal plain soils.",
+    "sources": [
+      "USDA-ARS — Tifton 9 Bahiagrass Release",
+      "University of Florida IFAS Extension — Bahiagrass Pasture Management",
+      "Louisiana State University AgCenter"
+    ]
+  },
+  {
+    "slug": "coastal-bermudagrass",
+    "common_name": "Coastal Bermudagrass (Foundational High-Yield Forage Hybrid)",
+    "scientific_name": "Cynodon dactylon 'Coastal'",
+    "category": "cover-crop",
+    "subcategory": "grass",
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 95
+    },
+    "days_to_maturity": {
+      "min": 30,
+      "max": 60
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "warm",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 8
+      },
+      "note": "Establish from sprigs or plugs, not seed, since Coastal is a sterile hybrid; plant once soil is consistently above 65°F. Coastal was released in Georgia in 1943 and remains a foundational forage bermudagrass across the South, valued for very high hay and pasture yield."
+    },
+    "usda_zones": {
+      "min": 6,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 24
+    },
+    "height_in": {
+      "min": 6,
+      "max": 24
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Establish from sprigs or plugs in full sun into well-drained, fertile soil, since Coastal is a sterile interspecific hybrid that produces no viable seed and must be vegetatively propagated. Bred by Glenn Burton and released in Georgia in 1943, Coastal was the first major hybrid bermudagrass and remains a foundational, widely planted forage cultivar across the South for its exceptional hay and pasture yield, disease resistance, and vigorous, dense growth compared to common bermudagrass. With adequate fertility and moisture it produces multiple hay cuttings per season and tolerates close, frequent grazing. Like all bermudagrass it demands full sun and declines quickly under shade, and it responds strongly to nitrogen fertilization, requiring a more intensive fertility program than lower-input forages to reach its full yield potential.",
+    "sources": [
+      "University of Georgia — Coastal Bermudagrass History",
+      "Texas A&M AgriLife Extension — Bermudagrass Cultivars for Texas",
+      "Louisiana State University AgCenter — Warm-Season Forage Grasses"
+    ]
+  }
+]

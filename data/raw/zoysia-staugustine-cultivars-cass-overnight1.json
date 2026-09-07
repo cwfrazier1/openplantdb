@@ -1,0 +1,326 @@
+[
+  {
+    "slug": "palisades-zoysia-grass",
+    "common_name": "Palisades Zoysia Grass (Coarse-Textured Shade-Tolerant Zoysia)",
+    "scientific_name": "Zoysia japonica 'Palisades'",
+    "category": "cover-crop",
+    "subcategory": "turfgrass",
+    "days_to_germination": null,
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 95
+    },
+    "days_to_maturity": {
+      "min": 45,
+      "max": 120
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "warm",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 8
+      },
+      "note": "Establish from sod or plugs, not seed; Palisades is a coarser-textured, faster-establishing zoysia selected for better shade tolerance than fine-bladed types like Emerald."
+    },
+    "usda_zones": {
+      "min": 6,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 6,
+      "max": 12
+    },
+    "height_in": {
+      "min": 1,
+      "max": 3
+    },
+    "spread_in": {
+      "min": 6,
+      "max": 12
+    },
+    "sun": "partial",
+    "water": "low",
+    "directions": "Install plugs or sod in spring through midsummer and irrigate frequently until roots knit in, then mow at 1.5 to 2.5 inches. Palisades is a coarser-textured, more vigorous zoysia selection than fine-bladed types like Emerald or Zeon, filling in faster from plugs while still forming a dense, wear-tolerant turf. It handles moderate shade notably better than most warm-season lawn grasses, making it a useful choice under high, dappled tree canopy where bermudagrass would thin out. Like other zoysia it goes dormant and straw-colored after the first hard frost, greening back reliably each spring, and tolerates drought reasonably well once established, though it responds to regular irrigation with denser growth. Avoid excess nitrogen and mowing too low, both of which stress zoysia turf.",
+    "sources": [
+      "Texas A&M AgriLife Extension",
+      "University of Florida IFAS Extension",
+      "Louisiana State University AgCenter"
+    ]
+  },
+  {
+    "slug": "cavalier-zoysia-grass",
+    "common_name": "Cavalier Zoysia Grass (Fine-Textured Shade-Tolerant Manila Zoysia)",
+    "scientific_name": "Zoysia matrella 'Cavalier'",
+    "category": "cover-crop",
+    "subcategory": "turfgrass",
+    "days_to_germination": null,
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 95
+    },
+    "days_to_maturity": {
+      "min": 45,
+      "max": 120
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "warm",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 8
+      },
+      "note": "Establish from sod or plugs, not seed; Cavalier is a fine-textured Manila zoysia selected for dense, golf-course-quality turf with good shade tolerance."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 6,
+      "max": 12
+    },
+    "height_in": {
+      "min": 1,
+      "max": 2
+    },
+    "spread_in": {
+      "min": 6,
+      "max": 12
+    },
+    "sun": "partial",
+    "water": "low",
+    "directions": "Install plugs or sod in spring through midsummer, keeping the area consistently moist until roots establish, then mow low at 0.5 to 1.5 inches for a fine, dense, carpet-like appearance. Cavalier is a fine-bladed Zoysia matrella cultivar bred for an especially dense, uniform, golf-course-quality turf with good tolerance of moderate shade, an advantage over full-sun-demanding bermudagrass in partly wooded landscapes. It spreads relatively slowly, so weed control during establishment is important, but once mature it forms a thick, weed-suppressing lawn that handles moderate foot traffic well. Like other zoysia it goes dormant and straw-colored with the first hard frost, greening back in spring, and needs less nitrogen than bermudagrass to stay healthy.",
+    "sources": [
+      "Texas A&M AgriLife Extension",
+      "University of Florida IFAS Extension",
+      "Louisiana State University AgCenter"
+    ]
+  },
+  {
+    "slug": "seville-st-augustine-grass",
+    "common_name": "Seville St. Augustine Grass (Fine-Textured Dwarf Shade-Tolerant Lawn Grass)",
+    "scientific_name": "Stenotaphrum secundatum 'Seville'",
+    "category": "cover-crop",
+    "subcategory": "grass",
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 95
+    },
+    "days_to_maturity": {
+      "min": 30,
+      "max": 60
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "warm",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 8
+      },
+      "note": "Establish from sod or plugs, not seed; Seville is a dwarf, fine-textured St. Augustine cultivar with better shade tolerance than the coarser Floratam."
+    },
+    "usda_zones": {
+      "min": 8,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 24
+    },
+    "height_in": {
+      "min": 2,
+      "max": 4
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 24
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Install sod or plugs in spring through midsummer, keeping consistently moist for four to six weeks during establishment, then mow at 2.5 to 3.5 inches. Seville is a dwarf, fine-textured St. Augustine cultivar popular in Florida landscapes for its softer leaf texture and noticeably better shade tolerance than the widely planted Floratam, performing reasonably well with dappled or partial-day tree shade that would thin out full-sun cultivars. It spreads by above-ground stolons and recovers well from foot traffic and minor damage, though it is generally more disease-prone than newer resistant cultivars and benefits from careful fungicide monitoring in humid, shaded, poorly ventilated sites. Avoid mowing too short, since St. Augustine grass cannot recover well from scalping that removes its green leaf tissue.",
+    "sources": [
+      "University of Florida IFAS Extension — St. Augustine Grass Cultivars",
+      "Texas A&M AgriLife Extension — St. Augustine Grass for Texas",
+      "Louisiana State University AgCenter"
+    ]
+  },
+  {
+    "slug": "citrablue-st-augustine-grass",
+    "common_name": "CitraBlue St. Augustine Grass (Blue-Green Shade- and Pest-Tolerant Lawn Grass)",
+    "scientific_name": "Stenotaphrum secundatum 'CitraBlue'",
+    "category": "cover-crop",
+    "subcategory": "grass",
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 95
+    },
+    "days_to_maturity": {
+      "min": 30,
+      "max": 60
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "warm",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 8
+      },
+      "note": "Establish from sod or plugs, not seed; CitraBlue is a University of Florida release with a distinctive blue-green color, strong chinch bug tolerance, and dense, shade-tolerant growth."
+    },
+    "usda_zones": {
+      "min": 8,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 24
+    },
+    "height_in": {
+      "min": 3,
+      "max": 4
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 24
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Install sod or plugs in spring through midsummer, keeping consistently moist for four to six weeks during establishment, then mow at 3 to 4 inches. CitraBlue, released by the University of Florida, is a modern St. Augustine cultivar bred for a distinctive deep blue-green color, dense growth that fills in bare spots quickly, and notably improved shade and chinch bug tolerance compared to older cultivars like Floratam. It has quickly become popular for both new installations and shaded lawn areas where standard St. Augustine struggles. Like other St. Augustine grass, it spreads by above-ground stolons, recovers well from traffic, and should never be mowed too short, since scalping removes the green leaf tissue it needs to recover.",
+    "sources": [
+      "University of Florida IFAS Extension — CitraBlue St. Augustinegrass",
+      "Texas A&M AgriLife Extension — St. Augustine Grass for Texas",
+      "Louisiana State University AgCenter"
+    ]
+  },
+  {
+    "slug": "bitterblue-st-augustine-grass",
+    "common_name": "Bitterblue St. Augustine Grass (Classic Fine-Textured Blue-Green Lawn Grass)",
+    "scientific_name": "Stenotaphrum secundatum 'Bitterblue'",
+    "category": "cover-crop",
+    "subcategory": "grass",
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 95
+    },
+    "days_to_maturity": {
+      "min": 30,
+      "max": 60
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "warm",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 8
+      },
+      "note": "Establish from sod or plugs, not seed; Bitterblue is a classic, long-cultivated St. Augustine selection with fine texture and a distinctive blue-green color, once one of the most widely planted cultivars in the South."
+    },
+    "usda_zones": {
+      "min": 8,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 24
+    },
+    "height_in": {
+      "min": 2,
+      "max": 4
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 24
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Install sod or plugs in spring through midsummer, keeping consistently moist for four to six weeks during establishment, then mow at 2.5 to 3.5 inches. Bitterblue was one of the most widely planted St. Augustine grass cultivars for much of the 20th century, valued for a fine leaf texture, distinctive blue-green color, and moderately good shade tolerance, before newer disease- and pest-resistant cultivars like Floratam largely replaced it in commercial sod production. It remains available and still performs well in home landscapes, particularly in lightly shaded areas, though it can be more susceptible to chinch bugs and St. Augustine decline than modern resistant cultivars. Avoid mowing too short, since St. Augustine grass cannot recover well from scalping that removes its green leaf tissue.",
+    "sources": [
+      "University of Florida IFAS Extension — St. Augustine Grass Cultivars",
+      "Texas A&M AgriLife Extension — St. Augustine Grass for Texas",
+      "Louisiana State University AgCenter"
+    ]
+  },
+  {
+    "slug": "provista-st-augustine-grass",
+    "common_name": "ProVista St. Augustine Grass (Herbicide-Tolerant Low-Maintenance Lawn Grass)",
+    "scientific_name": "Stenotaphrum secundatum 'ProVista'",
+    "category": "cover-crop",
+    "subcategory": "grass",
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 95
+    },
+    "days_to_maturity": {
+      "min": 30,
+      "max": 60
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "warm",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 8
+      },
+      "note": "Establish from sod or plugs, not seed; ProVista is a modern St. Augustine cultivar bred with tolerance to certain herbicides, allowing broader weed control options than traditional St. Augustine, along with slower vertical growth."
+    },
+    "usda_zones": {
+      "min": 8,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 24
+    },
+    "height_in": {
+      "min": 2,
+      "max": 4
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 24
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Install sod or plugs in spring through midsummer, keeping consistently moist for four to six weeks during establishment, then mow at 2.5 to 3.5 inches. ProVista is a modern St. Augustine cultivar bred for tolerance to glyphosate and certain other herbicides that would normally kill St. Augustine grass, giving homeowners and landscapers far more effective options for controlling grassy and broadleaf weeds within an established lawn without harming the turf itself. It also grows more slowly in height than standard cultivars, reducing mowing frequency, while maintaining good density, color, and shade tolerance comparable to other modern St. Augustine releases. As with other St. Augustine grass, avoid mowing too short, since scalping removes the green leaf tissue needed for recovery.",
+    "sources": [
+      "University of Florida IFAS Extension — St. Augustine Grass Cultivars",
+      "Bayer Environmental Science / Sod Solutions variety documentation",
+      "Louisiana State University AgCenter"
+    ]
+  }
+]

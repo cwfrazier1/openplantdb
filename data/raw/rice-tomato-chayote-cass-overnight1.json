@@ -1,0 +1,167 @@
+[
+  {
+    "slug": "cypress-rice",
+    "common_name": "Cypress Rice (Semi-Dwarf High-Yield Louisiana Long-Grain Rice)",
+    "scientific_name": "Oryza sativa 'Cypress'",
+    "category": "vegetable",
+    "subcategory": "grain",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 110,
+      "max": 130
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Direct sow in flooded or consistently moist ground after last frost once soil temperature reaches 65°F; in zone 9 plant April-May for harvest in late summer. Cypress is a semi-dwarf, high-yielding long-grain rice released by the LSU AgCenter and long grown as a Louisiana commercial standard."
+    },
+    "usda_zones": {
+      "min": 8,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 6,
+      "max": 9
+    },
+    "height_in": {
+      "min": 30,
+      "max": 40
+    },
+    "spread_in": {
+      "min": 6,
+      "max": 9
+    },
+    "sun": "full",
+    "water": "high",
+    "directions": "Sow seed 0.5-1 inch deep in rich, heavy, moisture-retentive soil in full sun; Cypress is a semi-dwarf, sturdy-strawed long-grain rice bred by the LSU AgCenter that was, for years, one of the most widely planted commercial rice varieties in Louisiana thanks to its high yield, good milling quality, and resistance to lodging (falling over) compared to older tall rice varieties. Keep the bed continuously flooded or saturated through the growing season, since rice is a wetland crop that depends on standing water to suppress weeds and support steady growth. Harvest when seed heads droop and turn golden-tan, then dry the grain thoroughly before hulling and storing. Its shorter, stiffer straw makes it easier to manage in a home rice paddy than older tall heirloom rice varieties, which are more prone to lodging in wind and rain.",
+    "sources": [
+      "Louisiana State University AgCenter — Rice Variety Releases",
+      "Texas A&M AgriLife Extension — Rice Production Guide",
+      "University of Arkansas Division of Agriculture — Rice Cultivar Notes"
+    ]
+  },
+  {
+    "slug": "sweet-zellow-tomato",
+    "common_name": "Sweet Zellow Tomato (AAS-Winning Yellow Snacking Tomato)",
+    "scientific_name": "Solanum lycopersicum 'Sweet Zellow'",
+    "category": "vegetable",
+    "subcategory": "tomato",
+    "days_to_germination": {
+      "min": 6,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 70
+    },
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 2
+      },
+      "note": "Start indoors 6-8 weeks before last frost and transplant into fertile, well-drained soil in full sun; stake or cage the vigorous indeterminate vine, which produces heavy clusters of small yellow fruit all season."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 24,
+      "max": 30
+    },
+    "height_in": {
+      "min": 48,
+      "max": 72
+    },
+    "spread_in": {
+      "min": 24,
+      "max": 30
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Transplant into fertile, well-drained soil in full sun after frost risk passes, staking or caging the vine as it grows. Sweet Zellow was recognized as an All-America Selections winner for its exceptionally sweet, crack-resistant small yellow fruit borne in long, heavy clusters on a vigorous indeterminate vine, producing snacking tomatoes over a long season with far less splitting than many older yellow cherry types. The mild, low-acid, sugary flavor makes it a favorite for eating straight off the vine, and the tough but tender skin holds up well to handling and short-term storage. Pick fruit as it fully colors to golden-yellow for the sweetest flavor, and keep the vine well supported, since clusters can get heavy as they fill in. Even watering helps prevent the fruit cracking that plagues less crack-resistant yellow cherry tomatoes in wet weather.",
+    "sources": [
+      "All-America Selections",
+      "university extension tomato variety trial reports",
+      "general horticultural reference"
+    ]
+  },
+  {
+    "slug": "chayote-perla-negra",
+    "common_name": "Perla Negra Chayote (Dark Green Smooth Spineless Chayote)",
+    "scientific_name": "Sechium edule 'Perla Negra'",
+    "category": "vegetable",
+    "subcategory": "cucurbit",
+    "days_to_germination": {
+      "min": 10,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 80
+    },
+    "days_to_maturity": {
+      "min": 90,
+      "max": 150
+    },
+    "maturity_from": "transplant",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 4
+      },
+      "note": "Plant the entire fruit (not just the seed inside) sideways in a hole with the narrow tip pointed slightly upward and the stem end just below the soil surface, exactly as with common green chayote; Perla Negra is a smooth, spineless, dark green selection popular in Mexican and Central American markets."
+    },
+    "usda_zones": {
+      "min": 8,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 72,
+      "max": 120
+    },
+    "height_in": {
+      "min": 180,
+      "max": 480
+    },
+    "spread_in": {
+      "min": 120,
+      "max": 240
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Perla Negra is a dark green, smooth-skinned, spineless chayote selection, distinguished from common pale-green mirliton by its deeper color and glossier, blemish-free skin, traits favored in Mexican and Central American fresh markets. Plant the whole fruit at an angle in well-worked soil with the narrow stem end barely covered, since chayote's single large seed cannot be separated from the flesh and the entire fruit is the planting unit. Provide a sturdy trellis, fence, or arbor, since the vigorous vine can run 20-40 feet and becomes extremely productive once established in zones 9-11, typically bearing in fall and again in early spring. Fruit, tender young shoots, and leaves are all edible, and mature plants develop large starchy edible tubers as well; harvest fruit young and firm for the mildest flavor and most tender texture.",
+    "sources": [
+      "Louisiana State University AgCenter",
+      "University of Florida IFAS Extension",
+      "USDA Agricultural Research Service"
+    ]
+  }
+]
