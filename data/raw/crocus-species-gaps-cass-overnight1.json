@@ -1,0 +1,56 @@
+[
+  {
+    "slug": "crocus-sieberi",
+    "common_name": "Sieber's Crocus (Cretan Crocus)",
+    "scientific_name": "Crocus sieberi",
+    "category": "flower",
+    "subcategory": "spring-blooming corm",
+    "days_to_germination": {"min": null, "max": null},
+    "germination_soil_temp_f": {"min": null, "max": null},
+    "days_to_maturity": {"min": 90, "max": 120},
+    "maturity_from": "transplant",
+    "sow_method": "bulb",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {"min": 0, "max": 6},
+      "note": "Plant corms in fall about 3 inches deep in gritty, well-drained soil; this alpine species from the mountains of Crete and Greece is among the very earliest crocus to bloom, often flowering through late snow."
+    },
+    "usda_zones": {"min": 3, "max": 8},
+    "spacing_in": {"min": 2, "max": 3},
+    "height_in": {"min": 2, "max": 4},
+    "spread_in": {"min": 2, "max": 3},
+    "sun": "full",
+    "water": "low",
+    "directions": "Set corms about 3 inches deep and 2-3 inches apart in a sunny, sharply drained spot such as a rock garden, scree bed, or the front of a border, planting in fall for bloom in late winter to earliest spring. Native to rocky mountain slopes on Crete and the Greek mainland, it produces slender goblet flowers in shades of lilac to violet with a bright orange-yellow throat, often opening while snow still lingers nearby. It multiplies readily by offsets and self-seeding in gritty soil, forming dense colonies over a few seasons, and is a valuable early nectar source for emerging bees. Allow the grassy foliage to die back naturally before mowing if naturalized in turf.",
+    "sources": ["Missouri Botanical Garden Plant Finder", "Royal Horticultural Society", "North American Rock Garden Society"]
+  },
+  {
+    "slug": "crocus-speciosus",
+    "common_name": "Showy Crocus (Bieberstein's Crocus)",
+    "scientific_name": "Crocus speciosus",
+    "category": "flower",
+    "subcategory": "fall-blooming corm",
+    "days_to_germination": {"min": null, "max": null},
+    "germination_soil_temp_f": {"min": null, "max": null},
+    "days_to_maturity": {"min": 30, "max": 45},
+    "maturity_from": "transplant",
+    "sow_method": "bulb",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {"min": -10, "max": -6},
+      "note": "Plant corms 3-4 inches deep in late summer to very early fall in well-drained soil; flowers emerge leafless from bare ground within weeks, with the strap-like foliage following in spring."
+    },
+    "usda_zones": {"min": 3, "max": 8},
+    "spacing_in": {"min": 3, "max": 4},
+    "height_in": {"min": 4, "max": 6},
+    "spread_in": {"min": 3, "max": 4},
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant corms 3-4 inches deep and 3-4 inches apart in late summer in well-drained soil in full sun to very light shade; unlike spring crocus, this species is planted only weeks before it flowers. Native to Turkey, the Caucasus, and Iran, it is widely regarded as the easiest and most reliable fall-blooming crocus for naturalizing, sending up large, goblet-shaped lilac-blue flowers with prominent feathery orange-red stigmas directly from bare soil in September and October, ahead of its foliage. As a true crocus it has only three stamens and slender true leaves the following spring, distinguishing it from the toxic, superficially similar Colchicum, which has six stamens and much broader leaves. It self-seeds and multiplies freely in lawns and under deciduous trees where summer soil stays on the dry side.",
+    "sources": ["Missouri Botanical Garden Plant Finder", "Royal Horticultural Society", "North American Rock Garden Society"]
+  }
+]
