@@ -1,0 +1,271 @@
+[
+  {
+    "slug": "tifblair-centipedegrass",
+    "common_name": "TifBlair Centipedegrass (Cold-Hardy Low-Maintenance Lawn Grass)",
+    "scientific_name": "Eremochloa ophiuroides 'TifBlair'",
+    "category": "cover-crop",
+    "subcategory": "turfgrass",
+    "days_to_germination": {
+      "min": 14,
+      "max": 28
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 80
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 120
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 8
+      },
+      "note": "Seed at 0.25–0.5 lbs per 1,000 sq ft, or install sprigs or sod, once soil is reliably above 65°F; TifBlair was bred at the University of Georgia Coastal Plain Experiment Station specifically for improved winter survival over common centipede seed sources, extending the reliable range of this low-input lawn grass further north."
+    },
+    "usda_zones": {
+      "min": 6,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 6,
+      "max": 12
+    },
+    "height_in": {
+      "min": 2,
+      "max": 5
+    },
+    "spread_in": {
+      "min": 4,
+      "max": 24
+    },
+    "sun": "partial",
+    "water": "low",
+    "directions": "Establish from seed, sprigs, or sod in late spring once soils have warmed, then mow at 1.5–2 inches and fertilize only lightly. TifBlair was selected and released by the University of Georgia specifically for greater freeze tolerance than older common centipede seed lines, allowing homeowners near the northern edge of the centipedegrass range to grow this notably low-maintenance lawn grass with less winterkill risk. Like all centipedegrass it thrives on neglect: it wants infertile, acidic soil, minimal nitrogen, and infrequent mowing, and it declines quickly if treated like a high-input lawn. Give it full sun to light shade and let it go dormant and straw-brown after the first hard freeze, resuming growth reliably each spring where winter cold does not exceed its improved hardiness threshold.",
+    "sources": [
+      "University of Georgia Extension — TifBlair Centipedegrass",
+      "Clemson Cooperative Extension — Centipedegrass Lawns",
+      "Mississippi State University Extension"
+    ]
+  },
+  {
+    "slug": "rebel-tall-fescue",
+    "common_name": "Rebel Turf-Type Tall Fescue (Fine-Bladed Shade-Tolerant Lawn Grass)",
+    "scientific_name": "Schedonorus arundinaceus 'Rebel'",
+    "category": "cover-crop",
+    "subcategory": "turfgrass",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 45,
+      "max": 90
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -6,
+        "max": -2
+      },
+      "note": "Seed at 6–8 lbs per 1,000 sq ft in late summer to early fall for best establishment, or in early spring; Rebel was among the first turf-type tall fescues bred for a finer blade and denser sod than old pasture-type Kentucky 31, making it suitable for home lawns rather than just hay and grazing."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 8
+    },
+    "spacing_in": {
+      "min": 1,
+      "max": 2
+    },
+    "height_in": {
+      "min": 2,
+      "max": 4
+    },
+    "spread_in": {
+      "min": 2,
+      "max": 4
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Seed in early fall for best root development ahead of summer heat, or in early spring, into well-drained soil in full sun to moderate shade. Rebel was one of the original turf-type tall fescues released in the early 1980s, bred to be finer-textured, denser, and darker green than the coarse, clumpy pasture-type Kentucky 31 that previously dominated tall fescue lawns, while keeping the species' deep root system and heat and drought tolerance. It handles more shade than Kentucky bluegrass or bermudagrass, making it a workhorse choice for transition-zone lawns with mixed sun and tree cover. Because it is a bunchgrass with little to no spreading habit, thin or bare spots need to be overseeded rather than expecting the stand to fill in on its own.",
+    "sources": [
+      "Rutgers University Turfgrass Program",
+      "University of Kentucky Cooperative Extension — Tall Fescue Lawns",
+      "North Carolina State University Extension"
+    ]
+  },
+  {
+    "slug": "midnight-kentucky-bluegrass",
+    "common_name": "Midnight Kentucky Bluegrass (Dark Blue-Green Dense-Sod Turf Cultivar)",
+    "scientific_name": "Poa pratensis 'Midnight'",
+    "category": "cover-crop",
+    "subcategory": "turfgrass",
+    "days_to_germination": {
+      "min": 14,
+      "max": 28
+    },
+    "germination_soil_temp_f": {
+      "min": 50,
+      "max": 65
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 120
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -6,
+        "max": -2
+      },
+      "note": "Sow in late summer to early fall (or early spring) at 2–3 lbs per 1,000 sq ft in fertile, well-prepared soil; Midnight is an older, widely used compact-type cultivar selected for unusually dark blue-green color, high shoot density, and good resistance to dollar spot and leaf spot compared with older common Kentucky bluegrass seed."
+    },
+    "usda_zones": {
+      "min": 2,
+      "max": 7
+    },
+    "spacing_in": {
+      "min": 1,
+      "max": 1
+    },
+    "height_in": {
+      "min": 2,
+      "max": 4
+    },
+    "spread_in": {
+      "min": 1,
+      "max": 1
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Sow in early fall or early spring into moderately fertile, well-drained soil in full sun to light shade, keeping the seedbed consistently moist until germination. Midnight is a compact-type Kentucky bluegrass cultivar prized for its notably dark, almost navy-blue-green color and unusually high shoot density, producing a tighter, more velvety sward than older common bluegrass seed while still spreading and self-repairing through rhizomes. It has good resistance to dollar spot and leaf spot, common problems in older bluegrass stands, though it still goes summer-dormant in extended heat and drought like other Kentucky bluegrasses. It is frequently blended with perennial ryegrass and fine fescue in premium lawn seed mixes to combine its color and density with faster germination and shade tolerance.",
+    "sources": [
+      "Rutgers University Turfgrass Program",
+      "Pennsylvania State Extension",
+      "Michigan State University Extension"
+    ]
+  },
+  {
+    "slug": "bighorn-hard-fescue",
+    "common_name": "Bighorn Hard Fescue (Low-Input No-Mow Shade Turf Cultivar)",
+    "scientific_name": "Festuca trachyphylla 'Bighorn'",
+    "category": "cover-crop",
+    "subcategory": "turfgrass",
+    "days_to_germination": {
+      "min": 10,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 55,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 100
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -6,
+        "max": -2
+      },
+      "note": "Sow at 4–5 lbs per 1,000 sq ft in late summer to early fall in lean, well-drained soil; Bighorn is a hard fescue turf cultivar bred for fine texture, deep shade and drought tolerance, and persistence under very low fertility and infrequent mowing, distinct from ornamental clump-forming blue/sheep fescue."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 7
+    },
+    "spacing_in": {
+      "min": 1,
+      "max": 2
+    },
+    "height_in": {
+      "min": 4,
+      "max": 10
+    },
+    "spread_in": {
+      "min": 1,
+      "max": 2
+    },
+    "sun": "shade",
+    "water": "low",
+    "directions": "Sow in early fall into lean, well-drained soil, watering to establish and then tapering off irrigation once seedlings are rooted in. Bighorn is a named hard fescue turf cultivar bred for fine, needle-like blades, strong drought tolerance, and better performance in dry shade than any other cool-season lawn species, making it a mainstay of low-input, infrequently mowed lawns and no-mow seed mixes. It tolerates poor, acidic, infertile soils and needs little or no supplemental fertilizer once established, forming a tufted, slow-growing bunch turf that can be left unmowed as a meadow-like groundcover or mowed occasionally at 3 inches or higher for a more traditional look. It is markedly more shade-tolerant than Kentucky bluegrass or bermudagrass and is commonly blended with creeping red fescue and chewings fescue for shaded, low-traffic lawn areas.",
+    "sources": [
+      "Oregon State University Extension — Turfgrass Seed Production",
+      "University of Minnesota Extension",
+      "Rutgers University Turfgrass Program"
+    ]
+  },
+  {
+    "slug": "big-twister-corkscrew-rush",
+    "common_name": "Big Twister Corkscrew Rush (Large-Form Spiraling Soft Rush)",
+    "scientific_name": "Juncus effusus 'Big Twister'",
+    "category": "flower",
+    "subcategory": "ornamental spiraling rush",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 90,
+      "max": 150
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Divide clumps or plant nursery starts in spring into consistently moist to boggy soil or a shallow-water container feature; Big Twister is a larger, more vigorous, thicker-stemmed corkscrew rush than the older 'Spiralis', with more tightly coiled stems and a fuller, more upright clump."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 24
+    },
+    "height_in": {
+      "min": 18,
+      "max": 30
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "partial",
+    "water": "high",
+    "directions": "Divide an established clump or plant a nursery start in spring into consistently wet soil or a submerged pot at the edge of a pond, in full sun to part shade. Big Twister is a robust, patented selection of corkscrew rush that grows noticeably larger and more upright than the older 'Spiralis', with thicker, more tightly wound stems that hold their curl well and give a bolder sculptural presence in bog gardens, water features, and mixed containers. Keep the roots saturated throughout the growing season, since performance and stem quality both decline quickly if the soil is allowed to dry out. Cut back old or damaged stems at the base in late winter to make way for fresh, tightly coiled new growth each spring.",
+    "sources": [
+      "Missouri Botanical Garden Plant Finder",
+      "North Carolina State University Extension",
+      "University of Florida IFAS Extension"
+    ]
+  }
+]

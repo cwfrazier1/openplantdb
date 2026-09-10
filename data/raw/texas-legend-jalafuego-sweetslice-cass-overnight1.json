@@ -1,0 +1,167 @@
+[
+  {
+    "slug": "texas-legend-onion",
+    "common_name": "Texas Legend Onion (Disease-Resistant Short-Day Storage Onion)",
+    "scientific_name": "Allium cepa 'Texas Legend'",
+    "category": "vegetable",
+    "subcategory": "allium",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 50,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 110,
+      "max": 120
+    },
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 6
+      },
+      "note": "Set transplants or seedlings in fall to early winter in the Gulf South so the short-day bulbs size up before spring heat arrives; Texas Legend was released by Texas A&M specifically for Rio Grande Valley and Gulf Coast production."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 4,
+      "max": 6
+    },
+    "height_in": {
+      "min": 18,
+      "max": 24
+    },
+    "spread_in": {
+      "min": 4,
+      "max": 6
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Texas Legend is a Texas A&M AgriLife release bred as a sturdier, longer-storing alternative to older Grano-type short-day onions like Texas 1015Y. It forms globe-shaped, straw-colored bulbs with a somewhat firmer texture and more pungency than the sweetest Texas onions, which helps it hold up in storage for weeks after curing rather than needing quick use. The variety also carries improved field tolerance to Fusarium basal rot and pink root, both persistent problems in warm, humid Gulf Coast onion beds. Set out transplants in fall through early winter so the short-day bulbs have time to size up before lengthening spring days trigger bulbing.",
+    "sources": [
+      "Texas A&M AgriLife Extension",
+      "Dixondale Farms",
+      "Louisiana State University AgCenter"
+    ]
+  },
+  {
+    "slug": "jalafuego-pepper",
+    "common_name": "Jalafuego Pepper (AAS-Winning Extra-Hot High-Yield Jalapeno)",
+    "scientific_name": "Capsicum annuum 'Jalafuego'",
+    "category": "vegetable",
+    "subcategory": "nightshade",
+    "days_to_germination": {
+      "min": 10,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 75,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 65,
+      "max": 75
+    },
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -6
+      },
+      "note": "Start seed indoors 6-8 weeks before the last frost and transplant into warm soil once nights stay reliably above 55°F; Jalafuego was named a national All-America Selections winner in 2011 for its heavy, uniform yields."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 24,
+      "max": 30
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Jalafuego produces glossy, blocky jalapenos that run noticeably hotter than standard types like Early Jalapeno, ripening on compact, well-branched plants that set fruit heavily over a long season. It earned an AAS award for combining that extra heat with high yield and good field tolerance to several strains of bacterial leaf spot, a disease that thrives in the Gulf South's humid summers. Harvest pods green for classic jalapeno heat and crunch, or let some ripen to red on the plant for a sweeter, even spicier finish. Consistent moisture and full sun keep plants productive and help prevent blossom drop during peak summer heat.",
+    "sources": [
+      "All-America Selections",
+      "PanAmerican Seed",
+      "Texas A&M AgriLife Extension"
+    ]
+  },
+  {
+    "slug": "sweet-slice-cucumber",
+    "common_name": "Sweet Slice Cucumber (AAS-Winning Burpless Slicer)",
+    "scientific_name": "Cucumis sativus 'Sweet Slice'",
+    "category": "vegetable",
+    "subcategory": "cucurbit",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 95
+    },
+    "days_to_maturity": {
+      "min": 62,
+      "max": 65
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 2
+      },
+      "note": "Direct sow after the last frost once soil has warmed, or start indoors for an earlier crop; Sweet Slice was an AAS award winner bred for long, thin-skinned fruit with little to no bitterness."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 60,
+      "max": 72
+    },
+    "spread_in": {
+      "min": 24,
+      "max": 36
+    },
+    "sun": "full",
+    "water": "high",
+    "directions": "Sweet Slice is a burpless-type slicing cucumber that grows long, slender, mild fruit with thin, tender skin that rarely needs peeling. Its low cucurbitacin content keeps the flesh sweet and free of the bitterness and burping aftertaste that can come with standard slicers, making it popular for fresh eating and salads. The vigorous vines benefit from trellising, which keeps fruit straighter and easier to pick while improving air circulation in humid Gulf Coast summers. Pick fruit regularly once it reaches full length to keep vines producing over a long harvest season.",
+    "sources": [
+      "All-America Selections",
+      "Burpee Seed Company reference",
+      "Cornell University Vegetable Growing Guide"
+    ]
+  }
+]
