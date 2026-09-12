@@ -1,0 +1,83 @@
+[
+  {
+    "slug": "zanthoxylum-bungeanum",
+    "common_name": "True Sichuan Pepper (Hua Jiao)",
+    "scientific_name": "Zanthoxylum bungeanum",
+    "category": "herb",
+    "subcategory": "perennial spice shrub",
+    "days_to_germination": {"min": 30, "max": 90},
+    "germination_soil_temp_f": {"min": 65, "max": 75},
+    "days_to_maturity": {"min": 1095, "max": 1825},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Plant container-grown shrubs in spring in well-drained, lean to moderately fertile, slightly acidic to neutral soil in full sun and a site sheltered from harsh winter wind; this is the primary commercial species behind most true Sichuan peppercorns."
+    },
+    "usda_zones": {"min": 7, "max": 10},
+    "spacing_in": {"min": 72, "max": 120},
+    "height_in": {"min": 72, "max": 180},
+    "spread_in": {"min": 72, "max": 120},
+    "sun": "full",
+    "water": "low",
+    "directions": "Zanthoxylum bungeanum is the deciduous, thorny shrub responsible for the bulk of the 'hua jiao' peppercorns used in Sichuan cooking, somewhat less cold-hardy and more heat-loving than its frequently substituted relative Z. simulans. Site it in full sun on lean, sharply drained soil, since wet feet in winter are the most common cause of losses. Harvest the small red husks in early autumn once they split open, then dry them fully before grinding away the bitter black seed to release the intensely citrusy, numbing sanshool compounds. Expect several years of establishment before a young plant produces a meaningful peppercorn harvest, and keep at least two seedlings if grown from seed since fruit set improves with cross-pollination.",
+    "sources": ["Kew Science — Plants of the World Online", "Flora of China", "American Botanical Council — Sichuan Pepper and Relatives"]
+  },
+  {
+    "slug": "perilla-britton",
+    "common_name": "Britton Perilla (Bicolor Heirloom Shiso)",
+    "scientific_name": "Perilla frutescens var. crispa 'Britton'",
+    "category": "herb",
+    "subcategory": "warm-season annual culinary and ornamental herb",
+    "days_to_germination": {"min": 10, "max": 21},
+    "germination_soil_temp_f": {"min": 65, "max": 80},
+    "days_to_maturity": {"min": 60, "max": 90},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 0, "max": 2},
+      "note": "Surface-sow after the last frost since seed needs light to germinate; press seed firmly into moist soil without covering it."
+    },
+    "usda_zones": {"min": 4, "max": 11},
+    "spacing_in": {"min": 12, "max": 18},
+    "height_in": {"min": 18, "max": 36},
+    "spread_in": {"min": 12, "max": 18},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Britton is an old heirloom strain of perilla distinguished from ordinary green or red shiso by two-tone frilled foliage, splashed with maroon-purple over a green base rather than solid-colored leaves. It carries the same anise-mint-cinnamon flavor complex prized in Japanese and Korean kitchens, but its striking variegated look also earns it a spot in ornamental beds and containers. Grow it as you would any culinary shiso: pinch young plants to encourage bushiness, harvest leaves continuously through summer, and let a few plants flower and drop seed at season's end for a self-sustaining patch the following year. It performs best with a little afternoon shade in hot climates, which also helps preserve the crispness of the leaf edges.",
+    "sources": ["Baker Creek Heirloom Seeds", "Kitazawa Seed Company", "general horticultural reference"]
+  },
+  {
+    "slug": "curry-leaf-gamthi",
+    "common_name": "Gamthi Curry Leaf (Dwarf Aromatic Indian Strain)",
+    "scientific_name": "Murraya koenigii 'Gamthi'",
+    "category": "herb",
+    "subcategory": "perennial",
+    "days_to_germination": {"min": 14, "max": 28},
+    "germination_soil_temp_f": {"min": 70, "max": 85},
+    "days_to_maturity": {"min": 180, "max": 365},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Set out rooted cuttings after the last frost in well-drained, moderately fertile soil in full sun; propagate vegetatively from cuttings or root suckers to keep the strain true, since seedlings can revert toward the common commercial type."
+    },
+    "usda_zones": {"min": 9, "max": 11},
+    "spacing_in": {"min": 24, "max": 48},
+    "height_in": {"min": 36, "max": 72},
+    "spread_in": {"min": 24, "max": 48},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Gamthi is a regional Indian strain of curry leaf, most associated with Gujarat, prized by cooks and gardeners for thicker, darker, more intensely aromatic leaves than the fast-growing commercial curry leaf commonly sold in nurseries. It grows noticeably slower and stays more compact, which makes it a better fit for long-term container culture on a patio or in a sunroom outside zones 9-11. Give it the same warm, sunny, well-drained conditions as standard curry leaf, and expect a few years of patience before harvests become generous. Snip branch tips regularly once established to keep growth dense and to encourage the flush of new aromatic leaves used fresh in South Indian tempering.",
+    "sources": ["University of Florida IFAS Extension", "USDA Germplasm Resources Information Network (GRIN)", "general horticultural reference"]
+  }
+]
