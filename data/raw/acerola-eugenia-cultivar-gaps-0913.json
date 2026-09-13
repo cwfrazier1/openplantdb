@@ -1,0 +1,83 @@
+[
+  {
+    "slug": "florida-sweet-acerola",
+    "common_name": "Florida Sweet Acerola (Barbados Cherry)",
+    "scientific_name": "Malpighia emarginata 'Florida Sweet'",
+    "category": "fruit",
+    "subcategory": "subtropical shrub",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 365, "max": 730},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 2, "max": 8},
+      "note": "Set out container-grown plants after all danger of frost has passed, in well-drained soil in full sun; Florida Sweet is prized for its lower acidity and better fresh-eating flavor compared to standard seedling acerola."
+    },
+    "usda_zones": {"min": 9, "max": 11},
+    "spacing_in": {"min": 72, "max": 120},
+    "height_in": {"min": 96, "max": 180},
+    "spread_in": {"min": 72, "max": 120},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Florida Sweet is a named acerola selection developed for a milder, less tart flavor than typical seedling-grown Barbados cherry, making the fresh fruit more palatable for out-of-hand eating while retaining exceptionally high vitamin C content. Grow in well-drained, slightly acidic to neutral soil in full sun, watering regularly during establishment and fruit set but allowing the soil to dry slightly between waterings once mature. Expect several flowering and fruiting flushes per year in warm weather, with bright red fruit that must be picked and used within a day or two since it does not store or ship well. Light, regular pruning after each fruiting flush keeps the dense, twiggy shrub attractive and encourages continued cropping; protect plants from temperatures below the high 20s F, especially when young.",
+    "sources": ["University of Florida IFAS Extension", "Fairchild Tropical Botanic Garden fruit introduction records"]
+  },
+  {
+    "slug": "malpighia-glabra",
+    "common_name": "Wild Crapemyrtle (Texas Barbados Cherry, Manzanita)",
+    "scientific_name": "Malpighia glabra",
+    "category": "fruit",
+    "subcategory": "subtropical shrub",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 365, "max": 730},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 2, "max": 8},
+      "note": "Plant container-grown specimens in spring in well-drained, often caliche or limestone soil in full sun; this dwarfer, more cold-tolerant relative of acerola is native to South Texas and northeastern Mexico."
+    },
+    "usda_zones": {"min": 8, "max": 11},
+    "spacing_in": {"min": 36, "max": 72},
+    "height_in": {"min": 36, "max": 96},
+    "spread_in": {"min": 36, "max": 72},
+    "sun": "full",
+    "water": "low",
+    "directions": "Malpighia glabra, sometimes sold as wild crapemyrtle for its crinkled, crape-myrtle-like pink flowers, is a smaller and notably more drought- and cold-tolerant relative of the commercially grown acerola (Malpighia emarginata), native to the thornscrub and caliche soils of South Texas and Mexico. It produces small, tart, bright red fruit high in vitamin C, borne in flushes after rain through the warm season, though the fruit is smaller and less abundant than named acerola cultivars. Grow in full sun in well-drained, even rocky or alkaline soil; established plants tolerate significant drought and brief cold snaps better than true acerola, making it a good xeric hedge or specimen shrub in South Texas and similar Gulf Coast landscapes. Prune lightly to shape after flowering flushes; it needs minimal supplemental fertilizer once established.",
+    "sources": ["USDA PLANTS Database", "Texas A&M AgriLife Extension native plant records"]
+  },
+  {
+    "slug": "black-surinam-cherry",
+    "common_name": "Black Surinam Cherry (Dark-Fruited Pitanga)",
+    "scientific_name": "Eugenia uniflora (dark-fruited form)",
+    "category": "fruit",
+    "subcategory": "subtropical shrub",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 365, "max": 730},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 2, "max": 8},
+      "note": "Plant container-grown specimens after last frost in well-drained, slightly acidic soil in full sun to part shade; the dark-fruited form ripens to near-black and is generally sweeter and less resinous than the common red-fruited Surinam cherry."
+    },
+    "usda_zones": {"min": 9, "max": 11},
+    "spacing_in": {"min": 60, "max": 96},
+    "height_in": {"min": 84, "max": 180},
+    "spread_in": {"min": 60, "max": 96},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "The dark-fruited (black or near-black) form of Surinam cherry is a distinct selection prized by fruit growers for milder, sweeter flavor and reduced resinous aftertaste compared to the common orange-red form, though both share the same ribbed, lantern-shaped fruit and dense, glossy-leaved habit. Grow in well-drained, slightly acidic soil in full sun to light shade, watering regularly during flowering and fruit set; established plants tolerate brief light frost and some drought once mature. The shrub flushes into fragrant white bloom followed by ripening fruit several times per year in warm climates, and responds very well to shearing, making it a popular formal or informal fruiting hedge in South Florida and Gulf Coast landscapes. Harvest fruit only when fully dark and slightly soft, as underripe fruit is strongly astringent and resinous even in this improved form.",
+    "sources": ["University of Florida IFAS Extension", "Rare Fruit Council International cultivar notes"]
+  }
+]

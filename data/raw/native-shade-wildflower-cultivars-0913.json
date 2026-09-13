@@ -1,0 +1,83 @@
+[
+  {
+    "slug": "fried-green-tomatoes-cardinal-flower",
+    "common_name": "Fried Green Tomatoes Cardinal Flower (Purple Spring Foliage, Tomato-Red Flowers)",
+    "scientific_name": "Lobelia cardinalis 'Fried Green Tomatoes'",
+    "category": "flower",
+    "subcategory": "native perennial",
+    "days_to_germination": {"min": 14, "max": 30},
+    "germination_soil_temp_f": {"min": 65, "max": 75},
+    "days_to_maturity": {"min": 90, "max": 150},
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 6},
+      "note": "Set out divisions or nursery transplants in spring into consistently moist to wet, humus-rich soil in partial shade to full sun near ponds, rain gardens, or streambanks."
+    },
+    "usda_zones": {"min": 4, "max": 9},
+    "spacing_in": {"min": 12, "max": 18},
+    "height_in": {"min": 24, "max": 36},
+    "spread_in": {"min": 12, "max": 18},
+    "sun": "partial",
+    "water": "high",
+    "directions": "This patented selection emerges in spring with deep purple-red basal rosettes that gradually shift to olive-green with purple undertones as the season warms, giving months of foliage interest before bloom. In midsummer it sends up dark flower stems topped with long, bracteate spikes of tomato-red tubular flowers that hummingbirds visit heavily. It is reported as more vigorous and more tolerant of average garden soil than the straight species, though it still performs best with steady moisture and will not thrive in dry sites. Like other cardinal flowers it is short-lived, so divide basal offsets every couple of years or allow some self-sown seedlings to persist, understanding that seedlings may revert toward green foliage.",
+    "sources": ["Missouri Botanical Garden Plant Finder", "US Plant Patent PP21,958", "Plants Nouveau"]
+  },
+  {
+    "slug": "lobelia-siphilitica-alba",
+    "common_name": "Alba White Great Blue Lobelia",
+    "scientific_name": "Lobelia siphilitica 'Alba'",
+    "category": "flower",
+    "subcategory": "native perennial",
+    "days_to_germination": {"min": 10, "max": 21},
+    "germination_soil_temp_f": {"min": 55, "max": 65},
+    "days_to_maturity": {"min": 90, "max": 120},
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": -8, "max": -6},
+      "note": "Surface-sow seed indoors 8 weeks before last frost without covering, since light aids germination, then transplant into moist to wet, humus-rich soil in partial shade after frost danger passes."
+    },
+    "usda_zones": {"min": 4, "max": 9},
+    "spacing_in": {"min": 9, "max": 12},
+    "height_in": {"min": 24, "max": 36},
+    "spread_in": {"min": 9, "max": 12},
+    "sun": "shade",
+    "water": "high",
+    "directions": "This is a pure white-flowered selection of great blue lobelia, occasionally found in wild populations and maintained in cultivation for gardeners wanting a cooling contrast to the species' typical blue spikes. Grow it exactly as you would the species: consistently moist to wet, fertile soil at a pond edge, bog garden, or rain garden, with partial shade preferred in hotter climates and more sun tolerated where soil stays reliably damp. Flower spikes appear from late summer into fall and are worked by bumblebees strong enough to trip the tubular flowers. Because seedlings can revert to blue, divide established clumps or isolate plantings from blue-flowered lobelias if you want to keep the white form true from seed.",
+    "sources": ["Toadshade Wildflower Farm", "North Carolina Extension Gardener Plant Toolbox", "Prairie Moon Nursery"]
+  },
+  {
+    "slug": "stairway-to-heaven-jacobs-ladder",
+    "common_name": "Stairway to Heaven Jacob's Ladder (Variegated Creeping Polemonium)",
+    "scientific_name": "Polemonium reptans 'Stairway to Heaven'",
+    "category": "flower",
+    "subcategory": "native shade perennial",
+    "days_to_germination": {"min": 21, "max": 30},
+    "germination_soil_temp_f": {"min": 55, "max": 70},
+    "days_to_maturity": {"min": 60, "max": 90},
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 6},
+      "note": "Plant divisions in spring or fall into consistently moist, humus-rich, slightly acidic soil in partial to full shade beneath deciduous trees."
+    },
+    "usda_zones": {"min": 4, "max": 8},
+    "spacing_in": {"min": 12, "max": 18},
+    "height_in": {"min": 10, "max": 18},
+    "spread_in": {"min": 16, "max": 18},
+    "sun": "shade",
+    "water": "moderate",
+    "directions": "Selected by Bill Cullina at the New England Wild Flower Society, this cultivar is grown chiefly for its foliage: new leaflets emerge with a purple cast, edges turn pink, and mature leaves settle into a bright cream-and-green variegated pattern that lights up shaded beds well before and after the lavender-blue spring flowers appear. It shares the species' preference for cool, humus-rich, evenly moist soil and tends to go semi-dormant in summer heat, so pair it with ferns or hostas that can fill in as it fades. Variegation is most vivid in cooler spring weather and with reliable moisture; hot, dry conditions can scorch the pale leaf margins. Divide congested clumps every few years in early spring to maintain vigor and leaf color.",
+    "sources": ["Plant Delights Nursery", "White Flower Farm", "New England Wild Flower Society (Native Plant Trust)"]
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "slug": "caucasian-daphne",
+    "common_name": "Caucasian Daphne (Repeat-Blooming Deciduous Fragrant Shrub)",
+    "scientific_name": "Daphne caucasica",
+    "category": "flower",
+    "subcategory": "fragrant shade-tolerant shrub",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 730, "max": 1460},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {"min": -4, "max": 4},
+      "note": "Plant container-grown shrubs in fall or spring in moist, well-drained, neutral to slightly alkaline soil in partial shade; this species blooms intermittently from spring into fall rather than in one flush."
+    },
+    "usda_zones": {"min": 5, "max": 8},
+    "spacing_in": {"min": 30, "max": 42},
+    "height_in": {"min": 24, "max": 36},
+    "spread_in": {"min": 30, "max": 42},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Site in moist, humus-rich, well-drained soil in partial shade, sheltered from harsh midday sun and drying wind; like most daphnes it dislikes root disturbance, so choose a permanent spot at planting time. This deciduous species is valued for its long, sporadic bloom season, producing small clusters of white, sweetly fragrant flowers repeatedly from mid-spring through early fall rather than a single spring flush like most relatives. It has also proven more heat- and humidity-tolerant than many daphnes, making it a useful parent for hybrids bred for garden durability. Keep soil evenly moist but never waterlogged, avoid heavy fertilization, and mulch lightly to keep roots cool; all plant parts are toxic if ingested.",
+    "sources": ["Royal Horticultural Society", "Missouri Botanical Garden Plant Finder", "American Daphne Society (general horticultural reference)"]
+  },
+  {
+    "slug": "eternal-fragrance-daphne",
+    "common_name": "Eternal Fragrance Daphne (Long-Blooming Hybrid Shrub)",
+    "scientific_name": "Daphne x transatlantica 'Eternal Fragrance'",
+    "category": "flower",
+    "subcategory": "fragrant shade-tolerant shrub",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 730, "max": 1460},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 6},
+      "note": "Plant container-grown shrubs in spring or early fall in moist, well-drained, neutral to slightly alkaline soil in partial shade; this hybrid reblooms continuously from spring frost until fall frost."
+    },
+    "usda_zones": {"min": 4, "max": 9},
+    "spacing_in": {"min": 24, "max": 36},
+    "height_in": {"min": 18, "max": 30},
+    "spread_in": {"min": 24, "max": 36},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Plant in moist, well-drained soil with neutral to slightly alkaline pH in partial shade, allowing some morning sun for best flowering while avoiding hot afternoon exposure. Eternal Fragrance is a compact, semi-evergreen hybrid selected for its exceptionally long bloom period, opening clusters of pale pink-blushed white flowers in a heavy spring flush and then continuing to rebloom sporadically all the way through summer into fall frost. Its dense, mounded habit and smaller mature size make it well suited to foundation plantings, mixed borders, and containers where its fragrance can be appreciated at close range. As with all daphnes, avoid transplanting once established, keep the root zone cool and evenly moist without waterlogging, and skip heavy pruning or fertilization; all parts are toxic if ingested.",
+    "sources": ["Royal Horticultural Society", "Missouri Botanical Garden Plant Finder", "North Carolina State Extension"]
+  }
+]

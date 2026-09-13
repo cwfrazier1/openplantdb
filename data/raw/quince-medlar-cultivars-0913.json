@@ -1,0 +1,83 @@
+[
+  {
+    "slug": "kaunching-quince",
+    "common_name": "Kaunching Quince (Rare Asian-Origin Heirloom Quince)",
+    "scientific_name": "Cydonia oblonga 'Kaunching'",
+    "category": "fruit",
+    "subcategory": "tree fruit",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 1095, "max": 1460},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 6},
+      "note": "Plant a bare-root or container tree in spring in well-drained, fertile soil in full sun; quince is self-fertile and needs no companion tree to set fruit."
+    },
+    "usda_zones": {"min": 5, "max": 9},
+    "spacing_in": {"min": 120, "max": 180},
+    "height_in": {"min": 120, "max": 180},
+    "spread_in": {"min": 120, "max": 180},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Kaunching is an uncommon, lesser-known quince selection maintained mainly in fruit-collector and germplasm circles rather than mainstream nursery trade, grown for its dense, hard, golden-yellow fruit and typical strong quince perfume once ripe. As with all quince, the fruit is astringent and inedible raw and must be cooked, at which point the flesh turns a warm rose to amber color and develops a rich, honeyed flavor suited to jelly, paste, and baking. The tree bears on an open, spreading framework and benefits from being trained to a vase shape for airflow, since crowded interior growth increases the risk of fire blight in humid regions. Because it is scarce in commerce, gardeners usually source it as scionwood from fruit-collector exchanges or specialty germplasm repositories rather than as finished nursery stock.",
+    "sources": ["USDA National Plant Germplasm System (GRIN)", "North American Fruit Explorers", "general horticultural reference"]
+  },
+  {
+    "slug": "richs-dwarf-quince",
+    "common_name": "Rich's Dwarf Quince (Compact Dwarf-Habit Quince for Small Orchards)",
+    "scientific_name": "Cydonia oblonga 'Rich's Dwarf'",
+    "category": "fruit",
+    "subcategory": "tree fruit",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 1095, "max": 1460},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 6},
+      "note": "Plant in spring in well-drained, fertile soil in full sun; the naturally compact habit suits small gardens, containers, and high-density plantings better than standard-sized quince selections."
+    },
+    "usda_zones": {"min": 5, "max": 9},
+    "spacing_in": {"min": 84, "max": 120},
+    "height_in": {"min": 72, "max": 120},
+    "spread_in": {"min": 72, "max": 108},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Rich's Dwarf is valued chiefly for its naturally reduced, compact stature compared with standard quince selections, staying small enough for a large container or a tight backyard corner while still producing typical hard, aromatic, golden fruit each fall. Like other quince, the raw fruit is dense and astringent and needs cooking to develop its floral, honeyed character for jelly, paste, and preserves. Its smaller mature size means less pruning is needed to keep the canopy open, though thinning out crowded interior growth still helps reduce fire blight pressure in humid climates. Because the tree stays compact, it is a practical choice for gardeners who want a quince harvest without dedicating the footprint a full-sized tree requires.",
+    "sources": ["North American Fruit Explorers", "California Rare Fruit Growers", "general horticultural reference"]
+  },
+  {
+    "slug": "marron-medlar",
+    "common_name": "Marron Medlar (Large Chestnut-Flavored Heirloom Medlar)",
+    "scientific_name": "Mespilus germanica 'Marron'",
+    "category": "fruit",
+    "subcategory": "tree fruit",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 1460, "max": 2555},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 8},
+      "note": "Plant bare-root or container trees in spring in well-drained, moderately fertile soil in full sun; Marron is an old European selection valued for unusually large, richly flavored fruit."
+    },
+    "usda_zones": {"min": 5, "max": 9},
+    "spacing_in": {"min": 120, "max": 180},
+    "height_in": {"min": 120, "max": 180},
+    "spread_in": {"min": 120, "max": 180},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Marron takes its name from the French word for chestnut, a nod to the deep russet-brown color and rich, nutty-sweet character its bletted flesh develops, setting it apart from sharper, more austere medlar selections. Like all medlar, the fruit is rock-hard and unpalatable when picked and must be left on the tree until after hard frost, or stored several weeks in a cool spot, until it softens, browns, and takes on the soft, spiced, wine-and-date flavor typical of bletted medlar. The tree keeps the same small, picturesquely gnarled habit and showy white spring flowers common to the species, making it as much an ornamental specimen as a fruiting one. Grow in well-drained soil in full sun, prune only lightly to remove damaged or crossing wood, and harvest once the calyx end has fully opened and fruit color has deepened in fall.",
+    "sources": ["Royal Horticultural Society", "Chris Bowers and Sons (UK)", "general horticultural reference"]
+  }
+]

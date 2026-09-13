@@ -1,0 +1,83 @@
+[
+  {
+    "slug": "dwarf-sunray-jerusalem-artichoke",
+    "common_name": "Dwarf Sunray Jerusalem Artichoke (Early Dwarf Sunchoke)",
+    "scientific_name": "Helianthus tuberosus 'Dwarf Sunray'",
+    "category": "vegetable",
+    "subcategory": "root vegetable",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 100, "max": 130},
+    "maturity_from": "transplant",
+    "sow_method": "tuber",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": -2, "max": 2},
+      "note": "Plant tuber pieces 3-4 inches deep around the last frost date; this compact selection stays manageable in size compared to standard sunchokes and can be grown in smaller beds or large containers."
+    },
+    "usda_zones": {"min": 3, "max": 9},
+    "spacing_in": {"min": 10, "max": 15},
+    "height_in": {"min": 48, "max": 60},
+    "spread_in": {"min": 18, "max": 30},
+    "sun": "full",
+    "water": "low",
+    "directions": "Dwarf Sunray was selected long ago as a shorter, tidier alternative to towering standard sunchoke varieties, topping out around 4-5 feet instead of the 8-10 feet common to most Helianthus tuberosus strains, which makes it far less prone to toppling in wind or shading neighboring crops. It concentrates its white-skinned tubers in a tight cluster close to the base of the stem rather than scattering them widely underground, so harvest is quicker and the planting is easier to contain within a bed. Foliage dies back with the first hard frosts, at which point tubers can be dug as needed through fall and winter, with flavor sweetening after cold exposure converts stored inulin to sugar. As with all sunchokes, leave a few tubers in the ground each season to regenerate next year's crop, and dig thoroughly at bed's end if you want to remove the planting entirely.",
+    "sources": ["Cultivariable variety database", "Royal Horticultural Society Plant Finder", "general horticultural reference"]
+  },
+  {
+    "slug": "purple-winter-savory",
+    "common_name": "Purple Winter Savory (Illyrian Savory)",
+    "scientific_name": "Satureja montana ssp. illyrica 'Purple'",
+    "category": "herb",
+    "subcategory": "culinary herb cultivar",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 75, "max": 100},
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": -2, "max": 4},
+      "note": "Set out rooted divisions or cuttings after the last frost into lean, sharply drained, slightly alkaline soil in full sun; this ornamental subspecies is propagated vegetatively to retain its compact habit and flower color."
+    },
+    "usda_zones": {"min": 5, "max": 9},
+    "spacing_in": {"min": 10, "max": 14},
+    "height_in": {"min": 4, "max": 8},
+    "spread_in": {"min": 14, "max": 20},
+    "sun": "full",
+    "water": "low",
+    "directions": "This Balkan subspecies of winter savory forms a low, dense, semi-woody mound of narrow dark leaves that stays noticeably shorter and tighter than typical winter savory, and it produces an unusually heavy show of violet-purple summer flowers that draw bees and other pollinators more visibly than the pale blooms of the straight species. It was selected for gardens as much for ornamental value as for the kitchen, working well as a xeric border edge or rock-garden specimen, though the leaves carry the same resinous, peppery savory flavor prized with beans and roasted meats. Grow it in poor to average soil with excellent drainage, since rich or damp conditions quickly lead to root rot and loose, sprawling growth. Shear back lightly after flowering to maintain its tight mounded shape and encourage fresh foliage for the following season.",
+    "sources": ["Plant Select introduction program", "Royal Horticultural Society Plant Finder", "general horticultural reference"]
+  },
+  {
+    "slug": "red-catawissa-walking-onion",
+    "common_name": "Red Catawissa Walking Onion (Red Tree Onion)",
+    "scientific_name": "Allium x proliferum 'Red Catawissa'",
+    "category": "vegetable",
+    "subcategory": "allium",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 90, "max": 120},
+    "maturity_from": "transplant",
+    "sow_method": "bulb",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {"min": -4, "max": 0},
+      "note": "Plant topset bulbils in early fall so they root before winter; this red-skinned strain of Catawissa walking onion is otherwise grown identically to the standard heirloom."
+    },
+    "usda_zones": {"min": 4, "max": 9},
+    "spacing_in": {"min": 6, "max": 10},
+    "height_in": {"min": 18, "max": 30},
+    "spread_in": {"min": 6, "max": 10},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Red Catawissa is a color-selected strain of the historic Catawissa walking onion, distinguished by a reddish-bronze blush on its topset bulbils and sometimes the base of the stalks, while sharing the same loose, open bulbil clusters and occasional true flowers that set true Catawissa apart from the common Egyptian walking onion. As the aerial bulbils swell and grow heavy, the seed stalk bends toward the ground and roots the bulbils wherever they touch soil, allowing the clump to slowly migrate through the bed year after year with no replanting needed. Harvest green shoots through the season like scallions, dig underground bulbs once tops begin to yellow, and collect or replant the colorful topset bulbils to expand the planting or share with other gardeners. Divide congested clumps every few years to keep vigor and bulbil production high.",
+    "sources": ["Seed Savers Exchange heirloom onion archive", "Southern Exposure Seed Exchange variety notes", "general horticultural reference"]
+  }
+]

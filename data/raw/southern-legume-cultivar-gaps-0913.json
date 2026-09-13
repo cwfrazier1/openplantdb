@@ -1,0 +1,83 @@
+[
+  {
+    "slug": "early-spanish-peanut",
+    "common_name": "Early Spanish Peanut (Bunch-Type Boiling and Roasting Peanut)",
+    "scientific_name": "Arachis hypogaea 'Early Spanish'",
+    "category": "vegetable",
+    "subcategory": "peanut",
+    "days_to_germination": {"min": 10, "max": 21},
+    "germination_soil_temp_f": {"min": 65, "max": 80},
+    "days_to_maturity": {"min": 90, "max": 110},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 2, "max": 4},
+      "note": "Direct sow shelled, raw seed once soil has warmed well past 65 degrees F; Early Spanish is the fastest-maturing common peanut type, making it a good fit for gardeners with a shorter warm season than Virginia types need."
+    },
+    "usda_zones": {"min": 6, "max": 11},
+    "spacing_in": {"min": 6, "max": 8},
+    "height_in": {"min": 12, "max": 18},
+    "spread_in": {"min": 15, "max": 20},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Sow shelled seed about 1.5 inches deep in loose, sandy, well-drained soil, since the flower stalks (pegs) must push down into the soil after pollination to form pods underground. Early Spanish is a small-seeded, upright bunch-type peanut with a single kernel per pod more often than the two-seeded Virginia types, and it reaches maturity noticeably faster, which suits it to gardens outside the Deep South's longest growing seasons as well as within them. Mound soil gently around the base of the plants once flowering begins so pegs have an easy path into loose earth, and keep the bed evenly moist through flowering and pegging since drought at that stage sharply cuts yield. Dig the whole plant once the foliage begins to yellow, then cure the pods in a warm, airy spot for one to two weeks before shelling, boiling, or roasting.",
+    "sources": ["Southern Exposure Seed Exchange", "North Carolina State University Extension", "general horticultural reference"]
+  },
+  {
+    "slug": "green-noodle-yardlong-bean",
+    "common_name": "Green Noodle Yardlong Bean (Green Asparagus Bean)",
+    "scientific_name": "Vigna unguiculata subsp. sesquipedalis 'Green Noodle'",
+    "category": "vegetable",
+    "subcategory": "pole bean",
+    "days_to_germination": {"min": 7, "max": 14},
+    "germination_soil_temp_f": {"min": 65, "max": 90},
+    "days_to_maturity": {"min": 55, "max": 70},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 1, "max": 3},
+      "note": "Direct sow once soil is reliably above 70 degrees F, 1-3 weeks after last frost; provide a sturdy 6-8 foot trellis before vines take off, since Green Noodle climbs vigorously in summer heat."
+    },
+    "usda_zones": {"min": 5, "max": 12},
+    "spacing_in": {"min": 4, "max": 6},
+    "height_in": {"min": 84, "max": 120},
+    "spread_in": {"min": 12, "max": 18},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Sow seed an inch deep at the base of a tall trellis once the soil is warm, since yardlong beans germinate poorly and grow slowly in cool soil compared to bush snap beans. Green Noodle produces the classic slender, pale to medium-green pods of 18-24 inches typical of the yardlong bean group, and unlike red-podded forms it keeps its color through cooking, making it a versatile stand-in for standard green beans in stir-fries and braises. The vines thrive in the hottest, most humid part of summer when many Phaseolus beans stop setting pods, so plan for continuous harvest from midsummer through early fall in the Gulf South. Pick pods while still slender and before the seeds inside swell noticeably, since older pods turn fibrous quickly; frequent picking also keeps the vines producing new flowers.",
+    "sources": ["Annapolis Seeds", "Kitazawa Seed Company", "general horticultural reference"]
+  },
+  {
+    "slug": "stickless-wonder-yardlong-bean",
+    "common_name": "Stickless Wonder Yardlong Bean (Bush Asparagus Bean)",
+    "scientific_name": "Vigna unguiculata subsp. sesquipedalis 'Stickless Wonder'",
+    "category": "vegetable",
+    "subcategory": "bush bean",
+    "days_to_germination": {"min": 7, "max": 14},
+    "germination_soil_temp_f": {"min": 65, "max": 90},
+    "days_to_maturity": {"min": 50, "max": 60},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 1, "max": 3},
+      "note": "Direct sow once soil is reliably above 70 degrees F, 1-3 weeks after last frost; no trellis is needed, which makes this the easiest yardlong bean to fit into a small bed or container planting."
+    },
+    "usda_zones": {"min": 5, "max": 12},
+    "spacing_in": {"min": 4, "max": 6},
+    "height_in": {"min": 18, "max": 24},
+    "spread_in": {"min": 12, "max": 18},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Sow seed an inch deep in warm soil; unlike nearly every other yardlong bean, Stickless Wonder grows as a compact, self-supporting bush rather than a climbing vine, so it needs no trellis and matures noticeably faster than pole-type long beans. Pods still reach an impressive 12-15 inches even without the extra growing time a vine gets, and they hold a good tender texture if picked young. Because the plants stay low and open, watch more closely for pods hiding under the foliage so none are missed and left to toughen. A light stake can still help keep top-heavy plants upright in windy Gulf Coast summer storms, even though the vines themselves need no support to climb.",
+    "sources": ["Tradewinds Fruit", "Smart Gardener", "general horticultural reference"]
+  }
+]

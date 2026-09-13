@@ -1,0 +1,56 @@
+[
+  {
+    "slug": "lecompte-vitex",
+    "common_name": "LeCompte Chaste Tree (Louisiana Select Purple-Flowered Vitex)",
+    "scientific_name": "Vitex agnus-castus 'LeCompte'",
+    "category": "flower",
+    "subcategory": "ornamental shrub-tree",
+    "days_to_germination": {"min": 21, "max": 42},
+    "germination_soil_temp_f": {"min": 65, "max": 75},
+    "days_to_maturity": {"min": 365, "max": 1095},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 2, "max": 6},
+      "note": "Root semi-hardwood cuttings in summer or plant container-grown specimens in well-drained soil in full sun; LeCompte was selected in Louisiana for exceptionally long, dense flower spikes and strong repeat bloom through the Gulf South growing season."
+    },
+    "usda_zones": {"min": 6, "max": 9},
+    "spacing_in": {"min": 120, "max": 180},
+    "height_in": {"min": 120, "max": 216},
+    "spread_in": {"min": 120, "max": 180},
+    "sun": "full",
+    "water": "low",
+    "directions": "Root semi-hardwood cuttings in summer or set out container-grown plants in well-drained, average to lean soil in full sun. LeCompte is a Louisiana-origin chaste tree selection prized for producing some of the longest, most densely packed lavender-purple flower spikes of any named vitex, opening in flushes from late spring through fall on new wood. The aromatic, gray-green palmately compound foliage adds a light sage scent when brushed, and the plant shrugs off summer heat, drought, and poor soil once established. Cut the whole plant back hard to 12-18 inches in late winter each year to keep growth vigorous, maintain a manageable size, and maximize the following season's flower spike count. Bees and butterflies work the long bloom spikes heavily all summer.",
+    "sources": ["LSU AgCenter Louisiana Super Plants", "Missouri Botanical Garden Plant Finder", "general horticultural reference"]
+  },
+  {
+    "slug": "silver-spire-vitex",
+    "common_name": "Silver Spire Chaste Tree (White-Flowered Vitex Selection)",
+    "scientific_name": "Vitex agnus-castus 'Silver Spire'",
+    "category": "flower",
+    "subcategory": "ornamental shrub-tree",
+    "days_to_germination": {"min": 21, "max": 42},
+    "germination_soil_temp_f": {"min": 65, "max": 75},
+    "days_to_maturity": {"min": 365, "max": 1095},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 2, "max": 6},
+      "note": "Root semi-hardwood cuttings in summer or plant container-grown specimens in well-drained soil in full sun; Silver Spire is the standard pure-white-flowered chaste tree selection, offering the same toughness as blue-flowered vitex with clean white flower spikes for a lighter garden palette."
+    },
+    "usda_zones": {"min": 6, "max": 9},
+    "spacing_in": {"min": 120, "max": 180},
+    "height_in": {"min": 120, "max": 216},
+    "spread_in": {"min": 120, "max": 180},
+    "sun": "full",
+    "water": "low",
+    "directions": "Root semi-hardwood cuttings in summer or plant container specimens in well-drained, average to poor soil in full sun. Silver Spire is the most widely available white-flowered chaste tree cultivar, producing slender spikes of pure white flowers rather than the lavender-blue typical of the species, making it a useful choice for moon gardens, white borders, or breaking up a planting dominated by blue and purple vitex selections. It blooms repeatedly on new growth from late spring into fall, tolerates heat, drought, and lean soil as well as any blue-flowered selection, and carries the same aromatic, gray-green palmate foliage. Prune hard to 12-18 inches above ground in late winter to renew growth and encourage the heaviest flower production the following season.",
+    "sources": ["Monrovia", "North Carolina Extension Gardener Plant Toolbox", "general horticultural reference"]
+  }
+]

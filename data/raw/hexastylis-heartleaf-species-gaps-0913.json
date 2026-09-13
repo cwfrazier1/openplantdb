@@ -1,0 +1,56 @@
+[
+  {
+    "slug": "hexastylis-lewisii",
+    "common_name": "Lewis's Heartleaf (Piedmont Wild Ginger)",
+    "scientific_name": "Hexastylis lewisii",
+    "category": "flower",
+    "subcategory": "native evergreen shade groundcover",
+    "days_to_germination": {"min": 30, "max": 60},
+    "germination_soil_temp_f": {"min": 40, "max": 55},
+    "days_to_maturity": {"min": 365, "max": 730},
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Transplant nursery-propagated divisions in spring into moist, humus-rich, acidic soil under dense shade, and avoid disturbing the shallow rhizomes once established."
+    },
+    "usda_zones": {"min": 6, "max": 9},
+    "spacing_in": {"min": 6, "max": 10},
+    "height_in": {"min": 4, "max": 6},
+    "spread_in": {"min": 10, "max": 16},
+    "sun": "shade",
+    "water": "moderate",
+    "directions": "Hexastylis lewisii is a Piedmont endemic of the Carolinas and Georgia, forming a slow-spreading evergreen mat of glossy, heart-shaped leaves that stay attractive through winter in mild climates. Plant divisions in consistently moist, humus-rich, acidic soil beneath hardwood canopy, matching the deep leaf-litter conditions of its native forests. Inconspicuous brownish-purple jug-shaped flowers open at ground level in early spring and are pollinated by fungus gnats and other ground-dwelling insects. Growth is slow, so give plants several seasons before expecting full groundcover coverage, and source only nursery-propagated stock since wild populations are limited and locally uncommon.",
+    "sources": ["USDA PLANTS Database", "North Carolina Native Plant Society", "NatureServe"]
+  },
+  {
+    "slug": "hexastylis-rhombiformis",
+    "common_name": "French Broad Heartleaf (Mountain Wild Ginger)",
+    "scientific_name": "Hexastylis rhombiformis",
+    "category": "flower",
+    "subcategory": "native evergreen shade groundcover",
+    "days_to_germination": {"min": 30, "max": 60},
+    "germination_soil_temp_f": {"min": 40, "max": 55},
+    "days_to_maturity": {"min": 365, "max": 730},
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {"min": -4, "max": -2},
+      "note": "Divide established clumps in early fall and reset into cool, moist, acidic soil in deep mountain-forest-style shade, keeping the rhizomes shallow and undisturbed afterward."
+    },
+    "usda_zones": {"min": 5, "max": 8},
+    "spacing_in": {"min": 6, "max": 9},
+    "height_in": {"min": 3, "max": 6},
+    "spread_in": {"min": 8, "max": 14},
+    "sun": "shade",
+    "water": "moderate",
+    "directions": "Native to a narrow range along the French Broad River drainage in the southern Appalachians, this rare heartleaf forms a tight, low mat of leathery, rhombic-shaped evergreen leaves suited to cool, humid mountain woodlands. Grow it in consistently moist, cool, humus-rich acidic soil beneath a closed hardwood canopy, and avoid summer heat and drying winds by siting it in a sheltered ravine-like microclimate if gardening outside its native mountain range. Like its relatives, it produces small brown urn-shaped flowers hidden at soil level in spring, pollinated by ground-active insects rather than typical pollinators. Because this species has a very restricted native distribution and conservation concern, plant only nursery-propagated material and never dig from the wild.",
+    "sources": ["USDA PLANTS Database", "NatureServe", "North Carolina State Extension"]
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "slug": "red-horsechestnut-briotii",
+    "common_name": "Briotii Red Horsechestnut (Ruby-Flowered Selection)",
+    "scientific_name": "Aesculus x carnea 'Briotii'",
+    "category": "flower",
+    "subcategory": "ornamental flowering tree",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 1825, "max": 3650},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {"min": -4, "max": 0},
+      "note": "Plant balled-and-burlapped or container-grown grafted trees in fall or early spring in deep, moist, well-drained soil in full sun for the best flower display."
+    },
+    "usda_zones": {"min": 4, "max": 7},
+    "spacing_in": {"min": 300, "max": 480},
+    "height_in": {"min": 300, "max": 480},
+    "spread_in": {"min": 240, "max": 360},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in deep, fertile, well-drained soil in full sun to very light shade; 'Briotii' is a long-cultivated selection of the European hybrid between red buckeye (Aesculus pavia) and common horsechestnut (A. hippocastanum), chosen for its unusually dark, ruby-rose flower panicles held upright above the foliage in May, showier and richer in color than the typical pale-pink species cross. It grows into a dense, rounded, medium-sized shade tree, more compact and less prone to the disfiguring leaf blotch and scorch that plagues straight A. hippocastanum in hot summers, though it can still show some late-season leaf tatter in stressful sites. It produces fewer of the large spiny fruit husks than the seed-fertile parent, making it a tidier choice for street and park plantings. All plant parts, and especially the glossy brown seeds, are toxic if ingested.",
+    "sources": ["Missouri Botanical Garden Plant Finder", "Royal Horticultural Society", "Morton Arboretum plant records"]
+  },
+  {
+    "slug": "ohio-buckeye-autumn-splendor",
+    "common_name": "Autumn Splendor Ohio Buckeye (Leaf-Scorch-Resistant Selection)",
+    "scientific_name": "Aesculus glabra 'Autumn Splendor'",
+    "category": "flower",
+    "subcategory": "native flowering tree",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 1825, "max": 3650},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {"min": -4, "max": 0},
+      "note": "Plant grafted or budded nursery trees in fall while soil is still warm, in moist, deep, well-drained soil in full sun to partial shade."
+    },
+    "usda_zones": {"min": 3, "max": 7},
+    "spacing_in": {"min": 240, "max": 360},
+    "height_in": {"min": 240, "max": 420},
+    "spread_in": {"min": 240, "max": 360},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Plant in moist, deep, well-drained soil in full sun to partial shade; 'Autumn Splendor' is a Midwest-selected cultivar of the state tree of Ohio, chosen specifically to correct the species' most common landscape flaw, its tendency toward unsightly leaf blotch and premature summer leaf scorch in hot, dry conditions. It holds clean, glossy dark-green foliage later into the season than typical seedling Ohio buckeyes and then reliably colors a vivid orange-red in fall, arguably the best and most consistent fall display in the genus. Habit is a bit more uniformly rounded and dense than wild seedlings, making it a better choice as a specimen or street tree where a tidier silhouette is wanted. Like the species, all parts are toxic, and it prefers consistent moisture through establishment, being intolerant of prolonged drought.",
+    "sources": ["Ohio State University Extension", "Missouri Botanical Garden Plant Finder", "Morton Arboretum plant records"]
+  },
+  {
+    "slug": "california-buckeye",
+    "common_name": "California Buckeye (California Horsechestnut)",
+    "scientific_name": "Aesculus californica",
+    "category": "flower",
+    "subcategory": "native drought-deciduous tree/shrub",
+    "days_to_germination": {"min": 14, "max": 45},
+    "germination_soil_temp_f": {"min": 50, "max": 65},
+    "days_to_maturity": {"min": 1095, "max": 2555},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {"min": -4, "max": 0},
+      "note": "Sow fresh nuts immediately after fall collection, barely covered, in well-drained soil; container-grown plants can also be set out in fall or early spring in a full-sun to lightly shaded site."
+    },
+    "usda_zones": {"min": 7, "max": 10},
+    "spacing_in": {"min": 180, "max": 360},
+    "height_in": {"min": 180, "max": 360},
+    "spread_in": {"min": 180, "max": 360},
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant in well-drained soil, including rocky or clay slopes, in full sun to light open shade; California buckeye is the West Coast's native buckeye, a large, often multi-trunked shrub or small tree of dry foothill woodlands and chaparral from the Sierra Nevada and Coast Ranges. It is strongly drought-deciduous, dropping its palmate leaves by mid-to-late summer as soils dry out, a natural adaptation to the Mediterranean climate rather than a sign of stress, then leafing out again with the first fall or winter rains. Large, showy upright spikes of fragrant white to pale-pink flowers appear in late spring and are an important nectar source for native bees and butterflies, though the nectar and pollen are reportedly toxic to European honeybees. Once established it needs no supplemental summer water and is an excellent choice for unirrigated native and wildlife gardens; all parts, especially the large shiny seeds, are toxic to humans and livestock.",
+    "sources": ["Calflora", "Las Pilitas Nursery", "Lady Bird Johnson Wildflower Center"]
+  }
+]

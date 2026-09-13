@@ -1,0 +1,56 @@
+[
+  {
+    "slug": "rotsilber-miscanthus",
+    "common_name": "Rotsilber Miscanthus (Red-Silver Maiden Grass)",
+    "scientific_name": "Miscanthus sinensis 'Rotsilber'",
+    "category": "flower",
+    "subcategory": "ornamental grass",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 90, "max": 150},
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 6},
+      "note": "Plant divisions or container-grown plants in spring in moist, well-drained soil in full sun; Rotsilber is one of the earliest-flowering maiden grass cultivars, sending up wine-red plumes by mid-to-late summer well before most other Miscanthus selections."
+    },
+    "usda_zones": {"min": 4, "max": 9},
+    "spacing_in": {"min": 36, "max": 48},
+    "height_in": {"min": 48, "max": 72},
+    "spread_in": {"min": 36, "max": 48},
+    "sun": "full",
+    "water": "low",
+    "directions": "German-bred and named for its striking flower color, Rotsilber produces upright clumps of narrow green blades with a fine silver midrib, topped from midsummer onward by feathery panicles that emerge wine-red and age gracefully to silvery white, remaining ornamental well into late fall. Its early bloom timing sets it apart from later-flowering maiden grass cultivars, giving gardeners in shorter-season climates a reliable flower display even where autumn frosts arrive before other selections color up. Foliage turns orange-bronze in autumn and the dried plumes and stems provide strong winter structure if left standing. Cut the entire clump back to a few inches above the ground in late winter before new shoots emerge, and divide congested clumps every three to four years in spring to maintain vigor. As with other Miscanthus sinensis selections, remove spent seed heads before they mature in regions where the species is considered invasive.",
+    "sources": ["Royal Horticultural Society", "Kansas State University Turf and Ornamentals", "general horticultural reference"]
+  },
+  {
+    "slug": "cherry-sparkler-fountain-grass",
+    "common_name": "Cherry Sparkler Fountain Grass (Variegated Pink Fountain Grass)",
+    "scientific_name": "Pennisetum setaceum 'Cherry Sparkler'",
+    "category": "flower",
+    "subcategory": "ornamental-grass",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 90, "max": 120},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 0, "max": 2},
+      "note": "Plant container-grown transplants after all danger of frost in full sun and well-drained soil; part of the Celebration series, this cultivar is propagated vegetatively and does not come true from seed."
+    },
+    "usda_zones": {"min": 9, "max": 11},
+    "spacing_in": {"min": 18, "max": 24},
+    "height_in": {"min": 36, "max": 48},
+    "spread_in": {"min": 12, "max": 18},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Cherry Sparkler is a compact, tender fountain grass grown for its narrow blades striped in green and cream that flush deep pink to burgundy at the tips and margins, an effect that intensifies with cooler nights and full sun exposure. Slender burgundy bottlebrush plumes appear from late summer into fall above the variegated foliage, adding a soft textural contrast to its more upright, fine-bladed form. It performs best in fertile, well-drained soil with consistent moisture during establishment, and its narrower clump and smaller stature compared to plain purple fountain grass make it well suited to containers, mixed borders, and combination plantings rather than mass landscape use. Grow as an annual outside zone 9-11, or overwinter favorite specimens indoors in a bright location after cutting the foliage back before first frost. Divide congested perennial clumps in spring in frost-free climates.",
+    "sources": ["general horticultural reference", "retail nursery cultivar descriptions"]
+  }
+]

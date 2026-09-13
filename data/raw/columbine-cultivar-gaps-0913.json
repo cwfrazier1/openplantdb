@@ -1,0 +1,56 @@
+[
+  {
+    "slug": "corbett-columbine",
+    "common_name": "Corbett Columbine (Pale Yellow Wild Columbine Selection)",
+    "scientific_name": "Aquilegia canadensis 'Corbett'",
+    "category": "flower",
+    "subcategory": "native woodland perennial",
+    "days_to_germination": {"min": 21, "max": 30},
+    "germination_soil_temp_f": {"min": 55, "max": 65},
+    "days_to_maturity": {"min": 365, "max": 730},
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 6},
+      "note": "Set out potted divisions or fall-stratified seedlings in humus-rich, dappled-shade beds once the soil has warmed in spring."
+    },
+    "usda_zones": {"min": 3, "max": 8},
+    "spacing_in": {"min": 10, "max": 15},
+    "height_in": {"min": 12, "max": 18},
+    "spread_in": {"min": 10, "max": 14},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "This selection was collected from a naturally pale-yellow-flowered population near Corbett, Oregon, and comes true from seed in isolated plantings. Grow it in woodland soil enriched with leaf mold, keeping it evenly moist through spring bloom and tolerating light summer drought once established. It self-sows modestly in favorable sites, so allow a few seed heads to mature if a colony is desired, and deadhead the rest to prolong flowering. Divide congested clumps in early fall to maintain vigor.",
+    "sources": ["Missouri Botanical Garden Plant Finder", "Prairie Moon Nursery"]
+  },
+  {
+    "slug": "little-lanterns-columbine",
+    "common_name": "Little Lanterns Dwarf Wild Columbine",
+    "scientific_name": "Aquilegia canadensis 'Little Lanterns'",
+    "category": "flower",
+    "subcategory": "native woodland perennial",
+    "days_to_germination": {"min": 21, "max": 30},
+    "germination_soil_temp_f": {"min": 55, "max": 65},
+    "days_to_maturity": {"min": 365, "max": 730},
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 6},
+      "note": "Tuck compact transplants into rock gardens or shaded border edges in spring once frost danger has passed."
+    },
+    "usda_zones": {"min": 3, "max": 8},
+    "spacing_in": {"min": 6, "max": 10},
+    "height_in": {"min": 6, "max": 10},
+    "spread_in": {"min": 8, "max": 10},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "A compact selection of the native eastern columbine, this cultivar keeps its nodding red-and-yellow flowers and blue-green foliage on a tidy mound well suited to small gardens, containers, and rock garden pockets. Plant in well-drained, humus-rich soil with morning sun and afternoon shade, and keep consistently moist during establishment. It is shorter-lived than many perennials but self-sows readily, so let some seed pods mature if you want the planting to persist. Watch for leaf miner damage on foliage and remove affected leaves as needed.",
+    "sources": ["North Creek Nurseries", "Missouri Botanical Garden Plant Finder"]
+  }
+]

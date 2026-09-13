@@ -1,0 +1,56 @@
+[
+  {
+    "slug": "golden-hoptree",
+    "common_name": "Golden Hop Tree",
+    "scientific_name": "Ptelea trifoliata 'Aurea'",
+    "category": "flower",
+    "subcategory": "shade-tolerant native small tree cultivar",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 730, "max": 1825},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 6},
+      "note": "Plant container-grown specimens in spring in moist, well-drained soil with some afternoon shade to prevent leaf scorch on the golden foliage."
+    },
+    "usda_zones": {"min": 4, "max": 9},
+    "spacing_in": {"min": 72, "max": 120},
+    "height_in": {"min": 120, "max": 216},
+    "spread_in": {"min": 96, "max": 168},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "This golden-leaved selection of the native hop tree emerges with vivid chartreuse-yellow foliage in spring that softens toward light green by midsummer, giving strong seasonal color contrast in a woodland-edge planting. Because the bright leaves are more prone to sunburn than the straight species, site it where it gets morning sun and dappled or afternoon shade rather than full, unbroken exposure. It retains all the wildlife value of typical hop tree, including its role as larval host for giant swallowtail butterflies, and produces the same clusters of papery, wafer-like seed capsules in fall. Grow in moist, well-drained, slightly acidic soil and avoid heavy, waterlogged sites; established plants tolerate short dry spells once their root systems fill in.",
+    "sources": ["Dirr's Manual of Woody Landscape Plants", "specialty nursery propagation records (Forestfarm)", "general horticultural reference"]
+  },
+  {
+    "slug": "perkins-pink-yellowwood",
+    "common_name": "Perkins Pink American Yellowwood",
+    "scientific_name": "Cladrastis kentukea 'Perkins Pink'",
+    "category": "flower",
+    "subcategory": "native flowering shade tree cultivar",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 2190, "max": 3650},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Plant grafted nursery stock in spring in deep, well-drained, fertile loam in full sun to partial shade; grafted trees should be staked their first year or two until the union is well anchored."
+    },
+    "usda_zones": {"min": 4, "max": 8},
+    "spacing_in": {"min": 360, "max": 540},
+    "height_in": {"min": 360, "max": 600},
+    "spread_in": {"min": 480, "max": 660},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "This selection was chosen for its rose-pink flower clusters, a striking departure from the pure white blooms of typical American yellowwood, and it opens the same fragrant, pendulous, wisteria-like racemes in late spring. Because it is a grafted cultivar rather than a seed-grown tree, watch the graft union below the first branches for suckering from the rootstock and remove any shoots that arise below it. Like the species it blooms more heavily in alternate years or after a stressful, dry summer, so avoid over-fertilizing in an attempt to force annual flowering. Plant in deep, well-drained, slightly acidic to neutral soil and give it room to develop its broad, wide-spreading canopy without crowding from nearby trees.",
+    "sources": ["Weston Nurseries introduction records", "Dirr's Hardy Trees and Shrubs", "general horticultural reference"]
+  }
+]

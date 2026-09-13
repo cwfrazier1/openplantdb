@@ -1,0 +1,29 @@
+[
+  {
+    "slug": "aralia-californica",
+    "common_name": "California Spikenard (Elk Clover)",
+    "scientific_name": "Aralia californica",
+    "category": "flower",
+    "subcategory": "native shade perennial",
+    "days_to_germination": {"min": 30, "max": 90},
+    "germination_soil_temp_f": {"min": 50, "max": 65},
+    "days_to_maturity": {"min": 365, "max": 730},
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {"min": -8, "max": -4},
+      "note": "Set divisions or container plants in fall or early spring into consistently moist, humus-rich soil along shaded streambanks or seepage areas; give this the largest footprint of any western shade perennial, 6-8 feet in every direction."
+    },
+    "usda_zones": {"min": 6, "max": 9},
+    "spacing_in": {"min": 60, "max": 96},
+    "height_in": {"min": 60, "max": 120},
+    "spread_in": {"min": 72, "max": 108},
+    "sun": "partial",
+    "water": "high",
+    "directions": "Site in reliably moist to wet, humus-rich soil along the shaded margins of streams, seeps, or canyon bottoms in part shade; unlike its eastern relative American spikenard, this West Coast native from the redwood and mixed-evergreen forests of California and southern Oregon demands consistent moisture and will scorch or stall in dry shade. Huge doubly compound leaves on stout, unarmed stems can reach 3-5 feet long, giving a coarse, almost gunnera-like presence at the back of a moist woodland border. Rounded clusters of small greenish-white flowers open in summer, followed by dark purple-black berries favored by birds and once eaten by several Native American groups along with the aromatic roots. Herbaceous top growth dies back hard with the first frosts and re-emerges vigorously from a stout woody crown each spring, so mark its location and mulch generously over winter.",
+    "sources": ["Calflora", "Jepson eFlora (Jepson Herbarium, UC Berkeley)", "Las Pilitas Nursery native plant database"]
+  }
+]

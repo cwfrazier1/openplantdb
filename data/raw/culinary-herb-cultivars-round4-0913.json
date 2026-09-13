@@ -1,0 +1,83 @@
+[
+  {
+    "slug": "superdukat-dill",
+    "common_name": "Superdukat Dill",
+    "scientific_name": "Anethum graveolens 'Superdukat'",
+    "category": "herb",
+    "subcategory": "annual herb",
+    "days_to_germination": {"min": 7, "max": 14},
+    "germination_soil_temp_f": {"min": 60, "max": 70},
+    "days_to_maturity": {"min": 40, "max": 55},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": -4, "max": 0},
+      "note": "Direct sow in cool soil a few weeks before last frost, or in fall in mild climates, since dill's taproot resists transplanting."
+    },
+    "usda_zones": {"min": 3, "max": 9},
+    "spacing_in": {"min": 6, "max": 10},
+    "height_in": {"min": 18, "max": 24},
+    "spread_in": {"min": 9, "max": 12},
+    "sun": "full",
+    "water": "low",
+    "directions": "Superdukat is a Danish selection bred as an improved version of the classic Dukat dill, combining the same high leaf-oil content with an even more pronounced resistance to bolting. Plants stay compact and productive in the leafy foliage stage for weeks longer than standard dill before switching over to flower, which extends the fresh dill weed harvest window considerably. The dense, blue-green ferny foliage holds up well for cutting and is prized for its intense, unmistakably dill aroma in sauces, pickles, and fish dishes. Because it is slower to flower, gardeners who also want dill seed for pickling brine should let a portion of the planting bolt naturally rather than harvesting every plant.",
+    "sources": ["RHS Plant Finder", "general horticultural reference"]
+  },
+  {
+    "slug": "hera-dill",
+    "common_name": "Hera Dill",
+    "scientific_name": "Anethum graveolens 'Hera'",
+    "category": "herb",
+    "subcategory": "annual herb",
+    "days_to_germination": {"min": 7, "max": 14},
+    "germination_soil_temp_f": {"min": 60, "max": 70},
+    "days_to_maturity": {"min": 40, "max": 55},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": -3, "max": 1},
+      "note": "Direct sow shallowly in cool soil after the coldest snaps pass, or succession sow into early summer for continuous bunching harvest."
+    },
+    "usda_zones": {"min": 3, "max": 9},
+    "spacing_in": {"min": 4, "max": 8},
+    "height_in": {"min": 20, "max": 24},
+    "spread_in": {"min": 8, "max": 10},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Hera is a compact, uniform dill bred specifically for bunching and baby-leaf production, with attractive blue-green feathery foliage held on short, sturdy stalks. It bolts noticeably later than older market varieties, holding its leafy stage roughly two extra weeks before flowering, which gives growers a longer window to harvest whole bunches for market or kitchen use. The short internodes and dense foliage make it well suited to close spacing and container culture as well as field rows. Cut whole stems near the base for bunching, or shear the tips repeatedly for a steady supply of fresh dill weed.",
+    "sources": ["RHS Plant Finder", "Johnny's Selected Seeds"]
+  },
+  {
+    "slug": "titan-parsley",
+    "common_name": "Titan Parsley",
+    "scientific_name": "Petroselinum crispum var. neapolitanum 'Titan'",
+    "category": "herb",
+    "subcategory": "flat-leaf parsley",
+    "days_to_germination": {"min": 14, "max": 28},
+    "germination_soil_temp_f": {"min": 50, "max": 70},
+    "days_to_maturity": {"min": 70, "max": 90},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": -4, "max": 2},
+      "note": "Soak seed overnight to speed germination, then direct sow or transplant around last frost into fertile, moisture-retentive soil."
+    },
+    "usda_zones": {"min": 5, "max": 9},
+    "spacing_in": {"min": 6, "max": 10},
+    "height_in": {"min": 10, "max": 14},
+    "spread_in": {"min": 10, "max": 12},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Titan is a flat-leaf (French) parsley bred for compact, weather-resistant growth and a profusion of small, finely divided, dark green leaves. Its flavor is notably stronger and sweeter than curly-leaf types, making it a favorite for cooks who want intense parsley taste rather than just a garnish. The tidy, uniform habit tolerates close spacing and holds up well to repeated cutting without becoming ragged. Grown as an annual, it can overwinter in milder zones into a biennial second year, though leaves coarsen and flavor declines once the plant begins to bolt and flower.",
+    "sources": ["RHS Plant Finder", "Thompson & Morgan"]
+  }
+]
