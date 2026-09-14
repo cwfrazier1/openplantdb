@@ -1,0 +1,58 @@
+[
+  {
+    "slug": "borage-alba",
+    "common_name": "White Borage",
+    "scientific_name": "Borago officinalis 'Alba'",
+    "category": "herb",
+    "subcategory": "annual",
+    "days_to_germination": {"min": 7, "max": 14},
+    "germination_soil_temp_f": {"min": 65, "max": 75},
+    "days_to_maturity": {"min": 50, "max": 70},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": -2, "max": 2},
+      "note": "Direct sow around the last frost date; like the species, 'Alba' has a fragile taproot and resents transplanting, so sow it where it is to grow."
+    },
+    "usda_zones": {"min": 3, "max": 11},
+    "spacing_in": {"min": 12, "max": 18},
+    "height_in": {"min": 18, "max": 36},
+    "spread_in": {"min": 12, "max": 18},
+    "sun": "full",
+    "water": "low",
+    "directions": "Sow seed 1/2 inch deep directly in its permanent spot in any well-drained soil, including poor or dry ground, in full sun to light partial shade. 'Alba' is a true-breeding white-flowered strain of common borage, differing from the species only in flower color — pure white, star-shaped blooms replace the usual vivid blue — while retaining the same fuzzy gray-green leaves and mild cucumber flavor. The white flowers show up beautifully against the foliage and are prized by cooks for garnishing pale dishes, drinks, and desserts where a blue flower would clash. Deadhead spent flower stalks to extend bloom and limit volunteer seedlings, since it crosses readily with blue-flowered borage if both are grown nearby.",
+    "scientific_name_note": null,
+    "sources": ["Chiltern Seeds — Borago officinalis 'Alba'", "Royal Horticultural Society — Borago officinalis", "Baker Creek Heirloom Seeds — white borage"]
+  },
+  {
+    "slug": "hyssopus-officinalis-albus",
+    "common_name": "White Hyssop",
+    "scientific_name": "Hyssopus officinalis 'Albus'",
+    "category": "herb",
+    "subcategory": "white-flowered culinary and medicinal hyssop cultivar",
+    "days_to_germination": {"min": 7, "max": 14},
+    "germination_soil_temp_f": {"min": 60, "max": 70},
+    "days_to_maturity": {"min": 75, "max": 100},
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": -8, "max": -6},
+      "note": "Start seed indoors 6–8 weeks before last frost, surface-sown or barely covered, in full sun in lean, very well-drained, slightly alkaline soil in zone 3–9; White Hyssop is a true-breeding white-flowered seed strain of common hyssop, matching the species in aromatic foliage and culinary/medicinal use."
+    },
+    "usda_zones": {"min": 3, "max": 9},
+    "spacing_in": {"min": 12, "max": 18},
+    "height_in": {"min": 18, "max": 24},
+    "spread_in": {"min": 12, "max": 18},
+    "sun": "full",
+    "water": "low",
+    "directions": "Sow White Hyssop indoors in a warm, well-drained starting mix; transplant after hardening off into lean, dry to moderately moist, alkaline-leaning soil in full sun. Prune back hard after the first flush of bloom to keep plants dense and bushy and to encourage a second round of flowers. The crisp white flower spikes make a striking contrast when planted alongside the standard blue-flowered species or the pink 'Roseus' strain in an herb or pollinator border, and the strongly camphor-scented leaves are harvested the same way as standard hyssop for bittering liqueurs, savory rubs, and traditional teas. Being a seed strain, some plants may show faint blush tones; rogue out off-color seedlings if pure white bloom is desired.",
+    "scientific_name_note": null,
+    "sources": ["Richters Herbs — Hyssopus officinalis 'Albus'", "Strictly Medicinal Seeds — hyssop color strains", "Herb Society of America — Hyssopus officinalis"]
+  }
+]

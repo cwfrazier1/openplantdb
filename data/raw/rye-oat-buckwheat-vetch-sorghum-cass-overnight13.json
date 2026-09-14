@@ -1,0 +1,439 @@
+[
+  {
+    "slug": "oklon-rye",
+    "common_name": "Oklon Cereal Rye (High-Forage Oklahoma-Bred Winter Rye)",
+    "scientific_name": "Secale cereale 'Oklon'",
+    "category": "cover-crop",
+    "subcategory": "grass",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 40,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 150,
+      "max": 210
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -2
+      },
+      "note": "Direct sow 1-1.5 inches deep in fall into a well-drained seedbed; Oklon establishes quickly and produces noticeably more fall and early-winter forage than its parent line, making it a strong choice where early grazing or ground cover matters most."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 1,
+      "max": 2
+    },
+    "height_in": {
+      "min": 48,
+      "max": 66
+    },
+    "spread_in": {
+      "min": 4,
+      "max": 8
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Broadcast or drill seed into a firm, well-drained fall seedbed; Oklon was selected at the Noble Research Institute in Ardmore, Oklahoma from an individual plant found within the older Maton variety and released jointly with Oklahoma State University in 1993. Its main advantage over Maton and other southern Great Plains ryes is markedly faster fall and early-winter growth, giving graziers an earlier first grazing pass while still delivering strong total-season forage and biomass. Like other cereal ryes it tolerates poor, sandy, or compacted soils better than most cover crops and builds an extensive fibrous root system that scavenges residual nitrogen and controls winter erosion. Mow, roll, or till under in spring at least two to three weeks before the following crop is planted to let allelopathic residues break down.",
+    "sources": [
+      "Oklahoma State University Extension",
+      "Noble Research Institute",
+      "USDA NRCS Plant Materials Program"
+    ]
+  },
+  {
+    "slug": "florida-401-rye",
+    "common_name": "Florida 401 Rye (Florida Black Rye, Fast-Establishing Southern Winter Grazing Rye)",
+    "scientific_name": "Secale cereale 'Florida 401'",
+    "category": "cover-crop",
+    "subcategory": "grass",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 40,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 140,
+      "max": 200
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {
+        "min": -10,
+        "max": -3
+      },
+      "note": "Direct sow 1-1.5 inches deep in fall as soon as soil is workable; Florida 401 is prized for extremely rapid establishment, often producing usable forage or ground cover in as little as two weeks under favorable conditions."
+    },
+    "usda_zones": {
+      "min": 6,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 1,
+      "max": 2
+    },
+    "height_in": {
+      "min": 48,
+      "max": 60
+    },
+    "spread_in": {
+      "min": 4,
+      "max": 8
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Broadcast or drill seed into a well-prepared fall seedbed; Florida 401, also sold as Florida Black Rye, is a long-standing Deep South selection valued for coming up faster than almost any other cereal rye, an important trait for growers racing to establish a windbreak, erosion barrier, or winter cattle and deer forage before cold weather sets in. It grows into a dense 4- to 5-foot stand with an extensive root system that scavenges leftover nitrogen, suppresses cool-season weeds, and breaks up compacted ground as it decomposes. Graze, mow, roll, or till under in spring, leaving two to three weeks before the following planting so residue can break down and any allelopathic effects fade.",
+    "sources": [
+      "University of Florida IFAS Extension",
+      "USDA NRCS Plant Materials Program",
+      "Southern Cover Crops Council"
+    ]
+  },
+  {
+    "slug": "ogle-oat",
+    "common_name": "Ogle Oat (BYDV-Tolerant Midwestern Forage and Cover Crop Oat)",
+    "scientific_name": "Avena sativa 'Ogle'",
+    "category": "cover-crop",
+    "subcategory": "grass",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 40,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 90,
+      "max": 110
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "soil_workable",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 3
+      },
+      "note": "Broadcast or drill into cool, workable spring soil as early as the ground allows, or sow in late summer for a fall-terminated cover; Ogle is a mid-tall, early-maturing oat with excellent lodging resistance and tolerance to barley yellow dwarf virus."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 8
+    },
+    "spacing_in": {
+      "min": 1,
+      "max": 3
+    },
+    "height_in": {
+      "min": 36,
+      "max": 48
+    },
+    "spread_in": {
+      "min": 4,
+      "max": 8
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Broadcast or drill seed into firm, cool soil and rake in shallowly for even emergence; Ogle was developed by oat breeder Charles M. Brown at the University of Illinois and released in the early 1980s, remaining a top performer for over a decade because of its excellent tolerance to barley yellow dwarf virus, a disease that devastates many other oat varieties. It grows into a mid-tall, leafy stand with strong straw and good lodging resistance, producing abundant biomass whether grown for grain, hay, or a nitrogen-scavenging cover crop. As a fall-sown cover it winterkills reliably north of about zone 7, leaving an easy-to-manage mat of residue by spring; as a spring crop it matures ahead of summer disease pressure. It also pairs well as a companion or nurse crop for newly seeded clover or other slow-establishing legumes.",
+    "sources": [
+      "University of Illinois Crop Sciences",
+      "SARE Cover Crop Database"
+    ]
+  },
+  {
+    "slug": "jerry-oat",
+    "common_name": "Jerry Oat (Tall Standing Northern Plains Forage and Cover Crop Oat)",
+    "scientific_name": "Avena sativa 'Jerry'",
+    "category": "cover-crop",
+    "subcategory": "grass",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 40,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 90,
+      "max": 115
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "soil_workable",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 3
+      },
+      "note": "Broadcast or drill into cool, workable spring soil as early as the ground can be worked; Jerry is a tall, mid-season oat with strong straw and very good standability, well suited to forage, green manure, or a weed-suppressing biomass cover."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 8
+    },
+    "spacing_in": {
+      "min": 1,
+      "max": 3
+    },
+    "height_in": {
+      "min": 40,
+      "max": 52
+    },
+    "spread_in": {
+      "min": 4,
+      "max": 8
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Broadcast or drill seed into firm, cool spring soil and rake in shallowly; Jerry was released by the North Dakota Agricultural Experiment Station in 1994 and quickly became a favorite Northern Plains variety for its combination of tall growth, very strong straw, and high test weight, all without sacrificing standability. Its dense, lush foliage produces heavy biomass that shades out competing weeds while its fibrous roots scavenge nitrogen and improve soil tilth. Jerry is resistant to stem rust and moderately resistant to crown rust, making it a dependable choice for growers wanting a vigorous, low-maintenance oat for forage, green manure, or a fast-growing spring cover crop ahead of a later planting.",
+    "sources": [
+      "North Dakota State University Agricultural Experiment Station",
+      "South Dakota State University Extension"
+    ]
+  },
+  {
+    "slug": "manisoba-buckwheat",
+    "common_name": "AC Manisoba Buckwheat (Large-Seeded Canadian Cover Crop Buckwheat)",
+    "scientific_name": "Fagopyrum esculentum 'Manisoba'",
+    "category": "cover-crop",
+    "subcategory": "broadleaf cover crop",
+    "days_to_germination": {
+      "min": 3,
+      "max": 7
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 70,
+      "max": 90
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 1,
+        "max": 10
+      },
+      "note": "Broadcast or drill into warm soil after all danger of frost has passed; Manisoba establishes and covers ground faster than older large-seeded varieties like Manor, making it a strong summer smother crop between spring and fall plantings."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 2,
+      "max": 4
+    },
+    "height_in": {
+      "min": 24,
+      "max": 40
+    },
+    "spread_in": {
+      "min": 6,
+      "max": 10
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Broadcast or drill seed shallowly into warm, workable soil once frost danger has passed; buckwheat germinates and grows fast enough to smother summer weeds within weeks. AC Manisoba was developed at Agriculture and Agri-Food Canada's research station in Morden, Manitoba and released in the early 1990s, bred for larger seed size, better early ground cover, and higher yield than the older Manor variety while remaining well adapted to short-season northern growing regions. Its extensive fine roots scavenge phosphorus from otherwise unavailable soil sources and its rapid canopy closure outcompetes weeds without any herbicide input. Mow or till under at first flowering, about 35 to 45 days after sowing, before seed set to prevent volunteer buckwheat the following season, or let a stand flower longer to draw in pollinators.",
+    "sources": [
+      "Agriculture and Agri-Food Canada",
+      "Manitoba Agriculture",
+      "Cornell University Cover Crop Program"
+    ]
+  },
+  {
+    "slug": "au-durbin-sunn-hemp",
+    "common_name": "AU Durbin Sunn Hemp (Day-Neutral High-Leaf-Quality Sunn Hemp)",
+    "scientific_name": "Crotalaria juncea 'AU Durbin'",
+    "category": "cover-crop",
+    "subcategory": "warm-season nitrogen-fixing cover crop",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 95
+    },
+    "days_to_maturity": {
+      "min": 55,
+      "max": 80
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 1,
+        "max": 8
+      },
+      "note": "Broadcast or drill into warm soil after last frost; like AU Golden, AU Durbin is day-neutral and flowers on a fixed schedule rather than waiting for short autumn days, so it can produce a viable home seed crop even in the temperate Southeast."
+    },
+    "usda_zones": {
+      "min": 6,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 2,
+      "max": 4
+    },
+    "height_in": {
+      "min": 48,
+      "max": 96
+    },
+    "spread_in": {
+      "min": 6,
+      "max": 12
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Broadcast or drill seed into warm, well-drained soil once temperatures stay reliably above 65\u00b0F, since this fast-growing tropical legume stalls in cool weather. AU Durbin was developed at Auburn University from a Sri Lankan-origin accession obtained through the National Plant Germplasm System and released in 2014 as a day-neutral, open-pollinated companion to AU Golden, distinguished by especially high leaf quality that makes it attractive as livestock forage as well as a nitrogen-fixing soil builder. Its rapid summer growth suppresses weeds and its abundant late-season flowers draw in pollinators before the crop is mowed or crimped for quick-decomposing, nitrogen-rich biomass. Terminate at first bloom for maximum soil-building value, or allow a portion to set seed to build a regional seed supply.",
+    "sources": [
+      "Auburn University College of Agriculture",
+      "USDA Natural Resources Conservation Service"
+    ]
+  },
+  {
+    "slug": "madison-hairy-vetch",
+    "common_name": "Madison Hairy Vetch (Extra-Cold-Hardy Northern Plains Winter Cover Vetch)",
+    "scientific_name": "Vicia villosa 'Madison'",
+    "category": "cover-crop",
+    "subcategory": "legume",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 50,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 200,
+      "max": 270
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -4
+      },
+      "note": "Direct sow 0.5-1 inch deep 6-8 weeks before the first fall frost so plants build enough root reserves to survive winter; Madison was bred in Nebraska specifically for superior cold tolerance and winter survival, making it a better fit than standard hairy vetch for northern climates."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 8
+    },
+    "spacing_in": {
+      "min": 2,
+      "max": 4
+    },
+    "height_in": {
+      "min": 12,
+      "max": 36
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Broadcast or drill seed into a firm fall seedbed, inoculating with the appropriate rhizobium if hairy vetch has not been grown in the field recently, since this is a nitrogen-fixing legume. Madison was developed in Nebraska and selected specifically for its unusually strong winter hardiness, giving it better survival than standard hairy vetch strains in the colder winters of the northern Great Plains and upper Midwest, where less cold-tolerant vetches can suffer significant winterkill. Like other hairy vetches it sprawls and climbs over winter, then resumes vigorous growth in spring, fixing substantial nitrogen and producing a thick mat of biomass that suppresses spring weeds. Terminate by mowing, rolling, or tilling at early bloom, roughly two to three weeks before the following crop is planted, since vetch residue can tie up nitrogen briefly as it breaks down if terminated too early or too late.",
+    "sources": [
+      "USDA Agricultural Research Service, Lincoln, Nebraska",
+      "USDA NRCS Plant Materials Program",
+      "SARE Cover Crop Database"
+    ]
+  },
+  {
+    "slug": "rox-orange-sorghum",
+    "common_name": "Rox Orange Sorghum (Waconia, Heirloom Wisconsin-Bred Syrup Sorghum)",
+    "scientific_name": "Sorghum bicolor 'Rox Orange'",
+    "category": "cover-crop",
+    "subcategory": "warm-season grain and syrup sorghum",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 95
+    },
+    "days_to_maturity": {
+      "min": 100,
+      "max": 115
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 1,
+        "max": 4
+      },
+      "note": "Direct sow after soil has warmed well past last frost; Rox Orange, also sold as Waconia, is a medium-early syrup sorghum bred at the Wisconsin Agricultural Experiment Station, prized for its bright orange seed heads and reliable performance in shorter-season northern growing areas."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 4,
+      "max": 8
+    },
+    "height_in": {
+      "min": 84,
+      "max": 108
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 18
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Direct sow seed 1 inch deep into warm soil once nighttime temperatures stay reliably above 60\u00b0F, since sweet sorghum is a heat-loving warm-season crop. Rox Orange was bred at the Wisconsin Agricultural Experiment Station as a medium-early syrup variety, released under the trade name Waconia, and remains popular with northern growers for reaching juicing maturity in about 110 days, well ahead of many Deep South syrup varieties. The canes accumulate a sweet, high-Brix juice topped by showy bright orange seed heads that also provide grain for livestock feed or popping, while the leaves and spent canes make good forage or mulch after pressing. Harvest for syrup when seed reaches the hard-dough stage, strip the leaves, press the canes promptly, and cook the juice down to finished syrup the same day for best flavor and color.",
+    "sources": [
+      "Wisconsin Agricultural Experiment Station",
+      "Kerr Center for Sustainable Agriculture",
+      "National Sweet Sorghum Producers and Processors Association"
+    ]
+  }
+]

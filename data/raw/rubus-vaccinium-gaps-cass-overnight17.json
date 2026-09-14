@@ -1,0 +1,83 @@
+[
+  {
+    "slug": "cheyenne-blackberry",
+    "common_name": "Cheyenne Blackberry (Vigorous Early-Season Thorny Blackberry)",
+    "scientific_name": "Rubus 'Cheyenne'",
+    "category": "berry",
+    "subcategory": "bramble",
+    "days_to_germination": {"min": 30, "max": 90},
+    "germination_soil_temp_f": {"min": 60, "max": 70},
+    "days_to_maturity": {"min": 365, "max": 548},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Plant dormant canes or containerized transplants in late winter through early spring; space 3-4 feet apart in rows 8-10 feet apart and trellis the vigorous thorny canes. Fruiting occurs on second-year canes, typically late May through June in zones 7-9."
+    },
+    "usda_zones": {"min": 6, "max": 9},
+    "spacing_in": {"min": 36, "max": 48},
+    "height_in": {"min": 60, "max": 96},
+    "spread_in": {"min": 36, "max": 48},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant dormant canes in well-drained, fertile, slightly acidic soil (pH 6.0-6.5) and provide a two-wire trellis to support the vigorous, thorny canes. Cheyenne is an erect University of Arkansas blackberry released in 1977, prized for its early-to-midseason ripening and consistently high yields, making it a longtime favorite for pick-your-own plantings. Berries are large, sweet, and firm with a distinctive hint of raspberry flavor, ripening ahead of most other Arkansas-bred thorny cultivars. Because it retains thorns, plant it where hand-harvesting around the canes is acceptable in exchange for its productivity and fruit quality. Prune out fruited floricanes immediately after harvest and thin new primocanes to the strongest 4-6 per plant to maintain vigor and berry size in subsequent years.",
+    "sources": ["University of Arkansas Division of Agriculture Fruit Breeding — Blackberry Cultivar History", "LSU AgCenter — Blackberry Growing Guide", "Texas A&M AgriLife Extension — Blackberry Variety Trials"]
+  },
+  {
+    "slug": "comanche-blackberry",
+    "common_name": "Comanche Blackberry (Vigorous Erect Thorny Processing Blackberry)",
+    "scientific_name": "Rubus 'Comanche'",
+    "category": "berry",
+    "subcategory": "bramble",
+    "days_to_germination": {"min": 30, "max": 90},
+    "germination_soil_temp_f": {"min": 60, "max": 70},
+    "days_to_maturity": {"min": 365, "max": 548},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Plant dormant canes or containerized transplants in late winter through early spring; space 3-4 feet apart in rows 8-10 feet apart and trellis the strong, moderately thorny canes. Fruiting occurs on second-year canes, typically late May through June in zones 6-9."
+    },
+    "usda_zones": {"min": 6, "max": 9},
+    "spacing_in": {"min": 36, "max": 48},
+    "height_in": {"min": 60, "max": 96},
+    "spread_in": {"min": 36, "max": 48},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant dormant canes in well-drained, fertile, slightly acidic soil (pH 6.0-6.5) and trellis the strong, moderately thorny canes for easier harvest. Comanche is an erect University of Arkansas blackberry originating from a 1965 cross of Darrow and Brazos, a sister seedling of Cherokee, and long valued for consistently outyielding older varieties like Brazos. Berries are firm and well-flavored, and the vigorous, upright canes hold up well to mechanical harvesting, making Comanche a reliable choice for both processing plantings and home gardens across the Gulf South. Prune out fruited floricanes immediately after harvest and thin new primocanes to the strongest 4-6 canes per plant to sustain yield and cane vigor in following years.",
+    "sources": ["University of Arkansas Division of Agriculture Fruit Breeding — Blackberry Cultivar History", "ISHS — The Blackberry Breeding Program at the University of Arkansas: Thirty-Plus Years of Progress", "Texas A&M AgriLife Extension — Blackberry Variety Trials"]
+  },
+  {
+    "slug": "aliceblue-blueberry",
+    "common_name": "Aliceblue Rabbiteye Blueberry (Early-Season Low-Chill Florida Blueberry)",
+    "scientific_name": "Vaccinium virgatum 'Aliceblue'",
+    "category": "berry",
+    "subcategory": "blueberry",
+    "days_to_germination": {"min": 30, "max": 90},
+    "germination_soil_temp_f": {"min": 60, "max": 70},
+    "days_to_maturity": {"min": 730, "max": 1095},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": -4, "max": 4},
+      "note": "Plant dormant, container-grown bushes in late winter to early spring in highly acidic soil; Aliceblue has a low chill requirement and is among the earliest-flowering and earliest-ripening rabbiteye cultivars. Plant with a compatible early-season pollinator other than Beckyblue, since the two are cross-incompatible."
+    },
+    "usda_zones": {"min": 7, "max": 9},
+    "spacing_in": {"min": 72, "max": 96},
+    "height_in": {"min": 60, "max": 96},
+    "spread_in": {"min": 48, "max": 96},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in acidic, well-drained soil (pH 4.5-5.2) amended with pine bark or peat, in full sun with a compatible early-season pollinator nearby. Aliceblue was released in 1978 by the University of Florida IFAS to give North and Central Florida growers a rabbiteye that fruits reliably across both high- and low-chill winters, and it remains one of the earliest-flowering, earliest-ripening rabbiteye selections available. Berries are medium-sized and sweet on a vigorous, spreading bush. Because it flowers very early, site it with good air drainage to reduce frost risk to blooms during a late cold snap, and pair it with a pollinizer other than Beckyblue due to known cross-incompatibility between the two. Fertilize lightly with acid-forming fertilizer in early spring, mulch well, and prune out old wood each winter to sustain productive new fruiting canes.",
+    "sources": ["University of Florida IFAS Extension — Rabbiteye Blueberry Cultivars", "University of Georgia Cooperative Extension — Blueberry Variety Profiles", "Alabama Cooperative Extension System — Home Gardening: Rabbiteye Blueberries"]
+  }
+]
