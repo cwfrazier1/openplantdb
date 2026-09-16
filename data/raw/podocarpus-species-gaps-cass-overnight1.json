@@ -1,0 +1,56 @@
+[
+  {
+    "slug": "podocarpus-latifolius",
+    "common_name": "Real Yellowwood (South African Yellowwood)",
+    "scientific_name": "Podocarpus latifolius",
+    "category": "flower",
+    "subcategory": "shade-tolerant evergreen conifer",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 1095, "max": 3650},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 6},
+      "note": "Plant container-grown specimens in spring in well-drained, fertile soil in partial shade to full sun; young trees tolerate deep shade under a forest canopy and only need more light as they mature."
+    },
+    "usda_zones": {"min": 8, "max": 11},
+    "spacing_in": {"min": 96, "max": 180},
+    "height_in": {"min": 240, "max": 480},
+    "spread_in": {"min": 120, "max": 240},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Real Yellowwood is South Africa's national tree, a slow-growing forest conifer with dense, glossy, broad, dark-green needle-like leaves quite unlike the narrower foliage of most other podocarps. Plant in well-drained, fertile soil in partial shade, since seedlings and young trees are true forest-floor natives that establish best under filtered light before gradually accepting more sun as they gain height. It responds well to shearing and is frequently trained as a clipped hedge, screen, or formal specimen in warm-climate gardens, in addition to being grown as a stately shade tree where space allows. Established plants are moderately drought-tolerant and largely untroubled by pests, but they have little cold tolerance and are best reserved for milder winters.",
+    "sources": ["PlantZAfrica (South African National Biodiversity Institute)", "Trees and Shrubs Online (International Dendrology Society)"]
+  },
+  {
+    "slug": "podocarpus-falcatus",
+    "common_name": "Outeniqua Yellowwood (Bastard Yellowwood)",
+    "scientific_name": "Podocarpus falcatus",
+    "category": "flower",
+    "subcategory": "shade-tolerant evergreen conifer",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 1095, "max": 3650},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 6},
+      "note": "Plant container-grown specimens in spring in well-drained, fertile soil in partial shade to full sun; give this large forest tree ample overhead room to reach its eventual size."
+    },
+    "usda_zones": {"min": 9, "max": 11},
+    "spacing_in": {"min": 180, "max": 300},
+    "height_in": {"min": 360, "max": 600},
+    "spread_in": {"min": 240, "max": 360},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Outeniqua Yellowwood is one of Africa's tallest indigenous trees, a stately forest conifer with narrow, glossy, dark-green leaves and a distinctive tiered, pyramidal crown when young that opens into a broad, spreading canopy with age. Plant in well-drained, fertile soil in partial shade while young, since it naturally regenerates under the canopy of taller forest trees, then give it full sun as it matures into a substantial specimen or shade tree. Growth is slow, especially in its early years, but established trees are long-lived, wind-firm, and largely free of pests and disease. It has little tolerance for hard freezes and performs best in warm, frost-free or nearly frost-free gardens with consistent moisture.",
+    "sources": ["PlantZAfrica (South African National Biodiversity Institute)", "Trees and Shrubs Online (International Dendrology Society)"]
+  }
+]

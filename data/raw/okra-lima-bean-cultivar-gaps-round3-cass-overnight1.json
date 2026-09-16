@@ -1,0 +1,56 @@
+[
+  {
+    "slug": "dr-martin-lima-bean",
+    "common_name": "Dr. Martin Lima Bean (Giant-Podded Heirloom Pole Lima)",
+    "scientific_name": "Phaseolus lunatus 'Dr. Martin'",
+    "category": "vegetable",
+    "subcategory": "legume",
+    "days_to_germination": {"min": 7, "max": 14},
+    "germination_soil_temp_f": {"min": 70, "max": 85},
+    "days_to_maturity": {"min": 85, "max": 100},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 2, "max": 5},
+      "note": "Direct sow once soil is thoroughly warm, since Dr. Martin is a rampant pole lima that needs the full length of a hot summer to fill its outsized pods; set a sturdy 8-foot or taller trellis at planting time."
+    },
+    "usda_zones": {"min": 5, "max": 10},
+    "spacing_in": {"min": 6, "max": 12},
+    "height_in": {"min": 144, "max": 240},
+    "spread_in": {"min": 24, "max": 36},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Sow seed an inch deep in warm, well-worked soil once all frost danger has passed, training vines up a tall, sturdy trellis or pole from the start since this variety climbs far higher than most garden limas. Dr. Martin is a pre-1900 heirloom pole lima known for its enormous vigor and outsized flat pods, each holding three to four quarter-sized beans, borne on vines that can top ten feet in a long, hot season. Pick pods at the plump green-shell stage for the best flavor and tenderness, or leave them to dry fully on the vine for storage beans; consistent picking keeps the vines setting new flowers through summer heat. Because the vines invest heavily in height before bearing, give plants a long, warm season and avoid crowding so pods lower on the trellis still get good airflow and light.",
+    "sources": ["Southern Exposure Seed Exchange", "Sow True Seed", "Vermont Bean Seed Company"]
+  },
+  {
+    "slug": "okinawa-pink-okra",
+    "common_name": "Okinawa Pink Okra (Ribless Smooth-Podded Pink Heirloom Okra)",
+    "scientific_name": "Abelmoschus esculentus 'Okinawa Pink'",
+    "category": "vegetable",
+    "subcategory": "okra",
+    "days_to_germination": {"min": 7, "max": 14},
+    "germination_soil_temp_f": {"min": 70, "max": 95},
+    "days_to_maturity": {"min": 55, "max": 65},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 0, "max": 2},
+      "note": "Direct sow after soil has warmed well past last frost; soaking seed overnight speeds germination. Okinawa Pink is a fast, ribless okra prized for smooth pink pods that hold their color and tenderness even past typical picking size."
+    },
+    "usda_zones": {"min": 6, "max": 11},
+    "spacing_in": {"min": 12, "max": 18},
+    "height_in": {"min": 48, "max": 72},
+    "spread_in": {"min": 24, "max": 30},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Sow seed a half inch deep directly in the garden once soil is thoroughly warm, thinning seedlings to a foot or more apart in fertile, well-drained soil in full sun. Okinawa Pink is a heirloom from Okinawa, Japan valued for smooth, ribless, rosy-pink pods that resist the toughening and stringiness common in other okra as pods pass the ideal picking size, making the harvest window more forgiving for home gardeners. Pods are best cut at three to six inches long for eating fresh, pickled, or sauteed, though the pink color fades to green when cooked. Harvest every day or two once plants begin producing to keep the compact, branching plants flowering steadily through the heat of summer.",
+    "sources": ["Southern Exposure Seed Exchange", "Baker Creek Heirloom Seeds", "Sow True Seed"]
+  }
+]

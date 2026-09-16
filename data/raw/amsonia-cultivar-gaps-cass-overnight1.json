@@ -1,0 +1,83 @@
+[
+  {
+    "slug": "willowleaf-bluestar-amsonia",
+    "common_name": "Willowleaf Bluestar (Narrow-Leaved Eastern Blue Star)",
+    "scientific_name": "Amsonia tabernaemontana var. salicifolia",
+    "category": "flower",
+    "subcategory": "native pollinator perennial",
+    "days_to_germination": {"min": 14, "max": 30},
+    "germination_soil_temp_f": {"min": 60, "max": 70},
+    "days_to_maturity": {"min": 365, "max": 730},
+    "maturity_from": "transplant",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 6},
+      "note": "Direct sow stratified seed or set out divisions in spring in moist, well-drained soil in full sun to partial shade; this narrow-leaved variety tolerates wetter sites than the straight species."
+    },
+    "usda_zones": {"min": 3, "max": 9},
+    "spacing_in": {"min": 24, "max": 36},
+    "height_in": {"min": 24, "max": 36},
+    "spread_in": {"min": 24, "max": 36},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "This willow-leaved variety of eastern bluestar differs from the typical species in its narrower, more slender foliage, giving the vase-shaped clump a softer, finer texture through the growing season. Clusters of pale blue, star-shaped flowers with white throats open in late spring above the foliage, followed by clean bright-green summer growth that turns a reliable golden yellow in fall. It adapts readily to clay, sand, or loam and tolerates wetter soils better than most other bluestars, making it useful along pond edges and rain gardens as well as in ordinary borders. Established clumps are long-lived, deer- and rabbit-resistant, and need only an early-summer haircut after flowering to keep the mound tidy.",
+    "sources": ["North Carolina State Extension Gardener Plant Toolbox", "Missouri Botanical Garden Plant Finder", "Lurie Garden"]
+  },
+  {
+    "slug": "starstruck-amsonia",
+    "common_name": "Starstruck Amsonia (Compact Chartreuse-Veined Hybrid Blue Star)",
+    "scientific_name": "Amsonia 'Starstruck'",
+    "category": "flower",
+    "subcategory": "native pollinator perennial",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 365, "max": 730},
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 6},
+      "note": "Plant container-grown divisions in spring in well-drained, average to moist soil in full sun."
+    },
+    "usda_zones": {"min": 4, "max": 9},
+    "spacing_in": {"min": 24, "max": 36},
+    "height_in": {"min": 18, "max": 22},
+    "spread_in": {"min": 30, "max": 36},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Starstruck is a hybrid bluestar bred from a cross of Amsonia rigida and A. tabernaemontana, selected for a dense, rounded habit well under two feet tall despite spreading nearly three feet wide. Clusters of light blue, star-shaped flowers open in late spring, and as they fade the foliage brightens from dark olive-green to a lively chartreuse along the leaf midribs, giving the plant a two-toned look through summer before it turns gold in fall. Its low, mounded form holds up without staking and fits neatly at the front of a border or in a mixed pollinator planting where taller amsonias would overwhelm the space. Like other bluestars it is deer-resistant and essentially trouble-free once established, needing only a light shearing after bloom to maintain its shape.",
+    "sources": ["Walters Gardens", "Missouri Botanical Garden Plant Finder", "Horticulture Magazine"]
+  },
+  {
+    "slug": "butterscotch-amsonia",
+    "common_name": "Butterscotch Amsonia (Threadleaf Blue Star with Amber Fall Color)",
+    "scientific_name": "Amsonia hubrichtii 'Butterscotch'",
+    "category": "flower",
+    "subcategory": "native pollinator perennial",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 365, "max": 730},
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 6},
+      "note": "Plant container-grown divisions in spring in well-drained soil in full sun; tolerates a wide range of soil types once established."
+    },
+    "usda_zones": {"min": 4, "max": 9},
+    "spacing_in": {"min": 30, "max": 36},
+    "height_in": {"min": 30, "max": 36},
+    "spread_in": {"min": 36, "max": 48},
+    "sun": "full",
+    "water": "low",
+    "directions": "Butterscotch is a selection of threadleaf bluestar chosen for slightly reddish-tinged stems and an especially vivid gold-to-amber fall display that outshines the species. Fine, needle-like foliage gives the mounded clump a soft, feathery texture all season, topped in late spring by clusters of small powder-blue, star-shaped flowers that draw bees and butterflies. It grows into a substantial 3-foot mound by autumn and holds its shape without staking or support, tolerating heat, humidity, and drought once roots are established. Leave the dried stems standing into winter for structure and habitat, then cut back in early spring before new growth emerges.",
+    "sources": ["High Country Gardens", "Missouri Botanical Garden Plant Finder", "Chicago Botanic Garden"]
+  }
+]

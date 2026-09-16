@@ -1,0 +1,83 @@
+[
+  {
+    "slug": "aspidistra-lurida",
+    "common_name": "Bold-Leaf Cast Iron Plant",
+    "scientific_name": "Aspidistra lurida",
+    "category": "flower",
+    "subcategory": "deep shade evergreen perennial",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 365, "max": 730},
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 8},
+      "note": "Plant rhizome divisions in spring in moist, humus-rich, well-drained soil in deep shade; mulch the first winter in zone 7 and keep evenly moist until established."
+    },
+    "usda_zones": {"min": 7, "max": 11},
+    "spacing_in": {"min": 12, "max": 18},
+    "height_in": {"min": 10, "max": 18},
+    "spread_in": {"min": 12, "max": 24},
+    "sun": "shade",
+    "water": "low",
+    "directions": "This East Asian forest-floor species is the type species of the genus and carries broader, somewhat shorter and thinner leaves than the common cast iron plant, spreading steadily by rhizome into a dense, low clump. It tolerates the same deep, dry, root-filled shade under mature trees that eliminates most other perennials, and its inconspicuous purplish flowers are produced at soil level in late winter, often hidden under fallen leaves. Divide congested clumps in spring only when more plants are wanted, since established plantings resent disturbance and recover slowly. Give it consistent moisture the first year; afterward it needs almost no supplemental water or fertilizer.",
+    "sources": ["Missouri Botanical Garden Plant Finder", "Kew Plants of the World Online"]
+  },
+  {
+    "slug": "aspidistra-elatior-snow-cap",
+    "common_name": "Snow Cap Cast Iron Plant",
+    "scientific_name": "Aspidistra elatior 'Snow Cap'",
+    "category": "flower",
+    "subcategory": "deep shade evergreen perennial",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 365, "max": 1095},
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 8},
+      "note": "Plant rhizome divisions in spring in humus-rich, well-drained soil in bright to deep shade; young plants take a couple of seasons to develop full white tipping, so be patient."
+    },
+    "usda_zones": {"min": 7, "max": 11},
+    "spacing_in": {"min": 18, "max": 24},
+    "height_in": {"min": 24, "max": 30},
+    "spread_in": {"min": 18, "max": 30},
+    "sun": "shade",
+    "water": "low",
+    "directions": "This Japanese selection carries the same broad, leathery, strap-shaped leaves as the species but with the top third of each leaf flushed a striking solid white, bordered by a narrow green margin, giving established clumps a frosted, two-tone look that shows well against dark foliage. The white tipping is most dramatic on lean, unamended soil and can fade somewhat with rich fertile feeding, so err on the side of neglect once the clump is established. Like other cast iron plants it tolerates the deep, dry shade and root competition under mature trees that few other perennials can handle, needing only occasional water during extended drought. Keep it out of direct sun, which scorches both the green and white portions of the leaf.",
+    "sources": ["Plant Delights Nursery", "JC Raulston Arboretum Plant Database"]
+  },
+  {
+    "slug": "aspidistra-minutiflora-leopard",
+    "common_name": "Leopard Narrow-Leaf Cast Iron Plant",
+    "scientific_name": "Aspidistra minutiflora 'Leopard'",
+    "category": "flower",
+    "subcategory": "deep shade evergreen perennial",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 365, "max": 1095},
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 8},
+      "note": "Plant rhizome divisions in spring in humus-rich, well-drained soil in deep shade; grow as a container or houseplant north of zone 7b."
+    },
+    "usda_zones": {"min": 7, "max": 10},
+    "spacing_in": {"min": 12, "max": 18},
+    "height_in": {"min": 24, "max": 32},
+    "spread_in": {"min": 12, "max": 24},
+    "sun": "shade",
+    "water": "low",
+    "directions": "Collected in China by plantsman Jim Waddick, this cultivar forms a dense, symmetrical clump of narrow, ribbon-like leaves only about half an inch wide, each one heavily speckled with large golden-yellow spots that give the clump a leopard-print texture unlike the broad-leaved forms of cast iron plant. Its fine texture makes an effective contrast planting next to bolder shade foliage such as hosta or ferns, and it shares the extreme shade and drought tolerance of the genus once established. Where marginally hardy, mulch heavily over winter or grow it in a pot that can be moved under cover during hard freezes. Minimal fertilizing and no regular watering are needed once the clump is established in the ground.",
+    "sources": ["Plant Delights Nursery / Juniper Level Botanic Garden", "Royal Horticultural Society"]
+  }
+]

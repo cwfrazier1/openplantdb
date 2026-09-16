@@ -1,0 +1,83 @@
+[
+  {
+    "slug": "autumn-wings-gourd",
+    "common_name": "Autumn Wings Gourd (Winged Ornamental Gourd)",
+    "scientific_name": "Cucurbita pepo var. ovifera 'Autumn Wings'",
+    "category": "vegetable",
+    "subcategory": "ornamental gourd",
+    "days_to_germination": {"min": 7, "max": 14},
+    "germination_soil_temp_f": {"min": 70, "max": 90},
+    "days_to_maturity": {"min": 95, "max": 105},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 0, "max": 2},
+      "note": "Direct sow once soil has warmed well past 70F, since cool soil causes poor germination; provide a sturdy fence or trellis so the long-necked fruit hangs and forms straight."
+    },
+    "usda_zones": {"min": 3, "max": 11},
+    "spacing_in": {"min": 24, "max": 36},
+    "height_in": {"min": 8, "max": 12},
+    "spread_in": {"min": 96, "max": 144},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "This heirloom ornamental gourd produces small to medium fruit ringed by five or six pronounced double fins or 'wings' running from a bulbous base to a slender curved or straight neck, in cream, yellow, and green tones with occasional warting. Grow on a trellis or arbor to let the necks hang straight and the wings develop evenly, watering consistently until the vines set fruit and then tapering off as the shells begin to harden. Leave fruit on the vine until the stem browns and dries, then cure gourds in a warm, airy space for several weeks until the shell is rock-hard and lightweight. Handle cured gourds gently, since the delicate wing ridges can chip or break if bumped.",
+    "sources": ["Johnny's Selected Seeds", "Fedco Seeds", "Territorial Seed Company"]
+  },
+  {
+    "slug": "crown-of-thorns-gourd",
+    "common_name": "Crown of Thorns Gourd (Shenot Crown of Thorns Ornamental Gourd)",
+    "scientific_name": "Cucurbita pepo var. ovifera 'Crown of Thorns'",
+    "category": "vegetable",
+    "subcategory": "ornamental gourd",
+    "days_to_germination": {"min": 4, "max": 10},
+    "germination_soil_temp_f": {"min": 70, "max": 90},
+    "days_to_maturity": {"min": 90, "max": 100},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 0, "max": 2},
+      "note": "Direct sow after all frost danger passes and soil is reliably warm; the vigorous 6-8 foot vines climb readily on fencing or can be left to ramble on open ground."
+    },
+    "usda_zones": {"min": 3, "max": 11},
+    "spacing_in": {"min": 24, "max": 36},
+    "height_in": {"min": 8, "max": 12},
+    "spread_in": {"min": 72, "max": 96},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Named for the ring of curved, thorn-like points that circle the blossom end of each rounded fruit, this multicolored ornamental gourd ripens in shades of orange, cream, yellow, and dark green on the same vine. Plants are heavy producers, often setting more than a dozen fruit per vine, so give them room to spread or a trellis strong enough to support the ripening gourds. Keep soil evenly moist through flowering and fruit set, then withhold water as the rind hardens and the crown-like points fully form. Cut fruit with a short stem once fully colored and cure in a dry, ventilated spot for several weeks before use in fall displays or crafts.",
+    "sources": ["Eden Brothers", "Annie's Heirloom Seeds", "Thresh Seed Co."]
+  },
+  {
+    "slug": "bicolor-pear-gourd",
+    "common_name": "Bicolor Pear Gourd (Pear Bi-Color Ornamental Gourd)",
+    "scientific_name": "Cucurbita pepo var. ovifera 'Bicolor Pear'",
+    "category": "vegetable",
+    "subcategory": "ornamental gourd",
+    "days_to_germination": {"min": 7, "max": 14},
+    "germination_soil_temp_f": {"min": 70, "max": 90},
+    "days_to_maturity": {"min": 100, "max": 110},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 0, "max": 2},
+      "note": "Direct sow once soil is warm and frost risk has passed; train the vigorous vines up a trellis to keep the small fruit clean and well shaped."
+    },
+    "usda_zones": {"min": 3, "max": 11},
+    "spacing_in": {"min": 24, "max": 36},
+    "height_in": {"min": 8, "max": 12},
+    "spread_in": {"min": 96, "max": 144},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "This classic heirloom gourd bears abundant small pear-shaped fruit, typically 2-3 inches long, with a green lower half and yellow upper half divided by cream streaking. Vines are vigorous and productive, so plan on a trellis or fence for cleaner fruit and easier harvest. Water regularly through bloom and fruit set, then reduce moisture as fruit approach full size to encourage the rind to toughen. Harvest once the shell resists denting, and cure in a warm, dry, well-ventilated location for two to three weeks until lightweight and hard, ready for autumn display or craft use.",
+    "sources": ["True Leaf Market", "Seedman.com", "Alliance of Native Seedkeepers"]
+  }
+]

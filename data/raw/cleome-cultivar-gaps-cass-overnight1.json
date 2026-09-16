@@ -1,0 +1,56 @@
+[
+  {
+    "slug": "cleome-white-queen",
+    "common_name": "White Queen Spider Flower (Pure White Heirloom Cleome)",
+    "scientific_name": "Cleome hassleriana 'White Queen'",
+    "category": "flower",
+    "subcategory": "annual",
+    "days_to_germination": {"min": 7, "max": 14},
+    "germination_soil_temp_f": {"min": 70, "max": 80},
+    "days_to_maturity": {"min": 70, "max": 90},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Direct sow after the last frost in well-drained, lean to average soil in full sun; White Queen is the pure white member of the classic Queen series and reads brightest against darker foliage backdrops or at dusk."
+    },
+    "usda_zones": {"min": 2, "max": 11},
+    "spacing_in": {"min": 18, "max": 30},
+    "height_in": {"min": 36, "max": 60},
+    "spread_in": {"min": 18, "max": 30},
+    "sun": "full",
+    "water": "low",
+    "directions": "Direct sow after the last frost in well-drained, lean to average soil in full sun. White Queen carries the same large, rounded, airy flower heads as its Cherry Queen and Rose Queen relatives in the Queen series, but opens in clean, sweetly fragrant pure white with the long, whisker-like protruding stamens that give every cleome bloom its spidery silhouette. It shares the whole series' indifference to summer heat, growing vigorously through the hottest stretch of the season and blooming continuously from the top of each elongating stem until frost. The slightly sticky, musky-scented foliage is typical of the species, and established plantings self-sow freely, drawing hummingbirds, butterflies, and night-flying sphinx moths that are especially responsive to the pale, dusk-visible flowers.",
+    "sources": ["Chicago Botanic Garden Plant Finder", "White Flower Farm", "Louisiana State University AgCenter"]
+  },
+  {
+    "slug": "cleome-lutea-yellow-bee-plant",
+    "common_name": "Yellow Bee Plant (Yellow Spiderflower)",
+    "scientific_name": "Cleome lutea (Peritoma lutea)",
+    "category": "flower",
+    "subcategory": "native drought-tolerant annual",
+    "days_to_germination": {"min": 10, "max": 21},
+    "germination_soil_temp_f": {"min": 60, "max": 75},
+    "days_to_maturity": {"min": 60, "max": 90},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 0, "max": 2},
+      "note": "Direct sow after last frost, or fall-sow for natural cold stratification, in dry to moderately moist, sandy or gravelly, alkaline to neutral soil in full sun; Yellow Bee Plant is a Great Basin and desert Southwest native that thrives in lean, disturbed ground and needs no irrigation once established."
+    },
+    "usda_zones": {"min": 4, "max": 9},
+    "spacing_in": {"min": 12, "max": 18},
+    "height_in": {"min": 18, "max": 48},
+    "spread_in": {"min": 12, "max": 18},
+    "sun": "full",
+    "water": "low",
+    "directions": "Direct sow into dry, sandy to gravelly, well-drained soil in full sun after the last frost, or scatter seed in fall for natural winter stratification. Yellow Bee Plant is a fast-growing native annual of the Great Basin, Colorado Plateau, and surrounding desert scrub, producing dense terminal racemes of small, clear-yellow, long-stamened flowers that open progressively up the stem through summer, giving the same spidery look as its pink and white cleome relatives. It is an exceptional forage plant for native bees, with well over a hundred species documented visiting its nectar-rich blooms, alongside wasps, butterflies, and hummingbirds. Plants tolerate poor, alkaline, sandy soils and extended drought, self-sowing readily on disturbed or open ground without becoming weedy in cultivated beds.",
+    "sources": ["USDA Forest Service Plant Guide — Yellow Beeplant (Cleome lutea)", "BLM Plant Fact Sheet — Yellow Bee-Plant (Peritoma lutea)", "Calscape Native Plant Database"]
+  }
+]

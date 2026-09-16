@@ -1,0 +1,56 @@
+[
+  {
+    "slug": "virginia-bluebells-alba",
+    "common_name": "White Virginia Bluebells",
+    "scientific_name": "Mertensia virginica f. alba",
+    "category": "flower",
+    "subcategory": "native spring ephemeral",
+    "days_to_germination": {"min": 14, "max": 30},
+    "germination_soil_temp_f": {"min": 55, "max": 65},
+    "days_to_maturity": {"min": 365, "max": 730},
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {"min": -8, "max": -4},
+      "note": "Set out dormant crowns or container plants in fall into moist, humus-rich woodland soil in shade to partial shade; mark the planting spot since the corm-like rootstock disappears completely by early summer."
+    },
+    "usda_zones": {"min": 3, "max": 9},
+    "spacing_in": {"min": 12, "max": 18},
+    "height_in": {"min": 12, "max": 24},
+    "spread_in": {"min": 12, "max": 18},
+    "sun": "shade",
+    "water": "moderate",
+    "directions": "This naturally occurring white-flowered form of Virginia bluebells lacks the anthocyanin pigment that turns the typical species' buds pink and its open flowers sky-blue, instead opening from pale green-white buds into clusters of nodding, pure white, bell-shaped flowers in early to mid-spring. Culture is identical to the species: rich, consistently moist woodland soil in dappled shade, ideally beneath deciduous trees that leaf out after the plant has finished blooming. Because the entire plant vanishes underground by early summer, pair it with later-emerging hostas, ferns, or heucheras to hide the gap and mark clump locations to avoid accidental disturbance while dormant. Propagate by careful division of dormant crowns in fall, since seedlings do not reliably come true to the white form.",
+    "sources": ["Plants of the World Online (Kew)", "Illinois Wildflowers", "Missouri Botanical Garden"]
+  },
+  {
+    "slug": "montrose-tricolor-phlox",
+    "common_name": "Montrose Tricolor Woodland Phlox",
+    "scientific_name": "Phlox divaricata 'Montrose Tricolor'",
+    "category": "flower",
+    "subcategory": "native spring ephemeral",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 45, "max": 90},
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": -4, "max": 4},
+      "note": "Plant divisions or container-grown starts in early spring in moist, humus-rich, well-drained soil in partial shade, siting away from more vigorous neighbors since this selection spreads much more slowly than the species."
+    },
+    "usda_zones": {"min": 4, "max": 8},
+    "spacing_in": {"min": 8, "max": 12},
+    "height_in": {"min": 6, "max": 10},
+    "spread_in": {"min": 8, "max": 12},
+    "sun": "shade",
+    "water": "moderate",
+    "directions": "Discovered as a sport at Montrose Gardens in Hillsborough, North Carolina, this woodland phlox selection is grown chiefly for its narrow, lance-shaped leaves edged in cream-white with a pink blush in cool weather, forming a fine-textured, low mound that stays ornamental well after bloom. Loose clusters of fragrant, lavender-blue flowers top the variegated foliage on short stems in mid-spring. It is noticeably less vigorous and stoloniferous than wild-type Phlox divaricata, making it well suited to a choice spot in a rock garden or shaded trough rather than a naturalized woodland planting where more aggressive companions would swamp it. Divide congested clumps immediately after flowering if increase is desired, since the variegation can be unstable when grown from seed.",
+    "sources": ["Plant Delights Nursery", "Missouri Botanical Garden Plant Finder", "Dave's Garden PlantFiles"]
+  }
+]

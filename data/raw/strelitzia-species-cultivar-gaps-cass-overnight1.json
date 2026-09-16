@@ -1,0 +1,83 @@
+[
+  {
+    "slug": "strelitzia-caudata",
+    "common_name": "Mountain Strelitzia (Wild Banana)",
+    "scientific_name": "Strelitzia caudata",
+    "category": "flower",
+    "subcategory": "tropical architectural perennial",
+    "days_to_germination": {"min": 30, "max": 90},
+    "germination_soil_temp_f": {"min": 70, "max": 80},
+    "days_to_maturity": {"min": 1825, "max": 3650},
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 2, "max": 8},
+      "note": "Divide basal suckers or plant container-grown specimens in well-drained, fertile soil in full sun to partial shade; this escarpment-forest native tolerates cooler nights than its lowland relatives and benefits from wind protection while young."
+    },
+    "usda_zones": {"min": 9, "max": 11},
+    "spacing_in": {"min": 96, "max": 180},
+    "height_in": {"min": 180, "max": 300},
+    "spread_in": {"min": 96, "max": 180},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Mountain strelitzia is a multi-stemmed, tree-forming relative of white bird of paradise, native to the cool escarpment forests and mountain kloofs of Mpumalanga, Limpopo, Eswatini, and eastern Zimbabwe rather than the warm coastal lowlands. It carries long, banana-like paddle leaves on tall, cane-like stems, and its flower bracts are flushed a distinctive purplish-maroon rather than the blue-purple of S. nicolai, cradling white petals. Because it evolved at higher, cooler elevations, it handles brief cold snaps somewhat better than lowland white bird of paradise and makes a striking large-scale specimen where a tree-form Strelitzia is wanted but winters run slightly cooler. Give it rich, humus-heavy soil, consistent moisture while establishing, and room to form a multi-trunked clump over many years.",
+    "sources": ["South African National Biodiversity Institute (SANBI) PlantZAfrica", "Royal Horticultural Society", "Kirstenbosch National Botanical Garden"]
+  },
+  {
+    "slug": "strelitzia-reginae-mandelas-gold",
+    "common_name": "Mandela's Gold Bird of Paradise",
+    "scientific_name": "Strelitzia reginae 'Mandela's Gold'",
+    "category": "flower",
+    "subcategory": "tropical architectural perennial",
+    "days_to_germination": {"min": 30, "max": 90},
+    "germination_soil_temp_f": {"min": 65, "max": 80},
+    "days_to_maturity": {"min": 730, "max": 1460},
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Plant container-grown divisions in well-drained, moderately fertile soil in full sun; propagate true stock only by division since seedlings revert to the orange-flowered species."
+    },
+    "usda_zones": {"min": 9, "max": 11},
+    "spacing_in": {"min": 24, "max": 36},
+    "height_in": {"min": 36, "max": 60},
+    "spread_in": {"min": 24, "max": 48},
+    "sun": "full",
+    "water": "low",
+    "directions": "This is the golden-flowered sport of common bird of paradise, bred at Kirstenbosch National Botanical Garden over nearly two decades of hand-pollination and selection from a handful of naturally occurring yellow-flowered plants, and released in 1996 in honor of Nelson Mandela. It matches the species in habit, foliage, and cultural needs exactly, but the crane-like blooms open a rich golden yellow with a violet-blue 'tongue' instead of the usual orange-and-blue. Because the yellow trait does not come true from seed, plants must be propagated by division to preserve the color, which keeps it pricier and slower to bulk up than the species. Grow it exactly as you would S. reginae: full sun, lean well-drained soil, and patience, as clumps take several years to reach flowering size and bloom best when left undisturbed and slightly pot- or root-bound.",
+    "sources": ["South African National Biodiversity Institute (SANBI) PlantZAfrica", "Kirstenbosch National Botanical Garden", "Royal Horticultural Society"]
+  },
+  {
+    "slug": "strelitzia-reginae-var-humilis",
+    "common_name": "Dwarf Bird of Paradise",
+    "scientific_name": "Strelitzia reginae var. humilis",
+    "category": "flower",
+    "subcategory": "tropical architectural perennial",
+    "days_to_germination": {"min": 30, "max": 90},
+    "germination_soil_temp_f": {"min": 65, "max": 80},
+    "days_to_maturity": {"min": 730, "max": 1460},
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Plant container-grown plants or divisions in well-drained, moderately fertile soil in full sun; its compact clumping habit suits patio containers and small-space landscapes better than the full-sized species."
+    },
+    "usda_zones": {"min": 9, "max": 11},
+    "spacing_in": {"min": 18, "max": 30},
+    "height_in": {"min": 20, "max": 32},
+    "spread_in": {"min": 18, "max": 30},
+    "sun": "full",
+    "water": "low",
+    "directions": "This naturally occurring dwarf variety of the familiar orange-and-blue bird of paradise stays under three feet tall at maturity, roughly half the size of the typical species, while producing the same vividly colored crane-shaped flowers in proportionally scaled form. Its dense, tightly clumping foliage makes it far better suited to container culture, small courtyards, and foreground plantings than the larger standard form, which can eventually sprawl to five feet or more. Cultural needs mirror the species exactly: lean, well-drained soil, full sun for best flowering, and minimal division since crowded clumps bloom more reliably than recently divided ones. Its smaller stature also makes it easier to bring indoors or under cover for winter protection in the cooler parts of its growing range.",
+    "sources": ["Missouri Botanical Garden Plant Finder", "Royal Horticultural Society", "Dave's Garden PlantFiles"]
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "slug": "cuban-queen-watermelon",
+    "common_name": "Cuban Queen Watermelon (Historic Large American Shipping Heirloom)",
+    "scientific_name": "Citrullus lanatus 'Cuban Queen'",
+    "category": "vegetable",
+    "subcategory": "watermelon",
+    "days_to_germination": {"min": 7, "max": 14},
+    "germination_soil_temp_f": {"min": 70, "max": 95},
+    "days_to_maturity": {"min": 80, "max": 90},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 2, "max": 6},
+      "note": "Direct sow after soil has warmed past 70°F; Cuban Queen is a vigorous, long-vined heirloom that needs ample room and a full, hot summer to size up and sweeten. In zone 9, plant April–May."
+    },
+    "usda_zones": {"min": 3, "max": 11},
+    "spacing_in": {"min": 84, "max": 120},
+    "height_in": {"min": 12, "max": 18},
+    "spread_in": {"min": 96, "max": 144},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Direct sow 1 inch deep in hills spaced 7–10 feet apart once soil is reliably warm. Cuban Queen was introduced by W. Atlee Burpee & Co. in 1881 and quickly became one of the leading commercial shipping watermelons of the late 19th century, its round-to-oblong fruit distinguished by a pale, whitish-green rind overlaid with irregular dark green stripes and its image reproduced on countless Victorian-era seed company advertising cards. Period accounts describe exceptionally large fruit under the field conditions of the time, though gardeners today should expect a more modest, still substantial melon from home-garden care. Judge ripeness by the classic combination of a drying tendril at the fruit stem, a ground spot that has turned from white to creamy yellow, and a dull, hollow sound when thumped.",
+    "sources": [
+      "W. Atlee Burpee & Co. — historical seed catalog records",
+      "Cucurbit Genetics Cooperative — Vegetable Cultivar Descriptions for North America, Watermelon (A-L)",
+      "Seed Savers Exchange — heirloom watermelon variety documentation"
+    ]
+  },
+  {
+    "slug": "winter-king-and-queen-watermelon",
+    "common_name": "Winter King and Queen Watermelon (Mennonite Heirloom Winter Keeper)",
+    "scientific_name": "Citrullus lanatus 'Winter King and Queen'",
+    "category": "vegetable",
+    "subcategory": "watermelon",
+    "days_to_germination": {"min": 7, "max": 14},
+    "germination_soil_temp_f": {"min": 70, "max": 95},
+    "days_to_maturity": {"min": 90, "max": 100},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 2, "max": 6},
+      "note": "Direct sow after soil has warmed past 70°F; this long-season keeper needs the full summer to mature before cool weather arrives, since its value comes from storing rather than early eating quality."
+    },
+    "usda_zones": {"min": 3, "max": 11},
+    "spacing_in": {"min": 72, "max": 96},
+    "height_in": {"min": 12, "max": 18},
+    "spread_in": {"min": 72, "max": 96},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Direct sow 1 inch deep in hills spaced 6–8 feet apart. Winter King and Queen is a rare American keeper melon, offered as early as 1923 by the Aggeler and Musser Seed Company and later documented by Amy Goldman in Melons for the Passionate Grower; it produces smaller, tough-rinded fruit (roughly 9 pounds on average) with a nearly white, exceptionally hard rind striped in dark green and firm, crunchy red flesh. Unlike most watermelons it is picked and set aside to store for weeks after harvest, continuing to ripen in a cool, dry spot into the winter months, which earned it the nickname Christmas watermelon in some regions. Midwestern Mennonite communities kept the variety alive largely for its pickled rind, and the resulting vinegar pickle is now listed on the Slow Food USA Ark of Taste; fresh flavor is good but secondary to its unmatched keeping ability among heirloom watermelons.",
+    "sources": [
+      "Slow Food USA Ark of Taste — Winter King and Queen watermelon pickle",
+      "Amy Goldman — Melons for the Passionate Grower (2002)",
+      "Burrell Seed Growers, LLC — Winter King & Queen watermelon variety notes",
+      "Washington State University Extension — watermelon variety trial data"
+    ]
+  }
+]

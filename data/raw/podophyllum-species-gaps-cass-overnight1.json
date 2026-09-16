@@ -1,0 +1,56 @@
+[
+  {
+    "slug": "podophyllum-red-panda",
+    "common_name": "Red Panda Mayapple",
+    "scientific_name": "Podophyllum 'Red Panda'",
+    "category": "flower",
+    "subcategory": "native shade perennial",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 730, "max": 1460},
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": -2, "max": 2},
+      "note": "Set rhizome divisions shallowly in humus-rich, evenly moist woodland soil just as the pointed shoots begin to emerge; this hybrid clumps slowly rather than running, so give it a permanent, undisturbed spot."
+    },
+    "usda_zones": {"min": 6, "max": 9},
+    "spacing_in": {"min": 18, "max": 24},
+    "height_in": {"min": 18, "max": 24},
+    "spread_in": {"min": 18, "max": 24},
+    "sun": "shade",
+    "water": "moderate",
+    "directions": "This O'Byrne-bred hybrid of Podophyllum delavayi and P. pleianthum emerges with glossy, bronze-red peltate leaves that gradually flush with green as the season progresses, held above nodding maroon spring flowers. Grow in deep to partial shade with rich, consistently moist, well-drained soil high in leaf mold, mimicking a Chinese forest floor. New shoots can be tender in late frosts, so mulch heavily in fall and avoid disturbing the crown once established. All parts of the plant except the ripe fruit are toxic if ingested and can irritate skin, so keep it away from areas where children or pets forage.",
+    "sources": ["Far Reaches Farm", "Northwest Garden Nursery", "Pacific Horticulture Society"]
+  },
+  {
+    "slug": "podophyllum-difforme",
+    "common_name": "Deformed-Leaf Mayapple (Chinese Mayapple)",
+    "scientific_name": "Podophyllum difforme",
+    "category": "flower",
+    "subcategory": "woodland perennial",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 730, "max": 1460},
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": -2, "max": 2},
+      "note": "Plant rhizomes just below the surface in a sheltered woodland bed with rich, humusy, moisture-retentive soil; unlike the running American mayapple, this species stays in a slowly expanding clump and does not go summer-dormant."
+    },
+    "usda_zones": {"min": 6, "max": 9},
+    "spacing_in": {"min": 12, "max": 18},
+    "height_in": {"min": 12, "max": 30},
+    "spread_in": {"min": 12, "max": 18},
+    "sun": "shade",
+    "water": "moderate",
+    "directions": "Native to Chinese forests, this species produces leathery, oddly angled quadrangular to star-shaped leaves marbled in bronze, silver, and deep purple, with clusters of red-purple flowers hanging just beneath the foliage in late spring. Provide light to deep shade and deep, fertile, organically rich soil, mulching well since new shoots can be nipped by hard late frosts in colder parts of its range. It stays evergreen-ish and clumping longer into the season than the deciduous American mayapple, so avoid letting it dry out over summer. All parts except the ripe fruit are toxic if eaten and the sap may irritate skin, so site it away from curious pets or children.",
+    "sources": ["Plant Delights Nursery", "Far Reaches Farm", "Dave's Garden PlantFiles"]
+  }
+]

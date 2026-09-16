@@ -1,0 +1,326 @@
+[
+  {
+    "slug": "rudbeckia-occidentalis",
+    "common_name": "Western Coneflower",
+    "scientific_name": "Rudbeckia occidentalis",
+    "category": "flower",
+    "subcategory": "native pollinator perennial",
+    "days_to_germination": {
+      "min": 10,
+      "max": 20
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 365,
+      "max": 730
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Direct sow in fall or cold-stratify 30-60 days before spring sowing; plants typically establish a rosette the first year and bloom the second."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 24,
+      "max": 60
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Native to moist mountain meadows and streambanks of the western United States, this rhizomatous coneflower produces striking dark brown cones ringed with green bracts instead of yellow ray petals, giving rise to the nickname 'Green Wizard.' Plant in average to moist, well-drained soil in full sun to light shade; it does not tolerate prolonged drought as well as prairie coneflowers do. The unusual, petal-less flower heads are prized in fresh and dried arrangements and continue blooming for weeks if spent stems are cut back. Spreads gradually by rhizomes to form colonies, making it useful for naturalizing in rain gardens and moist perennial borders in cooler zones.",
+    "sources": [
+      "Missouri Botanical Garden Plant Finder",
+      "USDA PLANTS Database"
+    ]
+  },
+  {
+    "slug": "rudbeckia-auriculata",
+    "common_name": "Eared Coneflower",
+    "scientific_name": "Rudbeckia auriculata",
+    "category": "flower",
+    "subcategory": "native pollinator perennial",
+    "days_to_germination": {
+      "min": 14,
+      "max": 28
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 80
+    },
+    "days_to_maturity": {
+      "min": 180,
+      "max": 365
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Direct sow in fall on consistently moist, acidic soil; seed benefits from a period of natural winter chilling before germinating in spring."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 36,
+      "max": 60
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "high",
+    "directions": "This rare southeastern coneflower is endemic to a narrow band of acid bogs and seepage slopes spanning southeastern Alabama and adjacent Georgia and Florida, where its paired, ear-shaped leaf bases give the species its common name. Grow in consistently moist to wet, acidic, sandy or peaty soil in full sun, replicating the boggy seep habitats where it occurs naturally alongside pitcher plants and other bog specialists. Tall, branching stems carry yellow-rayed flower heads from late summer into fall, drawing a wide range of native bees and butterflies. Because natural populations are so limited, cultivated plantings in rain gardens and constructed bog beds play a meaningful role in regional conservation.",
+    "sources": [
+      "U.S. Fish & Wildlife Service Species Profile: Eared Coneflower",
+      "USDA PLANTS Database"
+    ]
+  },
+  {
+    "slug": "rudbeckia-heliopsidis",
+    "common_name": "Sunfacing Coneflower",
+    "scientific_name": "Rudbeckia heliopsidis",
+    "category": "flower",
+    "subcategory": "native pollinator perennial",
+    "days_to_germination": {
+      "min": 10,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 180,
+      "max": 365
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Direct sow in fall or cold-moist stratify before spring sowing; seedlings establish best in lean, sandy or gravelly soil with reliable moisture."
+    },
+    "usda_zones": {
+      "min": 6,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 24,
+      "max": 40
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 18
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "A rare southeastern species found on limestone and sandstone streambanks, barrens, and open relict woodlands from Virginia south to Georgia and Alabama, this coneflower produces slender, sunflower-like yellow blooms on wiry stems in late summer. Grow in lean, well-drained sandy or rocky soil that stays lightly moist, in full sun to dappled light; it tolerates thinner soils than most garden rudbeckias but resents heavy, wet clay. Its narrow, willow-like leaves and understated flower form distinguish it from showier cultivated coneflowers. Best suited to naturalistic plantings, streambank restorations, or specialty native plant collections rather than formal borders.",
+    "sources": [
+      "NatureServe Explorer",
+      "Georgia Biodiversity Portal"
+    ]
+  },
+  {
+    "slug": "helianthus-verticillatus",
+    "common_name": "Whorled Sunflower",
+    "scientific_name": "Helianthus verticillatus",
+    "category": "flower",
+    "subcategory": "native pollinator perennial",
+    "days_to_germination": {
+      "min": 14,
+      "max": 30
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 365,
+      "max": 730
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Establish from divisions of the tuberous rhizomes in spring; seed germination is unreliable and not well characterized, so propagation from nursery-grown division stock is strongly preferred."
+    },
+    "usda_zones": {
+      "min": 6,
+      "max": 8
+    },
+    "spacing_in": {
+      "min": 24,
+      "max": 36
+    },
+    "height_in": {
+      "min": 60,
+      "max": 120
+    },
+    "spread_in": {
+      "min": 24,
+      "max": 36
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "A federally endangered perennial sunflower known from only a handful of sites in Tennessee, Georgia, Alabama, Mississippi, and Virginia, distinguished by its narrow leaves arranged in distinctive whorls of three to four at mid-stem. Grow in moist, fertile soil in full sun, mimicking the wet prairie and roadside seep habitats where remaining wild populations persist; established colonies spread slowly via thickened rhizomes to towering stems that can exceed eight feet by autumn bloom. Because it is self-incompatible, a single clone will not set viable seed, so gardens interested in seed production should plant material from multiple genetic sources sourced through conservation-approved nurseries. An exceptional late-season pollinator plant and a meaningful addition to any native plant conservation collection.",
+    "sources": [
+      "U.S. Fish & Wildlife Service Species Profile: Whorled Sunflower",
+      "Frontiers in Genetics: Genetic Diversity and Conservation Status of Helianthus verticillatus"
+    ]
+  },
+  {
+    "slug": "helianthus-eggertii",
+    "common_name": "Eggert's Sunflower",
+    "scientific_name": "Helianthus eggertii",
+    "category": "flower",
+    "subcategory": "native pollinator perennial",
+    "days_to_germination": {
+      "min": 10,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 180,
+      "max": 365
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Direct sow in fall into lean, well-drained soil, or cold-stratify seed for spring sowing; established plants spread readily by rhizome once settled."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 8
+    },
+    "spacing_in": {
+      "min": 24,
+      "max": 36
+    },
+    "height_in": {
+      "min": 48,
+      "max": 84
+    },
+    "spread_in": {
+      "min": 24,
+      "max": 36
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Native to the barrens and cedar glade openings of the Interior Low Plateau in Tennessee, Kentucky, and Alabama, this perennial sunflower is a notable Endangered Species Act success story, having been delisted in 2005 after recovering across protected barrens habitat. Its smooth, glaucous blue-green leaves distinguish it from the rough-leaved Helianthus hirsutus and H. divaricatus with which it often grows. Plant in lean, well-drained, dry to average soil in full sun; overly rich or consistently moist soil encourages excessive vegetative spread at the expense of flowering. Yellow daisy-like blooms appear in late summer into fall on rhizomatous colonies that make excellent additions to dry meadow and barrens-style pollinator plantings.",
+    "sources": [
+      "U.S. Fish & Wildlife Service Species Profile: Eggert's Sunflower",
+      "Lady Bird Johnson Wildflower Center"
+    ]
+  },
+  {
+    "slug": "vernonia-blodgettii",
+    "common_name": "Florida Ironweed",
+    "scientific_name": "Vernonia blodgettii",
+    "category": "flower",
+    "subcategory": "native pollinator perennial",
+    "days_to_germination": {
+      "min": 14,
+      "max": 28
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 80
+    },
+    "days_to_maturity": {
+      "min": 180,
+      "max": 365
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Direct sow or transplant in spring after any risk of frost has passed; performs best in lean, well-drained sandy soil typical of pine rockland and flatwoods habitat."
+    },
+    "usda_zones": {
+      "min": 9,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 6,
+      "max": 12
+    },
+    "spread_in": {
+      "min": 8,
+      "max": 12
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "One of the smallest members of the ironweed genus, this diminutive wildflower is endemic to the pine rocklands and pine flatwoods of peninsular Florida and the Keys, with an outlying population on Andros Island in the Bahamas. Unlike the tall, moisture-loving ironweeds of the eastern prairies, this species tops out under a foot and thrives in lean, sharply drained sandy or limestone-derived soil in full sun. Slender stalks bear loose clusters of rich lavender-purple flower heads through summer and fall, drawing a steady stream of skippers, bees, and other small pollinators. Well suited to south Florida native plant gardens, rockland restorations, and low-growing pollinator borders where taller ironweeds would overwhelm the scale.",
+    "sources": [
+      "U.S. Fish & Wildlife Service Species Profile: Florida Ironweed",
+      "Florida Museum of Natural History"
+    ]
+  }
+]
