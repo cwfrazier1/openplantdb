@@ -1,0 +1,83 @@
+[
+  {
+    "slug": "albus-white-rosemary",
+    "common_name": "Albus Rosemary (White-Flowered Culinary Rosemary)",
+    "scientific_name": "Salvia rosmarinus 'Albus'",
+    "category": "herb",
+    "subcategory": "aromatic",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 120, "max": 180},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Plant rooted cuttings or container-grown transplants in spring in lean, sharply drained soil in full sun; 'Albus' does not come true from seed and is propagated only by cuttings, like other named rosemary cultivars."
+    },
+    "usda_zones": {"min": 8, "max": 10},
+    "spacing_in": {"min": 24, "max": 36},
+    "height_in": {"min": 24, "max": 36},
+    "spread_in": {"min": 24, "max": 36},
+    "sun": "full",
+    "water": "low",
+    "directions": "Albus is an upright culinary rosemary selected for pure white flowers rather than the usual blue-violet, giving it the same needle-like aromatic foliage and classic pine-and-citrus flavor as standard rosemary but a distinct look in the garden. Plant it in lean, fast-draining, slightly alkaline soil in full sun, since it is just as intolerant of wet feet as other rosemary types. It flowers most heavily on wood from the previous season, so prune lightly right after bloom rather than in fall to avoid removing next year's flower buds. Because it is somewhat less cold-hardy than upright green-flowered types, protect it or grow it in a container where winters regularly dip below the mid-teens.",
+    "sources": ["Missouri Botanical Garden Plant Finder", "North Carolina State Extension", "general horticultural reference"]
+  },
+  {
+    "slug": "bill-baker-oregano",
+    "common_name": "Bill Baker Oregano (Tall Pink-Flowered Ornamental Oregano)",
+    "scientific_name": "Origanum vulgare 'Bill Baker'",
+    "category": "herb",
+    "subcategory": "ornamental pollinator herb",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 75, "max": 100},
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": -2, "max": 4},
+      "note": "Plant divisions or container-grown plants in spring in lean, well-drained soil in full sun; propagate vegetatively to keep the taller habit and clear pink flower color true, since seedlings are variable."
+    },
+    "usda_zones": {"min": 5, "max": 9},
+    "spacing_in": {"min": 12, "max": 18},
+    "height_in": {"min": 24, "max": 30},
+    "spread_in": {"min": 18, "max": 24},
+    "sun": "full",
+    "water": "low",
+    "directions": "Bill Baker is a selection of common oregano grown mainly for its display rather than the kitchen, standing noticeably taller than typical wild oregano and topped from midsummer into fall with dense, soft pink flower clusters that pollinators visit heavily. Give it lean, sharply drained soil in full sun; like other oreganos, rich or overly wet soil produces floppy, weak-stemmed growth. Its height makes it useful toward the middle of a border or herb garden rather than as an edging plant, and the airy flower heads hold up well when cut fresh or dried. Shear plants back hard in late winter or early spring to keep the clump from becoming woody and sparse at the base.",
+    "sources": ["Missouri Botanical Garden Plant Finder", "Royal Horticultural Society", "general horticultural reference"]
+  },
+  {
+    "slug": "impress-purple-lavender",
+    "common_name": "Impress Purple English Lavender (Compact Seed-Grown Lavender)",
+    "scientific_name": "Lavandula angustifolia 'Impress Purple'",
+    "category": "herb",
+    "subcategory": "aromatic",
+    "days_to_germination": {"min": 14, "max": 21},
+    "germination_soil_temp_f": {"min": 65, "max": 70},
+    "days_to_maturity": {"min": 90, "max": 110},
+    "maturity_from": "seed",
+    "sow_method": "indoor-start",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": -10, "max": -8},
+      "note": "Start indoors 8-10 weeks before last frost; Impress Purple was bred for unusually fast, even seed germination compared to older open-pollinated English lavenders and reliably flowers its first year from an early sowing."
+    },
+    "usda_zones": {"min": 5, "max": 9},
+    "spacing_in": {"min": 12, "max": 18},
+    "height_in": {"min": 14, "max": 18},
+    "spread_in": {"min": 14, "max": 18},
+    "sun": "full",
+    "water": "low",
+    "directions": "Impress Purple is a seed-grown English lavender bred for compact, uniform mounds and dependable first-year flowering, making it popular for bedding displays and mass plantings where growers need consistent germination and habit from seed. Sow it indoors under light, since seed needs light to germinate and benefits from steady warmth; transplant into lean, sharply drained, slightly alkaline soil once frost danger has passed. Deep violet-purple spikes rise over silvery foliage from early summer, and shearing the plant back by about a third after the first flush encourages a strong second bloom. Keep water low once established, since good drainage matters far more to this cultivar's longevity than fertility.",
+    "sources": ["University of Georgia Trial Gardens", "PanAmerican Seed", "general horticultural reference"]
+  }
+]
