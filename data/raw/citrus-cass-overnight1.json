@@ -1,0 +1,56 @@
+[
+  {
+    "slug": "seto-satsuma",
+    "common_name": "Seto Satsuma (Flat, Thin-Peeled Texas Superstar Satsuma Mandarin)",
+    "scientific_name": "Citrus unshiu 'Seto'",
+    "category": "fruit",
+    "subcategory": "citrus",
+    "days_to_germination": { "min": 14, "max": 28 },
+    "germination_soil_temp_f": { "min": 70, "max": 85 },
+    "days_to_maturity": { "min": 1095, "max": 1460 },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": { "min": 0, "max": 8 },
+      "note": "Plant grafted trees in spring after frost danger passes, in well-drained soil in full sun; Seto was named a Texas Superstar in 2010 alongside Miho for its dependable performance and quality fruit in Gulf Coast and Texas home orchards."
+    },
+    "usda_zones": { "min": 8, "max": 10 },
+    "spacing_in": { "min": 96, "max": 168 },
+    "height_in": { "min": 96, "max": 168 },
+    "spread_in": { "min": 96, "max": 144 },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant grafted trees in well-drained, fertile soil in full sun, and feed and water regularly through the growing season to size up the crop. Seto produces distinctly flat, smooth, thin-skinned fruit that ships and stacks better than rounder satsuma types, with virtually seedless, easy-peeling segments carrying a sweet, slightly tangy flavor. Once established, mature trees tolerate brief drops to roughly 10-15F, making Seto one of the more cold-tolerant satsuma selections recommended for zone 8b-9a dooryard citrus. Site it in a warm microclimate and protect young trees with frost cloth for the first two or three winters until the root system matures.",
+    "sources": ["Louisiana State University AgCenter", "Texas A&M AgriLife Extension", "University of Florida IFAS Extension"]
+  },
+  {
+    "slug": "frost-owari-satsuma",
+    "common_name": "Frost Owari Satsuma (Nucellar Cold-Hardy Owari Strain)",
+    "scientific_name": "Citrus unshiu 'Frost Owari'",
+    "category": "fruit",
+    "subcategory": "citrus",
+    "days_to_germination": { "min": 14, "max": 28 },
+    "germination_soil_temp_f": { "min": 70, "max": 85 },
+    "days_to_maturity": { "min": 1095, "max": 1460 },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": { "min": 0, "max": 8 },
+      "note": "Plant grafted trees in spring after frost danger passes, in well-drained soil in full sun; Frost Owari is a nucellar (virus-free, true-to-type) bud-selection of standard Owari Satsuma developed in California and widely propagated by nurseries as one of the most reliable cold-hardy mandarin strains for marginal citrus climates."
+    },
+    "usda_zones": { "min": 8, "max": 10 },
+    "spacing_in": { "min": 96, "max": 168 },
+    "height_in": { "min": 96, "max": 168 },
+    "spread_in": { "min": 96, "max": 144 },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant grafted trees in well-drained, fertile soil in full sun, and water deeply and regularly during the growing season while allowing the surface to dry slightly between waterings. Selected from seedling Owari trees for improved vigor and slightly larger fruit, Frost Owari bears the same seedless, loose-skinned, richly sweet mandarins from October into December on a small, spreading tree well suited to containers. Mature, dormant trees are among the most cold-tolerant of all edible citrus, shrugging off brief dips to roughly 15-20F, though trees under three years old should still be covered or lighted during hard freezes. Its reliability and wide availability through mainstream citrus nurseries have made it one of the most commonly planted satsuma strains for zone 8b-9a home orchards.",
+    "sources": ["Louisiana State University AgCenter", "Texas A&M AgriLife Extension", "University of Florida IFAS Extension"]
+  }
+]

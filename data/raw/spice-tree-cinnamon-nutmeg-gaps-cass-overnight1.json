@@ -1,0 +1,222 @@
+[
+  {
+    "slug": "saigon-cinnamon",
+    "common_name": "Saigon Cinnamon (Vietnamese Cinnamon)",
+    "scientific_name": "Cinnamomum loureiroi",
+    "category": "herb",
+    "subcategory": "subtropical spice tree",
+    "days_to_germination": {
+      "min": 14,
+      "max": 30
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 3650,
+      "max": 4380
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 8
+      },
+      "note": "Plant seed-grown saplings in spring in fertile, moisture-retentive but freely draining soil, in full sun or dappled partial shade; give trees the long haul to twelve years before stripping bark for the highest grade, since young-shoot bark is thin and low in oil."
+    },
+    "usda_zones": {
+      "min": 9,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 120,
+      "max": 180
+    },
+    "height_in": {
+      "min": 120,
+      "max": 360
+    },
+    "spread_in": {
+      "min": 60,
+      "max": 150
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Plant seed-grown saplings in spring in fertile, moisture-retentive but freely draining soil, in full sun or dappled partial shade in the northern Vietnamese highlands' cooler subtropical climate. Saigon cinnamon carries the highest cinnamaldehyde and coumarin concentration of any commercially traded cinnamon, giving it a hotter, sweeter, more intensely spicy punch than Ceylon, Chinese, or Padang types, and it is prized for baking and confectionery where a small amount of bark goes a long way. Bark of real commercial quality is not stripped until trees reach ten to twelve years of age, far longer than the three-to-four-year coppice cycle used for Padang cassia, which is why true Saigon cinnamon has historically fetched a premium price and much of the crop is still gathered from semi-wild trees. The species is now assessed as vulnerable in the wild, adding conservation value to garden or nursery-grown specimens.",
+    "sources": [
+      "Plants for a Future (pfaf.org) \u2014 Cinnamomum loureiroi",
+      "Kew Science (Plants of the World Online) \u2014 Cinnamomum loureiroi",
+      "Gernot Katzer's Spice Pages \u2014 Vietnamese Cinnamon"
+    ]
+  },
+  {
+    "slug": "malabar-nutmeg",
+    "common_name": "Malabar Nutmeg (Bombay Nutmeg, Wild Nutmeg)",
+    "scientific_name": "Myristica malabarica",
+    "category": "herb",
+    "subcategory": "tropical spice tree",
+    "days_to_germination": {
+      "min": 30,
+      "max": 90
+    },
+    "germination_soil_temp_f": {
+      "min": 75,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 2555,
+      "max": 4380
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 8
+      },
+      "note": "Plant seedling or grafted trees in spring in deep, moist, well-drained forest loam under the dappled canopy of taller trees; this Western Ghats understory species needs constant humidity and shelter from wind and hot direct sun, especially while young."
+    },
+    "usda_zones": {
+      "min": 10,
+      "max": 12
+    },
+    "spacing_in": {
+      "min": 240,
+      "max": 420
+    },
+    "height_in": {
+      "min": 180,
+      "max": 660
+    },
+    "spread_in": {
+      "min": 150,
+      "max": 300
+    },
+    "sun": "partial",
+    "water": "high",
+    "directions": "Plant seedling or grafted trees in spring in deep, moist, well-drained forest loam in the dappled shade of taller canopy trees, keeping humidity high year-round. Native to the Western Ghats of India, this wild relative of true nutmeg produces a larger fruit than Myristica fragrans, and its bright red, waxy aril is dried and sold as a distinct spice known as Bombay mace or rampatri, historically used as a cheaper substitute or adulterant for true mace and valued in its own right in Konkani and Malabar coastal cooking for a resinous, less sweet flavor. The seed kernel itself is bitter and not used as a nutmeg substitute the way the aril is. The species is now assessed as vulnerable due to habitat loss, and smooth, greenish-black to reddish bark distinguishes the mature trunk from true nutmeg.",
+    "sources": [
+      "Kew Science (Plants of the World Online) \u2014 Myristica malabarica",
+      "Useful Tropical Plants Database (Ken Fern) \u2014 Myristica malabarica",
+      "India Biodiversity Portal \u2014 Myristica malabarica"
+    ]
+  },
+  {
+    "slug": "papuan-nutmeg",
+    "common_name": "Papuan Nutmeg (Fakfak Nutmeg)",
+    "scientific_name": "Myristica argentea",
+    "category": "herb",
+    "subcategory": "tropical spice tree",
+    "days_to_germination": {
+      "min": 30,
+      "max": 90
+    },
+    "germination_soil_temp_f": {
+      "min": 75,
+      "max": 88
+    },
+    "days_to_maturity": {
+      "min": 2555,
+      "max": 4380
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 8
+      },
+      "note": "Plant seedling trees in spring in deep, humid, well-drained equatorial rainforest soil under partial canopy shade; this New Guinea species wants constant warmth and moisture and resents any cold or dry spell, especially before it is well established."
+    },
+    "usda_zones": {
+      "min": 11,
+      "max": 12
+    },
+    "spacing_in": {
+      "min": 300,
+      "max": 480
+    },
+    "height_in": {
+      "min": 240,
+      "max": 720
+    },
+    "spread_in": {
+      "min": 180,
+      "max": 360
+    },
+    "sun": "partial",
+    "water": "high",
+    "directions": "Plant seedling trees in spring in deep, humid, well-drained soil under partial canopy shade, replicating the equatorial rainforest understory of Papua and West Papua, Indonesia, where this species is endemic. Also called Fakfak nutmeg for the district where it is most heavily harvested, Myristica argentea yields a seed and aril that are traded regionally as a nutmeg and mace substitute with a milder, less resinous aroma than true nutmeg, and the fat-rich seed is additionally pressed into 'nutmeg butter,' a semisolid oil used in traditional medicine, soap, and perfumery rather than as a culinary spice on its own. The tree's silvery-backed leaves, giving rise to the species name argentea, help distinguish it from other regional wild nutmegs. Wild populations are assessed as vulnerable, making cultivated specimens valuable for both spice interest and conservation.",
+    "sources": [
+      "IOPscience \u2014 Yield and Fruit Morphology of Selected High Productive Papua Nutmeg Trees (Myristica argentea Warb.)",
+      "Kew Science (Plants of the World Online) \u2014 Myristica argentea",
+      "Useful Tropical Plants Database (Ken Fern) \u2014 Myristica argentea"
+    ]
+  },
+  {
+    "slug": "beddomes-nutmeg",
+    "common_name": "Beddome's Nutmeg (Wild Nutmeg, Bitter Nutmeg)",
+    "scientific_name": "Myristica beddomei",
+    "category": "herb",
+    "subcategory": "tropical spice tree",
+    "days_to_germination": {
+      "min": 30,
+      "max": 90
+    },
+    "germination_soil_temp_f": {
+      "min": 75,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 2555,
+      "max": 4380
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 8
+      },
+      "note": "Plant seedling trees in spring in deep, moist, well-drained forest soil under partial shade; this Western Ghats canopy species is grown far more often as vigorous seedling rootstock for grafted true nutmeg than as a spice crop in its own right."
+    },
+    "usda_zones": {
+      "min": 10,
+      "max": 12
+    },
+    "spacing_in": {
+      "min": 300,
+      "max": 480
+    },
+    "height_in": {
+      "min": 240,
+      "max": 720
+    },
+    "spread_in": {
+      "min": 180,
+      "max": 360
+    },
+    "sun": "partial",
+    "water": "high",
+    "directions": "Plant seedling trees in spring in deep, moist, well-drained soil under the partial shade of taller forest canopy, matching the wet evergreen forest understory of the Western Ghats where this species is endemic. Unlike true nutmeg, Beddome's nutmeg is grown almost exclusively as rootstock in South Indian nurseries, since seedlings establish more vigorously and produce a stronger root system than Myristica fragrans seedlings, onto which scions of true nutmeg are later grafted; the tree's own seed and aril are bitter and not marketed as a spice. The smooth, blackish-green bark bleeds a distinctive deep-red exudate when cut or blazed, a useful identification feature in the nursery or garden. Grown as an ornamental or nurse tree, it also provides dense shade valuable to other understory spice plantings.",
+    "sources": [
+      "Agricultural Reviews (ARCC Journals) \u2014 Vegetative Propagation and Rootstock for Nutmeg: A Review",
+      "Useful Tropical Plants Database (Ken Fern) \u2014 Myristica beddomei",
+      "India Biodiversity Portal \u2014 Myristica beddomei"
+    ]
+  }
+]

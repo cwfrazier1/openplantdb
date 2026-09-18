@@ -1,0 +1,363 @@
+[
+  {
+    "slug": "clivia-mirabilis",
+    "common_name": "Miracle Clivia (Mirabilis Clivia)",
+    "scientific_name": "Clivia mirabilis",
+    "category": "flower",
+    "subcategory": "summer-dormant drought-tolerant South African perennial",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 1095,
+      "max": 2190
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant divisions or container-grown offsets in a very free-draining, gritty, humus-enriched mix in shade to bright indirect light, and withhold water through the hot months to mimic its native dry-summer dormancy; only confirmed as a distinct species in 2001-2002, it remains extremely rare in cultivation."
+    },
+    "usda_zones": {
+      "min": 9,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 24,
+      "max": 48
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "shade",
+    "water": "low",
+    "directions": "Grow in a gritty, sharply drained, humus-rich mix in shade to bright indirect light, letting the soil dry out substantially during the hot summer months. Clivia mirabilis is the most recently confirmed clivia species, found only in a handful of sandstone crevices near Nieuwoudtville in the Northern Cape, a winter-rainfall region with a Mediterranean-type climate quite unlike the humid, evergreen forests that support every other clivia in this dataset. As a result it runs on an inverted schedule: it grows and flowers through the cool, wet winter and goes dormant through a long, hot, rainless summer, surviving on a disproportionately large, water-storing root system rather than the constant moisture other clivias need. Its long, narrow leaves carry a distinctive pale central stripe and flush deep maroon at the base, and mature clumps tolerate both light winter frost and considerably more direct sun than C. miniata or the forest species without leaf scorch. Because wild populations are tiny and legally protected, virtually all plants in cultivation are nursery-propagated divisions.",
+    "sources": [
+      "South African National Biodiversity Institute (SANBI) \u2014 PlantZAfrica: Clivia mirabilis",
+      "SANBI Red List of South African Plants \u2014 Clivia mirabilis Rourke",
+      "Pacific Bulb Society \u2014 Clivia species notes"
+    ]
+  },
+  {
+    "slug": "clivia-citrina",
+    "common_name": "Wild Yellow Clivia (Eshowe Yellow Clivia)",
+    "scientific_name": "Clivia miniata var. citrina",
+    "category": "flower",
+    "subcategory": "wild yellow-flowered South African perennial",
+    "days_to_germination": {
+      "min": 30,
+      "max": 60
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 80
+    },
+    "days_to_maturity": {
+      "min": 1095,
+      "max": 1825
+    },
+    "maturity_from": "transplant",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Sow ripe seed from isolated, open-pollinated citrina stock, or plant divisions, in humus-rich, well-drained soil in full shade; this naturally occurring wild yellow variety breeds true from seed when kept away from orange-flowered C. miniata, unlike named florist cultivars that must be cloned to stay true."
+    },
+    "usda_zones": {
+      "min": 9,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 18,
+      "max": 24
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "shade",
+    "water": "moderate",
+    "directions": "Plant in deep, humus-rich, well-drained soil in full shade, and raise from seed collected from an isolated citrina population to preserve the true-breeding yellow line. Clivia miniata var. citrina is the original wild-occurring yellow form of the species, first recorded in 1888 in a forest near Eshowe in KwaZulu-Natal, long before yellow became a breeding goal for growers. Its pale lemon to creamy-yellow flowers, sometimes lightly tinged orange at the base, are a botanical variant of the species rather than a bred florist selection, and it is the foundation genetic stock behind most modern named yellow clivia cultivars. Because populations of true citrina are small and scattered, seed-grown plants are prized by collectors seeking unmixed wild-type yellow genetics rather than hybridized garden strains.",
+    "sources": [
+      "South African National Biodiversity Institute (SANBI) \u2014 PlantZAfrica: Clivia miniata var. citrina",
+      "The Clivia Society (South Africa)",
+      "Missouri Botanical Garden Plant Finder"
+    ]
+  },
+  {
+    "slug": "clivia-vico-yellow",
+    "common_name": "Vico Yellow Clivia (Smithers' Yellow)",
+    "scientific_name": "Clivia miniata 'Vico Yellow'",
+    "category": "flower",
+    "subcategory": "bred yellow-flowered shade perennial",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 1095,
+      "max": 1825
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant tissue-cultured divisions in dry shade in well-drained, humus-rich soil; 'Vico Yellow' tolerates winter cold into the low 20s Fahrenheit, notably hardier than most clivia, but flowers best when kept on the dry side and slightly pot-bound."
+    },
+    "usda_zones": {
+      "min": 8,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 18,
+      "max": 24
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "shade",
+    "water": "low",
+    "directions": "Grow in dry to lightly moist, well-drained, humus-rich soil in full shade, allowing clumps to stay somewhat pot-bound for best bloom. 'Vico Yellow' was bred by diplomat and horticulturist Sir Peter Smithers and became one of the first yellow clivia cultivars distributed through tissue culture, quickly earning a reputation (Japanese breeder Yoshikazu Nakamura called it 'the world's best yellow clivia, the one to beat' in 1997) that still stands among specialists. Its full, rounded, softly overlapping petals are a pale creamy yellow deepening to a richer yellow throat, carried in dense heads above narrow, dark, blunt-tipped leaves, and spent flowers give way to showy yellow (rather than the usual orange-red) berries. Unlike the species and most other clivia in this dataset, established 'Vico Yellow' clumps shrug off winter lows into the low 20s F with minimal damage, making it a somewhat more cold-forgiving choice for marginal zone 8b-9 shade gardens.",
+    "sources": [
+      "Pacific Bulb Society \u2014 Clivia 'Vico Yellow'",
+      "San Marcos Growers \u2014 Clivia miniata 'Vico Yellow'",
+      "Royal Horticultural Society \u2014 Clivia miniata 'Vico Yellow'"
+    ]
+  },
+  {
+    "slug": "clivia-variegata",
+    "common_name": "Variegated Clivia (Striata Clivia)",
+    "scientific_name": "Clivia miniata var. variegata",
+    "category": "flower",
+    "subcategory": "variegated-leaf shade perennial",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 1460,
+      "max": 2555
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Divide rooted offsets from an already-variegated clump rather than sowing seed, since the striped leaf pattern is not reliably inherited through seed; grow in bright shade (never direct sun, which scorches the chlorophyll-poor white sections) in humus-rich, well-drained soil, and expect notably slower growth than green-leaved clivia."
+    },
+    "usda_zones": {
+      "min": 9,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 18,
+      "max": 24
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "shade",
+    "water": "moderate",
+    "directions": "Grow in humus-rich, well-drained soil in full to bright shade, protecting the leaves from any direct sun that could scorch the unpigmented tissue. Clivia miniata var. variegata is defined not by flower color but by its foliage: dark green, strap-shaped leaves marked with longitudinal cream-to-white stripes running from base to tip in the pattern breeders call 'striata,' with each individual plant showing its own unique striping. Because the variegation is a leaf-chimera rather than a stable genetic trait, plants must be propagated by dividing offsets from an already-variegated mother clump, and growth is markedly slower than in ordinary green Clivia miniata since the pale leaf sections contribute little photosynthesis. This slow growth and the individuality of each plant's pattern are exactly why variegated clivia have long commanded extraordinary collector prices in Japan and China, far beyond what flower color alone commands in this genus.",
+    "sources": [
+      "PubMed \u2014 Leaf patterning of Clivia miniata var. variegata is associated with differential DNA methylation",
+      "Royal Horticultural Society \u2014 Clivia miniata 'Striata'",
+      "Melbourne Clivia Group \u2014 Growing Variegates"
+    ]
+  },
+  {
+    "slug": "xanthosoma-atrovirens",
+    "common_name": "Indian Kale (Yautia Amarilla)",
+    "scientific_name": "Xanthosoma atrovirens",
+    "category": "vegetable",
+    "subcategory": "tropical root vegetable",
+    "days_to_germination": {
+      "min": 14,
+      "max": 28
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 80
+    },
+    "days_to_maturity": {
+      "min": 240,
+      "max": 365
+    },
+    "maturity_from": "transplant",
+    "sow_method": "tuber",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 4
+      },
+      "note": "Plant corm pieces with at least one eye after soil warms to 65F+ in deep, moist, fertile soil in partial shade; Indian Kale needs a long 8-10 month warm season to bulk up its unusually large central corm, which can reach 5+ pounds and is the primary edible part."
+    },
+    "usda_zones": {
+      "min": 9,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 24,
+      "max": 36
+    },
+    "height_in": {
+      "min": 36,
+      "max": 60
+    },
+    "spread_in": {
+      "min": 24,
+      "max": 36
+    },
+    "sun": "partial",
+    "water": "high",
+    "directions": "Plant in deep, fertile, consistently moist soil in partial shade to sun, giving the plant a full warm season to develop its corm. Xanthosoma atrovirens, known as Indian Kale or yaut\u00eda amarilla, originated in Venezuela and has been cultivated across tropical America since pre-Columbian times, becoming especially favored in Puerto Rico, Cuba, and Jamaica. Unlike the other Xanthosoma species already in this dataset, its main edible organ is the central corm itself rather than the surrounding cormels \u2014 the corm is more tender than the tubers of most relatives, can weigh up to 2.5 kg (about 5.5 lb), and has yellow-orange flesh. As with all Xanthosoma, both corm and leaves must be thoroughly cooked before eating to break down irritating calcium oxalate crystals.",
+    "sources": [
+      "Morton, J.F. \u2014 Cocoyams (Xanthosoma caracu, X. atrovirens and X. nigrum), Florida State Horticultural Society Proceedings",
+      "Purdue University Center for New Crops and Plant Products \u2014 Xanthosoma",
+      "USDA PLANTS Database \u2014 Xanthosoma atrovirens"
+    ]
+  },
+  {
+    "slug": "xanthosoma-caracu",
+    "common_name": "Taioba (White Yaut\u00eda, Caracu Cocoyam)",
+    "scientific_name": "Xanthosoma caracu",
+    "category": "vegetable",
+    "subcategory": "tropical root vegetable",
+    "days_to_germination": {
+      "min": 14,
+      "max": 28
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 80
+    },
+    "days_to_maturity": {
+      "min": 210,
+      "max": 300
+    },
+    "maturity_from": "transplant",
+    "sow_method": "tuber",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 4
+      },
+      "note": "Plant corm divisions after last frost in rich, consistently moist soil in partial shade; Xanthosoma caracu is grown both for its white-fleshed corms and, especially in Brazil, for its young leaves ('taioba'), which are cooked as a pot-herb similar to callaloo."
+    },
+    "usda_zones": {
+      "min": 9,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 24,
+      "max": 36
+    },
+    "height_in": {
+      "min": 60,
+      "max": 72
+    },
+    "spread_in": {
+      "min": 24,
+      "max": 36
+    },
+    "sun": "partial",
+    "water": "high",
+    "directions": "Plant in rich, consistently moist, well-drained soil in partial shade to sun. Xanthosoma caracu is the source of most white-fleshed cultivated tannia in the Caribbean, distinguished from the yellow-orange-fleshed corms of X. atrovirens and X. sagittifolium and the deep purple petioles of X. violaceum already in this dataset by its numerous grey-brown, club-shaped corms with pale white flesh. Its glossy, bluish-green leaves with paler undersides are themselves an important vegetable in Brazil, where young leaves are chopped and simmered as the traditional dish taioba, in addition to the corm harvest used across Mexico, the Caribbean, and northern South America. Cook both leaves and corms thoroughly, as with all Xanthosoma, to neutralize calcium oxalate crystals before eating.",
+    "sources": [
+      "PMC (National Library of Medicine) \u2014 Valorization of Taioba Products and By-Products: Focusing on Starch",
+      "Plants of the World Online, Royal Botanic Gardens Kew \u2014 Xanthosoma caracu",
+      "Purdue University Center for New Crops and Plant Products \u2014 Xanthosoma"
+    ]
+  },
+  {
+    "slug": "xanthosoma-robustum",
+    "common_name": "Capote (Wild Arrowleaf Elephant Ear)",
+    "scientific_name": "Xanthosoma robustum",
+    "category": "flower",
+    "subcategory": "tropical perennial",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 150,
+      "max": 240
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant corm divisions in wet, fertile, humus-rich soil in partial shade to sun after all frost danger has passed; Capote is the largest and most vigorous Xanthosoma commonly seen in cultivation, readily naturalizing in wet ditches and pastures where conditions allow."
+    },
+    "usda_zones": {
+      "min": 9,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 36,
+      "max": 48
+    },
+    "height_in": {
+      "min": 72,
+      "max": 144
+    },
+    "spread_in": {
+      "min": 36,
+      "max": 60
+    },
+    "sun": "partial",
+    "water": "high",
+    "directions": "Plant in wet, fertile, humus-rich soil in partial shade to full sun, giving it plenty of room to reach its full towering size. Xanthosoma robustum, called capote, is native to central Mexico and Central America and is the largest-growing Xanthosoma species widely encountered, reaching up to 4 meters (over 13 feet) under good conditions with waxy, dark green leaf blades exceeding a meter long \u2014 considerably bigger and more vigorous than the cultivated sagittifolium selections elsewhere in this dataset. It is readily told apart from true taro (Colocasia) and 'ape (Alocasia) by its leaf tip, which points distinctly downward, and its basal lobes, which deflex outward and backward rather than forward. Grown chiefly as a dramatic, coarse-textured foliage accent for wet, shaded sites rather than as a food crop, it is naturalized along roadsides, pastures, and wet ground in Hawaii and parts of its native range, so site it where its spread can be managed.",
+    "sources": [
+      "Pacific Island Ecosystems at Risk (PIER) \u2014 Xanthosoma robustum species profile",
+      "Bishop Museum \u2014 What is kalo? (comparative Hawaiian aroid identification)",
+      "GBIF Backbone Taxonomy \u2014 Xanthosoma robustum"
+    ]
+  }
+]
