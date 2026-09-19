@@ -1,0 +1,198 @@
+[
+  {
+    "slug": "creek-pecan",
+    "common_name": "Creek Pecan (USDA Scab-Resistant Precocious Type I Pecan for the Southeast)",
+    "scientific_name": "Carya illinoinensis 'Creek'",
+    "category": "fruit",
+    "subcategory": "nut tree",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 1825,
+      "max": 2555
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -4
+      },
+      "note": "Plant grafted bare-root trees in late winter while fully dormant, in deep, well-drained soil; Creek is a Type I (protandrous) pecan and needs a Type II cultivar such as Elliott, Kanza, or Oconee planted within pollination range for a full nut set."
+    },
+    "usda_zones": {
+      "min": 6,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 300,
+      "max": 600
+    },
+    "height_in": {
+      "min": 480,
+      "max": 840
+    },
+    "spread_in": {
+      "min": 300,
+      "max": 540
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Creek is a USDA-ARS release (1996) valued for exceptionally precocious bearing, often producing a crop within five years of planting, and for moderate-to-good resistance to pecan scab that makes it more forgiving in the humid Gulf Coast than older susceptible cultivars. Nuts are long, narrow, and elliptical, running about 54 per pound with good flavor and filling. As a Type I pollen shedder, Creek needs a Type II cultivar planted nearby for reliable cross-pollination. Its tolerance of partial shade and closer spacing makes it a flexible choice for smaller Gulf Coast home orchards.",
+    "sources": [
+      "USDA Agricultural Research Service \u2014 Pecan Breeding Program cultivar releases",
+      "University of Georgia Pecan Breeding Program \u2014 Recommended Cultivar List",
+      "LSU AgCenter \u2014 Scab-Resistant Pecan Varieties for Home Orchards"
+    ]
+  },
+  {
+    "slug": "jenkins-pecan",
+    "common_name": "Jenkins Pecan (Mississippi Delta Scab-Resistant Pecan, Type II Gulf South Selection)",
+    "scientific_name": "Carya illinoinensis 'Jenkins'",
+    "category": "fruit",
+    "subcategory": "nut tree",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 2190,
+      "max": 2920
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -4
+      },
+      "note": "Plant grafted trees in late winter in deep, fertile, well-drained soil; because Jenkins shows only weak separation between pollen shed and stigma receptivity, pair it with a cultivar of clearly opposite dichogamy type to ensure dependable cross-pollination."
+    },
+    "usda_zones": {
+      "min": 6,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 360,
+      "max": 720
+    },
+    "height_in": {
+      "min": 480,
+      "max": 960
+    },
+    "spread_in": {
+      "min": 360,
+      "max": 600
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Jenkins originated as a chance seedling planted around 1977 by grower Travis Jenkins in Rena Lara, Mississippi, and was later evaluated by Auburn University, Mississippi State University, and the University of Georgia for its scab resistance and nut quality. Nuts are ovate with a rounded base similar to Success, run about 55 per pound, and fill to roughly 53 percent kernel, ripening a few days ahead of Stuart. Its good scab tolerance and strong fall foliage retention make it a solid low-spray option for Mississippi Delta and broader Gulf South backyard orchards.",
+    "sources": [
+      "Mississippi State University Extension \u2014 Pecan Variety Recommendations",
+      "Auburn University \u2014 Pecan Cultivar Evaluations",
+      "University of Georgia Pecan Breeding Program \u2014 Recommended Cultivar List"
+    ]
+  },
+  {
+    "slug": "headquarters-pecan",
+    "common_name": "Headquarters Pecan (Alabama Scab-Resistant Elliott-Type Selection for Low-Spray Orchards)",
+    "scientific_name": "Carya illinoinensis 'Headquarters'",
+    "category": "fruit",
+    "subcategory": "nut tree",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 2190,
+      "max": 2920
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -4
+      },
+      "note": "Plant grafted trees in late winter in deep, well-drained soil; because Headquarters likely derives from Elliott, expect similar later pollen-shed timing and pair it with an earlier-shedding Type I cultivar for full nut set."
+    },
+    "usda_zones": {
+      "min": 6,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 360,
+      "max": 720
+    },
+    "height_in": {
+      "min": 480,
+      "max": 960
+    },
+    "spread_in": {
+      "min": 360,
+      "max": 600
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Headquarters is an Alabama selection, likely a seedling of Elliott, identified by Alabama Extension horticulturists for its ability to crop heavily with no fungicide sprays in Alabama trials. Nuts resemble Elliott but are noticeably larger, though kernel quality runs somewhat behind Elliott, which led breeding programs to discontinue further testing of the cultivar. For Gulf Coast home growers who prioritize disease resistance and low maintenance over show-quality kernels, Headquarters remains a scab-resistant option worth sourcing from specialty nurseries.",
+    "sources": [
+      "Alabama Cooperative Extension System / Alabama Pecan Growers Association",
+      "University of Georgia Pecan Breeding Program \u2014 Recommended Cultivar List",
+      "Auburn University \u2014 Pecan Variety Trials"
+    ]
+  },
+  {
+    "slug": "moore-pecan",
+    "common_name": "Moore Pecan (Historic Texas Heirloom Pecan, Parent of the Apalachee Cultivar)",
+    "scientific_name": "Carya illinoinensis 'Moore'",
+    "category": "fruit",
+    "subcategory": "nut tree",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 2555,
+      "max": 3650
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -4
+      },
+      "note": "Plant grafted trees in late winter in deep, well-drained soil; Moore lacks the scab resistance of modern cultivars, so in humid Gulf Coast plantings budget for an attentive fungicide program and pair it with a distinctly timed pollinator cultivar."
+    },
+    "usda_zones": {
+      "min": 6,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 360,
+      "max": 720
+    },
+    "height_in": {
+      "min": 480,
+      "max": 960
+    },
+    "spread_in": {
+      "min": 360,
+      "max": 600
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Moore is a historic Texas heirloom pecan long grown in the San Saba and Hill Country region, prized in its day for a notably light-colored, good-flavored kernel. It carries breeding significance as one of the parents, crossed with Schley at Brownwood, Texas in 1948, of the modern cultivar Apalachee. Because mature Moore trees are prone to alternate bearing and inconsistent nut quality, and the variety lacks the scab resistance of newer releases, it suits heirloom orchards and breeding collections better than a primary planting in humid Gulf Coast conditions.",
+    "sources": [
+      "Texas A&M AgriLife Extension \u2014 Aggie Horticulture Carya Pecan Cultivars Database",
+      "Texas Pecan Growers Association \u2014 Old Pecan Varieties in Texas",
+      "USDA Agricultural Research Service \u2014 Carya Pecan Germplasm Collection"
+    ]
+  }
+]

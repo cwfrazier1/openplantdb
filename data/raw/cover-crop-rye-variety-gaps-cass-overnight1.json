@@ -1,0 +1,167 @@
+[
+  {
+    "slug": "wheeler-winter-rye",
+    "common_name": "Wheeler Winter Rye (Northeast-Adapted Cover Crop Cereal Rye)",
+    "scientific_name": "Secale cereale 'Wheeler'",
+    "category": "cover-crop",
+    "subcategory": "grass",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 34,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 90
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {
+        "min": -6,
+        "max": 0
+      },
+      "note": "Sow in fall before or shortly after the first frost; Wheeler is a cereal rye variety commonly trialed and grown in the Northeast for its reliable winter survival and biomass production."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 7
+    },
+    "spacing_in": {
+      "min": 2,
+      "max": 4
+    },
+    "height_in": {
+      "min": 36,
+      "max": 60
+    },
+    "spread_in": {
+      "min": 6,
+      "max": 10
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Drill or broadcast into a prepared or lightly tilled seedbed in fall; Wheeler has been included alongside standards like Aroostook in regional Northeast cover crop variety trials for its consistent stand establishment and winter survival in short-season climates. It produces a fibrous, weed-suppressing root mass through winter and a flush of biomass in spring that can be terminated by mowing or crimping ahead of a following cash crop. Because this cultivar is bred for cold regions, growers south of its adapted zone should compare it against southern-selected ryes for disease resistance before large-scale planting. Avoid letting stands set seed, since mature cereal rye tillers can become difficult to terminate and may volunteer in subsequent plantings.",
+    "sources": [
+      "University of Vermont Extension \u2014 Winter Rye Variety Trial",
+      "SARE (Sustainable Agriculture Research and Education) \u2014 Cover Crop Chart",
+      "USDA Natural Resources Conservation Service \u2014 Cereal Rye Plant Guide"
+    ]
+  },
+  {
+    "slug": "rymin-winter-rye",
+    "common_name": "Rymin Winter Rye (Minnesota-Bred Cold-Hardy Cover Crop Cereal Rye)",
+    "scientific_name": "Secale cereale 'Rymin'",
+    "category": "cover-crop",
+    "subcategory": "grass",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 33,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 90
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {
+        "min": -6,
+        "max": 0
+      },
+      "note": "Sow in early to mid fall ahead of hard freeze-up; Rymin was bred at the Minnesota Agricultural Experiment Station and is best suited to cold northern climates where its winter survival and early spring regrowth are strongest."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 6
+    },
+    "spacing_in": {
+      "min": 2,
+      "max": 4
+    },
+    "height_in": {
+      "min": 36,
+      "max": 60
+    },
+    "spread_in": {
+      "min": 6,
+      "max": 10
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Broadcast or drill seed in early fall so plants can tiller before winter dormancy; Rymin was developed at the Minnesota Agricultural Experiment Station and is prized in northern growing areas for exceptional winter hardiness and rapid green-up once soils warm in spring. Growing degree day accumulation strongly influences its heading date, so growers in its home range can time termination fairly predictably from planting date. This cultivar has shown increased susceptibility to rust and other foliar disease when grown well south of its zone of adaptation, so it performs best in the Upper Midwest and similarly cold regions rather than the milder South. Terminate by mowing, crimping, or herbicide before flowering to prevent volunteer regrowth and to time nitrogen release ahead of the next crop.",
+    "sources": [
+      "Minnesota Agricultural Experiment Station",
+      "Crop Management (Wiley) \u2014 Kantar et al., Winter Rye Variety Rymin in Minnesota",
+      "USDA Natural Resources Conservation Service \u2014 Cereal Rye Plant Guide"
+    ]
+  },
+  {
+    "slug": "guardian-winter-rye",
+    "common_name": "Guardian Winter Rye (Vigorous Early-Establishing Cover Crop Cereal Rye)",
+    "scientific_name": "Secale cereale 'Guardian'",
+    "category": "cover-crop",
+    "subcategory": "grass",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 34,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 90
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {
+        "min": -6,
+        "max": 0
+      },
+      "note": "Sow in fall from late summer through early winter depending on climate; Guardian is a commercially screened cereal rye selected for dependable germination and quick early-season vigor, making it a low-risk choice for growers new to cover cropping."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 2,
+      "max": 4
+    },
+    "height_in": {
+      "min": 36,
+      "max": 60
+    },
+    "spread_in": {
+      "min": 6,
+      "max": 10
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Broadcast or drill into a prepared seedbed anytime from late summer into early winter, since this cultivar germinates readily even as soil temperatures drop. Guardian is marketed as a dependable, well-screened cereal rye seed lot valued for uniform emergence and fast early vigor, giving it a reputation as an accessible starting point for growers building their first cover crop rotation. Its solid winter hardiness and quick spring green-up support strong weed suppression and erosion control across a wide range of climates. As with other cereal ryes, terminate by mowing, rolling, or herbicide at or before flowering to avoid a tough-to-kill stand and unwanted reseeding.",
+    "sources": [
+      "La Crosse Seed \u2014 Guardian Winter Rye product guide",
+      "SARE (Sustainable Agriculture Research and Education) \u2014 Cover Crop Chart",
+      "USDA Natural Resources Conservation Service \u2014 Cereal Rye Plant Guide"
+    ]
+  }
+]

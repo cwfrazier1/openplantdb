@@ -1,0 +1,210 @@
+[
+  {
+    "slug": "elaeagnus-angustifolia",
+    "common_name": "Russian Olive (Oleaster)",
+    "scientific_name": "Elaeagnus angustifolia",
+    "category": "berry",
+    "subcategory": "shrub fruit",
+    "days_to_germination": {
+      "min": 30,
+      "max": 90
+    },
+    "germination_soil_temp_f": {
+      "min": 50,
+      "max": 68
+    },
+    "days_to_maturity": {
+      "min": 1095,
+      "max": 1460
+    },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant bare-root or container stock in spring in any well-drained soil, including poor, saline, or alkaline sites; Russian olive is classified as a noxious or invasive species in much of the western and central U.S., particularly along riparian corridors, and its sale or planting is restricted or banned in several states \u2014 confirm legal status locally before planting."
+    },
+    "usda_zones": {
+      "min": 2,
+      "max": 7
+    },
+    "spacing_in": {
+      "min": 120,
+      "max": 180
+    },
+    "height_in": {
+      "min": 144,
+      "max": 240
+    },
+    "spread_in": {
+      "min": 144,
+      "max": 240
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Russian olive is an extremely cold-hardy, nitrogen-fixing shrub or small tree from Eurasia, grown historically for windbreaks, erosion control, and its silvery, drought-tolerant foliage. The small, mealy, olive-like fruits ripen tan to reddish in fall and are edible fresh or dried, with a dry, sweet-astringent flavor traditionally used in Central Asian cooking. It tolerates poor, saline, and alkaline soils that few other fruiting shrubs can handle, and the fragrant, inconspicuous yellow spring flowers are attractive to pollinators. Because it spreads readily by seed via birds and can outcompete native cottonwood and willow along waterways, it should only be planted where it is not restricted, and ideally kept away from natural riparian areas; where legal, choose an isolated garden site rather than a location near streams or wild land.",
+    "sources": [
+      "USDA NRCS Plant Fact Sheet \u2014 Elaeagnus angustifolia",
+      "USDA Forest Service Fire Effects Information System \u2014 Elaeagnus angustifolia",
+      "Colorado State University Extension \u2014 Russian Olive"
+    ]
+  },
+  {
+    "slug": "elaeagnus-macrophylla",
+    "common_name": "Broadleaf Silverberry (Bigleaf Elaeagnus)",
+    "scientific_name": "Elaeagnus macrophylla",
+    "category": "berry",
+    "subcategory": "evergreen shrub",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 730,
+      "max": 1095
+    },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 8
+      },
+      "note": "Plant container-grown shrubs in spring or fall in well-drained, lean to moderately fertile soil in full sun to partial shade; broadleaf silverberry tolerates coastal wind and salt spray extremely well and is one of the parent species of the popular hybrid Elaeagnus x ebbingei."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 96,
+      "max": 144
+    },
+    "height_in": {
+      "min": 96,
+      "max": 180
+    },
+    "spread_in": {
+      "min": 96,
+      "max": 168
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Broadleaf silverberry is an evergreen shrub native to the coastal cliffs and dunes of Japan and Korea, notable for unusually large, rounded, leathery leaves with a bright silver-scaled underside that catches light dramatically in a breeze. Small, intensely fragrant, creamy white flowers open in autumn and are followed by orange-red, silver-speckled fruits that ripen in spring and are edible with a tart, astringent flavor similar to its relatives. It is exceptionally tolerant of salt spray, wind, and poor coastal soils, making it a strong choice for seaside windbreaks and screening, and it fixes atmospheric nitrogen through root nodules like other Elaeagnus. It is the seed parent of the widely planted hybrid E. x ebbingei and shares that hybrid's toughness, but the true species is less commonly offered in the nursery trade and worth seeking out for its bolder foliage.",
+    "sources": [
+      "Missouri Botanical Garden Plant Finder \u2014 Elaeagnus macrophylla",
+      "Royal Horticultural Society \u2014 Elaeagnus macrophylla",
+      "Flora of Japan (Ohwi) \u2014 Elaeagnaceae"
+    ]
+  },
+  {
+    "slug": "zanthoxylum-piperitum-asakura-sansho",
+    "common_name": "Asakura Sansho (Thornless Japanese Pepper)",
+    "scientific_name": "Zanthoxylum piperitum 'Asakura Sansho'",
+    "category": "herb",
+    "subcategory": "perennial spice shrub",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 730,
+      "max": 1460
+    },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": 4
+      },
+      "note": "Plant container stock in spring in well-drained, moderately fertile, slightly acidic soil in partial shade to full sun; Asakura Sansho is a traditional Japanese selection valued for lacking the sharp thorns of the wild species, making harvest and pruning far easier."
+    },
+    "usda_zones": {
+      "min": 6,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 48,
+      "max": 96
+    },
+    "height_in": {
+      "min": 60,
+      "max": 120
+    },
+    "spread_in": {
+      "min": 48,
+      "max": 96
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Asakura Sansho is a long-cultivated, essentially thornless selection of Japanese sansho pepper (Zanthoxylum piperitum), prized in Japan for producing an abundant crop of aromatic young leaves (kinome) in spring and green, citrusy-hot berries in summer that are ground into the classic sansho spice used on eel, tempura, and miso dishes. Unlike wild sansho and most other Zanthoxylum, the near-absence of thorns makes hand-harvesting the leaves and unripe fruit clusters far more pleasant. It grows best with some afternoon shade and consistent moisture, especially in hotter climates, and appreciates a woodland-edge type site rather than full baking sun. Both male and female plants are needed for fruit set since sansho is typically dioecious, though male plants alone are still valuable for their prized kinome leaf harvest.",
+    "sources": [
+      "One Green World \u2014 Sansho Pepper Varieties",
+      "Japan Times \u2014 Sansho and Kinome Culinary Guide",
+      "Kew Royal Botanic Gardens \u2014 Zanthoxylum piperitum"
+    ]
+  },
+  {
+    "slug": "zanthoxylum-schinifolium",
+    "common_name": "Korean Sancho (Mastic-Leaf Prickly Ash)",
+    "scientific_name": "Zanthoxylum schinifolium",
+    "category": "herb",
+    "subcategory": "perennial spice shrub",
+    "days_to_germination": {
+      "min": 21,
+      "max": 60
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 72
+    },
+    "days_to_maturity": {
+      "min": 730,
+      "max": 1460
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": 4
+      },
+      "note": "Plant container stock in spring in well-drained, lean to moderately fertile soil in full sun to partial shade; wear gloves when handling due to sharp recurved thorns along the stems."
+    },
+    "usda_zones": {
+      "min": 6,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 48,
+      "max": 96
+    },
+    "height_in": {
+      "min": 48,
+      "max": 120
+    },
+    "spread_in": {
+      "min": 48,
+      "max": 96
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Korean sancho is a thorny deciduous shrub native to Korea, Japan, and China, closely related to Sichuan pepper and Japanese sansho but distinguished by finer, more feathery compound leaves and smaller, intensely aromatic reddish husks. The dried husks are ground into a numbing, citrusy spice used in Korean cooking, most notably in chueotang (loach soup) and other fish and meat dishes where its sharp, palate-tingling quality cuts through rich or fishy flavors. It is more shade-tolerant than many of its relatives and often grows as an understory shrub at woodland edges, making it adaptable to less-than-full-sun garden spots. Drought-tolerant once established, it fixes no nitrogen itself but is otherwise a low-input shrub, needing only occasional pruning to control size and remove old, unproductive wood.",
+    "sources": [
+      "Korea National Arboretum \u2014 Zanthoxylum schinifolium",
+      "American Botanical Council \u2014 Sichuan Pepper and Relatives",
+      "Kew Royal Botanic Gardens \u2014 Zanthoxylum schinifolium"
+    ]
+  }
+]

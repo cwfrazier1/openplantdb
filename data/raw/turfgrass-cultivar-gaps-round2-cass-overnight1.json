@@ -5,26 +5,54 @@
     "scientific_name": "Zoysia japonica 'Belair'",
     "category": "cover-crop",
     "subcategory": "turfgrass",
-    "days_to_germination": { "min": null, "max": null },
-    "germination_soil_temp_f": { "min": 65, "max": 95 },
-    "days_to_maturity": { "min": 45, "max": 120 },
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 95
+    },
+    "days_to_maturity": {
+      "min": 45,
+      "max": 120
+    },
     "maturity_from": "transplant",
     "sow_method": "transplant",
     "season": "warm",
     "frost_tolerance": "hardy",
     "planting": {
       "anchor": "last_frost",
-      "weeks_from_anchor": { "min": 2, "max": 8 },
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 8
+      },
       "note": "Establish from sod, sprigs, or plugs (not seed) once soil is consistently warm; Belair was released by the USDA in the mid-1980s as a coarser, more open, and notably faster-establishing alternative to Meyer, while retaining strong cold hardiness for transition-zone lawns."
     },
-    "usda_zones": { "min": 5, "max": 10 },
-    "spacing_in": { "min": 6, "max": 12 },
-    "height_in": { "min": 1, "max": 3 },
-    "spread_in": { "min": 6, "max": 12 },
+    "usda_zones": {
+      "min": 5,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 6,
+      "max": 12
+    },
+    "height_in": {
+      "min": 1,
+      "max": 3
+    },
+    "spread_in": {
+      "min": 6,
+      "max": 12
+    },
     "sun": "partial",
     "water": "low",
     "directions": "Belair is a USDA release from Beltsville, Maryland selected as a quicker-filling alternative to the slow-spreading Meyer standard, with a more open growth habit and coarser leaf blade that some gardeners find less refined but far less frustrating to establish from plugs. Its cold hardiness rivals Meyer's, making it a dependable choice for transition-zone lawns from the mid-Atlantic through the lower Midwest where bermudagrass struggles to survive winter. It handles light to moderate shade reasonably well and needs comparatively little water or fertilizer once established, though its coarser texture can develop brown patch disease in humid, poorly drained sites. Mow regularly through the growing season to keep pace with its faster growth rate relative to Meyer.",
-    "sources": ["North Carolina State University Extension", "Virginia Cooperative Extension", "USDA Agricultural Research Service"]
+    "sources": [
+      "North Carolina State University Extension",
+      "Virginia Cooperative Extension",
+      "USDA Agricultural Research Service"
+    ]
   },
   {
     "slug": "chisholm-zoysia-grass",
@@ -32,26 +60,54 @@
     "scientific_name": "Zoysia japonica 'Chisholm'",
     "category": "cover-crop",
     "subcategory": "turfgrass",
-    "days_to_germination": { "min": null, "max": null },
-    "germination_soil_temp_f": { "min": 65, "max": 95 },
-    "days_to_maturity": { "min": 45, "max": 120 },
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 95
+    },
+    "days_to_maturity": {
+      "min": 45,
+      "max": 120
+    },
     "maturity_from": "transplant",
     "sow_method": "transplant",
     "season": "warm",
     "frost_tolerance": "hardy",
     "planting": {
       "anchor": "last_frost",
-      "weeks_from_anchor": { "min": 2, "max": 8 },
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 8
+      },
       "note": "Establish from sod or plugs (not seed) once soil is consistently warm; Chisholm was released by Oklahoma State University and the USDA specifically for the transition zone, valued for faster establishment than Meyer and strong resistance to bluegrass billbug and zoysiagrass mite."
     },
-    "usda_zones": { "min": 6, "max": 10 },
-    "spacing_in": { "min": 6, "max": 12 },
-    "height_in": { "min": 1, "max": 3 },
-    "spread_in": { "min": 6, "max": 12 },
+    "usda_zones": {
+      "min": 6,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 6,
+      "max": 12
+    },
+    "height_in": {
+      "min": 1,
+      "max": 3
+    },
+    "spread_in": {
+      "min": 6,
+      "max": 12
+    },
     "sun": "partial",
     "water": "low",
     "directions": "Chisholm was bred jointly by Oklahoma State University and the USDA to fill gaps left by the aging Meyer standard, establishing markedly faster from plugs and holding better turf quality under shade and traffic. Its most notable trait is strong resistance to bluegrass billbug and zoysiagrass mite, two pests that can thin out Meyer stands in the transition zone, along with improved resistance to take-all root rot. Its texture is coarser than Meyer but finer than broad-bladed types like Empire, and its cold tolerance is roughly on par with Meyer, making it well suited to zone 6b and warmer transition-zone lawns. Keep nitrogen inputs modest and mow at 1 to 2.5 inches for best density.",
-    "sources": ["Oklahoma State University Extension", "Crop Science Society of America — Registration of 'Chisholm' Zoysiagrass", "Kansas State University Research and Extension"]
+    "sources": [
+      "Oklahoma State University Extension",
+      "Crop Science Society of America \u2014 Registration of 'Chisholm' Zoysiagrass",
+      "Kansas State University Research and Extension"
+    ]
   },
   {
     "slug": "compadre-zoysia-grass",
@@ -59,26 +115,54 @@
     "scientific_name": "Zoysia japonica 'Compadre'",
     "category": "cover-crop",
     "subcategory": "turfgrass",
-    "days_to_germination": { "min": 14, "max": 21 },
-    "germination_soil_temp_f": { "min": 70, "max": 90 },
-    "days_to_maturity": { "min": 70, "max": 100 },
+    "days_to_germination": {
+      "min": 14,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 90
+    },
+    "days_to_maturity": {
+      "min": 70,
+      "max": 100
+    },
     "maturity_from": "seed",
     "sow_method": "direct",
     "season": "warm",
     "frost_tolerance": "hardy",
     "planting": {
       "anchor": "last_frost",
-      "weeks_from_anchor": { "min": 0, "max": 8 },
-      "note": "Broadcast hulled seed at 1-2 lbs per 1,000 sq ft once soil is reliably above 70°F; Compadre is one of the few zoysia cultivars that establishes readily from seed, reaching full cover in about 10 to 14 weeks rather than the year or more typical of plugged zoysia."
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 8
+      },
+      "note": "Broadcast hulled seed at 1-2 lbs per 1,000 sq ft once soil is reliably above 70\u00b0F; Compadre is one of the few zoysia cultivars that establishes readily from seed, reaching full cover in about 10 to 14 weeks rather than the year or more typical of plugged zoysia."
     },
-    "usda_zones": { "min": 6, "max": 9 },
-    "spacing_in": { "min": 1, "max": 1 },
-    "height_in": { "min": 1, "max": 3 },
-    "spread_in": { "min": 12, "max": 24 },
+    "usda_zones": {
+      "min": 6,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 1,
+      "max": 1
+    },
+    "height_in": {
+      "min": 1,
+      "max": 3
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 24
+    },
     "sun": "partial",
     "water": "low",
     "directions": "Compadre traces to a USDA Beltsville cross of Zoysia japonica selections and stands out among zoysiagrasses for germinating and filling in readily from seed, avoiding the slow plug-to-full-lawn wait that troubles Meyer and other vegetative cultivars. It is notably salt tolerant, making it a favorite for coastal lawns exposed to salt spray or irrigated with brackish water, and it holds up well to foot and athletic traffic. Shade tolerance is good in the humid South but it wants more direct sun in cooler regions, and like other zoysias it goes dormant and tan after the first hard freeze. Keep newly seeded areas consistently moist for several weeks until the stand knits together.",
-    "sources": ["Hancock Seed Company — Compadre Zoysia Grass Seed", "Clemson Cooperative Extension — Zoysiagrass", "Virginia Cooperative Extension"]
+    "sources": [
+      "Hancock Seed Company \u2014 Compadre Zoysia Grass Seed",
+      "Clemson Cooperative Extension \u2014 Zoysiagrass",
+      "Virginia Cooperative Extension"
+    ]
   },
   {
     "slug": "crowne-zoysia-grass",
@@ -86,26 +170,54 @@
     "scientific_name": "Zoysia japonica 'Crowne'",
     "category": "cover-crop",
     "subcategory": "turfgrass",
-    "days_to_germination": { "min": null, "max": null },
-    "germination_soil_temp_f": { "min": 65, "max": 95 },
-    "days_to_maturity": { "min": 45, "max": 120 },
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 95
+    },
+    "days_to_maturity": {
+      "min": 45,
+      "max": 120
+    },
     "maturity_from": "transplant",
     "sow_method": "transplant",
     "season": "warm",
     "frost_tolerance": "hardy",
     "planting": {
       "anchor": "last_frost",
-      "weeks_from_anchor": { "min": 2, "max": 8 },
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 8
+      },
       "note": "Establish from sod or plugs (not seed) once soil is consistently warm; Crowne was released by Texas A&M in 1997 for low water use and good winter hardiness, extending reliable zoysia performance further north than many warm-climate selections."
     },
-    "usda_zones": { "min": 5, "max": 9 },
-    "spacing_in": { "min": 6, "max": 12 },
-    "height_in": { "min": 1, "max": 3 },
-    "spread_in": { "min": 6, "max": 12 },
+    "usda_zones": {
+      "min": 5,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 6,
+      "max": 12
+    },
+    "height_in": {
+      "min": 1,
+      "max": 3
+    },
+    "spread_in": {
+      "min": 6,
+      "max": 12
+    },
     "sun": "partial",
     "water": "low",
     "directions": "Crowne was developed and released by Texas A&M AgriLife in the mid-1990s, selected for a dark green, medium-wide blade and a notably low water requirement even by zoysia standards. It has good to excellent winter hardiness for a Texas-bred cultivar, persisting as far north as Kansas, Missouri, and Illinois, which sets it apart from more tender Texas selections. Crowne tolerates moderate shade and moderate foot traffic, forming a soft, dense turf well suited to backyard lawns, though like other zoysias it is slow to fill in from plugs compared with seeded grasses. Water deeply but infrequently once established to encourage a deep, drought-resilient root system.",
-    "sources": ["Texas A&M AgriLife Extension — Zoysiagrass Selection Guide", "Texas A&M AgriLife Extension — Turfgrass Selection for Texas", "Oklahoma State University Extension"]
+    "sources": [
+      "Texas A&M AgriLife Extension \u2014 Zoysiagrass Selection Guide",
+      "Texas A&M AgriLife Extension \u2014 Turfgrass Selection for Texas",
+      "Oklahoma State University Extension"
+    ]
   },
   {
     "slug": "de-anza-zoysia-grass",
@@ -113,26 +225,54 @@
     "scientific_name": "Zoysia japonica 'De Anza'",
     "category": "cover-crop",
     "subcategory": "turfgrass",
-    "days_to_germination": { "min": null, "max": null },
-    "germination_soil_temp_f": { "min": 65, "max": 95 },
-    "days_to_maturity": { "min": 45, "max": 100 },
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 95
+    },
+    "days_to_maturity": {
+      "min": 45,
+      "max": 100
+    },
     "maturity_from": "transplant",
     "sow_method": "transplant",
     "season": "warm",
     "frost_tolerance": "half-hardy",
     "planting": {
       "anchor": "last_frost",
-      "weeks_from_anchor": { "min": 2, "max": 8 },
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 8
+      },
       "note": "Establish from sod or plugs (not seed) once soil is consistently warm; De Anza was released by the University of California specifically for Southern California's hot, dry summers and mild winters, and it establishes and heals from damage faster than most other fine-textured zoysia selections."
     },
-    "usda_zones": { "min": 8, "max": 10 },
-    "spacing_in": { "min": 6, "max": 12 },
-    "height_in": { "min": 1, "max": 3 },
-    "spread_in": { "min": 6, "max": 12 },
+    "usda_zones": {
+      "min": 8,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 6,
+      "max": 12
+    },
+    "height_in": {
+      "min": 1,
+      "max": 3
+    },
+    "spread_in": {
+      "min": 6,
+      "max": 12
+    },
     "sun": "full",
     "water": "low",
     "directions": "Released by the University of California, Riverside, De Anza is a fine-textured, blue-green zoysia selected for unusually fast coverage and wear recovery, making it a popular choice for Southern California sports fields and lawns where quicker establishment than old-standard Meyer is valued. It performs best in full sun and warm, dry climates, holding good color and density under heat and drought stress once established. Its cold tolerance is more limited than Meyer or Belair, with near-freezing nights dulling its color and prolonged freezing pushing it into dormancy, so it is best suited to mild-winter regions rather than the colder end of the zoysia range. Mow at 1 to 2 inches and irrigate sparingly once mature to keep its dense, wear-tolerant turf healthy.",
-    "sources": ["University of California Cooperative Extension", "West Coast Turf — De Anza Zoysia", "University of California, Riverside Turfgrass Research"]
+    "sources": [
+      "University of California Cooperative Extension",
+      "West Coast Turf \u2014 De Anza Zoysia",
+      "University of California, Riverside Turfgrass Research"
+    ]
   },
   {
     "slug": "zorro-zoysia-grass",
@@ -140,26 +280,54 @@
     "scientific_name": "Zoysia matrella 'Zorro'",
     "category": "cover-crop",
     "subcategory": "turfgrass",
-    "days_to_germination": { "min": null, "max": null },
-    "germination_soil_temp_f": { "min": 65, "max": 95 },
-    "days_to_maturity": { "min": 60, "max": 120 },
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 95
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 120
+    },
     "maturity_from": "transplant",
     "sow_method": "transplant",
     "season": "warm",
     "frost_tolerance": "half-hardy",
     "planting": {
       "anchor": "last_frost",
-      "weeks_from_anchor": { "min": 2, "max": 8 },
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 8
+      },
       "note": "Establish from sod or plugs (not seed) once soil is consistently warm; Zorro is a fine-bladed Zoysia matrella selection from Texas A&M valued for shade tolerance and salt tolerance but with limited cold hardiness compared with Zoysia japonica cultivars."
     },
-    "usda_zones": { "min": 7, "max": 10 },
-    "spacing_in": { "min": 6, "max": 12 },
-    "height_in": { "min": 1, "max": 2 },
-    "spread_in": { "min": 12, "max": 24 },
+    "usda_zones": {
+      "min": 7,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 6,
+      "max": 12
+    },
+    "height_in": {
+      "min": 1,
+      "max": 2
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 24
+    },
     "sun": "partial",
     "water": "low",
     "directions": "Zorro was developed at Texas A&M University and released in the early 2000s as an ultra-fine-bladed Zoysia matrella selection, with leaf blades among the narrowest of any commercially available zoysiagrass. It tolerates as little as three to four hours of direct light per day, making it one of the more shade-adapted warm-season turf options, and it recovers quickly from wear damage and resists several common turf diseases. Salt tolerance is excellent, suiting it to coastal properties, but its cold hardiness is limited to roughly zone 7 and warmer, so it is not a fit for the colder end of the transition zone. Mow low, at around 1 inch with a reel mower, for the cleanest, densest appearance.",
-    "sources": ["Texas A&M AgriLife Extension — Zoysiagrass Selection Guide", "Atlas Turf International — Zorro Zoysia", "University of Florida IFAS Extension — Zoysiagrass for Florida Lawns"]
+    "sources": [
+      "Texas A&M AgriLife Extension \u2014 Zoysiagrass Selection Guide",
+      "Atlas Turf International \u2014 Zorro Zoysia",
+      "University of Florida IFAS Extension \u2014 Zoysiagrass for Florida Lawns"
+    ]
   },
   {
     "slug": "geo-zoysia-grass",
@@ -167,26 +335,54 @@
     "scientific_name": "Zoysia japonica x tenuifolia 'Geo'",
     "category": "cover-crop",
     "subcategory": "turfgrass",
-    "days_to_germination": { "min": null, "max": null },
-    "germination_soil_temp_f": { "min": 65, "max": 95 },
-    "days_to_maturity": { "min": 45, "max": 120 },
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 95
+    },
+    "days_to_maturity": {
+      "min": 45,
+      "max": 120
+    },
     "maturity_from": "transplant",
     "sow_method": "transplant",
     "season": "warm",
     "frost_tolerance": "hardy",
     "planting": {
       "anchor": "last_frost",
-      "weeks_from_anchor": { "min": 2, "max": 8 },
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 8
+      },
       "note": "Establish from sod or plugs (not seed) once soil is consistently warm; Geo is a fine-bladed hybrid between Zoysia japonica and Zoysia tenuifolia, valued for excellent shade tolerance, minimal thatch buildup, and a soft, dense feel similar to sibling cultivars Emerald and Zeon."
     },
-    "usda_zones": { "min": 6, "max": 10 },
-    "spacing_in": { "min": 6, "max": 12 },
-    "height_in": { "min": 1, "max": 2 },
-    "spread_in": { "min": 12, "max": 24 },
+    "usda_zones": {
+      "min": 6,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 6,
+      "max": 12
+    },
+    "height_in": {
+      "min": 1,
+      "max": 2
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 24
+    },
     "sun": "partial",
     "water": "low",
     "directions": "Geo shares its Zoysia japonica x tenuifolia parentage with Emerald, producing a dark green, fine-bladed, low-growing turf that stays soft underfoot and builds minimal thatch compared with many other zoysia selections. It is noted for excellent shade tolerance and holds up well on sports fields, golf courses, and home lawns across a range of soil types from sandy to clay. Geo also shows good salinity and herbicide tolerance and can be mowed as low as 1 inch with a reel mower or 2 inches with a rotary mower for a manicured look. Like other fine-textured zoysias it is slower to establish from plugs than coarser cultivars, so budget extra time and consistent moisture during the first growing season.",
-    "sources": ["JW Turf Farms — Geo Zoysia", "University of Florida IFAS Extension — Zoysiagrass for Florida Lawns", "Clemson Cooperative Extension — Zoysiagrass"]
+    "sources": [
+      "JW Turf Farms \u2014 Geo Zoysia",
+      "University of Florida IFAS Extension \u2014 Zoysiagrass for Florida Lawns",
+      "Clemson Cooperative Extension \u2014 Zoysiagrass"
+    ]
   },
   {
     "slug": "floralawn-st-augustine-grass",
@@ -194,26 +390,54 @@
     "scientific_name": "Stenotaphrum secundatum 'Floralawn'",
     "category": "cover-crop",
     "subcategory": "turfgrass",
-    "days_to_germination": { "min": null, "max": null },
-    "germination_soil_temp_f": { "min": 70, "max": 95 },
-    "days_to_maturity": { "min": 30, "max": 60 },
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 95
+    },
+    "days_to_maturity": {
+      "min": 30,
+      "max": 60
+    },
     "maturity_from": "transplant",
     "sow_method": "transplant",
     "season": "warm",
     "frost_tolerance": "tender",
     "planting": {
       "anchor": "last_frost",
-      "weeks_from_anchor": { "min": 2, "max": 8 },
-      "note": "Establish from sod or plugs (not seed) once soil is consistently above 70°F; Floralawn is a sibling of Floratam released by the University of Florida, bred for resistance to St. Augustine decline virus and southern chinch bug but with poor cold and shade tolerance."
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 8
+      },
+      "note": "Establish from sod or plugs (not seed) once soil is consistently above 70\u00b0F; Floralawn is a sibling of Floratam released by the University of Florida, bred for resistance to St. Augustine decline virus and southern chinch bug but with poor cold and shade tolerance."
     },
-    "usda_zones": { "min": 9, "max": 11 },
-    "spacing_in": { "min": 12, "max": 24 },
-    "height_in": { "min": 3, "max": 5 },
-    "spread_in": { "min": 12, "max": 24 },
+    "usda_zones": {
+      "min": 9,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 24
+    },
+    "height_in": {
+      "min": 3,
+      "max": 5
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 24
+    },
     "sun": "full",
     "water": "moderate",
     "directions": "Floralawn was released by the University of Florida Agricultural Experiment Station as a sibling selection to Floratam, sharing its resistance to St. Augustine decline virus and southern chinch bug along with thick stolons and a blue-green leaf color with a distinctive pinkish tint at the collars. It resists atrazine herbicide injury and leaf spot disease better than older Bitterblue-type St. Augustine and holds fall color longer than Floratam. However, Floralawn has notably poor shade tolerance and among the weakest cold tolerance of any St. Augustine cultivar, so it is best reserved for full-sun, warm-winter sites in peninsular Florida and the Gulf Coast rather than the northern edge of the St. Augustine range. Mow at 3 to 4 inches and avoid excess nitrogen, which increases thatch and disease pressure.",
-    "sources": ["University of Florida IFAS Extension — St. Augustinegrass for Florida Lawns", "University of Florida IFAS Extension — Visual Identification of St. Augustinegrass Cultivars", "Texas A&M AgriLife Extension"]
+    "sources": [
+      "University of Florida IFAS Extension \u2014 St. Augustinegrass for Florida Lawns",
+      "University of Florida IFAS Extension \u2014 Visual Identification of St. Augustinegrass Cultivars",
+      "Texas A&M AgriLife Extension"
+    ]
   },
   {
     "slug": "jade-st-augustine-grass",
@@ -221,26 +445,54 @@
     "scientific_name": "Stenotaphrum secundatum 'Jade'",
     "category": "cover-crop",
     "subcategory": "turfgrass",
-    "days_to_germination": { "min": null, "max": null },
-    "germination_soil_temp_f": { "min": 70, "max": 95 },
-    "days_to_maturity": { "min": 30, "max": 60 },
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 95
+    },
+    "days_to_maturity": {
+      "min": 30,
+      "max": 60
+    },
     "maturity_from": "transplant",
     "sow_method": "transplant",
     "season": "warm",
     "frost_tolerance": "half-hardy",
     "planting": {
       "anchor": "last_frost",
-      "weeks_from_anchor": { "min": 2, "max": 8 },
-      "note": "Establish from sod or plugs (not seed) once soil is consistently above 70°F; Jade is a semi-dwarf, fine-textured St. Augustine cultivar with good shade and cold tolerance, though its slow lateral spread means plugs take longer to fill in than faster-growing cultivars like Floratam."
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 8
+      },
+      "note": "Establish from sod or plugs (not seed) once soil is consistently above 70\u00b0F; Jade is a semi-dwarf, fine-textured St. Augustine cultivar with good shade and cold tolerance, though its slow lateral spread means plugs take longer to fill in than faster-growing cultivars like Floratam."
     },
-    "usda_zones": { "min": 8, "max": 11 },
-    "spacing_in": { "min": 12, "max": 24 },
-    "height_in": { "min": 2, "max": 4 },
-    "spread_in": { "min": 12, "max": 24 },
+    "usda_zones": {
+      "min": 8,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 24
+    },
+    "height_in": {
+      "min": 2,
+      "max": 4
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 24
+    },
     "sun": "partial",
     "water": "moderate",
     "directions": "Jade is a semi-dwarf St. Augustine selection prized for its dark green color and finer leaf texture than coarser standard cultivars, giving it a more refined, manicured look at a 2 to 3 inch mowing height. It combines good shade tolerance with better cold hardiness than Floratam or Floralawn, broadening its useful range somewhat further from the Gulf Coast core of St. Augustine country. Its main weakness is a stronger-than-average susceptibility to southern chinch bugs, sod webworms, and brown patch, so regular pest and disease monitoring pays off. Because Jade spreads more slowly by runners than many sibling cultivars, plan on a longer plug-to-full-cover establishment period and be patient about repairing any bare or damaged patches.",
-    "sources": ["University of Florida IFAS Extension — St. Augustinegrass for Florida Lawns", "Texas A&M AgriLife Extension", "Louisiana State University AgCenter"]
+    "sources": [
+      "University of Florida IFAS Extension \u2014 St. Augustinegrass for Florida Lawns",
+      "Texas A&M AgriLife Extension",
+      "Louisiana State University AgCenter"
+    ]
   },
   {
     "slug": "amerishade-st-augustine-grass",
@@ -248,26 +500,54 @@
     "scientific_name": "Stenotaphrum secundatum 'Amerishade'",
     "category": "cover-crop",
     "subcategory": "turfgrass",
-    "days_to_germination": { "min": null, "max": null },
-    "germination_soil_temp_f": { "min": 70, "max": 95 },
-    "days_to_maturity": { "min": 30, "max": 60 },
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 95
+    },
+    "days_to_maturity": {
+      "min": 30,
+      "max": 60
+    },
     "maturity_from": "transplant",
     "sow_method": "transplant",
     "season": "warm",
     "frost_tolerance": "half-hardy",
     "planting": {
       "anchor": "last_frost",
-      "weeks_from_anchor": { "min": 2, "max": 8 },
-      "note": "Establish from sod or plugs (not seed) once soil is consistently above 70°F; Amerishade was developed by the Scotts Company and is licensed to King Ranch Turfgrass as one of the most shade-tolerant St. Augustine cultivars available, able to persist on as little as four to five hours of direct sun a day."
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 8
+      },
+      "note": "Establish from sod or plugs (not seed) once soil is consistently above 70\u00b0F; Amerishade was developed by the Scotts Company and is licensed to King Ranch Turfgrass as one of the most shade-tolerant St. Augustine cultivars available, able to persist on as little as four to five hours of direct sun a day."
     },
-    "usda_zones": { "min": 8, "max": 10 },
-    "spacing_in": { "min": 12, "max": 24 },
-    "height_in": { "min": 2, "max": 4 },
-    "spread_in": { "min": 12, "max": 24 },
+    "usda_zones": {
+      "min": 8,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 24
+    },
+    "height_in": {
+      "min": 2,
+      "max": 4
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 24
+    },
     "sun": "partial",
     "water": "moderate",
     "directions": "Amerishade was bred specifically to push the limits of shade tolerance in St. Augustine grass, holding acceptable density and color in tree-shaded yards that would thin out or die under Floratam or Raleigh. Its semi-dwarf habit, with smaller blades and shorter internodes than standard St. Augustine, produces noticeably less vertical growth and roughly half the clippings of taller cultivars, cutting down on mowing frequency. Because it was developed for shade, Amerishade actually performs worse in full, unshaded sun than most other St. Augustine selections, so it is not the right choice for open lawns. Water moderately and avoid mowing lower than about 2.5 inches to keep its reduced-light photosynthetic capacity from being overtaxed.",
-    "sources": ["King Ranch Turfgrass — Amerishade St. Augustine", "University of Florida IFAS Extension — St. Augustinegrass for Florida Lawns", "Texas A&M AgriLife Extension"]
+    "sources": [
+      "King Ranch Turfgrass \u2014 Amerishade St. Augustine",
+      "University of Florida IFAS Extension \u2014 St. Augustinegrass for Florida Lawns",
+      "Texas A&M AgriLife Extension"
+    ]
   },
   {
     "slug": "hammock-centipedegrass",
@@ -275,26 +555,54 @@
     "scientific_name": "Eremochloa ophiuroides 'Hammock'",
     "category": "cover-crop",
     "subcategory": "turfgrass",
-    "days_to_germination": { "min": null, "max": null },
-    "germination_soil_temp_f": { "min": 65, "max": 80 },
-    "days_to_maturity": { "min": 60, "max": 100 },
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 80
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 100
+    },
     "maturity_from": "transplant",
     "sow_method": "transplant",
     "season": "warm",
     "frost_tolerance": "tender",
     "planting": {
       "anchor": "last_frost",
-      "weeks_from_anchor": { "min": 2, "max": 8 },
-      "note": "Establish from sod or plugs once soil is reliably above 65°F; Hammock is a University of Florida release bred for faster establishment and a finer texture than common centipede, but it lacks the cold tolerance of TifBlair or Centennial and should not be planted north of the central Florida peninsula."
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 8
+      },
+      "note": "Establish from sod or plugs once soil is reliably above 65\u00b0F; Hammock is a University of Florida release bred for faster establishment and a finer texture than common centipede, but it lacks the cold tolerance of TifBlair or Centennial and should not be planted north of the central Florida peninsula."
     },
-    "usda_zones": { "min": 9, "max": 10 },
-    "spacing_in": { "min": 6, "max": 12 },
-    "height_in": { "min": 1.5, "max": 3 },
-    "spread_in": { "min": 4, "max": 24 },
+    "usda_zones": {
+      "min": 9,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 6,
+      "max": 12
+    },
+    "height_in": {
+      "min": 1.5,
+      "max": 3
+    },
+    "spread_in": {
+      "min": 4,
+      "max": 24
+    },
     "sun": "full",
     "water": "low",
     "directions": "Hammock was released by the University of Florida as a finer-textured, faster-establishing centipedegrass with bright medium-green color and vigorous stolons that knit together more quickly than common centipede seed or sprigs. It was bred specifically for subtropical South Florida conditions, expanding the low-maintenance appeal of centipedegrass into a region typically dominated by St. Augustine and bahiagrass. Its central tradeoff is cold tolerance: Hammock has little of the cold hardiness bred into TifBlair or Centennial, and it should be limited to South Florida and areas that rarely see hard freezes. Keep fertility and pH low as with all centipedegrass, since over-fertilizing or over-liming triggers a chlorotic stress response known as centipede decline.",
-    "sources": ["University of Florida IFAS Extension — Centipedegrass for Florida Lawns", "University of Florida IFAS Extension — Turfgrass Cultivar Evaluation", "Clemson Cooperative Extension — Centipedegrass"]
+    "sources": [
+      "University of Florida IFAS Extension \u2014 Centipedegrass for Florida Lawns",
+      "University of Florida IFAS Extension \u2014 Turfgrass Cultivar Evaluation",
+      "Clemson Cooperative Extension \u2014 Centipedegrass"
+    ]
   },
   {
     "slug": "santee-centipedegrass",
@@ -302,26 +610,54 @@
     "scientific_name": "Eremochloa ophiuroides 'Santee'",
     "category": "cover-crop",
     "subcategory": "turfgrass",
-    "days_to_germination": { "min": 14, "max": 28 },
-    "germination_soil_temp_f": { "min": 65, "max": 80 },
-    "days_to_maturity": { "min": 60, "max": 90 },
+    "days_to_germination": {
+      "min": 14,
+      "max": 28
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 80
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 90
+    },
     "maturity_from": "seed",
     "sow_method": "direct",
     "season": "warm",
     "frost_tolerance": "half-hardy",
     "planting": {
       "anchor": "last_frost",
-      "weeks_from_anchor": { "min": 2, "max": 10 },
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 10
+      },
       "note": "Sow a light rate of hulled seed into a weed-free bed once soil is reliably warm; Santee was developed for South Carolina's coastal plain and lower Piedmont and is recommended for the lower third of South Carolina and similarly mild-winter coastal areas."
     },
-    "usda_zones": { "min": 7, "max": 9 },
-    "spacing_in": { "min": 1, "max": 1 },
-    "height_in": { "min": 2, "max": 4 },
-    "spread_in": { "min": 12, "max": 24 },
+    "usda_zones": {
+      "min": 7,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 1,
+      "max": 1
+    },
+    "height_in": {
+      "min": 2,
+      "max": 4
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 24
+    },
     "sun": "full",
     "water": "low",
     "directions": "Santee was developed for South Carolina's coastal plain and lower Piedmont, where it forms a dense, medium-width-bladed turf with a strong root system that resists both drought stress and physical damage from foot traffic. It adapts to a wide range of soils, from the sandy coastal soils of the Lowcountry to heavier clay found further inland, and it holds color consistently through the growing season better than many older centipede seed lots. Like all centipedegrass it thrives on neglect: keep nitrogen and lime inputs minimal, since Santee shares the species' characteristic sensitivity to high soil pH and over-fertilization. It is best suited to the lower third of South Carolina and similar mild-winter coastal areas rather than colder inland or northern sites.",
-    "sources": ["Clemson Cooperative Extension — Centipedegrass", "Sod Solutions — Santee Centipede Grass", "University of Georgia Extension — Centipedegrass Lawns"]
+    "sources": [
+      "Clemson Cooperative Extension \u2014 Centipedegrass",
+      "Sod Solutions \u2014 Santee Centipede Grass",
+      "University of Georgia Extension \u2014 Centipedegrass Lawns"
+    ]
   },
   {
     "slug": "barserati-kentucky-bluegrass",
@@ -329,26 +665,54 @@
     "scientific_name": "Poa pratensis 'Barserati'",
     "category": "cover-crop",
     "subcategory": "grass",
-    "days_to_germination": { "min": 14, "max": 28 },
-    "germination_soil_temp_f": { "min": 50, "max": 65 },
-    "days_to_maturity": { "min": 60, "max": 120 },
+    "days_to_germination": {
+      "min": 14,
+      "max": 28
+    },
+    "germination_soil_temp_f": {
+      "min": 50,
+      "max": 65
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 120
+    },
     "maturity_from": "seed",
     "sow_method": "direct",
     "season": "cool",
     "frost_tolerance": "hardy",
     "planting": {
       "anchor": "fall",
-      "weeks_from_anchor": { "min": -6, "max": -2 },
+      "weeks_from_anchor": {
+        "min": -6,
+        "max": -2
+      },
       "note": "Sow in late summer to early fall at 2-3 lbs per 1,000 sq ft into a fertile, well-prepared seedbed; Barserati is a Barenbrug release bred for strong drought, traffic, and disease tolerance, consistently ranking among the top performers in National Turfgrass Evaluation Program trials."
     },
-    "usda_zones": { "min": 3, "max": 7 },
-    "spacing_in": { "min": 1, "max": 1 },
-    "height_in": { "min": 2, "max": 4 },
-    "spread_in": { "min": 1, "max": 1 },
+    "usda_zones": {
+      "min": 3,
+      "max": 7
+    },
+    "spacing_in": {
+      "min": 1,
+      "max": 1
+    },
+    "height_in": {
+      "min": 2,
+      "max": 4
+    },
+    "spread_in": {
+      "min": 1,
+      "max": 1
+    },
     "sun": "full",
     "water": "moderate",
     "directions": "Barserati is a modern Kentucky bluegrass cultivar from Barenbrug that has repeatedly ranked at or near the top of National Turfgrass Evaluation Program trials for drought tolerance, disease resistance, and wear tolerance, making it a strong all-purpose choice for home lawns, parks, and sports fields alike. It holds strong genetic color without needing heavy nitrogen inputs and shows good resistance to dollar spot and gray leaf spot, two diseases that plague older bluegrass seed lots in humid summers. Barserati also tolerates lower mowing heights, down to about a quarter inch, better than many bluegrass cultivars, giving it some flexibility for higher-maintenance settings. Like all Kentucky bluegrass it spreads by rhizomes to self-repair minor thinning, but it still goes summer-dormant under prolonged heat and drought unless irrigated.",
-    "sources": ["Barenbrug USA — Barserati Kentucky Bluegrass", "National Turfgrass Evaluation Program", "Twin City Seed Company — Barserati Kentucky Bluegrass"]
+    "sources": [
+      "Barenbrug USA \u2014 Barserati Kentucky Bluegrass",
+      "National Turfgrass Evaluation Program",
+      "Twin City Seed Company \u2014 Barserati Kentucky Bluegrass"
+    ]
   },
   {
     "slug": "baroness-kentucky-bluegrass",
@@ -356,26 +720,54 @@
     "scientific_name": "Poa pratensis 'Baroness'",
     "category": "cover-crop",
     "subcategory": "grass",
-    "days_to_germination": { "min": 14, "max": 28 },
-    "germination_soil_temp_f": { "min": 50, "max": 65 },
-    "days_to_maturity": { "min": 60, "max": 120 },
+    "days_to_germination": {
+      "min": 14,
+      "max": 28
+    },
+    "germination_soil_temp_f": {
+      "min": 50,
+      "max": 65
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 120
+    },
     "maturity_from": "seed",
     "sow_method": "direct",
     "season": "cool",
     "frost_tolerance": "hardy",
     "planting": {
       "anchor": "fall",
-      "weeks_from_anchor": { "min": -6, "max": -2 },
+      "weeks_from_anchor": {
+        "min": -6,
+        "max": -2
+      },
       "note": "Sow in late summer to early fall at 2-3 lbs per 1,000 sq ft; Baroness is a Barenbrug cultivar noted for topping National Turfgrass Evaluation Program drought tolerance ratings while maintaining very dark green color and high turf quality."
     },
-    "usda_zones": { "min": 2, "max": 7 },
-    "spacing_in": { "min": 1, "max": 1 },
-    "height_in": { "min": 2, "max": 4 },
-    "spread_in": { "min": 1, "max": 1 },
+    "usda_zones": {
+      "min": 2,
+      "max": 7
+    },
+    "spacing_in": {
+      "min": 1,
+      "max": 1
+    },
+    "height_in": {
+      "min": 2,
+      "max": 4
+    },
+    "spread_in": {
+      "min": 1,
+      "max": 1
+    },
     "sun": "full",
     "water": "moderate",
     "directions": "Baroness is a Barenbrug Kentucky bluegrass cultivar that has topped National Turfgrass Evaluation Program ratings for drought tolerance among bluegrasses, an unusual combination with the very dark green color and high overall turf quality it also delivers. Its seed is notably small, giving roughly twice the seed count per pound of many other bluegrass cultivars, which translates to a denser stand from a standard seeding rate. It performs consistently across a wide range of climates and is often blended with other elite bluegrass cultivars or fine fescues for high-end lawns and sports turf. As with all Kentucky bluegrass, expect summer dormancy under heat and drought stress without supplemental irrigation, and give it full sun to very light shade for best density.",
-    "sources": ["Barenbrug USA — Kentucky Bluegrass Varieties", "National Turfgrass Evaluation Program", "Golf Course Industry — New on the Market: Turfgrass Varieties"]
+    "sources": [
+      "Barenbrug USA \u2014 Kentucky Bluegrass Varieties",
+      "National Turfgrass Evaluation Program",
+      "Golf Course Industry \u2014 New on the Market: Turfgrass Varieties"
+    ]
   },
   {
     "slug": "barrister-kentucky-bluegrass",
@@ -383,26 +775,54 @@
     "scientific_name": "Poa pratensis 'Barrister'",
     "category": "cover-crop",
     "subcategory": "grass",
-    "days_to_germination": { "min": 14, "max": 28 },
-    "germination_soil_temp_f": { "min": 50, "max": 65 },
-    "days_to_maturity": { "min": 60, "max": 120 },
+    "days_to_germination": {
+      "min": 14,
+      "max": 28
+    },
+    "germination_soil_temp_f": {
+      "min": 50,
+      "max": 65
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 120
+    },
     "maturity_from": "seed",
     "sow_method": "direct",
     "season": "cool",
     "frost_tolerance": "hardy",
     "planting": {
       "anchor": "fall",
-      "weeks_from_anchor": { "min": -6, "max": -2 },
+      "weeks_from_anchor": {
+        "min": -6,
+        "max": -2
+      },
       "note": "Sow in late summer to early fall at 2-3 lbs per 1,000 sq ft; Barrister is a compact, Midnight-type Barenbrug release bred for extremely dark green color, tolerance of low mowing heights, and strong disease resistance."
     },
-    "usda_zones": { "min": 2, "max": 7 },
-    "spacing_in": { "min": 1, "max": 1 },
-    "height_in": { "min": 1.5, "max": 3.5 },
-    "spread_in": { "min": 1, "max": 1 },
+    "usda_zones": {
+      "min": 2,
+      "max": 7
+    },
+    "spacing_in": {
+      "min": 1,
+      "max": 1
+    },
+    "height_in": {
+      "min": 1.5,
+      "max": 3.5
+    },
+    "spread_in": {
+      "min": 1,
+      "max": 1
+    },
     "sun": "full",
     "water": "moderate",
     "directions": "Barrister belongs to the compact 'Midnight' type of Kentucky bluegrass, forming a dense, low-growing, extremely dark green turf that has rated among the top cultivars in national trials. It tolerates lower mowing heights than most bluegrasses, making it useful for golf course fairways and athletic fields as well as premium home lawns, and it retains vibrant color further into winter than many older cultivars. Strong resistance to common bluegrass diseases keeps fungicide inputs low, and its dense sod-forming habit makes it a popular choice for sod production, whether grown alone or blended with other elite cultivars. Give it full sun and expect the same summer dormancy under drought stress typical of the species unless irrigation is available.",
-    "sources": ["Barenbrug USA — Barrister Kentucky Bluegrass", "Twin City Seed Company — Barrister Kentucky Bluegrass", "National Turfgrass Evaluation Program"]
+    "sources": [
+      "Barenbrug USA \u2014 Barrister Kentucky Bluegrass",
+      "Twin City Seed Company \u2014 Barrister Kentucky Bluegrass",
+      "National Turfgrass Evaluation Program"
+    ]
   },
   {
     "slug": "falcon-tall-fescue",
@@ -410,26 +830,54 @@
     "scientific_name": "Schedonorus arundinaceus 'Falcon'",
     "category": "cover-crop",
     "subcategory": "turfgrass",
-    "days_to_germination": { "min": 7, "max": 14 },
-    "germination_soil_temp_f": { "min": 60, "max": 75 },
-    "days_to_maturity": { "min": 45, "max": 90 },
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 45,
+      "max": 90
+    },
     "maturity_from": "seed",
     "sow_method": "direct",
     "season": "cool",
     "frost_tolerance": "hardy",
     "planting": {
       "anchor": "fall",
-      "weeks_from_anchor": { "min": -6, "max": -2 },
+      "weeks_from_anchor": {
+        "min": -6,
+        "max": -2
+      },
       "note": "Seed at 6-8 lbs per 1,000 sq ft in late summer to early fall, or in early spring; Falcon was released in the early 1980s alongside Rebel as one of the first turf-type tall fescues bred for a finer blade and denser sod than pasture-type Kentucky 31."
     },
-    "usda_zones": { "min": 4, "max": 8 },
-    "spacing_in": { "min": 1, "max": 2 },
-    "height_in": { "min": 2, "max": 4 },
-    "spread_in": { "min": 2, "max": 4 },
+    "usda_zones": {
+      "min": 4,
+      "max": 8
+    },
+    "spacing_in": {
+      "min": 1,
+      "max": 2
+    },
+    "height_in": {
+      "min": 2,
+      "max": 4
+    },
+    "spread_in": {
+      "min": 2,
+      "max": 4
+    },
     "sun": "partial",
     "water": "moderate",
     "directions": "Falcon emerged in the early 1980s as one of the pioneering turf-type tall fescues, developed alongside Rebel to replace the coarse, clumpy pasture-type Kentucky 31 in home lawns with a finer-bladed, denser, more tiller-rich alternative. It kept tall fescue's deep, drought-resilient root system while improving mowing quality and appearance enough for residential and commercial landscapes rather than just hay fields. Falcon handles more shade and heat than Kentucky bluegrass, making it a long-standing workhorse for transition-zone lawns with mixed sun and tree cover, though as a bunchgrass it needs overseeding rather than natural spread to fill in bare or damaged patches. Later Falcon-series releases have since improved on the original's disease resistance and texture, but the original Falcon remains historically significant as one of the first-generation improved tall fescues.",
-    "sources": ["Oregon State University — Tall Fescue (Beaver Turf)", "Rutgers University Turfgrass Program — Tall Fescue Varieties for New Jersey", "University of Kentucky Cooperative Extension — Tall Fescue Lawns"]
+    "sources": [
+      "Oregon State University \u2014 Tall Fescue (Beaver Turf)",
+      "Rutgers University Turfgrass Program \u2014 Tall Fescue Varieties for New Jersey",
+      "University of Kentucky Cooperative Extension \u2014 Tall Fescue Lawns"
+    ]
   },
   {
     "slug": "bonsai-dwarf-tall-fescue",
@@ -437,26 +885,54 @@
     "scientific_name": "Schedonorus arundinaceus 'Bonsai'",
     "category": "cover-crop",
     "subcategory": "turfgrass",
-    "days_to_germination": { "min": 7, "max": 14 },
-    "germination_soil_temp_f": { "min": 60, "max": 75 },
-    "days_to_maturity": { "min": 45, "max": 90 },
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 45,
+      "max": 90
+    },
     "maturity_from": "seed",
     "sow_method": "direct",
     "season": "cool",
     "frost_tolerance": "hardy",
     "planting": {
       "anchor": "fall",
-      "weeks_from_anchor": { "min": -6, "max": -2 },
+      "weeks_from_anchor": {
+        "min": -6,
+        "max": -2
+      },
       "note": "Seed at 6-8 lbs per 1,000 sq ft in late summer to early fall, or in early spring; Bonsai is a first-generation dwarf turf-type tall fescue bred for markedly slower vertical growth, reducing mowing frequency by as much as 40 percent compared with standard tall fescue cultivars."
     },
-    "usda_zones": { "min": 4, "max": 8 },
-    "spacing_in": { "min": 1, "max": 2 },
-    "height_in": { "min": 2, "max": 3 },
-    "spread_in": { "min": 2, "max": 4 },
+    "usda_zones": {
+      "min": 4,
+      "max": 8
+    },
+    "spacing_in": {
+      "min": 1,
+      "max": 2
+    },
+    "height_in": {
+      "min": 2,
+      "max": 3
+    },
+    "spread_in": {
+      "min": 2,
+      "max": 4
+    },
     "sun": "partial",
     "water": "moderate",
     "directions": "Bonsai was among the first dwarf-type turf-type tall fescues, bred for a compact growth habit with reduced vertical growth, finer texture, and higher tiller density than standard tall fescue cultivars like Rebel or Falcon. Its slower growth rate cuts mowing frequency substantially, appealing to gardeners who want a lower-maintenance lawn without switching to a different species, and its darker green color and finer blade give it a more refined look than older tall fescue. It tolerates heat, drought, and shade about as well as standard tall fescue thanks to the same deep root system, and it is often blended with other dwarf or standard fescue cultivars in low-maintenance lawn seed mixes. As a bunchgrass it will not spread to repair bare spots, so overseed thin or damaged areas rather than waiting for it to fill in.",
-    "sources": ["Conservation Garden Park — Bonsai Dwarf Tall Fescue", "Oregon State University — Tall Fescue (Beaver Turf)", "Stover Seed Company — Bonsai Dwarf Tall Fescue"]
+    "sources": [
+      "Conservation Garden Park \u2014 Bonsai Dwarf Tall Fescue",
+      "Oregon State University \u2014 Tall Fescue (Beaver Turf)",
+      "Stover Seed Company \u2014 Bonsai Dwarf Tall Fescue"
+    ]
   },
   {
     "slug": "legacy-buffalograss",
@@ -464,26 +940,54 @@
     "scientific_name": "Bouteloua dactyloides 'Legacy'",
     "category": "cover-crop",
     "subcategory": "grass",
-    "days_to_germination": { "min": null, "max": null },
-    "germination_soil_temp_f": { "min": 70, "max": 85 },
-    "days_to_maturity": { "min": 60, "max": 120 },
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 120
+    },
     "maturity_from": "transplant",
     "sow_method": "transplant",
     "season": "warm",
     "frost_tolerance": "hardy",
     "planting": {
       "anchor": "last_frost",
-      "weeks_from_anchor": { "min": 2, "max": 8 },
-      "note": "Establish from plugs or sod (not seed, as Legacy is a seedless female clone) once soil is reliably above 70°F; Legacy was released by the University of Nebraska for a darker blue-green color and lower growth habit than older buffalograss selections, with unusually good cold hardiness."
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 8
+      },
+      "note": "Establish from plugs or sod (not seed, as Legacy is a seedless female clone) once soil is reliably above 70\u00b0F; Legacy was released by the University of Nebraska for a darker blue-green color and lower growth habit than older buffalograss selections, with unusually good cold hardiness."
     },
-    "usda_zones": { "min": 3, "max": 9 },
-    "spacing_in": { "min": 12, "max": 12 },
-    "height_in": { "min": 3, "max": 5 },
-    "spread_in": { "min": 12, "max": 24 },
+    "usda_zones": {
+      "min": 3,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 12
+    },
+    "height_in": {
+      "min": 3,
+      "max": 5
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 24
+    },
     "sun": "full",
     "water": "low",
     "directions": "Legacy was released by the University of Nebraska as a second-generation, seedless female buffalograss selected for a darker blue-green color and a lower, denser growth habit than older vegetative selections. Because it produces almost no male flowers, Legacy avoids the pollen and seed-head production that some gardeners find messy in seeded buffalograss lawns. It is exceptionally drought tolerant even by buffalograss standards, needing well under half an inch of supplemental water per week once mature, and its cold hardiness extends further north than many other buffalograss selections. Mow at 3 to 5 inches no more than once a month for a relaxed look, or more often for a tidier lawn; establish only from plugs or sod since Legacy does not produce viable seed.",
-    "sources": ["University of Nebraska-Lincoln Turfgrass Science", "Todd Valley Farms — Legacy Buffalograss", "Colorado State University Extension"]
+    "sources": [
+      "University of Nebraska-Lincoln Turfgrass Science",
+      "Todd Valley Farms \u2014 Legacy Buffalograss",
+      "Colorado State University Extension"
+    ]
   },
   {
     "slug": "609-buffalograss",
@@ -491,26 +995,54 @@
     "scientific_name": "Bouteloua dactyloides '609'",
     "category": "cover-crop",
     "subcategory": "grass",
-    "days_to_germination": { "min": null, "max": null },
-    "germination_soil_temp_f": { "min": 70, "max": 85 },
-    "days_to_maturity": { "min": 60, "max": 120 },
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 120
+    },
     "maturity_from": "transplant",
     "sow_method": "transplant",
     "season": "warm",
     "frost_tolerance": "hardy",
     "planting": {
       "anchor": "last_frost",
-      "weeks_from_anchor": { "min": 2, "max": 8 },
-      "note": "Establish from plugs or sod (not seed) once soil is reliably above 70°F; 609 is a vegetatively propagated tetraploid female buffalograss selection from Nebraska valued for finer blades and darker green color than seeded cultivars."
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 8
+      },
+      "note": "Establish from plugs or sod (not seed) once soil is reliably above 70\u00b0F; 609 is a vegetatively propagated tetraploid female buffalograss selection from Nebraska valued for finer blades and darker green color than seeded cultivars."
     },
-    "usda_zones": { "min": 4, "max": 9 },
-    "spacing_in": { "min": 12, "max": 12 },
-    "height_in": { "min": 2, "max": 5 },
-    "spread_in": { "min": 12, "max": 24 },
+    "usda_zones": {
+      "min": 4,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 12
+    },
+    "height_in": {
+      "min": 2,
+      "max": 5
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 24
+    },
     "sun": "full",
     "water": "low",
     "directions": "609 is a tetraploid, vegetatively propagated female buffalograss selection developed at the University of Nebraska's turfgrass research facility near Mead, distinguished by finer 1.5 to 2 millimeter blades and darker green color than seeded common buffalograss. Its tight, low growth habit produces a dense, uniform turf that generally outperforms seeded varieties for overall appearance and density, though it still needs establishment from plugs or sod rather than seed since it is a selected clone. Like other buffalograss cultivars, 609 demands very little water or fertilizer once established and is best suited to full sun on the Great Plains and similar semi-arid regions. Mow infrequently, since its unmowed height stays naturally low at around 4 to 8 inches.",
-    "sources": ["University of Nebraska-Lincoln Turfgrass Science", "USDA Plant Patent PP8475 — '609' Buffalograss", "Colorado State University Extension"]
+    "sources": [
+      "University of Nebraska-Lincoln Turfgrass Science",
+      "USDA Plant Patent PP8475 \u2014 '609' Buffalograss",
+      "Colorado State University Extension"
+    ]
   },
   {
     "slug": "density-buffalograss",
@@ -518,26 +1050,54 @@
     "scientific_name": "Bouteloua dactyloides 'Density'",
     "category": "cover-crop",
     "subcategory": "grass",
-    "days_to_germination": { "min": null, "max": null },
-    "germination_soil_temp_f": { "min": 70, "max": 85 },
-    "days_to_maturity": { "min": 60, "max": 120 },
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 120
+    },
     "maturity_from": "transplant",
     "sow_method": "transplant",
     "season": "warm",
     "frost_tolerance": "hardy",
     "planting": {
       "anchor": "last_frost",
-      "weeks_from_anchor": { "min": 2, "max": 8 },
-      "note": "Establish from plugs or sod (not seed) once soil is reliably above 70°F; Density is a Bladerunner Farms selection discovered near Houston, Texas and propagated for its shorter canopy and higher tiller density than 609 and other vegetative buffalograss cultivars."
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 8
+      },
+      "note": "Establish from plugs or sod (not seed) once soil is reliably above 70\u00b0F; Density is a Bladerunner Farms selection discovered near Houston, Texas and propagated for its shorter canopy and higher tiller density than 609 and other vegetative buffalograss cultivars."
     },
-    "usda_zones": { "min": 5, "max": 9 },
-    "spacing_in": { "min": 12, "max": 12 },
-    "height_in": { "min": 2, "max": 4 },
-    "spread_in": { "min": 12, "max": 24 },
+    "usda_zones": {
+      "min": 5,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 12
+    },
+    "height_in": {
+      "min": 2,
+      "max": 4
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 24
+    },
     "sun": "full",
     "water": "low",
     "directions": "Density was discovered as a naturally occurring female clone in a mowed roadside stand near Houston, Texas, and was subsequently propagated by Bladerunner Farms for its notably shorter canopy and tighter stolon internode spacing, giving it a denser-looking turf than many other vegetative buffalograss cultivars. In side-by-side trials it has outscored 609 and Prairie buffalograss for tiller production and overall turf quality rating. Like other vegetatively propagated buffalograss selections it is established from plugs or sod rather than seed, and it shares the species' minimal water and fertility requirements once filled in. It is best suited to full sun in hot-summer climates across the southern and central Great Plains.",
-    "sources": ["USDA Plant Patent PP17356 — 'Density' Buffalograss", "University of Nebraska-Lincoln Turfgrass Science", "Colorado State University Extension"]
+    "sources": [
+      "USDA Plant Patent PP17356 \u2014 'Density' Buffalograss",
+      "University of Nebraska-Lincoln Turfgrass Science",
+      "Colorado State University Extension"
+    ]
   },
   {
     "slug": "sundancer-buffalograss",
@@ -545,26 +1105,54 @@
     "scientific_name": "Bouteloua dactyloides 'Sundancer'",
     "category": "cover-crop",
     "subcategory": "grass",
-    "days_to_germination": { "min": 14, "max": 21 },
-    "germination_soil_temp_f": { "min": 65, "max": 75 },
-    "days_to_maturity": { "min": 60, "max": 90 },
+    "days_to_germination": {
+      "min": 14,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 90
+    },
     "maturity_from": "seed",
     "sow_method": "direct",
     "season": "warm",
     "frost_tolerance": "hardy",
     "planting": {
       "anchor": "last_frost",
-      "weeks_from_anchor": { "min": 2, "max": 6 },
-      "note": "Sow treated seed at 2-3 lbs per 1,000 sq ft once soil is reliably above 65°F; Sundancer was released in 2014 by the University of Nebraska and the Native Turf Group as one of the most advanced seeded buffalograss cultivars, establishing faster and denser than older seeded selections."
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 6
+      },
+      "note": "Sow treated seed at 2-3 lbs per 1,000 sq ft once soil is reliably above 65\u00b0F; Sundancer was released in 2014 by the University of Nebraska and the Native Turf Group as one of the most advanced seeded buffalograss cultivars, establishing faster and denser than older seeded selections."
     },
-    "usda_zones": { "min": 4, "max": 9 },
-    "spacing_in": { "min": 12, "max": 18 },
-    "height_in": { "min": 3, "max": 6 },
-    "spread_in": { "min": 12, "max": 24 },
+    "usda_zones": {
+      "min": 4,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 3,
+      "max": 6
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 24
+    },
     "sun": "full",
     "water": "low",
     "directions": "Sundancer was released in 2014 through a partnership between the University of Nebraska and the Native Turf Group as a next-generation seeded buffalograss, establishing noticeably faster and with darker green color and better canopy density than older seeded cultivars like Bowie or Cody. Once mature it maintains superior turf quality, color, and spring green-up compared with most other buffalograsses, and it holds up better than average in partially shaded sites, an unusual strength for a species that generally demands full sun. It retains the core low-input character that makes buffalograss appealing: extreme drought tolerance, minimal nitrogen and water needs, and good winter hardiness across the Great Plains. Mow at 3 to 4 inches occasionally through the season or leave unmowed for a naturalized, prairie-style lawn.",
-    "sources": ["University of Nebraska-Lincoln Turfgrass Science — Next-Generation Buffalograss Cultivars: Sundancer", "Stock Seed Farms — Sundancer Buffalograss", "Colorado State University Extension"]
+    "sources": [
+      "University of Nebraska-Lincoln Turfgrass Science \u2014 Next-Generation Buffalograss Cultivars: Sundancer",
+      "Stock Seed Farms \u2014 Sundancer Buffalograss",
+      "Colorado State University Extension"
+    ]
   },
   {
     "slug": "texoka-buffalograss",
@@ -572,26 +1160,54 @@
     "scientific_name": "Bouteloua dactyloides 'Texoka'",
     "category": "cover-crop",
     "subcategory": "grass",
-    "days_to_germination": { "min": 14, "max": 21 },
-    "germination_soil_temp_f": { "min": 65, "max": 75 },
-    "days_to_maturity": { "min": 60, "max": 100 },
+    "days_to_germination": {
+      "min": 14,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 100
+    },
     "maturity_from": "seed",
     "sow_method": "direct",
     "season": "warm",
     "frost_tolerance": "hardy",
     "planting": {
       "anchor": "last_frost",
-      "weeks_from_anchor": { "min": 2, "max": 6 },
-      "note": "Sow seed at 2-4 lbs per 1,000 sq ft once soil is reliably above 65°F; Texoka is the oldest named, commercially propagated buffalograss variety, originally selected for forage and rangeland use rather than fine turf quality."
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 6
+      },
+      "note": "Sow seed at 2-4 lbs per 1,000 sq ft once soil is reliably above 65\u00b0F; Texoka is the oldest named, commercially propagated buffalograss variety, originally selected for forage and rangeland use rather than fine turf quality."
     },
-    "usda_zones": { "min": 4, "max": 9 },
-    "spacing_in": { "min": 12, "max": 24 },
-    "height_in": { "min": 4, "max": 8 },
-    "spread_in": { "min": 12, "max": 24 },
+    "usda_zones": {
+      "min": 4,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 24
+    },
+    "height_in": {
+      "min": 4,
+      "max": 8
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 24
+    },
     "sun": "full",
     "water": "low",
     "directions": "Texoka is the oldest named and commercially propagated buffalograss variety, selected generations ago primarily for forage production and rangeland reseeding rather than for fine turf appearance. It forms a sod-forming, fine-leaved stand 4 to 8 inches tall that spreads readily by surface runners, and it withstands heavy grazing and foot traffic better than almost any other native Great Plains grass. Because it is a forage-type selection rather than a turf-bred cultivar, Texoka produces a lower-density stand than newer seeded or vegetative turf cultivars like Sundancer or Prestige, often leaving visible patchiness in a mowed lawn setting. It remains an economical, historically important choice for low-input rangeland plantings, erosion control, and rustic, naturalized lawns where a manicured look is not the goal.",
-    "sources": ["Stock Seed Farms — Texoka Buffalograss", "Johnston Seed Company — Texoka Buffalograss", "USDA Natural Resources Conservation Service — Plant Fact Sheet: Buffalograss"]
+    "sources": [
+      "Stock Seed Farms \u2014 Texoka Buffalograss",
+      "Johnston Seed Company \u2014 Texoka Buffalograss",
+      "USDA Natural Resources Conservation Service \u2014 Plant Fact Sheet: Buffalograss"
+    ]
   },
   {
     "slug": "tifsport-bermudagrass",
@@ -599,26 +1215,54 @@
     "scientific_name": "Cynodon dactylon x transvaalensis 'TifSport'",
     "category": "cover-crop",
     "subcategory": "turfgrass",
-    "days_to_germination": { "min": null, "max": null },
-    "germination_soil_temp_f": { "min": 65, "max": 95 },
-    "days_to_maturity": { "min": 30, "max": 60 },
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 95
+    },
+    "days_to_maturity": {
+      "min": 30,
+      "max": 60
+    },
     "maturity_from": "transplant",
     "sow_method": "transplant",
     "season": "warm",
     "frost_tolerance": "hardy",
     "planting": {
       "anchor": "last_frost",
-      "weeks_from_anchor": { "min": 2, "max": 8 },
-      "note": "Establish from sod or sprigs (not seed, as TifSport is a sterile hybrid) once soil is consistently above 65°F; TifSport was released in 1997 by the USDA and University of Georgia as a gamma-irradiated mutant of Midiron with improved cold hardiness for athletic fields."
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 8
+      },
+      "note": "Establish from sod or sprigs (not seed, as TifSport is a sterile hybrid) once soil is consistently above 65\u00b0F; TifSport was released in 1997 by the USDA and University of Georgia as a gamma-irradiated mutant of Midiron with improved cold hardiness for athletic fields."
     },
-    "usda_zones": { "min": 6, "max": 10 },
-    "spacing_in": { "min": 12, "max": 24 },
-    "height_in": { "min": 0.5, "max": 1.5 },
-    "spread_in": { "min": 12, "max": 24 },
+    "usda_zones": {
+      "min": 6,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 24
+    },
+    "height_in": {
+      "min": 0.5,
+      "max": 1.5
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 24
+    },
     "sun": "full",
     "water": "low",
     "directions": "TifSport was released in 1997 by the USDA-ARS and University of Georgia as an induced mutant of the cold-tolerant cultivar Midiron, created using gamma irradiation of dormant stolons to combine Midiron's winter hardiness with a finer texture and denser growth habit suited to athletic fields. It was developed with sports turf in mind and has become a mainstay for football, soccer, and baseball fields across the transition zone, prized for excellent wear tolerance, quick recovery from damage, and disease resistance. Its cold hardiness exceeds that of Tifway, extending reliable hybrid bermudagrass performance further north, though it still needs full sun and goes dormant and straw-colored after hard frost like all bermudagrasses. Mow at 0.5 to 1.5 inches with a reel mower for the cleanest, densest playing surface.",
-    "sources": ["University of Georgia — TifSport Bermudagrass (Georgia's Integrated Cultivar Release System)", "USDA Agricultural Research Service", "Auburn University — Mowing Height, Nitrogen Rate and Source Effects on Tifway and TifSport Bermudagrass"]
+    "sources": [
+      "University of Georgia \u2014 TifSport Bermudagrass (Georgia's Integrated Cultivar Release System)",
+      "USDA Agricultural Research Service",
+      "Auburn University \u2014 Mowing Height, Nitrogen Rate and Source Effects on Tifway and TifSport Bermudagrass"
+    ]
   },
   {
     "slug": "tifgrand-bermudagrass",
@@ -626,26 +1270,54 @@
     "scientific_name": "Cynodon dactylon x transvaalensis 'TifGrand'",
     "category": "cover-crop",
     "subcategory": "turfgrass",
-    "days_to_germination": { "min": null, "max": null },
-    "germination_soil_temp_f": { "min": 65, "max": 95 },
-    "days_to_maturity": { "min": 30, "max": 60 },
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 95
+    },
+    "days_to_maturity": {
+      "min": 30,
+      "max": 60
+    },
     "maturity_from": "transplant",
     "sow_method": "transplant",
     "season": "warm",
     "frost_tolerance": "half-hardy",
     "planting": {
       "anchor": "last_frost",
-      "weeks_from_anchor": { "min": 2, "max": 8 },
-      "note": "Establish from sod or plugs (not seed, as TifGrand is a sterile triploid hybrid) once soil is consistently above 65°F; TifGrand was released by the University of Georgia specifically for shade tolerance well beyond that of other hybrid bermudagrasses, performing acceptably in 60 to 70 percent shade."
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 8
+      },
+      "note": "Establish from sod or plugs (not seed, as TifGrand is a sterile triploid hybrid) once soil is consistently above 65\u00b0F; TifGrand was released by the University of Georgia specifically for shade tolerance well beyond that of other hybrid bermudagrasses, performing acceptably in 60 to 70 percent shade."
     },
-    "usda_zones": { "min": 7, "max": 10 },
-    "spacing_in": { "min": 12, "max": 24 },
-    "height_in": { "min": 0.5, "max": 1.5 },
-    "spread_in": { "min": 12, "max": 24 },
+    "usda_zones": {
+      "min": 7,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 24
+    },
+    "height_in": {
+      "min": 0.5,
+      "max": 1.5
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 24
+    },
     "sun": "partial",
     "water": "low",
     "directions": "TifGrand was released by University of Georgia turfgrass breeders Wayne Hanna and Kris Braman as a sterile triploid hybrid bred specifically to push bermudagrass's notoriously poor shade tolerance far beyond that of any prior cultivar. University testing found it maintains acceptable density and color at 60 to 70 percent shade and can still produce usable turf up to roughly 90 percent shade, dramatically outperforming Tifway, TifSport, Tifgreen, and Tifdwarf under tree cover. It forms a dense, fine-textured, weed-resistant sod that holds up to heavy foot traffic, making it useful for shaded golf course roughs, athletic field margins, and residential lawns with significant tree canopy. It still performs best with at least some direct sun each day and, like all bermudagrass, needs full warm-season heat to thrive, going dormant with the first hard freeze.",
-    "sources": ["University of Georgia — TifGrand Bermudagrass (Georgia's Integrated Cultivar Release System)", "University of Georgia Center for Applied Turfgrass Science", "Evergreen Turf — How to Grow Grass in Shaded Areas with TifGrand"]
+    "sources": [
+      "University of Georgia \u2014 TifGrand Bermudagrass (Georgia's Integrated Cultivar Release System)",
+      "University of Georgia Center for Applied Turfgrass Science",
+      "Evergreen Turf \u2014 How to Grow Grass in Shaded Areas with TifGrand"
+    ]
   },
   {
     "slug": "mohawk-bermudagrass",
@@ -653,26 +1325,54 @@
     "scientific_name": "Cynodon dactylon 'Mohawk'",
     "category": "cover-crop",
     "subcategory": "grass",
-    "days_to_germination": { "min": 14, "max": 21 },
-    "germination_soil_temp_f": { "min": 65, "max": 95 },
-    "days_to_maturity": { "min": 45, "max": 75 },
+    "days_to_germination": {
+      "min": 14,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 95
+    },
+    "days_to_maturity": {
+      "min": 45,
+      "max": 75
+    },
     "maturity_from": "seed",
     "sow_method": "direct",
     "season": "warm",
     "frost_tolerance": "hardy",
     "planting": {
       "anchor": "last_frost",
-      "weeks_from_anchor": { "min": 0, "max": 8 },
-      "note": "Broadcast hulled seed at 1-2 lbs per 1,000 sq ft once soil is reliably above 65°F; Mohawk was developed at Virginia Tech and is one of the most cold-tolerant common-type seeded bermudagrasses available, extending reliable bermudagrass turf and forage use into the upper transition zone."
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 8
+      },
+      "note": "Broadcast hulled seed at 1-2 lbs per 1,000 sq ft once soil is reliably above 65\u00b0F; Mohawk was developed at Virginia Tech and is one of the most cold-tolerant common-type seeded bermudagrasses available, extending reliable bermudagrass turf and forage use into the upper transition zone."
     },
-    "usda_zones": { "min": 6, "max": 9 },
-    "spacing_in": { "min": 1, "max": 1 },
-    "height_in": { "min": 1, "max": 2 },
-    "spread_in": { "min": 12, "max": 24 },
+    "usda_zones": {
+      "min": 6,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 1,
+      "max": 1
+    },
+    "height_in": {
+      "min": 1,
+      "max": 2
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 24
+    },
     "sun": "full",
     "water": "low",
     "directions": "Mohawk was developed at Virginia Tech and selected specifically for cold tolerance beyond that of most seeded common bermudagrass, allowing it to persist reliably as far north and east as Virginia while remaining adapted south and west through Oklahoma, Missouri, and California. It establishes quickly and aggressively from seed, filling in bare soil faster than many other seeded bermudas, which makes it a popular, budget-friendly choice for turf renovation projects, municipal lawns, and general-purpose pasture. It thrives in sandy soils but adapts well to most well-drained loams, and it is used for both mowed turf and grazing or hay production. As with all bermudagrass, it needs full sun and goes dormant and straw-brown with the first hard freeze, greening up again reliably each spring.",
-    "sources": ["Virginia Tech — Bermudagrass Variety Development", "Southeast AgriSeeds — Mohawk Bermudagrass", "North Carolina State University Extension — Bermudagrass Production in North Carolina"]
+    "sources": [
+      "Virginia Tech \u2014 Bermudagrass Variety Development",
+      "Southeast AgriSeeds \u2014 Mohawk Bermudagrass",
+      "North Carolina State University Extension \u2014 Bermudagrass Production in North Carolina"
+    ]
   },
   {
     "slug": "tifway-ii-bermudagrass",
@@ -680,26 +1380,54 @@
     "scientific_name": "Cynodon dactylon x transvaalensis 'Tifway II'",
     "category": "cover-crop",
     "subcategory": "turfgrass",
-    "days_to_germination": { "min": null, "max": null },
-    "germination_soil_temp_f": { "min": 65, "max": 95 },
-    "days_to_maturity": { "min": 30, "max": 60 },
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 95
+    },
+    "days_to_maturity": {
+      "min": 30,
+      "max": 60
+    },
     "maturity_from": "transplant",
     "sow_method": "transplant",
     "season": "warm",
     "frost_tolerance": "hardy",
     "planting": {
       "anchor": "last_frost",
-      "weeks_from_anchor": { "min": 2, "max": 8 },
-      "note": "Establish from sod or sprigs (not seed, as Tifway II is a sterile hybrid) once soil is consistently above 65°F; Tifway II is a 1981 USDA-ARS and University of Georgia gamma-irradiated mutant of Tifway selected for improved resistance to sting, root-knot, and ring nematodes."
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 8
+      },
+      "note": "Establish from sod or sprigs (not seed, as Tifway II is a sterile hybrid) once soil is consistently above 65\u00b0F; Tifway II is a 1981 USDA-ARS and University of Georgia gamma-irradiated mutant of Tifway selected for improved resistance to sting, root-knot, and ring nematodes."
     },
-    "usda_zones": { "min": 7, "max": 10 },
-    "spacing_in": { "min": 12, "max": 24 },
-    "height_in": { "min": 0.5, "max": 1.5 },
-    "spread_in": { "min": 12, "max": 24 },
+    "usda_zones": {
+      "min": 7,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 24
+    },
+    "height_in": {
+      "min": 0.5,
+      "max": 1.5
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 24
+    },
     "sun": "full",
     "water": "low",
     "directions": "Tifway II was released in 1981 by the USDA-ARS and University of Georgia as a gamma-irradiated mutant of the widely planted Tifway, selected specifically for improved resistance to sting, root-knot, and ring nematodes that can thin out standard Tifway on sandy soils. It shares Tifway's dense, fine-textured, dark green turf and excellent wear tolerance, making it well suited to golf course fairways and tees, athletic fields, and high-end lawns, while offering somewhat better resilience in nematode-prone sandy sites. Cold tolerance and overall management needs closely mirror Tifway, including a need for full sun and regular dethatching or verticutting to manage thatch buildup. Establish only from sod or sprigs, since it is a sterile hybrid that does not produce viable seed.",
-    "sources": ["University of Georgia — Tifway Bermudagrass (Georgia's Integrated Cultivar Release System)", "USGA Green Section Record — A Turfgrass Timeline: The History of Bermudagrass Breeding", "Winstead Turf Farms — Tifway II Bermudagrass"]
+    "sources": [
+      "University of Georgia \u2014 Tifway Bermudagrass (Georgia's Integrated Cultivar Release System)",
+      "USGA Green Section Record \u2014 A Turfgrass Timeline: The History of Bermudagrass Breeding",
+      "Winstead Turf Farms \u2014 Tifway II Bermudagrass"
+    ]
   },
   {
     "slug": "tifton-85-bermudagrass",
@@ -707,25 +1435,478 @@
     "scientific_name": "Cynodon dactylon x nlemfuensis 'Tifton 85'",
     "category": "cover-crop",
     "subcategory": "grass",
-    "days_to_germination": { "min": null, "max": null },
-    "germination_soil_temp_f": { "min": 65, "max": 95 },
-    "days_to_maturity": { "min": 30, "max": 60 },
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 95
+    },
+    "days_to_maturity": {
+      "min": 30,
+      "max": 60
+    },
     "maturity_from": "transplant",
     "sow_method": "transplant",
     "season": "warm",
     "frost_tolerance": "half-hardy",
     "planting": {
       "anchor": "last_frost",
-      "weeks_from_anchor": { "min": 2, "max": 8 },
-      "note": "Establish from sprigs or plugs (not seed, as Tifton 85 is a sterile hybrid) once soil is consistently above 65°F; Tifton 85 was released in 1993 by USDA-ARS breeder Glenn Burton as a cross of Tifton 68 with a South African stargrass introduction, prized for higher forage digestibility than Coastal bermudagrass."
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 8
+      },
+      "note": "Establish from sprigs or plugs (not seed, as Tifton 85 is a sterile hybrid) once soil is consistently above 65\u00b0F; Tifton 85 was released in 1993 by USDA-ARS breeder Glenn Burton as a cross of Tifton 68 with a South African stargrass introduction, prized for higher forage digestibility than Coastal bermudagrass."
     },
-    "usda_zones": { "min": 8, "max": 10 },
-    "spacing_in": { "min": 12, "max": 24 },
-    "height_in": { "min": 6, "max": 24 },
-    "spread_in": { "min": 12, "max": 24 },
+    "usda_zones": {
+      "min": 8,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 24
+    },
+    "height_in": {
+      "min": 6,
+      "max": 24
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 24
+    },
     "sun": "full",
     "water": "low",
     "directions": "Tifton 85 was released in 1993 by USDA-ARS geneticist Glenn Burton as a cross between Tifton 68 bermudagrass and a highly digestible South African stargrass introduction, producing a taller, larger-stemmed, darker green hybrid than Coastal or Coastcross-1. Its standout trait is forage quality: research trials have found it roughly 10 percent higher in digestibility and modestly higher in crude protein than Coastal bermudagrass, translating into better weight gain for grazing cattle and higher-quality hay. It spreads aggressively by large, fast-growing stolons rather than extensive rhizomes, so it establishes quickly from sprigs but is somewhat more cold-sensitive than Coastal, limiting reliable use to the milder Gulf Coast and Deep South. As with other forage bermudagrass hybrids, it is propagated vegetatively rather than by seed and responds strongly to nitrogen fertility for maximum hay or grazing yield.",
-    "sources": ["USDA Agricultural Research Service — Bermudagrass for Forage", "University of Georgia — Registration of 'Tifton 85' Bermudagrass", "University of Florida IFAS Extension — Coastal vs. Tifton 85 Bermudagrass for Horses"]
+    "sources": [
+      "USDA Agricultural Research Service \u2014 Bermudagrass for Forage",
+      "University of Georgia \u2014 Registration of 'Tifton 85' Bermudagrass",
+      "University of Florida IFAS Extension \u2014 Coastal vs. Tifton 85 Bermudagrass for Horses"
+    ]
+  },
+  {
+    "slug": "seaisle-1-seashore-paspalum",
+    "common_name": "SeaIsle 1 Seashore Paspalum (Fine-Bladed Salt-Tolerant Golf Turf Cultivar)",
+    "scientific_name": "Paspalum vaginatum 'SeaIsle 1'",
+    "category": "cover-crop",
+    "subcategory": "turfgrass",
+    "days_to_germination": null,
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 90
+    },
+    "days_to_maturity": {
+      "min": 30,
+      "max": 60
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "warm",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 8
+      },
+      "note": "Establish only from certified sprigs or sod after soil has warmed in spring; SeaIsle 1 is a University of Georgia seashore paspalum release bred for golf fairway, tee, and rough use in high-salinity coastal conditions."
+    },
+    "usda_zones": {
+      "min": 8,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 4,
+      "max": 12
+    },
+    "height_in": {
+      "min": 0.5,
+      "max": 1.5
+    },
+    "spread_in": {
+      "min": 6,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Bred at the University of Georgia's Griffin campus by Dr. Ronny Duncan, SeaIsle 1 was one of the first seashore paspalum releases to combine fine leaf texture with genuine golf-course-grade performance, and it remains licensed as a certified cultivar propagated only from approved sprig or sod sources. It tolerates irrigation with water far saltier than bermudagrass or St. Augustine grass can handle, including brackish or reclaimed sources, making it valuable on coastal fairways, tees, and roughs where salt-laden soil or irrigation water would otherwise limit turf choices. Regular light fertilization and periodic verticutting keep the dense canopy from building excess thatch, and it holds up well to golf cart and foot traffic once established. Give it full sun for best density, since heavy shade thins the stand and invites weed encroachment.",
+    "sources": [
+      "University of Georgia Griffin Campus Turfgrass Research",
+      "USGA Green Section Record",
+      "University of Florida IFAS Extension"
+    ]
+  },
+  {
+    "slug": "seadwarf-seashore-paspalum",
+    "common_name": "SeaDwarf Seashore Paspalum (Ultra-Dwarf Putting Green Turf Cultivar)",
+    "scientific_name": "Paspalum vaginatum 'SeaDwarf'",
+    "category": "cover-crop",
+    "subcategory": "turfgrass",
+    "days_to_germination": null,
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 90
+    },
+    "days_to_maturity": {
+      "min": 30,
+      "max": 60
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "warm",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 8
+      },
+      "note": "Establish only from sprigs or sod after soil warms in spring; SeaDwarf is the lowest-mowing seashore paspalum cultivar available, developed for golf greens maintained at extremely close heights."
+    },
+    "usda_zones": {
+      "min": 8,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 4,
+      "max": 10
+    },
+    "height_in": {
+      "min": 0.1,
+      "max": 0.5
+    },
+    "spread_in": {
+      "min": 6,
+      "max": 18
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "SeaDwarf stands apart among seashore paspalum selections as the only true dwarf type, holding up to mowing heights as low as one-tenth of an inch without losing density, which lets it compete with ultradwarf bermudagrass on putting greens while still delivering the salt tolerance seashore paspalum is known for. Its bright green color and high shoot density make for a smooth, fast putting surface, and it shows less susceptibility to dollar spot than many coarser seashore paspalum cultivars. Because it can also be maintained at taller mowing heights up to roughly two inches, the same cultivar suits fairways and select lawn or landscape uses where irrigation water is too saline for other turfgrasses. Propagate only from certified sprigs or sod, irrigate generously through establishment, and apply light, frequent fertilization to sustain the dense canopy at low mowing heights.",
+    "sources": [
+      "University of Georgia Griffin Campus Turfgrass Research",
+      "USGA Green Section Record",
+      "University of Florida IFAS Extension"
+    ]
+  },
+  {
+    "slug": "trinity-zoysia-grass",
+    "common_name": "Trinity Zoysia Grass (Fine-Bladed Shade-Tolerant Golf and Estate Lawn Turf)",
+    "scientific_name": "Zoysia matrella 'Trinity'",
+    "category": "cover-crop",
+    "subcategory": "turfgrass",
+    "days_to_germination": null,
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 95
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 120
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "warm",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 8
+      },
+      "note": "Establish only from sod or plugs (not seed) once soil is consistently above 65\u00b0F; Trinity is a Bladerunner Farms Zoysia matrella release bred for fine texture and moderate shade tolerance on estate lawns and golf tees."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 6,
+      "max": 12
+    },
+    "height_in": {
+      "min": 0.5,
+      "max": 1.5
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 24
+    },
+    "sun": "partial",
+    "water": "low",
+    "directions": "Trinity is a multi-clonal Zoysia matrella cultivar from Bladerunner Farms, the breeder behind Zeon, developed to hold a fine, dense, reel-cut-quality finish on partially shaded estate lawns and golf tees where coarser zoysia types struggle. It performs on as little as three to four hours of direct sun a day, tolerating more shade than bermudagrass while still forming a soft, uniform, dark green sward in fuller light. Growth is notably slower and more vertically restrained than lawn-type zoysia like Empire, cutting mowing frequency and letting it hold a clean, manicured look between mowings. Install only from sod or plugs, irrigate closely through establishment, and avoid excess nitrogen, which pushes thatch and softens its naturally tight growth habit.",
+    "sources": [
+      "Bladerunner Farms \u2014 Zoysiagrass Varieties",
+      "Texas A&M AgriLife Extension \u2014 Zoysiagrass Varieties",
+      "USGA Green Section Record"
+    ]
+  },
+  {
+    "slug": "prizm-zoysia-grass",
+    "common_name": "Prizm Zoysia Grass (Ultra-Fine Tee-to-Green Turf Cultivar)",
+    "scientific_name": "Zoysia matrella 'Prizm'",
+    "category": "cover-crop",
+    "subcategory": "turfgrass",
+    "days_to_germination": null,
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 95
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 120
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "warm",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 8
+      },
+      "note": "Establish only from sod, sprigs, or plugs (not seed) once soil is consistently warm; Prizm is a Bladerunner Farms Zoysia matrella release engineered to be mowed at variable heights from golf-green to fairway length on the same turf."
+    },
+    "usda_zones": {
+      "min": 8,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 6,
+      "max": 12
+    },
+    "height_in": {
+      "min": 0.1,
+      "max": 1
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Released by Bladerunner Farms as the first zoysiagrass marketed for true tee-to-green use, Prizm holds an ultra-fine, tight canopy across an unusually wide range of mowing heights, from roughly one-tenth of an inch up to a full inch, without losing density or color. Its vivid green color and high shoot count give golf courses and premium lawns a uniform, manicured surface with markedly lower fertility and mowing requirements than ultradwarf bermudagrass maintained at similar heights. It shows good built-in tolerance of common turf insects, diseases, and weeds, reducing the spray program needed to keep it healthy. Give it full sun to light shade, establish only from certified sod or plugs, and expect a longer initial grow-in period typical of fine-textured zoysia cultivars.",
+    "sources": [
+      "Bladerunner Farms \u2014 Prizm Zoysia",
+      "Golf Course Industry",
+      "Texas A&M AgriLife Extension \u2014 Zoysiagrass Varieties"
+    ]
+  },
+  {
+    "slug": "sapphire-st-augustine-grass",
+    "common_name": "Sapphire St. Augustine Grass (Fine-Textured Blue-Green Dwarf Lawn Grass)",
+    "scientific_name": "Stenotaphrum secundatum 'Sapphire'",
+    "category": "cover-crop",
+    "subcategory": "grass",
+    "days_to_germination": null,
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 95
+    },
+    "days_to_maturity": {
+      "min": 30,
+      "max": 60
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "warm",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 8
+      },
+      "note": "Establish from sod or plugs, not seed; Sapphire is a dwarf, blue-green St. Augustine selection with fine, tightly folded leaf blades and rapid stolon spread."
+    },
+    "usda_zones": {
+      "min": 8,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 24
+    },
+    "height_in": {
+      "min": 2,
+      "max": 2.5
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 24
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Sapphire is a dwarf St. Augustine selection distinguished by its blue-green leaf color, purple-tinted stolons, and long, tightly folded leaf blades that give the turf a distinctly fine texture compared to standard Floratam. It spreads aggressively by surface stolons once established, filling in bare patches and plugs quickly, and is typically mowed at 2 to 2.5 inches to keep the low, dense growth habit it is known for. Like most St. Augustine cultivars it remains susceptible to the same chinch bug, gray leaf spot, and take-all root rot pressures that affect the species generally, so routine scouting and prompt treatment matter more than with newer disease-resistant releases. Give it moist, well-drained soil and expect partial shade tolerance similar to other dwarf St. Augustine types, and avoid scalping, since close mowing below its preferred height stresses the stolons and slows recovery.",
+    "sources": [
+      "University of Florida IFAS Extension",
+      "Texas A&M AgriLife Extension",
+      "Clemson Cooperative Extension"
+    ]
+  },
+  {
+    "slug": "bewitched-kentucky-bluegrass",
+    "common_name": "Bewitched Kentucky Bluegrass (Compact Dense High-Wear Turf Cultivar)",
+    "scientific_name": "Poa pratensis 'Bewitched'",
+    "category": "cover-crop",
+    "subcategory": "grass",
+    "days_to_germination": {
+      "min": 14,
+      "max": 28
+    },
+    "germination_soil_temp_f": {
+      "min": 50,
+      "max": 65
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 120
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -6,
+        "max": -2
+      },
+      "note": "Sow in late summer to early fall at 2-3 lbs per 1,000 sq ft in fertile, well-prepared soil; Bewitched is a compact-type Kentucky bluegrass cultivar bred for high shoot density and strong wear tolerance on golf fairways and sports turf."
+    },
+    "usda_zones": {
+      "min": 2,
+      "max": 7
+    },
+    "spacing_in": {
+      "min": 1,
+      "max": 1
+    },
+    "height_in": {
+      "min": 1.5,
+      "max": 3.5
+    },
+    "spread_in": {
+      "min": 1,
+      "max": 1
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Bewitched is a compact-type Kentucky bluegrass cultivar that has ranked near the top of National Turfgrass Evaluation Program trials for overall quality and wear tolerance, making it a favorite for golf course fairways, sports fields, and sod production where traffic tolerance matters as much as appearance. Its low, dense growth habit produces a tight, uniform sward with good genetic color, and it blends well with other elite bluegrass cultivars or fine fescue in premium lawn seed mixes. Sow in late summer or early fall for the most reliable establishment, since Kentucky bluegrass germinates slowly and benefits from cool soil and consistent moisture during seedling development. Expect typical bluegrass summer dormancy under drought and heat stress unless irrigated, and mow at a moderate height to encourage the dense rhizome network that helps it self-repair from wear.",
+    "sources": [
+      "National Turfgrass Evaluation Program",
+      "Rutgers University Turfgrass Program",
+      "Oregon State University Extension"
+    ]
+  },
+  {
+    "slug": "blue-velvet-kentucky-bluegrass",
+    "common_name": "Blue Velvet Kentucky Bluegrass (Dark Fine-Leaved Low-Growing Turf Cultivar)",
+    "scientific_name": "Poa pratensis 'Blue Velvet'",
+    "category": "cover-crop",
+    "subcategory": "grass",
+    "days_to_germination": {
+      "min": 14,
+      "max": 28
+    },
+    "germination_soil_temp_f": {
+      "min": 50,
+      "max": 65
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 120
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -6,
+        "max": -2
+      },
+      "note": "Sow in late summer to early fall at 2-3 lbs per 1,000 sq ft in fertile, well-prepared soil; Blue Velvet is a Midnight-type Kentucky bluegrass cultivar selected for very dark green color, fine leaf texture, and reduced mowing frequency."
+    },
+    "usda_zones": {
+      "min": 2,
+      "max": 7
+    },
+    "spacing_in": {
+      "min": 1,
+      "max": 1
+    },
+    "height_in": {
+      "min": 1.5,
+      "max": 3
+    },
+    "spread_in": {
+      "min": 1,
+      "max": 1
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Blue Velvet belongs to the Midnight family of Kentucky bluegrass cultivars, sharing that group's very dark green color and fine leaf texture while adding a distinctly low, slow-growing habit that stretches out the interval between mowings compared with older bluegrass types. It has demonstrated strong summer stress tolerance in National Turfgrass Evaluation Program trials, persisting well under demanding conditions that thin many other bluegrasses. Establish in late summer or early fall, keeping the seedbed consistently moist through the slow, multi-week germination period typical of Kentucky bluegrass. Once established it spreads by rhizomes to self-repair minor damage, and it is often blended with perennial ryegrass or fine fescue for faster initial cover in premium home lawns and sports turf.",
+    "sources": [
+      "National Turfgrass Evaluation Program",
+      "DLF Pickseed USA",
+      "Michigan State University Extension"
+    ]
+  },
+  {
+    "slug": "rugby-ii-kentucky-bluegrass",
+    "common_name": "Rugby II Kentucky Bluegrass (Improved Compact Turf Cultivar)",
+    "scientific_name": "Poa pratensis 'Rugby II'",
+    "category": "cover-crop",
+    "subcategory": "grass",
+    "days_to_germination": {
+      "min": 14,
+      "max": 28
+    },
+    "germination_soil_temp_f": {
+      "min": 50,
+      "max": 65
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 120
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -6,
+        "max": -2
+      },
+      "note": "Sow in late summer to early fall at 2-3 lbs per 1,000 sq ft in fertile, well-prepared soil; Rugby II is an improved compact-type Kentucky bluegrass cultivar bred for genetic color and turf density."
+    },
+    "usda_zones": {
+      "min": 2,
+      "max": 7
+    },
+    "spacing_in": {
+      "min": 1,
+      "max": 1
+    },
+    "height_in": {
+      "min": 2,
+      "max": 4
+    },
+    "spread_in": {
+      "min": 1,
+      "max": 1
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Rugby II is an improved successor to the older Rugby Kentucky bluegrass, part of the compact-type class of bluegrass cultivars bred for a tighter growth habit and denser turf than common seed. It has been evaluated for years in National Turfgrass Evaluation Program regional trials, where it has shown solid genetic color and consistent turf quality across a range of climates. Like other Kentucky bluegrass cultivars it spreads by rhizomes, allowing it to knit together into a self-repairing sod that recovers from moderate wear and minor bare spots over a season. Sow in early fall for the best establishment window, keep the seedbed moist through germination, and expect the typical Kentucky bluegrass pattern of summer dormancy under heat and drought stress without supplemental irrigation.",
+    "sources": [
+      "National Turfgrass Evaluation Program",
+      "Michigan State University Extension",
+      "Oregon State University Extension"
+    ]
   }
 ]
