@@ -1,14 +1,16 @@
 #!/usr/bin/env python3
 """Merge, validate and flatten the raw category files into the published
-artifacts:  data/plants.json, data/plants.csv, schema/plants.sql
+artifacts:  data/plants.json, data/plants.csv, schema/plants.sql(.gz)
 
 Usage:  python scripts/build.py
 Exit code is non-zero if any record fails validation.
 """
 import csv
+import gzip
 import glob
 import json
 import os
+import shutil
 import re
 import sys
 
@@ -212,7 +214,8 @@ def main():
         for r in records:
             w.writerow([fn(r) for _, fn in FLAT_COLUMNS])
 
-    with open(os.path.join(ROOT, "schema", "plants.sql"), "w") as fh:
+    sql_path = os.path.join(ROOT, "schema", "plants.sql")
+    with open(sql_path, "w") as fh:
         fh.write(open(os.path.join(ROOT, "schema", "table.sql")).read())
         fh.write("\n\n")
         for r in records:
@@ -225,6 +228,25 @@ def main():
                 "INSERT INTO plants (" + ",".join(SQL_COLS) + ")\n"
                 "  VALUES (" + ",".join(vals) + ")\n"
                 "  ON CONFLICT (slug) DO UPDATE SET\n    " + updates + ";\n")
+
+    # schema/plants.sql crossed GitHub's hard 100 MB per-file push limit at
+    # ~21k plants (2026-09-20), which rejected the whole nightly push. The
+    # dump is a derived artifact, so the repo ships it gzipped (~1/9th the
+    # size) and the plain .sql stays local + gitignored.
+    gz_path = sql_path + ".gz"
+    with open(sql_path, "rb") as src, open(gz_path, "wb") as raw:
+        # mtime=0 so identical content yields an identical blob
+        with gzip.GzipFile(filename="plants.sql", mode="wb",
+                           compresslevel=9, fileobj=raw, mtime=0) as gz:
+            shutil.copyfileobj(src, gz, 1 << 20)
+
+    # Early warning: GitHub rejects any pushed file over 100 MB outright.
+    for rel in ("data/plants.json", "data/plants.csv", "schema/plants.sql.gz"):
+        mb = os.path.getsize(os.path.join(ROOT, rel)) / 1e6
+        if mb > 80:
+            print(f"WARNING: {rel} is {mb:.1f} MB — GitHub rejects pushes "
+                  f"over 100 MB; this artifact needs splitting or compressing "
+                  f"before it gets there")
 
     by_cat = {}
     for r in records:

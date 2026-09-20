@@ -1,0 +1,83 @@
+[
+  {
+    "slug": "dracaena-cinnabari",
+    "common_name": "Socotra Dragon Tree (Dragon's Blood Tree)",
+    "scientific_name": "Dracaena cinnabari",
+    "category": "flower",
+    "subcategory": "xeriscape architectural tree",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 1825, "max": 3650},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 6},
+      "note": "Plant container-grown specimens in spring in lean, gritty, extremely well-drained soil in full sun; Socotra dragon tree needs a warm, frost-free spot and is usually kept in a large container to overwinter indoors outside zone 10-11."
+    },
+    "usda_zones": {"min": 10, "max": 11},
+    "spacing_in": {"min": 120, "max": 300},
+    "height_in": {"min": 120, "max": 360},
+    "spread_in": {"min": 180, "max": 360},
+    "sun": "full",
+    "water": "low",
+    "directions": "Socotra dragon tree is endemic to the Yemeni island of Socotra, where isolated stands survive on windswept limestone plateaus. A single thick gray trunk forks repeatedly as the tree matures, building the tree's famous flat-topped, umbrella-like crown of stiff, blue-green, sword-shaped leaves clustered at each branch tip. Deep red sap, long harvested as dragon's blood resin for dye and varnish, seeps from any wound in the bark. Growth is extremely slow, so cultivated specimens are usually grown for years as a modest potted rosette in a bright sunroom or patio before any branching trunk develops; keep the soil on the dry side, since rot from overwatering is a far greater risk than drought.",
+    "sources": ["Missouri Botanical Garden Plant Finder", "Royal Botanic Gardens Kew", "San Marcos Growers reference"]
+  },
+  {
+    "slug": "sansevieria-stuckyi",
+    "common_name": "Stuckyi Snake Plant (Spear Sansevieria)",
+    "scientific_name": "Sansevieria stuckyi",
+    "category": "flower",
+    "subcategory": "xeriscape houseplant succulent",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 365, "max": 1095},
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 6},
+      "note": "Divide rooted offsets or root a cut leaf section in fast-draining cactus mix; grow in bright indirect to full sun as an indoor houseplant or on a frost-free patio in zone 10-11."
+    },
+    "usda_zones": {"min": 10, "max": 11},
+    "spacing_in": {"min": 12, "max": 18},
+    "height_in": {"min": 36, "max": 72},
+    "spread_in": {"min": 12, "max": 24},
+    "sun": "partial",
+    "water": "low",
+    "directions": "Stuckyi is an East African species that grows as a tight fan of thick, rigid, cylindrical to spear-shaped leaves rising almost straight up from the base, unlike the shorter, jointed, fused leaves of the more commonly grown cylindrical snake plant. Individual unbranched leaves can reach several feet tall and are often displayed as a bold, sculptural single-species planting in a narrow pot or tight corner. Like other sansevierias it stores water in its leaves and tolerates long stretches of neglect, needing watering only once the potting mix has dried out fully. Give it the brightest light available indoors, since leaning or floppy growth usually signals insufficient light rather than a watering problem.",
+    "sources": ["Missouri Botanical Garden Plant Finder", "San Marcos Growers reference", "general horticultural reference"]
+  },
+  {
+    "slug": "sansevieria-kirkii-coppertone",
+    "common_name": "Coppertone Sansevieria (Bronze Star Snake Plant)",
+    "scientific_name": "Sansevieria kirkii 'Coppertone'",
+    "category": "flower",
+    "subcategory": "shade-tolerant succulent houseplant",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 365, "max": 730},
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 6},
+      "note": "Divide rhizome offsets and pot in a gritty, fast-draining succulent mix; grow in bright indirect light to filtered sun indoors, or in shade outdoors in zone 10-11, for the deepest bronze leaf color."
+    },
+    "usda_zones": {"min": 10, "max": 11},
+    "spacing_in": {"min": 10, "max": 14},
+    "height_in": {"min": 10, "max": 18},
+    "spread_in": {"min": 10, "max": 16},
+    "sun": "shade",
+    "water": "low",
+    "directions": "Coppertone is a selected form of the East African species Sansevieria kirkii chosen for its strong bronze-copper leaf coloring, which deepens with brighter, though still indirect, light. Broad, wavy-edged leaves radiate outward in a low, flattened rosette rather than growing upright, giving the plant a distinctive starburst silhouette very different from the classic upright snake plant. It spreads gradually by rhizome to form a small colony, making it well suited to a shallow bowl or dish planting where its form can be appreciated from above. As with other sansevierias, let the potting mix dry out completely between waterings to avoid rot.",
+    "sources": ["Missouri Botanical Garden Plant Finder", "San Marcos Growers reference", "general horticultural reference"]
+  }
+]

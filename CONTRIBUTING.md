@@ -23,7 +23,7 @@ plants are both welcome.
    ```bash
    python scripts/build.py
    ```
-   It rebuilds `data/plants.json`, `data/plants.csv` and `schema/plants.sql`,
+   It rebuilds `data/plants.json`, `data/plants.csv` and `schema/plants.sql.gz`,
    and **exits non-zero** if any record breaks the schema. Fix anything it flags.
 4. Commit the raw file **and** the regenerated artifacts together, then open a PR
    describing what you changed and (roughly) where your numbers come from.

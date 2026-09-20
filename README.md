@@ -19,7 +19,7 @@ vanish, and anyone can fork, correct, or extend it.
 | [`data/plants.json`](data/plants.json) | The full dataset — one rich JSON object per plant |
 | [`data/plants.csv`](data/plants.csv) | The same data flattened to a spreadsheet-friendly CSV |
 | [`data/zones.json`](data/zones.json) | USDA hardiness zones 1–13 with typical frost dates |
-| [`schema/plants.sql`](schema/plants.sql) | Ready-to-load PostgreSQL (`CREATE TABLE` + upserts) |
+| [`schema/plants.sql.gz`](schema/plants.sql.gz) | Ready-to-load PostgreSQL (`CREATE TABLE` + upserts), gzipped |
 | [`SCHEMA.md`](SCHEMA.md) | Field-by-field record schema |
 
 Currently **294 plants** across vegetables, herbs, fruits, berries, flowers and
@@ -67,7 +67,7 @@ print("Tomato, zone 8:", plant_window("tomato", 8))
 ## Load it into PostgreSQL
 
 ```bash
-psql "$YOUR_DSN" -f schema/plants.sql        # creates table `plants` + upserts every row
+gunzip -c schema/plants.sql.gz | psql "$YOUR_DSN"   # creates table `plants` + upserts every row
 ```
 
 The table keeps flat columns for the common queryable fields **and** the full
@@ -84,7 +84,7 @@ The published files are generated from the per-category sources in
 [`data/raw/`](data/raw). After editing a raw file:
 
 ```bash
-python scripts/build.py     # validates, dedupes, regenerates plants.json / .csv / plants.sql
+python scripts/build.py     # validates, dedupes, regenerates plants.json / .csv / plants.sql.gz
 ```
 
 The build **fails loudly** on any schema violation, so a bad PR can't land.

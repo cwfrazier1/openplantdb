@@ -1,0 +1,281 @@
+[
+  {
+    "slug": "astro-bermudagrass",
+    "common_name": "Astro Bermudagrass (Slow-Growing Soft-Bladed Hybrid Sports Turf)",
+    "scientific_name": "Cynodon dactylon x transvaalensis 'Astro'",
+    "category": "cover-crop",
+    "subcategory": "turfgrass",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 30, "max": 60},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "warm",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 2, "max": 8},
+      "note": "Install as sod, sprigs, or plugs once soil is reliably above 65°F, since Astro is a sterile interspecific hybrid with no commercial seed."
+    },
+    "usda_zones": {"min": 7, "max": 10},
+    "spacing_in": {"min": 12, "max": 24},
+    "height_in": {"min": 1, "max": 2},
+    "spread_in": {"min": 12, "max": 24},
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant sod, sprigs, or plugs in full sun during warm weather and irrigate frequently until the stand knits together, then shift to deep, infrequent watering. Astro is a hybrid bermudagrass marketed for its unusually soft, dense, cushioned blades and a noticeably slower vertical growth rate than older sports-turf hybrids, which lets it go longer between mowings while still holding up under heavy foot traffic. It spreads aggressively by stolon and rhizome to recover quickly from wear, making it a common choice for athletic fields, parks, and high-use residential lawns. It goes dormant and straw-colored once temperatures drop consistently below 50°F and greens up again the following spring.",
+    "sources": [
+      "Texas A&M AgriLife Extension — Bermudagrass Varieties for Texas Turf",
+      "National Turfgrass Evaluation Program — National Bermudagrass Test",
+      "Heartland Sod Farm — Astro Bermuda Technical Notes"
+    ]
+  },
+  {
+    "slug": "sultan-bermudagrass",
+    "common_name": "Sultan Bermudagrass (Seeded Dark Green Sports-Turf Cultivar)",
+    "scientific_name": "Cynodon dactylon 'Sultan'",
+    "category": "cover-crop",
+    "subcategory": "turfgrass",
+    "days_to_germination": {"min": 10, "max": 21},
+    "germination_soil_temp_f": {"min": 65, "max": 95},
+    "days_to_maturity": {"min": 60, "max": 120},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 2, "max": 10},
+      "note": "Direct sow hulled seed into a warm, weed-free seedbed once soil is reliably above 65°F, keeping the surface consistently moist through germination."
+    },
+    "usda_zones": {"min": 6, "max": 10},
+    "spacing_in": {"min": 6, "max": 12},
+    "height_in": {"min": 1, "max": 2},
+    "spread_in": {"min": 12, "max": 24},
+    "sun": "full",
+    "water": "low",
+    "directions": "Direct sow into a firm, warm seedbed in full sun and keep the top inch of soil consistently moist until seedlings establish, then transition to deep, infrequent irrigation. Sultan is a synthetic seeded bermudagrass variety developed through several cycles of selection among elite cross-fertile clones, bred to combine a dark green color, medium-fine texture, and uniform stand density that rival vegetatively propagated hybrids without the expense of sodding or sprigging. It tolerates heat and drought well and spreads aggressively once established, making it suitable for home lawns, sports fields, golf course roughs, and roadside plantings alike. Mow regularly through the growing season and expect normal winter dormancy with a straw-brown color after the first hard frost.",
+    "sources": [
+      "New Mexico State University Agricultural Experiment Station — Turf-Type Bermudagrass Breeding",
+      "University of Arkansas Cooperative Extension — Establishing Seeded Bermudagrass",
+      "Louisiana State University AgCenter — Seeded Turf-Type Bermudagrasses"
+    ]
+  },
+  {
+    "slug": "discovery-bermudagrass",
+    "common_name": "Discovery Bermudagrass (Low-Maintenance Slow-Growing Hybrid Turf Cultivar)",
+    "scientific_name": "Cynodon dactylon 'Discovery'",
+    "category": "cover-crop",
+    "subcategory": "turfgrass",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 45, "max": 90},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "warm",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 2, "max": 8},
+      "note": "Install as sod or plugs once soil is reliably above 65°F; Discovery produces essentially no viable seed and must be established vegetatively."
+    },
+    "usda_zones": {"min": 7, "max": 10},
+    "spacing_in": {"min": 12, "max": 24},
+    "height_in": {"min": 1, "max": 3},
+    "spread_in": {"min": 12, "max": 24},
+    "sun": "full",
+    "water": "low",
+    "directions": "Install sod or plugs in full sun during warm weather and water frequently until roots take hold, then water deeply and infrequently to encourage a deep root system. Discovery is a hybrid bermudagrass selected for a naturally dark green color, short internodes, and a distinctly slower vertical growth rate than standard hybrid bermudagrasses, which in practice can stretch mowing intervals out to roughly once a month rather than once a week. Its minimal seed head production keeps the canopy looking tidy between mowings, and it retains the heat and drought toughness typical of bermudagrass generally. It is best suited to residential lawns, parks, and commercial landscapes where reduced mowing labor matters more than the closer, more manicured look of sports-turf hybrids.",
+    "sources": [
+      "Sod Solutions — Discovery Bermudagrass Technical Notes",
+      "University of Florida IFAS Extension — Bermudagrass for Florida Lawns",
+      "Texas A&M AgriLife Extension — Bermudagrass Varieties for Texas Turf"
+    ]
+  },
+  {
+    "slug": "innovation-zoysia-grass",
+    "common_name": "Innovation Zoysiagrass (Fine-Textured Cold-Hardy Transition-Zone Turf Cultivar)",
+    "scientific_name": "Zoysia matrella x japonica 'Innovation'",
+    "category": "cover-crop",
+    "subcategory": "turfgrass",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 60, "max": 120},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "warm",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 2, "max": 10},
+      "note": "Establish only from sod, sprigs, or plugs once soil is consistently above 65°F; Innovation is an F1 interspecific hybrid with no commercial seed."
+    },
+    "usda_zones": {"min": 6, "max": 10},
+    "spacing_in": {"min": 6, "max": 12},
+    "height_in": {"min": 1, "max": 2},
+    "spread_in": {"min": 6, "max": 12},
+    "sun": "partial",
+    "water": "low",
+    "directions": "Install sod, sprigs, or plugs in full sun to light shade once soil has warmed, watering frequently through establishment before easing into a deep, infrequent irrigation schedule. Innovation is a joint release from Texas A&M and Kansas State University, bred as an F1 cross between the fine-textured Manila zoysia cultivar Cavalier and a cold-hardy Japanese lawngrass ecotype, combining a texture and density close to Zoysia matrella cultivars with cold tolerance rivaling the long-standard Meyer. That pairing makes it one of the few fine-bladed zoysia options that performs well into the transition zone rather than being limited to warmer climates. It tolerates moderate shade better than bermudagrass and goes dormant with the first hard freeze, greening back up reliably the following late spring.",
+    "sources": [
+      "Texas A&M AgriLife Extension — Turfgrass Breeding and Genetics Program",
+      "Kansas State University Research and Extension — Turfgrass Variety Development",
+      "Sod Solutions — Innovation Zoysiagrass Technical Notes"
+    ]
+  },
+  {
+    "slug": "leisure-time-zoysia-grass",
+    "common_name": "Leisure Time Zoysiagrass (Shade- and Cold-Tolerant Medium-Fine Turf Cultivar)",
+    "scientific_name": "Zoysia japonica 'Leisure Time'",
+    "category": "cover-crop",
+    "subcategory": "turfgrass",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 60, "max": 120},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "warm",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 2, "max": 10},
+      "note": "Establish from sod or plugs once soil is consistently above 65°F, since Leisure Time fills in far more slowly from seed than bermudagrass and is marketed as a vegetatively propagated sod cultivar."
+    },
+    "usda_zones": {"min": 6, "max": 9},
+    "spacing_in": {"min": 6, "max": 12},
+    "height_in": {"min": 1, "max": 2},
+    "spread_in": {"min": 6, "max": 12},
+    "sun": "partial",
+    "water": "low",
+    "directions": "Lay sod or set plugs into moist, well-drained soil in full sun to light shade, watering frequently during the rooting-in period before tapering to deep, infrequent irrigation. Leisure Time is a Japanese lawngrass cultivar promoted by regional sod growers as an all-around performer, combining a medium-fine texture and dark green color with a broader tolerance of shade, heat, cold, and drought stress than many older zoysia selections. That versatility has made it a popular choice where a single lawn area sees a mix of sun and partial tree shade over the course of the day. Like other zoysiagrass, it greens up slowly in spring and browns early with the first cool snap, and it needs relatively little fertilizer once established.",
+    "sources": [
+      "NC State Extension — Zoysiagrass Lawn Maintenance Calendar",
+      "Clemson Cooperative Extension — Zoysiagrass",
+      "NC Sod Producers Association — Zoysiagrass Cultivars"
+    ]
+  },
+  {
+    "slug": "mercedes-st-augustine-grass",
+    "common_name": "Mercedes St. Augustine Grass (Fine-Textured Cold-Hardy Shade-Tolerant Lawn Grass)",
+    "scientific_name": "Stenotaphrum secundatum 'Mercedes'",
+    "category": "cover-crop",
+    "subcategory": "turfgrass",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 30, "max": 60},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "warm",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 2, "max": 8},
+      "note": "Establish from sod or plugs (not seed) once soil is consistently above 70°F, since St. Augustine grass produces no commercial seed."
+    },
+    "usda_zones": {"min": 8, "max": 10},
+    "spacing_in": {"min": 12, "max": 24},
+    "height_in": {"min": 2, "max": 3},
+    "spread_in": {"min": 12, "max": 24},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Lay sod or set plugs into fertile, well-drained soil in full sun to moderate shade, keeping the planting consistently moist until it roots in, then water deeply but infrequently. Mercedes stands out among St. Augustine cultivars for a noticeably finer leaf texture than older standards like Floratam, and in Mississippi State University variety trials it posted among the best winter survival and turf quality scores of any diploid St. Augustine cultivar tested. That combination of cold hardiness and shade tolerance makes it a reasonable choice for Gulf South and lower transition-zone lawns with significant tree cover. Watch for chinch bugs and gray leaf spot as with all St. Augustine grass, and avoid excess nitrogen, which encourages thatch and disease pressure.",
+    "sources": [
+      "Mississippi State University Agricultural and Forestry Experiment Station — Turf Performance of St. Augustinegrass Cultivars in North Mississippi",
+      "Clemson Cooperative Extension — St. Augustinegrass",
+      "Texas A&M AgriLife Extension — St. Augustine Grass for Texas"
+    ]
+  },
+  {
+    "slug": "classic-st-augustine-grass",
+    "common_name": "Classic St. Augustine Grass (Wide-Bladed Cold-Tolerant Southern-Style Lawn Grass)",
+    "scientific_name": "Stenotaphrum secundatum 'Classic'",
+    "category": "cover-crop",
+    "subcategory": "turfgrass",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 30, "max": 60},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "warm",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 2, "max": 8},
+      "note": "Establish from sod or plugs (not seed) once soil is consistently above 70°F, since St. Augustine grass produces no commercial seed."
+    },
+    "usda_zones": {"min": 8, "max": 10},
+    "spacing_in": {"min": 12, "max": 24},
+    "height_in": {"min": 2, "max": 4},
+    "spread_in": {"min": 12, "max": 24},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Lay sod or set plugs into fertile, well-drained soil in full sun to partial shade, watering frequently until the turf knits together and then shifting to deep, infrequent irrigation. Classic is a proprietary St. Augustine grass released in the early 2000s by a Gulf South sod grower, bred as a wide-bladed, rich-green Southern-style selection with better winter cold tolerance and improved disease and insect resistance compared with older commercial standards. Because it carries a slightly taller natural growth habit than dwarf St. Augustine cultivars, it is typically mowed at a higher three-and-a-half to four inch height rather than clipped short. Watch for chinch bugs and gray leaf spot as with all St. Augustine grass, and keep nitrogen moderate to avoid excess thatch.",
+    "sources": [
+      "Woerner Turf & Landscape Supply — Classic St. Augustine Product Notes",
+      "University of Florida IFAS Extension — St. Augustinegrass for Florida Lawns",
+      "Louisiana State University AgCenter — Warm-Season Turfgrass Variety Comparison"
+    ]
+  },
+  {
+    "slug": "covington-centipedegrass",
+    "common_name": "Covington Centipedegrass (Improved Cold-Hardy Coastal Carolina Lawn Grass)",
+    "scientific_name": "Eremochloa ophiuroides 'Covington'",
+    "category": "cover-crop",
+    "subcategory": "turfgrass",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 60, "max": 120},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "warm",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 2, "max": 8},
+      "note": "Establish from sprigs or sod once soil is reliably above 65°F; Covington is propagated vegetatively rather than by seed."
+    },
+    "usda_zones": {"min": 7, "max": 9},
+    "spacing_in": {"min": 6, "max": 12},
+    "height_in": {"min": 1.5, "max": 3},
+    "spread_in": {"min": 4, "max": 24},
+    "sun": "full",
+    "water": "low",
+    "directions": "Establish from sprigs or sod in full sun to very light shade, keeping the planting evenly moist until it fills in, then let it settle into the low-water, low-fertility regime centipedegrass prefers. Covington is an improved centipedegrass selection with better cold tolerance than common seed-propagated centipede, and Clemson Cooperative Extension recommends it for coastal and central South Carolina lawns, though it is not the preferred choice for the colder Upstate region of the state. Like all centipedegrass it performs best in infertile, acidic soil with minimal nitrogen and lime, and it declines into a yellowish stress response if over-fertilized or over-limed. Mow only every one to two weeks and let it go dormant and straw-brown after the first hard freeze.",
+    "sources": [
+      "Clemson Cooperative Extension — Centipedegrass Home & Garden Information Center",
+      "Clemson Cooperative Extension — Turfgrasses for the Carolinas",
+      "University of Georgia Extension — Centipedegrass Lawns"
+    ]
+  },
+  {
+    "slug": "tennessee-hardy-centipedegrass",
+    "common_name": "Tennessee Hardy Centipedegrass (Superior Cold-Tolerant Selection, TennTurf)",
+    "scientific_name": "Eremochloa ophiuroides 'Tennessee Hardy'",
+    "category": "cover-crop",
+    "subcategory": "turfgrass",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 60, "max": 120},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "warm",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 2, "max": 8},
+      "note": "Establish from sprigs or sod once soil is reliably above 65°F; Tennessee Hardy is propagated vegetatively rather than by seed."
+    },
+    "usda_zones": {"min": 6, "max": 9},
+    "spacing_in": {"min": 6, "max": 12},
+    "height_in": {"min": 1.5, "max": 3},
+    "spread_in": {"min": 4, "max": 24},
+    "sun": "full",
+    "water": "low",
+    "directions": "Establish from sprigs or sod in full sun to very light shade, watering in well and then settling into centipedegrass's characteristic low-water, low-fertility care routine. Tennessee Hardy, also marketed as TennTurf, was developed by the University of Tennessee's Agricultural Experiment Station from a single sprig collected from a Chattanooga lawn and released for its markedly superior cold tolerance, extending centipedegrass's reliable range further north than common seed-propagated types or even some other improved selections. It tolerates the poor, acidic soils centipedegrass evolved in, performing best at a soil pH of roughly 4.5 to 5.5 with minimal nitrogen and lime inputs. Mow infrequently at a low height, avoid heavy fertilization, and expect normal winter dormancy with a straw-brown color after the first hard freeze.",
+    "sources": [
+      "University of Tennessee Institute of Agriculture Extension — Turfgrass Selection: Centipedegrass",
+      "Clemson Cooperative Extension — Centipedegrass",
+      "University of Georgia Extension — Centipedegrass Lawns"
+    ]
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "slug": "clerodendrum-bungei-pink-diamond",
+    "common_name": "Pink Diamond Clerodendrum (Variegated Cashmere Bouquet)",
+    "scientific_name": "Clerodendrum bungei 'Pink Diamond'",
+    "category": "flower",
+    "subcategory": "variegated ornamental shrub",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 180, "max": 365},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Set out container-grown plants in spring once frost danger has passed, in fertile, well-drained soil; where winters dip below zone 8, grow it in a pot that can be sheltered over winter."
+    },
+    "usda_zones": {"min": 8, "max": 10},
+    "spacing_in": {"min": 24, "max": 36},
+    "height_in": {"min": 24, "max": 48},
+    "spread_in": {"min": 24, "max": 48},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Pink Diamond is a variegated sport of the vigorous, suckering rose glory bower, its rounded leaves marbled in cream, gray-green, and mid-green rather than solid green, giving the plant ornamental interest well before the flowers open. From midsummer into early fall, dark crimson buds unfurl into large, dome-shaped clusters of intensely fragrant, star-shaped pink flowers that draw butterflies and hummingbirds. Unlike the straight species, which spreads aggressively and can reach six feet, Pink Diamond stays notably more compact and restrained, making it manageable in a mixed border or large container. In climates colder than zone 8, treat it as a root-hardy perennial that dies back and resprouts from a heavily mulched crown in spring, or overwinter container specimens under cover.",
+    "sources": ["Royal Horticultural Society Plant Selector", "Bluebell Nursery", "Thompson & Morgan"]
+  },
+  {
+    "slug": "clerodendrum-trichotomum-fargesii",
+    "common_name": "Fargesii Harlequin Glorybower (Farges' Glorybower)",
+    "scientific_name": "Clerodendrum trichotomum var. fargesii",
+    "category": "flower",
+    "subcategory": "deciduous ornamental shrub",
+    "days_to_germination": {"min": 21, "max": 42},
+    "germination_soil_temp_f": {"min": 65, "max": 75},
+    "days_to_maturity": {"min": 365, "max": 730},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Plant container specimens in spring in fertile, well-drained soil in a sheltered, sunny site, ideally against a warm wall in cooler parts of its range."
+    },
+    "usda_zones": {"min": 6, "max": 9},
+    "spacing_in": {"min": 72, "max": 120},
+    "height_in": {"min": 84, "max": 180},
+    "spread_in": {"min": 72, "max": 144},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Clerodendrum trichotomum var. fargesii is a more refined botanical variety of harlequin glorybower, distinguished from the species by smoother, less bristly leaves, purple-flushed young stems, and an eventual small-tree habit rather than a thicket-forming shrub. In late summer, clusters of maroon buds open into small, star-shaped, richly fragrant white flowers, followed in autumn by glossy turquoise-blue berries cradled in vivid magenta-red star-shaped calyxes, a combination that has earned it the Royal Horticultural Society's Award of Garden Merit. It performs best in a sheltered, sunny position in fertile, well-drained soil, since it can be slightly less forgiving of exposed, windy sites than seedling-grown trichotomum. As with the species, avoid bruising or crushing the foliage, which releases an unpleasant odor, and mulch young plants heavily through their first few winters until well established.",
+    "sources": ["Royal Horticultural Society", "Trees and Shrubs Online (International Dendrology Society)", "BBC Gardeners' World Magazine"]
+  },
+  {
+    "slug": "gardenia-pinwheel",
+    "common_name": "Pinwheel Gardenia (Cold-Hardy Single-Flowered Reblooming Gardenia)",
+    "scientific_name": "Gardenia jasminoides 'Piiga-I'",
+    "category": "flower",
+    "subcategory": "evergreen shrub",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 365, "max": 730},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 8},
+      "note": "Plant container specimens in spring in moist, well-drained, humus-rich, strongly acidic soil in full sun to partial shade; Pinwheel was selected for both cold tolerance and repeat bloom."
+    },
+    "usda_zones": {"min": 7, "max": 10},
+    "spacing_in": {"min": 36, "max": 48},
+    "height_in": {"min": 36, "max": 48},
+    "spread_in": {"min": 36, "max": 48},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Pinwheel is a reblooming gardenia selection prized for its narrow, single, pinwheel-shaped white petals that spiral around a bright center, a distinctly different look from the dense double blooms of most garden-center gardenias. It flowers heavily from late spring into early summer and then continues intermittently into fall, extending the fragrant season well beyond a single spring flush. It was bred and patented for improved cold tolerance and has been reported to survive outdoor winters with minimal dieback well beyond what most gardenia cultivars endure, making it a good option for gardeners at the cooler edge of gardenia country. Give it the moist, acidic, humus-rich, well-drained soil all gardenias require, with full sun to light afternoon shade, and expect a naturally rounded, compact habit that needs little pruning to stay in bounds.",
+    "sources": ["Monrovia", "Royal Horticultural Society", "Gardenia.net"]
+  }
+]
