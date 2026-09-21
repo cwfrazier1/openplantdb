@@ -1,0 +1,56 @@
+[
+  {
+    "slug": "de-milpa-tomatillo",
+    "common_name": "De Milpa Tomatillo",
+    "scientific_name": "Physalis ixocarpa 'De Milpa'",
+    "category": "vegetable",
+    "subcategory": "tomatillo",
+    "days_to_germination": { "min": 7, "max": 14 },
+    "germination_soil_temp_f": { "min": 65, "max": 85 },
+    "days_to_maturity": { "min": 60, "max": 75 },
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": { "min": -8, "max": -6 },
+      "note": "Start indoors 6-8 weeks before last frost; De Milpa is an unimproved, small-fruited landrace tomatillo traditionally interplanted among corn and beans in Mexican milpa fields, valued by home cooks for its wild, tangy intensity rather than uniformity of size."
+    },
+    "usda_zones": { "min": 4, "max": 11 },
+    "spacing_in": { "min": 24, "max": 36 },
+    "height_in": { "min": 30, "max": 54 },
+    "spread_in": { "min": 24, "max": 42 },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Sow indoors 6-8 weeks before the last frost and transplant into warm soil once frost danger has passed, spacing plants generously since De Milpa sprawls more loosely than domesticated tomatillo strains. This is an old, semi-wild landrace type still gathered from milpa (cornfield) plantings in central and southern Mexico rather than a modern breeding selection, so fruit size and husk color vary noticeably plant to plant, ranging from green to purple-blushed. The small, marble-sized fruits fill their husks completely and have a sharper, more acidic bite than commercial green tomatillos, making them prized by cooks seeking a rustic, old-style salsa verde. Because tomatillos are self-incompatible, grow at least two plants for reliable fruit set; harvest once husks split or turn papery and fruit fills the husk.",
+    "sources": ["Native Seeds/SEARCH", "Seed Savers Exchange", "Baker Creek Heirloom Seeds"]
+  },
+  {
+    "slug": "table-top-ground-cherry",
+    "common_name": "Table Top Ground Cherry",
+    "scientific_name": "Physalis pruinosa 'Table Top'",
+    "category": "vegetable",
+    "subcategory": "ground cherry",
+    "days_to_germination": { "min": 7, "max": 14 },
+    "germination_soil_temp_f": { "min": 65, "max": 80 },
+    "days_to_maturity": { "min": 65, "max": 75 },
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": { "min": -8, "max": -6 },
+      "note": "Start indoors 6-8 weeks before last frost; Table Top is a compact, upright ground cherry selection bred for a tidier, less sprawling habit than typical Physalis pruinosa, making it well suited to raised beds, small plots, and large containers."
+    },
+    "usda_zones": { "min": 4, "max": 11 },
+    "spacing_in": { "min": 15, "max": 20 },
+    "height_in": { "min": 14, "max": 20 },
+    "spread_in": { "min": 16, "max": 22 },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Start seeds indoors 6-8 weeks before the last frost and transplant into warm, well-drained soil after danger of frost has passed. Table Top was selected for a low, mounding, self-supporting habit that stays far more contained than the wide-sprawling growth typical of ground cherries, so it fits neatly into small raised beds or a large patio pot without staking. Plants still bear the same small, sweet-tart, husk-wrapped golden fruits and drop them naturally when ripe, so spread a light mulch or row cover beneath plants to make gathering the fallen fruit easier and cleaner. Productive over a long summer season; pinch off any wayward stems if an especially neat, dwarf profile is wanted for container growing.",
+    "sources": ["Seed Savers Exchange", "Sand Hill Preservation Center", "Baker Creek Heirloom Seeds"]
+  }
+]

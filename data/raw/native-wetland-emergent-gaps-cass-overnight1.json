@@ -1,0 +1,56 @@
+[
+  {
+    "slug": "sparganium-americanum",
+    "common_name": "American Bur-Reed",
+    "scientific_name": "Sparganium americanum",
+    "category": "flower",
+    "subcategory": "native aquatic perennial",
+    "days_to_germination": { "min": 21, "max": 60 },
+    "germination_soil_temp_f": { "min": 60, "max": 75 },
+    "days_to_maturity": { "min": 120, "max": 365 },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": { "min": 0, "max": 6 },
+      "note": "Divide established rhizome clumps in spring and plant into containers of heavy aquatic soil set at the margin of a pond or slow stream, or directly into soft saturated sediment, with the crown in 0-8 inches of standing water. American bur-reed spreads steadily by creeping rhizomes to knit together loose colonies at the waterline, so give new divisions room or plan to thin every few years to keep it from crowding out neighboring marginals."
+    },
+    "usda_zones": { "min": 3, "max": 9 },
+    "spacing_in": { "min": 12, "max": 24 },
+    "height_in": { "min": 18, "max": 36 },
+    "spread_in": { "min": 18, "max": 36 },
+    "sun": "full",
+    "water": "high",
+    "directions": "Plant at the shallow margins of a pond, rain garden basin, or slow-moving stream in saturated soil to 8 inches of standing water in full sun to light shade; American bur-reed is a grass-like native emergent found naturally in marshes, wet meadows, and pond edges across most of eastern and central North America. It forms arching, strap-like leaves and sends up branched flower stalks bearing distinctive round, bur-like clusters of tiny greenish-white flowers in summer, the male heads above the female, followed by knobby seed heads that persist into fall. The seed heads are an important food source for dabbling ducks, and the dense rhizome mats stabilize soft shoreline soil and provide cover for amphibians and aquatic invertebrates, making this an underused but valuable species for naturalistic pond-edge and constructed wetland plantings.",
+    "sources": ["Lady Bird Johnson Wildflower Center", "USDA PLANTS Database", "Minnesota Wildflowers"]
+  },
+  {
+    "slug": "sparganium-eurycarpum",
+    "common_name": "Giant Bur-Reed",
+    "scientific_name": "Sparganium eurycarpum",
+    "category": "flower",
+    "subcategory": "native aquatic perennial",
+    "days_to_germination": { "min": 21, "max": 60 },
+    "germination_soil_temp_f": { "min": 60, "max": 75 },
+    "days_to_maturity": { "min": 120, "max": 365 },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": { "min": 0, "max": 6 },
+      "note": "Divide rhizome clumps in spring and set divisions into heavy aquatic soil at pond margins or in shallow water up to 12 inches deep; giant bur-reed is a robust, fast-spreading emergent best suited to larger constructed wetlands, retention ponds, and stormwater basins rather than small ornamental water gardens. Allow generous space or plant in a submerged container to contain its vigorous rhizome spread."
+    },
+    "usda_zones": { "min": 3, "max": 8 },
+    "spacing_in": { "min": 24, "max": 36 },
+    "height_in": { "min": 36, "max": 72 },
+    "spread_in": { "min": 36, "max": 60 },
+    "sun": "full",
+    "water": "high",
+    "directions": "Plant in saturated soil or standing water up to 12 inches deep at pond margins, stormwater basins, or large constructed wetlands in full sun; giant bur-reed is a coarse, vigorous native emergent found across northern and central North America in marshes, lake margins, and slow backwaters, and is considerably larger and more aggressive than American bur-reed. Tall, iris-like leaves rise 3-6 feet and branched stems carry large, spiky, ball-shaped clusters of greenish flowers in summer that mature into prominent knobby seed heads relished by waterfowl, particularly diving ducks. Because of its size and spreading rhizomes it is best reserved for large-scale wetland restoration, biofiltration, or stormwater management plantings where its dense growth is an asset for erosion control and habitat rather than a liability in a small residential water feature.",
+    "sources": ["USDA PLANTS Database", "Minnesota Wildflowers", "Wisconsin State Herbarium Flora"]
+  }
+]

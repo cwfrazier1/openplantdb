@@ -1,0 +1,56 @@
+[
+  {
+    "slug": "amomum-tsaoko",
+    "common_name": "Tsaoko Cardamom (Chinese Black Cardamom, Cao Guo)",
+    "scientific_name": "Amomum tsaoko",
+    "category": "herb",
+    "subcategory": "tropical shade spice",
+    "days_to_germination": { "min": null, "max": null },
+    "germination_soil_temp_f": { "min": null, "max": null },
+    "days_to_maturity": { "min": 1095, "max": 1460 },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": { "min": 0, "max": 8 },
+      "note": "Plant rhizome divisions in spring in rich, constantly moist, well-drained soil in partial shade beneath open tree canopy; this large ginger relative comes from cool, humid mountain forest margins and resents both waterlogging and drought."
+    },
+    "usda_zones": { "min": 9, "max": 11 },
+    "spacing_in": { "min": 48, "max": 72 },
+    "height_in": { "min": 72, "max": 120 },
+    "spread_in": { "min": 48, "max": 72 },
+    "sun": "partial",
+    "water": "high",
+    "directions": "Amomum tsaoko is a large, clump-forming ginger relative native to the forested mountain slopes of Yunnan Province in southern China and adjacent northern Vietnam, where it is cultivated as a major cash crop at elevation under the dappled shade of forest canopy. Flowers form directly on the rhizomes near the soil surface, followed by large, ridged, reddish-brown seed capsules that are smoke-dried over open fires to develop the deep, smoky, camphor-and-eucalyptus aroma prized in Sichuan and Yunnan braises, marinades, and hot pot spice blends. Coarser and considerably taller than true cardamom, with broad glossy canes reaching 6-10 feet, it prefers cool, humid, sheltered shade and rich, constantly moist soil. Propagate by dividing established rhizome clumps in spring; plants take three to four years to reach bearing age.",
+    "sources": ["Flora of China", "Plants for a Future", "USDA ARS National Plant Germplasm System"]
+  },
+  {
+    "slug": "javanese-long-pepper",
+    "common_name": "Javanese Long Pepper (Cabe Jawa, Balinese Pepper)",
+    "scientific_name": "Piper retrofractum",
+    "category": "herb",
+    "subcategory": "spice vine",
+    "days_to_germination": { "min": 21, "max": 45 },
+    "germination_soil_temp_f": { "min": 75, "max": 85 },
+    "days_to_maturity": { "min": 365, "max": 1095 },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": { "min": 2, "max": 6 },
+      "note": "Plant rooted stem cuttings at the base of a sturdy post or tree trunk in fertile, humus-rich, well-drained soil in bright, dappled shade; this woody clinging vine needs consistent warmth and humidity and several years to reach fruiting size."
+    },
+    "usda_zones": { "min": 10, "max": 12 },
+    "spacing_in": { "min": 48, "max": 96 },
+    "height_in": { "min": 96, "max": 240 },
+    "spread_in": { "min": 36, "max": 72 },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Piper retrofractum is a woody, clinging-rooted climbing vine native to Java, Bali, and other islands of maritime Southeast Asia, where the small, cone-shaped fruiting spikes are harvested green and dried to produce 'cabe jawa,' the pungent Javanese long pepper essential to Indonesian jamu tonics and used to season rendang, sambal, and other regional dishes. Distinct from the related Indian long pepper (Piper longum), it delivers a hotter, more intensely peppery heat with warm, resinous undertones. Train young plants up a sturdy post or tree trunk in humus-rich, well-drained soil in bright, dappled shade and keep consistently moist; established vines take two to three years to reach fruiting size. Harvest the spikes while still green and dry them fully before storage.",
+    "sources": ["Purdue University Center for New Crops & Plant Products", "Kew Royal Botanic Gardens Plants of the World Online", "University of Hawaii CTAHR"]
+  }
+]

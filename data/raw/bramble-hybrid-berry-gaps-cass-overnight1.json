@@ -1,0 +1,56 @@
+[
+  {
+    "slug": "thornless-loganberry",
+    "common_name": "Thornless Loganberry",
+    "scientific_name": "Rubus x loganobaccus 'Thornless'",
+    "category": "berry",
+    "subcategory": "cane fruit",
+    "days_to_germination": { "min": null, "max": null },
+    "germination_soil_temp_f": { "min": null, "max": null },
+    "days_to_maturity": { "min": 365, "max": 548 },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": { "min": 0, "max": 4 },
+      "note": "Plant rooted tip cuttings or bare-root canes in early spring after frost danger passes, and put a two- or three-wire trellis in place at planting time since the trailing canes still need full support even without thorns."
+    },
+    "usda_zones": { "min": 6, "max": 9 },
+    "spacing_in": { "min": 72, "max": 96 },
+    "height_in": { "min": 48, "max": 72 },
+    "spread_in": { "min": 84, "max": 120 },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Thornless Loganberry is a spineless bud-sport of the original loganberry (itself a natural blackberry-raspberry hybrid), producing the same long, tart, dark red fruit on canes that are dramatically easier to train, prune, and hand-harvest. Weave the vigorous primocanes along a two- or three-wire trellis through the growing season, then cut the floricanes that just fruited to the ground right after summer harvest and tie the new canes into their place. Because it lacks the parent's thorns, this strain is the preferred choice for home gardens and u-pick plantings where hand contact is frequent. In borderline-hardiness areas, detach canes from the wires after leaf drop and lay them on the ground under mulch for winter protection.",
+    "sources": ["University of California Cooperative Extension", "Oregon State University Extension -- Caneberry Production Guide"]
+  },
+  {
+    "slug": "medana-tayberry",
+    "common_name": "Medana Tayberry",
+    "scientific_name": "Rubus fruticosus x idaeus 'Medana'",
+    "category": "berry",
+    "subcategory": "cane fruit",
+    "days_to_germination": { "min": null, "max": null },
+    "germination_soil_temp_f": { "min": null, "max": null },
+    "days_to_maturity": { "min": 365, "max": 548 },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": { "min": 0, "max": 4 },
+      "note": "Plant rooted tip cuttings or bare-root canes in early spring and install a two-wire trellis at 3 and 5 ft at the same time. Medana is a thornless Scottish-bred selection, an improvement over the older Buckingham strain for ease of handling."
+    },
+    "usda_zones": { "min": 6, "max": 9 },
+    "spacing_in": { "min": 60, "max": 84 },
+    "height_in": { "min": 36, "max": 60 },
+    "spread_in": { "min": 72, "max": 120 },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Medana is a thornless tayberry selection bred in Scotland at the former Scottish Crop Research Institute, carrying the same long, conical, deep purple-red fruit and rich raspberry-blackberry flavor as the classic tayberry on completely spineless canes. Fan-train the trailing canes along wires, keeping the current season's primocanes apart from the fruiting floricanes so post-harvest cleanup stays simple. Remove fruited canes to the ground immediately after harvest and tie the new primocanes onto the trellis for next year's crop. In cooler parts of its range, unclip the canes from the wires after leaf drop and cover with straw mulch or row cover for winter protection.",
+    "sources": ["Royal Horticultural Society -- RHS Fruit Garden Displayed", "Oregon State University Extension -- Caneberry Production Guide"]
+  }
+]
