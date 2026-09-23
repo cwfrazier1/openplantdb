@@ -1,0 +1,112 @@
+[
+  {
+    "slug": "asclepias-connivens",
+    "common_name": "Large-flowered Milkweed",
+    "scientific_name": "Asclepias connivens",
+    "category": "flower",
+    "subcategory": "native Gulf Coast milkweed",
+    "days_to_germination": {
+      "min": 14,
+      "max": 30
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 80
+    },
+    "days_to_maturity": {
+      "min": 150,
+      "max": 240
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 6
+      },
+      "note": "Plant container-grown transplants in spring in wet to moist, acidic, sandy soil in full sun; large-flowered milkweed is native to seasonally saturated pine savannas and flatwoods of the Gulf and lower Atlantic Coastal Plain and establishes best from nursery-grown plugs rather than direct seeding, since wild populations depend on periodic fire and reliable soil moisture that are hard to replicate from bare ground."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 15,
+      "max": 24
+    },
+    "height_in": {
+      "min": 24,
+      "max": 40
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 18
+    },
+    "sun": "full",
+    "water": "high",
+    "directions": "Large-flowered Milkweed is native to wet, seasonally saturated pine savannas, flatwoods, and bog margins across the Gulf and lower Atlantic Coastal Plain, from North Carolina south to Florida and west into Louisiana, with a notable disjunct population in the Ozark Highlands of Missouri and Arkansas. As the common name suggests, it produces the largest flowers of any eastern milkweed — showy, rounded, greenish-white to pale cream umbels held above broad, glossy, clasping leaves that set it apart from the narrower-leaved milkweeds sharing its habitat. Like its pine savanna relatives, it depends on wet, acidic, nutrient-poor sandy soil and benefits from full sun and periodic fire or mowing that keeps woody competition down. It serves as a monarch butterfly larval host and its abundant nectar draws swallowtails, native bees, and other pollinators during its early-to-midsummer bloom period, making it a good fit for rain gardens, bog gardens, or naturally wet, sunny sites in zone 9a Gulf South landscapes.",
+    "sources": [
+      "USDA PLANTS Database",
+      "Lady Bird Johnson Wildflower Center",
+      "Atlas of Florida Plants (University of South Florida)"
+    ]
+  },
+  {
+    "slug": "solidago-leavenworthii",
+    "common_name": "Leavenworth's Goldenrod",
+    "scientific_name": "Solidago leavenworthii",
+    "category": "flower",
+    "subcategory": "native perennial wildflower",
+    "days_to_germination": {
+      "min": 14,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 55,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 180,
+      "max": 365
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -2
+      },
+      "note": "Direct sow fresh seed in fall in moist to wet, acidic, sandy or peaty soil in full sun; Leavenworth's Goldenrod thrives in the seasonally saturated pine flatwoods, ditches, and wet meadows of the eastern Gulf Coastal Plain and germinates readily once soil stays consistently damp."
+    },
+    "usda_zones": {
+      "min": 8,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 24
+    },
+    "height_in": {
+      "min": 24,
+      "max": 60
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "high",
+    "directions": "Leavenworth's Goldenrod is a Coastal Plain native found in wet pine flatwoods, roadside ditches, and seasonally saturated meadows of Florida, southern Georgia, and the eastern Gulf Coast, thriving in moist to wet, acidic soils that many other goldenrods find too saturated. Slender stems topped with dense, plume-like clusters of small golden-yellow flowers bloom from late summer into fall, timed to coincide with peak monarch butterfly migration through the Gulf South and providing an essential nectar source as migrants refuel for their journey to Mexican overwintering grounds. Like most goldenrods it also hosts numerous specialist bee species and supports a wide range of other native pollinators and beneficial insects. Because it tolerates — and even prefers — consistently damp soil, it is a strong choice for rain gardens, pond margins, and low spots that stay wet through much of the year, spreading gradually by rhizomes to form colonies in favorable sites.",
+    "sources": [
+      "USDA PLANTS Database",
+      "Atlas of Florida Plants (University of South Florida)",
+      "Florida Native Plant Society"
+    ]
+  }
+]

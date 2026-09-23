@@ -1,0 +1,64 @@
+[
+  {
+    "slug": "polaris-blueberry",
+    "common_name": "Polaris Blueberry (University of Minnesota Cold-Hardy Half-High Blueberry)",
+    "scientific_name": "Vaccinium angustifolium x corymbosum 'Polaris'",
+    "category": "berry",
+    "subcategory": "blueberry",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": { "min": 730, "max": 1095 },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": { "min": 0, "max": 4 },
+      "note": "Plant container-grown shrubs in spring in acidic, well-drained, humus-rich soil in full sun; Polaris is a 1996 University of Minnesota half-high release commonly planted alongside Northblue and Northsky as a cross-pollinating partner for improved fruit set on all three."
+    },
+    "usda_zones": { "min": 3, "max": 7 },
+    "spacing_in": { "min": 24, "max": 36 },
+    "height_in": { "min": 18, "max": 24 },
+    "spread_in": { "min": 24, "max": 30 },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Polaris is a University of Minnesota half-high blueberry, bred from a cross of lowbush and highbush parentage to combine extreme cold hardiness with a larger, more productive plant than pure lowbush types. It is among the earliest-ripening half-high cultivars, producing medium-sized, light blue, sweet-flavored berries in a concentrated early-summer harvest window. Compact and low-growing, it is well suited to cold-climate home gardens and container culture where taller highbush cultivars would not survive winter, but plant it with a second half-high or highbush cultivar nearby, since cross-pollination improves berry size and yield even though Polaris will self-pollinate to some degree. Mulch with pine bark or sawdust to maintain the acidic soil blueberries require, and prune out only dead or weak wood for the first several years to let the compact framework fill in.",
+    "sources": [
+      "University of Minnesota Extension — Half-High Blueberries for Minnesota",
+      "University of Minnesota Fruit Breeding Program — Blueberry Cultivar Releases",
+      "North Dakota State University Extension — Growing Blueberries"
+    ]
+  },
+  {
+    "slug": "finlandia-variegated-camellia",
+    "common_name": "Finlandia Variegated Camellia (White-Marbled Sport of Finlandia)",
+    "scientific_name": "Camellia japonica 'Finlandia Variegated'",
+    "category": "flower",
+    "subcategory": "evergreen flowering shrub",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": { "min": 1095, "max": 2190 },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": { "min": -6, "max": 0 },
+      "note": "Plant container-grown shrubs in fall or early spring in moist, acidic, humus-rich, well-drained soil in partial shade; Finlandia Variegated is a sport of the solid-white Finlandia and may occasionally revert, in which case reverted branches should be pruned out to keep the variegation."
+    },
+    "usda_zones": { "min": 7, "max": 9 },
+    "spacing_in": { "min": 60, "max": 96 },
+    "height_in": { "min": 96, "max": 180 },
+    "spread_in": { "min": 72, "max": 120 },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Finlandia Variegated is a sport of the popular white camellia cultivar Finlandia, carrying the same large, formal double blooms but with petals marbled and streaked in soft pink to red over the white base, an effect that varies flower to flower on the same plant. Bloom comes in mid-to-late winter into early spring, timed with the straight Finlandia, and the glossy dark green foliage is otherwise identical to the parent. Like other camellia sports it can occasionally throw a branch of solid white or solid pink flowers reverted to one parent color; prune these out if you want to keep the variegated display consistent. Give it the classic camellia japonica culture of moist, acidic, well-drained soil in dappled shade, protection from harsh afternoon sun and drying winds, and a mulch layer to keep roots cool and evenly moist.",
+    "sources": [
+      "International Camellia Register",
+      "Jim's Camellias — cultivar descriptions",
+      "American Camellia Society"
+    ]
+  }
+]
