@@ -1,0 +1,25 @@
+[
+  {
+    "slug": "edelweiss-grape",
+    "common_name": "Edelweiss Grape (Cold-Hardy White Wine and Table Grape)",
+    "scientific_name": "Vitis 'Edelweiss'",
+    "category": "fruit",
+    "subcategory": "grape",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 130, "max": 145},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {"anchor": "spring", "weeks_from_anchor": {"min": 0, "max": 4}, "note": "Plant dormant vines in early spring once soil is workable, training young growth up a stake to reach the trellis wire."},
+    "usda_zones": {"min": 3, "max": 7},
+    "spacing_in": {"min": 72, "max": 96},
+    "height_in": {"min": 60, "max": 84},
+    "spread_in": {"min": 72, "max": 96},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Bred by Elmer Swenson and released by the University of Minnesota in 1980 from a complex labrusca-vinifera-riparia parentage, this early-ripening hybrid tolerates winters well below zero with minimal cane damage, making it a mainstay for northern growers who cannot overwinter vinifera. Clusters of pale green-gold berries carry a mild, foxy labrusca flavor and work equally well for fresh eating, juice, or a light, fruity white wine. It ripens very early in the season, one of the first hardy hybrids to mature, which suits short-season gardens. The vine is vigorous and productive, so cluster thinning in the early years helps avoid overcropping and improves fruit quality.",
+    "sources": ["University of Minnesota Extension", "Northern Grapes Project"]
+  }
+]
