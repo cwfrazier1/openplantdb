@@ -1,0 +1,717 @@
+[
+  {
+    "slug": "galahad-tomato",
+    "common_name": "Galahad Tomato (AAS-Winning Disease-Resistant Hybrid Slicer)",
+    "scientific_name": "Solanum lycopersicum 'Galahad'",
+    "category": "vegetable",
+    "subcategory": "tomato",
+    "days_to_germination": {
+      "min": 6,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 68,
+      "max": 75
+    },
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -6
+      },
+      "note": "Start indoors 6-8 weeks before transplanting; Galahad's compact, well-branched growth habit still benefits from a cage even though it sets fruit earlier and on a smaller frame than a typical indeterminate beefsteak."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 24,
+      "max": 30
+    },
+    "height_in": {
+      "min": 36,
+      "max": 54
+    },
+    "spread_in": {
+      "min": 24,
+      "max": 30
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Galahad was named an AAS Edible-Vegetable Winner for combining large, meaty beefsteak-type fruit with a shorter, more compact, well-branched plant that needs less space than a typical vining slicer. It carries resistance to Fusarium wilt, Verticillium wilt, and tobacco mosaic virus, and sets its 8-12 ounce fruit earlier in the season than most large-fruited hybrids. Cage or stake the plant even though it stays relatively compact, since the heavy fruit load can still bend unsupported stems, and keep up regular watering to reduce blossom end rot on the big first fruits.",
+    "sources": [
+      "All-America Selections",
+      "North Carolina State University Extension",
+      "Cornell Cooperative Extension"
+    ]
+  },
+  {
+    "slug": "brandy-boy-tomato",
+    "common_name": "Brandy Boy Tomato (Hybrid Brandywine-Type Pink Beefsteak)",
+    "scientific_name": "Solanum lycopersicum 'Brandy Boy'",
+    "category": "vegetable",
+    "subcategory": "tomato",
+    "days_to_germination": {
+      "min": 6,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 75,
+      "max": 80
+    },
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -6
+      },
+      "note": "Start indoors 6-8 weeks before transplanting; Brandy Boy is a vigorous indeterminate vine that needs a tall, sturdy cage or stake from the start."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 24,
+      "max": 36
+    },
+    "height_in": {
+      "min": 60,
+      "max": 84
+    },
+    "spread_in": {
+      "min": 24,
+      "max": 30
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Brandy Boy was bred by Burpee to reproduce the rich, complex flavor of the beloved heirloom Brandywine on a modern F1 hybrid frame that sets fruit far more reliably. The rosy-pink, deeply flattened beefsteak fruit runs 10-16 ounces with the dense, low-acid, old-fashioned flavor Brandywine fans expect, but the hybrid vigor and improved disease tolerance mean noticeably higher yields per plant than the open-pollinated original. Give the tall indeterminate vine a sturdy 6-foot cage or stake, prune lower suckers for airflow, and pick fruit at full color for the best flavor.",
+    "sources": [
+      "W. Atlee Burpee & Co.",
+      "Cornell Cooperative Extension",
+      "University of Florida IFAS Extension"
+    ]
+  },
+  {
+    "slug": "celebrity-plus-tomato",
+    "common_name": "Celebrity Plus Tomato (Improved Anthracnose-Resistant Selection)",
+    "scientific_name": "Solanum lycopersicum 'Celebrity Plus'",
+    "category": "vegetable",
+    "subcategory": "tomato",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 68,
+      "max": 75
+    },
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -6
+      },
+      "note": "Start indoors 6-8 weeks before transplanting; Celebrity Plus is determinate and semi-bushy, so a standard 3-4 foot cage is sufficient support."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 24,
+      "max": 36
+    },
+    "height_in": {
+      "min": 36,
+      "max": 48
+    },
+    "spread_in": {
+      "min": 24,
+      "max": 36
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Celebrity Plus builds on the original 1984 AAS-winning Celebrity by adding resistance to anthracnose fruit rot, a fungal disease that causes sunken, discolored spots on ripening fruit in warm, humid, rain-prone regions. It keeps the same reliable determinate habit, uniform 7-8 ounce red globes, and broad resistance to Fusarium and Verticillium wilts, nematodes, and tobacco mosaic virus that made the original a garden standard. Stake or cage the compact plants, water at the soil line to keep foliage dry, and pick promptly at full color since the added anthracnose resistance still benefits from good sanitation practices.",
+    "sources": [
+      "Ferry-Morse Seed Company",
+      "Clemson Cooperative Extension",
+      "Texas A&M AgriLife Extension"
+    ]
+  },
+  {
+    "slug": "little-napoli-tomato",
+    "common_name": "Little Napoli Tomato (AAS-Winning Dwarf Paste Tomato)",
+    "scientific_name": "Solanum lycopersicum 'Little Napoli'",
+    "category": "vegetable",
+    "subcategory": "tomato",
+    "days_to_germination": {
+      "min": 6,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 68
+    },
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -6
+      },
+      "note": "Start indoors 6-8 weeks before transplanting; the dwarf, compact habit grows well in an 18-24 inch container and needs only a small stake or none at all."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 14,
+      "max": 18
+    },
+    "height_in": {
+      "min": 16,
+      "max": 24
+    },
+    "spread_in": {
+      "min": 14,
+      "max": 18
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Little Napoli was named an AAS Winner for packing a full-size San Marzano-type paste tomato onto a true dwarf plant barely 18 inches tall, making it one of the few sauce tomatoes practical for a patio container or small raised bed. The compact, sturdy determinate plants stay tidy without staking and still produce a generous crop of elongated, meaty 2-3 ounce plum fruit with classic low-moisture paste texture suited to sauces and canning. Keep the container evenly watered since dwarf plants in small pots dry out faster than in-ground vines, and harvest as fruit turns fully red for the best sauce flavor.",
+    "sources": [
+      "All-America Selections",
+      "PanAmerican Seed",
+      "University of Massachusetts Extension"
+    ]
+  },
+  {
+    "slug": "sakura-tomato",
+    "common_name": "Sakura Cherry Tomato (High-Yield Crack-Resistant Red Cherry)",
+    "scientific_name": "Solanum lycopersicum 'Sakura'",
+    "category": "vegetable",
+    "subcategory": "tomato",
+    "days_to_germination": {
+      "min": 6,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 55,
+      "max": 65
+    },
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -6
+      },
+      "note": "Start indoors 6-8 weeks before transplanting; Sakura is a vigorous indeterminate cherry tomato that needs a tall stake or trellis for its long fruiting season."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 24,
+      "max": 36
+    },
+    "height_in": {
+      "min": 60,
+      "max": 84
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Sakura is a widely grown F1 red cherry tomato prized by market growers and home gardeners alike for its combination of very heavy, early yields and fruit that resists splitting after rain far better than most cherry types. The small, round, bright red fruit hangs in long trusses with good classic cherry-tomato sweetness and holds well on the vine without over-softening. Provide a tall stake or trellis for the vigorous indeterminate vine, prune to a few main leaders for easier harvest, and pick regularly to keep the heavy-bearing trusses coming.",
+    "sources": [
+      "Johnny's Selected Seeds",
+      "Harris Seeds",
+      "University of Florida IFAS Extension"
+    ]
+  },
+  {
+    "slug": "red-deuce-tomato",
+    "common_name": "Red Deuce Tomato (Commercial-Grade Disease-Resistant Hybrid Slicer)",
+    "scientific_name": "Solanum lycopersicum 'Red Deuce'",
+    "category": "vegetable",
+    "subcategory": "tomato",
+    "days_to_germination": {
+      "min": 6,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 72,
+      "max": 78
+    },
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -6
+      },
+      "note": "Start indoors 6-8 weeks before transplanting; Red Deuce is a vigorous determinate that benefits from staking or caging to keep the heavy fruit clusters off the ground."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 24,
+      "max": 36
+    },
+    "height_in": {
+      "min": 36,
+      "max": 54
+    },
+    "spread_in": {
+      "min": 24,
+      "max": 36
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Red Deuce is a determinate hybrid slicer bred for commercial fresh-market production in the Southeast that has become a popular choice for home gardeners wanting a tough, reliable main-crop tomato. It produces large, smooth, deep-red 10-12 ounce globes on a compact, high-yielding plant with resistance to Fusarium wilt races 1 and 2, Verticillium wilt, and tomato spotted wilt virus. Stake or cage the sturdy determinate vines to keep the heavy fruit clusters clean and off the soil, and expect a concentrated main harvest typical of determinate types.",
+    "sources": [
+      "BHN Seed",
+      "University of Florida IFAS Extension",
+      "Louisiana State University AgCenter"
+    ]
+  },
+  {
+    "slug": "big-zac-tomato",
+    "common_name": "Big Zac Tomato (Giant Competition-Class Beefsteak Hybrid)",
+    "scientific_name": "Solanum lycopersicum 'Big Zac'",
+    "category": "vegetable",
+    "subcategory": "tomato",
+    "days_to_germination": {
+      "min": 6,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 80,
+      "max": 90
+    },
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -6
+      },
+      "note": "Start indoors 6-8 weeks before transplanting; Big Zac is a large, sprawling indeterminate that needs heavy-duty staking and fruit slings to support its oversized tomatoes."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 36,
+      "max": 48
+    },
+    "height_in": {
+      "min": 60,
+      "max": 96
+    },
+    "spread_in": {
+      "min": 36,
+      "max": 48
+    },
+    "sun": "full",
+    "water": "high",
+    "directions": "Big Zac is a hybrid beefsteak bred specifically for producing enormous fruit, regularly topping 2-3 pounds and capable of exceeding 5 pounds under heavy feeding and aggressive pruning to a few fruit per plant, making it a favorite at state fair giant-tomato competitions. The pinkish-red, ribbed, meaty fruit has a mild flavor and relatively low seed count typical of very large-fruited types, and is best used fresh since the huge slices don't fit standard sandwiches. Feed heavily and consistently through the season, remove most side shoots and excess flowers to concentrate the plant's energy into fewer, larger fruit, and support developing tomatoes with fabric slings tied to a heavy-duty stake or cage.",
+    "sources": [
+      "Totally Tomatoes",
+      "Rutgers New Jersey Agricultural Experiment Station",
+      "Cornell Cooperative Extension"
+    ]
+  },
+  {
+    "slug": "orange-banana-tomato",
+    "common_name": "Orange Banana Tomato (Heirloom Orange Paste Tomato)",
+    "scientific_name": "Solanum lycopersicum 'Orange Banana'",
+    "category": "vegetable",
+    "subcategory": "tomato",
+    "days_to_germination": {
+      "min": 6,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 80,
+      "max": 85
+    },
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -6
+      },
+      "note": "Start indoors 6-8 weeks before transplanting; Orange Banana is a tall indeterminate heirloom that needs a sturdy stake or cage for the full season."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 24,
+      "max": 36
+    },
+    "height_in": {
+      "min": 60,
+      "max": 84
+    },
+    "spread_in": {
+      "min": 24,
+      "max": 30
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Orange Banana is an open-pollinated heirloom paste tomato from Elberta, Alabama, grown for its elongated, curved, banana-shaped fruit in a bright tangerine orange rather than the usual red or yellow of most paste types. The dense, meaty, low-moisture flesh with few seeds makes it excellent for sauces, salsas, and drying, and the striking color adds visual interest to canned goods and mixed-color tomato dishes. Stake the vigorous indeterminate vine well, and pick fruit as it colors fully to avoid the splitting that heavy paste-type fruit can suffer after a sudden rain.",
+    "sources": [
+      "Seed Savers Exchange",
+      "Baker Creek Heirloom Seeds",
+      "University of Georgia Extension"
+    ]
+  },
+  {
+    "slug": "yellow-oxheart-tomato",
+    "common_name": "Yellow Oxheart Tomato (Heirloom Heart-Shaped Low-Seed Slicer)",
+    "scientific_name": "Solanum lycopersicum 'Yellow Oxheart'",
+    "category": "vegetable",
+    "subcategory": "tomato",
+    "days_to_germination": {
+      "min": 6,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 80,
+      "max": 85
+    },
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -6
+      },
+      "note": "Start indoors 6-8 weeks before transplanting; Yellow Oxheart is a tall indeterminate heirloom that needs a sturdy stake or cage for its large, heavy fruit."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 24,
+      "max": 36
+    },
+    "height_in": {
+      "min": 60,
+      "max": 84
+    },
+    "spread_in": {
+      "min": 24,
+      "max": 36
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Yellow Oxheart is a heirloom slicing tomato that produces large, pointed, heart-shaped fruit in golden yellow, with the dense, meaty, low-seed flesh typical of oxheart-type tomatoes and a mild, sweet flavor with less acidity than most red varieties. The heavy 8-16 ounce fruit and sprawling indeterminate vine both need substantial support, so use a heavy-duty cage or stake set at transplanting. Because oxheart types can be prone to blossom end rot on their first large fruit, keep watering consistent and avoid letting the soil dry out and then rewetting heavily.",
+    "sources": [
+      "Seed Savers Exchange",
+      "Baker Creek Heirloom Seeds",
+      "Cornell Cooperative Extension"
+    ]
+  },
+  {
+    "slug": "green-sausage-tomato",
+    "common_name": "Green Sausage Tomato (Striped Green-and-Yellow Paste Tomato)",
+    "scientific_name": "Solanum lycopersicum 'Green Sausage'",
+    "category": "vegetable",
+    "subcategory": "tomato",
+    "days_to_germination": {
+      "min": 6,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 75,
+      "max": 80
+    },
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -6
+      },
+      "note": "Start indoors 6-8 weeks before transplanting; Green Sausage is an indeterminate vine that needs staking, and fruit is picked ripe when it turns yellow-green rather than waiting for red color."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 24,
+      "max": 36
+    },
+    "height_in": {
+      "min": 48,
+      "max": 72
+    },
+    "spread_in": {
+      "min": 24,
+      "max": 30
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Green Sausage is an open-pollinated paste tomato bred by Wild Boar Farms, producing elongated, sausage-shaped fruit striped in yellow-green over a base of deeper green that ripens to a translucent chartreuse-yellow rather than red. The firm, meaty flesh with a bright, tangy flavor holds up well when sliced fresh, fried green, or made into a distinctively colored salsa verde or sauce. Judge ripeness by softening and color shift toward gold-green rather than by looking for red, since this variety never turns the classic tomato red, and stake the indeterminate vine for season-long support.",
+    "sources": [
+      "Wild Boar Farms",
+      "Baker Creek Heirloom Seeds",
+      "University of Massachusetts Extension"
+    ]
+  },
+  {
+    "slug": "pink-bumble-bee-tomato",
+    "common_name": "Pink Bumble Bee Tomato (Striped Pink Cherry Tomato)",
+    "scientific_name": "Solanum lycopersicum 'Pink Bumble Bee'",
+    "category": "vegetable",
+    "subcategory": "tomato",
+    "days_to_germination": {
+      "min": 6,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 65,
+      "max": 75
+    },
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -6
+      },
+      "note": "Start indoors 6-8 weeks before transplanting; Pink Bumble Bee is a vigorous indeterminate cherry tomato that needs a tall stake or trellis for its long fruiting season."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 24,
+      "max": 36
+    },
+    "height_in": {
+      "min": 60,
+      "max": 84
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Pink Bumble Bee is a member of Wild Boar Farms' Bumble Bee series of striped cherry tomatoes, bearing small round fruit in rosy pink overlaid with fine gold stripes that radiate from the stem end. The thin-skinned fruit has an intense, well-balanced sweet-tart flavor typical of the series, and the heavy-yielding vine produces in long clusters through most of the season. Provide a tall stake or trellis for the vigorous indeterminate growth and pick fruit promptly at full color, since ripe cherry tomatoes soften and can crack quickly in wet weather.",
+    "sources": [
+      "Wild Boar Farms",
+      "Baker Creek Heirloom Seeds",
+      "Territorial Seed Company"
+    ]
+  },
+  {
+    "slug": "costoluto-fiorentino-tomato",
+    "common_name": "Costoluto Fiorentino Tomato (Ribbed Florentine Heirloom Slicer)",
+    "scientific_name": "Solanum lycopersicum 'Costoluto Fiorentino'",
+    "category": "vegetable",
+    "subcategory": "tomato",
+    "days_to_germination": {
+      "min": 6,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 80,
+      "max": 90
+    },
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -6
+      },
+      "note": "Start indoors 6-8 weeks before transplanting; Costoluto Fiorentino is a tall indeterminate heirloom that needs a sturdy stake or cage for the full season."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 24,
+      "max": 36
+    },
+    "height_in": {
+      "min": 60,
+      "max": 84
+    },
+    "spread_in": {
+      "min": 24,
+      "max": 30
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Costoluto Fiorentino is a classic Italian heirloom from the countryside around Florence, known for its deeply lobed, ribbed, flattened fruit that looks almost like a squash blossom in cross-section. The bright red fruit has a bold, tangy, old-fashioned tomato flavor prized in Tuscan cooking for sauces and fresh sliced dishes, and the strong ribbing means fruit is often cut into wedges rather than round slices. Stake the vigorous indeterminate vine well, since the irregular fruit shape can make individual tomatoes heavier and more awkward on the stem than a smooth round variety, and expect some cracking around the ribs in wet weather.",
+    "sources": [
+      "Seed Savers Exchange",
+      "Baker Creek Heirloom Seeds",
+      "University of California Cooperative Extension"
+    ]
+  },
+  {
+    "slug": "golden-jubilee-tomato",
+    "common_name": "Golden Jubilee Tomato (Classic Low-Acid Golden Heirloom)",
+    "scientific_name": "Solanum lycopersicum 'Golden Jubilee'",
+    "category": "vegetable",
+    "subcategory": "tomato",
+    "days_to_germination": {
+      "min": 6,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 78,
+      "max": 85
+    },
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -6
+      },
+      "note": "Start indoors 6-8 weeks before transplanting; Golden Jubilee is a tall indeterminate that needs a sturdy stake or cage for the full season."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 24,
+      "max": 36
+    },
+    "height_in": {
+      "min": 60,
+      "max": 84
+    },
+    "spread_in": {
+      "min": 24,
+      "max": 30
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Golden Jubilee is a classic open-pollinated slicing tomato introduced by Burpee in 1943, producing smooth, globe-shaped, deep golden-orange fruit with a mild, notably low-acid flavor that has made it a long-standing favorite for gardeners who find red tomatoes too tart or acidic. The 6-8 ounce fruit holds its shape well for slicing and has a pleasant, sweet flavor without the intensity of tangier heirlooms, giving it a reputation as an easygoing, family-friendly garden tomato. Stake the vigorous indeterminate vine well, and because the fruit ripens to a lighter color than red tomatoes, judge readiness by gentle give at the shoulders as much as by color alone.",
+    "sources": [
+      "W. Atlee Burpee & Co.",
+      "Seed Savers Exchange",
+      "Cornell Cooperative Extension"
+    ]
+  }
+]

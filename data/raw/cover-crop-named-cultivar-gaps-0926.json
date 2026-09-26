@@ -1,0 +1,717 @@
+[
+  {
+    "slug": "hazlet-cereal-rye",
+    "common_name": "AC Hazlet Cereal Rye (Canadian Prairie High-Yield Winter Cover Rye)",
+    "scientific_name": "Secale cereale 'Hazlet'",
+    "category": "cover-crop",
+    "subcategory": "grass",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 34,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 90
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -2
+      },
+      "note": "Broadcast or drill in late summer to early fall so seedlings tiller before hard freeze; Hazlet was bred at Agriculture and Agri-Food Canada's Swift Current research centre for larger kernels and higher yield than older prairie fall ryes, and it establishes a dense cover crop stand as reliably as it does a grain crop."
+    },
+    "usda_zones": {
+      "min": 2,
+      "max": 7
+    },
+    "spacing_in": {
+      "min": 2,
+      "max": 4
+    },
+    "height_in": {
+      "min": 36,
+      "max": 60
+    },
+    "spread_in": {
+      "min": 6,
+      "max": 10
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Hazlet is an open-pollinated fall rye released by Agriculture and Agri-Food Canada and distributed through SeCan, bred primarily as a grain cultivar but widely adopted across the Canadian Prairies and northern Plains as a cover crop for its exceptional winter survival on exposed, wind-scoured ground. It out-yields many older open-pollinated ryes in side-by-side trials, translating to more fall and spring biomass per pound of seed for growers using it strictly for soil cover rather than grain. Drill into a firm seedbed at typical cereal rye rates and let it establish before freeze-up; the extensive fibrous root system scavenges residual nitrogen and holds fragile prairie soils through winter wind events. Terminate by mowing, crimping, or herbicide two to three weeks before the following crop to let allelopathic residues break down.",
+    "sources": [
+      "Agriculture and Agri-Food Canada — Semiarid Prairie Agricultural Research Centre",
+      "SeCan Association",
+      "Practical Farmers of Iowa — Cereal Rye Variety Trials"
+    ]
+  },
+  {
+    "slug": "danko-cereal-rye",
+    "common_name": "Danko Cereal Rye (High-Yielding Open-Pollinated Northeast Cover Crop Rye)",
+    "scientific_name": "Secale cereale 'Danko'",
+    "category": "cover-crop",
+    "subcategory": "grass",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 34,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 90
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": 0
+      },
+      "note": "Sow from late summer through shortly after first frost; Danko is one of the most productive open-pollinated cereal ryes available in the Northeast and upper Midwest and tolerates later fall planting dates better than many other named varieties."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 7
+    },
+    "spacing_in": {
+      "min": 2,
+      "max": 4
+    },
+    "height_in": {
+      "min": 36,
+      "max": 60
+    },
+    "spread_in": {
+      "min": 6,
+      "max": 10
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Danko is a Polish-origin open-pollinated cereal rye that has become a regional standard in the Northeast and upper Midwest, consistently ranking among the top-yielding open-pollinated ryes alongside Hazlet in university variety trials. Its vigor makes it well suited to the late planting windows common after full-season corn or soybean harvest, when growers need a rye that will still establish a workable stand even after most other cover crops have run out of season. Broadcast or drill into a prepared or no-till seedbed, allow the crop to tiller through fall and resume growth in spring, then terminate by mowing, crimping, or herbicide roughly two to three weeks ahead of the following cash crop. As with all cereal rye, avoid letting a cover-crop stand reach the boot or head stage before termination, since mature tillers become tough to kill and may volunteer.",
+    "sources": [
+      "Practical Farmers of Iowa — Cereal Rye Variety Trial",
+      "Penn State Extension — Cereal Rye as a Cover Crop",
+      "University of Minnesota Extension — Winter Rye Variety Trials"
+    ]
+  },
+  {
+    "slug": "progas-hybrid-forage-rye",
+    "common_name": "Progas Hybrid Forage Rye (High-Biomass Hybrid Cover Crop and Grazing Rye)",
+    "scientific_name": "Secale cereale 'Progas'",
+    "category": "cover-crop",
+    "subcategory": "grass",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 34,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 55,
+      "max": 85
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -2
+      },
+      "note": "Drill in early to mid-fall for maximum tillering before winter; Progas is a hybrid forage rye from KWS bred for markedly greater dry-matter yield and faster spring regrowth than open-pollinated cover crop ryes, making it attractive where an early spring forage cut or grazing pass is wanted ahead of cash-crop planting."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 7
+    },
+    "spacing_in": {
+      "min": 2,
+      "max": 4
+    },
+    "height_in": {
+      "min": 40,
+      "max": 66
+    },
+    "spread_in": {
+      "min": 6,
+      "max": 10
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Progas is a hybrid rye developed by KWS Cereals specifically for forage rather than grain, and on-farm comparisons in Wisconsin found it out-yielding standard variety-not-stated cereal rye for spring forage tonnage while still providing all the erosion control, weed suppression, and nitrogen scavenging expected of a cover crop rye. Its hybrid vigor produces denser tillering and a heavier root mass than open-pollinated ryes, which can mean more organic matter returned to the soil if a portion of the stand is left to grow past a forage cut. Drill into a firm fall seedbed at recommended hybrid rye rates, and either graze or mechanically harvest for forage in early spring at the boot stage, or terminate later by mowing, crimping, or herbicide when using it purely as a soil-building cover. Because hybrid rye seed costs more than open-pollinated types, it is best reserved for operations planning to capture forage value in addition to cover crop benefits.",
+    "sources": [
+      "KWS Cereals USA",
+      "University of Wisconsin Integrated Pest and Crop Management — On-Farm Hybrid Rye Forage Comparison",
+      "Michigan State University Extension — Forage Rye"
+    ]
+  },
+  {
+    "slug": "kws-bono-hybrid-rye",
+    "common_name": "KWS Bono Hybrid Rye (Drought-Tolerant Short-Straw Dual-Purpose Cover Crop Rye)",
+    "scientific_name": "Secale cereale 'Bono'",
+    "category": "cover-crop",
+    "subcategory": "grass",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 34,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 55,
+      "max": 85
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -2
+      },
+      "note": "Drill in early to mid-fall on light or drought-prone soils; KWS Bono is a short-strawed hybrid rye bred for a large, deep root system and strong drought tolerance, giving it standout performance as a cover crop on sandy or dryland ground across the northern Plains and Canadian Prairies."
+    },
+    "usda_zones": {
+      "min": 2,
+      "max": 7
+    },
+    "spacing_in": {
+      "min": 2,
+      "max": 4
+    },
+    "height_in": {
+      "min": 32,
+      "max": 54
+    },
+    "spread_in": {
+      "min": 6,
+      "max": 10
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "KWS Bono is a German-bred hybrid fall rye evaluated extensively on the Canadian Prairies, where its shorter straw improves standability while its unusually large, deep root system delivers strong drought tolerance and effective scavenging of residual soil nitrogen on light, sandy fields. Built-in ergot resistance from KWS PollenPlus pollen-shed technology, along with rhynchosporium and brown rust resistance, keeps stands healthier through a wet spring than many open-pollinated ryes. Drill into a firm fall seedbed at hybrid rye rates, and use it either as a straight soil-building cover crop terminated by mowing or herbicide in spring, or graze and cut it for forage before termination given its dual-purpose grain-and-forage breeding background. Its drought performance makes it a strong candidate for reclaiming eroded or sandy fields where standard cover crop rye struggles to establish.",
+    "sources": [
+      "KWS Seeds Canada — Hybrid Rye Variety Overview",
+      "University of Saskatchewan — Evaluation of Fall Rye Cultivar Bono",
+      "Alseed (Albert Lea Seed) — KWS Bono Product Guide"
+    ]
+  },
+  {
+    "slug": "contea-crimson-clover",
+    "common_name": "Contea Crimson Clover (Deep-Rooting European Nutrient-Recycling Cover Clover)",
+    "scientific_name": "Trifolium incarnatum 'Contea'",
+    "category": "cover-crop",
+    "subcategory": "legume",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 45,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 90,
+      "max": 150
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -2
+      },
+      "note": "Broadcast onto a firm, weed-free fall seedbed; Contea is a European crimson clover selected for an unusually deep root system that pulls nutrients from lower soil layers back toward the surface, making it a favored pre-crop choice in intensive vegetable and grain rotations."
+    },
+    "usda_zones": {
+      "min": 6,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 2,
+      "max": 4
+    },
+    "height_in": {
+      "min": 12,
+      "max": 24
+    },
+    "spread_in": {
+      "min": 8,
+      "max": 14
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Contea is a European-bred crimson clover valued for a taproot that can extend roughly three feet into the profile, deeper than many North American reseeding selections, letting it recover leached nutrients such as potassium and sulfur from subsoil layers and cycle them back to the surface as the plant decomposes. Broadcast or drill in early fall so plants can establish a rosette before winter, then resume vigorous growth in spring, fixing substantial nitrogen ahead of a following cash crop. Its dense fall canopy suppresses winter annual weeds effectively, and the deep, fibrous roots leave the soil noticeably easier to work the following spring on compaction-prone ground. Terminate at early bloom by mowing, rolling, or light tillage for maximum nitrogen release, since crimson clover residue high in lignin becomes slower to break down once seed pods begin forming.",
+    "sources": [
+      "SARE — Managing Cover Crops Profitably",
+      "Garden Seeds Market — Contea Crimson Clover Variety Notes",
+      "USDA Natural Resources Conservation Service — Crimson Clover Plant Guide"
+    ]
+  },
+  {
+    "slug": "koma-buckwheat",
+    "common_name": "Koma Buckwheat (Manitoba-Bred High-Yield Cover Crop Buckwheat)",
+    "scientific_name": "Fagopyrum esculentum 'Koma'",
+    "category": "cover-crop",
+    "subcategory": "broadleaf cover crop",
+    "days_to_germination": {
+      "min": 3,
+      "max": 5
+    },
+    "germination_soil_temp_f": {
+      "min": 50,
+      "max": 80
+    },
+    "days_to_maturity": {
+      "min": 30,
+      "max": 45
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 1,
+        "max": 8
+      },
+      "note": "Sow anytime after last frost through midsummer for a quick smother crop; Koma was bred at the Agriculture and Agri-Food Canada Crop Diversification Centre in Morden, Manitoba, for high, uniform seed yield and rapid establishment."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 1,
+      "max": 2
+    },
+    "height_in": {
+      "min": 24,
+      "max": 48
+    },
+    "spread_in": {
+      "min": 6,
+      "max": 10
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Koma originated from a breeding cross made in 1998 at Agriculture and Agri-Food Canada's Morden, Manitoba research station and was selected primarily for high, consistent grain yield and strong milling quality, but its quick establishment and rapid flowering also make it an effective short-window cover crop. Broadcast or drill into warm, frost-free soil and expect visible ground cover within a couple of weeks and flowering by five to six weeks, drawing in large numbers of pollinators during the short warm-season gap between spring and fall plantings. Mow or till under at first flower for maximum weed-smothering and phosphorus-scavenging benefit, since buckwheat left to mature will drop hard seed and can volunteer as a weed the following season. Its fast turnaround makes it useful for filling a single open summer month between two cash crops or cleaning up a weedy field before fall planting.",
+    "sources": [
+      "Canadian Food Inspection Agency — Plant Breeders' Rights Cultivar Report: Koma",
+      "Southeast AgriSeeds — Koma Buckwheat Product Notes",
+      "Manitoba Agriculture — Buckwheat Production Guide"
+    ]
+  },
+  {
+    "slug": "braco-white-mustard",
+    "common_name": "Braco White Mustard (Fast-Biomass Biofumigant Cover Crop)",
+    "scientific_name": "Sinapis alba 'Braco'",
+    "category": "cover-crop",
+    "subcategory": "brassica",
+    "days_to_germination": {
+      "min": 3,
+      "max": 7
+    },
+    "germination_soil_temp_f": {
+      "min": 45,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 45,
+      "max": 70
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {
+        "min": -10,
+        "max": -6
+      },
+      "note": "Sow in a warm-season rotation gap or early fall; Braco is a white mustard selected for rapid biomass accumulation and weed-smothering ground cover, used as a summer smother crop or as a biofumigant when flailed and incorporated at flowering."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 1,
+      "max": 2
+    },
+    "height_in": {
+      "min": 24,
+      "max": 48
+    },
+    "spread_in": {
+      "min": 8,
+      "max": 12
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Braco is a white mustard cultivar marketed through King's AgriSeeds and other forage seed suppliers as a warm-season smother crop that also functions as a biofumigant when incorporated at flowering. Drilled at 8 to 10 pounds per acre, it establishes more slowly than some brassica cover crops but ultimately produces a dense, weed-suppressing canopy two to four feet tall within 60 to 70 days. When the goal is nematode and soilborne disease suppression, mow and disc the crop into the top 5 to 6 inches of soil right at flowering, when glucosinolate content and the resulting isothiocyanate biofumigant effect are highest; a plastic tarp or rapid irrigation immediately afterward helps trap the volatile compounds in the root zone. Used strictly as ground cover or a nutrient scavenger, it can instead be left to bloom for pollinators before mowing and can also fill a short gap in a vegetable rotation between spring and fall cash crops.",
+    "sources": [
+      "King's AgriSeeds — Braco White Mustard Cover Crop Tech Sheet",
+      "Oregon State University Extension — Biofumigation Cover Crops",
+      "SARE — Managing Cover Crops Profitably"
+    ]
+  },
+  {
+    "slug": "structurator-tillage-radish",
+    "common_name": "Structurator Tillage Radish (Deep-Penetrating European Compaction-Buster Radish)",
+    "scientific_name": "Raphanus sativus 'Structurator'",
+    "category": "cover-crop",
+    "subcategory": "brassica",
+    "days_to_germination": {
+      "min": 3,
+      "max": 7
+    },
+    "germination_soil_temp_f": {
+      "min": 45,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 50,
+      "max": 70
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {
+        "min": -10,
+        "max": -6
+      },
+      "note": "Sow 6-10 weeks before first frost; Structurator is a European tillage radish selected for an unusually long, narrow, deep-penetrating taproot rather than the thick bulbous root of a daikon-type radish, favoring subsoil fracturing over surface biomass."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 4,
+      "max": 6
+    },
+    "height_in": {
+      "min": 18,
+      "max": 30
+    },
+    "spread_in": {
+      "min": 10,
+      "max": 16
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Structurator is a European-bred forage radish distinguished from thicker daikon-type tillage radishes by a slimmer, more elongated taproot that has been measured driving three to six feet into the profile, prioritizing deep compaction fracturing over the large, fleshy surface root of cultivars like Groundhog. Broadcast or drill in late summer to early fall on soil that is at least moderately compacted, since the narrow root follows and widens existing weak points such as old root channels and worm burrows rather than pushing through undisturbed hardpan indiscriminately. The rapid fall canopy scavenges leftover nitrogen efficiently and winterkills reliably in most temperate climates, leaving a network of decomposing root channels that improve water infiltration for the following spring crop. Because winterkill can be inconsistent in the mildest zones, monitor stands there for regrowth and terminate mechanically if plants survive into spring.",
+    "sources": [
+      "DLF Pickseed — Tillage Radish Product Line",
+      "SARE — Managing Cover Crops Profitably",
+      "USDA Natural Resources Conservation Service — Radish Cover Crop Fact Sheet"
+    ]
+  },
+  {
+    "slug": "honey-graze-bmr-sorghum-sudangrass",
+    "common_name": "Honey Graze BMR Sorghum-Sudangrass (High-Sugar Brown Midrib Multi-Cut Forage Hybrid)",
+    "scientific_name": "Sorghum bicolor × Sorghum bicolor var. sudanense 'Honey Graze BMR'",
+    "category": "cover-crop",
+    "subcategory": "grass",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 62,
+      "max": 95
+    },
+    "days_to_maturity": {
+      "min": 45,
+      "max": 65
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 3,
+        "max": 10
+      },
+      "note": "Direct sow once soil is reliably above 62°F; Honey Graze BMR is a brown midrib sorghum-sudangrass hybrid noted for high sugar content and leafy regrowth, recommended by USDA Plant Materials Centers for both summer forage and warm-season cover crop biomass."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 1,
+      "max": 3
+    },
+    "height_in": {
+      "min": 48,
+      "max": 96
+    },
+    "spread_in": {
+      "min": 6,
+      "max": 12
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Honey Graze BMR is a brown-midrib sorghum-sudangrass hybrid bred for high natural sugar content and leafy, highly digestible regrowth, and it has been recommended by USDA Plant Materials Centers as a reliable warm-season option for both grazing and soil-building cover between spring and fall cash crops. Drill or broadcast into warm soil well after the last frost, then graze or mow at 30 to 40 inches to encourage repeated leafy regrowth rather than letting the crop bolt to full height and go to seed. Its extensive fibrous root system builds organic matter quickly and outcompetes warm-season weeds, while the BMR trait keeps clipped or grazed regrowth softer and more palatable than standard-lignin sudangrass types. As with all sorghum-sudangrass hybrids, avoid grazing or feeding fresh growth that has been stressed by frost or drought, since prussic acid can accumulate to dangerous levels in damaged young tissue.",
+    "sources": [
+      "Arrow Seed Company — Honey Graze BMR Product Information",
+      "USDA Natural Resources Conservation Service — Jimmy Carter and Jamie Whitten Plant Materials Centers",
+      "University of Kentucky Grain and Forage Crops Extension"
+    ]
+  },
+  {
+    "slug": "xtra-graze-bmr-sorghum-sudangrass",
+    "common_name": "Xtra Graze BMR Sorghum-Sudangrass (Drought-Tolerant Multi-Cut Grazing Hybrid)",
+    "scientific_name": "Sorghum bicolor × Sorghum bicolor var. sudanense 'Xtra Graze'",
+    "category": "cover-crop",
+    "subcategory": "grass",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 62,
+      "max": 95
+    },
+    "days_to_maturity": {
+      "min": 45,
+      "max": 65
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 3,
+        "max": 10
+      },
+      "note": "Direct sow once soil has warmed well past the last frost; Xtra Graze is a brown midrib sorghum-sudangrass hybrid bred for strong regrowth after grazing or mowing and notable drought tolerance in summer cover crop and pasture mixes."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 1,
+      "max": 3
+    },
+    "height_in": {
+      "min": 84,
+      "max": 108
+    },
+    "spread_in": {
+      "min": 6,
+      "max": 12
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Xtra Graze is a tall, traditional-type BMR sorghum-sudangrass hybrid grown for pasture, green chop, hay, and silage, and it is also sold as part of warm-season cover crop mixes alongside millet, brassicas, and forage radish for late-summer grazing plantings. Its brown midrib trait lowers lignin content for better palatability and digestibility, and its high sugar content improves intake compared with standard-lignin sudangrass. Sow into warm soil after the last frost at typical sorghum-sudangrass rates, then graze or mow at 30 to 40 inches to stimulate the repeated regrowth cycles the hybrid was selected for, rather than allowing it to reach its full 7 to 9 foot mature height. The deep, fibrous root system built up over repeated cutting cycles is excellent at breaking up compacted subsoil and scavenging nitrogen through the heat of summer, but as with all sorghum-sudangrass types, avoid grazing frost- or drought-stressed regrowth due to prussic acid risk.",
+    "sources": [
+      "Stock Seed Farms — Xtra Graze Cover Crop Mix",
+      "SeedRanch — Xtra Graze BMR Sorghum Sudangrass Product Notes",
+      "SARE — Managing Cover Crops Profitably"
+    ]
+  },
+  {
+    "slug": "sweet-six-bmr-sorghum-sudangrass",
+    "common_name": "Sweet Six BMR Sorghum-Sudangrass (Organic-Grade High-Sugar Forage Hybrid)",
+    "scientific_name": "Sorghum bicolor × Sorghum bicolor var. sudanense 'Sweet Six'",
+    "category": "cover-crop",
+    "subcategory": "grass",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 62,
+      "max": 95
+    },
+    "days_to_maturity": {
+      "min": 45,
+      "max": 65
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 3,
+        "max": 10
+      },
+      "note": "Direct sow once soil temperatures reach the low 60s°F; Sweet Six is a brown midrib sorghum-sudangrass hybrid available in certified organic seed, grown for high-sugar, leafy summer forage and warm-season soil cover between cash crops."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 1,
+      "max": 3
+    },
+    "height_in": {
+      "min": 48,
+      "max": 96
+    },
+    "spread_in": {
+      "min": 6,
+      "max": 12
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Sweet Six is a brown-midrib sorghum-sudangrass hybrid offered in certified organic seed by regional forage seed dealers, bred for high sugar content and leafy, easily digested regrowth similar to other BMR types in this cross. Drill into moist soil once the ground has warmed to roughly 60°F, typically late May through June in the Midwest, then begin the first grazing or hay cutting once the stand reaches 30 to 40 inches to keep it in a vegetative, high-quality state through repeated cuttings. Because it is offered as certified organic seed, it is a useful option for organic growers who want a warm-season sorghum-sudangrass cover crop or forage without needing to source and document conventional-to-organic seed exemptions. Its vigorous root system suppresses summer annual weeds and builds organic matter quickly, but as with related hybrids, do not graze or green-chop material that has just been frosted or drought-stressed because of prussic acid accumulation.",
+    "sources": [
+      "Welter Seed and Honey Company — Certified Organic Sweet Six BMR Sorghum Sudangrass",
+      "Hancock Seed Company — Sweet Six BMR Sorghum-Sudangrass",
+      "University of Kentucky Grain and Forage Crops Extension"
+    ]
+  },
+  {
+    "slug": "sweet-sioux-sorghum-sudangrass",
+    "common_name": "Sweet Sioux Sorghum-Sudangrass (White Midrib High-Quality Forage and Cover Crop Hybrid)",
+    "scientific_name": "Sorghum bicolor × Sorghum bicolor var. sudanense 'Sweet Sioux'",
+    "category": "cover-crop",
+    "subcategory": "grass",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 62,
+      "max": 95
+    },
+    "days_to_maturity": {
+      "min": 45,
+      "max": 65
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 3,
+        "max": 10
+      },
+      "note": "Direct sow once soil is reliably warm; Sweet Sioux is a sorghum-sudangrass hybrid available in both white midrib and brown midrib strains, valued for an outstanding leaf-to-stem ratio that translates into dense summer cover crop biomass and high forage quality."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 1,
+      "max": 3
+    },
+    "height_in": {
+      "min": 60,
+      "max": 108
+    },
+    "spread_in": {
+      "min": 6,
+      "max": 12
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Sweet Sioux is a sorghum-sudangrass hybrid marketed by Browning Seed in both a white midrib (WMR) strain and a separate brown midrib (BMR) strain, both selected for an outstanding leaf-to-stem ratio that gives the crop unusually good forage quality for a tall summer annual grass. Used as a cover crop, that leafy growth habit means faster canopy closure and more weed suppression per acre than stemmier sorghum-sudangrass types. Drill into warm soil after the last frost, and mow or graze at 30 to 40 inches to hold the stand in vegetative growth and to trigger the vigorous regrowth this hybrid is bred for; left unmanaged it will grow considerably taller before heading out. It performs well as hay, silage, green chop, or a grazed cover, and like all sorghum-sudangrass hybrids it should not be grazed or fed fresh after a killing frost or severe drought stress due to prussic acid risk.",
+    "sources": [
+      "Browning Seed — Sweet Sioux WMR and Sweet Sioux BMR VI Product Sheets",
+      "SARE — Managing Cover Crops Profitably",
+      "University of Kentucky Grain and Forage Crops Extension"
+    ]
+  },
+  {
+    "slug": "as9301-bmr-sudangrass",
+    "common_name": "AS9301 BMR Dry Stalk Sudangrass (Fine-Stemmed Low-Moisture Hay-Type Cover Crop)",
+    "scientific_name": "Sorghum bicolor var. sudanense 'AS9301'",
+    "category": "cover-crop",
+    "subcategory": "grass",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 62,
+      "max": 95
+    },
+    "days_to_maturity": {
+      "min": 45,
+      "max": 65
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 3,
+        "max": 10
+      },
+      "note": "Direct sow after soil has warmed past 62°F; AS9301 is a photoperiod-sensitive brown midrib true sudangrass selected for a finer, faster-drying stem than standard sorghum-sudangrass hybrids, making cut cover crop residue easier to dry down and manage."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 1,
+      "max": 3
+    },
+    "height_in": {
+      "min": 48,
+      "max": 84
+    },
+    "spread_in": {
+      "min": 4,
+      "max": 8
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "AS9301 is a brown midrib true sudangrass, distinct from the coarser sorghum-sudangrass hybrids, bred with a finer, lower-moisture 'dry stalk' habit that cures down faster after mowing than thicker-stemmed types, an advantage when a cut cover crop needs to dry quickly before crimping or baling in humid regions. Its photoperiod sensitivity delays flowering under long summer days, keeping the crop vegetative and leafy for an extended grazing or cover crop window rather than rushing to head out. Drill into warm soil after the last frost at standard sudangrass rates, and mow or graze at 30 to 40 inches to encourage tillering and keep lignin content low courtesy of the brown midrib trait. It fits well as a fast-drying, easy-to-manage summer cover between a spring vegetable harvest and fall planting, but like other sorghum-family cover crops it should not be grazed or green-chopped immediately after frost or drought stress because of prussic acid risk.",
+    "sources": [
+      "Johnston Seed Company — AS9301 BMR Photoperiod Sensitive Sorghum Sudangrass",
+      "SARE — Managing Cover Crops Profitably",
+      "University of Kentucky Grain and Forage Crops Extension"
+    ]
+  }
+]

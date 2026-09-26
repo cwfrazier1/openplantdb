@@ -1,0 +1,662 @@
+[
+  {
+    "slug": "cargamanto-bean",
+    "common_name": "Cargamanto Bean (Cargamanto Rojo, Colombian Cranberry Bean)",
+    "scientific_name": "Phaseolus vulgaris 'Cargamanto'",
+    "category": "vegetable",
+    "subcategory": "pole dry shelling bean",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 90,
+      "max": 105
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 2
+      },
+      "note": "Direct sow after last frost once soil has warmed above 65°F, and set poles or a trellis in place at planting time since vines climb quickly to 8 feet or more."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 6,
+      "max": 10
+    },
+    "height_in": {
+      "min": 72,
+      "max": 108
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 18
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Cargamanto is the iconic cranberry-mottled dry bean of the Antioquia region of Colombia, grown up cornstalks or poles in Andean smallholder plots and central to dishes such as frijoles antioqueños and bandeja paisa. The mottled cream-and-maroon seeds resemble North American cranberry beans but tend to be larger and starchier, softening to a dense, creamy texture that holds together well in slow-simmered pots. Let pods dry fully and rattle on the vine before picking, then shell and cure the beans another week or two indoors before sealing them for storage. Because it is a true pole type, give plants sturdy 8-foot supports and consistent moisture while pods are filling out.",
+    "sources": [
+      "Rancho Gordo",
+      "Agrosavia (Colombia)",
+      "Seed Savers Exchange"
+    ]
+  },
+  {
+    "slug": "fagiolo-di-lamon-bean",
+    "common_name": "Fagiolo di Lamon Bean (Lamon Bean, Italian PGI Borlotto)",
+    "scientific_name": "Phaseolus vulgaris 'Lamon'",
+    "category": "vegetable",
+    "subcategory": "pole dry shelling bean",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 90,
+      "max": 105
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 2
+      },
+      "note": "Direct sow after last frost once soil is reliably warm; provide poles or a trellis, as this is a true climbing type traditionally grown alongside corn in the foothills of the Dolomites."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 6,
+      "max": 10
+    },
+    "height_in": {
+      "min": 72,
+      "max": 96
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 18
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Fagiolo di Lamon carries Protected Geographical Indication status for the mountain valleys around Lamon in Italy's Belluno province, where cool nights and mineral-rich alluvial soils are credited with the bean's thin skin and rich, nutty flavor. The plump borlotto-type seeds are cream colored with deep maroon streaking, nearly indistinguishable in appearance from cranberry beans but noted by Italian cooks for cooking down into an especially creamy, unified texture rather than staying distinctly bean-shaped. Harvest pods once fully dry and papery, then shell and finish curing indoors for a week before storing airtight. Give vines full sun and a tall support, since plants can reach 8 feet in a long warm season.",
+    "sources": [
+      "European Commission eAmbrosia PGI register",
+      "Slow Food Foundation for Biodiversity",
+      "Seed Savers Exchange"
+    ]
+  },
+  {
+    "slug": "fagiolo-di-sorana-bean",
+    "common_name": "Fagiolo di Sorana Bean (Sorana Bean, Tuscan Flat White Shell Bean)",
+    "scientific_name": "Phaseolus vulgaris 'Sorana'",
+    "category": "vegetable",
+    "subcategory": "pole dry shelling bean",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 95,
+      "max": 110
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 2
+      },
+      "note": "Direct sow after last frost in loose, sandy loam if possible; traditionally trained up reed or cane tepees along the Pescia river valley, so provide similar tall support."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 6,
+      "max": 10
+    },
+    "height_in": {
+      "min": 72,
+      "max": 96
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 18
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Sorana bean is a Slow Food Presidium variety grown in the sandy river-bottom soils near Pescia in Tuscany, prized for a seed coat so thin it seems to dissolve into the cooking liquid, leaving a velvety, almost skinless texture. The flattened, kidney-shaped white seeds are smaller and more delicate than typical cannellini types, and growers traditionally avoid heavy clay soils that thicken the skin. Allow pods to dry fully on the vine, since the thin-skinned seeds are more prone to splitting if picked while still damp, then cure indoors before storage. A well-drained, sandy raised bed is a reasonable substitute for the variety's native river-valley soil.",
+    "sources": [
+      "Slow Food Foundation for Biodiversity",
+      "European Commission eAmbrosia PGI register",
+      "Seed Savers Exchange"
+    ]
+  },
+  {
+    "slug": "fagiolo-di-controne-bean",
+    "common_name": "Fagiolo di Controne Bean (Controne Bean, No-Soak Campania Heirloom)",
+    "scientific_name": "Phaseolus vulgaris 'Controne'",
+    "category": "vegetable",
+    "subcategory": "pole dry shelling bean",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 90,
+      "max": 105
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 2
+      },
+      "note": "Direct sow after last frost; grown traditionally on the terraced slopes of the Alburni mountains in Campania, so a sunny, well-drained hillside bed or raised bed suits it well."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 6,
+      "max": 10
+    },
+    "height_in": {
+      "min": 72,
+      "max": 96
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 18
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Controne bean is a small, ivory-white heirloom grown for centuries on the terraced slopes around Controne in Campania and recognized as a Slow Food Presidium variety. Its defining trait is an exceptionally thin, delicate skin that lets the beans cook through in well under an hour without an overnight soak, softening to a smooth, buttery interior. Provide poles or a trellis for the climbing vines and consistent moisture while pods fill, then let pods dry fully before shelling. Because the thin skin bruises and splits more easily than thicker-skinned beans, handle dried pods gently during threshing and winnowing.",
+    "sources": [
+      "Slow Food Foundation for Biodiversity",
+      "Region of Campania agricultural heritage crop records",
+      "Seed Savers Exchange"
+    ]
+  },
+  {
+    "slug": "mogette-de-vendee-bean",
+    "common_name": "Mogette de Vendée Bean (Vendée White Bean)",
+    "scientific_name": "Phaseolus vulgaris 'Mogette de Vendée'",
+    "category": "vegetable",
+    "subcategory": "pole dry shelling bean",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 95,
+      "max": 110
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 2
+      },
+      "note": "Direct sow after last frost; traditionally trained up chestnut stakes in the Vendée region of western France, so provide tall poles or a trellis."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 6,
+      "max": 10
+    },
+    "height_in": {
+      "min": 72,
+      "max": 96
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 18
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Mogette de Vendée is a Protected Geographical Indication white kidney bean from France's Atlantic-coast Vendée region, where it is the traditional accompaniment to local ham and is celebrated every autumn at regional mogette festivals. The plump, pure-white seeds cook to a smooth, mild-flavored, creamy finish that absorbs butter, garlic, and herbs readily, making it a staple of simple rustic French cooking. Allow pods to dry fully and turn pale tan before harvest, then shell and finish curing indoors for a week or two. Give vines full sun, steady moisture during pod fill, and a tall, sturdy support since plants can reach 8 feet.",
+    "sources": [
+      "European Commission eAmbrosia PGI register",
+      "Institut National de l'Origine et de la Qualité (INAO)",
+      "Seed Savers Exchange"
+    ]
+  },
+  {
+    "slug": "aztec-half-runner-bean",
+    "common_name": "Aztec Half Runner Bean (Black-and-White Heirloom Half-Runner)",
+    "scientific_name": "Phaseolus vulgaris 'Aztec'",
+    "category": "vegetable",
+    "subcategory": "half-runner dry shelling bean",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 85,
+      "max": 95
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 2
+      },
+      "note": "Direct sow after last frost; half-runner habit benefits from a short trellis or light staking, though plants can also sprawl along the ground with somewhat lower yields."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 4,
+      "max": 6
+    },
+    "height_in": {
+      "min": 24,
+      "max": 36
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 18
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Aztec is a Southern heirloom half-runner dry bean, producing seeds boldly patterned in black and white that stand out in storage jars and seed-saving collections alike. Plants split the difference between bush and pole habit, sending out short runners that benefit from a low trellis or a few stakes but do not require the tall support of true pole beans. The dense, meaty beans hold their shape through long simmering, making them well suited to soups and slow-cooked bean pots in the Appalachian and Southern dry-bean tradition. Let pods dry fully on the vine, harvesting once they rattle, then shell and cure before storage.",
+    "sources": [
+      "Southern Exposure Seed Exchange",
+      "Seed Savers Exchange",
+      "Sustainable Mountain Agriculture Center"
+    ]
+  },
+  {
+    "slug": "havasupai-60-day-bean",
+    "common_name": "Havasupai 60-Day Bean (Grand Canyon Fast-Maturing Heirloom)",
+    "scientific_name": "Phaseolus vulgaris 'Havasupai 60 Day'",
+    "category": "vegetable",
+    "subcategory": "bush dry shelling bean",
+    "days_to_germination": {
+      "min": 6,
+      "max": 12
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 90
+    },
+    "days_to_maturity": {
+      "min": 55,
+      "max": 65
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 1,
+        "max": 4
+      },
+      "note": "Direct sow once soil is warm, ideally timed with the onset of a region's summer monsoon moisture if grown dryland-style; this variety was selected for a short, intense growing window and tolerates heat well."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 3,
+      "max": 5
+    },
+    "height_in": {
+      "min": 14,
+      "max": 20
+    },
+    "spread_in": {
+      "min": 8,
+      "max": 12
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Havasupai 60-Day is a fast-maturing common bean maintained by the Havasupai people of the Grand Canyon's Havasu Canyon, bred over generations for the short frost-free window and monsoon-dependent moisture of a high-desert canyon growing season. The compact bush plants set pods quickly and dry down within about two months, yielding small, mottled tan-and-brown seeds with a mild, earthy flavor typical of Southwestern dry beans. Because it was selected for arid conditions, it tolerates heat and irregular watering better than many bush dry beans, though a deep soak at flowering improves pod set. Harvest once pods are fully dry and papery, and save seed from the earliest-maturing plants to maintain the variety's signature speed.",
+    "sources": [
+      "Native Seeds/SEARCH",
+      "USDA National Plant Germplasm System",
+      "University of Arizona Arid Lands Studies"
+    ]
+  },
+  {
+    "slug": "flor-de-durazno-bean",
+    "common_name": "Flor de Durazno Bean (Peach Blossom Bean, Mexican Heirloom)",
+    "scientific_name": "Phaseolus vulgaris 'Flor de Durazno'",
+    "category": "vegetable",
+    "subcategory": "bush dry shelling bean",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 85,
+      "max": 95
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 2
+      },
+      "note": "Direct sow after last frost once soil has warmed; a compact bush type that needs no staking."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 4,
+      "max": 6
+    },
+    "height_in": {
+      "min": 16,
+      "max": 22
+    },
+    "spread_in": {
+      "min": 10,
+      "max": 14
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Flor de Durazno takes its name, 'peach blossom,' from the soft pink-and-cream mottling on its seed coat, a color pattern reminiscent of peach flowers rather than the bolder maroon speckling of many other Mexican dry beans. This bush-type heirloom produces a heavy set of pods on compact plants, yielding beans with a smooth, buttery texture and mild flavor once cooked, well suited to simple pot beans, soups, and refried preparations. Allow pods to dry completely and turn tan on the vine before harvest, then shell and cure the beans for another week or two indoors before sealing for storage. Its moderate days-to-maturity make it a good option for gardeners without a long, hot growing season.",
+    "sources": [
+      "Rancho Gordo",
+      "Seed Savers Exchange",
+      "CIMMYT/INIFAP Mexican bean landrace germplasm documentation"
+    ]
+  },
+  {
+    "slug": "alubia-de-tolosa-bean",
+    "common_name": "Alubia de Tolosa Bean (Tolosa Black Bean, Basque Heirloom)",
+    "scientific_name": "Phaseolus vulgaris 'Tolosa'",
+    "category": "vegetable",
+    "subcategory": "bush dry shelling bean",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 90,
+      "max": 100
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 2
+      },
+      "note": "Direct sow after last frost once soil has warmed; a bush type that needs no staking and performs well in the cool, humid summers typical of northern Spain's Basque Country."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 4,
+      "max": 6
+    },
+    "height_in": {
+      "min": 16,
+      "max": 22
+    },
+    "spread_in": {
+      "min": 10,
+      "max": 14
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Alubia de Tolosa is a small, matte-black dry bean grown under a protected designation of origin around Tolosa in Spain's Basque Country, where it is the star of the traditional autumn alubiada bean feast served with cabbage, chorizo, and pork. The beans cook to an intensely creamy, almost velvety texture with an earthy, faintly smoky flavor that Basque cooks prize above other black bean types. Bush plants stay compact and productive without support; allow pods to dry fully and rattle before harvesting, then shell and cure before storage. It performs best where summers are mild to moderately warm rather than scorching, echoing its native Atlantic-coast climate.",
+    "sources": [
+      "Eusko Label / Kalitatea",
+      "Slow Food Foundation for Biodiversity",
+      "Seed Savers Exchange"
+    ]
+  },
+  {
+    "slug": "royal-corona-bean",
+    "common_name": "Royal Corona Bean (Giant White Gigante-Style Runner Bean)",
+    "scientific_name": "Phaseolus coccineus 'Royal Corona'",
+    "category": "vegetable",
+    "subcategory": "runner bean",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 100,
+      "max": 115
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 2
+      },
+      "note": "Direct sow after last frost once soil has warmed, and set tall poles or a trellis at planting time; like other runner beans, flower and pod set slow down in extreme summer heat, so cooler-summer regions or a fall planting often perform best."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 6,
+      "max": 10
+    },
+    "height_in": {
+      "min": 96,
+      "max": 132
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 18
+    },
+    "sun": "full",
+    "water": "high",
+    "directions": "Royal Corona was developed and popularized by California heirloom seed company Rancho Gordo as a domestically grown alternative to Italy's prized gigante beans, selecting a large-seeded white runner bean strain grown in Mexico's highlands for exceptional size and a dense, creamy texture. The oversized white seeds swell further when cooked, becoming meltingly tender while holding their shape, a texture prized for simple olive-oil-and-herb preparations that let the bean's quality shine. As with other runner beans, give plants tall, sturdy supports and consistent moisture, since shallow roots make the vines quick to stop setting pods in hot, dry conditions. Let pods dry fully on the vine before harvest, then shell and cure before storage.",
+    "sources": [
+      "Rancho Gordo",
+      "Seed Savers Exchange",
+      "USDA National Plant Germplasm System"
+    ]
+  },
+  {
+    "slug": "ayocote-blanco-bean",
+    "common_name": "Ayocote Blanco Bean (White Mexican Runner Bean)",
+    "scientific_name": "Phaseolus coccineus 'Ayocote Blanco'",
+    "category": "vegetable",
+    "subcategory": "runner bean",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 100,
+      "max": 115
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 2
+      },
+      "note": "Direct sow after last frost once soil has warmed, and provide tall poles or a trellis; performs best where summer nights stay relatively cool, as with other runner beans."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 6,
+      "max": 10
+    },
+    "height_in": {
+      "min": 96,
+      "max": 132
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 18
+    },
+    "sun": "full",
+    "water": "high",
+    "directions": "Ayocote Blanco is the white-seeded member of Mexico's ayocote runner bean group, grown alongside its better-known black (ayocote negro) and purple (ayocote morado) siblings in highland milpa plots from central to southern Mexico. The large, plump white seeds cook to a dense, mealy texture with a mild, earthy flavor, traditionally simmered slowly with epazote and used in regional bean stews and moles. Like other ayocote beans, plants are vigorous climbers that benefit from tall, sturdy support and consistent moisture during flowering and pod fill. Allow pods to dry completely on the vine before harvesting, then shell and cure the beans before sealing for storage.",
+    "sources": [
+      "Rancho Gordo",
+      "CIMMYT/INIFAP Mexican bean landrace germplasm documentation",
+      "Seed Savers Exchange"
+    ]
+  },
+  {
+    "slug": "etna-runner-bean",
+    "common_name": "Etna Runner Bean (Black-Seeded Dual-Purpose Runner Bean)",
+    "scientific_name": "Phaseolus coccineus 'Etna'",
+    "category": "vegetable",
+    "subcategory": "runner bean",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 85,
+      "max": 100
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 2
+      },
+      "note": "Direct sow after last frost once soil has warmed, and set poles or a trellis at planting time; can be picked young as a snap bean or left to mature for dry shelling beans."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 6,
+      "max": 10
+    },
+    "height_in": {
+      "min": 84,
+      "max": 120
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 18
+    },
+    "sun": "full",
+    "water": "high",
+    "directions": "Etna is an Italian heirloom runner bean grown for its solid, glossy black-seeded pods, a striking departure from the mottled reds and pinks typical of most runner bean varieties. Grown as a dual-purpose bean, young pods can be picked and cooked like a broad snap bean while the surface is still tender, or left on the vine to mature into fully dried black shelling beans with a rich, dense flavor suited to long-simmered pots. As with other runner beans, give the vigorous climbing vines tall support and steady moisture, since pod set falters in hot, dry conditions. Allow pods intended for drying to turn brown and papery on the vine before harvest.",
+    "sources": [
+      "Renee's Garden Seeds",
+      "Seed Savers Exchange",
+      "USDA National Plant Germplasm System"
+    ]
+  }
+]

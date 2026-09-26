@@ -1,0 +1,812 @@
+[
+  {
+    "slug": "jupiter-grape",
+    "common_name": "Jupiter Grape (Seedless Muscat-Flavored Table Grape)",
+    "scientific_name": "Vitis vinifera x labrusca 'Jupiter'",
+    "category": "fruit",
+    "subcategory": "grape",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 730,
+      "max": 1095
+    },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": 2
+      },
+      "note": "Plant dormant bare-root vines in early spring once soil is workable, training to a sturdy trellis with a permanent trunk and cordon system."
+    },
+    "usda_zones": {
+      "min": 6,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 72,
+      "max": 96
+    },
+    "height_in": {
+      "min": 60,
+      "max": 84
+    },
+    "spread_in": {
+      "min": 72,
+      "max": 96
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Jupiter was released by the University of Arkansas breeding program and produces large, seedless, blue-black berries with a distinctive spicy muscat flavor on vigorous, productive vines. It ripens in mid-season and holds well on the vine, making it a favorite among home growers wanting a flavorful seedless alternative to standard labrusca types. Prune to a bilateral cordon system and thin crowded clusters early to encourage larger berry size. Vines benefit from a full season of heat to fully develop their characteristic sweetness and aroma.",
+    "sources": ["University of Arkansas Division of Agriculture", "Cornell Cooperative Extension"]
+  },
+  {
+    "slug": "marechal-foch-grape",
+    "common_name": "Marechal Foch Grape (Cold-Hardy French-American Red Wine Grape)",
+    "scientific_name": "Vitis 'Marechal Foch'",
+    "category": "fruit",
+    "subcategory": "grape",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 730,
+      "max": 1095
+    },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": 2
+      },
+      "note": "Plant dormant bare-root vines in early spring, training to a trellis with a permanent trunk and cane or cordon system."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 8
+    },
+    "spacing_in": {
+      "min": 72,
+      "max": 96
+    },
+    "height_in": {
+      "min": 60,
+      "max": 84
+    },
+    "spread_in": {
+      "min": 72,
+      "max": 96
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "This early-ripening French-American hybrid was bred by Eugene Kuhlmann and produces small, dark clusters used for light, fruity red wines with an earthy, sometimes smoky character. It is exceptionally cold-hardy, tolerating winter lows that damage most vinifera, and has long been a mainstay of northeastern and Canadian vineyards. Because it fruits heavily and buds early, growers should balance crop load through cluster thinning and protect young growth from late spring frosts. Prune to a cane system and expect reliable production once the vine is established.",
+    "sources": ["Cornell Cooperative Extension", "Vineland Research and Innovation Centre"]
+  },
+  {
+    "slug": "leon-millot-grape",
+    "common_name": "Leon Millot Grape (Cold-Hardy French-American Red Wine Grape)",
+    "scientific_name": "Vitis 'Leon Millot'",
+    "category": "fruit",
+    "subcategory": "grape",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 730,
+      "max": 1095
+    },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": 2
+      },
+      "note": "Plant dormant bare-root vines in early spring, training to a trellis with a permanent trunk and cane system."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 8
+    },
+    "spacing_in": {
+      "min": 72,
+      "max": 96
+    },
+    "height_in": {
+      "min": 60,
+      "max": 84
+    },
+    "spread_in": {
+      "min": 72,
+      "max": 96
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "A sibling seedling of Marechal Foch from the same Kuhlmann breeding program, Leon Millot ripens slightly earlier and produces deeply colored juice prized for blending into rustic, full-bodied red wines. Its compact clusters of small berries set reliably even in cooler, shorter growing seasons, and the vine shares its sibling's strong resistance to winter cold. Growers should watch for its tendency toward vigorous growth by shoot-thinning and opening the canopy to improve air movement and reduce fungal disease pressure. It performs best on a cane-pruned trellis system.",
+    "sources": ["Cornell Cooperative Extension", "Missouri State University Grape and Wine Institute"]
+  },
+  {
+    "slug": "vignoles-grape",
+    "common_name": "Vignoles Grape (French-American Hybrid White Wine Grape)",
+    "scientific_name": "Vitis 'Vignoles'",
+    "category": "fruit",
+    "subcategory": "grape",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 730,
+      "max": 1095
+    },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": 2
+      },
+      "note": "Plant dormant bare-root vines in early spring, training to a high-wire cordon or Geneva double curtain system to manage its naturally sprawling growth habit."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 8
+    },
+    "spacing_in": {
+      "min": 72,
+      "max": 96
+    },
+    "height_in": {
+      "min": 60,
+      "max": 84
+    },
+    "spread_in": {
+      "min": 72,
+      "max": 96
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Vignoles produces small, tightly packed clusters of golden berries that build high sugar levels while retaining sharp acidity, making it a favorite for late-harvest and dessert-style white wines as well as crisp dry versions. Its thin skins are prone to bunch rot in humid weather, so growers should prioritize cluster thinning and canopy airflow, and consider netting against birds drawn to its concentrated sweetness. The vine is more cold-hardy than vinifera types and tolerates the shorter growing seasons of the upper Midwest and Northeast. Expect full production by the third or fourth growing season.",
+    "sources": ["Cornell Cooperative Extension", "Missouri State University Grape and Wine Institute"]
+  },
+  {
+    "slug": "aurore-grape",
+    "common_name": "Aurore Grape (Early-Ripening French-American White Wine Grape)",
+    "scientific_name": "Vitis 'Aurore'",
+    "category": "fruit",
+    "subcategory": "grape",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 730,
+      "max": 1095
+    },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": 2
+      },
+      "note": "Plant dormant bare-root vines in early spring, training to a cane or cordon system on a sturdy trellis."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 8
+    },
+    "spacing_in": {
+      "min": 72,
+      "max": 96
+    },
+    "height_in": {
+      "min": 60,
+      "max": 84
+    },
+    "spread_in": {
+      "min": 72,
+      "max": 96
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "One of the earliest-ripening French-American hybrids, Aurore was for decades a workhorse variety in eastern American vineyards, valued for its reliable heavy crops of pale golden-green berries used in light, fruity white wines. Its early ripening lets it succeed in regions with shorter frost-free seasons where later-maturing grapes struggle to fully develop. The vine is vigorous and productive, so cluster thinning helps concentrate flavor and prevent overcropping from weakening the plant. It tolerates cold winters well and is best trained to a cane-pruned system.",
+    "sources": ["Cornell Cooperative Extension", "Missouri State University Grape and Wine Institute"]
+  },
+  {
+    "slug": "chelois-grape",
+    "common_name": "Chelois Grape (French-American Hybrid Red Wine Grape)",
+    "scientific_name": "Vitis 'Chelois'",
+    "category": "fruit",
+    "subcategory": "grape",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 730,
+      "max": 1095
+    },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": 2
+      },
+      "note": "Plant dormant bare-root vines in early spring, training to a cane or cordon system on a sturdy trellis."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 8
+    },
+    "spacing_in": {
+      "min": 72,
+      "max": 96
+    },
+    "height_in": {
+      "min": 60,
+      "max": 84
+    },
+    "spread_in": {
+      "min": 72,
+      "max": 96
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "A Seibel-bred French-American hybrid, Chelois produces medium clusters of dark blue berries that yield soft, fruity red wines often compared in style to light Burgundies. It ripens reliably in mid-season and has a long history in eastern American vineyards for both varietal and blending wines. The vine performs best on a cane-pruned trellis and appreciates cluster thinning to concentrate flavor in cooler years. It shows good resistance to winter injury but benefits from fungicide attention in humid climates due to moderate mildew susceptibility.",
+    "sources": ["Cornell Cooperative Extension", "Missouri State University Grape and Wine Institute"]
+  },
+  {
+    "slug": "elvira-grape",
+    "common_name": "Elvira Grape (Historic American Hybrid White Wine Grape)",
+    "scientific_name": "Vitis labrusca x riparia 'Elvira'",
+    "category": "fruit",
+    "subcategory": "grape",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 730,
+      "max": 1095
+    },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": 2
+      },
+      "note": "Plant dormant bare-root vines in early spring, training to a cane or cordon system on a sturdy trellis."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 8
+    },
+    "spacing_in": {
+      "min": 72,
+      "max": 96
+    },
+    "height_in": {
+      "min": 60,
+      "max": 84
+    },
+    "spread_in": {
+      "min": 72,
+      "max": 96
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Bred in Missouri in the 1860s, Elvira was once a mainstay of Midwestern wine production, prized for its heavy yields of small, pale green-white berries and its tolerance of humid, disease-prone conditions that challenge finer vinifera types. The wine produced is light, tart, and historically valued more for volume and reliability than refinement. The vine is exceptionally vigorous and cold-hardy, needing firm pruning and cluster thinning to prevent overcropping and to keep berry quality acceptable. It remains of interest today for its own-rooted resilience and its place in American viticultural history.",
+    "sources": ["Missouri State University Grape and Wine Institute", "University of Missouri Extension"]
+  },
+  {
+    "slug": "ives-grape",
+    "common_name": "Ives Grape (Historic American Red Wine and Juice Grape)",
+    "scientific_name": "Vitis labrusca 'Ives'",
+    "category": "fruit",
+    "subcategory": "grape",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 730,
+      "max": 1095
+    },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": 2
+      },
+      "note": "Plant dormant bare-root vines in early spring, training to a cane or cordon system on a sturdy trellis."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 8
+    },
+    "spacing_in": {
+      "min": 72,
+      "max": 96
+    },
+    "height_in": {
+      "min": 60,
+      "max": 84
+    },
+    "spread_in": {
+      "min": 72,
+      "max": 96
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Discovered in Ohio in the 1840s, Ives Seedling produces small, dark blue-black berries with intensely colored, slip-skin flesh that yields deeply pigmented juice and jam-like, foxy-flavored red wine. It remains grown in parts of Missouri and Arkansas, valued for its cold hardiness, heavy cropping, and resistance to many fungal diseases that trouble vinifera. Because clusters set thickly, thin fruit early to prevent overcropping and improve berry size and ripening. The vine is vigorous and long-lived, tolerating a wide range of soils once established on a cane-pruned trellis.",
+    "sources": ["Missouri State University Grape and Wine Institute", "University of Missouri Extension"]
+  },
+  {
+    "slug": "valvin-muscat-grape",
+    "common_name": "Valvin Muscat Grape (Cornell-Bred Aromatic White Wine Grape)",
+    "scientific_name": "Vitis 'Valvin Muscat'",
+    "category": "fruit",
+    "subcategory": "grape",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 730,
+      "max": 1095
+    },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": 2
+      },
+      "note": "Plant dormant bare-root vines in early spring, training to a cane or cordon system on a sturdy trellis."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 8
+    },
+    "spacing_in": {
+      "min": 72,
+      "max": 96
+    },
+    "height_in": {
+      "min": 60,
+      "max": 84
+    },
+    "spread_in": {
+      "min": 72,
+      "max": 96
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Released by Cornell University's grape breeding program, Valvin Muscat brings the intensely floral, musky-sweet character of muscat grapes into a cold-hardy hybrid capable of surviving harsh northeastern and Midwestern winters. It produces medium clusters of golden berries used for aromatic dessert and dry white wines, as well as fresh eating in home gardens. The vine crops reliably and benefits from cluster thinning to concentrate its signature aromatics. It is best trained to a cane-pruned system and shows good tolerance of cold beyond what vinifera muscat types can withstand.",
+    "sources": ["Cornell University College of Agriculture and Life Sciences", "Cornell Cooperative Extension"]
+  },
+  {
+    "slug": "corot-noir-grape",
+    "common_name": "Corot Noir Grape (Cornell-Bred Cold-Hardy Red Wine Grape)",
+    "scientific_name": "Vitis 'Corot Noir'",
+    "category": "fruit",
+    "subcategory": "grape",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 730,
+      "max": 1095
+    },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": 2
+      },
+      "note": "Plant dormant bare-root vines in early spring, training to a cane or cordon system on a sturdy trellis."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 8
+    },
+    "spacing_in": {
+      "min": 72,
+      "max": 96
+    },
+    "height_in": {
+      "min": 60,
+      "max": 84
+    },
+    "spread_in": {
+      "min": 72,
+      "max": 96
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Released by Cornell's Geneva breeding program alongside Noiret and Corot Noir's other 'NY' hybrid siblings, this variety produces deeply colored, medium clusters that yield full-bodied red wines with good tannin structure, unusual for a cold-hardy hybrid. It ripens in mid to late season and has become popular with Finger Lakes and other northeastern wineries seeking vinifera-quality reds from hardier vines. Prune to a cane or cordon system and manage vigor through shoot positioning to expose fruit to adequate sunlight for full color and tannin development. It tolerates winter cold considerably better than the vinifera reds it is often compared to.",
+    "sources": ["Cornell University College of Agriculture and Life Sciences", "Cornell Cooperative Extension"]
+  },
+  {
+    "slug": "golden-muscat-grape",
+    "common_name": "Golden Muscat Grape (Historic American Hybrid Table and Wine Grape)",
+    "scientific_name": "Vitis labrusca x vinifera 'Golden Muscat'",
+    "category": "fruit",
+    "subcategory": "grape",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 730,
+      "max": 1095
+    },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": 2
+      },
+      "note": "Plant dormant bare-root vines in early spring, training to a cane or cordon system on a sturdy trellis."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 8
+    },
+    "spacing_in": {
+      "min": 72,
+      "max": 96
+    },
+    "height_in": {
+      "min": 60,
+      "max": 84
+    },
+    "spread_in": {
+      "min": 72,
+      "max": 96
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Bred at the New York State Agricultural Experiment Station in Geneva from a Diamond and Muscat Hamburg cross, Golden Muscat combines labrusca cold-hardiness with a pronounced muscat aroma more typical of finer vinifera grapes. Its large, loose clusters of amber-gold berries are enjoyed fresh, made into juice, or fermented into aromatic wine. The vine ripens late in the season, so it performs best where autumns are long and mild, and benefits from cluster thinning to hasten ripening. It is vigorous and productive once established on a cane-pruned trellis.",
+    "sources": ["Cornell Cooperative Extension", "New York State Agricultural Experiment Station"]
+  },
+  {
+    "slug": "lakemont-grape",
+    "common_name": "Lakemont Grape (Seedless White Table Grape)",
+    "scientific_name": "Vitis labrusca x vinifera 'Lakemont'",
+    "category": "fruit",
+    "subcategory": "grape",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 730,
+      "max": 1095
+    },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": 2
+      },
+      "note": "Plant dormant bare-root vines in early spring, training to a cane or cordon system on a sturdy trellis."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 8
+    },
+    "spacing_in": {
+      "min": 72,
+      "max": 96
+    },
+    "height_in": {
+      "min": 60,
+      "max": 84
+    },
+    "spread_in": {
+      "min": 72,
+      "max": 96
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Developed at the Geneva, New York experiment station, Lakemont is one of the most widely planted seedless table grapes for home gardens in cold-winter regions, producing large, loose clusters of sweet, crisp, pale green berries. It ripens in early to mid-season and holds its quality well on the vine, making it forgiving for gardeners who cannot harvest the moment it peaks. The vine is vigorous and productive, so cluster and shoot thinning improve berry size and air circulation. It is considerably more cold-hardy than European seedless types like Thompson Seedless.",
+    "sources": ["Cornell Cooperative Extension", "New York State Agricultural Experiment Station"]
+  },
+  {
+    "slug": "alden-grape",
+    "common_name": "Alden Grape (Large Blue Table Grape)",
+    "scientific_name": "Vitis labrusca x vinifera 'Alden'",
+    "category": "fruit",
+    "subcategory": "grape",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 730,
+      "max": 1095
+    },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": 2
+      },
+      "note": "Plant dormant bare-root vines in early spring, training to a cane or cordon system on a sturdy trellis."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 8
+    },
+    "spacing_in": {
+      "min": 72,
+      "max": 96
+    },
+    "height_in": {
+      "min": 60,
+      "max": 84
+    },
+    "spread_in": {
+      "min": 72,
+      "max": 96
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Released from the Geneva, New York breeding program, Alden produces very large, sweet, blue-black berries with a mild, distinctly non-foxy flavor prized by home growers who find Concord's flavor too strong. Clusters ripen in mid-season and the berries cling well, tolerating light delays in harvest. The vine is moderately vigorous and benefits from cluster thinning to maximize the impressive berry size it is known for. It withstands cold winters well and performs reliably as a dessert grape in northern home orchards.",
+    "sources": ["Cornell Cooperative Extension", "New York State Agricultural Experiment Station"]
+  },
+  {
+    "slug": "suffolk-red-grape",
+    "common_name": "Suffolk Red Grape (Seedless Red Table Grape)",
+    "scientific_name": "Vitis labrusca x vinifera 'Suffolk Red'",
+    "category": "fruit",
+    "subcategory": "grape",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 730,
+      "max": 1095
+    },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": 2
+      },
+      "note": "Plant dormant bare-root vines in early spring, training to a cane or cordon system on a sturdy trellis."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 8
+    },
+    "spacing_in": {
+      "min": 72,
+      "max": 96
+    },
+    "height_in": {
+      "min": 60,
+      "max": 84
+    },
+    "spread_in": {
+      "min": 72,
+      "max": 96
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Bred at the Geneva, New York experiment station, Suffolk Red is one of the earliest-ripening seedless table grapes suited to cold-winter gardens, producing medium clusters of sweet, crisp, reddish berries. Its early ripening makes it a reliable choice where the growing season is too short for European seedless varieties to mature. The vine is moderately vigorous and productive, and cluster thinning helps maintain consistent berry size across the crop. It tolerates winter cold well and is a popular choice for northern home vineyards wanting seedless fruit.",
+    "sources": ["Cornell Cooperative Extension", "New York State Agricultural Experiment Station"]
+  },
+  {
+    "slug": "fantasy-seedless-grape",
+    "common_name": "Fantasy Seedless Grape (Black Seedless Table Grape)",
+    "scientific_name": "Vitis vinifera 'Fantasy Seedless'",
+    "category": "fruit",
+    "subcategory": "grape",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 730,
+      "max": 1095
+    },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": -2,
+        "max": 4
+      },
+      "note": "Plant dormant bare-root vines in early spring after the danger of hard freeze has passed, training to a cane or cordon system on a sturdy trellis."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 72,
+      "max": 96
+    },
+    "height_in": {
+      "min": 60,
+      "max": 84
+    },
+    "spread_in": {
+      "min": 72,
+      "max": 96
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "A University of California release, Fantasy Seedless produces large, elongated clusters of sweet, crisp, black-skinned berries popular in warm-summer table grape regions. As a pure vinifera selection it lacks the cold hardiness of American hybrids and performs best where winters stay mild and summers are long and hot. The vine is vigorous, so shoot positioning and cluster thinning are needed to keep berry size and quality consistent across a heavy crop. Growers in marginal zones should provide winter protection or choose a sheltered planting site.",
+    "sources": ["University of California Agriculture and Natural Resources", "California Table Grape Commission"]
+  },
+  {
+    "slug": "sheridan-grape",
+    "common_name": "Sheridan Grape (Late-Keeping Blue Juice and Table Grape)",
+    "scientific_name": "Vitis labrusca 'Sheridan'",
+    "category": "fruit",
+    "subcategory": "grape",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 730,
+      "max": 1095
+    },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": 2
+      },
+      "note": "Plant dormant bare-root vines in early spring, training to a cane or cordon system on a sturdy trellis."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 8
+    },
+    "spacing_in": {
+      "min": 72,
+      "max": 96
+    },
+    "height_in": {
+      "min": 60,
+      "max": 84
+    },
+    "spread_in": {
+      "min": 72,
+      "max": 96
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Released from the Geneva, New York breeding program, Sheridan ripens late in the season and is prized for its exceptional storage life, keeping in good condition for weeks longer than most American hybrid grapes after harvest. Its small to medium clusters of blue-black berries have a rich, wine-like flavor good for fresh eating, juice, and jelly. Because it ripens late, it needs a full growing season to reach peak sweetness, and cluster thinning helps ensure even maturity. The vine is cold-hardy and productive once established on a cane-pruned trellis.",
+    "sources": ["Cornell Cooperative Extension", "New York State Agricultural Experiment Station"]
+  },
+  {
+    "slug": "rougeon-grape",
+    "common_name": "Rougeon Grape (Teinturier French-American Hybrid Wine Grape)",
+    "scientific_name": "Vitis 'Rougeon'",
+    "category": "fruit",
+    "subcategory": "grape",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 730,
+      "max": 1095
+    },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": 2
+      },
+      "note": "Plant dormant bare-root vines in early spring, training to a cane or cordon system on a sturdy trellis."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 8
+    },
+    "spacing_in": {
+      "min": 72,
+      "max": 96
+    },
+    "height_in": {
+      "min": 60,
+      "max": 84
+    },
+    "spread_in": {
+      "min": 72,
+      "max": 96
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "A Seibel-bred French-American hybrid, Rougeon is a teinturier variety whose flesh, not just its skin, is deeply pigmented, producing intensely colored juice used both for blending into red wines and boosting color in lighter batches. Its productive, compact clusters ripen reliably in mid-season and the vine is well suited to the cooler climates where it has long been grown for juice and blending wine in the northeastern United States and Quebec. Prune to a cane system and thin crop load in vigorous years to maintain wine quality. It tolerates cold winters better than vinifera reds.",
+    "sources": ["Cornell Cooperative Extension", "Vineland Research and Innovation Centre"]
+  },
+  {
+    "slug": "colobel-grape",
+    "common_name": "Colobel Grape (Teinturier French-American Hybrid Wine Grape)",
+    "scientific_name": "Vitis 'Colobel'",
+    "category": "fruit",
+    "subcategory": "grape",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 730,
+      "max": 1095
+    },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": 2
+      },
+      "note": "Plant dormant bare-root vines in early spring, training to a cane or cordon system on a sturdy trellis."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 8
+    },
+    "spacing_in": {
+      "min": 72,
+      "max": 96
+    },
+    "height_in": {
+      "min": 60,
+      "max": 84
+    },
+    "spread_in": {
+      "min": 72,
+      "max": 96
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Another Seibel-bred teinturier hybrid closely related to Rougeon, Colobel carries deeply pigmented flesh that makes it valuable for adding color and body to blended red wines and juice rather than for varietal bottling on its own. It crops heavily and ripens reliably even in cool northeastern and Canadian growing regions, where it has traditionally been used to reinforce lighter-colored hybrid reds. The vine is vigorous and cold-hardy, and needs cluster thinning in productive years to keep the crop from overwhelming the plant. Train to a cane-pruned system for best results.",
+    "sources": ["Cornell Cooperative Extension", "Vineland Research and Innovation Centre"]
+  }
+]

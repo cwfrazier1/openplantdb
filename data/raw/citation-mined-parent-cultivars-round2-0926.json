@@ -1,0 +1,326 @@
+[
+  {
+    "slug": "poinsett-cucumber",
+    "common_name": "Poinsett Cucumber (Original 1966 Multi-Disease-Resistant Slicer)",
+    "scientific_name": "Cucumis sativus 'Poinsett'",
+    "category": "vegetable",
+    "subcategory": "slicing cucumber",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 95
+    },
+    "days_to_maturity": {
+      "min": 62,
+      "max": 68
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 2
+      },
+      "note": "Direct sow after last frost in warm soil; Poinsett was released by the Clemson University vegetable breeding program in 1966 as one of the earliest slicing cucumbers bred with a combined resistance package to several major foliar diseases, and it became the parent line for the later, further-refined Poinsett 76."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 12,
+      "max": 18
+    },
+    "spread_in": {
+      "min": 36,
+      "max": 72
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Direct sow 1 inch deep in warm soil after all frost danger has passed, and provide a trellis or allow the vigorous vines to sprawl on 3-4 feet of row spacing. Named for Joel R. Poinsett, the South Carolinian diplomat who introduced the poinsettia to the United States, this cucumber was a genuine breeding milestone: it was among the first commercial slicers to stack resistance to angular leaf spot, anthracnose, downy mildew, and mosaic virus into one dependable open-pollinated line, which sharply reduced losses in the humid Southeast. Fruits are dark green, cylindrical, and 7-8 inches long with good flavor, though the plant is somewhat less heat-tolerant in peak midsummer than the 1976 selection later bred from it. Save seed from fully mature, yellowed fruit for a true-breeding crop the following year.",
+    "sources": [
+      "Clemson University Vegetable Research Reports",
+      "Southern Exposure Seed Exchange",
+      "Seed Savers Exchange"
+    ]
+  },
+  {
+    "slug": "palmer-perennial-ryegrass",
+    "common_name": "Palmer Perennial Ryegrass (Original 1980s Turf-Type Fine-Bladed Cultivar)",
+    "scientific_name": "Lolium perenne 'Palmer'",
+    "category": "cover-crop",
+    "subcategory": "turfgrass",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 50,
+      "max": 65
+    },
+    "days_to_maturity": {
+      "min": 45,
+      "max": 60
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -6,
+        "max": -2
+      },
+      "note": "Seed at 6-8 lbs per 1,000 sq ft; Palmer was one of the first fine-bladed, turf-type perennial ryegrass releases of the early 1980s and founded the multi-generation Palmer series that continues with Palmer III today."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 8
+    },
+    "spacing_in": {
+      "min": 1,
+      "max": 2
+    },
+    "height_in": {
+      "min": 2,
+      "max": 3
+    },
+    "spread_in": {
+      "min": 1,
+      "max": 2
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Sow into a firm, well-prepared seedbed in early fall or spring and keep the surface consistently moist until the stand fills in. Palmer marked a shift away from older, coarse-bladed pasture-type ryegrasses toward a denser, darker-green lawn-quality turf, and its fast germination made it an early favorite for overseeding dormant warm-season lawns each fall. Because it is a bunchgrass rather than a spreading type, thin or damaged patches need overseeding to recover rather than filling in naturally. Later Palmer-series releases have since improved on its disease resistance and leaf fineness, but the original stand remains a useful reference point in university turf trials.",
+    "sources": [
+      "NTEP National Turfgrass Evaluation Program",
+      "Oregon State University Extension -- Turfgrass Seed Production",
+      "University of Georgia Extension -- Lawns in Georgia"
+    ]
+  },
+  {
+    "slug": "manhattan-perennial-ryegrass",
+    "common_name": "Manhattan Perennial Ryegrass (Original Central Park Turf-Type Cultivar)",
+    "scientific_name": "Lolium perenne 'Manhattan'",
+    "category": "cover-crop",
+    "subcategory": "turfgrass",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 50,
+      "max": 65
+    },
+    "days_to_maturity": {
+      "min": 45,
+      "max": 60
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -6,
+        "max": -2
+      },
+      "note": "Seed at 6-8 lbs per 1,000 sq ft; Manhattan was selected from turf growing in New York's Central Park and released by Rutgers University in the late 1960s as one of the very first turf-type perennial ryegrasses, launching the multi-generation Manhattan series."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 8
+    },
+    "spacing_in": {
+      "min": 1,
+      "max": 2
+    },
+    "height_in": {
+      "min": 2,
+      "max": 3
+    },
+    "spread_in": {
+      "min": 1,
+      "max": 2
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Sow in early fall or spring into a firm, moist seedbed; germination is rapid, giving usable cover within about a week under good conditions. Manhattan is historically significant as one of the discoveries that proved perennial ryegrass could be bred specifically for lawns rather than pasture or hay, since older common ryegrass types were coarse, clumpy, and unattractive in a mowed setting. It tolerates foot traffic well and is still widely used for fall overseeding of dormant bermudagrass athletic fields today, though modern NTEP-topping cultivars have since surpassed its disease resistance. As a bunch-type grass, damaged turf must be reseeded rather than relying on lateral spread to fill in.",
+    "sources": [
+      "Rutgers University Turfgrass Program",
+      "NTEP National Turfgrass Evaluation Program",
+      "Penn State Extension -- Turfgrass Management"
+    ]
+  },
+  {
+    "slug": "rugby-kentucky-bluegrass",
+    "common_name": "Rugby Kentucky Bluegrass (Original Compact-Type Turf Cultivar)",
+    "scientific_name": "Poa pratensis 'Rugby'",
+    "category": "cover-crop",
+    "subcategory": "grass",
+    "days_to_germination": {
+      "min": 14,
+      "max": 28
+    },
+    "germination_soil_temp_f": {
+      "min": 50,
+      "max": 65
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 120
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -6,
+        "max": -2
+      },
+      "note": "Sow in late summer to early fall at 2-3 lbs per 1,000 sq ft in fertile, well-prepared soil; Rugby was an early entry in the compact-type class of Kentucky bluegrass cultivars and gave rise to the improved Rugby II selection."
+    },
+    "usda_zones": {
+      "min": 2,
+      "max": 7
+    },
+    "spacing_in": {
+      "min": 1,
+      "max": 1
+    },
+    "height_in": {
+      "min": 2,
+      "max": 4
+    },
+    "spread_in": {
+      "min": 1,
+      "max": 1
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Sow in early fall for the best establishment window and keep the seedbed consistently moist through the slow, multi-week germination period typical of Kentucky bluegrass. Rugby helped define the compact-type category of bluegrass, prized for a tighter growth habit and denser stand than older common Kentucky bluegrass seed, and it spreads by rhizomes into a self-repairing sod that fills in wear patterns over a season. It goes dormant and browns under summer heat and drought stress without supplemental irrigation, recovering with cooler, wetter fall weather. Rugby II was later bred specifically to improve on its genetic color and disease tolerance while keeping the same compact habit.",
+    "sources": [
+      "National Turfgrass Evaluation Program",
+      "Michigan State University Extension",
+      "Oregon State University Extension"
+    ]
+  },
+  {
+    "slug": "traveler-tomato",
+    "common_name": "Traveler Tomato (Original 1930s Arkansas Heat-Set Heirloom)",
+    "scientific_name": "Solanum lycopersicum 'Traveler'",
+    "category": "vegetable",
+    "subcategory": "tomato",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 78,
+      "max": 85
+    },
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -6
+      },
+      "note": "Start indoors 6-8 weeks before last frost and transplant once frost danger passes; Traveler was released by the University of Arkansas in the 1930s and was the direct parent of the later, crack-resistant Traveler 76 selection."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 24,
+      "max": 36
+    },
+    "height_in": {
+      "min": 48,
+      "max": 72
+    },
+    "spread_in": {
+      "min": 24,
+      "max": 36
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Start seed indoors in warm starting mix and transplant into full sun once frost risk has passed, spacing plants generously for good air movement in humid climates. Traveler was bred to keep setting fruit through the same brutal midsummer heat that stops many tomatoes from pollinating, a trait that made it a dependable choice for Arkansas and mid-South gardeners decades before modern heat-set hybrids existed. Its medium-sized, pink, globe-shaped fruits have good old-fashioned flavor, but the skin is noticeably more prone to splitting after summer rain than later selections bred from this line. Because it predates the disease and cracking improvements added in 1976, it is now grown mainly by heirloom seed savers rather than commercial producers.",
+    "sources": [
+      "University of Arkansas Cooperative Extension Service",
+      "Victory Seed Company variety archive",
+      "Tatiana's TOMATObase"
+    ]
+  },
+  {
+    "slug": "pierre-menard-iris",
+    "common_name": "Pierre Menard Bearded Iris (Historic Dark Sibling of Cahokia)",
+    "scientific_name": "Iris germanica 'Pierre Menard'",
+    "category": "flower",
+    "subcategory": "perennial",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 270,
+      "max": 365
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -10,
+        "max": -6
+      },
+      "note": "Plant rhizomes shallowly, with the top surface exposed to the sun, in late summer to early fall; Pierre Menard is Eva Faught's 1948 dark-toned sibling from the same historic Illinois cross that produced the pale blue Cahokia."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 32,
+      "max": 38
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Set rhizomes horizontally with the top surface exposed to full sun in sharply drained soil, since standing moisture around the crown quickly leads to rot. Registered in 1948 from the same seedling cross that produced the pale blue Cahokia, Pierre Menard instead carries deep violet-purple standards and falls of good substance, giving Illinois hobby hybridizer Eva Faught a contrasting pair of introductions named for local historical landmarks. It shares its sibling's vigorous increase and reliable bloom, making it a useful, easy-to-grow representative of mid-century tall bearded iris breeding for collectors of historic cultivars. Divide congested clumps every three to four years after flowering finishes to maintain strong bloom production.",
+    "sources": [
+      "Historic Iris Preservation Society",
+      "Iris Encyclopedia (wiki.irises.org)",
+      "American Iris Society"
+    ]
+  }
+]

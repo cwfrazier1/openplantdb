@@ -1,0 +1,992 @@
+[
+  {
+    "slug": "bison-buffalograss",
+    "common_name": "Bison Buffalograss (Improved Seeded Turf and Rangeland Cultivar)",
+    "scientific_name": "Bouteloua dactyloides 'Bison'",
+    "category": "cover-crop",
+    "subcategory": "turfgrass",
+    "days_to_germination": {
+      "min": 14,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 100
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 6
+      },
+      "note": "Sow treated or primed seed at 2-3 lbs per 1,000 sq ft once soil is reliably above 65 degrees F; Bison is a Kansas-bred seeded selection long grouped with Plains, Topgun, and Sharps Improved as a standard turf-type buffalograss for the Great Plains."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 3,
+      "max": 6
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Bison is a seeded, turf-type buffalograss selection developed from Kansas ecotypes and long marketed alongside Plains, Sharps Improved, and Topgun as a reliable, economical choice for low-input Great Plains lawns. It forms a soft gray-green sod that spreads by surface stolons, filling in bare patches on its own once established, and it demands only a fraction of the water and fertilizer that cool-season turf requires. National Turfgrass Evaluation Program trials have consistently placed Bison among the mid-to-upper tier of seeded buffalograss cultivars for overall turf quality, though newer releases like Sundancer and Density surpass it for density and color. Mow at 3 to 4 inches occasionally through summer, or leave unmowed for a naturalized, prairie-style lawn.",
+    "sources": [
+      "Kansas State University Research and Extension",
+      "University of Nebraska-Lincoln Turfgrass Science",
+      "Colorado State University Extension"
+    ]
+  },
+  {
+    "slug": "sharps-improved-buffalograss",
+    "common_name": "Sharps Improved Buffalograss (Selected High-Density Seeded Turf Cultivar)",
+    "scientific_name": "Bouteloua dactyloides 'Sharps Improved'",
+    "category": "cover-crop",
+    "subcategory": "turfgrass",
+    "days_to_germination": {
+      "min": 14,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 100
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 6
+      },
+      "note": "Sow primed seed at 2-3 lbs per 1,000 sq ft once soil is reliably above 65 degrees F; Sharps Improved was selected by Sharp Brothers Seed Company from western Kansas ecotypes for better density and color than common wild-collected buffalograss seed."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 3,
+      "max": 6
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Sharps Improved was selected by Sharp Brothers Seed Company of Healy, Kansas from native western Kansas ecotypes for noticeably better turf density and deeper green color than unselected common buffalograss seed, and it was among the earliest widely marketed improved buffalograss selections. It remains a staple for Kansas, Nebraska, Oklahoma, and Colorado lawns where minimal irrigation and fertilizer are priorities, and its seed is typically primed to break natural dormancy and speed germination. Because it is seed-propagated and dioecious, expect visible seed heads and slightly more variability in the stand than with seedless vegetative selections like Legacy or 609. Mow occasionally at 2 to 3 inches through the growing season, and expect it to go dormant and tan-colored with the first hard frost.",
+    "sources": [
+      "Sharp Bros. Seed Company — Sharp's Improved II Buffalograss",
+      "Kansas State University Research and Extension — Historic Buffalo Grass Publications",
+      "University of Nebraska-Lincoln Turfgrass Science"
+    ]
+  },
+  {
+    "slug": "tatanka-buffalograss",
+    "common_name": "Tatanka Buffalograss (Fine-Textured Cold-Hardy Seeded Turf Cultivar)",
+    "scientific_name": "Bouteloua dactyloides 'Tatanka'",
+    "category": "cover-crop",
+    "subcategory": "turfgrass",
+    "days_to_germination": {
+      "min": 14,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 100
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 6
+      },
+      "note": "Sow treated seed at 2-3 lbs per 1,000 sq ft once soil is reliably above 65 degrees F; Tatanka was released in 1995 by the University of Nebraska and the Native Turf Group as the first true turf-type seeded buffalograss bred specifically for the cool temperate and transition zones."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 8
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 3,
+      "max": 5
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Tatanka was released in 1995 through cooperative work between the University of Nebraska and the Native Turf Group as the first seeded buffalograss bred specifically for the cooler, northern edge of the buffalograss range, where it out-performs older selections for density, fine texture, and dark blue-green color. Its female flowers sit close to the ground, keeping the canopy visually cleaner than older seeded types, and it shows improved leaf spot resistance along with strong recovery and early spring green-up. Because it is adapted to a shorter growing season, Tatanka goes dormant earlier in fall than southern-adapted buffalograss cultivars, which in turn contributes to its superior winter hardiness. Mow at 3 to 4 inches occasionally through summer, or leave unmowed as a low, naturalized lawn on the northern plains.",
+    "sources": [
+      "University of Nebraska-Lincoln Turfgrass Science — Buffalograss Breeding Program",
+      "Oklahoma Crop Improvement Association — Tatanka Buffalograss",
+      "Colorado State University Extension"
+    ]
+  },
+  {
+    "slug": "topgun-buffalograss",
+    "common_name": "Topgun Buffalograss (Early Green-Up Late-Dormancy Seeded Turf Cultivar)",
+    "scientific_name": "Bouteloua dactyloides 'Topgun'",
+    "category": "cover-crop",
+    "subcategory": "turfgrass",
+    "days_to_germination": {
+      "min": 14,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 100
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 6
+      },
+      "note": "Sow treated seed at 2-3 lbs per 1,000 sq ft once soil is reliably above 65 degrees F; Topgun is a Nebraska-bred seeded buffalograss valued for good color, low water use, and a notably longer green season than older seeded selections."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 3,
+      "max": 6
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Topgun is a seeded turf-type buffalograss selected for earlier spring green-up and later fall dormancy than older cultivars such as Texoka, giving it a longer visually green season without sacrificing the species' extreme drought tolerance. It spreads by both seed and surface stolons to form a sod-forming, low-growing stand that needs only occasional mowing, and it holds good color through summer heat with minimal irrigation. Like other buffalograss cultivars it has poor shade tolerance and struggles on deep sandy soils, performing best on the loam and clay-loam soils typical of the Great Plains. Reserve it for full-sun lawns, parks, and roadside plantings where low water and fertilizer inputs matter more than a fine, manicured texture.",
+    "sources": [
+      "Wildseed Farms — Topgun Buffalograss",
+      "Colorado State University Extension — Buffalograss Lawns",
+      "University of Nebraska-Lincoln Turfgrass Science"
+    ]
+  },
+  {
+    "slug": "plains-buffalograss",
+    "common_name": "Plains Buffalograss (Classic Seeded Ecotype Turf and Rangeland Cultivar)",
+    "scientific_name": "Bouteloua dactyloides 'Plains'",
+    "category": "cover-crop",
+    "subcategory": "turfgrass",
+    "days_to_germination": {
+      "min": 14,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 100
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 6
+      },
+      "note": "Sow seed at 2-4 lbs per 1,000 sq ft once soil is reliably above 65 degrees F; Plains is a long-established seeded ecotype selection grouped with Bison, Cody, Bowie, and Topgun as a standard turf-quality buffalograss for the central and southern Great Plains."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 24
+    },
+    "height_in": {
+      "min": 4,
+      "max": 7
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Plains is a long-standing seeded buffalograss selection developed from Great Plains ecotype collections, valued for producing an acceptable turf-quality lawn from economical direct-seeded establishment rather than sod or plugs. It has been evaluated for decades alongside Bison, Cody, Bowie, and Topgun as one of the reliable, widely available turf-type seeded buffalograss cultivars for Kansas, Nebraska, Colorado, and the Texas Panhandle. Like other buffalograss selections it needs minimal water and virtually no fertilizer once established, tolerating summer heat and extended drought far better than cool-season turf. Mow at 3 to 5 inches occasionally through the season, or let it grow unmowed for a relaxed, naturalized look on rangeland and low-input home lawns alike.",
+    "sources": [
+      "University of Nebraska-Lincoln Turfgrass Science",
+      "Colorado State University Extension — Buffalograss Lawns",
+      "USDA Natural Resources Conservation Service — Plant Fact Sheet: Buffalograss"
+    ]
+  },
+  {
+    "slug": "midget-buffalograss",
+    "common_name": "Midget Buffalograss (Ultra-Dwarf Low-Mow Vegetative Turf Cultivar)",
+    "scientific_name": "Bouteloua dactyloides 'Midget'",
+    "category": "cover-crop",
+    "subcategory": "turfgrass",
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 120
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "warm",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 8
+      },
+      "note": "Establish from plugs or sod (not seed, as Midget is a vegetatively propagated female clone) once soil is reliably above 70 degrees F; Midget is one of the University of Nebraska's original vegetative buffalograss selections, grouped with 609, Legacy, and Density but distinguished by an exceptionally low, dwarf growth habit."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 12
+    },
+    "height_in": {
+      "min": 2,
+      "max": 3
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Midget is one of the earliest vegetatively propagated buffalograss selections to come out of the University of Nebraska turfgrass breeding program, prized for an unusually short, dwarf growth habit that stays visibly lower than sibling selections like 609 or Legacy without mowing. As a seedless female clone it must be established from plugs or sod rather than seed, but the payoff is a tighter, more uniform-looking turf with reduced need for regular cutting. It shares the extreme drought and low-fertility tolerance of the species, thriving on minimal water once its stolons have knit together, and it holds up well to heat and full-sun exposure across the Great Plains. Because of its slow lateral spread from plugs, budget extra time and consistent early watering for a Midget lawn to fill in completely.",
+    "sources": [
+      "University of Nebraska-Lincoln Turfgrass Science — Buffalograss Breeding Program",
+      "University of California Riverside Turfgrass Research — Seeded vs. Vegetative Buffalograss",
+      "Colorado State University Extension"
+    ]
+  },
+  {
+    "slug": "cardinal-ii-creeping-red-fescue",
+    "common_name": "Cardinal II Creeping Red Fescue (Dark Green Disease-Resistant Turf Cultivar)",
+    "scientific_name": "Festuca rubra subsp. rubra 'Cardinal II'",
+    "category": "cover-crop",
+    "subcategory": "turfgrass",
+    "days_to_germination": {
+      "min": 10,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 55,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 100
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -6,
+        "max": -2
+      },
+      "note": "Sow at 4-5 lbs per 1,000 sq ft in late summer to early fall in well-drained soil; Cardinal II is a strong creeping red fescue that has topped NTEP trials for dark green color and disease resistance while tolerating close mowing better than most fine fescues."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 7
+    },
+    "spacing_in": {
+      "min": 1,
+      "max": 2
+    },
+    "height_in": {
+      "min": 4,
+      "max": 10
+    },
+    "spread_in": {
+      "min": 6,
+      "max": 12
+    },
+    "sun": "partial",
+    "water": "low",
+    "directions": "Cardinal II is a strong creeping red fescue that has ranked at or near the top of National Turfgrass Evaluation Program trials for overall turf quality, combining a dark green color with unusually strong resistance to red thread, dollar spot, and summer patch. Unlike Chewings or hard fescue bunch types, it spreads slowly by short rhizomes, giving it some ability to self-repair thin spots, and it tolerates lower mowing heights than many fine fescues, making it suitable for fairway-height turf as well as home lawns. It shows good salt tolerance and holds quality reasonably well in both full sun and light to moderate shade, though like all fine fescues it prefers cool weather and struggles through hot, humid summers. Sow in early fall into a well-prepared bed and keep consistently moist through germination for the best stand establishment.",
+    "sources": [
+      "NTEP National Turfgrass Evaluation Program — Fine Fescue Variety Trials",
+      "Ernst Seeds — Cardinal II Creeping Red Fescue",
+      "Oregon State University Extension — Turfgrass Seed Production"
+    ]
+  },
+  {
+    "slug": "ambassador-chewings-fescue",
+    "common_name": "Ambassador Chewings Fescue (Drought-Recovering Fine-Bladed Turf Cultivar)",
+    "scientific_name": "Festuca rubra subsp. commutata 'Ambassador'",
+    "category": "cover-crop",
+    "subcategory": "turfgrass",
+    "days_to_germination": {
+      "min": 10,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 55,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 100
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -6,
+        "max": -2
+      },
+      "note": "Sow at 4-5 lbs per 1,000 sq ft in late summer to early fall in well-drained soil; Ambassador is a long-standing Chewings fescue cultivar valued in NTEP trials for retaining color through drought and recovering well once moisture returns."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 7
+    },
+    "spacing_in": {
+      "min": 1,
+      "max": 2
+    },
+    "height_in": {
+      "min": 4,
+      "max": 10
+    },
+    "spread_in": {
+      "min": 1,
+      "max": 2
+    },
+    "sun": "partial",
+    "water": "low",
+    "directions": "Ambassador is a widely grown Chewings fescue cultivar that has repeatedly demonstrated the ability to hold turf color through extended dry spells and to bounce back quickly once rain or irrigation resumes, a trait confirmed across multiple National Turfgrass Evaluation Program test cycles. Its narrow, upright leaf blades and bunch-type growth habit give it a fine, uniform texture that blends well with other fine fescues and low-input cool-season lawn mixes. It handles dry shade and infertile soils notably better than Kentucky bluegrass, making it a mainstay of no-mow and low-maintenance seed blends across the northern half of the country. Sow in early fall, keep the seedbed consistently moist until germination, and expect summer dormancy under prolonged heat rather than year-round green color.",
+    "sources": [
+      "NTEP National Turfgrass Evaluation Program — Fine Fescue Variety Trials",
+      "Oregon Department of Agriculture — Varieties Eligible for Certification",
+      "University of Tennessee Extension — Turfgrass Selection"
+    ]
+  },
+  {
+    "slug": "bridgeport-ii-chewings-fescue",
+    "common_name": "Bridgeport II Chewings Fescue (High-Vigor Dense Shade-Tolerant Turf Cultivar)",
+    "scientific_name": "Festuca rubra subsp. commutata 'Bridgeport II'",
+    "category": "cover-crop",
+    "subcategory": "turfgrass",
+    "days_to_germination": {
+      "min": 10,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 55,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 100
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -6,
+        "max": -2
+      },
+      "note": "Sow at 4-5 lbs per 1,000 sq ft in late summer to early fall; Bridgeport II is a Barenbrug Chewings fescue release noted for excellent seedling vigor, fast spring green-up, and some of the highest overall NTEP turf-quality ratings among Chewings fescue cultivars."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 7
+    },
+    "spacing_in": {
+      "min": 1,
+      "max": 2
+    },
+    "height_in": {
+      "min": 4,
+      "max": 10
+    },
+    "spread_in": {
+      "min": 1,
+      "max": 2
+    },
+    "sun": "shade",
+    "water": "low",
+    "directions": "Bridgeport II is a modern Chewings fescue cultivar from Barenbrug bred for exceptional seedling vigor, letting it establish a fine, very dense stand faster than many older Chewings fescue selections. It has rated among the highest-scoring Chewings fescues for overall turf quality in recent National Turfgrass Evaluation Program trials, combining medium-dark color with strong tolerance of shade, cold winters, and low-input management such as reduced fertility and infrequent mowing. Like other fine fescues it is a non-spreading bunchgrass, so overseed thin or worn areas rather than waiting for lateral fill-in, and expect it to thrive in the cooler shoulder seasons while slowing through summer heat. It is a strong component for shaded home lawns and low-maintenance seed blends from the transition zone northward.",
+    "sources": [
+      "Barenbrug USA — Bridgeport II Chewings Fescue Technical Sheet",
+      "NTEP National Turfgrass Evaluation Program — Fine Fescue Variety Trials",
+      "Oregon Department of Agriculture — Varieties Eligible for Certification"
+    ]
+  },
+  {
+    "slug": "intrigue-chewings-fescue",
+    "common_name": "Intrigue Chewings Fescue (Enhanced Weed-Suppressing Turf Cultivar)",
+    "scientific_name": "Festuca rubra subsp. commutata 'Intrigue'",
+    "category": "cover-crop",
+    "subcategory": "turfgrass",
+    "days_to_germination": {
+      "min": 10,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 55,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 100
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -6,
+        "max": -2
+      },
+      "note": "Sow at 4-5 lbs per 1,000 sq ft in late summer to early fall; Intrigue is a high-endophyte Chewings fescue from Turf Merchants bred for natural weed suppression and improved performance across sun, shade, and drought conditions."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 7
+    },
+    "spacing_in": {
+      "min": 1,
+      "max": 2
+    },
+    "height_in": {
+      "min": 4,
+      "max": 10
+    },
+    "spread_in": {
+      "min": 1,
+      "max": 2
+    },
+    "sun": "partial",
+    "water": "low",
+    "directions": "Intrigue is a modern Chewings fescue cultivar bred by Turf Merchants to keep the fine leaf texture and upright growth habit that define the type while pushing performance further in sun, shade, and drought than older Chewings selections. Its high natural endophyte content contributes both to insect resistance and to a mild allelopathic effect that helps the stand naturally suppress weed encroachment, reducing herbicide dependence in low-input lawns. It establishes readily from seed and blends well with other fine fescues, hard fescue, or low-maintenance turf mixes intended for infrequent mowing. As with all Chewings fescue, expect a non-spreading bunch habit that requires overseeding to repair bare patches, and summer dormancy under sustained heat and drought stress.",
+    "sources": [
+      "Turf Merchants — Intrigue Chewings Fescue",
+      "NTEP National Turfgrass Evaluation Program — Fine Fescue Variety Trials",
+      "Oregon State University Extension — Turfgrass Seed Production"
+    ]
+  },
+  {
+    "slug": "longfellow-ii-chewings-fescue",
+    "common_name": "Longfellow II Chewings Fescue (Improved Disease-Resistant Turf Cultivar)",
+    "scientific_name": "Festuca rubra subsp. commutata 'Longfellow II'",
+    "category": "cover-crop",
+    "subcategory": "turfgrass",
+    "days_to_germination": {
+      "min": 10,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 55,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 100
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -6,
+        "max": -2
+      },
+      "note": "Sow at 4-5 lbs per 1,000 sq ft in late summer to early fall; Longfellow II is an improved successor to the original Longfellow Chewings fescue, recommended in Virginia and other regional variety trials for retaining color through drought and recovering well afterward."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 7
+    },
+    "spacing_in": {
+      "min": 1,
+      "max": 2
+    },
+    "height_in": {
+      "min": 4,
+      "max": 10
+    },
+    "spread_in": {
+      "min": 1,
+      "max": 2
+    },
+    "sun": "partial",
+    "water": "low",
+    "directions": "Longfellow II is an improved successor to the original Longfellow Chewings fescue, bred to keep the type's fine texture and shade tolerance while adding better disease resistance and drought recovery, and it appears on multiple state cooperative extension recommended-variety lists for cool-season lawns. It forms a dense, upright, bunch-type stand well suited to shaded lawns under trees where Kentucky bluegrass and tall fescue thin out, and it tolerates low fertility and infrequent mowing better than most turf species. Its main limitation is the same one shared by all fine fescues: it does not spread to repair damage, so overseeding thin or worn patches is necessary rather than optional. Sow in early fall into a well-prepared bed, keep evenly moist through germination, and expect the best long-term performance in cooler, humid-summer climates rather than the deep South.",
+    "sources": [
+      "Virginia Cooperative Extension — Recommended Lawn Grass Varieties",
+      "NTEP National Turfgrass Evaluation Program — Fine Fescue Variety Trials",
+      "Rutgers University Turfgrass Program"
+    ]
+  },
+  {
+    "slug": "treasure-chewings-fescue",
+    "common_name": "Treasure Chewings Fescue (Drought-Recovering Shade-Tolerant Turf Cultivar)",
+    "scientific_name": "Festuca rubra subsp. commutata 'Treasure'",
+    "category": "cover-crop",
+    "subcategory": "turfgrass",
+    "days_to_germination": {
+      "min": 10,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 55,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 100
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -6,
+        "max": -2
+      },
+      "note": "Sow at 4-5 lbs per 1,000 sq ft in late summer to early fall in well-drained soil; Treasure is a Chewings fescue cultivar recognized in NTEP trials for holding color through drought stress and recovering well once moisture returns."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 7
+    },
+    "spacing_in": {
+      "min": 1,
+      "max": 2
+    },
+    "height_in": {
+      "min": 4,
+      "max": 10
+    },
+    "spread_in": {
+      "min": 1,
+      "max": 2
+    },
+    "sun": "shade",
+    "water": "low",
+    "directions": "Treasure is a Chewings fescue cultivar valued for a fine, dense, upright growth habit and for holding acceptable color through dry spells better than many older fine fescue selections, then greening back up promptly once rainfall or irrigation resumes. It handles shaded sites, especially dry shade under mature trees, notably better than Kentucky bluegrass or perennial ryegrass, making it a frequent component of shade-tolerant lawn seed mixes across the cool-season turf zone. It thrives on lean, low-fertility soils and needs comparatively little nitrogen to stay healthy, though excess fertilizer and frequent watering can invite disease and thatch. As a bunch-type grass it will not spread to fill in bare spots on its own, so plan on periodic overseeding to maintain a uniform stand.",
+    "sources": [
+      "NTEP National Turfgrass Evaluation Program — Fine Fescue Variety Trials",
+      "Oregon Department of Agriculture — Varieties Eligible for Certification",
+      "University of Minnesota Extension — Fine Fescue Lawns"
+    ]
+  },
+  {
+    "slug": "brittany-chewings-fescue",
+    "common_name": "Brittany Chewings Fescue (Classic Fine-Bladed Shade Turf Cultivar)",
+    "scientific_name": "Festuca rubra subsp. commutata 'Brittany'",
+    "category": "cover-crop",
+    "subcategory": "turfgrass",
+    "days_to_germination": {
+      "min": 10,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 55,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 100
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -6,
+        "max": -2
+      },
+      "note": "Sow at 4-5 lbs per 1,000 sq ft in late summer to early fall; Brittany is a long-established Chewings fescue cultivar still listed among varieties eligible for certified seed production, prized for fine texture and reliable shade performance."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 7
+    },
+    "spacing_in": {
+      "min": 1,
+      "max": 2
+    },
+    "height_in": {
+      "min": 4,
+      "max": 10
+    },
+    "spread_in": {
+      "min": 1,
+      "max": 2
+    },
+    "sun": "shade",
+    "water": "low",
+    "directions": "Brittany is a long-standing Chewings fescue cultivar that has remained in commercial seed production for decades thanks to its fine leaf texture, dense bunch-type habit, and dependable performance in shaded lawn sites. It tolerates infertile, acidic soils and low mowing frequency far better than Kentucky bluegrass, making it a common ingredient in low-maintenance and shade-mix lawn seed blends throughout the cool-season turf zone. Newer cultivars such as Bridgeport II and Intrigue have since surpassed it on some National Turfgrass Evaluation Program quality metrics, but Brittany remains a dependable, widely available standard, especially in blends. Sow in early fall, keep the seedbed evenly moist through germination, and expect it to go semi-dormant in the heat of summer before recovering with cooler fall weather.",
+    "sources": [
+      "Oregon Department of Agriculture — Varieties Eligible for Certification",
+      "NTEP National Turfgrass Evaluation Program — Fine Fescue Variety Trials",
+      "University of Tennessee Extension — Turfgrass Selection"
+    ]
+  },
+  {
+    "slug": "guymon-bermudagrass",
+    "common_name": "Guymon Bermudagrass (Cold-Hardy Seeded Common-Type Turf Cultivar)",
+    "scientific_name": "Cynodon dactylon 'Guymon'",
+    "category": "cover-crop",
+    "subcategory": "turfgrass",
+    "days_to_germination": {
+      "min": 10,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 95
+    },
+    "days_to_maturity": {
+      "min": 45,
+      "max": 75
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 8
+      },
+      "note": "Broadcast hulled seed at 1-2 lbs per 1,000 square feet once soil is reliably above 65 degrees F; Guymon was released by Oklahoma State University in 1982 as the first seed-propagated bermudagrass bred specifically for better winter hardiness at northern latitudes than Arizona- or California-grown common bermuda seed."
+    },
+    "usda_zones": {
+      "min": 6,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 1,
+      "max": 1
+    },
+    "height_in": {
+      "min": 1,
+      "max": 2
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Guymon was released by Oklahoma State University in 1982 as the first bermudagrass seed source specifically bred and produced for improved winter survival at the northern edge of the bermudagrass range, marking a shift in seed production away from the warm-winter fields of Arizona and California toward Oklahoma. It can be seeded as late as mid-July without seriously compromising its first-winter survival, giving it useful planting flexibility compared with many other seeded selections. Its medium-coarse texture and moderate density produce an acceptable, workmanlike lawn rather than a refined, fine-bladed one, making it best suited to utility turf, roadsides, and economical home lawns rather than golf greens. Mow regularly at 1 to 2 inches through the growing season and expect the typical straw-brown bermudagrass dormancy after the first hard freeze.",
+    "sources": [
+      "Oklahoma State University Extension — Choosing, Establishing, and Managing Bermudagrass Varieties in Oklahoma",
+      "USGA Green Section Record — A Turfgrass Timeline: The History of Bermudagrass Breeding",
+      "Texas A&M AgriLife Extension"
+    ]
+  },
+  {
+    "slug": "blackjack-bermudagrass",
+    "common_name": "Blackjack Bermudagrass (Dark Green Fast-Germinating Seeded Turf Cultivar)",
+    "scientific_name": "Cynodon dactylon 'Blackjack'",
+    "category": "cover-crop",
+    "subcategory": "turfgrass",
+    "days_to_germination": {
+      "min": 7,
+      "max": 18
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 95
+    },
+    "days_to_maturity": {
+      "min": 45,
+      "max": 75
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 8
+      },
+      "note": "Broadcast hulled seed at 1-2 lbs per 1,000 square feet once soil is reliably above 65 degrees F; Blackjack germinates up to a week faster than many comparable seeded bermudagrasses and was evaluated in the National Bermudagrass Test alongside Sundevil, Cheyenne, and Sydney."
+    },
+    "usda_zones": {
+      "min": 6,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 1,
+      "max": 1
+    },
+    "height_in": {
+      "min": 1,
+      "max": 2
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Blackjack is a seeded common-type bermudagrass known for unsurpassed dark green color among seeded selections, along with a fine blade and dense, vigorous growth that fills in quickly through the hottest part of summer. It germinates noticeably faster than many comparable bermuda seed sources, cutting down the vulnerable establishment window, and it has placed among the higher-ranked seeded cultivars in multi-location National Turfgrass Evaluation Program trials. Its cold tolerance is considered good for a seeded common type, extending its useful range into the warmer end of the transition zone, and it holds up well to heat, drought, and moderate foot traffic once established. Mow regularly at 1 to 2 inches during the growing season and expect normal winter dormancy and straw-brown color after the first hard frost.",
+    "sources": [
+      "NTEP National Turfgrass Evaluation Program — Bermudagrass Variety Trials",
+      "Desert Sun Marketing — Blackjack Seeded Bermudagrass",
+      "Louisiana State University AgCenter — Seeded Turf-Type Bermudagrasses"
+    ]
+  },
+  {
+    "slug": "sundevil-bermudagrass",
+    "common_name": "Sundevil Bermudagrass (Darker Green Deeper-Rooted Seeded Turf Cultivar)",
+    "scientific_name": "Cynodon dactylon 'Sundevil'",
+    "category": "cover-crop",
+    "subcategory": "turfgrass",
+    "days_to_germination": {
+      "min": 10,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 95
+    },
+    "days_to_maturity": {
+      "min": 45,
+      "max": 75
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 8
+      },
+      "note": "Broadcast hulled seed at 1-2 lbs per 1,000 square feet once soil is reliably above 65 degrees F; Sundevil is an improved common-type seeded bermudagrass evaluated in the National Bermudagrass Test and later succeeded by the widely sold Sundevil II selection."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 1,
+      "max": 1
+    },
+    "height_in": {
+      "min": 1,
+      "max": 2
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Sundevil is an improved common-type seeded bermudagrass bred for a darker green color, deeper root system, and moderately denser, less coarse canopy than unimproved common bermuda, positioning it as a general-purpose turf choice for lawns, parks, roadsides, and golf course roughs. It was evaluated in the National Bermudagrass Test alongside contemporaries like Cheyenne, Guymon, and Blackjack, and its overall turf performance is considered solid though not equal to fine-textured hybrids like Tifway. A later selection, Sundevil II, built on the original with further improvements and is now the more commonly sold seed source, though the original Sundevil name remains historically documented in regional variety trials. Sow into a firm, weed-free seedbed in late spring, irrigate lightly and frequently until established, and expect the typical drought tolerance and full-sun requirement common to all bermudagrass.",
+    "sources": [
+      "Louisiana State University AgCenter — Seeded Turf-Type Bermudagrasses",
+      "Texas A&M AgriLife Extension — Bermudagrass Varieties, Hybrids and Blends for Texas",
+      "Clemson Cooperative Extension — Bermudagrass"
+    ]
+  },
+  {
+    "slug": "cheyenne-bermudagrass",
+    "common_name": "Cheyenne Bermudagrass (Cold-Hardy Improved Common Seeded Turf Cultivar)",
+    "scientific_name": "Cynodon dactylon 'Cheyenne'",
+    "category": "cover-crop",
+    "subcategory": "turfgrass",
+    "days_to_germination": {
+      "min": 10,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 95
+    },
+    "days_to_maturity": {
+      "min": 45,
+      "max": 60
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 8
+      },
+      "note": "Broadcast hulled seed at 1-2 lbs per 1,000 square feet once soil is reliably above 65 degrees F; Cheyenne is an improved common-type seeded bermudagrass with cold tolerance rated on par with Coastal and better than Tifton 85, allowing use as far north as the Transition Zone."
+    },
+    "usda_zones": {
+      "min": 6,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 1,
+      "max": 1
+    },
+    "height_in": {
+      "min": 1,
+      "max": 2
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Cheyenne is an improved common-type seeded bermudagrass, darker green and moderately denser than unimproved common bermuda, that establishes quickly and provides full cover in as little as 45 to 60 days under good growing conditions. Its cold tolerance is rated on par with the well-regarded forage cultivar Coastal and notably better than Tifton 85, making it a workable choice for Transition Zone states such as Arkansas, Kansas, Missouri, Oklahoma, and Tennessee in addition to the traditional bermudagrass belt further south. A later Cheyenne II selection has since become the more common commercial seed source, but the original Cheyenne remains a well-documented entry from decades of regional variety trials. Sow into a firm, weed-free seedbed in late spring, water lightly and often until germination, and expect vigorous summer growth and full winter dormancy typical of seeded bermudagrass.",
+    "sources": [
+      "Texas A&M AgriLife Extension — Bermudagrass Varieties, Hybrids and Blends for Texas",
+      "Alabama Cooperative Extension System — Bermudagrass in Alabama",
+      "NC State Extension — Bermudagrass Production in North Carolina"
+    ]
+  },
+  {
+    "slug": "cobalt-st-augustine-grass",
+    "common_name": "Cobalt St. Augustine Grass (Drought-Resistant Disease-Tolerant Hybrid Lawn Grass)",
+    "scientific_name": "Stenotaphrum secundatum 'Cobalt'",
+    "category": "cover-crop",
+    "subcategory": "turfgrass",
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 95
+    },
+    "days_to_maturity": {
+      "min": 30,
+      "max": 60
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "warm",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 8
+      },
+      "note": "Establish from sod or plugs (not seed) once soil is consistently above 70 degrees F; Cobalt is a 2021 Texas A&M AgriLife hybrid release, bred with embryo-rescue technology and licensed to Sod Solutions, that combines exceptional drought resistance with breakthrough resistance to gray leaf spot and brown patch."
+    },
+    "usda_zones": {
+      "min": 8,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 24
+    },
+    "height_in": {
+      "min": 3,
+      "max": 5
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 24
+    },
+    "sun": "partial",
+    "water": "low",
+    "directions": "Cobalt is a hybrid St. Augustine grass released by Texas A&M AgriLife Research in 2021 after nearly two decades of breeding work using embryo-rescue technology to combine drought and pest resistance from one parent with deep color, cold hardiness, and shade tolerance from the other. It rates as one of the most drought-resistant St. Augustine selections yet developed, needing meaningfully less supplemental irrigation than Floratam to hold acceptable color and density through summer heat. Cobalt also brings breakthrough resistance to gray leaf spot and brown patch, two diseases that plague standard St. Augustine cultivars in humid climates, cutting down on fungicide inputs considerably. Its dark green color, wide leaf blades, and vigorous stolons combine very good shade tolerance with winter hardiness to roughly zone 8a, broadening its range beyond the traditional Gulf Coast core of Floratam country. Mow at 3 to 4 inches and avoid excess nitrogen, which increases thatch and disease pressure in all St. Augustine cultivars.",
+    "sources": [
+      "Texas A&M AgriLife Today — Cobalt St. Augustine Ready for Production",
+      "Sod Solutions — Cobalt Hybrid St. Augustine for the Gulf Coast",
+      "Landscape Management — Texas A&M AgriLife Research Releases Cobalt Hybrid St. Augustinegrass"
+    ]
+  }
+]

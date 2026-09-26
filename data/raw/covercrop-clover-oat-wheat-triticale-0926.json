@@ -1,0 +1,607 @@
+[
+  {
+    "slug": "duration-red-clover",
+    "common_name": "Duration Red Clover (Long-Persisting Multi-Cut Forage and Cover Crop Clover)",
+    "scientific_name": "Trifolium pratense 'Duration'",
+    "category": "cover-crop",
+    "subcategory": "legume",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 40,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 90
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -4
+      },
+      "note": "Sow 4-8 weeks before first fall frost, or frost-seed into standing small grain in late winter; Duration is a European-bred red clover selected for stand longevity, holding productive density into a third harvest year when many other red clover cultivars are already thinning."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 8
+    },
+    "spacing_in": {
+      "min": 1,
+      "max": 2
+    },
+    "height_in": {
+      "min": 14,
+      "max": 26
+    },
+    "spread_in": {
+      "min": 6,
+      "max": 12
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Duration is a diploid red clover bred in Europe and marketed through several North American forage seed dealers specifically for the persistence that gives the cultivar its name, remaining a dense, productive stand into a third growing season when older red clover types such as Mammoth are already declining. Broadcast or drill inoculated seed onto a firm seedbed in late summer or early fall, or frost-seed into a thin stand of winter grain in late winter, and expect vigorous regrowth after each cutting or grazing pass through the following one to two seasons. Its strong regrowth vigor after mowing makes it well suited to a hay-and-cover-crop rotation where growers want more than a single season of nitrogen fixation and biomass from one seeding. Terminate at early bloom for maximum nitrogen release, or continue mowing through additional seasons to capture its extended productive life.",
+    "sources": [
+      "DLF Seeds — Red Clover Variety Portfolio",
+      "King's AgriSeeds — Red Clover Variety Notes",
+      "University of Wisconsin Team Forage — Red Clover Variety Trial Results"
+    ]
+  },
+  {
+    "slug": "renegade-red-clover",
+    "common_name": "Renegade Red Clover (Disease-Resistant Widely Adapted Forage Clover)",
+    "scientific_name": "Trifolium pratense 'Renegade'",
+    "category": "cover-crop",
+    "subcategory": "legume",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 40,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 90
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -4
+      },
+      "note": "Sow 4-8 weeks before first fall frost, or frost-seed into thin pasture or a small grain nurse crop in late winter; Renegade is a diploid red clover bred for broad regional adaptability and improved resistance to anthracnose and powdery mildew."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 8
+    },
+    "spacing_in": {
+      "min": 1,
+      "max": 2
+    },
+    "height_in": {
+      "min": 14,
+      "max": 24
+    },
+    "spread_in": {
+      "min": 6,
+      "max": 12
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Renegade is a diploid red clover cultivar bred for broad regional adaptability and improved resistance to the northern and southern anthracnose and powdery mildew pathogens that can thin out less disease-resistant red clover stands by the second year. Broadcast or drill inoculated seed onto a firm seedbed in late summer or early fall, or frost-seed into thin pasture or a small grain nurse crop in late winter, and expect quick establishment and a full canopy within the first season. Its rapid regrowth after cutting or grazing makes it a reliable choice in mixed hay stands as well as straight cover crop plantings aimed at nitrogen fixation and weed suppression. Mow at early bloom to capture maximum nitrogen for a following cash crop, or continue cutting through the season where forage value is also wanted.",
+    "sources": [
+      "Welter Seed and Honey Company — Renegade Red Clover",
+      "La Crosse Seed — Red Clover Variety Guide",
+      "University of Kentucky Cooperative Extension — Red Clover"
+    ]
+  },
+  {
+    "slug": "wintermore-red-clover",
+    "common_name": "Wintermore Red Clover (Extreme Cold-Hardy Northern Forage Clover)",
+    "scientific_name": "Trifolium pratense 'Wintermore'",
+    "category": "cover-crop",
+    "subcategory": "legume",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 40,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 90
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {
+        "min": -10,
+        "max": -6
+      },
+      "note": "Sow on the early side of the fall clover window so seedlings build strong root reserves before deep winter cold; Wintermore was selected in eastern Canada for exceptional winterhardiness, making it one of the few red clover cultivars reliable as far north as USDA zone 3."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 7
+    },
+    "spacing_in": {
+      "min": 1,
+      "max": 2
+    },
+    "height_in": {
+      "min": 12,
+      "max": 22
+    },
+    "spread_in": {
+      "min": 6,
+      "max": 10
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Wintermore is a red clover cultivar selected in eastern Canada specifically for exceptional winterhardiness, surviving conditions that kill many standard red clover stands and making it one of the few red clover options reliable for cover cropping as far north as USDA zone 3. Sow in late summer on the earlier side of the typical red clover window so seedlings have extra time to build a strong crown and root reserves before deep winter cold sets in. Spring regrowth is vigorous once soils warm, providing solid nitrogen fixation and biomass even in short-season northern rotations where later-sown legume covers often fail to establish fully before frost. Mow or incorporate at early bloom for maximum nitrogen credit, keeping in mind that cold-region stands may flower later than the same cultivar grown farther south.",
+    "sources": [
+      "Quebec Ministry of Agriculture (MAPAQ) — Forage Legume Variety Trials",
+      "University of Vermont Extension — Cover Crops for Cold Climates",
+      "SARE — Managing Cover Crops Profitably"
+    ]
+  },
+  {
+    "slug": "will-white-clover",
+    "common_name": "Will White Clover (Reseeding Large-Leaf Ladino for the Humid South)",
+    "scientific_name": "Trifolium repens 'Will'",
+    "category": "cover-crop",
+    "subcategory": "legume",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 45,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 90
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": 0
+      },
+      "note": "Sow in fall or very early spring; Will is a large-leaf ladino-type white clover bred at a Southern land-grant program to reseed reliably under the grazing and mowing pressure typical of Gulf South pasture and cover crop systems."
+    },
+    "usda_zones": {
+      "min": 6,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 2,
+      "max": 4
+    },
+    "height_in": {
+      "min": 6,
+      "max": 10
+    },
+    "spread_in": {
+      "min": 8,
+      "max": 14
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Will is a large-leaf ladino-type white clover released by a Southern land-grant breeding program specifically to improve natural reseeding under the grazing and mowing pressure common in Gulf South pasture and cover crop systems, where many ladino types fail to set enough seed to carry a stand into future years without replanting. Broadcast seed onto a firm, weed-free seedbed in fall or very early spring, since it germinates readily in cool soil and establishes faster than many perennial pasture legumes. Its larger leaf size and stolon spread give it strong ground coverage and weed suppression for a white clover, while its reseeding ability lets stands persist through Southern summers that often stress or kill straight perennial ladino types. Include it in a fall cover crop or pasture mix where growers want the nitrogen-fixing benefits of ladino clover without needing to reseed every one to two years.",
+    "sources": [
+      "Mississippi State University Extension — White Clover Variety Development",
+      "USDA Natural Resources Conservation Service — White Clover Plant Guide",
+      "SARE — Managing Cover Crops Profitably"
+    ]
+  },
+  {
+    "slug": "regal-ladino-clover",
+    "common_name": "Regal Ladino Clover (Classic Large-Type Giant White Clover)",
+    "scientific_name": "Trifolium repens 'Regal'",
+    "category": "cover-crop",
+    "subcategory": "legume",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 45,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 90
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": 0
+      },
+      "note": "Sow in fall or early spring, ideally into a companion grass or small grain; Regal is an older large-type ladino white clover selected for maximum forage tonnage rather than close-grazing persistence."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 2,
+      "max": 4
+    },
+    "height_in": {
+      "min": 8,
+      "max": 14
+    },
+    "spread_in": {
+      "min": 10,
+      "max": 16
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Regal is an older large-type ladino white clover cultivar, one of the giant-leaved selections developed in the mid-20th century to boost the forage tonnage and nitrogen-fixing capacity of white clover well beyond common Dutch and wild types. Broadcast seed onto a firm seedbed in fall or early spring, ideally into a companion grass or small grain, since its taller, more open growth habit benefits from some structural support compared with low-growing white clover types. It produces substantially more above-ground biomass per plant than common white clover, translating into more nitrogen fixed and more organic matter returned to the soil, but it is generally less persistent under close, continuous grazing than modern grazing-bred cultivars. Use it where the goal is maximum clover biomass in a hay, silage, or cover crop planting rather than a permanent, traffic-tolerant pasture sward.",
+    "sources": [
+      "USDA Natural Resources Conservation Service — White Clover Plant Guide",
+      "Oregon State University Extension — Clover Species for Western Oregon",
+      "SARE — Managing Cover Crops Profitably"
+    ]
+  },
+  {
+    "slug": "horsepower-oat",
+    "common_name": "Horsepower Oat (High-Tillering High-Biomass Forage and Cover Crop Oat)",
+    "scientific_name": "Avena sativa 'Horsepower'",
+    "category": "cover-crop",
+    "subcategory": "winter annual cover/forage cereal",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 45,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 90
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -2
+      },
+      "note": "Drill in late summer to early fall for cover and grazing, or very early spring as a quick companion to frost-seeded legumes; Horsepower is a forage oat bred for unusually heavy tillering and rapid early biomass accumulation."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 2,
+      "max": 4
+    },
+    "height_in": {
+      "min": 34,
+      "max": 50
+    },
+    "spread_in": {
+      "min": 6,
+      "max": 10
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Horsepower is a modern forage oat bred for unusually heavy tillering and rapid early biomass accumulation, marketed to cover crop and forage growers who want maximum tonnage from a single fall or spring oat seeding. Drill into a firm, fertile seedbed either in late summer for fall cover and grazing or in very early spring for a quick-growing companion to frost-seeded legumes, since the variety's fast canopy closure is particularly effective at smothering competing winter annual weeds. Its heavy stand density and thick stems make it a strong choice where growers want a mow-and-drop mulch or baleage cutting rather than just light soil armor, though that same density means it benefits from adequate fertility to avoid excessive lodging. Like other spring-type oats, it winterkills reliably in colder zones, simplifying spring termination without herbicide or tillage.",
+    "sources": [
+      "Legacy Seeds — Horsepower Forage Oats",
+      "La Crosse Seed — Cover Crop Oat Variety Guide",
+      "SARE — Managing Cover Crops Profitably"
+    ]
+  },
+  {
+    "slug": "everleaf-216-oat",
+    "common_name": "Everleaf 216 Oat (Extended-Vegetative Tall Forage and Cover Crop Oat)",
+    "scientific_name": "Avena sativa 'Everleaf 216'",
+    "category": "cover-crop",
+    "subcategory": "winter annual cover/forage cereal",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 45,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 100
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -2
+      },
+      "note": "Drill in late summer to early fall for cover cropping and fall grazing, or early spring in colder regions; Everleaf 216 is a taller, later-heading sibling of Everleaf 126 bred to stay vegetative even longer before flowering."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 2,
+      "max": 4
+    },
+    "height_in": {
+      "min": 40,
+      "max": 60
+    },
+    "spread_in": {
+      "min": 6,
+      "max": 10
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Everleaf 216 is a taller, later-heading sibling of the widely used Everleaf 126 forage oat, bred by the same program to stay vegetative even longer before flowering, which extends the harvest or grazing window still further and produces noticeably more standing biomass by the time it is finally cut or terminated. Drill in late summer to early fall for cover cropping and fall grazing, or in early spring in colder regions where a summer forage cut is wanted before a later cash crop; its delayed heading gives more flexibility in scheduling that cut than standard oat varieties allow. The extra height and leafiness make it a strong choice for growers stacking it with a fall-seeded legume such as crimson or berseem clover, since the oat's structure helps support and shade out weeds around the shorter companion legume. As a spring-type oat it winterkills in most temperate cover crop zones, leaving an easy-to-manage residue by planting time the following spring.",
+    "sources": [
+      "S&W Seed Company — Everleaf Forage Oat Product Line",
+      "King's AgriSeeds — Everleaf Oats Tech Sheet",
+      "Eastern Colorado Seed — Everleaf Oat Variety Comparison"
+    ]
+  },
+  {
+    "slug": "ernie-wheat",
+    "common_name": "Ernie Wheat (Forage-Type Soft Red Winter Wheat for Grazing and Cover Cropping)",
+    "scientific_name": "Triticum aestivum 'Ernie'",
+    "category": "cover-crop",
+    "subcategory": "grass",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 40,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 110
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {
+        "min": -6,
+        "max": -2
+      },
+      "note": "Drill in early to mid-fall, several weeks before the first hard freeze, so plants tiller heavily; Ernie is a University of Missouri soft red winter wheat prized in the mid-South for outstanding fall and winter forage production."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 7
+    },
+    "spacing_in": {
+      "min": 1,
+      "max": 2
+    },
+    "height_in": {
+      "min": 30,
+      "max": 42
+    },
+    "spread_in": {
+      "min": 4,
+      "max": 8
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Ernie is a soft red winter wheat released by the University of Missouri and prized in the mid-South specifically for outstanding fall and winter forage production, making it a favorite dual-purpose choice where growers want a grazable or mowable cover crop wheat rather than just ground cover. Drill into a firm seedbed in early to mid-fall, several weeks before the first hard freeze, so plants tiller heavily and build the dense leafy canopy the cultivar is known for. That vigorous tillering supports grazing or a forage cut in addition to normal cover crop benefits like weed suppression, erosion control, and scavenging of residual soil nitrogen, and the crop tolerates grazing or mowing well without losing stand vigor. Where grain is not wanted, terminate in spring at the boot to early-heading stage by mowing, crimping, or herbicide, well before the crop matures fully.",
+    "sources": [
+      "University of Missouri Extension — Ernie Wheat Variety Description",
+      "University of Arkansas Cooperative Extension — Wheat Variety Testing",
+      "SARE — Managing Cover Crops Profitably"
+    ]
+  },
+  {
+    "slug": "duster-wheat",
+    "common_name": "Duster Wheat (Southern Plains Grazing-Tolerant Hard Red Winter Wheat)",
+    "scientific_name": "Triticum aestivum 'Duster'",
+    "category": "cover-crop",
+    "subcategory": "grass",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 40,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 110
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -2
+      },
+      "note": "Drill in early fall, on the earlier side of the typical wheat-sowing window, to maximize fall forage tonnage; Duster is an Oklahoma State University hard red winter wheat central to the southern Plains 'wheat pasture' grazing-and-grain system."
+    },
+    "usda_zones": {
+      "min": 6,
+      "max": 8
+    },
+    "spacing_in": {
+      "min": 1,
+      "max": 2
+    },
+    "height_in": {
+      "min": 24,
+      "max": 38
+    },
+    "spread_in": {
+      "min": 4,
+      "max": 8
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Duster is a hard red winter wheat released by Oklahoma State University and widely grown across the southern Plains 'wheat pasture' region, where a single fall planting is routinely used for both grazing cattle through winter and, if left ungrazed after a set graze-out date, a following grain harvest. Drill into a firm seedbed in early fall on the earlier side of the typical wheat-sowing window to maximize the fall forage tonnage available for grazing, since Duster was specifically selected for strong tillering and grazing tolerance in dual-purpose systems. As a straight cover crop it performs the same erosion control, weed suppression, and nitrogen scavenging duties as any winter wheat, while its grazing tolerance means a cover crop stand can also carry livestock through winter with the option to terminate mechanically or by herbicide in spring rather than continuing to grain harvest. It is best adapted to the hot, dry summers and mild winters typical of Oklahoma and the Texas Panhandle.",
+    "sources": [
+      "Oklahoma State University Extension — Duster Wheat Variety Description",
+      "Oklahoma State University Wheat Variety Testing Program",
+      "Kansas State University Agronomy eUpdate — Wheat Pasture Management"
+    ]
+  },
+  {
+    "slug": "bob-dole-wheat",
+    "common_name": "Bob Dole Wheat (High-Tillering Kansas Hard Red Winter Wheat for Grazing and Cover Cropping)",
+    "scientific_name": "Triticum aestivum 'Bob Dole'",
+    "category": "cover-crop",
+    "subcategory": "grass",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 40,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 110
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -2
+      },
+      "note": "Drill in early to mid-fall so plants establish a dense stand before winter; Bob Dole is a Kansas State University hard red winter wheat bred with strong early tillering and grazing tolerance for dual-purpose grain-and-grazing systems."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 7
+    },
+    "spacing_in": {
+      "min": 1,
+      "max": 2
+    },
+    "height_in": {
+      "min": 26,
+      "max": 40
+    },
+    "spread_in": {
+      "min": 4,
+      "max": 8
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Bob Dole is a hard red winter wheat released by Kansas State University and named for the late Kansas senator, bred with strong early tillering and grazing tolerance that has made it popular in dual-purpose grain-and-grazing systems across the central and southern Plains. Drill in early to mid-fall so plants establish a dense stand before winter, providing the fall forage that cattle producers rely on in wheat-pasture operations while still supporting the erosion control and nitrogen scavenging expected of any winter wheat cover crop. Its solid disease resistance package, including tolerance to several common leaf and stripe rust races, helps stands stay healthy through a wet spring compared with older, more susceptible varieties. Where cover cropping rather than grazing or grain is the goal, terminate by mowing, crimping, or herbicide at the boot to early-heading stage in spring.",
+    "sources": [
+      "Kansas State University Agronomy eUpdate — Wheat Variety Disease and Insect Ratings",
+      "Kansas Wheat Alliance — Bob Dole Wheat Variety Description",
+      "Kansas State University Extension — Wheat Variety Performance Tests"
+    ]
+  },
+  {
+    "slug": "bunker-forage-triticale",
+    "common_name": "Bunker Forage Triticale (Winter-Hardy High-Biomass Silage and Cover Crop Triticale)",
+    "scientific_name": "×Triticosecale 'Bunker'",
+    "category": "cover-crop",
+    "subcategory": "winter annual cover/forage cereal grain hybrid",
+    "days_to_germination": {
+      "min": 6,
+      "max": 12
+    },
+    "germination_soil_temp_f": {
+      "min": 40,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 150,
+      "max": 210
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -3
+      },
+      "note": "Drill into a prepared fall seedbed several weeks before the ground freezes so plants tiller before dormancy; Bunker is a winter forage triticale bred for heavy biomass production and strong winter survival for high-tonnage spring silage or cover cropping."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 8
+    },
+    "spacing_in": {
+      "min": 1,
+      "max": 3
+    },
+    "height_in": {
+      "min": 42,
+      "max": 64
+    },
+    "spread_in": {
+      "min": 6,
+      "max": 10
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Bunker is a winter forage triticale bred for heavy biomass production and strong winter survival, marketed to dairy and beef producers for high-tonnage spring silage as well as to cover crop growers wanting more standing forage than typical cereal rye or wheat covers provide. Drill into a firm fall seedbed several weeks before the ground freezes so plants tiller well before winter dormancy, then resume vigorous growth in early spring. Its combination of rye-derived cold hardiness and wheat-derived palatability gives it an unusually wide harvest window, letting growers choose between an early boot-stage cutting for higher forage quality or a later cut for maximum tonnage. When used strictly as a soil-building cover, mow, roll, or terminate with herbicide at early heading, well before the point where mature triticale becomes tough to kill and residue breaks down slowly.",
+    "sources": [
+      "Welter Seed and Honey Company — Bunker Forage Triticale",
+      "King's AgriSeeds — Forage Triticale Variety Comparison",
+      "University of Wisconsin Discovery Farms — Winter Forage Triticale for Manure Management"
+    ]
+  }
+]

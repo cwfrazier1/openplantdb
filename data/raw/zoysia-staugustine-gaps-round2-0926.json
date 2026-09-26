@@ -1,0 +1,222 @@
+[
+  {
+    "slug": "sola-st-augustine-grass",
+    "common_name": "Sola St. Augustine Grass (Drought-Tolerant Disease-Resistant Improved Lawn Grass)",
+    "scientific_name": "Stenotaphrum secundatum 'Sola'",
+    "category": "cover-crop",
+    "subcategory": "turfgrass",
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 95
+    },
+    "days_to_maturity": {
+      "min": 30,
+      "max": 60
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "warm",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 8
+      },
+      "note": "Establish from sod or plugs (not seed) once soil is consistently above 70 degrees F; Sola was unveiled in 2022 by the North Carolina State University turfgrass breeding program after more than a decade of on-campus trials under the experimental designation XSA 11377, and is now being licensed out for commercial sod production."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 24
+    },
+    "height_in": {
+      "min": 3,
+      "max": 4
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 24
+    },
+    "sun": "partial",
+    "water": "low",
+    "directions": "Sola is the newest St. Augustine grass cultivar to come out of the North Carolina State University turfgrass breeding program under Dr. Susana Milla-Lewis, released in 2022 after more than ten years of evaluation at the Lake Wheeler Turfgrass Field Laboratory. It combines cold tolerance comparable to the industry-standard Raleigh with meaningfully better resistance to chinch bugs and gray leaf spot, two of the pests and diseases most likely to force fungicide or insecticide treatments on older St. Augustine lawns. Breeders also selected it for more aggressive lateral growth, stronger sod strength, and better drought tolerance than older cultivars, so it fills in bare or damaged patches faster while needing less supplemental irrigation to hold color through summer dry spells. Establish only from sod or plugs since St. Augustine does not produce usable seed, and expect the same general shade tolerance and freeze sensitivity shared by the rest of the species.",
+    "sources": [
+      "NC State University Crop and Soil Sciences",
+      "Sod Solutions Pro",
+      "Golfdom"
+    ]
+  },
+  {
+    "slug": "lazer-zoysia-grass",
+    "common_name": "Lazer Zoysia Grass (Ultra-Fine Premium Lawn Cultivar)",
+    "scientific_name": "Zoysia matrella 'Lazer'",
+    "category": "cover-crop",
+    "subcategory": "turfgrass",
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 95
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 120
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "warm",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 8
+      },
+      "note": "Establish only from sod, sprigs, or plugs (not seed) once soil is consistently above 65 degrees F; Lazer is a fine-bladed Zoysia matrella selection from Bladerunner Farms marketed as a step up in blade fineness, density, and color from older manila-type lawn zoysias such as Zeon."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 6,
+      "max": 12
+    },
+    "height_in": {
+      "min": 1,
+      "max": 2
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 24
+    },
+    "sun": "partial",
+    "water": "low",
+    "directions": "Lazer is a Zoysia matrella selection from Bladerunner Farms marketed as an elite-tier fine-bladed lawn zoysia, bred to push blade fineness, upright growth habit, and rich green color beyond what older manila-type lawn cultivars like Zeon offer. Like other fine-textured zoysias it forms a dense, weed-resistant, traffic-tolerant turf, but it establishes and recovers from damage more slowly from plugs than coarser Zoysia japonica cultivars, so budget extra time for a full stand to knit together. It performs best in full sun to light shade with excellent drought tolerance once rooted in, and because named zoysia cultivars are propagated vegetatively, plant only sod, sprigs, or plugs rather than seed. Mow at a low height with a sharp reel or rotary mower to keep its fine texture looking its best, and avoid excess nitrogen, which promotes thatch buildup in dense zoysia turf.",
+    "sources": [
+      "Bladerunner Farms",
+      "Sod Solutions",
+      "University of Florida IFAS Extension"
+    ]
+  },
+  {
+    "slug": "primo-zoysia-grass",
+    "common_name": "Primo Zoysia Grass (Ultradwarf Putting Green Manila Zoysia)",
+    "scientific_name": "Zoysia matrella 'Primo'",
+    "category": "cover-crop",
+    "subcategory": "turfgrass",
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 95
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 120
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "warm",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 8
+      },
+      "note": "Establish only from sod or sprigs (not seed) once soil is consistently above 65 degrees F; Primo is a golf-green-type Zoysia matrella selection from Bladerunner Farms, installed at clubs such as Crooked Creek Club in Atlanta and Spanish Wells in Hilton Head as a warm-season alternative to bentgrass putting surfaces."
+    },
+    "usda_zones": {
+      "min": 8,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 6,
+      "max": 12
+    },
+    "height_in": {
+      "min": 1,
+      "max": 2
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Primo is a golf-green-type Zoysia matrella selection from Bladerunner Farms bred for putting surfaces, with installations at clubs such as Crooked Creek Club in Atlanta and Spanish Wells in Hilton Head as a warm-season, drought-tolerant alternative to bentgrass greens. Like the related Diamond cultivar it tolerates mowing heights down near an eighth of an inch and forms an extremely dense, fine-textured canopy for a smooth, true roll, but that same tight growth habit means slow recovery from ball marks, divots, and heavy foot traffic. It needs full sun for best density and thins out noticeably in shade, the same limitation shared by other ultradwarf zoysia selections. Because Primo is an intensively managed specialty turf, propagate it only from sod or sprigs and expect a longer, more carefully supervised grow-in than lawn-type zoysia requires.",
+    "sources": [
+      "Bladerunner Farms",
+      "USGA Green Section Record",
+      "Texas A&M AgriLife Extension"
+    ]
+  },
+  {
+    "slug": "stadium-zoysia-grass",
+    "common_name": "Stadium Zoysia Grass (Wear-Tolerant Hybrid Sports Turf Cultivar)",
+    "scientific_name": "Zoysia matrella x japonica 'Stadium'",
+    "category": "cover-crop",
+    "subcategory": "turfgrass",
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 95
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 120
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "warm",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 8
+      },
+      "note": "Establish only from sod or sprigs (not seed) once soil is consistently above 65 degrees F; Stadium is a Zoysia matrella x japonica hybrid from Bladerunner Farms bred specifically for the wear tolerance and rapid recovery demanded by athletic fields."
+    },
+    "usda_zones": {
+      "min": 6,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 6,
+      "max": 12
+    },
+    "height_in": {
+      "min": 1,
+      "max": 2
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Stadium is a Zoysia matrella x japonica hybrid from Bladerunner Farms bred specifically for the wear tolerance and rapid recovery demanded by athletic fields, splitting the difference between the fine texture of matrella-type zoysias and the tougher, faster-healing growth of japonica types. It fills the same high-traffic sports turf niche that hybrid bermudagrasses such as Latitude 36 and TifTuf occupy, offering a zoysia alternative with better shade tolerance and lower mowing frequency once fully established. As with other hybrid sports zoysias, install it only from sod or sprigs and allow a full growing season for it to knit together before subjecting it to regular play or heavy foot traffic. It carries good cold hardiness for a zoysia hybrid, extending its usefulness into transition-zone stadiums and athletic complexes beyond the traditional Gulf Coast and Deep South zoysia range.",
+    "sources": [
+      "Bladerunner Farms",
+      "Sports Turf Managers Association",
+      "Texas A&M AgriLife Extension"
+    ]
+  }
+]

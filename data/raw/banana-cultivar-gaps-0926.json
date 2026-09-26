@@ -1,0 +1,583 @@
+[
+  {
+    "slug": "saba-banana",
+    "common_name": "Saba Banana (Philippine Cooking Banana, Sab-a)",
+    "scientific_name": "Musa ABB 'Saba'",
+    "category": "fruit",
+    "subcategory": "banana",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 365,
+      "max": 545
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 6
+      },
+      "note": "Plant a pup or potted division after frost danger passes; the angular, blocky fruit is picked green and cooked, so pick timing depends on bunch fill rather than color."
+    },
+    "usda_zones": {
+      "min": 8,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 96,
+      "max": 144
+    },
+    "height_in": {
+      "min": 144,
+      "max": 216
+    },
+    "spread_in": {
+      "min": 96,
+      "max": 144
+    },
+    "sun": "full",
+    "water": "high",
+    "directions": "Saba is the everyday cooking banana of the Philippines, prized for its blocky, squared-off fruit and starchy texture whether fried, boiled, or grilled green. Its ABB genome gives it noticeably tougher, more weather-resistant foliage and better drought and wind tolerance than dessert-type Cavendish bananas, and Gulf Coast growers report it recovering from winter dieback more reliably than thin-leafed AAA cultivars. Give it full sun, deep rich soil, and heavy irrigation through summer, then cut the frozen stalk back after a hard freeze and let the corm resprout in spring. Bunches take over a year to mature but the plant is a vigorous, heavy producer once established as a clump.",
+    "sources": [
+      "ProMusa (Bioversity International/CIRAD)",
+      "Philippine Council for Agriculture, Aquatic and Natural Resources Research and Development",
+      "University of Florida IFAS Extension"
+    ]
+  },
+  {
+    "slug": "williams-banana",
+    "common_name": "Williams Banana (Williams Hybrid Cavendish)",
+    "scientific_name": "Musa AAA 'Williams'",
+    "category": "fruit",
+    "subcategory": "banana",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 365,
+      "max": 545
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 6
+      },
+      "note": "Set out a tissue-cultured plantlet or pup after frost has passed; container culture with winter greenhouse shelter is the reliable path to fruit in zone 9a."
+    },
+    "usda_zones": {
+      "min": 9,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 72,
+      "max": 96
+    },
+    "height_in": {
+      "min": 96,
+      "max": 144
+    },
+    "spread_in": {
+      "min": 72,
+      "max": 96
+    },
+    "sun": "full",
+    "water": "high",
+    "directions": "Williams is the Cavendish subgroup clone that built much of the modern export banana industry in Australia, California, and the Canary Islands, valued for reliable yields and classic sweet dessert fruit. It runs slightly shorter and stockier than Grand Nain but shares the same thin-leafed, cold-sensitive constitution, so a hard freeze can kill the pseudostem to the ground and set fruiting back a full season. In the Gulf South, grow it in a warm, wind-sheltered microclimate or large container, feed heavily through the growing season, and wrap or mulch the base deeply before winter. Expect one bunch per stalk before that stalk is cut back and replaced by a sucker.",
+    "sources": [
+      "ProMusa (Bioversity International/CIRAD)",
+      "University of California Cooperative Extension",
+      "Purdue University Center for New Crops & Plant Products"
+    ]
+  },
+  {
+    "slug": "valery-banana",
+    "common_name": "Valery Banana",
+    "scientific_name": "Musa AAA 'Valery'",
+    "category": "fruit",
+    "subcategory": "banana",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 365,
+      "max": 545
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 6
+      },
+      "note": "Plant divisions after frost danger passes; the tall pseudostem needs staking or wind shelter and is not reliable outdoors through a Gulf Coast winter."
+    },
+    "usda_zones": {
+      "min": 9,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 84,
+      "max": 120
+    },
+    "height_in": {
+      "min": 120,
+      "max": 168
+    },
+    "spread_in": {
+      "min": 84,
+      "max": 120
+    },
+    "sun": "full",
+    "water": "high",
+    "directions": "Valery is a taller Cavendish subgroup clone long grown commercially across Central America and Colombia for its heavy bunches of sweet, thin-skinned dessert fruit. Its height makes it more prone to wind toppling than dwarf Cavendish types, so a sheltered planting site and firm staking of the fruiting stalk matter in exposed Gulf Coast yards. Feed generously and water deeply through the growing season, since Valery's large leaf canopy transpires heavily in summer heat. Because it carries no more cold tolerance than other Cavendish clones, treat it as a container or greenhouse-protected specialty planting in zone 9a rather than a permanent in-ground banana.",
+    "sources": [
+      "ProMusa (Bioversity International/CIRAD)",
+      "Purdue University Center for New Crops & Plant Products",
+      "Texas A&M AgriLife Extension"
+    ]
+  },
+  {
+    "slug": "robusta-banana",
+    "common_name": "Robusta Banana",
+    "scientific_name": "Musa AAA 'Robusta'",
+    "category": "fruit",
+    "subcategory": "banana",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 365,
+      "max": 545
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 6
+      },
+      "note": "Plant a rooted pup after the last frost; give it the warmest, most sheltered bed available since it has no more hardiness than other Cavendish types."
+    },
+    "usda_zones": {
+      "min": 9,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 72,
+      "max": 108
+    },
+    "height_in": {
+      "min": 96,
+      "max": 132
+    },
+    "spread_in": {
+      "min": 72,
+      "max": 108
+    },
+    "sun": "full",
+    "water": "high",
+    "directions": "Robusta is the Cavendish subgroup clone that dominates banana production across India, chosen by growers there for its stout, wind-resistant stalk and dependable bunch size. It sits between Dwarf Cavendish and Grand Nain in height, which gives it a bit more resistance to wind lodging than taller Cavendish clones while still producing full-size dessert fruit. Grow it in rich, well-drained soil with consistent deep watering and monthly feeding through the warm season, and expect a single fruiting cycle per pseudostem before cutting it back for a replacement sucker. In zone 9a it fruits best as a container specimen that can be moved to shelter before the first hard freeze.",
+    "sources": [
+      "ProMusa (Bioversity International/CIRAD)",
+      "ICAR-National Research Centre for Banana (India)",
+      "Purdue University Center for New Crops & Plant Products"
+    ]
+  },
+  {
+    "slug": "highgate-banana",
+    "common_name": "Highgate Banana (Jamaica Gros Michel Selection)",
+    "scientific_name": "Musa AAB 'Highgate'",
+    "category": "fruit",
+    "subcategory": "banana",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 365,
+      "max": 545
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 6
+      },
+      "note": "Set out divisions after frost passes and stake the tall stalk once it begins to bear; this cultivar needs a full frost-free season to fruit."
+    },
+    "usda_zones": {
+      "min": 9,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 120,
+      "max": 168
+    },
+    "height_in": {
+      "min": 180,
+      "max": 240
+    },
+    "spread_in": {
+      "min": 120,
+      "max": 168
+    },
+    "sun": "full",
+    "water": "high",
+    "directions": "Highgate is a Jamaican-selected clone within the historic Gros Michel subgroup, the richly flavored dessert banana that dominated world trade before Panama disease devastated commercial plantings in the mid-twentieth century. It grows into a very tall, heavy plant and needs generous space, deep fertile soil, and steady irrigation to fill out its large bunches. Because it is among the least cold-tolerant of the widely grown banana types and remains highly susceptible to Fusarium wilt in poorly drained soil, treat it as a specialty planting for collectors rather than a dependable annual cropper in zone 9a. Site it in the warmest, most sheltered corner of the garden and mulch the base heavily before winter.",
+    "sources": [
+      "ProMusa (Bioversity International/CIRAD)",
+      "Purdue University Center for New Crops & Plant Products",
+      "University of Florida IFAS Extension"
+    ]
+  },
+  {
+    "slug": "iholena-banana",
+    "common_name": "Iholena Banana (Hawaiian Heirloom Banana)",
+    "scientific_name": "Musa AAB 'Iholena'",
+    "category": "fruit",
+    "subcategory": "banana",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 365,
+      "max": 545
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 6
+      },
+      "note": "Plant a pup or potted division after frost danger passes; fruit can be eaten fresh when fully ripe or cooked while still green."
+    },
+    "usda_zones": {
+      "min": 9,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 96,
+      "max": 144
+    },
+    "height_in": {
+      "min": 144,
+      "max": 192
+    },
+    "spread_in": {
+      "min": 96,
+      "max": 144
+    },
+    "sun": "full",
+    "water": "high",
+    "directions": "Iholena is a traditional Hawaiian and wider Polynesian banana grown for centuries as a dual-purpose fruit, eaten fresh when tree-ripened or cooked while still starchy and green. Its blunt, short fruit and reddish-tinged bracts distinguish it from the slender Cavendish types more commonly sold in stores, and older Hawaiian selections come in a range of skin colors from green to nearly maroon. Grow it in deep, fertile, well-watered soil in full sun, and expect a large, vigorous plant that benefits from wind shelter given its broad leaves. In a Gulf Coast garden it is best grown as a warm-season specialty planting protected from hard freezes rather than left to overwinter unprotected.",
+    "sources": [
+      "University of Hawaii College of Tropical Agriculture and Human Resources",
+      "ProMusa (Bioversity International/CIRAD)"
+    ]
+  },
+  {
+    "slug": "popoulu-banana",
+    "common_name": "Popoulu Banana (Hawaiian Cooking-Eating Banana)",
+    "scientific_name": "Musa AAB 'Popoulu'",
+    "category": "fruit",
+    "subcategory": "banana",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 365,
+      "max": 545
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 6
+      },
+      "note": "Set out a rooted pup after frost passes; fruit develops an orange-tinged flesh prized for both fresh eating and traditional cooked preparations."
+    },
+    "usda_zones": {
+      "min": 9,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 96,
+      "max": 144
+    },
+    "height_in": {
+      "min": 144,
+      "max": 192
+    },
+    "spread_in": {
+      "min": 96,
+      "max": 144
+    },
+    "sun": "full",
+    "water": "high",
+    "directions": "Popoulu belongs to the same Hawaiian Iholena grouping of Polynesian-introduced bananas and is notable for its orange-tinted flesh and dense, starchy texture even when fully ripe, making it a versatile fruit for both fresh eating and cooking. It grows into a robust, wide-leafed clump similar in stature to Iholena and shares its broad-leaf sensitivity to wind damage. Provide deep, humus-rich soil, full sun, and consistent moisture, and expect a long time to first fruiting from a young pup. Because it is a warm-climate heirloom without special cold tolerance, Gulf Coast growers should reserve it for a sheltered bed or large container that can be protected from hard freezes.",
+    "sources": [
+      "University of Hawaii College of Tropical Agriculture and Human Resources",
+      "ProMusa (Bioversity International/CIRAD)"
+    ]
+  },
+  {
+    "slug": "hua-moa-banana",
+    "common_name": "Hua Moa Banana (Samoan-Hawaiian Egg Banana)",
+    "scientific_name": "Musa AAB 'Hua Moa'",
+    "category": "fruit",
+    "subcategory": "banana",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 365,
+      "max": 545
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 6
+      },
+      "note": "Plant a division after frost danger passes; the name translates roughly to 'chicken egg,' describing the fruit's short, plump shape."
+    },
+    "usda_zones": {
+      "min": 9,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 84,
+      "max": 120
+    },
+    "height_in": {
+      "min": 96,
+      "max": 156
+    },
+    "spread_in": {
+      "min": 84,
+      "max": 120
+    },
+    "sun": "full",
+    "water": "high",
+    "directions": "Hua Moa is a traditional Samoan and Hawaiian table banana known for its short, plump, egg-shaped fruit and sweet flesh, grown in Pacific island dooryard gardens long before commercial Cavendish varieties arrived. The plant is somewhat more compact than the taller Iholena and Maoli types, making it a manageable choice for a home garden bed with rich soil and reliable irrigation. Grow it in full sun with heavy monthly feeding through the warm season, and expect a slow first fruiting from a young pup as with most edible bananas. In zone 9a it performs best as a warm-season specialty planting given winter protection rather than left to face a hard freeze unmulched.",
+    "sources": [
+      "University of Hawaii College of Tropical Agriculture and Human Resources",
+      "ProMusa (Bioversity International/CIRAD)"
+    ]
+  },
+  {
+    "slug": "novaria-banana",
+    "common_name": "Novaria Banana (Cold-Hardy Hybrid Fruiting Banana)",
+    "scientific_name": "Musa 'Novaria'",
+    "category": "fruit",
+    "subcategory": "banana",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 365,
+      "max": 730
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 6
+      },
+      "note": "Plant a rooted division after frost passes; the corm and rhizome are root-hardy with heavy mulch even where winter kills the pseudostem to the ground."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 72,
+      "max": 120
+    },
+    "height_in": {
+      "min": 96,
+      "max": 168
+    },
+    "spread_in": {
+      "min": 72,
+      "max": 120
+    },
+    "sun": "full",
+    "water": "high",
+    "directions": "Novaria is a hybrid banana bred specifically for cold-climate growers, crossing hardy Himalayan and hardy Asian banana lineage to combine better winter root survival with a better chance of edible fruit than pure Musa basjoo offers. In the Gulf South it behaves much like other root-hardy bananas: the above-ground stalk is usually cut back or killed by winter cold, but a deep mulch layer over the corm lets the plant resprout vigorously each spring. Because it needs a long, warm growing season to actually bloom and set fruit, treat fruiting as a bonus in favorable years rather than a guarantee, and prioritize its ornamental value and reliable perennial return instead. Give it full sun, rich moist soil, and heavy summer feeding to maximize both size and the odds of a fruiting cycle.",
+    "sources": [
+      "ProMusa (Bioversity International/CIRAD)",
+      "general cold-hardy banana grower reference"
+    ]
+  },
+  {
+    "slug": "enano-gigante-banana",
+    "common_name": "Enano Gigante Banana (Giant Dwarf Cavendish)",
+    "scientific_name": "Musa AAA 'Enano Gigante'",
+    "category": "fruit",
+    "subcategory": "banana",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 365,
+      "max": 545
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 6
+      },
+      "note": "Set out a division after the last frost; a sturdier, wind-resistant stalk than taller Cavendish clones still offers no extra cold hardiness."
+    },
+    "usda_zones": {
+      "min": 9,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 72,
+      "max": 108
+    },
+    "height_in": {
+      "min": 84,
+      "max": 120
+    },
+    "spread_in": {
+      "min": 72,
+      "max": 108
+    },
+    "sun": "full",
+    "water": "high",
+    "directions": "Enano Gigante, or 'Giant Dwarf,' is a Cavendish subgroup selection long grown in the Canary Islands and other Cavendish-producing regions for its stockier, wind-firm pseudostem compared to taller Cavendish clones like Valery. Its whimsically contradictory name reflects a plant that is taller and more vigorous than true Dwarf Cavendish but still shorter and less prone to wind lodging than the tallest Cavendish selections. Grow it in full sun with deep, fertile, well-drained soil, heavy summer watering, and regular feeding to size up its bunches. It carries the same cold sensitivity as other Cavendish types, so in zone 9a it is best grown in a container or heavily wind-sheltered bed with winter protection.",
+    "sources": [
+      "ProMusa (Bioversity International/CIRAD)",
+      "Purdue University Center for New Crops & Plant Products"
+    ]
+  },
+  {
+    "slug": "pisang-mas-banana",
+    "common_name": "Pisang Mas Banana (Golden Finger Banana)",
+    "scientific_name": "Musa AA 'Pisang Mas'",
+    "category": "fruit",
+    "subcategory": "banana",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 305,
+      "max": 455
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 6
+      },
+      "note": "Plant a pup or potted division after frost passes; its shorter stature and quicker cycle suit container growing better than most edible bananas."
+    },
+    "usda_zones": {
+      "min": 9,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 60,
+      "max": 96
+    },
+    "height_in": {
+      "min": 72,
+      "max": 108
+    },
+    "spread_in": {
+      "min": 60,
+      "max": 96
+    },
+    "sun": "full",
+    "water": "high",
+    "directions": "Pisang Mas, or 'golden banana,' is a small, intensely sweet dessert banana widely grown across Malaysia and Singapore, prized for its short, thin-skinned fruit that ripens to a bright gold with a rich, almost honeyed flavor unlike the milder Cavendish. It is naturally more compact than most edible bananas, which makes it a good candidate for a large patio container that can be moved to shelter before frost. Grow it in full sun with rich, moisture-retentive soil and steady feeding through the growing season, and expect a somewhat faster cycle to first bunch than tall commercial cultivars. It has no particular cold hardiness, so protect the corm or bring the container indoors well before the first freeze in zone 9a.",
+    "sources": [
+      "ProMusa (Bioversity International/CIRAD)",
+      "general horticultural reference"
+    ]
+  },
+  {
+    "slug": "lacatan-banana",
+    "common_name": "Lacatan Banana (Historic Caribbean Cavendish)",
+    "scientific_name": "Musa AAA 'Lacatan'",
+    "category": "fruit",
+    "subcategory": "banana",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 365,
+      "max": 545
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 6
+      },
+      "note": "Set out a division after frost danger passes and stake the tall fruiting stalk; this cultivar needs a long frost-free season to bear."
+    },
+    "usda_zones": {
+      "min": 9,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 96,
+      "max": 144
+    },
+    "height_in": {
+      "min": 144,
+      "max": 192
+    },
+    "spread_in": {
+      "min": 96,
+      "max": 144
+    },
+    "sun": "full",
+    "water": "high",
+    "directions": "Lacatan is a tall Cavendish subgroup clone that was the dominant Caribbean and Philippine export banana in the mid-twentieth century, valued for large bunches of sweet fruit before shorter, sturdier Cavendish clones like Grand Nain and Valery largely replaced it commercially. It grows into a large, heavy plant that benefits from deep fertile soil, generous spacing, and firm staking once the fruiting stalk begins to lean under bunch weight. Water deeply and feed through the growing season to support its broad leaf canopy, and expect a single bunch per pseudostem before cutting it back for a sucker. Given its height and lack of cold tolerance, grow it as a warm, sheltered specialty planting in zone 9a rather than an unprotected permanent planting.",
+    "sources": [
+      "ProMusa (Bioversity International/CIRAD)",
+      "Purdue University Center for New Crops & Plant Products"
+    ]
+  }
+]
