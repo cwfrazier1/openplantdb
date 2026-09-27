@@ -1,0 +1,498 @@
+[
+  {
+    "slug": "falcon-iv-tall-fescue",
+    "common_name": "Falcon IV Tall Fescue (Fourth-Generation Disease-Resistant Turf-Type Lawn Grass)",
+    "scientific_name": "Schedonorus arundinaceus 'Falcon IV'",
+    "category": "cover-crop",
+    "subcategory": "turfgrass",
+    "days_to_germination": {"min": 7, "max": 14},
+    "germination_soil_temp_f": {"min": 60, "max": 75},
+    "days_to_maturity": {"min": 45, "max": 90},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {"min": -6, "max": -2},
+      "note": "Seed at 6-8 lbs per 1,000 sq ft in late summer to early fall, or in early spring; Falcon IV is a fourth-generation descendant of the original 1980s Falcon release, bred for finer texture and better brown patch resistance than its predecessors."
+    },
+    "usda_zones": {"min": 4, "max": 8},
+    "spacing_in": {"min": 1, "max": 2},
+    "height_in": {"min": 2, "max": 4},
+    "spread_in": {"min": 2, "max": 4},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Seed into a firm, fertile bed in late summer or early fall so plants can root deeply before winter, or seed again in early spring if fall planting isn't possible. Falcon IV carries several generations of breeding improvement over the original 1980s Falcon release, with narrower leaf blades, a darker green color, and notably better resistance to brown patch and net blotch under humid summer conditions in the transition zone. It keeps tall fescue's characteristic deep taproot system, giving it strong drought tolerance and a long green season compared with shallow-rooted cool-season grasses, but as a bunch-type grass it depends on overseeding rather than lateral spread to repair bare or worn patches. Mow at 3 to 4 inches and avoid scalping to keep the stand dense and shade-competitive.",
+    "sources": [
+      "Oregon State University Extension — Tall Fescue Variety Trials",
+      "University of Missouri Extension — Turf-Type Tall Fescue Lawns",
+      "National Turfgrass Evaluation Program"
+    ]
+  },
+  {
+    "slug": "2nd-millennium-tall-fescue",
+    "common_name": "2nd Millennium Tall Fescue (High-Density Dark-Green NTEP Turf-Type Cultivar)",
+    "scientific_name": "Schedonorus arundinaceus '2nd Millennium'",
+    "category": "cover-crop",
+    "subcategory": "turfgrass",
+    "days_to_germination": {"min": 7, "max": 14},
+    "germination_soil_temp_f": {"min": 60, "max": 75},
+    "days_to_maturity": {"min": 45, "max": 90},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {"min": -6, "max": -2},
+      "note": "Seed at 6-8 lbs per 1,000 sq ft in late summer to early fall; 2nd Millennium is a modern, high-density turf-type tall fescue frequently used in premium home lawn seed blends for its dark color and tight canopy."
+    },
+    "usda_zones": {"min": 4, "max": 8},
+    "spacing_in": {"min": 1, "max": 2},
+    "height_in": {"min": 2, "max": 4},
+    "spread_in": {"min": 2, "max": 4},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Establish in early fall for the strongest root system heading into summer, keeping the seedbed evenly moist through the two-week germination window. 2nd Millennium is a modern turf-type tall fescue bred for unusually high shoot density and a dark green color that holds up well through summer heat, giving it a finer, more uniform appearance than older tall fescue cultivars in university evaluation trials. It shares the species' deep, drought-buffering root system and tolerates more shade than Kentucky bluegrass, making it a common component in transition-zone lawn seed blends. Since it is a bunchgrass, overseed thin areas each fall rather than expecting the stand to self-repair.",
+    "sources": [
+      "National Turfgrass Evaluation Program",
+      "Rutgers University Turfgrass Program",
+      "Virginia Tech Turfgrass Research"
+    ]
+  },
+  {
+    "slug": "firenza-tall-fescue",
+    "common_name": "Firenza Tall Fescue (Low-Growing Semi-Dwarf Turf-Type Lawn Grass)",
+    "scientific_name": "Schedonorus arundinaceus 'Firenza'",
+    "category": "cover-crop",
+    "subcategory": "turfgrass",
+    "days_to_germination": {"min": 7, "max": 14},
+    "germination_soil_temp_f": {"min": 60, "max": 75},
+    "days_to_maturity": {"min": 45, "max": 90},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {"min": -6, "max": -2},
+      "note": "Seed at 6-8 lbs per 1,000 sq ft in late summer to early fall; Firenza is a semi-dwarf turf-type tall fescue bred for a shorter, slower-growing canopy that needs less frequent mowing than standard turf-type releases."
+    },
+    "usda_zones": {"min": 4, "max": 8},
+    "spacing_in": {"min": 1, "max": 2},
+    "height_in": {"min": 1.5, "max": 3},
+    "spread_in": {"min": 2, "max": 4},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Sow in early fall into a firm, fertile seedbed and keep consistently moist until germinated. Firenza belongs to the semi-dwarf class of turf-type tall fescues, growing noticeably shorter and slower between mowings than standard tall fescue cultivars while still forming a fine-bladed, dark green sod, which makes it a good fit for homeowners who want fewer mowing cycles. It retains the species' deep root system and above-average drought and heat tolerance for a cool-season grass, and tolerates light shade better than Kentucky bluegrass. Because it is a non-spreading bunchgrass, overseed bare or thin spots each fall to keep the stand full.",
+    "sources": [
+      "Oregon State University Extension — Tall Fescue Variety Trials",
+      "National Turfgrass Evaluation Program",
+      "University of Kentucky Cooperative Extension — Tall Fescue Lawns"
+    ]
+  },
+  {
+    "slug": "wolfpack-tall-fescue",
+    "common_name": "Wolfpack Tall Fescue (Brown-Patch-Resistant Transition-Zone Turf Cultivar)",
+    "scientific_name": "Schedonorus arundinaceus 'Wolfpack'",
+    "category": "cover-crop",
+    "subcategory": "turfgrass",
+    "days_to_germination": {"min": 7, "max": 14},
+    "germination_soil_temp_f": {"min": 60, "max": 75},
+    "days_to_maturity": {"min": 45, "max": 90},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {"min": -6, "max": -2},
+      "note": "Seed at 6-8 lbs per 1,000 sq ft in late summer to early fall; Wolfpack is a North Carolina State University-associated turf-type tall fescue selected for improved brown patch tolerance in the humid transition-zone South."
+    },
+    "usda_zones": {"min": 5, "max": 9},
+    "spacing_in": {"min": 1, "max": 2},
+    "height_in": {"min": 2, "max": 4},
+    "spread_in": {"min": 2, "max": 4},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Seed in early fall into well-prepared soil for the best chance to root deeply before summer stress arrives. Wolfpack is a turf-type tall fescue developed with an eye toward the humid, brown-patch-prone conditions of the Piedmont and coastal South, showing better summer disease tolerance than many older tall fescue releases while keeping a fine-textured, dark green canopy. Its deep root system carries it through the dry spells that stress shallow-rooted lawns, and it tolerates the light shade of a typical suburban yard far better than warm-season grasses like bermudagrass. Because it spreads only slowly, if at all, plan on annual fall overseeding to fill in wear and thinning.",
+    "sources": [
+      "North Carolina State University Turffiles",
+      "National Turfgrass Evaluation Program",
+      "Virginia Tech Turfgrass Research"
+    ]
+  },
+  {
+    "slug": "justice-tall-fescue",
+    "common_name": "Justice Tall Fescue (Drought-Tolerant Dense-Sod Turf-Type Cultivar)",
+    "scientific_name": "Schedonorus arundinaceus 'Justice'",
+    "category": "cover-crop",
+    "subcategory": "turfgrass",
+    "days_to_germination": {"min": 7, "max": 14},
+    "germination_soil_temp_f": {"min": 60, "max": 75},
+    "days_to_maturity": {"min": 45, "max": 90},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {"min": -6, "max": -2},
+      "note": "Seed at 6-8 lbs per 1,000 sq ft in late summer to early fall; Justice is a modern turf-type tall fescue bred for dense tillering and good performance under low-input, drought-prone lawn conditions."
+    },
+    "usda_zones": {"min": 4, "max": 8},
+    "spacing_in": {"min": 1, "max": 2},
+    "height_in": {"min": 2, "max": 4},
+    "spread_in": {"min": 2, "max": 4},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Sow in early fall for the strongest establishment, then again in early spring only if a fall window was missed. Justice is a newer entry in the turf-type tall fescue class, selected for dense tillering that produces a tighter, more weed-resistant sod than older, coarser tall fescue cultivars, along with the species' typically deep, drought-buffering roots. It holds color and density through summer heat with less irrigation than Kentucky bluegrass requires, and tolerates the partial shade common under mature shade trees. As a bunch-type grass it will not creep to repair bare spots on its own, so plan on periodic overseeding to maintain full coverage.",
+    "sources": [
+      "National Turfgrass Evaluation Program",
+      "University of Kentucky Cooperative Extension — Tall Fescue Lawns",
+      "Oregon State University Extension"
+    ]
+  },
+  {
+    "slug": "baron-kentucky-bluegrass",
+    "common_name": "Baron Kentucky Bluegrass (Early Low-Growing Compact-Type Turf Cultivar)",
+    "scientific_name": "Poa pratensis 'Baron'",
+    "category": "cover-crop",
+    "subcategory": "turfgrass",
+    "days_to_germination": {"min": 14, "max": 28},
+    "germination_soil_temp_f": {"min": 50, "max": 65},
+    "days_to_maturity": {"min": 60, "max": 120},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {"min": -6, "max": -2},
+      "note": "Sow in late summer to early fall at 2-3 lbs per 1,000 sq ft in fertile, well-prepared soil; Baron was one of the earliest Dutch-bred compact-type Kentucky bluegrasses, selected for a low, dense growth habit well ahead of most later compact releases."
+    },
+    "usda_zones": {"min": 2, "max": 7},
+    "spacing_in": {"min": 1, "max": 1},
+    "height_in": {"min": 2, "max": 4},
+    "spread_in": {"min": 1, "max": 1},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Sow in early fall into a firm, fertile seedbed and keep evenly moist through the multi-week germination period typical of Kentucky bluegrass. Baron was among the first compact-type bluegrasses bred in the Netherlands, valued for its low, dense growth habit and shorter internodes compared with older common bluegrass seed, which reduced mowing frequency while improving turf density. It spreads by rhizomes into a self-mending sod that recovers from light wear over a season, though like most Kentucky bluegrasses it goes dormant and browns under prolonged summer drought without irrigation. Baron helped establish the compact-type category that many later, more disease-resistant bluegrass cultivars built upon.",
+    "sources": [
+      "National Turfgrass Evaluation Program",
+      "Michigan State University Extension",
+      "Purdue University Turfgrass Science"
+    ]
+  },
+  {
+    "slug": "america-kentucky-bluegrass",
+    "common_name": "America Kentucky Bluegrass (Compact-Type Leaf-Spot-Resistant Turf Cultivar)",
+    "scientific_name": "Poa pratensis 'America'",
+    "category": "cover-crop",
+    "subcategory": "turfgrass",
+    "days_to_germination": {"min": 14, "max": 28},
+    "germination_soil_temp_f": {"min": 50, "max": 65},
+    "days_to_maturity": {"min": 60, "max": 120},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {"min": -6, "max": -2},
+      "note": "Sow in late summer to early fall at 2-3 lbs per 1,000 sq ft in fertile, well-prepared soil; America is a compact-type Kentucky bluegrass selected for improved leaf spot and melting-out resistance over older common bluegrass seed."
+    },
+    "usda_zones": {"min": 2, "max": 7},
+    "spacing_in": {"min": 1, "max": 1},
+    "height_in": {"min": 2, "max": 4},
+    "spread_in": {"min": 1, "max": 1},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Sow into fertile, well-drained soil in early fall and keep the seedbed consistently moist through germination. America is a compact-type Kentucky bluegrass bred for a dark green color and notably better resistance to leaf spot and melting-out disease than older common-type bluegrass, problems that once limited bluegrass lawns in humid regions. It spreads steadily by underground rhizomes, filling in thin or damaged patches without reseeding, but still needs supplemental irrigation to stay green through extended summer heat. It has long been a component in premium lawn seed blends alongside perennial ryegrass and fine fescue.",
+    "sources": [
+      "National Turfgrass Evaluation Program",
+      "Rutgers University Turfgrass Program",
+      "Michigan State University Extension"
+    ]
+  },
+  {
+    "slug": "adelphi-kentucky-bluegrass",
+    "common_name": "Adelphi Kentucky Bluegrass (Aggressive Rhizomatous Dark-Green Turf Cultivar)",
+    "scientific_name": "Poa pratensis 'Adelphi'",
+    "category": "cover-crop",
+    "subcategory": "turfgrass",
+    "days_to_germination": {"min": 14, "max": 28},
+    "germination_soil_temp_f": {"min": 50, "max": 65},
+    "days_to_maturity": {"min": 60, "max": 120},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {"min": -6, "max": -2},
+      "note": "Sow in late summer to early fall at 2-3 lbs per 1,000 sq ft in fertile, well-prepared soil; Adelphi was a Rutgers University release known for unusually vigorous rhizome spread and dark green color relative to older common bluegrass seed."
+    },
+    "usda_zones": {"min": 2, "max": 7},
+    "spacing_in": {"min": 1, "max": 1},
+    "height_in": {"min": 2, "max": 4},
+    "spread_in": {"min": 1, "max": 1},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Sow in early fall for the best establishment window, keeping the seedbed consistently moist during the slow, multi-week germination period. Adelphi was developed at Rutgers University and became widely planted for its unusually vigorous rhizome production, which produces one of the more aggressively self-repairing sods among older Kentucky bluegrass cultivars, along with a dark blue-green color that stood out against common bluegrass seed. It performs best with regular fertility and irrigation, since its dense growth habit can become more disease-prone than newer, improved bluegrass releases under stress. It remains a historically significant cultivar in the development of the improved Kentucky bluegrass market.",
+    "sources": [
+      "Rutgers University Turfgrass Program",
+      "National Turfgrass Evaluation Program",
+      "Pennsylvania State Extension"
+    ]
+  },
+  {
+    "slug": "blacksburg-kentucky-bluegrass",
+    "common_name": "Blacksburg Kentucky Bluegrass (Vigorous Rhizomatous Turf Cultivar)",
+    "scientific_name": "Poa pratensis 'Blacksburg'",
+    "category": "cover-crop",
+    "subcategory": "turfgrass",
+    "days_to_germination": {"min": 14, "max": 28},
+    "germination_soil_temp_f": {"min": 50, "max": 65},
+    "days_to_maturity": {"min": 60, "max": 120},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {"min": -6, "max": -2},
+      "note": "Sow in late summer to early fall at 2-3 lbs per 1,000 sq ft in fertile, well-prepared soil; Blacksburg was developed at Virginia Tech (its namesake town) and selected for vigorous rhizome spread and good sod-forming ability."
+    },
+    "usda_zones": {"min": 2, "max": 7},
+    "spacing_in": {"min": 1, "max": 1},
+    "height_in": {"min": 2, "max": 4},
+    "spread_in": {"min": 1, "max": 1},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Sow in early fall into fertile, well-drained soil and keep consistently moist through the extended germination period. Blacksburg, named for the Virginia Tech campus town where it was developed, was bred for vigorous rhizome production that produces a dense, quickly knitting sod capable of recovering from moderate wear over a growing season. It carries a medium-dark green color and performs reliably across a range of soils when given routine fertility, though like all Kentucky bluegrasses it goes summer-dormant under drought stress without irrigation. It has been used both alone and as a component in blended lawn and sports-field seed mixes.",
+    "sources": [
+      "Virginia Tech Turfgrass Research",
+      "National Turfgrass Evaluation Program",
+      "Pennsylvania State Extension"
+    ]
+  },
+  {
+    "slug": "award-kentucky-bluegrass",
+    "common_name": "Award Kentucky Bluegrass (Compact-Type Dense-Sod Turf Cultivar)",
+    "scientific_name": "Poa pratensis 'Award'",
+    "category": "cover-crop",
+    "subcategory": "turfgrass",
+    "days_to_germination": {"min": 14, "max": 28},
+    "germination_soil_temp_f": {"min": 50, "max": 65},
+    "days_to_maturity": {"min": 60, "max": 120},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {"min": -6, "max": -2},
+      "note": "Sow in late summer to early fall at 2-3 lbs per 1,000 sq ft in fertile, well-prepared soil; Award is a compact-type Kentucky bluegrass bred for high shoot density and traffic tolerance in home lawn and sports-turf seed blends."
+    },
+    "usda_zones": {"min": 2, "max": 7},
+    "spacing_in": {"min": 1, "max": 1},
+    "height_in": {"min": 2, "max": 4},
+    "spread_in": {"min": 1, "max": 1},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Sow into a firm, fertile seedbed in early fall, keeping it consistently moist during the slow multi-week germination typical of Kentucky bluegrass. Award belongs to the compact-type class of bluegrass, forming a low, tightly tillered canopy that tolerates closer mowing and foot traffic better than taller, older common bluegrass types, while spreading steadily by rhizomes to self-repair thin spots. Its dense, dark green sod makes it a frequent component in premium home lawn and light sports-turf seed blends, usually paired with perennial ryegrass for faster initial cover. Like other bluegrasses, it needs supplemental water to avoid summer dormancy in hot, dry regions.",
+    "sources": [
+      "National Turfgrass Evaluation Program",
+      "Michigan State University Extension",
+      "Rutgers University Turfgrass Program"
+    ]
+  },
+  {
+    "slug": "seaisle-supreme-seashore-paspalum",
+    "common_name": "SeaIsle Supreme Seashore Paspalum (Fine-Textured Cold-Hardy Salt-Tolerant Turf Cultivar)",
+    "scientific_name": "Paspalum vaginatum 'SeaIsle Supreme'",
+    "category": "cover-crop",
+    "subcategory": "turfgrass",
+    "days_to_germination": null,
+    "germination_soil_temp_f": {"min": 70, "max": 90},
+    "days_to_maturity": {"min": 30, "max": 60},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "warm",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 0, "max": 8},
+      "note": "Establish only from certified sprigs or sod after soil has warmed in spring; SeaIsle Supreme is a University of Georgia seashore paspalum release bred for finer texture and improved cold tolerance over earlier SeaIsle-series cultivars."
+    },
+    "usda_zones": {"min": 8, "max": 11},
+    "spacing_in": {"min": 4, "max": 12},
+    "height_in": {"min": 0.5, "max": 1.5},
+    "spread_in": {"min": 6, "max": 24},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Install from certified sprigs or sod once the soil has warmed in spring, keeping the site consistently moist through the several-week grow-in period. SeaIsle Supreme is a later University of Georgia release in the seashore paspalum breeding program, combining the group's signature tolerance for brackish or seawater-diluted irrigation with a finer leaf texture and better cold-weather color retention than earlier SeaIsle-series cultivars, extending its useful range slightly north along the coast. It suits golf fairways, tees, and home landscapes in coastal or salt-affected soils where bermudagrass and St. Augustinegrass would decline, and it holds a dense, actively growing canopy under regular mowing at fairway to lawn heights. Full sun is essential for good density; even moderate shade thins the stand and invites weeds.",
+    "sources": [
+      "University of Georgia Griffin Campus Turfgrass Research",
+      "University of Florida IFAS Extension",
+      "USGA Green Section Record"
+    ]
+  },
+  {
+    "slug": "seastar-seashore-paspalum",
+    "common_name": "SeaStar Seashore Paspalum (Coarser-Bladed Salt-Tolerant Fairway and Lawn Turf)",
+    "scientific_name": "Paspalum vaginatum 'SeaStar'",
+    "category": "cover-crop",
+    "subcategory": "turfgrass",
+    "days_to_germination": null,
+    "germination_soil_temp_f": {"min": 70, "max": 90},
+    "days_to_maturity": {"min": 30, "max": 60},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "warm",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 0, "max": 8},
+      "note": "Establish only from certified sprigs or sod after soil has warmed in spring; SeaStar is a coarser-bladed University of Georgia seashore paspalum release suited to home lawns and fairways rather than putting-green heights."
+    },
+    "usda_zones": {"min": 8, "max": 11},
+    "spacing_in": {"min": 4, "max": 12},
+    "height_in": {"min": 1, "max": 2.5},
+    "spread_in": {"min": 6, "max": 24},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant from certified sprigs or sod after the soil has warmed in spring, watering generously through establishment. SeaStar is a University of Georgia seashore paspalum selection with a coarser leaf texture than the fine-bladed SeaIsle and SeaDwarf cultivars, which suits it to home lawns, fairways, and roughs maintained at taller mowing heights rather than putting greens. It shares the species' extraordinary tolerance for saline or reclaimed irrigation water, thriving where bermudagrass and St. Augustinegrass would eventually decline from salt buildup. Give it full sun and routine mowing at 1 to 2 inches for lawns, or lower on managed fairways, and expect a dense, actively spreading stolon-and-rhizome sod once established.",
+    "sources": [
+      "University of Georgia Griffin Campus Turfgrass Research",
+      "University of Florida IFAS Extension",
+      "Texas A&M AgriLife Extension"
+    ]
+  },
+  {
+    "slug": "platinum-te-seashore-paspalum",
+    "common_name": "Platinum TE Seashore Paspalum (Ultra-Fine Salt-Tolerant Putting Green Turf Cultivar)",
+    "scientific_name": "Paspalum vaginatum 'Platinum TE'",
+    "category": "cover-crop",
+    "subcategory": "turfgrass",
+    "days_to_germination": null,
+    "germination_soil_temp_f": {"min": 70, "max": 90},
+    "days_to_maturity": {"min": 30, "max": 60},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "warm",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 0, "max": 8},
+      "note": "Establish only from certified sprigs or sod after soil has warmed in spring; Platinum TE is an Environmental Turf seashore paspalum release bred for ultra-fine texture at putting-green mowing heights on saline coastal sites."
+    },
+    "usda_zones": {"min": 8, "max": 11},
+    "spacing_in": {"min": 4, "max": 10},
+    "height_in": {"min": 0.1, "max": 0.5},
+    "spread_in": {"min": 6, "max": 18},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Establish only from certified sprigs or sod once soil temperatures are reliably warm, then irrigate generously through the grow-in period. Platinum TE was bred specifically for golf putting greens, tolerating mowing heights near a tenth of an inch while keeping the fine texture and smooth ball roll golf superintendents expect, all while accepting irrigation with brackish or high-salinity water that would damage bermudagrass. It shows good density and recovers from ball marks reasonably well, though like other seashore paspalum ultradwarfs it needs disciplined topdressing and grooming to manage thatch and mat buildup at such low heights. It is a specialized golf-green grass for coastal and salt-affected sites, not a home lawn selection.",
+    "sources": [
+      "USGA Green Section Record",
+      "University of Georgia Griffin Campus Turfgrass Research",
+      "University of Florida IFAS Extension"
+    ]
+  },
+  {
+    "slug": "champion-bermudagrass",
+    "common_name": "Champion Bermudagrass (Ultradwarf Putting Green Turf Cultivar)",
+    "scientific_name": "Cynodon dactylon 'Champion'",
+    "category": "cover-crop",
+    "subcategory": "turfgrass",
+    "days_to_germination": null,
+    "germination_soil_temp_f": {"min": 65, "max": 95},
+    "days_to_maturity": {"min": 45, "max": 90},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "warm",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 2, "max": 8},
+      "note": "Establish only from sprigs at high planting density since Champion is a sterile hybrid; plant in full sun once soil is reliably above 65 degrees F and budget for an intensive grow-in and long-term grooming program."
+    },
+    "usda_zones": {"min": 8, "max": 10},
+    "spacing_in": {"min": 6, "max": 12},
+    "height_in": {"min": 0.1, "max": 0.2},
+    "spread_in": {"min": 12, "max": 24},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Champion was one of the first ultradwarf bermudagrass selections brought to market for golf putting greens, valued for a fine leaf texture and high shoot density that tolerate mowing heights close to a tenth of an inch. Establish only from certified sprigs, since it is a sterile hybrid that will not come true from seed, and expect an intensive grow-in period with frequent light topdressing to manage thatch at such a low cutting height. It needs full sun and a disciplined fertility and irrigation program to maintain a smooth, true putting surface, and its shallow root system at green heights leaves little margin for drought stress. This is a specialized golf-green grass rather than a home lawn turf.",
+    "sources": [
+      "Texas A&M AgriLife Extension — Bermudagrass Cultivars for Texas",
+      "USGA Green Section Record",
+      "Clemson Cooperative Extension"
+    ]
+  },
+  {
+    "slug": "miniverde-bermudagrass",
+    "common_name": "MiniVerde Bermudagrass (Fine-Textured Ultradwarf Putting Green Turf Cultivar)",
+    "scientific_name": "Cynodon dactylon 'MiniVerde'",
+    "category": "cover-crop",
+    "subcategory": "turfgrass",
+    "days_to_germination": null,
+    "germination_soil_temp_f": {"min": 65, "max": 95},
+    "days_to_maturity": {"min": 45, "max": 90},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "warm",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 2, "max": 8},
+      "note": "Establish only from sprigs at high planting density since MiniVerde is a sterile hybrid; plant in full sun once soil is reliably above 65 degrees F and budget for an intensive grow-in and long-term grooming program."
+    },
+    "usda_zones": {"min": 8, "max": 10},
+    "spacing_in": {"min": 6, "max": 12},
+    "height_in": {"min": 0.1, "max": 0.2},
+    "spread_in": {"min": 12, "max": 24},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "MiniVerde is another ultradwarf bermudagrass selection developed for golf putting greens, prized for exceptionally high shoot density and a fine, uniform texture that holds up well to close mowing near a tenth of an inch. Plant only from certified sprigs, as it is a sterile hybrid, and plan on an intensive establishment period with regular light topdressing to control thatch and mat layer buildup typical of ultradwarf bermudas maintained at such low heights. It has earned a reputation among superintendents in the Deep South and transition zone for slightly better cold tolerance and faster spring green-up than some of the earlier ultradwarf releases. Full sun and a tightly managed fertility and irrigation program are essential to keep the putting surface smooth and consistent.",
+    "sources": [
+      "Texas A&M AgriLife Extension — Bermudagrass Cultivars for Texas",
+      "USGA Green Section Record",
+      "University of Georgia Cooperative Extension — Bermudagrass Cultivars"
+    ]
+  },
+  {
+    "slug": "wilmington-bahiagrass",
+    "common_name": "Wilmington Bahiagrass (Fine-Textured Low-Input Gulf Coast Turf Cultivar)",
+    "scientific_name": "Paspalum notatum 'Wilmington'",
+    "category": "cover-crop",
+    "subcategory": "grass",
+    "days_to_germination": {"min": 14, "max": 28},
+    "germination_soil_temp_f": {"min": 65, "max": 95},
+    "days_to_maturity": {"min": 60, "max": 90},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 2, "max": 8},
+      "note": "Direct sow scarified seed at 5-10 lbs per 1,000 sq ft in late spring once soil is consistently above 65 degrees F; Wilmington is a finer-bladed bahiagrass cultivar selected as a lower-maintenance turf alternative to the coarser Pensacola and Argentine types."
+    },
+    "usda_zones": {"min": 7, "max": 11},
+    "spacing_in": {"min": 1, "max": 2},
+    "height_in": {"min": 6, "max": 20},
+    "spread_in": {"min": 6, "max": 18},
+    "sun": "full",
+    "water": "low",
+    "directions": "Sow scarified seed after the last frost once soil has warmed, keeping the seedbed moist through the slow two- to four-week germination period. Wilmington is a bahiagrass cultivar selected for a somewhat finer leaf texture and shorter seedhead stalks than the widely planted Pensacola and Argentine types, giving it a slightly more refined appearance for low-input residential lawns while keeping the species' legendary deep taproot and drought tolerance. It thrives in poor, sandy, acidic soils across the Gulf Coast with minimal fertilization and shrugs off the heat and dry spells that stress cool-season lawns, though it will not match the fine texture or density of bermudagrass or St. Augustinegrass. Mow regularly through the growing season to keep the seedheads in check, since infrequent mowing lets them dominate the lawn's appearance.",
+    "sources": [
+      "University of Florida IFAS Extension — Bahiagrass Lawn Management",
+      "Louisiana State University AgCenter — Turf Grass Variety Selection for the Gulf South",
+      "University of Georgia Cooperative Extension"
+    ]
+  }
+]
