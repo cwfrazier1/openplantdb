@@ -1,0 +1,92 @@
+[
+  {
+    "slug": "kairyou-ouseibai-ume",
+    "common_name": "Kairyou Ouseibai Ume (Fruiting Japanese Apricot for Umeboshi)",
+    "scientific_name": "Prunus mume 'Kairyou Ouseibai'",
+    "category": "fruit",
+    "subcategory": "East Asian ornamental-edible stone fruit tree",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": { "min": 1095, "max": 1825 },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": { "min": 0, "max": 4 },
+      "note": "Plant grafted trees in spring in full sun in fertile, well-drained, slightly acidic to neutral soil; Kairyou Ouseibai is one of the named fruiting Japanese apricot selections grown alongside Nanko specifically for culinary ume production rather than ornamental flower display, and benefits from a second Prunus mume cultivar nearby for reliable cross-pollination."
+    },
+    "usda_zones": { "min": 6, "max": 9 },
+    "spacing_in": { "min": 120, "max": 180 },
+    "height_in": { "min": 120, "max": 240 },
+    "spread_in": { "min": 96, "max": 180 },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Kairyou Ouseibai is a named fruiting cultivar of Japanese apricot grown for culinary ume production, listed alongside Nanko as one of the selections used for umeboshi and umeshu rather than for ornamental flowering. Like other Prunus mume selections it flowers on bare wood in late winter to early spring, well ahead of leaf-out, with fruit ripening from green through gold over the following months. Because Prunus mume cultivars are only partially self-fruitful, plant a second ume cultivar such as Nanko nearby to ensure a reliable crop for salt-pickling while still firm and green-yellow, or for liqueur and fresh use once fully ripe. Prune to an open vase form after fruiting to keep the canopy airy and productive.",
+    "sources": [
+      "Wakayama Prefecture agricultural extension ume cultivar records",
+      "general horticultural reference on Prunus mume cultivars"
+    ]
+  },
+  {
+    "slug": "garnet-autumn-olive",
+    "common_name": "Garnet Autumn Olive (Named Fruit-Production Selection)",
+    "scientific_name": "Elaeagnus umbellata 'Garnet'",
+    "category": "berry",
+    "subcategory": "shrub fruit",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": { "min": 1095, "max": 1460 },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": { "min": 0, "max": 4 },
+      "note": "Plant rooted cuttings or container stock in spring in any well-drained soil; Garnet is a named fruit-production selection of autumn olive, propagated vegetatively rather than grown from seed to preserve its compact habit and heavier yield, and autumn olive is highly invasive in the eastern U.S. — confirm it is legal in your state before planting."
+    },
+    "usda_zones": { "min": 3, "max": 8 },
+    "spacing_in": { "min": 72, "max": 120 },
+    "height_in": { "min": 72, "max": 180 },
+    "spread_in": { "min": 72, "max": 144 },
+    "sun": "full",
+    "water": "low",
+    "directions": "Garnet is a named selection of autumn olive bred for fruit production, chosen along with Red Wing for a more compact habit and heavier, more reliable cropping than unselected wild seedlings. Like the species, it fixes atmospheric nitrogen through root nodules and tolerates poor, sandy soil that would stress most fruiting shrubs, producing abundant small, red-speckled, lycopene-rich berries with a sweet-tart flavor. Because it is still Elaeagnus umbellata, it carries the same invasive designation as seedling autumn olive in much of the eastern United States, so confirm local legality before planting. Harvest by hand-stripping ripe clusters in fall; fruit quality improves after a light frost.",
+    "sources": [
+      "USDA PLANTS Database",
+      "general horticultural reference"
+    ]
+  },
+  {
+    "slug": "red-wing-autumn-olive",
+    "common_name": "Red Wing Autumn Olive (Named Fruit-Production Selection)",
+    "scientific_name": "Elaeagnus umbellata 'Red Wing'",
+    "category": "berry",
+    "subcategory": "shrub fruit",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": { "min": 1095, "max": 1460 },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": { "min": 0, "max": 4 },
+      "note": "Plant rooted cuttings or container stock in spring in any well-drained soil; Red Wing is a named fruit-production selection of autumn olive, propagated vegetatively rather than grown from seed to preserve its compact habit and heavier yield, and autumn olive is highly invasive in the eastern U.S. — confirm it is legal in your state before planting."
+    },
+    "usda_zones": { "min": 3, "max": 8 },
+    "spacing_in": { "min": 72, "max": 120 },
+    "height_in": { "min": 72, "max": 180 },
+    "spread_in": { "min": 72, "max": 144 },
+    "sun": "full",
+    "water": "low",
+    "directions": "Red Wing is a named selection of autumn olive bred for fruit production, chosen along with Garnet for a more compact habit and heavier, more reliable cropping than unselected wild seedlings. Like the species, it fixes atmospheric nitrogen through root nodules and tolerates poor, sandy soil that would stress most fruiting shrubs, producing abundant small, red-speckled, lycopene-rich berries with a sweet-tart flavor. Because it is still Elaeagnus umbellata, it carries the same invasive designation as seedling autumn olive in much of the eastern United States, so confirm local legality before planting. Harvest by hand-stripping ripe clusters in fall; fruit quality improves after a light frost.",
+    "sources": [
+      "USDA PLANTS Database",
+      "general horticultural reference"
+    ]
+  }
+]

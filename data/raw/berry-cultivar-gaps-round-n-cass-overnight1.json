@@ -1,0 +1,94 @@
+[
+  {
+    "slug": "ben-avon-currant",
+    "common_name": "Ben Avon Currant (High-Yield Scottish Black Currant)",
+    "scientific_name": "Ribes nigrum 'Ben Avon'",
+    "category": "berry",
+    "subcategory": "currant",
+    "days_to_germination": {"min": 30, "max": 120},
+    "germination_soil_temp_f": {"min": 55, "max": 68},
+    "days_to_maturity": {"min": 365, "max": 730},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {"min": 0, "max": 8},
+      "note": "Plant dormant bushes fall through early spring in moist, fertile, well-drained soil in partial shade to full sun; Ben Avon flowers and ripens a little later than most of the Ben-series black currants, which helps it dodge early spring frosts."
+    },
+    "usda_zones": {"min": 3, "max": 7},
+    "spacing_in": {"min": 48, "max": 60},
+    "height_in": {"min": 48, "max": 60},
+    "spread_in": {"min": 48, "max": 60},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Ben Avon is a Scottish-bred black currant from the James Hutton Institute's long-running Ben series, selected for large, vigorous bushes and exceptionally heavy cropping. It is self-fertile and needs no pollinizer, flowering and ripening several days later than earlier Ben releases, which gives it some protection from late spring frosts that can damage currant blossom. Berries are large and borne in long strigs typical of the series, with the strongly aromatic, tart flavor suited to jam, syrup, cordial, and baking rather than fresh eating. Black currants fruit mainly on one-year-old wood, so prune out the oldest, darkest canes at the base each winter to keep the bush renewing itself with productive young growth.",
+    "sources": [
+      "James Hutton Institute Fruit Breeding",
+      "Cornell University Small Fruit Program",
+      "University of Minnesota Extension"
+    ]
+  },
+  {
+    "slug": "masovia-lingonberry",
+    "common_name": "Masovia Lingonberry (Polish-Bred Heavy-Yielding Cultivar)",
+    "scientific_name": "Vaccinium vitis-idaea 'Masovia'",
+    "category": "berry",
+    "subcategory": "lingonberry",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 730, "max": 1460},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 6},
+      "note": "Plant container-grown plants in spring in very acidic, moist, well-drained soil; Masovia is self-fertile and, like other lingonberry cultivars, typically produces a smaller summer crop followed by a larger fall crop."
+    },
+    "usda_zones": {"min": 3, "max": 7},
+    "spacing_in": {"min": 12, "max": 18},
+    "height_in": {"min": 8, "max": 12},
+    "spread_in": {"min": 18, "max": 36},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Masovia is a European lingonberry cultivar named for the Mazovia region of Poland, bred for consistently heavy yields alongside better-known Polish and Scandinavian selections such as Ida and Koralle. It forms the same low, glossy evergreen mat typical of the species, spreading gradually by underground rhizomes into a dense groundcover. Grow it in very acidic, humus-rich soil in the pH 4.5-5.5 range, siting it where it gets some relief from the hottest afternoon sun. Shear plantings back hard every few years to renew vigor and fruiting wood once the mat becomes crowded.",
+    "sources": [
+      "Washington State University Extension — Lingonberry Production",
+      "Oregon State University Extension — Lingonberry Production Guide for the Pacific Northwest"
+    ]
+  },
+  {
+    "slug": "austin-dewberry",
+    "common_name": "Austin Dewberry (Historic Texas Trailing Bramble)",
+    "scientific_name": "Rubus 'Austin'",
+    "category": "berry",
+    "subcategory": "bramble",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 365, "max": 730},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 6},
+      "note": "Plant rooted cuttings or crowns in late winter to early spring on a low trellis or wire; Austin ripens notably early, several days to a week or more ahead of most blackberry cultivars."
+    },
+    "usda_zones": {"min": 6, "max": 9},
+    "spacing_in": {"min": 60, "max": 96},
+    "height_in": {"min": 18, "max": 36},
+    "spread_in": {"min": 72, "max": 120},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Austin is a historic Texas dewberry selection, grown commercially alongside the similar Lucretia dewberry by early-1900s Texas bramble growers, making it one of the longest-cultivated named dewberries still available today. It is self-fertile and produces large, glossy, sweet-tart fruit on sprawling, thorny trailing canes that need a low trellis or wire to keep the berries from lying in the dirt. Harvest comes earlier than for upright blackberries, giving gardeners in the Gulf South a bramble crop before the summer heat and humidity bring on fruit rot pressure. Cut the spent floricanes to the ground right after harvest to keep the trailing planting from tangling into an unmanageable thicket.",
+    "sources": [
+      "Texas A&M AgriLife Extension — Dewberries and Blackberries for the Home Garden",
+      "LSU AgCenter — Bramble Fruits for Louisiana",
+      "Biodiversity Heritage Library historical nursery catalogs"
+    ]
+  }
+]

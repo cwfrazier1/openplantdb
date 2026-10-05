@@ -1,0 +1,83 @@
+[
+  {
+    "slug": "bambusa-textilis",
+    "common_name": "Weaver's Bamboo",
+    "scientific_name": "Bambusa textilis",
+    "category": "flower",
+    "subcategory": "ornamental clumping bamboo",
+    "days_to_germination": {"min": 14, "max": 35},
+    "germination_soil_temp_f": {"min": 65, "max": 85},
+    "days_to_maturity": {"min": 730, "max": 1460},
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 6},
+      "note": "Plant divisions or container stock in spring in full sun in moist, well-drained soil; Weaver's Bamboo is a tight, non-running clumper (pachymorph rhizomes) so no containment barrier is needed, unlike running Phyllostachys species."
+    },
+    "usda_zones": {"min": 8, "max": 11},
+    "spacing_in": {"min": 72, "max": 120},
+    "height_in": {"min": 240, "max": 396},
+    "spread_in": {"min": 60, "max": 120},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Weaver's Bamboo forms a dense, tightly packed clump of slender, glossy green-blue culms with long internodes and no running rhizomes, so it stays exactly where planted without the need for a containment barrier. Its canes are prized for weaving and light construction because they lack the raised nodal ridges that make other bamboo species harder to work, and the fine-textured, willowy foliage gives it a graceful, fountain-like silhouette distinct from the thicker-walled Bambusa oldhamii already in cultivation. It is widely planted as a fast, non-invasive privacy screen and windbreak across the Gulf Coast, Florida, and coastal California, tolerating heat, humidity, and brief drought once established but showing some leaf drop in hard winters at the cold edge of its range. Give it full sun, consistently moist, well-drained soil, and shelter from constant salt-laden wind for best growth.",
+    "sources": ["American Bamboo Society", "Clemson Cooperative Extension", "North Carolina State Extension"]
+  },
+  {
+    "slug": "pleioblastus-fortunei",
+    "common_name": "Dwarf Whitestripe Bamboo",
+    "scientific_name": "Pleioblastus fortunei",
+    "category": "flower",
+    "subcategory": "dwarf running bamboo groundcover",
+    "days_to_germination": {"min": 14, "max": 30},
+    "germination_soil_temp_f": {"min": 60, "max": 80},
+    "days_to_maturity": {"min": 365, "max": 730},
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Plant divisions in spring in average, moisture-retentive soil in full sun to partial shade; this is a true running bamboo spreading by shallow rhizomes and must be confined with a buried rhizome barrier, a mowed strip, or a hardscape-edged bed to prevent it from spreading beyond its intended footprint."
+    },
+    "usda_zones": {"min": 6, "max": 9},
+    "spacing_in": {"min": 18, "max": 36},
+    "height_in": {"min": 36, "max": 48},
+    "spread_in": {"min": 36, "max": 60},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Dwarf Whitestripe Bamboo is a true running bamboo that spreads by shallow, vigorous rhizomes, so it should be confined with a buried rhizome barrier, a mowed strip, or an isolated bed edged in pavement to keep it from colonizing beyond its intended footprint. Each small cane carries a whorl of narrow leaves irregularly streaked and banded in white over green, with some leaves nearly solid white, creating a bright variegated groundcover effect that fades to soft lemon-yellow in fall. It is one of the more cold-hardy Pleioblastus species, tolerating winter lows well below zero once established, and works well as a shaded groundcover, erosion-control planting on slopes, or a contained accent beneath taller bamboos or trees. Mow or cut it back hard in late winter so the freshest, most brightly variegated foliage emerges before the new season's growth.",
+    "sources": ["American Bamboo Society", "Missouri Botanical Garden Plant Finder", "North Carolina State Extension"]
+  },
+  {
+    "slug": "pleioblastus-distichus",
+    "common_name": "Dwarf Fernleaf Bamboo",
+    "scientific_name": "Pleioblastus distichus",
+    "category": "flower",
+    "subcategory": "dwarf running bamboo groundcover",
+    "days_to_germination": {"min": 14, "max": 30},
+    "germination_soil_temp_f": {"min": 60, "max": 80},
+    "days_to_maturity": {"min": 180, "max": 365},
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Plant divisions in spring in average, well-drained, consistently moist soil in full to partial sun; this dwarf runner spreads aggressively by shallow rhizomes and needs a buried rhizome barrier or an isolated, hardscape-edged bed to stay contained."
+    },
+    "usda_zones": {"min": 6, "max": 10},
+    "spacing_in": {"min": 12, "max": 18},
+    "height_in": {"min": 10, "max": 24},
+    "spread_in": {"min": 24, "max": 48},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Dwarf Fernleaf Bamboo is one of the smallest bamboos grown in US gardens, with wiry, upright stems rarely topping two feet and tiny leaves held in flattened, fern- or palm-like sprays that give the plant its common name and its popularity as a bonsai subject. Like other Pleioblastus, it spreads aggressively by running rhizomes and can form dense colonies if left unchecked, so it needs a buried rhizome barrier or an isolated, hardscape-edged bed to stay within bounds. It performs best in full to part sun with consistently moist soil, since it does not tolerate deep shade, extended drought, or waterlogged ground. Its fine, dense texture makes it a useful low edging or small-scale groundcover distinct from the coarser, broader-leaved Pleioblastus viridistriatus already in cultivation.",
+    "sources": ["American Bamboo Society", "Missouri Botanical Garden Plant Finder", "North Carolina State Extension"]
+  }
+]

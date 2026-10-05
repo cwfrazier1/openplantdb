@@ -1,0 +1,64 @@
+[
+  {
+    "slug": "apple-fuji-babe",
+    "common_name": "Fuji Babe Apple",
+    "scientific_name": "Malus domestica 'Fuji Babe'",
+    "category": "fruit",
+    "subcategory": "apple",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 1460, "max": 1825},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": -8, "max": -2},
+      "note": "Plant bare-root or containerized trees in late winter while dormant. Fuji Babe is a low-chill sport of standard Fuji selected to set fruit with fewer winter chill hours than the 300-500 hours the parent variety needs, making it an option where standard Fuji blooms erratically. Requires a compatible non-Fuji pollinator (such as Gala or Granny Smith) within about 50 feet."
+    },
+    "usda_zones": {"min": 7, "max": 10},
+    "spacing_in": {"min": 180, "max": 240},
+    "height_in": {"min": 144, "max": 240},
+    "spread_in": {"min": 120, "max": 180},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Fuji Babe is a low-chill sport selection of the classic Fuji apple, developed to fruit reliably with substantially fewer winter chill hours than the 300-500 hours standard Fuji requires. Like its parent, it bears large, firm, crisp fruit with the same pink-red and yellow-green streaked skin and sweet, low-acid flesh, but it is better suited to setting a dependable crop where winters are too mild for standard Fuji. Plant in full sun in deep, well-drained, fertile soil with a compatible non-Fuji pollinator nearby, following the same care standard Fuji receives. Because it still carries some dormancy requirement, expect more consistent cropping in zone 9 and the warmer edge of zone 8 than in truly subtropical conditions.",
+    "sources": [
+      "Texas A&M AgriLife Extension",
+      "Louisiana State University AgCenter",
+      "University of California Cooperative Extension"
+    ]
+  },
+  {
+    "slug": "apple-low-chill-fuji",
+    "common_name": "Low-Chill Fuji Apple",
+    "scientific_name": "Malus domestica 'Low-Chill Fuji'",
+    "category": "fruit",
+    "subcategory": "apple",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 1460, "max": 1825},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": -8, "max": -2},
+      "note": "Plant bare-root or containerized trees in late winter while dormant. Low-Chill Fuji is a reduced-dormancy sport of standard Fuji, named and selected specifically to extend Fuji apple growing into milder-winter areas than the parent variety's 300-500 chill-hour requirement allows. Requires a compatible non-Fuji pollinator within about 50 feet."
+    },
+    "usda_zones": {"min": 7, "max": 10},
+    "spacing_in": {"min": 180, "max": 240},
+    "height_in": {"min": 144, "max": 240},
+    "spread_in": {"min": 120, "max": 180},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Low-Chill Fuji is a named low-chill sport of the standard Fuji apple, selected alongside the similarly purposed Fuji Babe to bring Fuji's eating quality into warm-winter growing areas where the parent variety's chill-hour requirement goes unmet most years. It shares standard Fuji's large, firm, pink-red-and-yellow-green fruit and high-sugar, low-acid flavor, differing mainly in its reduced dormancy needs rather than in fruit character. Plant in full sun in the same deep, fertile, well-drained soil recommended for standard Fuji, with a compatible pollinator within 50 feet. Growers in genuinely subtropical climates should still expect somewhat lighter or less consistent cropping than in regions with fuller winter chill accumulation, since low-chill selections generally trade some vigor for their reduced dormancy requirement.",
+    "sources": [
+      "Texas A&M AgriLife Extension",
+      "Louisiana State University AgCenter",
+      "University of California Cooperative Extension"
+    ]
+  }
+]

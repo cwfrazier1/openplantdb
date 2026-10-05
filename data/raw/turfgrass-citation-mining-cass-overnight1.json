@@ -1,0 +1,155 @@
+[
+  {
+    "slug": "limousine-kentucky-bluegrass",
+    "common_name": "Limousine Kentucky Bluegrass (Aggressive-Type Dense Fine-Textured Turf Cultivar)",
+    "scientific_name": "Poa pratensis 'Limousine'",
+    "category": "cover-crop",
+    "subcategory": "turfgrass",
+    "days_to_germination": {"min": 14, "max": 28},
+    "germination_soil_temp_f": {"min": 50, "max": 65},
+    "days_to_maturity": {"min": 60, "max": 120},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {"min": -6, "max": -2},
+      "note": "Sow in late summer to early fall at 2-3 lbs per 1,000 sq ft in fertile, well-prepared soil; Limousine is an aggressive-type Kentucky bluegrass bred for exceptionally dense, fine-textured turf and quick lateral fill-in."
+    },
+    "usda_zones": {"min": 2, "max": 7},
+    "spacing_in": {"min": 1, "max": 1},
+    "height_in": {"min": 1, "max": 3},
+    "spread_in": {"min": 1, "max": 1},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Limousine belongs to the aggressive class of Kentucky bluegrass cultivars, forming an unusually dense, fine-textured sod with rapid lateral spread by rhizomes that fills bare spots and chokes out weed encroachment, including Poa annua, faster than older common-type bluegrass. It germinates quickly with strong seedling vigor and tolerates mowing heights as low as half an inch, making it a favorite parent in breeding programs seeking density and quick establishment. Sow in early fall into a firm, fertile seedbed and keep consistently moist through germination, since Kentucky bluegrass establishes more slowly from seed than ryegrass or fescue. Like other Kentucky bluegrasses it performs best with regular irrigation and fertility and goes summer-dormant under prolonged heat and drought.",
+    "sources": [
+      "Simplot/Jacklin Seed",
+      "National Turfgrass Evaluation Program"
+    ]
+  },
+  {
+    "slug": "jamestown-chewings-fescue",
+    "common_name": "Jamestown Chewings Fescue (Original 1970s Fine-Textured Shade Turf Cultivar)",
+    "scientific_name": "Festuca rubra subsp. commutata 'Jamestown'",
+    "category": "cover-crop",
+    "subcategory": "turfgrass",
+    "days_to_germination": {"min": 10, "max": 21},
+    "germination_soil_temp_f": {"min": 55, "max": 70},
+    "days_to_maturity": {"min": 60, "max": 100},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {"min": -6, "max": -2},
+      "note": "Sow at 4-5 lbs per 1,000 sq ft in late summer to early fall; Jamestown was selected from clones found on an abandoned golf course on Jamestown Island, Rhode Island, and released by the Rhode Island Agricultural Experiment Station in 1974 as one of the first named fine fescue turf cultivars."
+    },
+    "usda_zones": {"min": 3, "max": 7},
+    "spacing_in": {"min": 1, "max": 2},
+    "height_in": {"min": 4, "max": 8},
+    "spread_in": {"min": 1, "max": 2},
+    "sun": "shade",
+    "water": "low",
+    "directions": "Jamestown was one of the first fine fescue cultivars ever given a name and commercialized for turf, selected from surviving clones on a long-abandoned golf course on Jamestown Island off the Rhode Island coast. As a Chewings fescue it grows in a compact, non-spreading bunch rather than by rhizomes, giving it a fine, upright texture that tolerates dry shade and low-fertility soil far better than Kentucky bluegrass or perennial ryegrass, though it was adapted mainly to the northern two-thirds of the country rather than the humid Southeast. It was later succeeded by the improved Jamestown II, which added tighter tillering and stronger disease resistance than this original 1970s release offered. Sow into a well-drained, lean seedbed in early fall, keep the surface consistently moist through germination, and avoid heavy nitrogen fertilization, which favors disease in fine fescues.",
+    "sources": [
+      "USDA NRCS Plant Guide",
+      "Rhode Island Agricultural Experiment Station",
+      "Oregon State University Extension"
+    ]
+  },
+  {
+    "slug": "pennant-perennial-ryegrass",
+    "common_name": "Pennant Perennial Ryegrass (Original 1970s Turf-Type Cultivar)",
+    "scientific_name": "Lolium perenne 'Pennant'",
+    "category": "cover-crop",
+    "subcategory": "turfgrass",
+    "days_to_germination": {"min": 5, "max": 10},
+    "germination_soil_temp_f": {"min": 50, "max": 65},
+    "days_to_maturity": {"min": 45, "max": 60},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {"min": -6, "max": -2},
+      "note": "Seed at 6-8 lbs per 1,000 sq ft in early fall or spring; Pennant was developed in cooperation with Rutgers turfgrass breeder Reed Funk and marketed in the 1970s-80s as a dark green, fine-bladed turf-type ryegrass."
+    },
+    "usda_zones": {"min": 3, "max": 8},
+    "spacing_in": {"min": 1, "max": 2},
+    "height_in": {"min": 2, "max": 3},
+    "spread_in": {"min": 1, "max": 2},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Pennant was a turf-type perennial ryegrass developed in cooperation with Rutgers breeder Reed Funk, noted in early comparative trials for maintaining a rich, moderately dark green color and fine leaf blades late into the season. It performed well as an overseed for dormant bermudagrass in southern Arizona and showed strong heat tolerance in southern Texas, qualities that made it a competitive choice in the 1970s-80s turf seed market before being superseded by the improved Pennant II. As a bunch-type grass it establishes quickly from seed but fills bare patches only by tillering rather than spreading, so thin areas need reseeding. Sow into a firm, well-prepared bed in early fall or spring, keep moist through germination, and mow regularly for best density.",
+    "sources": [
+      "Michigan State University Turfgrass Information Center",
+      "National Turfgrass Evaluation Program",
+      "Rutgers University Turfgrass Program"
+    ]
+  },
+  {
+    "slug": "navigator-creeping-red-fescue",
+    "common_name": "Navigator Creeping Red Fescue (Original Low-Input NTEP Turf Cultivar)",
+    "scientific_name": "Festuca rubra 'Navigator'",
+    "category": "cover-crop",
+    "subcategory": "turfgrass",
+    "days_to_germination": {"min": 10, "max": 21},
+    "germination_soil_temp_f": {"min": 55, "max": 70},
+    "days_to_maturity": {"min": 60, "max": 120},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {"min": -6, "max": -2},
+      "note": "Sow at 4-5 lbs per 1,000 sq ft in late summer to early fall in lean, well-drained soil; Navigator is the original strong creeping red fescue in a line carried through National Turfgrass Evaluation Program fine fescue trials, later followed by Navigator II and Navigator III."
+    },
+    "usda_zones": {"min": 3, "max": 7},
+    "spacing_in": {"min": 1, "max": 2},
+    "height_in": {"min": 4, "max": 10},
+    "spread_in": {"min": 1, "max": 2},
+    "sun": "partial",
+    "water": "low",
+    "directions": "Navigator is a strong creeping red fescue carried as a named entry through regional fine fescue variety trials, sharing the species' hallmark low fertility and water requirements that later made it a reference point for its improved successor, Navigator II. Like other fine fescues it forms a fine-textured, slow-growing turf well suited to dry shade, poor soils, and low-mow naturalized areas, spreading slowly by short rhizomes to knit together a tighter sod than the strictly bunch-type hard and Chewings fescues. It tends to develop brown leaf tips if mowed too closely or too infrequently, so it performs best left at a taller mowing height or unmowed as an ornamental meadow grass. Sow in early fall into a well-drained bed, keep evenly moist through germination, and blend with other fine fescues or Kentucky bluegrass for a low-maintenance lawn or roadside seed mix.",
+    "sources": [
+      "National Turfgrass Evaluation Program",
+      "Oregon State University Extension"
+    ]
+  },
+  {
+    "slug": "fiesta-perennial-ryegrass",
+    "common_name": "Fiesta Perennial Ryegrass (Original Turf-Type Cultivar)",
+    "scientific_name": "Lolium perenne 'Fiesta'",
+    "category": "cover-crop",
+    "subcategory": "turfgrass",
+    "days_to_germination": {"min": 5, "max": 10},
+    "germination_soil_temp_f": {"min": 50, "max": 65},
+    "days_to_maturity": {"min": 45, "max": 60},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {"min": -6, "max": -2},
+      "note": "Seed at 6-8 lbs per 1,000 sq ft in early fall or spring; Fiesta was the founding release in the long-running Fiesta line of turf-type perennial ryegrasses that was refined over successive generations into Fiesta II, Fiesta 4, and Fiesta Cinco."
+    },
+    "usda_zones": {"min": 3, "max": 8},
+    "spacing_in": {"min": 1, "max": 2},
+    "height_in": {"min": 2, "max": 3},
+    "spread_in": {"min": 1, "max": 2},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Fiesta was the original cultivar in what became a long-running line of turf-type perennial ryegrasses, established as an early improved alternative to coarse forage-type ryegrass with the finer leaf texture and denser tillering that defined the modern turf-type category. Its fast germination and quick mowable stand made it an early favorite for overseeding dormant warm-season lawns and athletic fields, a role the line's later generations such as Fiesta 4 and Fiesta Cinco continued to play in National Turfgrass Evaluation Program trials decades afterward. As a bunch-type grass it fills in by tillering rather than lateral spread, so bare patches need reseeding. Seed into a firm, well-prepared bed in early fall or spring and mow regularly for the best density.",
+    "sources": [
+      "DLF",
+      "National Turfgrass Evaluation Program",
+      "Oregon State University Extension"
+    ]
+  }
+]

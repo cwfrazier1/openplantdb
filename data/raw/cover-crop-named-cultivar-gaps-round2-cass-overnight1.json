@@ -1,0 +1,57 @@
+[
+  {
+    "slug": "control-oilseed-radish",
+    "common_name": "Control Oilseed Radish (Nematode-Suppressive Biofumigant Cover Crop Radish)",
+    "scientific_name": "Raphanus sativus var. oleiformis 'Control'",
+    "category": "cover-crop",
+    "subcategory": "oilseed radish cover crop",
+    "days_to_germination": {
+      "min": 3,
+      "max": 7
+    },
+    "germination_soil_temp_f": {
+      "min": 45,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 50,
+      "max": 70
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {
+        "min": -10,
+        "max": -6
+      },
+      "note": "Broadcast or drill into a firm, well-prepared seedbed 6 to 10 weeks before the first fall frost so plants build a full rosette and root system before killing cold arrives."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 4,
+      "max": 6
+    },
+    "height_in": {
+      "min": 18,
+      "max": 28
+    },
+    "spread_in": {
+      "min": 8,
+      "max": 12
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Control is an oilseed radish cultivar bred for pest suppression rather than deep tillage, relying on a spreading lateral and fibrous root system instead of one long daikon-type taproot to loosen surface soil and scavenge residual nitrogen. Its primary value is as a biofumigant: glucosinolate compounds released as roots and residue break down help suppress plant-parasitic nematodes and some soilborne pathogens ahead of a following cash crop. Dense, fast top growth shades out fall weed flushes, and compared with daikon-type tillage radishes its decomposing residue produces noticeably less of the sulfurous odor common to the group. A hard freeze reliably winterkills the crop in most temperate regions, after which growers can no-till plant directly into the collapsed residue the following spring without additional termination steps.",
+    "sources": [
+      "USDA NRCS Plant Materials Program",
+      "Midwest Cover Crops Council",
+      "SARE (Sustainable Agriculture Research and Education)"
+    ]
+  }
+]
