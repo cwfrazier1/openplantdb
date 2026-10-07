@@ -1,0 +1,83 @@
+[
+  {
+    "slug": "zijuan-tea",
+    "common_name": "Zijuan Tea (Purple Tea)",
+    "scientific_name": "Camellia sinensis 'Zijuan'",
+    "category": "herb",
+    "subcategory": "evergreen tea shrub",
+    "days_to_germination": { "min": 30, "max": 90 },
+    "germination_soil_temp_f": { "min": 65, "max": 80 },
+    "days_to_maturity": { "min": 1095, "max": 1825 },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": { "min": 0, "max": 6 },
+      "note": "Plant rooted cuttings in spring in acidic, well-drained, humus-rich soil in partial shade; Zijuan is a tropical, broad-leaved Yunnan selection best suited to USDA zones 8-10."
+    },
+    "usda_zones": { "min": 8, "max": 10 },
+    "spacing_in": { "min": 36, "max": 60 },
+    "height_in": { "min": 48, "max": 120 },
+    "spread_in": { "min": 36, "max": 72 },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Zijuan is a distinctive Yunnan large-leaf tea cultivar selected for its naturally deep purple leaves, buds, and stems, a trait caused by unusually high anthocyanin pigment levels rather than any processing step. It was bred from broad-leaved assamica-type tea stock native to Yunnan's mountains, and is processed into both loose green tea and purple-tinted pressed cakes, with the leaf retaining a purplish cast even after drying and a brew that takes on a pale lavender-to-pink hue depending on water chemistry and steep time. Grow it like other large-leaf Yunnan tea plants, in warm, humid conditions with acidic, well-drained, humus-rich soil and regular moisture, and expect a more tender, slower-hardening plant than the small-leaved Japanese and Chinese China-type cultivars. Its high anthocyanin and polyphenol content has also made it popular for specialty 'purple tea' marketing emphasizing antioxidant content.",
+    "sources": ["Yunnan Agricultural University", "Camellia Forest Nursery"]
+  },
+  {
+    "slug": "hong-yu-tea",
+    "common_name": "Hong Yu Tea (Ruby 18, Taiwan Tea No. 18)",
+    "scientific_name": "Camellia sinensis 'Hong Yu'",
+    "category": "herb",
+    "subcategory": "evergreen tea shrub",
+    "days_to_germination": { "min": 30, "max": 90 },
+    "germination_soil_temp_f": { "min": 65, "max": 80 },
+    "days_to_maturity": { "min": 1095, "max": 1825 },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": { "min": 0, "max": 6 },
+      "note": "Plant rooted cuttings in spring in acidic, well-drained, humus-rich soil in partial shade to full sun; Hong Yu is a vigorous, broad-leaved cultivar best suited to USDA zones 8-10."
+    },
+    "usda_zones": { "min": 8, "max": 10 },
+    "spacing_in": { "min": 36, "max": 60 },
+    "height_in": { "min": 48, "max": 120 },
+    "spread_in": { "min": 36, "max": 72 },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Hong Yu, officially registered by Taiwan's Tea Research and Extension Station as Taiwan Tea No. 18 and widely marketed as 'Ruby 18' or 'Red Jade,' was bred from a cross between wild Taiwanese mountain tea and a large-leaf Burmese assamica-type parent. It is best known as the signature cultivar behind Sun Moon Lake black tea, prized for a naturally sweet, honeyed black-tea liquor with a distinctive mint-and-cinnamon aroma that requires no flavoring additives. The plant is a vigorous, broad-leaved, assamica-influenced shrub that performs best in warm, humid conditions with acidic, well-drained, humus-rich soil, and it is markedly less cold-hardy than small-leaved China-type cultivars. Regular plucking of the top two leaves and a bud keeps the bush productive and encourages the tender new growth prized for black tea manufacture.",
+    "sources": ["Taiwan Tea Research and Extension Station", "Taiwan Council of Agriculture"]
+  },
+  {
+    "slug": "tukdah-tea",
+    "common_name": "Tukdah Tea (Darjeeling Clone)",
+    "scientific_name": "Camellia sinensis 'Tukdah'",
+    "category": "herb",
+    "subcategory": "evergreen tea shrub",
+    "days_to_germination": { "min": 30, "max": 90 },
+    "germination_soil_temp_f": { "min": 65, "max": 80 },
+    "days_to_maturity": { "min": 1095, "max": 1825 },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": { "min": 0, "max": 6 },
+      "note": "Plant rooted cuttings in spring in acidic, well-drained, humus-rich soil in partial shade to full sun; Tukdah Tea is best suited to USDA zones 8-10."
+    },
+    "usda_zones": { "min": 8, "max": 10 },
+    "spacing_in": { "min": 36, "max": 60 },
+    "height_in": { "min": 36, "max": 84 },
+    "spread_in": { "min": 36, "max": 60 },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Tukdah is one of the older clonal selections developed for the Darjeeling tea gardens of West Bengal, India, and remains a widely planted reference clone across the region's high-elevation estates. It is a China-type, small-leaved selection adapted to the cool, steep, mist-prone slopes of Darjeeling, producing a black tea valued for its brisk, floral character, though it is generally regarded as more workmanlike than the muscatel-forward specialty clones like AV2. Grow it in acidic, well-drained, humus-rich soil with partial shade and consistent moisture, expecting a slower-establishing, delicate plant typical of Darjeeling's China-type stock. As with other Darjeeling selections, careful withering and oxidation during processing are key to developing its characteristic cup quality.",
+    "sources": ["Tea Research Association, Tocklai Tea Research Institute, India"]
+  }
+]

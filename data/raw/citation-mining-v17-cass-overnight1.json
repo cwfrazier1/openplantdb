@@ -1,0 +1,56 @@
+[
+  {
+    "slug": "malling-landmark-raspberry",
+    "common_name": "Malling Landmark Raspberry",
+    "scientific_name": "Rubus idaeus 'Malling Landmark'",
+    "category": "berry",
+    "subcategory": "bramble",
+    "days_to_germination": { "min": 30, "max": 90 },
+    "germination_soil_temp_f": { "min": 60, "max": 70 },
+    "days_to_maturity": { "min": 365, "max": 548 },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": { "min": 0, "max": 4 },
+      "note": "Plant dormant canes or containerized transplants in late winter through early spring, spacing to allow good airflow; this historic English floricane type benefits from a wire trellis to support its vigorous canes."
+    },
+    "usda_zones": { "min": 4, "max": 8 },
+    "spacing_in": { "min": 24, "max": 36 },
+    "height_in": { "min": 60, "max": 96 },
+    "spread_in": { "min": 24, "max": 36 },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in well-drained, fertile soil in full sun; Malling Landmark is a historic English floricane raspberry raised in the breeding program at East Malling Research Station in Kent, part of the mid-20th-century maternal lineage that also produced Malling Promise and, through later crosses undertaken in Scotland, contributed to the parentage of modern Glen-series raspberries including Glen Moy. It bears medium-sized, firm, well-flavored red fruit on vigorous canes in summer. Prune out spent floricanes after harvest and thin new canes to the strongest few per foot of row.",
+    "sources": ["East Malling Research Station historical variety records", "James Hutton Institute (successor to the Scottish Crop Research Institute) raspberry breeding history", "Royal Horticultural Society plant records"]
+  },
+  {
+    "slug": "magic-of-oz-daylily",
+    "common_name": "Magic of Oz Daylily (Light Pink Spider with Emerald Green Throat)",
+    "scientific_name": "Hemerocallis 'Magic of Oz'",
+    "category": "flower",
+    "subcategory": "unusual form daylily",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": { "min": 365, "max": 730 },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": { "min": 0, "max": 6 },
+      "note": "Plant divisions in spring in fertile, well-drained soil in full sun; this Herrington spider-form introduction, registered in 1995, rewards generous spacing with tall, well-branched scapes."
+    },
+    "usda_zones": { "min": 3, "max": 9 },
+    "spacing_in": { "min": 18, "max": 24 },
+    "height_in": { "min": 34, "max": 38 },
+    "spread_in": { "min": 20, "max": 24 },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in fertile, well-drained soil in full sun; Magic of Oz is a spider-form daylily bearing large, light pink flowers about seven inches across with an emerald-green throat, held on tall, well-branched 37-inch scapes. Registered by H. Herrington in 1995, it blooms midseason and later earned the AHS Award of Merit (2003) and Harris Olson Spider Award (2005), and was used as a parent of Journey to Oz. Divide congested clumps in spring every few years to maintain vigor and bloom count.",
+    "sources": ["American Hemerocallis Society", "general horticultural reference"]
+  }
+]

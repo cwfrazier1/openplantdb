@@ -1,0 +1,83 @@
+[
+  {
+    "slug": "glen-clova-raspberry",
+    "common_name": "Glen Clova Raspberry",
+    "scientific_name": "Rubus idaeus 'Glen Clova'",
+    "category": "berry",
+    "subcategory": "bramble",
+    "days_to_germination": { "min": 30, "max": 90 },
+    "germination_soil_temp_f": { "min": 60, "max": 70 },
+    "days_to_maturity": { "min": 365, "max": 548 },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": { "min": 0, "max": 4 },
+      "note": "Plant dormant canes or containerized transplants in late winter through early spring, spacing to allow good airflow; this early-season floricane type benefits from a wire trellis to support heavy crops."
+    },
+    "usda_zones": { "min": 3, "max": 8 },
+    "spacing_in": { "min": 18, "max": 30 },
+    "height_in": { "min": 60, "max": 96 },
+    "spread_in": { "min": 40, "max": 60 },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in well-drained, fertile soil in full sun; Glen Clova, bred by Derek Jennings at Scotland's Scottish Crop Research Institute and released around 1969-1970, was the first of the SCRI 'Glen' series and for years was the mainstay of the Scottish raspberry industry thanks to yields roughly 30% higher than older cultivars of its day. It is an early-season floricane type bearing abundant, firm, slightly tart red berries excellent for jam and canning, and it served as a parent of Glen Moy along with Lloyd George and Malling Landmark. Prune out spent floricanes after harvest and thin new canes to the sturdiest few per foot of row.",
+    "sources": ["James Hutton Institute (successor to the Scottish Crop Research Institute) raspberry breeding history", "Royal Horticultural Society plant records", "Frank P Matthews and Ashridge Nurseries variety notes"]
+  },
+  {
+    "slug": "glen-prosen-raspberry",
+    "common_name": "Glen Prosen Raspberry",
+    "scientific_name": "Rubus idaeus 'Glen Prosen'",
+    "category": "berry",
+    "subcategory": "bramble",
+    "days_to_germination": { "min": 30, "max": 90 },
+    "germination_soil_temp_f": { "min": 60, "max": 70 },
+    "days_to_maturity": { "min": 365, "max": 548 },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": { "min": 0, "max": 4 },
+      "note": "Plant dormant canes in late winter through early spring; this nearly spine-free, moderately vigorous floricane type is well suited to wetter sites and benefits from a support wire for its heavy mid-to-late season crop."
+    },
+    "usda_zones": { "min": 3, "max": 8 },
+    "spacing_in": { "min": 18, "max": 30 },
+    "height_in": { "min": 48, "max": 96 },
+    "spread_in": { "min": 24, "max": 48 },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in well-drained, fertile soil in full sun; Glen Prosen, raised at Scotland's Scottish Crop Research Institute and released in 1982, was one of the first spine-free raspberry cultivars in the United Kingdom, named for one of the Five Glens of Angus in the SCRI's Scottish-glen naming tradition. It holds the Royal Horticultural Society Award of Garden Merit for its medium-sized, firm, richly flavored red berries that suit both fresh eating and jam-making, ripening on floricanes in mid-to-late season. Prune out spent canes after harvest and thin new growth to the strongest canes for the following year's crop.",
+    "sources": ["Royal Horticultural Society Award of Garden Merit records", "James Hutton Institute raspberry breeding history", "Chris Bowers & Sons and Ashridge Trees variety notes"]
+  },
+  {
+    "slug": "lloyd-george-raspberry",
+    "common_name": "Lloyd George Raspberry",
+    "scientific_name": "Rubus idaeus 'Lloyd George'",
+    "category": "berry",
+    "subcategory": "bramble",
+    "days_to_germination": { "min": 30, "max": 90 },
+    "germination_soil_temp_f": { "min": 60, "max": 70 },
+    "days_to_maturity": { "min": 365, "max": 548 },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": { "min": 0, "max": 4 },
+      "note": "Plant dormant bare-root canes in late winter through early spring, training the vigorous, lightly thorned canes to a wire trellis; this heritage English variety crops on floricanes in summer with a lighter secondary flush in autumn."
+    },
+    "usda_zones": { "min": 4, "max": 8 },
+    "spacing_in": { "min": 24, "max": 36 },
+    "height_in": { "min": 60, "max": 96 },
+    "spread_in": { "min": 24, "max": 36 },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in well-drained, fertile soil in full sun; Lloyd George is a vigorous English raspberry introduced around 1919 that was famed on introduction for its exceptional old-fashioned flavor, combining rich sweetness with a distinctive aroma still considered among the best of any raspberry. It is a floricane type bearing medium-sized, moderately firm, richly flavored red berries mainly in summer with a smaller autumn flush on new growth, though stocks have historically been prone to virus buildup over time. It was later used as a breeding parent for cultivars such as Glen Moy and Autumn Bliss. Prune out spent floricanes after harvest and remove any canes showing weak or distorted growth, which can signal virus infection.",
+    "sources": ["Royal Horticultural Society plant records", "Oregon State University historical raspberry variety records (Circular of Information 533)", "Chris Bowers & Sons and Harmony Garden Centre variety notes"]
+  }
+]

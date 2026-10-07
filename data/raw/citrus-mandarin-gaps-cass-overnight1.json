@@ -1,0 +1,56 @@
+[
+  {
+    "slug": "osceola-mandarin",
+    "common_name": "Osceola Mandarin (Osceola Tangerine, Clementine x Orlando Tangelo Cross)",
+    "scientific_name": "Citrus reticulata 'Osceola'",
+    "category": "fruit",
+    "subcategory": "citrus",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": { "min": 730, "max": 1095 },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": { "min": 0, "max": 6 },
+      "note": "Plant container or bare-root citrus in spring after frost danger has passed, in well-drained, slightly acidic soil in full sun."
+    },
+    "usda_zones": { "min": 9, "max": 11 },
+    "spacing_in": { "min": 96, "max": 144 },
+    "height_in": { "min": 96, "max": 144 },
+    "spread_in": { "min": 96, "max": 144 },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in well-drained, slightly acidic soil in full sun, protecting young trees from freezing temperatures. Osceola was bred by USDA researchers in Orlando, Florida from a 1942 cross of Clementine mandarin and Orlando tangelo, making it a sister selection to the similarly bred Lee, Nova, and Robinson mandarins from the same cross. It produces small, deep orange, easy-peeling fruit with rich, sweet flavor, ripening early in the mandarin season. The tree is productive and well suited to Florida and Gulf Coast home orchards, and it has also been used as a parent in later USDA mandarin breeding, including the widely planted Sunburst tangerine. Water deeply but infrequently, allowing soil to dry slightly between waterings, and fertilize with a citrus-specific fertilizer through the growing season.",
+    "sources": ["University of Florida IFAS Extension", "USDA Agricultural Research Service", "University of California Riverside Citrus Variety Collection"]
+  },
+  {
+    "slug": "ellendale-tangor",
+    "common_name": "Ellendale Tangor (Ellendale Mandarin)",
+    "scientific_name": "Citrus reticulata 'Ellendale'",
+    "category": "fruit",
+    "subcategory": "citrus",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": { "min": 1095, "max": 1825 },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": { "min": 0, "max": 6 },
+      "note": "Plant grafted trees in spring in well-drained, fertile soil in full sun, with some wind protection, since tangors are more cold-sensitive than sweet oranges."
+    },
+    "usda_zones": { "min": 9, "max": 11 },
+    "spacing_in": { "min": 120, "max": 180 },
+    "height_in": { "min": 96, "max": 180 },
+    "spread_in": { "min": 96, "max": 144 },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant grafted trees in well-drained, fertile soil in full sun with some wind protection. Ellendale arose as a natural tangor, a mandarin-orange hybrid of unknown parentage, discovered on the Ellendale property in Queensland, Australia as early as 1878. It produces large, oblate fruit with a thin, smooth, easily peeled orange-red rind and richly flavored, juicy, deep orange flesh, historically ranking as Australia's leading late-season mandarin export variety before Murcott partly displaced it commercially. Seed count varies with planting arrangement, running lower in solid-block plantings and higher where cross-pollination from other citrus occurs nearby. Fruit ripens late in the season, extending the home mandarin harvest. Water deeply but infrequently, allowing soil to dry slightly between waterings, and fertilize with a citrus-specific fertilizer through the growing season.",
+    "sources": ["University of California Riverside Citrus Variety Collection", "Citrus Australia", "University of Florida IFAS Extension"]
+  }
+]

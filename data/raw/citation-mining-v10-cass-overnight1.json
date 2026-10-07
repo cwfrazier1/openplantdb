@@ -1,0 +1,56 @@
+[
+  {
+    "slug": "brave-heart-mallow",
+    "common_name": "Brave Heart Mallow (Striped Lilac-Pink French Hollyhock)",
+    "scientific_name": "Malva sylvestris 'Brave Heart'",
+    "category": "herb",
+    "subcategory": "ornamental edible annual",
+    "days_to_germination": { "min": 7, "max": 14 },
+    "germination_soil_temp_f": { "min": 55, "max": 70 },
+    "days_to_maturity": { "min": 60, "max": 90 },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": { "min": -4, "max": 0 },
+      "note": "Direct-sow in cool spring or fall in well-drained, average to poor soil in full sun to partial shade; Brave Heart arose as a chance seedling and was selected for its richly veined, boldly striped flowers rather than for any difference in culture from the species."
+    },
+    "usda_zones": { "min": 4, "max": 8 },
+    "spacing_in": { "min": 12, "max": 24 },
+    "height_in": { "min": 24, "max": 36 },
+    "spread_in": { "min": 12, "max": 24 },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Brave Heart is a distinctive mallow cultivar that arose as a chance seedling and was selected and propagated for garden use, producing velvety lilac-pink flowers boldly striped and veined with deep purple, a richer, darker-veined effect than the paler 'Zebrina.' Plants grow upright with a well-mannered, hollyhock-like habit (earning the species the common name French Hollyhock), reaching 2-3 feet tall. Direct-sow into well-drained, lean to average soil in full sun to partial shade; like the species, Brave Heart tolerates poor soil and drought once established and blooms for months, attracting butterflies and hummingbirds. Deadhead spent blooms to prolong flowering and reduce self-sowing where a tidier planting is desired.",
+    "sources": ["Royal Horticultural Society", "Missouri Botanical Garden Plant Finder"]
+  },
+  {
+    "slug": "lemon-delight-melampodium",
+    "common_name": "Lemon Delight Butter Daisy (Pale Lemon-Yellow Melampodium)",
+    "scientific_name": "Melampodium paludosum 'Lemon Delight'",
+    "category": "flower",
+    "subcategory": "warm-season annual",
+    "days_to_germination": { "min": 7, "max": 14 },
+    "germination_soil_temp_f": { "min": 65, "max": 75 },
+    "days_to_maturity": { "min": 60, "max": 90 },
+    "maturity_from": "seed",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": { "min": -6, "max": -4 },
+      "note": "Start seeds indoors 4-6 weeks before last frost, or purchase transplants; in zone 9, plant in spring for summer and fall bloom in well-drained, moderately fertile, slightly acidic to neutral soil in full sun. Lemon Delight is a paler-flowered selection of butter daisy, otherwise sharing the species' carefree, heat-tolerant habit."
+    },
+    "usda_zones": { "min": 2, "max": 11 },
+    "spacing_in": { "min": 12, "max": 18 },
+    "height_in": { "min": 12, "max": 24 },
+    "spread_in": { "min": 12, "max": 18 },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Lemon Delight is a Fleuroselect Quality-recognized selection of butter daisy producing softer, lighter lemon-yellow flowers than the standard bright-gold species and seed series such as 'Medallion' and 'Derby,' on the same neat, mounded, self-cleaning plants that require no deadheading. Start seeds indoors 4-6 weeks before transplanting, or direct sow in warm soil, in well-drained, moderately fertile, slightly acidic to neutral soil in full sun. Blooms continuously from late spring through hard frost and is resistant to spider mites, maintaining clean foliage through Gulf Coast summer heat and humidity. Outstanding as an edging plant, in masses for summer color beds, and in containers; its paler yellow tone combines more softly with pastel companions than the standard species' saturated gold.",
+    "sources": ["All-America Selections", "University of Florida IFAS Extension"]
+  }
+]

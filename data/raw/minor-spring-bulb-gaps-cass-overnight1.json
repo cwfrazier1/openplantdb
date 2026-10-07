@@ -1,0 +1,83 @@
+[
+  {
+    "slug": "scilla-verna",
+    "common_name": "Spring Squill",
+    "scientific_name": "Scilla verna",
+    "category": "flower",
+    "subcategory": "spring bulb",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": { "min": 365, "max": 730 },
+    "maturity_from": "transplant",
+    "sow_method": "bulb",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": { "min": -8, "max": -4 },
+      "note": "Plant small bulbs 2-3 inches deep in fall in gritty, well-drained soil in full sun, ideally in short turf or a rock garden mimicking the coastal grassland and clifftop habitat where it grows wild."
+    },
+    "usda_zones": { "min": 5, "max": 8 },
+    "spacing_in": { "min": 2, "max": 3 },
+    "height_in": { "min": 2, "max": 6 },
+    "spread_in": { "min": 2, "max": 3 },
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant bulbs 2-3 inches deep and 2-3 inches apart in fall in lean, gritty, sharply-drained soil in full sun. A diminutive squill native to coastal grassland, cliffs, and dunes of the Atlantic fringes of Britain, Ireland, and western Europe, it produces short, dense, tight clusters of 2-12 small violet-blue, star-shaped flowers on stiff 2-6 inch stems in mid-to-late spring, each flower cluster subtended by distinctive persistent bracts. It thrives in short, closely grazed or mown turf and open rocky or sandy sites that stay lean and well-drained, and resents heavy, rich, or waterlogged soil. Best suited to rock gardens, sunny gravel plantings, or naturalized short-grass meadow areas in cooler climates; it does not tolerate hot, humid summers well. Leave foliage undisturbed until it yellows naturally.",
+    "sources": ["Royal Horticultural Society", "Pacific Bulb Society"]
+  },
+  {
+    "slug": "scilla-autumnalis",
+    "common_name": "Autumn Squill",
+    "scientific_name": "Scilla autumnalis",
+    "category": "flower",
+    "subcategory": "fall bulb",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": { "min": 365, "max": 730 },
+    "maturity_from": "transplant",
+    "sow_method": "bulb",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": { "min": -12, "max": -8 },
+      "note": "Plant small bulbs 2-3 inches deep in late summer in lean, well-drained soil in full sun; flowers typically emerge from the bare ground in late summer to early fall before the narrow leaves appear."
+    },
+    "usda_zones": { "min": 6, "max": 9 },
+    "spacing_in": { "min": 2, "max": 3 },
+    "height_in": { "min": 3, "max": 6 },
+    "spread_in": { "min": 2, "max": 3 },
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant bulbs 2-3 inches deep and 2-3 inches apart in late summer in lean, gritty, sharply-drained soil in full sun. Native to dry grassland, rocky slopes, and open scrub across the Mediterranean region and up the Atlantic coast of Europe, this diminutive squill sends up slender, leafless flower spikes bearing loose racemes of small, star-shaped, pale lilac-pink to violet flowers in late summer and early fall, with the narrow grass-like leaves following shortly after or alongside the blooms and persisting through winter before going dormant by late spring. Because it flowers on bare stems before leaf-out, it is easily overlooked if planted among taller companions; site it at the front of a sunny rock garden, gravel bed, or dry bank where the small flowers will be noticed. Requires a dry summer dormancy and sharp drainage, making it best suited to Mediterranean-climate gardens or rock gardens that are not irrigated in summer.",
+    "sources": ["Royal Horticultural Society", "Pacific Bulb Society"]
+  },
+  {
+    "slug": "muscari-armeniacum-cantab",
+    "common_name": "Cantab Grape Hyacinth (Pale Blue Muscari)",
+    "scientific_name": "Muscari armeniacum 'Cantab'",
+    "category": "flower",
+    "subcategory": "bulb perennial",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": { "min": 60, "max": 90 },
+    "maturity_from": "transplant",
+    "sow_method": "bulb",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": { "min": -8, "max": -4 },
+      "note": "Plant bulbs 3-4 inches deep and 3-4 inches apart in fall in well-drained soil in full sun to light shade."
+    },
+    "usda_zones": { "min": 4, "max": 8 },
+    "spacing_in": { "min": 3, "max": 4 },
+    "height_in": { "min": 6, "max": 8 },
+    "spread_in": { "min": 3, "max": 4 },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant bulbs 3-4 inches deep and 3-4 inches apart in fall in well-drained soil in full sun to light shade. 'Cantab' is a long-established, classic grape hyacinth selection distinguished from the standard deep-cobalt species by its softer, paler Cambridge-blue flower spikes, a gentler color that combines easily with pastel tulips and daffodils rather than competing with them. It blooms in mid-spring and naturalizes readily by offsets and self-seeding like other grape hyacinths, with foliage emerging in autumn and persisting through winter before flowering; allow it to yellow and die back naturally after bloom. Excellent massed under deciduous trees and shrubs or layered beneath later-flowering tulips.",
+    "sources": ["Royal Horticultural Society", "Missouri Botanical Garden Plant Finder"]
+  }
+]

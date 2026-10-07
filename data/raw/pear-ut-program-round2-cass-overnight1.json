@@ -1,0 +1,56 @@
+[
+  {
+    "slug": "dabney-pear",
+    "common_name": "Dabney Pear (University of Tennessee Fire-Blight-Resistant Pear)",
+    "scientific_name": "Pyrus communis 'Dabney'",
+    "category": "fruit",
+    "subcategory": "pome fruit",
+    "days_to_germination": { "min": 60, "max": 120 },
+    "germination_soil_temp_f": { "min": 50, "max": 70 },
+    "days_to_maturity": { "min": 1095, "max": 1825 },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": { "min": -8, "max": -4 },
+      "note": "Plant bare-root trees in late winter in well-drained, fertile loam in full sun; plant with a second pear cultivar for cross-pollination. Dabney was released from the University of Tennessee's fire-blight-resistant pear breeding program, the same program that produced Carrick and Morgan."
+    },
+    "usda_zones": { "min": 6, "max": 9 },
+    "spacing_in": { "min": 144, "max": 240 },
+    "height_in": { "min": 96, "max": 180 },
+    "spread_in": { "min": 96, "max": 180 },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in deep, fertile, well-drained soil in full sun; Dabney is a University of Tennessee fire-blight-resistant pear release combining moderate blight resistance with better-than-average dessert quality for a Southern-bred pear. The tree is small and spreading, becoming drooping under heavy crops, and bears early and heavily once established. Fruit is medium-sized, greenish with prominent russet dots, and the yellowish-white flesh is melting, tender, and juicy with a sweet-subacid flavor best suited to fresh eating rather than canning. Bloom comes in mid-to-late spring and fruit typically ripens in midsummer; harvest when fruit begins to soften at the blossom end, then ripen at room temperature.",
+    "sources": ["University of Tennessee historic pear breeding bulletins", "general horticultural reference"]
+  },
+  {
+    "slug": "tenn-pear",
+    "common_name": "Tenn Pear (Tennessee Pear, Fire-Blight-Resistant Low-Chill Pear)",
+    "scientific_name": "Pyrus communis 'Tenn'",
+    "category": "fruit",
+    "subcategory": "pome fruit",
+    "days_to_germination": { "min": 60, "max": 120 },
+    "germination_soil_temp_f": { "min": 50, "max": 70 },
+    "days_to_maturity": { "min": 1095, "max": 1825 },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": { "min": -8, "max": -4 },
+      "note": "Plant bare-root trees in late winter in well-drained, fertile loam in full sun; plant with a second pear cultivar for cross-pollination, as Tenn is only partially self-fertile. Released from the same University of Tennessee fire-blight-resistant pear breeding program that produced Carrick, Morgan, Orient, and Ayers."
+    },
+    "usda_zones": { "min": 6, "max": 9 },
+    "spacing_in": { "min": 144, "max": 240 },
+    "height_in": { "min": 180, "max": 240 },
+    "spread_in": { "min": 144, "max": 180 },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in deep, fertile, well-drained soil in full sun; Tenn is one of the fire-blight-resistant pear releases from the University of Tennessee's historic breeding program, reported resistant to fire blight with moderate resistance to leaf spot and good heat tolerance once established. Its low-to-moderate chill requirement makes it workable in north and central Gulf Coast zone 8b-9a locations where many standard European pears fail to set fruit reliably. Trees bloom in early spring with fragrant white flowers and bear small, sweet, greenish-yellow pears with a red blush, best eaten fresh, ripening in early fall. Harvest when fruit begins to soften at the blossom end, then ripen at room temperature for best flavor.",
+    "sources": ["UF/IFAS Extension", "University of Tennessee historic pear breeding bulletins", "general horticultural reference"]
+  }
+]
