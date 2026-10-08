@@ -1,0 +1,56 @@
+[
+  {
+    "slug": "himalayan-climbing-bleeding-heart",
+    "common_name": "Himalayan Climbing Bleeding Heart (Golden Climbing Bleeding Heart)",
+    "scientific_name": "Dactylicapnos scandens",
+    "category": "flower",
+    "subcategory": "tender climbing perennial vine",
+    "days_to_germination": { "min": 21, "max": 60 },
+    "germination_soil_temp_f": { "min": 60, "max": 70 },
+    "days_to_maturity": { "min": 120, "max": 365 },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": { "min": 0, "max": 4 },
+      "note": "Set out nursery starts after the last frost beside a trellis, netting, or open shrub for the tendrils to grasp; seed germinates slowly and erratically, so most gardeners begin with purchased plants or seedlings started well ahead indoors."
+    },
+    "usda_zones": { "min": 7, "max": 10 },
+    "spacing_in": { "min": 24, "max": 36 },
+    "height_in": { "min": 72, "max": 120 },
+    "spread_in": { "min": 24, "max": 36 },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Plant in humus-rich, consistently moist, well-drained soil in partial shade, giving the vine a trellis, netting, or large shrub to scramble through, since it climbs by clasping leaf tendrils rather than twining stems. Native to moist forest margins and scrub from the Himalaya into southwestern China, this fast-growing, finely divided-leaved vine produces a long succession of small, pendant, golden-yellow, heart-shaped flowers from summer into fall. In mild winters the fleshy rootstock may persist and resprout from the base, but where winters are harsh it is usually grown as a tender annual vine raised fresh from seed or purchased plants each spring. Keep the root zone cool and shaded even where the stems climb into brighter light, and water generously through the growing season since it does not tolerate drought.",
+    "sources": ["Royal Horticultural Society Plant Finder", "Plant Delights Nursery"]
+  },
+  {
+    "slug": "fishhead-bleeding-heart",
+    "common_name": "Fish-Head Bleeding Heart (Large-Flowered Chinese Woodland Bleeding Heart)",
+    "scientific_name": "Ichtyoselmis macrantha",
+    "category": "flower",
+    "subcategory": "rare Asian woodland perennial",
+    "days_to_germination": { "min": 30, "max": 90 },
+    "germination_soil_temp_f": { "min": 55, "max": 65 },
+    "days_to_maturity": { "min": 365, "max": 730 },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": { "min": -2, "max": 4 },
+      "note": "Plant divisions or container-grown plants in early spring into humus-rich, reliably moist, well-drained soil in partial to full shade; resents root disturbance and is slow to re-establish after being divided."
+    },
+    "usda_zones": { "min": 6, "max": 9 },
+    "spacing_in": { "min": 18, "max": 24 },
+    "height_in": { "min": 24, "max": 36 },
+    "spread_in": { "min": 18, "max": 30 },
+    "sun": "shade",
+    "water": "moderate",
+    "directions": "Plant in humus-rich, reliably moist, well-drained soil in partial to full shade beneath deciduous canopy, where this clump-forming woodland perennial from the mountain forests of Sichuan and Yunnan spreads slowly by creeping rhizomes. In late spring it sends up arching stems hung with unusually large, pendant, pale creamy-yellow flowers tipped in dusky maroon-purple, held above mounds of blue-green, finely divided, fern-like foliage reminiscent of its Dicentra relatives. It resents disturbance once established and is slow to settle in after division, so choose a permanent shaded site with cool soil and leave clumps undisturbed for years to build size. Mulch annually with leaf litter or compost to mimic its native forest-floor conditions and shield the shallow rhizomes from summer drought.",
+    "sources": ["Royal Horticultural Society Plant Finder", "Plant Delights Nursery", "Flora of China (eFloras.org)"]
+  }
+]

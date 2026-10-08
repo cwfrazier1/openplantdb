@@ -1,0 +1,83 @@
+[
+  {
+    "slug": "bressingham-blaze-crocosmia",
+    "common_name": "Bressingham Blaze Crocosmia (Classic Alan Bloom Orange-Red Montbretia)",
+    "scientific_name": "Crocosmia 'Bressingham Blaze'",
+    "category": "flower",
+    "subcategory": "summer bulb perennial",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": { "min": 90, "max": 150 },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": { "min": 0, "max": 4 },
+      "note": "Divide corm chains in early spring before growth resumes, or plant container specimens in well-drained, average to fertile soil in full sun; Bressingham Blaze is one of the taller Bressingham hybrids bred by Alan Bloom from a Crocosmia masoniorum x paniculata cross, growing noticeably larger than its more compact sister cultivar Vulcan."
+    },
+    "usda_zones": { "min": 6, "max": 9 },
+    "spacing_in": { "min": 6, "max": 10 },
+    "height_in": { "min": 26, "max": 34 },
+    "spread_in": { "min": 12, "max": 16 },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Bressingham Blaze reaches well above its compact sister selection Vulcan, bred by Alan Bloom from the same masoniorum x paniculata cross but kept at full height for a bolder mid-border presence. Vivid orange-red to vermillion flowers open in arching, branched sprays from mid to late summer above pleated, sword-shaped foliage, drawing hummingbirds and butterflies for weeks on end. It multiplies steadily from cormlets into an expanding clump without becoming as aggressive a spreader as older montbretia types. Grow in full sun with consistently moist, well-drained soil, and lift and divide congested clumps every three to four years in spring to keep flowering strong.",
+    "sources": ["Royal Horticultural Society", "Far Reaches Farm"]
+  },
+  {
+    "slug": "mary-palmers-enchantment-bougainvillea",
+    "common_name": "Mary Palmer's Enchantment Bougainvillea (Bicolor Sport of Mary Palmer)",
+    "scientific_name": "Bougainvillea spectabilis 'Mary Palmer's Enchantment'",
+    "category": "flower",
+    "subcategory": "tropical vine",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": { "min": 90, "max": 180 },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": { "min": 0, "max": 8 },
+      "note": "Plant container plants after the last frost in well-drained, lean soil in full sun on a sturdy trellis, arbor, or fence; a later sport of the parti-colored 'Mary Palmer', it carries the same white-and-pink bract color break but in a different balance between the two tones."
+    },
+    "usda_zones": { "min": 9, "max": 11 },
+    "spacing_in": { "min": 60, "max": 120 },
+    "height_in": { "min": 96, "max": 300 },
+    "spread_in": { "min": 96, "max": 240 },
+    "sun": "full",
+    "water": "low",
+    "directions": "Mary Palmer's Enchantment arose as a sport of the parti-colored 'Mary Palmer', inheriting the same unusual genetic color break that lets a single vine carry both white and pink bract clusters at once, but with the proportion between the two tones shifted from its parent's roughly even split. The vigorous, thorny, woody-stemmed vine climbs by scrambling over any available support and shares its parent's need for lean soil and full sun to favor heavy bract production over leafy growth. Like other spectabilis-type bougainvillea, it flowers most heavily when kept on the dry side between waterings, pushing a fresh flush of color after each dry-then-soak cycle through the warm months. Prune hard after a bloom flush to control size, since left unchecked it will scramble well beyond a typical trellis or arbor.",
+    "sources": ["Royal Horticultural Society Plant Finder", "NParks Flora & Fauna Web (Singapore)"]
+  },
+  {
+    "slug": "sunup-papaya",
+    "common_name": "SunUp Papaya (Original PRSV-Resistant Transgenic Hawaiian Papaya)",
+    "scientific_name": "Carica papaya 'SunUp'",
+    "category": "fruit",
+    "subcategory": "tropical fruit",
+    "days_to_germination": { "min": 10, "max": 21 },
+    "germination_soil_temp_f": { "min": 75, "max": 90 },
+    "days_to_maturity": { "min": 210, "max": 330 },
+    "maturity_from": "seed",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": { "min": 0, "max": 4 },
+      "note": "Start seeds 6-8 weeks before transplanting and move to the garden after frost danger passes in well-drained, fertile, slightly acidic to neutral soil in full sun; SunUp is the transgenic parent line crossed with the traditional 'Kapoho' cultivar to produce the hybrid 'Rainbow' papaya, and unlike that F1 hybrid it breeds true from its own seed."
+    },
+    "usda_zones": { "min": 9, "max": 12 },
+    "spacing_in": { "min": 60, "max": 108 },
+    "height_in": { "min": 84, "max": 168 },
+    "spread_in": { "min": 48, "max": 84 },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "SunUp is the original transgenic Hawaiian papaya line, engineered by inserting a gene for the papaya ringspot virus's own coat protein into the traditional red-fleshed 'Sunrise' papaya, which triggers a resistance response that let growers replant where the virus had devastated Hawaii's papaya industry in the early 1990s. Released to Hawaiian growers in 1998 alongside its hybrid offspring Rainbow, SunUp is a hermaphroditic line that self-pollinates and breeds true from its own seed, unlike Rainbow's bisexual F1 hybrid seed that must be purchased fresh each generation. Fruit carries the deep orange-red flesh and sweet flavor typical of its Sunrise parentage on a compact tree that begins bearing within less than a year of germination under warm conditions. Grow it exactly as other papaya: full sun and fast-draining, fertile soil, with frost protection for young trees since even a light freeze kills the trunk back to the ground.",
+    "sources": ["American Phytopathological Society (APSnet)", "University of Hawaii College of Tropical Agriculture and Human Resources"]
+  }
+]
