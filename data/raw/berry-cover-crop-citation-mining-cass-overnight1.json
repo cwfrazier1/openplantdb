@@ -1,0 +1,56 @@
+[
+  {
+    "slug": "katharine-blueberry",
+    "common_name": "Katharine Blueberry (Historic Early Highbush Blueberry Parent)",
+    "scientific_name": "Vaccinium corymbosum 'Katharine'",
+    "category": "berry",
+    "subcategory": "northern highbush blueberry",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": { "min": 730, "max": 1095 },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": { "min": 0, "max": 4 },
+      "note": "Plant in acidic, well-drained soil amended with peat or pine bark; valued today mainly as a historic breeding parent and collector planting rather than for fresh-market fruit quality."
+    },
+    "usda_zones": { "min": 4, "max": 7 },
+    "spacing_in": { "min": 48, "max": 72 },
+    "height_in": { "min": 48, "max": 72 },
+    "spread_in": { "min": 48, "max": 60 },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Katharine is one of Frederick Coville's early named highbush blueberry selections, part of his pioneering effort in the first decades of the twentieth century to domesticate wild New Jersey blueberry stock into garden-worthy cultivars. It is remembered today chiefly as a breeding parent rather than a garden fruit, most notably crossed with a wild Rubel bush to produce the richly flavored heirloom cultivar Stanley. The bush itself bears a modest crop of medium, mildly flavored berries in a typical midseason window, and like other selections from this founding generation it has long been surpassed in productivity and flavor by later highbush cultivars. Grow in strongly acidic, well-drained, humus-rich soil with a thick mulch layer, and treat it as a historical or collector's planting valued for its place in blueberry breeding history rather than for top dessert quality.",
+    "sources": ["Rutgers New Jersey Agricultural Experiment Station", "USDA Agricultural Research Service"]
+  },
+  {
+    "slug": "profumata-di-tortona-strawberry",
+    "common_name": "Profumata di Tortona Musk Strawberry (Heritage Italian Hautbois Strawberry)",
+    "scientific_name": "Fragaria moschata 'Profumata di Tortona'",
+    "category": "berry",
+    "subcategory": "heritage fruit",
+    "days_to_germination": { "min": 14, "max": 28 },
+    "germination_soil_temp_f": { "min": 55, "max": 68 },
+    "days_to_maturity": { "min": 60, "max": 90 },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": { "min": 0, "max": 4 },
+      "note": "Plant divisions or runners in spring in humus-rich, well-drained, slightly acidic soil in partial shade; pair a fruiting female plant with a compatible male musk strawberry nearby, since most musk strawberry stock is functionally single-sexed."
+    },
+    "usda_zones": { "min": 4, "max": 8 },
+    "spacing_in": { "min": 12, "max": 18 },
+    "height_in": { "min": 6, "max": 10 },
+    "spread_in": { "min": 12, "max": 24 },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Profumata di Tortona is a traditional Italian heirloom selection of musk strawberry historically grown around Tortona in Piedmont and kept alive today mainly through heirloom seed savers and specialty nurseries rather than commercial trade. Its name translates roughly to 'perfumed one of Tortona,' a nod to the unusually intense, musky-sweet aroma that sets it apart even among musk strawberries, often described as a blend of strawberry, pineapple, and rose. Like other musk strawberry stock, plants are functionally single-sexed, so a fruiting selection such as this one needs a compatible male plant nearby for reliable pollination and fruit set. The soft, intensely perfumed berries bruise easily and decline quickly after picking, so enjoy them fresh within a day of harvest rather than expecting them to store or ship.",
+    "sources": ["Baker Creek Heirloom Seeds", "Seed Savers Exchange", "Plants for a Future (pfaf.org)"]
+  }
+]

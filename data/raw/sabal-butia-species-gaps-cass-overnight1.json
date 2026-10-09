@@ -1,0 +1,83 @@
+[
+  {
+    "slug": "sabal-rosei",
+    "common_name": "Rose's Sabal Palm (Sinaloa Sabal)",
+    "scientific_name": "Sabal rosei",
+    "category": "flower",
+    "subcategory": "arid-adapted Sabal palm",
+    "days_to_germination": {"min": 60, "max": 150},
+    "germination_soil_temp_f": {"min": 75, "max": 90},
+    "days_to_maturity": {"min": 1825, "max": 3650},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 2, "max": 6},
+      "note": "Install in full sun in sharply drained soil during the warm season; this Pacific Mexico species wants more warmth and a milder winter than Gulf Coast native sabals."
+    },
+    "usda_zones": {"min": 9, "max": 11},
+    "spacing_in": {"min": 144, "max": 240},
+    "height_in": {"min": 180, "max": 420},
+    "spread_in": {"min": 96, "max": 168},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Found on the Pacific slope of Mexico across Sinaloa, Nayarit, Jalisco, and Colima, this large solitary-trunked sabal grows in seasonally dry tropical forest and thorn scrub at low elevation. Its glossy, deep green costapalmate leaves are broader and less waxy-blue than those of the related Sabal uresana, giving it a bolder, plainer look more reminiscent of Sabal mexicana at maturity. It is markedly drought tolerant once rooted in but only moderately cold hardy, shrugging off a light frost while suffering foliage damage in harder freezes, so reserve it for the milder end of zone 9b or a protected site. Give it generous overhead and lateral room, since trunk formation is slow and the eventual crown is wide.",
+    "sources": ["International Palm Society", "Palmpedia", "Riffle and Craft - An Encyclopedia of Cultivated Palms"]
+  },
+  {
+    "slug": "sabal-gretheriae",
+    "common_name": "Grether's Sabal Palm (Oaxaca Sabal)",
+    "scientific_name": "Sabal gretheriae",
+    "category": "flower",
+    "subcategory": "arid-adapted Sabal palm",
+    "days_to_germination": {"min": 60, "max": 150},
+    "germination_soil_temp_f": {"min": 75, "max": 90},
+    "days_to_maturity": {"min": 1825, "max": 3650},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 2, "max": 6},
+      "note": "Plant in full sun in lean, fast-draining soil in the warm season; seedlings are scarce outside specialist palm seed sources, so start with a well-established container plant."
+    },
+    "usda_zones": {"min": 9, "max": 11},
+    "spacing_in": {"min": 144, "max": 240},
+    "height_in": {"min": 180, "max": 360},
+    "spread_in": {"min": 96, "max": 156},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "This rare sabal is restricted to the Pacific coastal foothills of Oaxaca and Guerrero, Mexico, where it grows in dry tropical forest on rocky, well-drained slopes. Its costapalmate leaves carry a waxy silvery-blue cast on the underside reminiscent of Sabal uresana, but the species stays more modest in overall stature and is seldom offered outside palm-collector seed exchanges. Established plants tolerate extended drought without complaint and handle an occasional light frost, but hard freezes will damage foliage, so it suits sheltered zone 9b-10 gardens rather than exposed sites. Treat it as a slow-growing specimen piece for a dry, sunny bed rather than a quick-impact landscape palm.",
+    "sources": ["International Palm Society journal (Palms)", "Palmpedia"]
+  },
+  {
+    "slug": "butia-archeri",
+    "common_name": "Archer's Dwarf Jelly Palm",
+    "scientific_name": "Butia archeri",
+    "category": "flower",
+    "subcategory": "cold-hardy fruiting palm",
+    "days_to_germination": {"min": 60, "max": 180},
+    "germination_soil_temp_f": {"min": 75, "max": 90},
+    "days_to_maturity": {"min": 1460, "max": 3650},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 8},
+      "note": "Set out in spring in well-drained, lean soil in full sun; this is one of the smallest Butia species and suits a small bed or rock garden rather than a large specimen planting."
+    },
+    "usda_zones": {"min": 8, "max": 11},
+    "spacing_in": {"min": 48, "max": 84},
+    "height_in": {"min": 18, "max": 48},
+    "spread_in": {"min": 36, "max": 72},
+    "sun": "full",
+    "water": "low",
+    "directions": "Native to the cerrado grasslands of Minas Gerais and Goias in central Brazil, this is one of the smallest members of the genus, remaining acaulescent or forming only a short, largely below-ground trunk topped by a compact rosette. Its narrow, fine-textured, silvery-gray leaflets give a delicate, almost grass-like look that sets it apart from the coarser, broader-leaved Pindo Palm, and unlike the clustering Butia lallemantii it grows as a single solitary rosette. Small tart fruits follow the same jelly-making tradition as other Butia species. Grow in full sun in lean, sharply drained soil with minimal supplemental water, reflecting its seasonally dry cerrado origin, and expect it to share the strong cold hardiness typical of the genus, tolerating brief freezes well once established.",
+    "sources": ["International Palm Society", "Palmpedia"]
+  }
+]

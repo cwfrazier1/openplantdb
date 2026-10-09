@@ -1,0 +1,83 @@
+[
+  {
+    "slug": "hines-purpleleaf-loropetalum",
+    "common_name": "Hines Purpleleaf Loropetalum (Original Vigorous Purple-Leaf Fringe Flower)",
+    "scientific_name": "Loropetalum chinense var. rubrum 'Hines Purpleleaf'",
+    "category": "flower",
+    "subcategory": "flowering shrub",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 365, "max": 730},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 8},
+      "note": "Plant container shrubs in spring in well-drained, moderately fertile, slightly acidic soil in full sun to light shade; full sun on this larger-growing older selection brings out the deepest wine-purple leaf color and heaviest bloom."
+    },
+    "usda_zones": {"min": 7, "max": 10},
+    "spacing_in": {"min": 60, "max": 96},
+    "height_in": {"min": 72, "max": 180},
+    "spread_in": {"min": 72, "max": 144},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "One of the original purple-leaf fringe flowers distributed to US wholesale growers from early Chinese plant-exploration introductions, this selection keeps its deep burgundy-purple foliage through the growing season and produces an especially heavy flush of magenta-pink, strap-petaled spring flowers against the dark leaves. Unlike many newer dwarf and compact Loropetalum cultivars bred since, this older clone retains the large, rangy, upright growth habit of the straight species and is best used as an informal hedge, screen, or background shrub rather than a foundation planting. Grow it in acidic, humus-rich, well-drained soil and water deeply through the first year or two while the extensive root system establishes. Prune for shape immediately after the main spring bloom, since the shrub sets next year's flower buds on the current season's growth soon after flowering ends.",
+    "sources": ["Clemson Cooperative Extension", "University of Florida IFAS Extension", "North Carolina State Extension Gardener Plant Toolbox"]
+  },
+  {
+    "slug": "jazz-hands-variegated-loropetalum",
+    "common_name": "Jazz Hands Variegated Loropetalum (Pink-Flushed Cream-and-Green Fringe Flower)",
+    "scientific_name": "Loropetalum chinense 'Jazz Hands Variegated'",
+    "category": "flower",
+    "subcategory": "flowering shrub",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 365, "max": 730},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 8},
+      "note": "Plant container shrubs in spring in well-drained, slightly acidic soil in partial shade to full sun; some direct sun keeps the variegated pattern crisp, while a bit of afternoon shade in hot climates prevents leaf scorch on the cream-marked foliage."
+    },
+    "usda_zones": {"min": 7, "max": 10},
+    "spacing_in": {"min": 36, "max": 48},
+    "height_in": {"min": 36, "max": 48},
+    "spread_in": {"min": 36, "max": 48},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Bred into the compact Jazz Hands series alongside the Bold, Mini, and Dwarf Pink selections, this cultivar is grown chiefly for foliage that emerges flushed deep pink before settling into green leaves irregularly splashed and margined with creamy white, giving a constantly shifting color display beyond the typical solid-purple fringe flower look. Rose-pink, ribbon-petaled spring flowers appear against the variegated leaves, with light rebloom possible later in the season. Its dense, rounded, slow-to-moderate growth habit fits foundation plantings, mixed borders, or large containers without the size management that older, larger Loropetalum selections demand. Water regularly through the first growing season, then taper to occasional deep watering during dry spells, and remove any plain-green reversion shoots promptly to keep the variegated pattern dominant.",
+    "sources": ["Southern Living Plant Collection", "Clemson Cooperative Extension"]
+  },
+  {
+    "slug": "theta-dwarf-asiatic-jasmine",
+    "common_name": "Theta Dwarf Asiatic Jasmine",
+    "scientific_name": "Trachelospermum asiaticum 'Theta'",
+    "category": "flower",
+    "subcategory": "flowering vine",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 365, "max": 730},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 6},
+      "note": "Plant container-grown divisions or rooted cuttings in spring, spacing closely in well-drained soil in partial shade to full sun; this small-leaf groundcover selection fills in faster than the straight species when planted on tight centers."
+    },
+    "usda_zones": {"min": 7, "max": 10},
+    "spacing_in": {"min": 12, "max": 18},
+    "height_in": {"min": 6, "max": 12},
+    "spread_in": {"min": 24, "max": 48},
+    "sun": "partial",
+    "water": "low",
+    "directions": "Grown as a dense, mowable-height groundcover rather than a climbing vine, this selection carries narrower, smaller, darker-green leaves than common Asiatic jasmine, giving a finer, tighter texture on slopes, under trees, and in beds too shady or awkward to mow. Trailing stems root as they spread, knitting quickly into a solid, weed-suppressing mat that takes both heavy shade and considerable sun once established. Foliage picks up a bronze to maroon cast in cold weather, adding seasonal interest the plain species lacks, and small white flowers appear sparingly and are largely incidental to its groundcover use. Water regularly the first year to speed establishment, then rely on rainfall except during extended drought, and shear or mow high in late winter every year or two to remove tired growth and encourage dense new foliage.",
+    "sources": ["University of Florida IFAS Extension", "Texas A&M AgriLife Extension"]
+  }
+]

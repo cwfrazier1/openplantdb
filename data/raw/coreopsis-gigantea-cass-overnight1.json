@@ -1,0 +1,29 @@
+[
+  {
+    "slug": "coreopsis-gigantea",
+    "common_name": "Giant Coreopsis",
+    "scientific_name": "Coreopsis gigantea",
+    "category": "flower",
+    "subcategory": "California coastal succulent-stemmed perennial",
+    "days_to_germination": {"min": 14, "max": 30},
+    "germination_soil_temp_f": {"min": 65, "max": 75},
+    "days_to_maturity": {"min": 365, "max": 730},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {"min": 0, "max": 6},
+      "note": "Sow or set out young plants in fall so roots establish ahead of winter rains in its mild coastal native range; once established, plants need no summer irrigation and are prone to crown rot if watered during their dry-season dormancy."
+    },
+    "usda_zones": {"min": 9, "max": 11},
+    "spacing_in": {"min": 36, "max": 60},
+    "height_in": {"min": 24, "max": 96},
+    "spread_in": {"min": 24, "max": 48},
+    "sun": "full",
+    "water": "low",
+    "directions": "Giant coreopsis is native to coastal bluffs, slopes, and the Channel Islands of southern and central California, where it is instantly recognizable for its thick, gray, succulent-looking woody trunk topped by a crown of finely divided, fern-like foliage. During the dry summer and fall months the plant drops its leaves entirely and stands dormant as a bare, sculptural branched trunk, a drought-survival strategy that makes it look dead to the uninitiated. With the return of winter rains it leafs out again and, from late winter into spring, produces masses of large, bright golden-yellow daisy flowers held well above the foliage on long stalks. It demands excellent drainage, lean soil, and no summer water, making it a striking architectural accent in dry coastal, Mediterranean-climate, and rock gardens but a poor fit for regular irrigation schemes.",
+    "sources": ["California Native Plant Society — Calscape", "Theodore Payne Foundation", "Calflora"]
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "slug": "baptisia-albescens",
+    "common_name": "Spiked Wild Indigo",
+    "scientific_name": "Baptisia albescens",
+    "category": "flower",
+    "subcategory": "native perennial wildflower",
+    "days_to_germination": {"min": 14, "max": 30},
+    "germination_soil_temp_f": {"min": 65, "max": 75},
+    "days_to_maturity": {"min": 730, "max": 1095},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Direct sow scarified seed in fall into lean, dry, sandy, well-drained soil in full sun; like other Baptisia species it develops a deep taproot quickly and should be sown directly into its permanent site rather than started for later transplanting."
+    },
+    "usda_zones": {"min": 6, "max": 9},
+    "spacing_in": {"min": 24, "max": 36},
+    "height_in": {"min": 24, "max": 36},
+    "spread_in": {"min": 24, "max": 36},
+    "sun": "full",
+    "water": "low",
+    "directions": "Spiked wild indigo is a southeastern pine-woodland legume in the same genus as the more familiar white wild indigo, but is readily told apart by its narrower, more slender, spike-like flower racemes. Like its Baptisia relatives it sends down a deep taproot that resents disturbance, so seed is best sown directly into a permanent, well-drained, sunny site rather than started for later transplanting elsewhere. It thrives in the lean, dry, sandy soils of pine and oak woodlands and sandhills across its southeastern range, tolerating heat and drought far better than rich, regularly watered garden ground. Breeders have used it as a parent in hybrid Baptisia introductions bred for the perennial trade, and like the rest of the genus its foliage serves as a larval host plant for the wild indigo duskywing butterfly.",
+    "sources": ["USDA PLANTS Database", "Flora of the Southeastern United States (FSUS)"]
+  },
+  {
+    "slug": "eupatorium-linearifolium",
+    "common_name": "Narrowleaf Thoroughwort",
+    "scientific_name": "Eupatorium linearifolium",
+    "category": "flower",
+    "subcategory": "native perennial wildflower",
+    "days_to_germination": {"min": 10, "max": 21},
+    "germination_soil_temp_f": {"min": 65, "max": 75},
+    "days_to_maturity": {"min": 180, "max": 365},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Direct sow on the soil surface in fall in sandy, well-drained to seasonally moist soil in full sun; seeds benefit from winter cold and moisture before germinating the following spring."
+    },
+    "usda_zones": {"min": 6, "max": 9},
+    "spacing_in": {"min": 18, "max": 24},
+    "height_in": {"min": 24, "max": 40},
+    "spread_in": {"min": 18, "max": 24},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Narrowleaf thoroughwort takes its name from its slender, linear leaves, a trait that immediately sets it apart from the broader-leaved thoroughworts it grows alongside in southeastern pine savannas and sandy open woods. It is easily confused with the similar-looking smallflower thoroughwort, but produces smaller flower heads on a stem that branches mainly in the upper half rather than along its full length. Flat-topped clusters of small white disc flowers, with no showy ray petals, open from late summer into fall and draw a modest crowd of late-season native bees and other small pollinators. Grow it in full sun to light shade in well-drained to seasonally moist, sandy soil, matching the dry-to-damp pine woodland edges where it is found in the wild.",
+    "sources": ["Go Botany (Native Plant Trust)", "Flora of the Southeastern United States (FSUS)"]
+  }
+]

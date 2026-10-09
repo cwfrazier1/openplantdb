@@ -1,0 +1,83 @@
+[
+  {
+    "slug": "ruellia-tuberosa",
+    "common_name": "Fever Root (Minnie Root, Cracker Plant)",
+    "scientific_name": "Ruellia tuberosa",
+    "category": "flower",
+    "subcategory": "naturalized tropical perennial",
+    "days_to_germination": {"min": 14, "max": 30},
+    "germination_soil_temp_f": {"min": 70, "max": 85},
+    "days_to_maturity": {"min": 90, "max": 150},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 0, "max": 6},
+      "note": "Direct sow or set out transplants after the last frost into average, well-drained soil in full sun; this tropical American species is naturalized throughout Florida and the Gulf Coast and self-sows readily once established, so site it where volunteer seedlings are welcome."
+    },
+    "usda_zones": {"min": 8, "max": 11},
+    "spacing_in": {"min": 12, "max": 18},
+    "height_in": {"min": 12, "max": 24},
+    "spread_in": {"min": 12, "max": 24},
+    "sun": "full",
+    "water": "low",
+    "directions": "Fever root is a tuberous-rooted member of the wild petunia group, naturalized from tropical America into disturbed sites, roadsides, and garden beds across the Gulf Coast, where it produces funnel-shaped, pale violet-blue flowers from spring through fall. Its common name 'Cracker Plant' comes from the ribbed seed capsules, which snap open explosively when wetted, flinging seeds away from the parent plant and accounting for its tendency to pop up unassisted in nearby beds and lawns. The fleshy, tuber-like storage roots let it shrug off dry spells once established, and top growth killed by a hard freeze typically returns from those roots the following warm season. Because it self-seeds so freely, it reads better as an informal filler in a naturalistic pollinator bed than as a disciplined border plant; unwanted seedlings pull easily while young.",
+    "sources": ["University of Florida IFAS Extension", "Atlas of Florida Plants"]
+  },
+  {
+    "slug": "ruellia-noctiflora",
+    "common_name": "Night-Flowering Wild Petunia",
+    "scientific_name": "Ruellia noctiflora",
+    "category": "flower",
+    "subcategory": "native wildflower",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 90, "max": 150},
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 2, "max": 4},
+      "note": "Set nursery-propagated transplants or divisions into sharply drained, sandy soil in full sun after the last frost, mimicking the sandhill and scrub habitat this rare Florida native occupies in the wild."
+    },
+    "usda_zones": {"min": 8, "max": 10},
+    "spacing_in": {"min": 12, "max": 18},
+    "height_in": {"min": 12, "max": 24},
+    "spread_in": {"min": 12, "max": 18},
+    "sun": "full",
+    "water": "low",
+    "directions": "Night-flowering wild petunia is an imperiled Florida native of sandhill and scrub communities in the central and northern peninsula, distinguished from its common roadside relatives by large white flowers that unfurl in late afternoon or evening and wilt again by the following midday, a bloom schedule suited to moth pollinators rather than daytime bees. It needs the same sharply drained, low-fertility sandy soil and full sun as the scrub habitat it comes from, and resents heavy, moisture-retentive garden beds. Because wild populations are limited and declining from habitat loss, only plant nursery-propagated material from a reputable native-plant source, never wild-collected stock. In a sandy, open wildflower planting it offers an unusual evening-garden moment that few other Gulf Coast natives provide.",
+    "sources": ["Atlas of Florida Plants", "Florida Native Plant Society (FNPS) Plant Profiles"]
+  },
+  {
+    "slug": "monkey-plant-ruellia-makoyana",
+    "common_name": "Monkey Plant (Trailing Velvet Plant)",
+    "scientific_name": "Ruellia makoyana",
+    "category": "flower",
+    "subcategory": "tropical shade perennial",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 90, "max": 180},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 2, "max": 6},
+      "note": "Plant rooted cuttings or container stock in moist, humus-rich soil in part shade after all frost danger has passed; in zone 9a it has no cold tolerance and does best as a hanging basket or container plant moved under cover before the first frost rather than as an in-ground bed plant."
+    },
+    "usda_zones": {"min": 10, "max": 11},
+    "spacing_in": {"min": 12, "max": 18},
+    "height_in": {"min": 8, "max": 12},
+    "spread_in": {"min": 12, "max": 24},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "This Brazilian species is grown not for showy bloom but for its velvety, deep-green leaves traced with pale silvery veins and flushed purplish beneath, a quietly dramatic foliage effect that gives it the common name Trailing Velvet Plant. Clusters of slender, carmine-pink tubular flowers appear mainly in fall and winter, extending seasonal interest past the usual summer-blooming Ruellia relatives. It wants consistent moisture, part shade, and protection from hot midday sun, which scorches the fuzzy leaves, and a lax, trailing habit that suits hanging baskets or a shaded groundcover in frost-free settings. On the Gulf Coast it is best treated as a container or basket specimen brought indoors or under cover for winter rather than planted directly in the ground, since it has essentially no frost tolerance.",
+    "sources": ["Logee's Tropical Plants", "American Horticultural Society A-Z Encyclopedia of Garden Plants"]
+  }
+]

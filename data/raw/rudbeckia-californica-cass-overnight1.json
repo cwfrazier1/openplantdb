@@ -1,0 +1,25 @@
+[
+  {
+    "slug": "rudbeckia-californica",
+    "common_name": "California Coneflower",
+    "scientific_name": "Rudbeckia californica",
+    "category": "flower",
+    "subcategory": "native perennial wildflower",
+    "days_to_germination": {"min": 14, "max": 28},
+    "germination_soil_temp_f": {"min": 60, "max": 70},
+    "days_to_maturity": {"min": 365, "max": 730},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {"anchor": "fall", "weeks_from_anchor": {"min": -8, "max": -2}, "note": "Sow in fall or cold-stratify seed for several weeks, since this high-elevation wetland native germinates best after a period of cold, moist chilling; seedlings are slow to establish and plants often take a second season to flower."},
+    "usda_zones": {"min": 5, "max": 9},
+    "spacing_in": {"min": 18, "max": 24},
+    "height_in": {"min": 24, "max": 72},
+    "spread_in": {"min": 18, "max": 36},
+    "sun": "full",
+    "water": "high",
+    "directions": "Plant in consistently moist to boggy soil along streambanks, seeps, and wet mountain meadows, mimicking the high-elevation habitat this coneflower occupies from the Sierra Nevada and Cascades south into the mountains of southern California and Baja California. It is easily told apart from other Rudbeckia species by its unusually tall, elongated brown-green central cone, which rises well above the short, drooping yellow ray florets. Clumps spread gradually by rhizomes and tolerate boggy, saturated ground that would rot most other perennial coneflowers, making it a good choice for pond margins and rain gardens at higher elevations. Established colonies draw a wide range of native bees and butterflies through mid-to-late summer bloom.",
+    "sources": ["Jepson eFlora (University of California)", "Calflora", "USDA PLANTS Database"]
+  }
+]

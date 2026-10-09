@@ -1,0 +1,29 @@
+[
+  {
+    "slug": "ruby-ball-cabbage",
+    "common_name": "Ruby Ball Cabbage (1960 AAS-Winning Early Red Hybrid Cabbage)",
+    "scientific_name": "Brassica oleracea var. capitata 'Ruby Ball'",
+    "category": "vegetable",
+    "subcategory": "cabbage",
+    "days_to_germination": {"min": 5, "max": 10},
+    "germination_soil_temp_f": {"min": 45, "max": 75},
+    "days_to_maturity": {"min": 71, "max": 80},
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {"min": -14, "max": -10},
+      "note": "Start indoors 6-8 weeks before transplanting; in zone 9, set out transplants in late summer for a fall crop or in very early spring for a quick spring harvest before summer heat arrives. The compact, uniformly round heads mature quickly and hold in the garden for a week or two past maturity without splitting."
+    },
+    "usda_zones": {"min": 2, "max": 10},
+    "spacing_in": {"min": 12, "max": 16},
+    "height_in": {"min": 10, "max": 14},
+    "spread_in": {"min": 12, "max": 15},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Start seeds indoors six to eight weeks before the planned transplant date, then set hardened-off seedlings into full sun in fertile, well-drained soil. Ruby Ball is an F1 hybrid red cabbage that won an All-America Selections award in 1960 for its ability to form small, dense, perfectly round purple-red heads earlier and more uniformly than the open-pollinated red cabbages that were standard at the time. The compact three- to four-pound heads are notably crack-resistant and hold in the garden for a week or two past maturity, giving some flexibility in harvest timing. Like other red cabbages, Ruby Ball carries a sharper, slightly peppery flavor and higher anthocyanin content than green types, and it is well suited to coleslaw, quick braises, and short-term cold storage.",
+    "sources": ["All-America Selections — historical AAS vegetable winners list", "Burpee — Ruby Ball Hybrid Cabbage variety description", "Cornell Cooperative Extension — Cabbage Variety Guide"]
+  }
+]

@@ -6,25 +6,49 @@
     "category": "flower",
     "subcategory": "bulb",
     "days_to_germination": null,
-    "germination_soil_temp_f": { "min": 60, "max": 75 },
-    "days_to_maturity": { "min": 60, "max": 80 },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 80
+    },
     "maturity_from": "transplant",
     "sow_method": "tuber",
     "season": "warm",
     "frost_tolerance": "tender",
     "planting": {
       "anchor": "last_frost",
-      "weeks_from_anchor": { "min": 0, "max": 4 },
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
       "note": "Plant tubers 4-6 inches deep after the last frost; Gallery Pablo is a dwarf decorative dahlia bred for pots and border fronts, producing showy light coral-red blooms shading to apricot-yellow at the petal base."
     },
-    "usda_zones": { "min": 8, "max": 11 },
-    "spacing_in": { "min": 10, "max": 14 },
-    "height_in": { "min": 12, "max": 16 },
-    "spread_in": { "min": 12, "max": 16 },
+    "usda_zones": {
+      "min": 8,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 10,
+      "max": 14
+    },
+    "height_in": {
+      "min": 12,
+      "max": 16
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 16
+    },
     "sun": "full",
     "water": "moderate",
     "directions": "Plant tubers four to six inches deep in fertile, well-drained soil in full sun after the danger of frost has passed. Gallery Pablo is a compact, dwarf decorative dahlia from the Dutch-bred Gallery series, named for painters and art movements, bearing freely produced light coral-red flowers roughly six inches across that shade to apricot-yellow near the base of each petal. Its low, bushy habit needs no staking and suits containers, window boxes, and the front of mixed borders, flowering continuously from midsummer until frost if spent blooms are deadheaded regularly. In frost-free zones the tubers can be left in the ground with heavy mulch, while gardeners farther north should lift and store them indoors over winter.",
-    "sources": ["American Dahlia Society", "Gardenia.net plant database"]
+    "sources": [
+      "American Dahlia Society",
+      "Gardenia.net plant database"
+    ]
   },
   {
     "slug": "gallery-serenade-dahlia",
@@ -33,25 +57,49 @@
     "category": "flower",
     "subcategory": "bulb",
     "days_to_germination": null,
-    "germination_soil_temp_f": { "min": 60, "max": 75 },
-    "days_to_maturity": { "min": 60, "max": 80 },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 80
+    },
     "maturity_from": "transplant",
     "sow_method": "tuber",
     "season": "warm",
     "frost_tolerance": "tender",
     "planting": {
       "anchor": "last_frost",
-      "weeks_from_anchor": { "min": 0, "max": 4 },
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
       "note": "Plant tubers 4-6 inches deep after the last frost; Gallery Serenade is a dwarf decorative dahlia in the same bedding series as Gallery Pablo, bearing pale lemon-yellow blooms that fade to soft yellow at the petal tips."
     },
-    "usda_zones": { "min": 8, "max": 11 },
-    "spacing_in": { "min": 10, "max": 14 },
-    "height_in": { "min": 14, "max": 18 },
-    "spread_in": { "min": 12, "max": 16 },
+    "usda_zones": {
+      "min": 8,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 10,
+      "max": 14
+    },
+    "height_in": {
+      "min": 14,
+      "max": 18
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 16
+    },
     "sun": "full",
     "water": "moderate",
     "directions": "Set tubers four to six inches deep in rich, well-drained soil in full sun once nights stay reliably above freezing. Gallery Serenade is a dwarf, free-flowering decorative dahlia that opens pale lemon-yellow blooms about five inches wide, the color softening to a gentler yellow toward the petal tips, on a tidy, self-supporting plant well suited to patio containers and the front of sunny beds. It flowers in heavy flushes from midsummer through the first hard frost and responds well to regular deadheading, which keeps fresh buds coming rather than letting the plant set seed. Where winters are too cold for tubers to overwinter outdoors, lift the clumps after the foliage is blackened by frost and store them in a cool, frost-free place until spring.",
-    "sources": ["American Dahlia Society", "Gardenia.net plant database"]
+    "sources": [
+      "American Dahlia Society",
+      "Gardenia.net plant database"
+    ]
   },
   {
     "slug": "christmas-carol-dahlia",
@@ -60,25 +108,49 @@
     "category": "flower",
     "subcategory": "bulb",
     "days_to_germination": null,
-    "germination_soil_temp_f": { "min": 60, "max": 75 },
-    "days_to_maturity": { "min": 75, "max": 100 },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 75,
+      "max": 100
+    },
     "maturity_from": "transplant",
     "sow_method": "tuber",
     "season": "warm",
     "frost_tolerance": "tender",
     "planting": {
       "anchor": "last_frost",
-      "weeks_from_anchor": { "min": 0, "max": 4 },
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
       "note": "Plant tubers horizontally 4-6 inches deep after last frost; Christmas Carol is a collarette dahlia with a single outer ring of bright red florets surrounding a shorter inner collar of creamy-white petals around a yellow disc."
     },
-    "usda_zones": { "min": 8, "max": 11 },
-    "spacing_in": { "min": 18, "max": 24 },
-    "height_in": { "min": 24, "max": 36 },
-    "spread_in": { "min": 18, "max": 24 },
+    "usda_zones": {
+      "min": 8,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 24,
+      "max": 36
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
     "sun": "full",
     "water": "moderate",
     "directions": "Plant tubers horizontally four to six inches deep in fertile, well-drained soil in full sun after the last frost. Christmas Carol is a collarette dahlia, a distinctive open-centered form with a single outer ring of flat, bright red ray florets and a shorter inner collar of ruffled, creamy-white petals framing a yellow central disc, giving each flower a two-tone, festive look. The clump-forming plant stays a manageable two to three feet tall with dark green, serrated foliage, blooming steadily from midsummer into autumn and making an excellent cut flower since collarette types hold up well once picked. Pinch young plants to encourage branching and deadhead spent blooms to keep new buds forming through the season.",
-    "sources": ["Royal Horticultural Society", "American Dahlia Society"]
+    "sources": [
+      "Royal Horticultural Society",
+      "American Dahlia Society"
+    ]
   },
   {
     "slug": "myrtles-folly-dahlia",
@@ -87,25 +159,49 @@
     "category": "flower",
     "subcategory": "bulb",
     "days_to_germination": null,
-    "germination_soil_temp_f": { "min": 60, "max": 75 },
-    "days_to_maturity": { "min": 90, "max": 120 },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 90,
+      "max": 120
+    },
     "maturity_from": "transplant",
     "sow_method": "tuber",
     "season": "warm",
     "frost_tolerance": "tender",
     "planting": {
       "anchor": "last_frost",
-      "weeks_from_anchor": { "min": 0, "max": 4 },
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
       "note": "Plant tubers horizontally 4-6 inches deep after last frost; Myrtle's Folly is a large laciniated (fringed) collarette dahlia with twisted, split petal tips blending peach, pink, mauve, and orange tones on a tall plant that benefits from staking."
     },
-    "usda_zones": { "min": 8, "max": 10 },
-    "spacing_in": { "min": 18, "max": 24 },
-    "height_in": { "min": 40, "max": 48 },
-    "spread_in": { "min": 24, "max": 30 },
+    "usda_zones": {
+      "min": 8,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 40,
+      "max": 48
+    },
+    "spread_in": {
+      "min": 24,
+      "max": 30
+    },
     "sun": "full",
     "water": "moderate",
     "directions": "Plant tubers horizontally four to six inches deep in fertile, well-drained soil in full sun after the danger of frost has passed. Myrtle's Folly produces large, eight-inch blooms with narrow, twisted, laciniated petals that split and fringe at the tips, blending shifting tones of peach, pink, mauve, and soft orange for an unusually textured, shaggy flower. The tall, vigorous plant reaches three and a half to four feet and should be staked early to support the heavy flower heads; pinching the central growing tip once the plant is about a foot tall encourages a bushier habit with more flowering stems. In most regions the tubers need to be lifted after frost blackens the foliage and stored indoors over winter, since this cultivar is reliably hardy outdoors only in the mildest zones.",
-    "sources": ["American Dahlia Society", "Floret Flower Farm"]
+    "sources": [
+      "American Dahlia Society",
+      "Floret Flower Farm"
+    ]
   },
   {
     "slug": "jowey-linda-dahlia",
@@ -114,25 +210,49 @@
     "category": "flower",
     "subcategory": "bulb",
     "days_to_germination": null,
-    "germination_soil_temp_f": { "min": 60, "max": 75 },
-    "days_to_maturity": { "min": 90, "max": 120 },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 90,
+      "max": 120
+    },
     "maturity_from": "transplant",
     "sow_method": "tuber",
     "season": "warm",
     "frost_tolerance": "tender",
     "planting": {
       "anchor": "last_frost",
-      "weeks_from_anchor": { "min": 0, "max": 4 },
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
       "note": "Plant tubers horizontally 4-6 inches deep after last frost; Jowey Linda is a ball-type dahlia, part of the Jowey series, with perfectly spherical, fully double apricot-orange blooms on a tall, sturdy plant."
     },
-    "usda_zones": { "min": 8, "max": 11 },
-    "spacing_in": { "min": 18, "max": 24 },
-    "height_in": { "min": 36, "max": 40 },
-    "spread_in": { "min": 18, "max": 24 },
+    "usda_zones": {
+      "min": 8,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 36,
+      "max": 40
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
     "sun": "full",
     "water": "moderate",
     "directions": "Plant tubers horizontally four to six inches deep in fertile, well-drained soil in full sun after the last frost. Jowey Linda belongs to the ball-type class of dahlias, forming densely packed, globe-shaped flowers five to six inches across in a warm apricot-orange, held on straight, dark stems that make it a favorite for cutting gardens. The tall plant, reaching upward of three feet, flowers prolifically from midsummer until the first hard frost and pairs well with late-season asters and ornamental grasses in a mixed border. Stake the stems early in the season to keep the heavy, perfectly round blooms upright, and lift and store tubers indoors over winter in all but the mildest climates.",
-    "sources": ["American Dahlia Society", "Gardenia.net plant database"]
+    "sources": [
+      "American Dahlia Society",
+      "Gardenia.net plant database"
+    ]
   },
   {
     "slug": "yellow-star-dahlia",
@@ -141,25 +261,49 @@
     "category": "flower",
     "subcategory": "bulb",
     "days_to_germination": null,
-    "germination_soil_temp_f": { "min": 60, "max": 75 },
-    "days_to_maturity": { "min": 90, "max": 120 },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 90,
+      "max": 120
+    },
     "maturity_from": "transplant",
     "sow_method": "tuber",
     "season": "warm",
     "frost_tolerance": "tender",
     "planting": {
       "anchor": "last_frost",
-      "weeks_from_anchor": { "min": 0, "max": 4 },
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
       "note": "Plant tubers horizontally 4-6 inches deep after last frost; Yellow Star is a long-popular semi-cactus dahlia with narrow, quilled golden-yellow petals giving the bloom a starburst look, on a tall plant good for cutting."
     },
-    "usda_zones": { "min": 8, "max": 11 },
-    "spacing_in": { "min": 18, "max": 24 },
-    "height_in": { "min": 36, "max": 48 },
-    "spread_in": { "min": 18, "max": 24 },
+    "usda_zones": {
+      "min": 8,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 36,
+      "max": 48
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
     "sun": "full",
     "water": "moderate",
     "directions": "Plant tubers horizontally four to six inches deep in fertile, well-drained soil in full sun after the last frost. Yellow Star is a long-cherished semi-cactus dahlia whose narrow, pointed, quilled golden-yellow petals radiate outward in a starburst pattern, forming blooms roughly five to six inches across atop long, sturdy stems well suited to cutting. The vigorous plant can reach four feet and flowers heavily from midsummer through frost, holding its bright, clear yellow color well even in late-season heat. Stake the tall stems to keep the sizable flowers from toppling, deadhead regularly to extend bloom, and lift tubers for winter storage wherever the ground freezes.",
-    "sources": ["Royal Horticultural Society", "American Dahlia Society"]
+    "sources": [
+      "Royal Horticultural Society",
+      "American Dahlia Society"
+    ]
   },
   {
     "slug": "comet-dahlia",
@@ -168,25 +312,49 @@
     "category": "flower",
     "subcategory": "bulb",
     "days_to_germination": null,
-    "germination_soil_temp_f": { "min": 60, "max": 75 },
-    "days_to_maturity": { "min": 80, "max": 110 },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 80,
+      "max": 110
+    },
     "maturity_from": "transplant",
     "sow_method": "tuber",
     "season": "warm",
     "frost_tolerance": "tender",
     "planting": {
       "anchor": "last_frost",
-      "weeks_from_anchor": { "min": 0, "max": 4 },
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
       "note": "Plant tubers horizontally 4-6 inches deep after last frost; Comet is an anemone-flowered heirloom dahlia with a domed, pincushion-like ruby-red center ringed by a single row of flat ray florets."
     },
-    "usda_zones": { "min": 8, "max": 11 },
-    "spacing_in": { "min": 18, "max": 24 },
-    "height_in": { "min": 24, "max": 36 },
-    "spread_in": { "min": 18, "max": 24 },
+    "usda_zones": {
+      "min": 8,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 24,
+      "max": 36
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
     "sun": "full",
     "water": "moderate",
     "directions": "Plant tubers horizontally four to six inches deep in fertile, well-drained soil in full sun after the last frost. Comet is an heirloom anemone-flowered dahlia, a distinctive class in which a dense, domed cushion of tubular disc florets rises from the center of the flower, surrounded by a single outer ring of broader, flat ray florets; in Comet's case both the cushion and ring glow a rich ruby-red with an iridescent sheen on the petal backs. The bushy, medium-height plant produces blooms four to six inches across in generous flushes from midsummer into fall, resembling a fluffy gerbera daisy more than a typical dahlia. Pinch young plants to promote branching, stake if grown in windy sites, and lift tubers for winter storage outside the mildest zones.",
-    "sources": ["Floret Flower Farm", "American Dahlia Society"]
+    "sources": [
+      "Floret Flower Farm",
+      "American Dahlia Society"
+    ]
   },
   {
     "slug": "lambada-dahlia",
@@ -195,25 +363,49 @@
     "category": "flower",
     "subcategory": "bulb",
     "days_to_germination": null,
-    "germination_soil_temp_f": { "min": 60, "max": 75 },
-    "days_to_maturity": { "min": 80, "max": 110 },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 80,
+      "max": 110
+    },
     "maturity_from": "transplant",
     "sow_method": "tuber",
     "season": "warm",
     "frost_tolerance": "tender",
     "planting": {
       "anchor": "last_frost",
-      "weeks_from_anchor": { "min": 0, "max": 4 },
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
       "note": "Plant tubers horizontally 4-6 inches deep after last frost; Lambada is an anemone-flowered dahlia with informal pink-and-white outer petals surrounding a raised yellow pincushion center."
     },
-    "usda_zones": { "min": 8, "max": 11 },
-    "spacing_in": { "min": 12, "max": 16 },
-    "height_in": { "min": 20, "max": 24 },
-    "spread_in": { "min": 10, "max": 12 },
+    "usda_zones": {
+      "min": 8,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 16
+    },
+    "height_in": {
+      "min": 20,
+      "max": 24
+    },
+    "spread_in": {
+      "min": 10,
+      "max": 12
+    },
     "sun": "full",
     "water": "moderate",
     "directions": "Plant tubers horizontally four to six inches deep in fertile, well-drained soil in full sun after the last frost. Lambada is an anemone-flowered dahlia with an informal, loosely arranged outer skirt of soft pink petals washing to white toward the base, surrounding a raised, golden-yellow pincushion center that gives the bloom real depth and movement. Compact at around two feet tall, it fits well toward the middle of a mixed border without needing heavy staking, though light support helps keep the flowering stems upright in exposed sites. Deadhead spent flowers regularly to prolong the midsummer-to-frost bloom season, and lift tubers for frost-free winter storage outside the warmest growing zones.",
-    "sources": ["Gardener's World (RHS)", "American Dahlia Society"]
+    "sources": [
+      "Gardener's World (RHS)",
+      "American Dahlia Society"
+    ]
   },
   {
     "slug": "moonbeam-chrysanthemum",
@@ -221,26 +413,53 @@
     "scientific_name": "Chrysanthemum 'Moonbeam'",
     "category": "flower",
     "subcategory": "hardy mum",
-    "days_to_germination": { "min": 10, "max": 21 },
-    "germination_soil_temp_f": { "min": 60, "max": 70 },
-    "days_to_maturity": { "min": 365, "max": 730 },
+    "days_to_germination": {
+      "min": 10,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 365,
+      "max": 730
+    },
     "maturity_from": "transplant",
     "sow_method": "division",
     "season": "perennial",
     "frost_tolerance": "hardy",
     "planting": {
       "anchor": "spring",
-      "weeks_from_anchor": { "min": -4, "max": 6 },
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": 6
+      },
       "note": "Plant divisions or container-grown plants in early spring or fall; Moonbeam is a hardy garden mum of classic pompon form, densely packed with rounded, slightly curled solid-white petals."
     },
-    "usda_zones": { "min": 5, "max": 9 },
-    "spacing_in": { "min": 18, "max": 24 },
-    "height_in": { "min": 24, "max": 42 },
-    "spread_in": { "min": 24, "max": 30 },
+    "usda_zones": {
+      "min": 5,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 24,
+      "max": 42
+    },
+    "spread_in": {
+      "min": 24,
+      "max": 30
+    },
     "sun": "full",
     "water": "moderate",
     "directions": "Plant in full sun to light afternoon shade in well-drained, moderately fertile soil. Moonbeam is a true pompon-form chrysanthemum, its densely packed, rounded petals curling inward to build a tidy, nearly spherical, solid-white flower up to four inches across, held well above the dark green foliage on upright stems. Unlike disposable florist pot mums, it is a genuinely hardy garden perennial that returns reliably for years when given good winter drainage, making it a dependable source of crisp white fall color and a long-lasting cut flower. Pinch stem tips through late spring and early summer to build a bushy, well-branched plant, and divide congested clumps every two to three years to maintain vigor.",
-    "sources": ["Missouri Botanical Garden Plant Finder", "North Carolina State University Extension"]
+    "sources": [
+      "Missouri Botanical Garden Plant Finder",
+      "North Carolina State University Extension"
+    ]
   },
   {
     "slug": "kermit-chrysanthemum",
@@ -248,25 +467,730 @@
     "scientific_name": "Chrysanthemum 'Kermit'",
     "category": "flower",
     "subcategory": "hardy mum",
-    "days_to_germination": { "min": 10, "max": 21 },
-    "germination_soil_temp_f": { "min": 60, "max": 70 },
-    "days_to_maturity": { "min": 365, "max": 730 },
+    "days_to_germination": {
+      "min": 10,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 365,
+      "max": 730
+    },
     "maturity_from": "transplant",
     "sow_method": "division",
     "season": "perennial",
     "frost_tolerance": "half-hardy",
     "planting": {
       "anchor": "spring",
-      "weeks_from_anchor": { "min": -4, "max": 6 },
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": 6
+      },
       "note": "Plant divisions or container-grown plants in early spring; Kermit is a heirloom button-pompon chrysanthemum with bright chartreuse-green petals and emerald-green centers, grown as a half-hardy perennial in mild winters and mulched heavily or treated as tender farther north."
     },
-    "usda_zones": { "min": 7, "max": 9 },
-    "spacing_in": { "min": 18, "max": 24 },
-    "height_in": { "min": 24, "max": 36 },
-    "spread_in": { "min": 24, "max": 30 },
+    "usda_zones": {
+      "min": 7,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 24,
+      "max": 36
+    },
+    "spread_in": {
+      "min": 24,
+      "max": 30
+    },
     "sun": "full",
     "water": "moderate",
     "directions": "Plant in full sun in fertile, well-drained soil, spacing plants to allow good air movement around the foliage. Kermit is a distinctive heirloom garden chrysanthemum prized for its unusual color: small, fully double, pompon-shaped flowers in bright chartreuse green with a slightly deeper emerald center, blooming on sturdy stems that need little support. Cooler autumn nights intensify the green tones, making it a sought-after novelty for fall cutting gardens and arrangements. Because it is only reliably winter-hardy where winters stay mild, gardeners in colder regions should either grow it as a tender annual, take cuttings to overwinter indoors, or apply a heavy winter mulch and accept that survival is not guaranteed; pinching stem tips through early summer keeps the plant full and well-branched.",
-    "sources": ["Royal Horticultural Society", "North Carolina State University Extension"]
+    "sources": [
+      "Royal Horticultural Society",
+      "North Carolina State University Extension"
+    ]
+  },
+  {
+    "slug": "alvas-supreme-dahlia",
+    "common_name": "Alva's Supreme Dahlia (Giant Pale Yellow Decorative Dinnerplate Dahlia)",
+    "scientific_name": "Dahlia 'Alva's Supreme'",
+    "category": "flower",
+    "subcategory": "tuber",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 90,
+      "max": 120
+    },
+    "maturity_from": "transplant",
+    "sow_method": "tuber",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 3
+      },
+      "note": "Plant tubers horizontally 4-6 inches deep once soil has warmed after the last frost; this AA giant decorative needs generous elbow room and a sturdy stake set at planting time so the heavy blooms don't topple the stems."
+    },
+    "usda_zones": {
+      "min": 8,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 24,
+      "max": 36
+    },
+    "height_in": {
+      "min": 36,
+      "max": 48
+    },
+    "spread_in": {
+      "min": 24,
+      "max": 30
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Alva's Supreme is a long-established giant decorative dahlia bred in New Zealand in the 1950s, prized for its huge, fully double blooms in a soft, even pale yellow that deepens slightly toward the base of each floret. The broad, slightly twisted petals build an immense, rounded flower commonly reaching 8-10 inches across on strong, upright stems well above the foliage. Because the finished blooms are so large and heavy, stake plants early and tie stems loosely as they grow rather than waiting until the dahlia is in full flower. Lift and store tubers after frost blackens the foliage in regions colder than zone 8, dividing overgrown clumps in spring before replanting.",
+    "sources": [
+      "American Dahlia Society",
+      "Royal Horticultural Society",
+      "Longfield Gardens"
+    ]
+  },
+  {
+    "slug": "black-jack-dahlia",
+    "common_name": "Black Jack Dahlia (Deep Maroon Semi-Cactus Dahlia)",
+    "scientific_name": "Dahlia 'Black Jack'",
+    "category": "flower",
+    "subcategory": "tuber",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 90,
+      "max": 110
+    },
+    "maturity_from": "transplant",
+    "sow_method": "tuber",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 3
+      },
+      "note": "Plant tubers horizontally 4-6 inches deep after soil has warmed and frost danger has passed; Black Jack's narrow, spiky florets and dark coloring show best with a stake set at planting time to support the mature stems."
+    },
+    "usda_zones": {
+      "min": 8,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 24,
+      "max": 30
+    },
+    "height_in": {
+      "min": 36,
+      "max": 48
+    },
+    "spread_in": {
+      "min": 24,
+      "max": 30
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Black Jack is a semi-cactus dahlia whose narrow, pointed, slightly recurved florets build a glossy 6-8 inch bloom in a deep, velvety maroon so saturated it reads as nearly black in low light and shifts to burgundy-red in bright sun. Glossy dark green foliage sets off the flowers without competing for attention, and the long, strong stems make excellent cut flowers from midsummer into fall. Disbud side shoots below the terminal bud for larger, showier blooms, and stake plants early since the flower heads are heavy relative to the stem. Lift tubers after the first hard frost blackens the foliage where winters are too cold for them to overwinter in the ground.",
+    "sources": [
+      "American Dahlia Society",
+      "Brent and Becky's Bulbs",
+      "Longfield Gardens"
+    ]
+  },
+  {
+    "slug": "islander-dahlia",
+    "common_name": "Islander Dahlia (Salmon-Pink Informal Decorative Dinnerplate Dahlia)",
+    "scientific_name": "Dahlia 'Islander'",
+    "category": "flower",
+    "subcategory": "tuber",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 90,
+      "max": 120
+    },
+    "maturity_from": "transplant",
+    "sow_method": "tuber",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 3
+      },
+      "note": "Plant tubers horizontally 4-6 inches deep once soil has warmed after the last frost; Islander is a tall AA dinnerplate type that needs generous spacing and an early stake to support its massive blooms."
+    },
+    "usda_zones": {
+      "min": 8,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 24,
+      "max": 36
+    },
+    "height_in": {
+      "min": 40,
+      "max": 48
+    },
+    "spread_in": {
+      "min": 24,
+      "max": 30
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Islander is a classic informal decorative dinnerplate dahlia valued for its soft, elegant coloring \u2014 warm shell-pink to salmon blooms often streaked with creamy tones, carried on slightly twisted, ruffled petals that give each 8-10 inch flower a loose, windswept look. Plants grow tall and sturdy, with strong stems capable of holding up the massive flowers once established, though early staking is still essential to prevent wind and rain damage. It is a dependable cut-flower producer from midsummer until frost and a favorite with growers who want dinnerplate drama in a less saturated color range. Lift and store tubers over winter anywhere colder than zone 8.",
+    "sources": [
+      "American Dahlia Society",
+      "Longfield Gardens",
+      "White Flower Farm"
+    ]
+  },
+  {
+    "slug": "giraffe-dahlia",
+    "common_name": "Giraffe Dahlia (Orchid-Type Dahlia with Bronze-Mottled Yellow Petals)",
+    "scientific_name": "Dahlia 'Giraffe'",
+    "category": "flower",
+    "subcategory": "orchid-type dahlia",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 85,
+      "max": 110
+    },
+    "maturity_from": "transplant",
+    "sow_method": "tuber",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 3
+      },
+      "note": "Plant tubers horizontally 4-6 inches deep after danger of frost has passed in average, moist, humus-rich garden soil; Giraffe is a novelty orchid-type dahlia grown for its mottled coat-like petal pattern rather than flower size."
+    },
+    "usda_zones": {
+      "min": 8,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 30,
+      "max": 36
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Giraffe produces fully double, 4-inch orchid-type blooms with long, golden-yellow petals that roll inward along their edges to reveal burnt-orange, bronze-mottled undersides, creating the dappled, two-tone pattern that gives this novelty dahlia its name. The unruly petals twist and curl as the flower opens, so each bloom looks a little different from the last. Plants bloom freely from midsummer through fall on moderately compact stems that need only light staking. Lift and store tubers over winter where the ground freezes, dividing congested clumps in spring.",
+    "sources": [
+      "Royal Horticultural Society",
+      "Old House Gardens",
+      "American Dahlia Society"
+    ]
+  },
+  {
+    "slug": "union-jack-dahlia",
+    "common_name": "Union Jack Dahlia (Historic Dwarf Single Red-and-White Striped Dahlia)",
+    "scientific_name": "Dahlia 'Union Jack'",
+    "category": "flower",
+    "subcategory": "single-flowered dwarf border dahlia",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 80,
+      "max": 100
+    },
+    "maturity_from": "transplant",
+    "sow_method": "tuber",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 3
+      },
+      "note": "Plant tubers horizontally 3-4 inches deep after the last frost; Union Jack is a diminutive heirloom dating to the 1880s, so give it a sheltered spot since its slender stems need some support once in full bloom."
+    },
+    "usda_zones": {
+      "min": 8,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 18,
+      "max": 24
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 18
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Union Jack is one of the oldest named dahlias still in cultivation, a dwarf single-flowered border type dating to the 1880s and sometimes sold under the alternate name Star of Denmark. Its small, pinwheel-patterned blooms, up to 4 inches across, alternate bold red and white in a candy-striped pattern that makes each flower look hand-painted. The compact plants are well suited to the front of a border or a container, though the stems are relatively thin and benefit from twiggy brush support or light staking in windy sites. Deadhead regularly to keep the display going from midsummer into fall, and lift tubers before hard frost where winters are severe.",
+    "sources": [
+      "Old House Gardens",
+      "American Dahlia Society"
+    ]
+  },
+  {
+    "slug": "zundert-mystery-fox-dahlia",
+    "common_name": "Zundert Mystery Fox Dahlia (Orange-Salmon Ball Dahlia)",
+    "scientific_name": "Dahlia 'Zundert Mystery Fox'",
+    "category": "flower",
+    "subcategory": "ball dahlia",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 85,
+      "max": 110
+    },
+    "maturity_from": "transplant",
+    "sow_method": "tuber",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 3
+      },
+      "note": "Plant tubers horizontally 4-6 inches deep after the last frost; Zundert Mystery Fox carries its perfectly spherical blooms on dark purple stems that show off the warm flower color well."
+    },
+    "usda_zones": {
+      "min": 8,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 30,
+      "max": 35
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Zundert Mystery Fox is a ball dahlia named for the Dutch town of Zundert, long famous among dahlia enthusiasts for a dahlia-themed parade and show tradition dating back to the 1930s. Its tightly packed, perfectly spherical, 3-inch blooms blend terracotta, coral, and dusky salmon tones on a single flower, carried on sturdy purple-tinted stems that make striking cut flowers with excellent vase life. Plants bloom prolifically from midsummer through fall and benefit from regular cutting, which encourages continued branching and bud production. Stake plants at planting time and lift tubers for winter storage anywhere colder than zone 8.",
+    "sources": [
+      "American Dahlia Society",
+      "Longfield Gardens",
+      "White Flower Farm"
+    ]
+  },
+  {
+    "slug": "ac-ben-dahlia",
+    "common_name": "AC Ben Dahlia (Giant Orange and Yellow Semi-Cactus Exhibition Dahlia)",
+    "scientific_name": "Dahlia 'AC Ben'",
+    "category": "flower",
+    "subcategory": "tuber",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 95,
+      "max": 125
+    },
+    "maturity_from": "transplant",
+    "sow_method": "tuber",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 3
+      },
+      "note": "Plant tubers horizontally 4-6 inches deep once soil has warmed; AC Ben is an AA-size giant semi-cactus that demands generous spacing, disbudding, and an early, sturdy stake to support its heavy terminal blooms."
+    },
+    "usda_zones": {
+      "min": 8,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 24,
+      "max": 36
+    },
+    "height_in": {
+      "min": 48,
+      "max": 60
+    },
+    "spread_in": {
+      "min": 24,
+      "max": 30
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "AC Ben is a giant semi-cactus exhibition dahlia originated by Ken Greenway of Accent Dahlias in Snohomish, Washington, carrying huge, narrow-petaled blooms over 10 inches across in a vivid blend of orange and yellow that has made it one of the most widely shown dahlias on the American and Canadian show circuit, earning the American Dahlia Society's Stanley Johnson Medal for most total higher show awards in 2017. Disbud side buds to a single terminal flower per stem for show-quality size, staking plants early since the finished blooms are substantial. Feed and water consistently through the growing season to support the vigorous, upright plant, and lift tubers for winter storage where the ground freezes.",
+    "sources": [
+      "American Dahlia Society",
+      "Accent Dahlias"
+    ]
+  },
+  {
+    "slug": "hollyhill-spiderwoman-dahlia",
+    "common_name": "Hollyhill Spiderwoman Dahlia (Magenta-Purple Spider-Form Cactus Dahlia)",
+    "scientific_name": "Dahlia 'Hollyhill Spiderwoman'",
+    "category": "flower",
+    "subcategory": "cactus dahlia",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 85,
+      "max": 115
+    },
+    "maturity_from": "transplant",
+    "sow_method": "tuber",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 3
+      },
+      "note": "Plant tubers horizontally 4-6 inches deep in well-drained, slightly acidic soil after frost danger passes; Hollyhill Spiderwoman's tall stems need staking to support its fringed, firework-like blooms."
+    },
+    "usda_zones": {
+      "min": 8,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 36,
+      "max": 46
+    },
+    "spread_in": {
+      "min": 20,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Hollyhill Spiderwoman is a dramatic spider-form cactus dahlia whose long, slender, curling petals twist in every direction, each one deep magenta-purple with a crisp white tip, giving the 6-inch blooms a fringed, fireworks-like silhouette reminiscent of a football mum. Plants flower prolifically from midsummer through the first fall frost and make excellent, long-lasting cut flowers, with the unusual petal form standing out in any bouquet. Grow in well-drained, slightly acidic soil in full sun, staking stems early since the blooms are heavy and the curling petals catch wind. Lift and store tubers over winter anywhere colder than zone 8, dividing crowded clumps before replanting in spring.",
+    "sources": [
+      "American Dahlia Society",
+      "Floret Flower Farm",
+      "Eden Brothers"
+    ]
+  },
+  {
+    "slug": "potgieter-dahlia",
+    "common_name": "Potgieter Dahlia (Classic Yellow Miniature Ball Dahlia)",
+    "scientific_name": "Dahlia 'Potgieter'",
+    "category": "flower",
+    "subcategory": "miniature ball dahlia",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 85,
+      "max": 110
+    },
+    "maturity_from": "transplant",
+    "sow_method": "tuber",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 3
+      },
+      "note": "Plant tubers horizontally 4-6 inches deep after the last frost; Potgieter is a long-grown miniature ball dahlia from Holland that propagates reliably from tuber division or basal cuttings but will not come true from seed."
+    },
+    "usda_zones": {
+      "min": 8,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 36,
+      "max": 42
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Potgieter is a Dutch-bred miniature ball dahlia dating to the late 1950s, producing tightly rounded, 2 to 3.5-inch flowers in a clear, even yellow on neat, well-branched plants. Its compact ball form and reliable bloom make it a long-standing favorite for cutting gardens and exhibition tables alike, and the sturdy stems hold up well without excessive staking compared to larger dinnerplate types. Deadhead spent blooms regularly to extend flowering from midsummer into fall. Lift and store tubers over winter where the ground freezes, dividing clumps in spring to increase stock.",
+    "sources": [
+      "American Dahlia Society",
+      "Gardenia.net"
+    ]
+  },
+  {
+    "slug": "mystic-fantasy-dahlia",
+    "common_name": "Mystic Fantasy Dahlia (Dark-Foliage Flamingo-Pink Single Dahlia)",
+    "scientific_name": "Dahlia 'Mystic Fantasy'",
+    "category": "flower",
+    "subcategory": "dark-foliage single dahlia",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 80,
+      "max": 100
+    },
+    "maturity_from": "transplant",
+    "sow_method": "tuber",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 3
+      },
+      "note": "Plant tubers horizontally 4-6 inches deep after frost danger passes; Mystic Fantasy is part of a dark-foliage dahlia series bred for a sturdier, self-supporting habit that generally needs less staking than old-fashioned single dahlias."
+    },
+    "usda_zones": {
+      "min": 8,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 14,
+      "max": 18
+    },
+    "height_in": {
+      "min": 24,
+      "max": 30
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 22
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Mystic Fantasy pairs finely cut, deep mahogany-bronze foliage with single, flamingo-pink blooms that glow softly yellow near a dark central disc, giving the flower a luminous, two-tone quality against its own dark leaves. Bred as part of a modern dark-foliage dahlia series, it grows on a sturdier, more compact framework than older single dahlias and generally stands upright without heavy staking. Plants bloom continuously from midsummer through fall and attract pollinators readily thanks to their open, single form. Lift and store tubers over winter anywhere colder than zone 8.",
+    "sources": [
+      "PlantHaven International",
+      "Gardenia.net"
+    ]
+  },
+  {
+    "slug": "mystic-memories-dahlia",
+    "common_name": "Mystic Memories Dahlia (Dark-Foliage Peach-and-Red Single Dahlia)",
+    "scientific_name": "Dahlia 'Mystic Memories'",
+    "category": "flower",
+    "subcategory": "dark-foliage single dahlia",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 80,
+      "max": 100
+    },
+    "maturity_from": "transplant",
+    "sow_method": "tuber",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 3
+      },
+      "note": "Plant tubers horizontally 4-6 inches deep after frost danger passes; like other dark-foliage dahlias in its series, Mystic Memories has a sturdy, more self-supporting habit than older single-flowered types."
+    },
+    "usda_zones": {
+      "min": 8,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 14,
+      "max": 20
+    },
+    "height_in": {
+      "min": 28,
+      "max": 34
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Mystic Memories combines dark mahogany-bronze, filigreed foliage with soft peach single blooms washed with red highlights around a dark central disc, a striking contrast that holds up well in both garden beds and containers. Part of a modern dark-foliage dahlia breeding line, it grows slightly taller than some of its series-mates but keeps the same sturdy, naturally upright stems that reduce the need for heavy staking. The open, single flowers are attractive to bees and butterflies and keep blooming steadily from midsummer through the first hard frost. Lift and store tubers over winter where the ground freezes.",
+    "sources": [
+      "PlantHaven International",
+      "Gardenia.net"
+    ]
+  },
+  {
+    "slug": "pennine-oriel-chrysanthemum",
+    "common_name": "Pennine Oriel Chrysanthemum (Creamy-White Incurving Spray Mum)",
+    "scientific_name": "Chrysanthemum 'Pennine Oriel'",
+    "category": "flower",
+    "subcategory": "chrysanthemum",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 140,
+      "max": 180
+    },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant rooted spring cuttings in a sheltered, full-sun site in fertile, well-drained soil enriched with organic matter; pinch the growing tip once plants reach 6-8 inches to encourage bushy, free-flowering growth."
+    },
+    "usda_zones": {
+      "min": 6,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 40,
+      "max": 48
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Pennine Oriel is a late-flowering incurving spray chrysanthemum from the long-running British 'Pennine' breeding line, carrying sprays of creamy-white blooms roughly 3 inches across with disc florets delicately tipped in light yellow. Unlike disbudded exhibition types, spray mums like this one are grown with multiple blooms per stem, making one pinch early in the season (rather than ongoing disbudding) the main grooming task. Stake plants in a sheltered, sunny spot since the mature flowering stems can reach 4 feet and are top-heavy once in full bud, and water freely during dry spells to keep buds developing evenly. Cut back hard after flowering and overwinter stock in a cold frame or unheated greenhouse where winters are severe.",
+    "sources": [
+      "Royal Horticultural Society",
+      "National Chrysanthemum Society (UK)"
+    ]
+  },
+  {
+    "slug": "lilian-shoesmith-chrysanthemum",
+    "common_name": "Lilian Shoesmith Chrysanthemum (Bronze Intermediate Incurve Exhibition Mum)",
+    "scientific_name": "Chrysanthemum x morifolium 'Lilian Shoesmith'",
+    "category": "flower",
+    "subcategory": "exhibition mum",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 170,
+      "max": 220
+    },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant rooted spring cuttings after the last frost in full sun and fertile, well-drained soil; Lilian Shoesmith is registered in the bronze color class of the intermediate incurve exhibition division."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 36,
+      "max": 48
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Lilian Shoesmith is a bronze-toned intermediate incurve exhibition chrysanthemum, its smooth, broad florets curving inward in loosely overlapping ranks to build a dense, rounded bloom typically 3 to 5 inches across \u2014 slightly less formal and slightly smaller than the giant incurve class but still a serious show flower. Pinch the young plant once in late spring to establish bud sites, then disbud ruthlessly to a single terminal bud per stem for the fullest, most even bloom, staking early since the finished flower head is heavy on a stem of this height. Propagate from fresh basal cuttings taken off overwintered stock each year, keeping stock plants in a cold frame or unheated greenhouse over winter in cold-climate regions.",
+    "sources": [
+      "National Chrysanthemum Society (USA)",
+      "Evergreen Chrysanthemum Association"
+    ]
+  },
+  {
+    "slug": "debonair-chrysanthemum",
+    "common_name": "Debonair Chrysanthemum (Dwarf Dark Lavender Cushion Garden Mum)",
+    "scientific_name": "Chrysanthemum x morifolium 'Debonair'",
+    "category": "flower",
+    "subcategory": "hardy mum",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 90,
+      "max": 120
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": 6
+      },
+      "note": "Plant divisions or container-grown plants in early spring or fall in full sun and well-drained soil; Debonair is a dwarf cushion-type garden mum from the Yoder Prophets breeding line and needs little pinching to stay compact."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 12,
+      "max": 18
+    },
+    "spread_in": {
+      "min": 15,
+      "max": 20
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Debonair is a dwarf cushion-form garden mum bred as part of the Yoder Prophets series, forming a tight, naturally rounded mound of dark green foliage covered in fully double, dark lavender flowers in early autumn without the pinching many taller garden mums require. Its low, mounding habit makes it well suited to the front of a border, mass planting, or large containers rather than cutting. Divide congested clumps every two to three years in spring to maintain vigor and flower production, and mulch over winter in the coldest part of its range to protect the crown.",
+    "sources": [
+      "Yoder Brothers",
+      "North Carolina State University Extension"
+    ]
   }
 ]
