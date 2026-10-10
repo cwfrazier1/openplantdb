@@ -1,0 +1,56 @@
+[
+  {
+    "slug": "allamanda-cathartica-compacta",
+    "common_name": "Compacta Allamanda (Dwarf Golden Trumpet)",
+    "scientific_name": "Allamanda cathartica 'Compacta'",
+    "category": "flower",
+    "subcategory": "tropical flowering shrub",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 90, "max": 180},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 2, "max": 8},
+      "note": "Set out rooted cuttings or container-grown plants in spring once nights stay reliably above 60°F, in moist, fertile, well-drained soil in full sun; unlike the climbing species, 'Compacta' needs no trellis and works well as a low hedge, foundation planting, or large container specimen."
+    },
+    "usda_zones": {"min": 9, "max": 11},
+    "spacing_in": {"min": 24, "max": 36},
+    "height_in": {"min": 24, "max": 36},
+    "spread_in": {"min": 24, "max": 36},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "'Compacta' is a naturally dwarf, self-branching selection of Golden Trumpet Vine that holds a dense, rounded 2-3 foot mound instead of producing the long climbing canes typical of the species and of vining cultivars like 'Hendersonii,' making it a practical choice where a trellis or arbor isn't wanted. It bears the same glossy, whorled foliage and funnel-shaped, brilliant golden-yellow flowers in smaller clusters from late spring through fall, with bloom nearly continuous in the warmest zones. Light shearing after each flush keeps the habit tight and encourages further branching, and established plants tolerate a hard cutback in late winter before new growth resumes. As with all allamandas, the milky sap is toxic and irritating to skin and eyes, so wear gloves when pruning or propagating and site away from children and pets.",
+    "sources": ["Missouri Botanical Garden Plant Finder — Allamanda cathartica", "University of Florida IFAS Extension — Allamanda cathartica cultivars", "Dave's Garden PlantFiles — Allamanda cathartica 'Compacta'", "ASPCA Animal Poison Control — Allamanda (toxic to pets)"]
+  },
+  {
+    "slug": "cascabela-thevetioides",
+    "common_name": "Giant Thevetia (Giant Luckynut)",
+    "scientific_name": "Cascabela thevetioides",
+    "category": "flower",
+    "subcategory": "tropical shrub",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 365, "max": 730},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 6},
+      "note": "Plant container-grown shrubs in spring in full sun with well-drained soil; Giant Thevetia is slower-growing and more tree-like than common Yellow Oleander and benefits from a sheltered site in zone 9, where hard freezes can cause dieback that it recovers from the following spring."
+    },
+    "usda_zones": {"min": 9, "max": 11},
+    "spacing_in": {"min": 72, "max": 144},
+    "height_in": {"min": 96, "max": 180},
+    "spread_in": {"min": 60, "max": 96},
+    "sun": "full",
+    "water": "low",
+    "directions": "Giant Thevetia is a sparsely branched, open-growing shrub or small tree related to common Yellow Oleander, distinguished by much larger, showier flowers — bright yellow funnel-shaped blooms up to 4 inches across, clustered toward the branch tips from midsummer into late fall, well above the 2-3 inch flowers of Cascabela thevetia. Its dark green, leathery leaves are broader and more sparsely arranged along arching branches, giving the plant an airy, sculptural silhouette useful as a specimen or background shrub in a Gulf Coast landscape. It tolerates heat, drought, and poor soil once established but needs sharp drainage to avoid root rot. EXTREME CAUTION: as with all Thevetia and Cascabela species, every part of the plant — sap, leaves, and especially the seeds — contains highly toxic cardiac glycosides; do not plant where children, pets, or livestock have access, and wear gloves when pruning.",
+    "sources": ["Missouri Botanical Garden Plant Finder — Cascabela thevetioides", "San Marcos Growers — Thevetia thevetioides (Giant Thevetia)", "Top Tropicals — Cascabela thevetioides", "ASPCA Animal Poison Control — Cascabela/Thevetia (highly toxic)"]
+  }
+]
