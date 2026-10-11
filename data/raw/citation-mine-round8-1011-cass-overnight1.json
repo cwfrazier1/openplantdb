@@ -1,0 +1,184 @@
+[
+  {
+    "slug": "viburnum-opulus-species",
+    "common_name": "European Cranberrybush (Guelder Rose)",
+    "scientific_name": "Viburnum opulus",
+    "category": "flower",
+    "subcategory": "flowering shrub",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 365, "max": 730},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": -4, "max": 2},
+      "note": "Plant container or balled-and-burlapped shrubs in spring or fall in moist to wet-tolerant, well-drained soil in full sun to partial shade; the straight species is the wild-type parent behind the many named snowball, dwarf, and golden-leaved garden selections."
+    },
+    "usda_zones": {"min": 3, "max": 8},
+    "spacing_in": {"min": 72, "max": 120},
+    "height_in": {"min": 96, "max": 168},
+    "spread_in": {"min": 96, "max": 144},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "European cranberrybush is a vigorous, multi-stemmed deciduous shrub native across Europe, North Africa, and northern Asia, bearing flat, lacecap-style flower clusters in late spring in which a ring of showy sterile florets surrounds smaller fertile flowers, followed by glossy red, translucent berry-like drupes that persist into winter and give the plant its common name. Maple-like, three-lobed leaves turn shades of red to purple in fall, adding a second season of color alongside the fruit display. Unlike its selected cultivars, which were chosen for traits such as sterile snowball flower heads, dwarf size, or golden foliage, the species itself sets fruit freely and provides good winter forage for birds. It tolerates wet soils better than most shrubs; prune lightly right after flowering since blooms form on the previous year's wood.",
+    "sources": [
+      "Royal Horticultural Society",
+      "Missouri Botanical Garden Plant Finder",
+      "North Carolina State Extension Plant Toolbox"
+    ]
+  },
+  {
+    "slug": "clematis-heracleifolia-species",
+    "common_name": "Tube Clematis (Heracleifolia)",
+    "scientific_name": "Clematis heracleifolia",
+    "category": "flower",
+    "subcategory": "herbaceous perennial",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 180, "max": 365},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 6},
+      "note": "Plant in full sun to part shade in average, well-drained soil; this non-vining species forms a woody-based clump and needs no trellis, though floppy stems benefit from staking or the support of sturdier neighbors."
+    },
+    "usda_zones": {"min": 4, "max": 8},
+    "spacing_in": {"min": 24, "max": 36},
+    "height_in": {"min": 24, "max": 40},
+    "spread_in": {"min": 24, "max": 36},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Tube clematis is a sub-shrubby, non-climbing species native to open slopes and scrub in China, grown for dense clusters of small, nodding, tubular blue to violet-blue flowers with recurved, slightly frilled lobes that open at the leaf axils from late summer into fall, well after most garden clematis have finished blooming. Coarse, deeply veined foliage on stout upright stems forms a rounded clump rather than a vine, making it useful massed at the front of a sunny border. It is the wild species behind several named selections and botanical varieties already in cultivation, including 'Wyevale' and var. davidiana, and has also been used as a breeding parent in herbaceous hybrid clematis. Cut the woody-based stems back hard in late winter, since flowers form on the current season's growth.",
+    "sources": [
+      "Royal Horticultural Society",
+      "Missouri Botanical Garden Plant Finder"
+    ]
+  },
+  {
+    "slug": "clematis-fortunei",
+    "common_name": "Fortunei Clematis (Historic Double White Clematis)",
+    "scientific_name": "Clematis 'Fortunei'",
+    "category": "flower",
+    "subcategory": "flowering vine",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 365, "max": 1095},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": -2, "max": 4},
+      "note": "Plant with roots shaded and cool while the vine climbs into full sun to light shade on a trellis, fence, or wall; this old patens-type cultivar blooms on old wood (Pruning Group 2), so limit hard cutting back to just after the main flush."
+    },
+    "usda_zones": {"min": 4, "max": 9},
+    "spacing_in": {"min": 24, "max": 48},
+    "height_in": {"min": 72, "max": 120},
+    "spread_in": {"min": 24, "max": 36},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Fortunei is one of two clematis plants sent from Japan by the plant collector Robert Fortune to the English nurserymen John Standish and Charles Noble around 1860, bearing double to semi-double, creamy-white, green-tinged flowers with a light orange-blossom fragrance in late spring, with a lighter scattered rebloom later in the season. Noble went on to use it as a breeding parent, crossing it with 'Standishii' and various forms of Clematis patens during the Victorian clematis-breeding boom that produced many of today's large-flowered hybrids. Grown today mainly by collectors of historic clematis, it keeps the root zone cool and shaded with mulch or a low groundcover while the vine itself climbs into sun. Avoid heavy pruning, since the best spring display comes from wood that grew the previous year.",
+    "sources": [
+      "International Clematis Society",
+      "Royal Horticultural Society"
+    ]
+  },
+  {
+    "slug": "thuja-standishii",
+    "common_name": "Standish's Arborvitae (Japanese Thuja)",
+    "scientific_name": "Thuja standishii",
+    "category": "flower",
+    "subcategory": "evergreen tree",
+    "days_to_germination": {"min": 21, "max": 45},
+    "germination_soil_temp_f": {"min": 50, "max": 70},
+    "days_to_maturity": {"min": 730, "max": 1825},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Plant container-grown trees in spring or fall in moist, well-drained, fertile soil in full sun to partial shade, choosing a site sheltered from harsh winter wind in the colder parts of its hardiness range."
+    },
+    "usda_zones": {"min": 5, "max": 7},
+    "spacing_in": {"min": 120, "max": 240},
+    "height_in": {"min": 240, "max": 600},
+    "spread_in": {"min": 96, "max": 240},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Standish's arborvitae is a slow-growing evergreen conifer native to the cool mountain forests of central Japan, where it develops a dense, pyramidal crown of flattened, scale-like foliage sprays. It is rarely offered on its own in American nurseries, best known instead as one of the two parents (along with western redcedar, Thuja plicata) behind the widely planted hybrid 'Green Giant'. Grow it in moist, well-drained soil with protection from strong winter wind at the colder end of its range, and give it room to develop its naturally tidy conical form without crowding from nearby plantings. Watch for the bagworm and fungal twig blight problems that can affect arborvitae in humid climates, and improve air circulation around the canopy to reduce disease pressure.",
+    "sources": [
+      "Missouri Botanical Garden Plant Finder",
+      "Royal Horticultural Society",
+      "American Conifer Society"
+    ]
+  },
+  {
+    "slug": "joannes-seyve-23416-grape",
+    "common_name": "Joannes Seyve 23.416 Grape (Historic French Hybrid Parent of Traminette)",
+    "scientific_name": "Vitis 'Joannes Seyve 23.416'",
+    "category": "fruit",
+    "subcategory": "wine grape",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 730, "max": 1095},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": -4, "max": 2},
+      "note": "Plant dormant bare-root or container-grown vines in early spring on a sturdy trellis in full sun and well-drained soil."
+    },
+    "usda_zones": {"min": 5, "max": 8},
+    "spacing_in": {"min": 72, "max": 96},
+    "height_in": {"min": 60, "max": 84},
+    "spread_in": {"min": 60, "max": 96},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Joannes Seyve 23.416 is an early-20th-century French-American hybrid grape selected by the Joannes Seyve nursery in France as part of the broad wave of hybrid breeding aimed at combining Vitis vinifera wine quality with resistance to phylloxera and fungal disease. It is preserved in horticultural history chiefly as the grape that Cornell-affiliated breeder H.C. Barrett crossed with Gewurztraminer in 1965, a pairing whose seedlings were later raised at Cornell's Geneva research station and released in 1996 as Traminette. Like many numbered French hybrid selections of its era, it was grown to only a limited extent on its own and is now maintained mainly in research and heritage grape collections rather than commercial vineyards. Plant dormant vines in early spring on a sturdy trellis, prune hard each dormant season, and expect vigorous growth typical of early French-American hybrids.",
+    "sources": [
+      "Cornell University College of Agriculture and Life Sciences",
+      "Northern Grapes Project"
+    ]
+  },
+  {
+    "slug": "rayon-dor-grape",
+    "common_name": "Rayon d'Or Grape (Seibel 4986, Historic Parent of Vidal Blanc)",
+    "scientific_name": "Vitis 'Rayon d'Or' (Seibel 4986)",
+    "category": "fruit",
+    "subcategory": "wine grape",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 730, "max": 1095},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": -4, "max": 2},
+      "note": "Plant dormant bare-root or container-grown vines in early spring on a trellis system in deep, well-drained soil in full sun."
+    },
+    "usda_zones": {"min": 6, "max": 9},
+    "spacing_in": {"min": 72, "max": 96},
+    "height_in": {"min": 60, "max": 84},
+    "spread_in": {"min": 60, "max": 84},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Rayon d'Or, bred under the trial number Seibel 4986, is one of the thousands of numbered French-American hybrid grapes Albert Seibel produced in early-20th-century France while searching for phylloxera- and mildew-resistant replacements for ungrafted vinifera vineyards. Its lasting horticultural significance is as the parent crossed with Ugni Blanc by French breeder Jean-Louis Vidal to produce Vidal Blanc (Vidal 256), now a major cold-hardy white wine grape across the eastern United States and Canada. Like most surviving Seibel-numbered selections, it is grown today mainly in heritage and breeding collections rather than as a commercial wine grape in its own right. Plant dormant vines in early spring on a sturdy trellis, train to a cane or cordon system, and prune hard each dormant season to manage vigor.",
+    "sources": [
+      "Cornell University Cooperative Extension",
+      "Vineland Research and Innovation Centre"
+    ]
+  }
+]

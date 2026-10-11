@@ -1,0 +1,83 @@
+[
+  {
+    "slug": "florida-crest-peach",
+    "common_name": "Florida Crest Peach (University of Florida Low-Chill Freestone Peach)",
+    "scientific_name": "Prunus persica 'Florida Crest'",
+    "category": "fruit",
+    "subcategory": "peach",
+    "days_to_germination": null,
+    "germination_soil_temp_f": {"min": 35, "max": 55},
+    "days_to_maturity": {"min": 1095, "max": 1460},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": -8, "max": -2},
+      "note": "Plant bare-root trees in late winter while still dormant; Florida Crest is one of the University of Florida low-chill peach releases grown alongside Flordaking to give Gulf Coast gardeners a fresh tree-ripe peach in a climate too mild for standard high-chill cultivars."
+    },
+    "usda_zones": {"min": 7, "max": 9},
+    "spacing_in": {"min": 180, "max": 240},
+    "height_in": {"min": 120, "max": 180},
+    "spread_in": {"min": 120, "max": 168},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in deep, well-drained, slightly acidic soil in full sun, choosing an open site with good air movement to reduce brown rot pressure during humid Gulf Coast summers. Florida Crest came out of the University of Florida's low-chill peach breeding program, the same effort that produced the better-known Flordaking, and was selected to give growers another reliable low-chill option when the two cultivars are planted together to spread out the harvest window. It bears yellow, freestone flesh under red-blushed skin, ripening in late spring on a moderately vigorous, open-branched tree that sets fruit even after the mild winters typical of zone 8-9. Prune to an open-vase form in the first few years and thin developing fruit to several inches apart to improve size and reduce limb breakage.",
+    "sources": ["University of Florida IFAS Extension", "Texas A&M AgriLife Extension — Peach Variety Selection for Texas and the Gulf Coast"]
+  },
+  {
+    "slug": "whit-vii-siren-red-crape-myrtle",
+    "common_name": "Siren Red Crape Myrtle (Whit VII Red-Flowered Breeding-Line Crape Myrtle)",
+    "scientific_name": "Lagerstroemia indica 'Whit VII'",
+    "category": "flower",
+    "subcategory": "landscape shrub-tree",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 730, "max": 1825},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": -4, "max": 4},
+      "note": "Plant container shrubs in late winter, spring, or fall in well-drained, slightly acidic to neutral soil in full sun; Siren Red belongs to the numbered 'Whit' breeding line that also produced Dynamite (Whit II) and Tightwad Red (Whit IV), and today is grown mainly as a parent plant rather than a widely marketed landscape selection."
+    },
+    "usda_zones": {"min": 7, "max": 9},
+    "spacing_in": {"min": 72, "max": 96},
+    "height_in": {"min": 96, "max": 144},
+    "spread_in": {"min": 72, "max": 96},
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant in well-drained, slightly acidic to neutral soil in full sun, giving the multi-stemmed trunk room to develop its characteristic exfoliating bark. Siren Red is a red-flowered selection from the numbered Whit series of crape myrtle introductions, the same breeding line behind the widely planted Dynamite and the dwarf Tightwad Red, and it is best known today for having been crossed with Chocolate Mocha (Delta Jazz) to produce the dark-leaved, white-flowered Ebony and Ivory. It carries the vigorous, upright habit and crepe-paper-textured summer flower clusters typical of the series, blooming on new wood from early summer into fall. Prune only to remove crossing or damaged branches in late winter, since heavy pruning sacrifices the current season's flowering wood.",
+    "sources": ["USDA Agricultural Research Service", "Mississippi State University", "North Carolina State Extension"]
+  },
+  {
+    "slug": "robert-blatry-fuchsia",
+    "common_name": "Robert Blatry Fuchsia (Early French White-and-Red Breeding-Line Fuchsia)",
+    "scientific_name": "Fuchsia x hybrida 'Robert Blatry'",
+    "category": "flower",
+    "subcategory": "annual",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 90, "max": 150},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Plant container-grown plants after all frost danger has passed in partial shade in moist, fertile, well-drained soil or potting mix; Robert Blatry is an early twentieth-century French-raised fuchsia best known today as a parent, together with 'Mrs. Victor Reiter', of the 1941 Victor Reiter cultivar 'San Francisco'."
+    },
+    "usda_zones": {"min": 9, "max": 11},
+    "spacing_in": {"min": 16, "max": 20},
+    "height_in": {"min": 18, "max": 30},
+    "spread_in": {"min": 18, "max": 24},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Grow in moist, fertile, well-drained soil or potting mix in partial shade, sheltered from hot midday sun. Robert Blatry is an old French-raised fuchsia cultivar carrying pale tube and sepals set off by a deeper rose-to-red corolla, on an upright, well-branched bush habit typical of early twentieth-century hybrida fuchsias bred for bedding and container use. Its chief significance in American gardens today is as a breeding parent, crossed with 'Mrs. Victor Reiter' by San Francisco hybridizer Victor Reiter to produce the trailing cultivar 'San Francisco' in 1941. Keep the root zone consistently moist and the foliage out of direct afternoon sun, and bring plants under cover well before the first fall frost since cold tolerance is minimal.",
+    "sources": ["FuchsiaFinder Cultivar Registry", "Royal Horticultural Society Plant Finder", "Pacific Horticulture Society"]
+  }
+]

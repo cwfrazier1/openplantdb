@@ -1,0 +1,372 @@
+[
+  {
+    "slug": "haymaker-forage-barley",
+    "common_name": "Haymaker Forage Barley (Montana-Bred Two-Row Spring Hay Barley)",
+    "scientific_name": "Hordeum vulgare 'Haymaker'",
+    "category": "cover-crop",
+    "subcategory": "grain",
+    "days_to_germination": {"min": 5, "max": 10},
+    "germination_soil_temp_f": {"min": 40, "max": 75},
+    "days_to_maturity": {"min": 60, "max": 90},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": -6, "max": 2},
+      "note": "Drill in early spring as soon as ground can be worked, or sow in late summer for fall forage; Haymaker is a two-row beardless spring barley released by Montana State University as an improved replacement for the older Hays variety."
+    },
+    "usda_zones": {"min": 3, "max": 8},
+    "spacing_in": {"min": 1, "max": 3},
+    "height_in": {"min": 30, "max": 42},
+    "spread_in": {"min": 3, "max": 6},
+    "sun": "full",
+    "water": "low",
+    "directions": "Drill seed about an inch deep into a firm, well-drained seedbed as soon as soil is workable in spring. Haymaker was bred specifically for hay and green-chop forage rather than grain, carrying softer, finer leaves and higher digestibility than older forage barleys like Hays and Haybet. Cut or graze at the boot-to-early-heading stage for peak forage quality, or leave standing longer where it is being used purely for weed-suppressing soil cover. It establishes and matures quickly, making it useful as a short-window cover crop between cash crops in short-season northern regions.",
+    "sources": [
+      "Montana State University Agricultural Experiment Station — Recommended Barley Varieties",
+      "Albert Lea Seed — Haymaker Forage Barley",
+      "Great Basin Seed — Haymaker Barley (Hordeum vulgare)"
+    ]
+  },
+  {
+    "slug": "valor-winter-barley",
+    "common_name": "Valor Winter Barley (Six-Row Winter-Hardy Feed and Cover Crop Barley)",
+    "scientific_name": "Hordeum vulgare 'Valor'",
+    "category": "cover-crop",
+    "subcategory": "grain",
+    "days_to_germination": {"min": 4, "max": 10},
+    "germination_soil_temp_f": {"min": 38, "max": 75},
+    "days_to_maturity": {"min": 180, "max": 240},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {"min": -8, "max": -2},
+      "note": "Drill in early-to-mid fall so plants form tillers before hard freeze; Valor is among the most winter-hardy winter barleys available in the eastern Corn Belt, remaining viable into zones that typically can't carry winter barley through to spring."
+    },
+    "usda_zones": {"min": 5, "max": 8},
+    "spacing_in": {"min": 1, "max": 2},
+    "height_in": {"min": 30, "max": 44},
+    "spread_in": {"min": 4, "max": 8},
+    "sun": "full",
+    "water": "low",
+    "directions": "Drill seed roughly an inch deep in early fall into a firm, well-tilled seedbed; Valor is a six-row, short-awned winter feed barley bred for exceptional winter survival, having shown clean overwintering with little lodging in Pennsylvania and upper Midwest variety trials. It matures about two weeks ahead of winter wheat, giving an early window for grazing, haylage, or grain harvest before a following summer crop. Because it tolerates mildly saline soils and scavenges phosphorus and potassium efficiently, it fits well as a nutrient-recycling cover between row-crop seasons. Watch for powdery mildew and leaf rust pressure in wetter regions, though Valor carries better resistance to both than many older barleys.",
+    "sources": [
+      "CISCO Farm Seed — Valor Winter Barley Performs Well in Penn State Trials",
+      "Great Basin Seed — Valor Barley (Winter Beardless Barley) Technical Sheet",
+      "SARE — Managing Cover Crops Profitably: Barley"
+    ]
+  },
+  {
+    "slug": "p919-winter-barley",
+    "common_name": "P919 Winter Barley (Beardless Six-Row Grazing and Cover Crop Barley)",
+    "scientific_name": "Hordeum vulgare 'P919'",
+    "category": "cover-crop",
+    "subcategory": "grain",
+    "days_to_germination": {"min": 4, "max": 10},
+    "germination_soil_temp_f": {"min": 38, "max": 75},
+    "days_to_maturity": {"min": 170, "max": 220},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {"min": -8, "max": -2},
+      "note": "Drill in fall for grazing, forage, and ground cover through winter; P919 is an early-maturing beardless six-row winter barley bred for palatability in grazing and forage cover crop mixes."
+    },
+    "usda_zones": {"min": 6, "max": 9},
+    "spacing_in": {"min": 1, "max": 2},
+    "height_in": {"min": 28, "max": 40},
+    "spread_in": {"min": 4, "max": 8},
+    "sun": "full",
+    "water": "low",
+    "directions": "Drill or broadcast into a firm fall seedbed; being beardless, P919 is noticeably more palatable to grazing livestock than awned barleys and is frequently blended with cereal rye, triticale, or legumes in grazing cover crop mixes. It carries moderate cold tolerance, higher sugar content than many grain-type barleys, and good test weight if allowed to mature for grain. Graze or mow before stem elongation to encourage regrowth, or terminate at boot stage ahead of a spring cash crop. It tolerates saline soils reasonably well and helps make soil phosphorus and potassium more available to the crop that follows.",
+    "sources": [
+      "Green Cover Seed — Winter Barley (P919), Beardless",
+      "Johnston Seed Company — P919 Barley",
+      "Welter Seed — P919 Winter Barley"
+    ]
+  },
+  {
+    "slug": "chinese-red-cowpea",
+    "common_name": "Chinese Red Cowpea (Vigorous Vining Southern Cover Crop and Food Plot Cowpea)",
+    "scientific_name": "Vigna unguiculata 'Chinese Red'",
+    "category": "cover-crop",
+    "subcategory": "warm-season legume",
+    "days_to_germination": {"min": 5, "max": 10},
+    "germination_soil_temp_f": {"min": 65, "max": 95},
+    "days_to_maturity": {"min": 45, "max": 60},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 1, "max": 10},
+      "note": "Direct sow after soil has warmed well past last frost; Chinese Red is a vining, bushy-habit cowpea grown for cover crop and summer food plot biomass rather than for dry seed harvest."
+    },
+    "usda_zones": {"min": 6, "max": 11},
+    "spacing_in": {"min": 4, "max": 8},
+    "height_in": {"min": 12, "max": 24},
+    "spread_in": {"min": 24, "max": 48},
+    "sun": "full",
+    "water": "low",
+    "directions": "Broadcast or drill inoculated seed into warm, well-drained soil once danger of frost has passed. Chinese Red grows as a bushy, spreading vine that produces good summer biomass and reaches usable cover faster than Iron and Clay, typically reaching a leafy groundcover stage in 45 to 50 days. It fixes nitrogen through its root nodules, tolerates heat and short dry spells once established, and forms a dense weed-suppressing canopy over bare summer ground. Mow or crimp before heavy pod set to keep regrowth and residue manageable, and avoid combining it with crops it may shade out if left to sprawl unchecked.",
+    "sources": [
+      "Johnston Seed Company — Chinese Red Cowpea",
+      "SARE — Managing Cover Crops Profitably: Cowpeas",
+      "Southern Cover Crops Council — Cowpea Cover Crop Information Sheet"
+    ]
+  },
+  {
+    "slug": "lowboy-annual-ryegrass",
+    "common_name": "Lowboy Annual Ryegrass (Low-Growing Turf-Type Cover Crop Ryegrass)",
+    "scientific_name": "Lolium multiflorum 'Lowboy'",
+    "category": "cover-crop",
+    "subcategory": "grass",
+    "days_to_germination": {"min": 5, "max": 10},
+    "germination_soil_temp_f": {"min": 40, "max": 75},
+    "days_to_maturity": {"min": 50, "max": 80},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {"min": -10, "max": -2},
+      "note": "Broadcast or drill from late summer through fall; Lowboy is a turf-type annual ryegrass bred for cover crop use only, not for forage or turf, and is not intended to be grazed or mowed for hay."
+    },
+    "usda_zones": {"min": 4, "max": 9},
+    "spacing_in": {"min": 1, "max": 2},
+    "height_in": {"min": 6, "max": 14},
+    "spread_in": {"min": 4, "max": 8},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Drill at roughly 12 pounds per acre or broadcast at 15 pounds per acre into a prepared seedbed, covering lightly. Unlike standard annual ryegrass, Lowboy puts most of its energy into dense canopy spread and an extensive, deeply penetrating root system rather than height, so it builds rapid soil cover without the tall growth that can make termination difficult. It is well suited ahead of grain, tobacco, or vegetable rotations where growers want weed suppression and improved water infiltration without a tall ryegrass stand to manage in spring. Terminate by mowing, tillage, or herbicide before it sets seed to prevent volunteer stands.",
+    "sources": [
+      "King's AgriSeeds — Lowboy Annual Ryegrass",
+      "Southeast AgriSeeds — LowBoy Annual Ryegrass",
+      "Smith Seed Services — LowBoy Annual Ryegrass"
+    ]
+  },
+  {
+    "slug": "kingfisher-italian-ryegrass",
+    "common_name": "KingFisher Italian Ryegrass (Tetraploid-Diploid Forage and Cover Crop Blend)",
+    "scientific_name": "Lolium multiflorum 'KingFisher'",
+    "category": "cover-crop",
+    "subcategory": "grass",
+    "days_to_germination": {"min": 5, "max": 10},
+    "germination_soil_temp_f": {"min": 40, "max": 75},
+    "days_to_maturity": {"min": 55, "max": 90},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {"min": -8, "max": -2},
+      "note": "Sow in late summer to fall for overwintering cover, or in spring in cooler climates for multiple forage cuttings; KingFisher is a European-bred tetraploid-diploid blend of Italian ryegrass marketed through King's AgriSeeds."
+    },
+    "usda_zones": {"min": 4, "max": 9},
+    "spacing_in": {"min": 1, "max": 2},
+    "height_in": {"min": 18, "max": 36},
+    "spread_in": {"min": 4, "max": 8},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Drill or broadcast into a firm, fertile seedbed; KingFisher combines tetraploid and diploid Italian ryegrass genetics bred in Europe for a balance of rapid establishment, high-quality forage, and dense fibrous rooting. When seeded in spring in cooler regions it can be cut several times for high-quality hay or baleage, while fall sowings build vigorous overwinter ground cover and scavenge residual nitrogen ahead of a following cash crop. Its fine, palatable leaves make it a strong choice where growers want a dual-purpose forage-and-cover ryegrass rather than a cover-crop-only type. Mow, graze, or terminate before seed set to avoid volunteer regrowth the following season.",
+    "sources": [
+      "King's AgriSeeds — Cool Season Annuals, Italian Ryegrass",
+      "King's AgriSeeds — Organic Seeds: Forage, Cover Crop, Grain"
+    ]
+  },
+  {
+    "slug": "twister-hybrid-brassica",
+    "common_name": "Twister Hybrid Brassica (Leafy Rapeseed-Turnip Cover Crop Hybrid)",
+    "scientific_name": "Brassica napus × Brassica rapa 'Twister'",
+    "category": "cover-crop",
+    "subcategory": "brassica cover crop",
+    "days_to_germination": {"min": 4, "max": 10},
+    "germination_soil_temp_f": {"min": 45, "max": 75},
+    "days_to_maturity": {"min": 45, "max": 70},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {"min": -10, "max": -4},
+      "note": "Broadcast or drill in late summer to early fall for fall and winter grazing cover; Twister is a rapeseed-turnip hybrid bred by Peak Plant Genetics as a leafy, non-bulbing cover and grazing brassica."
+    },
+    "usda_zones": {"min": 4, "max": 9},
+    "spacing_in": {"min": 2, "max": 4},
+    "height_in": {"min": 12, "max": 24},
+    "spread_in": {"min": 8, "max": 14},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Broadcast seed shallowly into a firm, fertile seedbed in late summer; Twister produces an abundant, highly palatable leafy top rather than a large storage root, so there is no bulb to pose a choking hazard where it is grazed by livestock or wildlife. Its foliage regrows well after a grazing or mowing event, extending the usable cover and forage window later into fall than many turnip or radish types. It pairs well in mixes with winter cereals, oats, or annual ryegrass, where its quick top growth provides earlier ground cover while slower companions establish. Because it is fast to decompose, leave cut or grazed residue on the surface to cycle nutrients back into the soil.",
+    "sources": [
+      "Seedway — Twister Hybrid Brassica",
+      "Green Cover Seed — Turnip (Twister Hybrid)"
+    ]
+  },
+  {
+    "slug": "pasja-ii-forage-brassica",
+    "common_name": "Pasja II Forage Brassica (Improved Fast-Grazing Turnip-Rape Hybrid)",
+    "scientific_name": "Brassica napus × Brassica rapa 'Pasja II'",
+    "category": "cover-crop",
+    "subcategory": "brassica cover crop",
+    "days_to_germination": {"min": 4, "max": 10},
+    "germination_soil_temp_f": {"min": 45, "max": 75},
+    "days_to_maturity": {"min": 42, "max": 60},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {"min": -10, "max": -4},
+      "note": "Direct sow in late summer for a quick fall catch crop, or in spring where summers stay mild; Pasja II is an improved successor to the original Pasja turnip-rape hybrid, selected for higher regrowth after repeated grazing or mowing."
+    },
+    "usda_zones": {"min": 4, "max": 9},
+    "spacing_in": {"min": 2, "max": 4},
+    "height_in": {"min": 10, "max": 20},
+    "spread_in": {"min": 8, "max": 12},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Broadcast seed shallowly into a firm, fertile seedbed; Pasja II is ready for a first grazing or mowing in as little as six to eight weeks and regrows well enough to be cut or grazed two to three times in a season under decent moisture. It was bred from the original Pasja turnip-rape hybrid to resist bolting and persist longer through repeated defoliation, making it useful as a fast-cycling summer or fall cover and forage break crop between pasture renovations or cash crop seasons. Its tap root helps break up light soil compaction while the leafy top suppresses weeds and scavenges nitrogen. Terminate before flowering to prevent volunteer seedlings in the following crop.",
+    "sources": [
+      "Notman Pasture Seeds (Australia) — Pasja II Leafy Turnip",
+      "Ernst Conservation Seeds — Hybrid Forage Turnip, Pasja",
+      "PGG Wrightson Seeds — Brassica Seed Varieties"
+    ]
+  },
+  {
+    "slug": "overton-r18-rose-clover",
+    "common_name": "Overton R18 Rose Clover (Late-Flowering High-Yield Reseeding Rose Clover)",
+    "scientific_name": "Trifolium hirtum 'Overton R18'",
+    "category": "cover-crop",
+    "subcategory": "clover",
+    "days_to_germination": {"min": 5, "max": 10},
+    "germination_soil_temp_f": {"min": 45, "max": 65},
+    "days_to_maturity": {"min": 150, "max": 210},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {"min": -10, "max": -6},
+      "note": "Broadcast in fall at 8-12 lbs per acre into a firm seedbed; Overton R18 was released in 1991 by the Texas Agricultural Experiment Station as a later-flowering, higher-yielding alternative to earlier rose clover cultivars like Hykon and Kondinin."
+    },
+    "usda_zones": {"min": 7, "max": 10},
+    "spacing_in": {"min": 1, "max": 2},
+    "height_in": {"min": 8, "max": 18},
+    "spread_in": {"min": 6, "max": 12},
+    "sun": "full",
+    "water": "low",
+    "directions": "Broadcast seed into a firm, well-drained seedbed in fall and inoculate with the appropriate Rhizobium leguminosarum biovar. trifolii strain before sowing. Overton R18 flowers noticeably later in the season than early types such as Hykon and Kondinin, which extends its productive growth window and has been shown in regional trials to roughly double dry forage production at mid- and late-season harvests compared with those earlier cultivars. Like other rose clovers it reseeds readily once established, tolerates shallow, droughty, acidic soils better than most clovers, and needs little input once a stand is set. Allow a portion of the stand to set seed most years to maintain a self-sustaining reseeding population.",
+    "sources": [
+      "Texas A&M AgriLife Research — Overton R18 Rose Clover release notes",
+      "Mississippi State University Extension — Rose Clover (Trifolium hirtum)",
+      "USDA NRCS Plant Materials Program — Rose Clover"
+    ]
+  },
+  {
+    "slug": "jemalong-barrel-medic",
+    "common_name": "Jemalong Barrel Medic (Mid-Season Self-Reseeding Annual Medic)",
+    "scientific_name": "Medicago truncatula 'Jemalong'",
+    "category": "cover-crop",
+    "subcategory": "annual winter legume",
+    "days_to_germination": {"min": 4, "max": 10},
+    "germination_soil_temp_f": {"min": 45, "max": 70},
+    "days_to_maturity": {"min": 90, "max": 130},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {"min": -8, "max": -4},
+      "note": "Direct sow in fall with fresh medic-specific Rhizobium inoculant onto a firm, alkaline-to-neutral seedbed; Jemalong is a long-established, mid-season-maturing Australian barrel medic cultivar still grown as a reseeding annual legume cover."
+    },
+    "usda_zones": {"min": 7, "max": 11},
+    "spacing_in": {"min": 4, "max": 8},
+    "height_in": {"min": 6, "max": 16},
+    "spread_in": {"min": 10, "max": 18},
+    "sun": "full",
+    "water": "low",
+    "directions": "Broadcast or drill seed shallowly into a firm, well-drained, neutral-to-alkaline seedbed in fall, using a fresh medic-type Rhizobium inoculant since barrel medic will not nodulate reliably with standard clover inoculants. Jemalong is an older, broadly adapted barrel medic selection that has remained in use largely because it holds a higher reserve of hard seed in the soil than many newer cultivars, letting stands persist and reseed across dry years with minimal reseeding effort. It forms a low, spreading mat that suppresses winter annual weeds and fixes nitrogen for a following crop, then sets its distinctive spiny seed pods as it dries down in late spring. Because it needs alkaline soils to perform well, it is not a good fit for acidic ground without lime correction.",
+    "sources": [
+      "SARE — Managing Cover Crops Profitably: Medics",
+      "UC SAREP Cover Crop Database — Barrel Medic",
+      "USDA NRCS Plant Materials Program — Medics"
+    ]
+  },
+  {
+    "slug": "covercress-pennycress",
+    "common_name": "CoverCress (Domesticated Oilseed Pennycress Cash Cover Crop)",
+    "scientific_name": "Thlaspi arvense 'CoverCress'",
+    "category": "cover-crop",
+    "subcategory": "cool-season oilseed cover crop",
+    "days_to_germination": {"min": 7, "max": 14},
+    "germination_soil_temp_f": {"min": 40, "max": 65},
+    "days_to_maturity": {"min": 220, "max": 260},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {"min": -4, "max": 2},
+      "note": "Drill or broadcast immediately after corn or soybean harvest in September to mid-October; CoverCress is a domesticated, selectively bred line of field pennycress developed to be harvested as an oilseed grain in late spring rather than simply terminated as a conventional cover crop."
+    },
+    "usda_zones": {"min": 4, "max": 7},
+    "spacing_in": {"min": 2, "max": 4},
+    "height_in": {"min": 12, "max": 24},
+    "spread_in": {"min": 4, "max": 8},
+    "sun": "full",
+    "water": "low",
+    "directions": "Drill seed shallowly into a harvested corn or soybean field in early fall, where it germinates and overwinters as a low rosette before bolting and flowering the following spring. Unlike wild field pennycress, CoverCress was bred from pennycress germplasm specifically to reduce shattering and lower anti-nutritive compounds in the seed, so the crop can be combine-harvested for its oilseed in late May before the next row crop is planted. Because it occupies the field through the winter fallow window between a fall-harvested and spring-planted cash crop, it provides the erosion control, weed suppression, and nutrient scavenging of a conventional cover crop while also yielding a sellable oilseed grain. Handle it as a grain crop at harvest rather than mowing or crimping it down, since the economic return depends on a clean seed harvest.",
+    "sources": [
+      "CoverCress Inc. — company product information",
+      "Farm Progress — Pennycress: The First Cash Cover Crop",
+      "No-Till Farmer — CoverCress Has Potential as Third Cash Crop for Midwest"
+    ]
+  },
+  {
+    "slug": "large-lad-forage-soybean",
+    "common_name": "Large Lad Forage Soybean (Tall Leafy Food Plot and Cover Crop Soybean)",
+    "scientific_name": "Glycine max 'Large Lad'",
+    "category": "cover-crop",
+    "subcategory": "annual legume",
+    "days_to_germination": {"min": 5, "max": 10},
+    "germination_soil_temp_f": {"min": 60, "max": 85},
+    "days_to_maturity": {"min": 90, "max": 130},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 1, "max": 6},
+      "note": "Drill after last frost once soil has warmed, into a firm, fertile seedbed in full sun; Large Lad is a tall, late-maturity-group forage soybean bred by Eagle Seed for maximum leaf biomass, grazing tolerance, and extended green growth."
+    },
+    "usda_zones": {"min": 5, "max": 10},
+    "spacing_in": {"min": 3, "max": 6},
+    "height_in": {"min": 48, "max": 84},
+    "spread_in": {"min": 12, "max": 24},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Drill inoculated seed one to one-and-a-half inches deep into a firm, fertile seedbed after the soil has warmed; Large Lad grows considerably taller than grain-type soybeans, reaching up to seven feet, and climbs and sprawls to fill gaps between rows rather than standing stiffly upright. It was bred for large leaf area and strong resistance to foliar diseases, root rots, and several nematode races, letting it stay green and productive under repeated grazing or browsing pressure through much of the growing season. As a nitrogen-fixing legume it builds soil fertility while producing a high volume of palatable, high-protein forage, and it is often blended with other forage soybean types for extended-season food plots. Mow, graze, or terminate before a hard frost, since the tender foliage is killed by freezing temperatures.",
+    "sources": [
+      "Eagle Seed, LLC — Large Lad Forage Soybean",
+      "Best Forage — Large Lad RR Forage Soybeans",
+      "Southern Illinois University forage soybean digestibility studies (TDN data cited by Eagle Seed)"
+    ]
+  }
+]
