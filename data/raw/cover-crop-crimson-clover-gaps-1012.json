@@ -1,0 +1,56 @@
+[
+  {
+    "slug": "au-sunup-crimson-clover",
+    "common_name": "AU Sunup Crimson Clover (Earliest-Blooming Reseeding Crimson Clover)",
+    "scientific_name": "Trifolium incarnatum 'AU Sunup'",
+    "category": "cover-crop",
+    "subcategory": "legume",
+    "days_to_germination": {"min": 5, "max": 10},
+    "germination_soil_temp_f": {"min": 45, "max": 75},
+    "days_to_maturity": {"min": 85, "max": 145},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {"min": -8, "max": -2},
+      "note": "Sow in fall for a winter-to-spring cover crop; AU Sunup, released by Auburn University and the Jimmy Carter Plant Materials Center, is noticeably shorter than other crimson clover releases and blooms first among the AU series, ahead of AU Sunrise and AU Robin, letting it reseed and clear a bed earlier in the Gulf South."
+    },
+    "usda_zones": {"min": 6, "max": 9},
+    "spacing_in": {"min": 2, "max": 4},
+    "height_in": {"min": 10, "max": 18},
+    "spread_in": {"min": 8, "max": 14},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Broadcast seed onto a prepared seedbed in early to mid fall and rake lightly for good seed-to-soil contact. AU Sunup was bred from a pool of Alabama accessions specifically to flower and mature earlier than any other named crimson clover, including its sister releases AU Sunrise and AU Robin, while staying noticeably shorter and more compact in habit. That early bloom lets it complete seed set and reseed itself well before a following warm-season crop needs the ground, making it a good fit for tight rotation windows along the Gulf Coast. Mow or terminate after peak bloom if reseeding is not desired, otherwise allow pods to mature fully for a self-sustaining stand the following fall.",
+    "sources": ["USDA NRCS Jimmy Carter Plant Materials Center — Plant Release Notice, 'AU Sunup' Crimson Clover", "Auburn University College of Agriculture", "SARE (Sustainable Agriculture Research and Education) — Cover Crop Chart"]
+  },
+  {
+    "slug": "flame-crimson-clover",
+    "common_name": "Flame Crimson Clover (High-Biomass Hard-Seeded Reseeding Clover)",
+    "scientific_name": "Trifolium incarnatum 'Flame'",
+    "category": "cover-crop",
+    "subcategory": "legume",
+    "days_to_germination": {"min": 5, "max": 10},
+    "germination_soil_temp_f": {"min": 45, "max": 75},
+    "days_to_maturity": {"min": 95, "max": 155},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {"min": -8, "max": -2},
+      "note": "Sow in fall for a winter-to-spring cover crop; Flame matures roughly two weeks earlier than common Dixie-type crimson clover while producing more biomass and a higher percentage of hard seed, giving it stronger volunteer reseeding after heat exposure through a Gulf South summer."
+    },
+    "usda_zones": {"min": 6, "max": 9},
+    "spacing_in": {"min": 2, "max": 4},
+    "height_in": {"min": 14, "max": 26},
+    "spread_in": {"min": 8, "max": 14},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Broadcast seed onto a prepared seedbed in fall and rake lightly to ensure good seed-to-soil contact. Flame was selected for a higher proportion of hard (dormant) seed than older crimson clover releases such as Dixie, so more of its dropped seed survives a hot Gulf Coast summer to germinate reliably the following fall rather than sprouting prematurely and dying. University cultivar trials also credit it with earlier maturity and greater biomass production than standard crimson clover, making it a strong choice where heavy winter ground cover and dependable self-reseeding both matter. Mow or terminate at first bloom if you need the bed sooner, or let seed mature fully to carry the stand into another season.",
+    "sources": ["Agronomy Journal — crimson clover cultivar seed production and reseeding comparison studies", "USDA NRCS Plant Materials Program — Crimson Clover Plant Fact Sheet (TRIN3)", "SARE (Sustainable Agriculture Research and Education) — Cover Crop Chart"]
+  }
+]

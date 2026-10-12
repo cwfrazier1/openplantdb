@@ -1,0 +1,83 @@
+[
+  {
+    "slug": "winnie-b-azalea",
+    "common_name": "Winnie B Azalea (Pink-Flowered Coastal Azalea Selection)",
+    "scientific_name": "Rhododendron atlanticum 'Winnie B'",
+    "category": "flower",
+    "subcategory": "native azalea",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 730, "max": 1460},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Set container-grown plants out in spring into moist, acidic, humus-rich soil amended with extra organic matter; Winnie B was selected from the Choptank River population of coast azalea for its clear pink flowers that open alongside the emerging foliage."
+    },
+    "usda_zones": {"min": 6, "max": 9},
+    "spacing_in": {"min": 36, "max": 60},
+    "height_in": {"min": 48, "max": 72},
+    "spread_in": {"min": 36, "max": 48},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Winnie B is a pink-flowered selection of coast azalea traced to the Choptank River population in Delaware and introduced to cultivation by native-azalea grower Ray Head. Its blossoms open a soft pink in step with the unfurling spring foliage, a contrast to the more common white-flowered forms of the species, and carry the same light sweet fragrance typical of the group. It grows taller and somewhat more upright than the typical low, suckering form of the species, reaching several feet at maturity rather than staying knee-high. Give it moist, acidic, well-drained soil generously enriched with organic matter and part shade similar to an open coastal-plain pine or oak woodland.",
+    "sources": ["Mr. Maple Nursery", "Kollar Nursery", "Azalea Society of America"]
+  },
+  {
+    "slug": "tappahanna-mist-azalea",
+    "common_name": "Tappahanna Mist Azalea (Compact Fragrant Coastal Azalea Selection)",
+    "scientific_name": "Rhododendron atlanticum 'Tappahanna Mist'",
+    "category": "flower",
+    "subcategory": "native azalea",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 730, "max": 1460},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Plant in spring in moist, acidic, sandy to humus-rich, well-drained soil in part shade; Tappahanna Mist stays noticeably more compact than typical coast azalea and spreads less aggressively by stolons."
+    },
+    "usda_zones": {"min": 6, "max": 9},
+    "spacing_in": {"min": 24, "max": 36},
+    "height_in": {"min": 24, "max": 36},
+    "spread_in": {"min": 24, "max": 36},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Tappahanna Mist is a compact selection of coast azalea found growing wild near a Delaware riverbank by plantsman Jim Plyler and named for the misty pale look of its pink-tinged white flower clusters. Unlike the straight species, which slowly colonizes an area through underground stolons, this selection stays tidy and low, making it a better fit for small woodland-edge beds or foundation plantings. Its funnel-shaped flowers open in mid-spring and carry the same spicy-sweet fragrance that makes the species a favorite near patios and walkways. Grow it in acidic, humus-rich soil that stays evenly moist, with dappled shade through the heat of the day.",
+    "sources": ["Kollar Nursery", "Azalea Society of America"]
+  },
+  {
+    "slug": "choptank-rose-azalea",
+    "common_name": "Choptank Rose Azalea (Fragrant Rose-and-Yellow Native Hybrid Azalea)",
+    "scientific_name": "Rhododendron 'Choptank Rose'",
+    "category": "flower",
+    "subcategory": "native hybrid azalea",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 730, "max": 1460},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Plant container-grown shrubs in spring into moist to wet, acidic soil, including heavier clay, in sun to part shade; Choptank Rose is an upright, compact grower within the low, spreading Choptank River hybrid group of native azaleas."
+    },
+    "usda_zones": {"min": 5, "max": 9},
+    "spacing_in": {"min": 48, "max": 72},
+    "height_in": {"min": 48, "max": 60},
+    "spread_in": {"min": 60, "max": 72},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Choptank Rose belongs to the Choptank River hybrid swarm, a natural cross of coast azalea and pinxterbloom azalea first documented along a Delaware river and later refined with additional native azalea parentage for richer color. Its fragrant flowers combine rose-pink petals with a yellow blotch and open in a late-spring show from May into June. Unlike many of its loosely spreading Choptank relatives, this selection grows more upright and compact, and it tolerates heavier, wetter clay soils better than most deciduous native azaleas. Site it in sun to part shade with consistent moisture to get the fullest bloom and best natural woodland-edge effect.",
+    "sources": ["Pleasant Run Nursery", "Azalea Society of America (The Azalean)", "Journal American Rhododendron Society"]
+  }
+]

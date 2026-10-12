@@ -1,0 +1,56 @@
+[
+  {
+    "slug": "regal-prince-apple",
+    "common_name": "Regal Prince Apple (Prince Gala)",
+    "scientific_name": "Malus domestica 'Regal Prince'",
+    "category": "fruit",
+    "subcategory": "apple",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 1095, "max": 1460},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": -8, "max": -2},
+      "note": "Plant bare-root or grafted trees in late winter while still dormant, into deep, well-drained, fertile soil in full sun, and provide a compatible pollinator apple such as Fuji or Golden Delicious within range for good fruit set."
+    },
+    "usda_zones": {"min": 5, "max": 9},
+    "spacing_in": {"min": 150, "max": 200},
+    "height_in": {"min": 120, "max": 200},
+    "spread_in": {"min": 120, "max": 160},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Regal Prince, also sold as Prince Gala, arose in France as a deeper-coloring bud sport of the original Gala, discovered by the Davodeau nursery near Angers and recorded in the early 1980s. It keeps Gala's familiar crisp, fine-grained texture and sweet, low-acid, honeyed flavor, but develops a fuller, more evenly red-striped skin earlier in the season than standard Gala, making it attractive to growers who want improved fruit color without any change in eating quality. Harvest in the early-to-mid season alongside other Gala strains, and expect similar cold-storage life. Provide a compatible pollinator within about 50 feet, since like other Gala strains it does not set a reliable crop on its own.",
+    "sources": ["National Fruit Collection (Brogdale) — Prince Gala/Regal Prince variety record", "Washington State University Tree Fruit Research and Extension Center — Gala strain comparisons", "Orange Pippin Fruit Trees — Gala apple sports and strains"]
+  },
+  {
+    "slug": "galaxy-apple",
+    "common_name": "Galaxy Apple (Gala Galaxy)",
+    "scientific_name": "Malus domestica 'Galaxy'",
+    "category": "fruit",
+    "subcategory": "apple",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 1095, "max": 1460},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": -8, "max": -2},
+      "note": "Plant bare-root or grafted trees in late winter while still dormant, into deep, well-drained, fertile soil in full sun, and provide a compatible pollinator apple such as Fuji or Golden Delicious within range for good fruit set."
+    },
+    "usda_zones": {"min": 5, "max": 9},
+    "spacing_in": {"min": 150, "max": 200},
+    "height_in": {"min": 120, "max": 200},
+    "spread_in": {"min": 120, "max": 160},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Galaxy, sometimes marketed as Gala Galaxy, is a further sport selection out of Royal Gala, bred to color more fully and stay stable from season to season, with far less of the tendency to partially revert to paler fruit that can show up in older Royal Gala plantings. The deep red background with crisp green-yellow striping covers more of the fruit surface than on Royal Gala, while the flesh keeps the same fine-grained, sweet, low-acid Gala flavor and texture. It ripens in the same early-to-mid season window as other Gala strains and stores comparably well under refrigeration. Provide a compatible pollinator within about 50 feet, since Gala strains are not reliably self-fertile.",
+    "sources": ["Washington State University Tree Fruit Research and Extension Center — Gala strain comparisons", "New South Wales DPI — Apple Varieties: Gala", "Orange Pippin Fruit Trees — Gala apple sports and strains"]
+  }
+]
