@@ -1,0 +1,95 @@
+[
+  {
+    "slug": "taliaferro-apple",
+    "common_name": "Taliaferro Apple (Thomas Jefferson's Monticello Cider Apple)",
+    "scientific_name": "Malus domestica 'Taliaferro'",
+    "category": "fruit",
+    "subcategory": "tree fruit",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 1095, "max": 1825},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": -8, "max": -4},
+      "note": "Plant bare-root or container trees in late winter to early spring while dormant, into deep, well-drained soil in full sun; Taliaferro is not reliably self-fruitful, so site it near another apple cultivar for cross-pollination."
+    },
+    "usda_zones": {"min": 5, "max": 8},
+    "spacing_in": {"min": 180, "max": 240},
+    "height_in": {"min": 180, "max": 300},
+    "spread_in": {"min": 180, "max": 240},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Taliaferro (pronounced 'Tolliver') was Thomas Jefferson's favorite cider apple, named for Major Richard Taliaferro, who found it growing wild near a Williamsburg property, and grown at Monticello. In an 1814 letter Jefferson praised the cider it produced as having more body and less acidity than other ciders he knew, comparing it favorably to champagne. The original tree's true pomological identity was lost over time, and growers researching Monticello's historic orchards have worked to identify likely candidate stock so the variety can be grown again by home orchardists. It is a cider apple rather than a dessert variety, valued for the acidity and body it lends to a blended cider rather than for fresh eating. Plant with another apple cultivar nearby for cross-pollination, since Taliaferro is not self-fruitful.",
+    "sources": [
+      "Thomas Jefferson's Monticello - Center for Historic Plants, Historic Apple Varieties",
+      "Founders Archives - Thomas Jefferson to James Mease, June 29, 1814",
+      "Creighton Lee Calhoun, Old Southern Apples"
+    ]
+  },
+  {
+    "slug": "kinnairds-choice-apple",
+    "common_name": "Kinnaird's Choice Apple (Middle Tennessee Heirloom Dessert Apple)",
+    "scientific_name": "Malus domestica 'Kinnaird's Choice'",
+    "category": "fruit",
+    "subcategory": "tree fruit",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 1095, "max": 1825},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": -8, "max": -4},
+      "note": "Plant bare-root or container trees in late winter to early spring in deep, well-drained soil in full sun; Kinnaird's Choice is not self-fruitful, so plant a compatible apple cultivar nearby for pollination."
+    },
+    "usda_zones": {"min": 5, "max": 8},
+    "spacing_in": {"min": 180, "max": 240},
+    "height_in": {"min": 180, "max": 300},
+    "spread_in": {"min": 180, "max": 240},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Kinnaird's Choice is an 1855 heirloom that originated on Michael Kinnaird's farm in Franklin County in Middle Tennessee, documented among historic Southern apple varieties. It bears medium-sized fruit with thick, tough, glossy yellow skin almost entirely covered in a red flush and light green dots, enclosing firm, fine-grained flesh noted by old-time growers for its high sugar content and rich flavor. It ripens in fall and keeps reasonably well into early winter, making it valued both as a fresh dessert apple and as a modest keeper. Provide a compatible pollinator apple nearby, since it does not set fruit reliably on its own.",
+    "sources": [
+      "Creighton Lee Calhoun, Old Southern Apples",
+      "Century Farm Orchards - Old Southern Apple Variety Descriptions",
+      "University of Tennessee Extension"
+    ]
+  },
+  {
+    "slug": "fallawater-apple",
+    "common_name": "Fallawater Apple (Pennsylvania-German Heirloom Baking Apple, aka Tulpehocken)",
+    "scientific_name": "Malus domestica 'Fallawater'",
+    "category": "fruit",
+    "subcategory": "tree fruit",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 1095, "max": 1825},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": -8, "max": -4},
+      "note": "Plant bare-root or container trees in late winter to early spring in deep, well-drained soil in full sun; Fallawater is not self-fruitful, so plant another apple cultivar nearby for cross-pollination."
+    },
+    "usda_zones": {"min": 5, "max": 8},
+    "spacing_in": {"min": 180, "max": 240},
+    "height_in": {"min": 180, "max": 300},
+    "spread_in": {"min": 180, "max": 240},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Fallawater, also recorded under the synonym Tulpehocken, is a nineteenth-century Pennsylvania-German heirloom documented around 1842 in the Bucks/Montgomery County region, known for producing some of the largest fruit of any historic American apple, commonly reaching up to six inches across. The pale yellow-green skin is often blushed with dull red, and the mild, coarse-textured, crisp flesh made it a favored baking and cooking apple on old homesteads rather than a fresh dessert variety, though it was also eaten fresh. It stores reasonably well into winter and was prized historically for its size and productivity more than refined flavor. Provide a compatible pollinator cultivar nearby, since Fallawater does not reliably set fruit on its own.",
+    "sources": [
+      "S.A. Beach, The Apples of New York (1905)",
+      "USDA Pomological Watercolor Collection",
+      "Creighton Lee Calhoun, Old Southern Apples"
+    ]
+  }
+]
