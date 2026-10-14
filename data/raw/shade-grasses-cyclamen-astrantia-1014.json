@@ -1,0 +1,83 @@
+[
+  {
+    "slug": "cyclamen-colchicum",
+    "common_name": "Colchis Cyclamen (Caucasian Cyclamen)",
+    "scientific_name": "Cyclamen colchicum",
+    "category": "flower",
+    "subcategory": "autumn-flowering hardy cyclamen",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 365, "max": 730},
+    "maturity_from": "transplant",
+    "sow_method": "tuber",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {"min": -6, "max": -2},
+      "note": "Plant tubers shallowly in humus-rich, well-drained soil in shade to part shade; this Western Caucasus woodland species wants a touch more summer moisture retention than Mediterranean cyclamen and resents being baked completely dry."
+    },
+    "usda_zones": {"min": 6, "max": 9},
+    "spacing_in": {"min": 4, "max": 6},
+    "height_in": {"min": 3, "max": 5},
+    "spread_in": {"min": 4, "max": 6},
+    "sun": "shade",
+    "water": "low",
+    "directions": "Native to the forested foothills of the Western Caucasus around historic Colchis, this cyclamen sends up sturdy, deep magenta-pink flowers with a darker basal blotch in late summer and early autumn, often close behind Cyclamen hederifolium. The rounded, slightly velvety leaves are a matte mid-green rather than strongly silver-marbled, giving it a quieter presence in the dry-shade border once flowering finishes. It is slow to bulk up from a young tuber and uncommon in general nursery trade, so source plants or seed from specialist alpine or cyclamen societies rather than expecting it at a garden center. Site it in leaf-litter-rich soil beneath deciduous shrubs where it gets some summer shade and avoid heavy waterlogging during its brief dormancy.",
+    "sources": ["Cyclamen Society", "Pacific Bulb Society", "Royal Horticultural Society"]
+  },
+  {
+    "slug": "petasites-albus",
+    "common_name": "White Butterbur",
+    "scientific_name": "Petasites albus",
+    "category": "flower",
+    "subcategory": "shade perennial",
+    "days_to_germination": {"min": 14, "max": 28},
+    "germination_soil_temp_f": {"min": 50, "max": 65},
+    "days_to_maturity": {"min": 365, "max": 730},
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Divide rhizomes in spring or fall and set into consistently moist, humus-rich soil; give it room to spread and keep it away from smaller companions it can overrun."
+    },
+    "usda_zones": {"min": 4, "max": 8},
+    "spacing_in": {"min": 24, "max": 36},
+    "height_in": {"min": 6, "max": 16},
+    "spread_in": {"min": 36, "max": 72},
+    "sun": "partial",
+    "water": "high",
+    "directions": "White butterbur pushes up dense, creamy-white flower clusters directly from bare soil in earliest spring, well before its large, rounded, grey-green leaves unfurl and eventually dominate the planting. Native to damp woodlands and mountain streambanks across Europe, it spreads steadily by thick rhizomes into a tough, weed-smothering groundcover for consistently moist to wet shade. It is considerably less rampant than the related Petasites hybridus but still unsuitable for small or mixed borders, so reserve it for naturalized stream edges, pond margins, or other spots where its spread is welcome. Once established it needs little attention beyond occasional thinning to keep it within bounds.",
+    "sources": ["Royal Horticultural Society", "Missouri Botanical Garden Plant Finder"]
+  },
+  {
+    "slug": "astrantia-carniolica",
+    "common_name": "Carniolan Masterwort",
+    "scientific_name": "Astrantia carniolica",
+    "category": "flower",
+    "subcategory": "shade perennial",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 365, "max": 730},
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": -2, "max": 4},
+      "note": "Divide and replant in early spring as new growth emerges, or in fall once flowering has finished, into humus-rich soil that stays reliably moist."
+    },
+    "usda_zones": {"min": 4, "max": 7},
+    "spacing_in": {"min": 10, "max": 14},
+    "height_in": {"min": 10, "max": 16},
+    "spread_in": {"min": 10, "max": 14},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Named for the Carniola region of the eastern Alps, this masterwort is noticeably more compact than Astrantia major, forming a tidy mound of lobed foliage topped by small white to pale pink pincushion flowerheads in early to midsummer. Its modest stature suits the front of a woodland border, rock garden edge, or container, where larger astrantias would overwhelm the scale. It shares the genus's preference for cool roots and even moisture, flowering poorly and fading fast if the soil dries out repeatedly through summer. Because it is slower to bulk up than A. major, leave clumps undisturbed for a few seasons before dividing to maintain a strong flower display.",
+    "sources": ["Royal Horticultural Society", "Pacific Bulb Society"]
+  }
+]

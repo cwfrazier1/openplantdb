@@ -1,0 +1,83 @@
+[
+  {
+    "slug": "us-sundragon-mandarin",
+    "common_name": "US SunDragon Mandarin (Cold-Hardy, HLB-Tolerant USDA Mandarin)",
+    "scientific_name": "Citrus reticulata 'US SunDragon'",
+    "category": "fruit",
+    "subcategory": "citrus",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 730, "max": 1095},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 6},
+      "note": "Plant container or bare-root trees in spring once frost danger has passed, in well-drained soil in full sun; SunDragon was bred by the USDA-ARS citrus program in Fort Pierce, Florida specifically for improved cold tolerance and resilience to citrus greening disease, making it a strong dooryard choice for Gulf Coast growers."
+    },
+    "usda_zones": {"min": 8, "max": 10},
+    "spacing_in": {"min": 96, "max": 144},
+    "height_in": {"min": 96, "max": 180},
+    "spread_in": {"min": 96, "max": 144},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in well-drained, slightly acidic soil in full sun, giving young trees frost protection for the first few winters. US SunDragon was developed by USDA-ARS breeders working to combine the cold hardiness of Changsha-type mandarin parentage with the tolerance to huanglongbing (citrus greening) that Florida's citrus industry needed, and it has since been promoted to home growers along the Gulf Coast as a dooryard mandarin that can survive colder winters than standard satsuma or sweet orange plantings. Fruit is easy-peeling with a rich, sweet-tart flavor typical of cold-hardy mandarin hybrids, ripening in the cooler months. Water deeply but infrequently once established, and fertilize with a citrus-specific fertilizer through the growing season.",
+    "sources": ["USDA Agricultural Research Service", "University of Florida IFAS Extension", "New Varieties Development & Management Corporation"]
+  },
+  {
+    "slug": "dalmatie-fig",
+    "common_name": "Dalmatie Fig (Croatian Dalmatian Coast Heirloom)",
+    "scientific_name": "Ficus carica 'Dalmatie'",
+    "category": "fruit",
+    "subcategory": "fig",
+    "days_to_germination": {"min": 14, "max": 30},
+    "germination_soil_temp_f": {"min": 60, "max": 75},
+    "days_to_maturity": {"min": 730, "max": 1460},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 6},
+      "note": "Plant rooted cuttings in spring in well-drained, moderately fertile soil in full sun; Dalmatie is an old variety from the Dalmatian coast of Croatia that has long circulated among fig collectors and specialty nurseries for its reliable production and good fresh-eating quality."
+    },
+    "usda_zones": {"min": 7, "max": 11},
+    "spacing_in": {"min": 120, "max": 180},
+    "height_in": {"min": 120, "max": 180},
+    "spread_in": {"min": 120, "max": 180},
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant in well-drained, average to fertile soil in full sun; Dalmatie is a common fig type that needs no pollinator and sets a dependable main crop on current-season wood. The variety traces to the Dalmatian coast of Croatia and has been maintained and distributed for years through fig-collector exchange networks and specialty fruit-tree nurseries because of its productive habit and bronze-skinned, richly flavored fruit. It performs well in hot, humid conditions typical of the Gulf Coast and tolerates brief dips below freezing once established, though young trees should be mulched and protected through their first winters. Water regularly during fruit development and reduce watering once the tree is dormant.",
+    "sources": ["California Rare Fruit Growers", "USDA National Clonal Germplasm Repository", "Specialty fig nursery catalog records"]
+  },
+  {
+    "slug": "hollier-fig",
+    "common_name": "Hollier Fig (Louisiana Heirloom Fig)",
+    "scientific_name": "Ficus carica 'Hollier'",
+    "category": "fruit",
+    "subcategory": "fig",
+    "days_to_germination": {"min": 14, "max": 30},
+    "germination_soil_temp_f": {"min": 60, "max": 75},
+    "days_to_maturity": {"min": 730, "max": 1460},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 6},
+      "note": "Plant rooted cuttings in spring in well-drained soil in full sun; Hollier is an old Louisiana dooryard fig passed down among Gulf South fig growers and prized for heavy, reliable bearing on home-garden trees."
+    },
+    "usda_zones": {"min": 7, "max": 10},
+    "spacing_in": {"min": 120, "max": 180},
+    "height_in": {"min": 120, "max": 180},
+    "spread_in": {"min": 120, "max": 180},
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant in well-drained, average soil in full sun; Hollier is a common fig type needing no pollinator, producing medium-to-large bronze-brown fruit with sweet, amber flesh on a vigorous, heavy-bearing tree. It is a longstanding Louisiana dooryard heirloom, kept in circulation primarily through cutting exchanges among Gulf South home growers and regional fig-collector communities rather than commercial nursery catalogs, and it is well adapted to the heat, humidity, and periodic winter cold snaps of the Gulf Coast. Established trees recover readily from occasional freeze dieback by resprouting from the base. Water consistently through fruit set and ripening, then taper off as the tree goes dormant in late fall.",
+    "sources": ["Louisiana State University AgCenter", "Gulf South fig-grower community records", "USDA National Clonal Germplasm Repository"]
+  }
+]

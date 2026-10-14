@@ -1,0 +1,29 @@
+[
+  {
+    "slug": "elbe-tomato",
+    "common_name": "Elbe Tomato (German-Named Potato-Leaf Yellow Beefsteak)",
+    "scientific_name": "Solanum lycopersicum 'Elbe'",
+    "category": "vegetable",
+    "subcategory": "heirloom tomato",
+    "days_to_germination": { "min": 6, "max": 12 },
+    "germination_soil_temp_f": { "min": 70, "max": 85 },
+    "days_to_maturity": { "min": 80, "max": 86 },
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": { "min": 0, "max": 2 },
+      "note": "Start indoors 6-8 weeks before last frost; transplant after frost risk passes; the large, leafy potato-leaf vine and heavy fruit need sturdy staking from an early age."
+    },
+    "usda_zones": { "min": 4, "max": 9 },
+    "spacing_in": { "min": 24, "max": 36 },
+    "height_in": { "min": 60, "max": 84 },
+    "spread_in": { "min": 24, "max": 36 },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Start seed indoors 6-8 weeks before last frost and transplant into deeply worked, fertile soil in full sun once frost danger passes, staking the vigorous potato-leaf vine early to carry its heavy fruit load. Elbe takes its name from Germany's Elbe River region and was introduced to American seed savers through Seed Savers Exchange in 1997, though its original source before that is undocumented; it produces 8-12 ounce yellow-orange beefsteak fruit on a big, leafy indeterminate plant that performs especially well in cooler summer climates. The flesh is juicy and meaty with a balanced sweet-tart flavor that is milder and less acidic than a typical red beefsteak, making it a popular salad slicer. It served as a breeding parent in the Dwarf Tomato Project, crossed with Golden Dwarf Champion to found the 'Tipsy' line that produced the dwarf releases Dwarf Golden Gypsy and Dwarf Orange Cream.",
+    "sources": ["Seed Savers Exchange", "Dwarf Tomato Project / Patrina Nuske Small", "Tatiana's TOMATObase"]
+  }
+]

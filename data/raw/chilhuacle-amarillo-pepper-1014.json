@@ -1,0 +1,29 @@
+[
+  {
+    "slug": "chilhuacle-amarillo-pepper",
+    "common_name": "Chilhuacle Amarillo Pepper (Yellow Chilhuacle, Oaxacan Mole Amarillo Chile)",
+    "scientific_name": "Capsicum annuum 'Chilhuacle Amarillo'",
+    "category": "vegetable",
+    "subcategory": "dried chile pepper",
+    "days_to_germination": { "min": 10, "max": 14 },
+    "germination_soil_temp_f": { "min": 75, "max": 85 },
+    "days_to_maturity": { "min": 115, "max": 135 },
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": { "min": -10, "max": -8 },
+      "note": "Start indoors 8-10 weeks before last frost in a warm location (75-85F); transplant after all frost danger passes. Amarillo is the slowest and least productive of the three chilhuacle types, so give it the longest warm season available and do not expect the heavy yields of standard garden peppers."
+    },
+    "usda_zones": { "min": 3, "max": 11 },
+    "spacing_in": { "min": 18, "max": 24 },
+    "height_in": { "min": 24, "max": 36 },
+    "spread_in": { "min": 18, "max": 24 },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Chilhuacle amarillo is the rarest and mildest of the Cañada region's three chilhuacle types, grown today by only a small number of families around Cuicatlan in Oaxaca's Cañada district. The shoulder-shaped fruit ripens from green through gold to a dusty ochre-tan rather than the dramatic black or red of its negro and rojo siblings, and it carries a gentler, more delicate heat alongside a fruity, faintly tangy flavor. Harvest at full color and dry thoroughly on screens in a single layer; the dried pod is the defining ingredient of mole amarillo, the palest and lightest of Oaxaca's classic mole sauces. Because cultivation has dwindled to a handful of growers, treat seed from any specialty source as precious and save it carefully from your best plants.",
+    "sources": ["Diana Kennedy -- The Cuisines of Mexico", "Slow Food Foundation for Biodiversity -- Ark of Taste chilhuacle documentation", "Rick Bayless -- Mexico One Plate at a Time"]
+  }
+]
