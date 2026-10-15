@@ -1,0 +1,25 @@
+[
+  {
+    "slug": "re-umberto-giallo-tomato",
+    "common_name": "Re Umberto Giallo Tomato",
+    "scientific_name": "Solanum lycopersicum 'Re Umberto Giallo'",
+    "category": "vegetable",
+    "subcategory": "nightshade",
+    "days_to_germination": {"min": 6, "max": 10},
+    "germination_soil_temp_f": {"min": 70, "max": 85},
+    "days_to_maturity": {"min": 78, "max": 88},
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {"anchor": "last_frost", "weeks_from_anchor": {"min": -8, "max": -6}, "note": "Start indoors 6-8 weeks before last frost; transplant once soil has warmed."},
+    "usda_zones": {"min": 4, "max": 11},
+    "spacing_in": {"min": 24, "max": 30},
+    "height_in": {"min": 60, "max": 72},
+    "spread_in": {"min": 24, "max": 30},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Re Umberto Giallo is the golden-yellow sport of the old Italian paste tomato Re Umberto, itself named for 19th-century King Umberto I of Savoy. It sets clusters of four to five small cylindrical-to-oval fruits, occasionally with a slight pointed nipple at the blossom end, over tall indeterminate vines. The dense, paste-like flesh carries very little juice and a mild, faintly sweet flavor, making it well suited to sauces and preserves rather than fresh slicing. Growers prize its strong keeping quality; in its native Italy, whole vines were traditionally pulled in autumn and hung indoors so immature fruit could finish ripening off the plant.",
+    "sources": ["Tomato Fifou (tomatofifou.com)"]
+  }
+]

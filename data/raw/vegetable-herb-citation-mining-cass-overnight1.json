@@ -1,0 +1,56 @@
+[
+  {
+    "slug": "crimson-forest-mustard",
+    "common_name": "Crimson Forest Mustard (Deeply Frilled Burgundy Mustard Green)",
+    "scientific_name": "Brassica juncea 'Crimson Forest'",
+    "category": "vegetable",
+    "subcategory": "leafy green",
+    "days_to_germination": {"min": 5, "max": 10},
+    "germination_soil_temp_f": {"min": 45, "max": 85},
+    "days_to_maturity": {"min": 30, "max": 50},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {"min": -10, "max": -4},
+      "note": "Direct sow in late summer or early fall for fall/winter harvest, or in very early spring before heat arrives; Crimson Forest is one of the most finely dissected, feathery-leaved purple mustards available, growing quickly to baby-leaf size for salad mixes or to full size for a stronger mustard bite."
+    },
+    "usda_zones": {"min": 3, "max": 10},
+    "spacing_in": {"min": 6, "max": 10},
+    "height_in": {"min": 12, "max": 20},
+    "spread_in": {"min": 8, "max": 14},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Crimson Forest is a Brassica juncea mustard grown for its deeply serrated, lacy, almost fern-like leaves in a dark, saturated burgundy-red — a finer, more feathered cut than the broader-lobed leaves of Red Giant mustard. Direct sow in fertile, well-drained soil in full sun during the cool season; the color deepens further as temperatures drop, and the pungent, spicy mustard flavor is present even in young leaves. Harvest at the baby-leaf stage within a few weeks for salad mixes and mesclun blends, where its fine texture and dark color contrast well against paler greens, or let plants size up for a stronger mustard heat. It bolts quickly once summer heat and long days arrive, so treat it as a fall, winter, or early spring crop in most regions.",
+    "sources": ["Johnny's Selected Seeds", "Kitazawa Seed Company", "University of Florida IFAS Extension"]
+  },
+  {
+    "slug": "blue-cloud-calamint",
+    "common_name": "Blue Cloud Calamint (Compact Deep-Blue-Flowered Calamint)",
+    "scientific_name": "Calamintha nepeta 'Blue Cloud'",
+    "category": "herb",
+    "subcategory": "ornamental herb",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 180, "max": 365},
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Plant divisions or container plants in spring in lean to average, well-drained soil in full sun; Blue Cloud is a named selection of calamint grown for a tighter habit and deeper flower color than the species."
+    },
+    "usda_zones": {"min": 5, "max": 9},
+    "spacing_in": {"min": 10, "max": 16},
+    "height_in": {"min": 10, "max": 14},
+    "spread_in": {"min": 12, "max": 18},
+    "sun": "full",
+    "water": "low",
+    "directions": "Blue Cloud is a compact-growing selection of calamint valued for flowers in a deeper, more saturated blue-violet than the soft lavender typical of the species. Like its parent plant, it forms a dense, rounded mound of small, rounded, mint-and-oregano-scented leaves that stay virtually pest-free and extremely drought-tolerant once established. Its tighter, denser habit suits edging, rock gardens, and smaller border positions where the standard species would sprawl. Shear back lightly after the first flush of summer bloom to keep a tidy shape and encourage a second round of flowers into fall.",
+    "sources": ["Missouri Botanical Garden Plant Finder", "Royal Horticultural Society — Plant Selector", "North Carolina State Extension — Plants Database"]
+  }
+]

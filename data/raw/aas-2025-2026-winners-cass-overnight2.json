@@ -1,0 +1,83 @@
+[
+  {
+    "slug": "pick-n-pop-yellow-pepper",
+    "common_name": "Pick-N-Pop Yellow Pepper (AAS-Winning Sweet Snack Pepper)",
+    "scientific_name": "Capsicum annuum 'Pick-N-Pop Yellow F1'",
+    "category": "vegetable",
+    "subcategory": "pepper",
+    "days_to_germination": {"min": 7, "max": 14},
+    "germination_soil_temp_f": {"min": 75, "max": 85},
+    "days_to_maturity": {"min": 65, "max": 90},
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": -8, "max": -6},
+      "note": "Start seed indoors 6-8 weeks before the last frost and transplant out once nights stay reliably warm; Pick-N-Pop Yellow holds its compact habit well in both garden beds and containers."
+    },
+    "usda_zones": {"min": 2, "max": 11},
+    "spacing_in": {"min": 18, "max": 24},
+    "height_in": {"min": 20, "max": 24},
+    "spread_in": {"min": 20, "max": 24},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Transplant into warm, fertile, well-drained soil in full sun after all frost danger has passed, spacing plants about 18-24 inches apart to let the compact frame fill out. Pick-N-Pop Yellow is a 2025 AAS National Edible-Vegetable Winner bred by Seminis, producing a prolific crop of bright canary-yellow, pointed conical snack peppers roughly 4 inches long that are extra sweet, juicy, and crunchy. The manageable 24-inch plant carries resistance to bacterial leaf spot races 0-10 and ripens earlier with higher yield than comparison snack peppers, making it well suited to both in-ground rows and patio containers. Harvest continuously as fruit reaches full yellow color to encourage further fruit set through the season.",
+    "sources": ["All-America Selections", "All-America Selections -- AAS Edible National Winners for 2025"]
+  },
+  {
+    "slug": "piedmont-basil",
+    "common_name": "Piedmont Basil (AAS-Winning Downy-Mildew-Resistant Basil)",
+    "scientific_name": "Ocimum basilicum 'Piedmont'",
+    "category": "herb",
+    "subcategory": "culinary herb",
+    "days_to_germination": {"min": 5, "max": 10},
+    "germination_soil_temp_f": {"min": 65, "max": 70},
+    "days_to_maturity": {"min": 30, "max": 45},
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": -6, "max": -4},
+      "note": "Start seed indoors 4-6 weeks before the last frost, or direct sow once soil is warm; Piedmont's dense, short-internode habit makes it productive in both garden rows and containers."
+    },
+    "usda_zones": {"min": 2, "max": 11},
+    "spacing_in": {"min": 10, "max": 14},
+    "height_in": {"min": 20, "max": 24},
+    "spread_in": {"min": 20, "max": 24},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Sow or transplant into well-drained, moderately fertile soil in full sun; Piedmont is a 2025 AAS Regional Winner (Great Lakes and Heartland) bred by Garden Genetics and Seeds by Design specifically for strong tolerance to basil downy mildew, along with resistance to powdery mildew and fusarium. Its bushy, densely branched habit with short internodes keeps the plant compact and productive, staying vegetative and harvestable for weeks longer than comparison varieties before bolting. Leaves carry a classic strong Genovese-type basil flavor and hold up well after cutting, making this a reliable choice for gardeners in regions where downy mildew typically ends a basil harvest early.",
+    "sources": ["All-America Selections", "All-America Selections -- AAS Edible Regional Winners for 2025"]
+  },
+  {
+    "slug": "sedum-spectacular",
+    "common_name": "Spectacular Sedum (AAS-Winning Seed-Grown Stonecrop)",
+    "scientific_name": "Sedum spectabile 'Spectacular'",
+    "category": "flower",
+    "subcategory": "perennial",
+    "days_to_germination": {"min": 10, "max": 21},
+    "germination_soil_temp_f": {"min": 65, "max": 75},
+    "days_to_maturity": {"min": 365, "max": 730},
+    "maturity_from": "seed",
+    "sow_method": "indoor-start",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Start seed indoors in late winter for bloom the first year, or set out nursery starts after the last frost; established plants return reliably from the crown each spring."
+    },
+    "usda_zones": {"min": 3, "max": 9},
+    "spacing_in": {"min": 12, "max": 16},
+    "height_in": {"min": 12, "max": 14},
+    "spread_in": {"min": 14, "max": 16},
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant in full sun in well-drained soil; Spectacular is a 2026 AAS National Ornamental Winner bred by PanAmerican Seed, notable as a seed-grown stonecrop with the sturdy, non-flopping habit usually seen only in vegetatively propagated sedums. Chartreuse-green succulent foliage builds into a tidy, upright mound topped in late summer through fall by 3-inch clusters of light pink flowers that open slightly earlier than comparison varieties and draw bees and butterflies. Once established it tolerates drought and poor soil with ease, needs no staking or deadheading, and performs equally well in borders or containers.",
+    "sources": ["All-America Selections", "All-America Selections -- 2026 AAS Winners"]
+  }
+]
