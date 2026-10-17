@@ -1,0 +1,25 @@
+[
+  {
+    "slug": "farmingdale-pear",
+    "common_name": "Farmingdale Pear (Fire Blight-Resistant Illinois Heirloom, OHxF Rootstock Parent)",
+    "scientific_name": "Pyrus communis 'Farmingdale'",
+    "category": "fruit",
+    "subcategory": "european pear tree",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 150, "max": 165},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {"anchor": "fall", "weeks_from_anchor": {"min": 0, "max": 6}, "note": "Plant bare-root in fall or late winter in well-drained soil; Farmingdale is self-fertile and does not require a second pear for pollination, though it still benefits collectors wanting its blight-resistant genetics in the home orchard."},
+    "usda_zones": {"min": 5, "max": 8},
+    "spacing_in": {"min": 180, "max": 240},
+    "height_in": {"min": 180, "max": 240},
+    "spread_in": {"min": 180, "max": 240},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Farmingdale originated as a chance seedling discovered by orchardist Benjamin Buckman near Farmingdale, Illinois, and was collected by Oregon pomologist F.C. Reimer in 1915 for fire blight research at the Southern Oregon Branch Experiment Station, where it proved the most blight-resistant Pyrus communis selection tested there. The medium to large fruit resembles Beurre d'Anjou in shape but is grown far more for its breeding value than for table quality, with mild, buttery, rather unremarkable-flavored white flesh, and unlike most European pears the tree is self-fertile and sets a crop without a second pear planted nearby. Along with Old Home, Farmingdale lent its name to the widely planted OHxF rootstock series bred at Oregon State, though later DNA fingerprinting determined that Bartlett, not Farmingdale, was the actual pollen parent of those rootstocks, leaving Farmingdale's own fire blight resistance underused in modern breeding programs. Site in full sun with good air circulation and prune out any blighted shoots promptly well below visible discoloration, since vigorous young growth is the tissue most susceptible to infection.",
+    "sources": ["Washington State University Tree Fruit Research and Extension Center", "Oregon State University Department of Horticulture", "USDA National Clonal Germplasm Repository, Corvallis"]
+  }
+]

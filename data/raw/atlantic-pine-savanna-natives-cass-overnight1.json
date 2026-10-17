@@ -1,0 +1,25 @@
+[
+  {
+    "slug": "helianthus-floridanus",
+    "common_name": "Florida Sunflower",
+    "scientific_name": "Helianthus floridanus",
+    "category": "flower",
+    "subcategory": "native perennial (longleaf pine savanna sunflower)",
+    "days_to_germination": {"min": 14, "max": 30},
+    "germination_soil_temp_f": {"min": 65, "max": 75},
+    "days_to_maturity": {"min": 365, "max": 730},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {"anchor": "fall", "weeks_from_anchor": {"min": 0, "max": 4}, "note": "Direct sow in fall to allow natural cold stratification into moist to wet, acidic, sandy soil; established clumps die back to a hardy rootstock each winter."},
+    "usda_zones": {"min": 7, "max": 10},
+    "spacing_in": {"min": 24, "max": 36},
+    "height_in": {"min": 48, "max": 96},
+    "spread_in": {"min": 24, "max": 48},
+    "sun": "full",
+    "water": "high",
+    "directions": "Florida Sunflower is a tall perennial of wet longleaf pine savannas, pocosin edges, and wet flatwoods along the Georgia-Florida-South Carolina coastal plain, distinct from the already-common swamp sunflower (Helianthus angustifolius) in its narrower native range and preference for consistently saturated, acidic sandy soils. From September into November it produces bright yellow, 3-inch daisy-like flowerheads atop sturdy 4-8 foot stems. Grow in full sun with reliably moist to wet soil; it tolerates occasional standing water during the growing season but should not be allowed to dry out for extended periods. A strong late-season nectar source for bees and butterflies, it is well suited to rain gardens, pond margins, and longleaf pine ecosystem restoration plantings.",
+    "sources": ["Lady Bird Johnson Wildflower Center", "Florida Wildflower Foundation", "Flora of the Southeastern United States (FSUS)"]
+  }
+]
