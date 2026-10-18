@@ -1,0 +1,83 @@
+[
+  {
+    "slug": "sambucus-nigra-albovariegata",
+    "common_name": "Albovariegata Variegated Elderberry",
+    "scientific_name": "Sambucus nigra 'Albovariegata'",
+    "category": "flower",
+    "subcategory": "ornamental variegated-leaf European elderberry",
+    "days_to_germination": {"min": null, "max": null},
+    "germination_soil_temp_f": {"min": null, "max": null},
+    "days_to_maturity": {"min": 730, "max": 1095},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 6},
+      "note": "Set out container-grown shrubs in spring in a border or woodland-edge planting where the mottled foliage can be viewed up close; give it room to reach full size before crowding it with neighbors."
+    },
+    "usda_zones": {"min": 4, "max": 8},
+    "spacing_in": {"min": 72, "max": 120},
+    "height_in": {"min": 96, "max": 144},
+    "spread_in": {"min": 72, "max": 120},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "This old European selection carries leaves irregularly blotched and streaked with creamy white across the blade rather than confined to a clean edge, giving the shrub a softer, more broken-up variegation pattern than margin-only forms. Flat white flower clusters open in early summer and are followed by small black fruit, but the mottled foliage is the main reason it is grown. Site in full sun to partial shade in evenly moist, well-drained soil, since too much shade causes the variegation to fade toward plain green. Cut out any branches that revert to solid green as soon as they appear, and prune in late winter to keep the shrub shapely.",
+    "sources": ["NC State Extension Plant Toolbox", "Missouri Botanical Garden Plant Finder"]
+  },
+  {
+    "slug": "sambucus-nigra-marginata",
+    "common_name": "Marginata White-Edged Elderberry",
+    "scientific_name": "Sambucus nigra 'Marginata'",
+    "category": "flower",
+    "subcategory": "ornamental variegated-leaf European elderberry",
+    "days_to_germination": {"min": null, "max": null},
+    "germination_soil_temp_f": {"min": null, "max": null},
+    "days_to_maturity": {"min": 730, "max": 1095},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 6},
+      "note": "Plant container stock in spring as a lighter-toned accent shrub or informal hedge component; the pale leaf edges read well against a dark green backdrop."
+    },
+    "usda_zones": {"min": 4, "max": 8},
+    "spacing_in": {"min": 72, "max": 120},
+    "height_in": {"min": 96, "max": 144},
+    "spread_in": {"min": 72, "max": 120},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Unlike the mottled 'Albovariegata', this selection carries a clean, continuous creamy-white picotee edge rimming each leaflet while the leaf center stays solid green, giving a crisper, more tailored look. Flat-topped white flower clusters appear in early summer, followed by small black berries on the same stems as the straight species. Grow in full sun to partial shade in moist, well-drained soil, since weak light softens the contrast between the pale margin and green center. Watch for and remove any reverted all-green shoots promptly, as they grow more vigorously than the variegated wood and will gradually overtake the shrub if left unchecked.",
+    "sources": ["NC State Extension Plant Toolbox", "Missouri Botanical Garden Plant Finder"]
+  },
+  {
+    "slug": "sambucus-canadensis-isabella",
+    "common_name": "Isabella American Elderberry",
+    "scientific_name": "Sambucus canadensis 'Isabella'",
+    "category": "berry",
+    "subcategory": "American elderberry",
+    "days_to_germination": {"min": null, "max": null},
+    "germination_soil_temp_f": {"min": null, "max": null},
+    "days_to_maturity": {"min": 365, "max": 730},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 8},
+      "note": "Plant container or bare-root stock in spring in moist, well-drained soil, siting a different elderberry cultivar within about 100 feet since Isabella is not self-fertile and needs cross-pollination to set a full crop."
+    },
+    "usda_zones": {"min": 3, "max": 9},
+    "spacing_in": {"min": 96, "max": 120},
+    "height_in": {"min": 72, "max": 120},
+    "spread_in": {"min": 72, "max": 120},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Isabella turned up as a chance seedling at Edible Landscaping nursery in Virginia and was kept and propagated for its unusually large, heavy fruit clusters that ripen a bit ahead of most other American elderberry selections. Lacy white flower heads open in early summer on vigorous, multi-stemmed canes, followed by abundant small black berries borne in broad, easy-to-strip cymes. It tolerates wet or boggy spots as well as drier soil once established, shrugs off the pests and diseases that trouble many fruiting shrubs, and needs no spray program. Because it sets fruit poorly on its own, pair it with another canadensis cultivar such as Adams, Bob Gordon, or Johns to ensure heavy cropping, and cut the oldest canes to the ground every few years to keep new, productive wood coming.",
+    "sources": ["Edible Landscaping", "University of Missouri Extension"]
+  }
+]

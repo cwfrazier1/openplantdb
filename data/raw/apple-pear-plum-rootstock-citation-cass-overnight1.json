@@ -1,0 +1,56 @@
+[
+  {
+    "slug": "quince-a-pear-rootstock",
+    "common_name": "Quince A Pear Rootstock",
+    "scientific_name": "Cydonia oblonga 'Quince A'",
+    "category": "fruit",
+    "subcategory": "rootstock",
+    "days_to_germination": {"min": null, "max": null},
+    "germination_soil_temp_f": {"min": null, "max": null},
+    "days_to_maturity": {"min": 1095, "max": 1460},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": -8, "max": -2},
+      "note": "Plant bare-root rootstock liners in late winter while dormant in well-drained soil in full sun, then graft a compatible desired pear variety onto the young rootstock, using an interstem for varieties incompatible with quince; Quince A is a dwarfing understock, not grown for its own fruit."
+    },
+    "usda_zones": {"min": 5, "max": 8},
+    "spacing_in": {"min": 108, "max": 156},
+    "height_in": {"min": 132, "max": 180},
+    "spread_in": {"min": 108, "max": 144},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Quince A, also known as EMA or Malling Quince A, was selected from old Angers quince stock at England's East Malling Research Station in the early twentieth century and became one of the most widely planted dwarfing pear rootstocks in Europe and North America. It holds a grafted pear tree to roughly half to two-thirds the size of a standard seedling tree, brings trees into bearing several years sooner than seedling rootstocks, and anchors well enough that most plantings need no permanent staking once established. Because many favorite dessert pear varieties, including Bartlett, are graft-incompatible with quince, growers typically bench-graft a compatible interstem such as Old Home between the Quince A rootstock and the desired scion variety. Give it fertile, consistently moist soil, since it is less drought-tolerant than seedling pear rootstocks and sulks in poor or dry ground.",
+    "sources": ["Washington State University Tree Fruit Research and Extension Center", "Royal Horticultural Society", "NIAB EMR (East Malling Research)"]
+  },
+  {
+    "slug": "quince-c-pear-rootstock",
+    "common_name": "Quince C Pear Rootstock",
+    "scientific_name": "Cydonia oblonga 'Quince C'",
+    "category": "fruit",
+    "subcategory": "rootstock",
+    "days_to_germination": {"min": null, "max": null},
+    "germination_soil_temp_f": {"min": null, "max": null},
+    "days_to_maturity": {"min": 1095, "max": 1460},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": -8, "max": -2},
+      "note": "Plant bare-root rootstock liners in late winter while dormant in well-drained soil in full sun, then graft a compatible desired pear variety onto the young rootstock, using an interstem for varieties incompatible with quince; Quince C is a strongly dwarfing understock, not grown for its own fruit."
+    },
+    "usda_zones": {"min": 5, "max": 8},
+    "spacing_in": {"min": 84, "max": 120},
+    "height_in": {"min": 96, "max": 144},
+    "spread_in": {"min": 84, "max": 108},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Quince C, also known as EMC, was selected alongside Quince A at England's East Malling Research Station and is the more strongly dwarfing of the two classic Malling quince rootstocks, typically holding a grafted pear tree to well under half the size of a standard seedling tree. Its shallower, less vigorous root system brings trees into very early, precocious bearing but offers noticeably weaker anchorage than Quince A, so trees usually need a permanent stake or trellis rather than growing free-standing. As with other quince rootstocks, several popular pear cultivars will not graft directly onto it and require a compatible interstem, such as Old Home, worked in between rootstock and scion. Its strong size control and early cropping make it a good match for espaliers, high-density plantings, and small home orchards rather than large standard trees.",
+    "sources": ["Washington State University Tree Fruit Research and Extension Center", "Royal Horticultural Society", "NIAB EMR (East Malling Research)"]
+  }
+]

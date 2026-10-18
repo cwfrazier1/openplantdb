@@ -1,0 +1,56 @@
+[
+  {
+    "slug": "dwarf-orange-cream-tomato",
+    "common_name": "Dwarf Orange Cream Tomato (Creamy-Fleshed Orange Dwarf Tomato)",
+    "scientific_name": "Solanum lycopersicum 'Dwarf Orange Cream'",
+    "category": "vegetable",
+    "subcategory": "dwarf tomato",
+    "days_to_germination": { "min": 6, "max": 12 },
+    "germination_soil_temp_f": { "min": 70, "max": 85 },
+    "days_to_maturity": { "min": 75, "max": 85 },
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": { "min": 1, "max": 3 },
+      "note": "Start indoors 4-6 weeks before last frost; the compact, tree-like 2-4 ft dwarf-indeterminate habit with thick, rugose stems suits raised beds and large containers."
+    },
+    "usda_zones": { "min": 3, "max": 10 },
+    "spacing_in": { "min": 18, "max": 24 },
+    "height_in": { "min": 30, "max": 48 },
+    "spread_in": { "min": 18, "max": 24 },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Dwarf Orange Cream traces to the same Elbe x Golden Dwarf Champion 'Tipsy' lineage within the international Dwarf Tomato Project that also produced Dwarf Golden Gypsy, carrying the same thick, rugose potato-leaf stems and tidy, tree-like habit that suits raised beds and large containers. The round to slightly oblate fruit ripens to a warm orange with a soft, creamy-textured interior and a mild, well-rounded sweetness rather than sharp acidity. Like its Dwarf Tomato Project siblings, it was stabilized over several generations by volunteer growers before release as an open-pollinated, seed-saveable variety. Stake lightly for support and harvest once fruit colors fully and softens slightly for the best flavor.",
+    "sources": ["Dwarf Tomato Project / Craig LeHoullier", "Victory Seeds", "Sample Seed Shop"]
+  },
+  {
+    "slug": "hales-best-jumbo-melon",
+    "common_name": "Hale's Best Jumbo Melon (Classic California Netted Cantaloupe)",
+    "scientific_name": "Cucumis melo var. reticulatus 'Hale's Best Jumbo'",
+    "category": "vegetable",
+    "subcategory": "melon",
+    "days_to_germination": { "min": 7, "max": 14 },
+    "germination_soil_temp_f": { "min": 70, "max": 90 },
+    "days_to_maturity": { "min": 80, "max": 90 },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": { "min": 0, "max": 4 },
+      "note": "Direct sow after last frost once soil has warmed past 70F, or start indoors in peat pots 2-3 weeks ahead in short-season climates; thin to 2 plants per hill."
+    },
+    "usda_zones": { "min": 4, "max": 10 },
+    "spacing_in": { "min": 36, "max": 48 },
+    "height_in": { "min": 12, "max": 18 },
+    "spread_in": { "min": 48, "max": 72 },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Hale's Best Jumbo is an early twentieth-century open-pollinated cantaloupe selected in California that became the historic benchmark 'full-slip' muskmelon other western shipping types and later hybrids were measured against. Vigorous, sprawling vines set oval, heavily netted fruit with firm, deep-orange flesh and the classic sweet, musky cantaloupe fragrance that peaks as the fruit ripens. It was long favored by home gardeners and small growers for dependable yields and rich flavor before more disease-resistant hybrids took over commercial production. Reduce watering in the week before harvest to concentrate sugars, and pick as soon as the stem separates cleanly from the vine under gentle pressure.",
+    "sources": ["Seed Savers Exchange", "Baker Creek Heirloom Seeds", "University of California Cooperative Extension — Melon Variety History"]
+  }
+]

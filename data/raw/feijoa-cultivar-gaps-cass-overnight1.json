@@ -1,0 +1,83 @@
+[
+  {
+    "slug": "feijoa-opal-star",
+    "common_name": "Opal Star Feijoa",
+    "scientific_name": "Acca sellowiana 'Opal Star'",
+    "category": "fruit",
+    "subcategory": "feijoa",
+    "days_to_germination": { "min": 14, "max": 30 },
+    "germination_soil_temp_f": { "min": 65, "max": 80 },
+    "days_to_maturity": { "min": 1095, "max": 1825 },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": { "min": 0, "max": 8 },
+      "note": "Plant container-grown shrubs in spring; in zone 9 plant February-April. Opal Star is a more compact, modern New Zealand selection that fits patio containers and small-garden hedges better than older rangy heirloom feijoas. Established plants tolerate brief dips to around 15-18F, making them reliable in zone 8 and zone 9."
+    },
+    "usda_zones": { "min": 8, "max": 10 },
+    "spacing_in": { "min": 72, "max": 108 },
+    "height_in": { "min": 72, "max": 108 },
+    "spread_in": { "min": 72, "max": 108 },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Opal Star is a newer New Zealand-bred feijoa selection valued for a naturally dense, compact growth habit that stays smaller than older American-market standards like Mammoth or Coolidge, making it well suited to raised beds, large containers, or a tight hedgerow on a Gulf Coast lot. Fruit is medium-sized with sweet, aromatic flesh, and the plant sets a usable crop on its own but benefits from a second feijoa cultivar nearby for heavier yields. Give it full sun and consistent moisture while fruit is sizing in late summer and fall, and expect the typical feijoa toughness once established, including tolerance of brief winter cold snaps. A light annual shaping prune after harvest keeps its evergreen form tidy without sacrificing next year's flower buds.",
+    "sources": ["California Rare Fruit Growers — Feijoa Cultivar Selection", "New Zealand Institute for Plant and Food Research — Feijoa Variety Notes", "University of Florida IFAS Extension — Feijoa Production Guide"]
+  },
+  {
+    "slug": "feijoa-takaka",
+    "common_name": "Takaka Feijoa",
+    "scientific_name": "Acca sellowiana 'Takaka'",
+    "category": "fruit",
+    "subcategory": "feijoa",
+    "days_to_germination": { "min": 14, "max": 30 },
+    "germination_soil_temp_f": { "min": 65, "max": 80 },
+    "days_to_maturity": { "min": 1095, "max": 1825 },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": { "min": 0, "max": 8 },
+      "note": "Plant container-grown shrubs in spring; in zone 9 plant February-April. Takaka pairs well with other New Zealand Golden Bay-origin cultivars such as Kaiteri or Anatoki for cross-pollination and a heavier crop. Established plants tolerate brief dips to around 15-18F, making them reliable in zone 8 and zone 9."
+    },
+    "usda_zones": { "min": 8, "max": 10 },
+    "spacing_in": { "min": 96, "max": 144 },
+    "height_in": { "min": 96, "max": 144 },
+    "spread_in": { "min": 96, "max": 144 },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Takaka takes its name from the town and valley in New Zealand's Golden Bay region, the same feijoa-breeding district that produced sibling selections like Kaiteri and Anatoki, and shares their dessert-quality, aromatic, sweet-fleshed fruit. The shrub grows vigorously with the typical rounded, well-branched feijoa habit and flowers heavily in spring, with sweet, fleshy, edible petals that gardeners often pick as an incidental snack before fruit even sets. Plant in full sun with well-drained, slightly acidic soil, and water regularly through summer to size the fruit properly for a fall harvest. Like its Golden Bay relatives, it shrugs off Gulf Coast heat and humidity once established and needs only an occasional shaping prune.",
+    "sources": ["New Zealand Institute for Plant and Food Research — Feijoa Variety Notes", "California Rare Fruit Growers — Feijoa Cultivar Selection", "University of Florida IFAS Extension — Feijoa Production Guide"]
+  },
+  {
+    "slug": "feijoa-smoothy",
+    "common_name": "Smoothy Feijoa",
+    "scientific_name": "Acca sellowiana 'Smoothy'",
+    "category": "fruit",
+    "subcategory": "feijoa",
+    "days_to_germination": { "min": 14, "max": 30 },
+    "germination_soil_temp_f": { "min": 65, "max": 80 },
+    "days_to_maturity": { "min": 1095, "max": 1825 },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": { "min": 0, "max": 8 },
+      "note": "Plant container-grown shrubs in spring; in zone 9 plant February-April. Smoothy benefits from a second feijoa cultivar nearby for cross-pollination and a heavier crop. Established plants tolerate brief dips to around 15-18F, making them reliable in zone 8 and zone 9."
+    },
+    "usda_zones": { "min": 8, "max": 10 },
+    "spacing_in": { "min": 96, "max": 144 },
+    "height_in": { "min": 96, "max": 144 },
+    "spread_in": { "min": 96, "max": 144 },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Smoothy earns its name from unusually thin, smooth skin that lacks the slightly bitter, gritty texture found on most feijoa cultivars, so the fruit can be rinsed and eaten whole, skin and all, rather than scooped out with a spoon. This makes it a favorite for fresh snacking and for gardeners introducing feijoas to kids or guests unfamiliar with the fruit. The shrub grows with the same tough, evergreen, heat- and humidity-tolerant habit typical of the species, flowering in spring with edible, sweet petals before the fruit develops through summer into a fall harvest. Plant in full sun with good drainage and steady moisture during fruit set, and prune lightly after harvest to maintain a tidy shape.",
+    "sources": ["California Rare Fruit Growers — Feijoa Cultivar Selection", "University of Florida IFAS Extension — Feijoa Production Guide"]
+  }
+]
