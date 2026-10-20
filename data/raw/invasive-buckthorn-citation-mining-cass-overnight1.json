@@ -1,0 +1,64 @@
+[
+  {
+    "slug": "rhamnus-cathartica",
+    "common_name": "Common Buckthorn (European Buckthorn - Non-Native, Invasive)",
+    "scientific_name": "Rhamnus cathartica",
+    "category": "flower",
+    "subcategory": "non-native hedging shrub (invasive, regulated in parts of US/Canada)",
+    "days_to_germination": {"min": 60, "max": 180},
+    "germination_soil_temp_f": {"min": 35, "max": 70},
+    "days_to_maturity": {"min": 730, "max": 1460},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 6},
+      "note": "WARNING: Common buckthorn is banned or regulated as a noxious weed in numerous US states and Canadian provinces - confirm local rules before considering it, and favor a native alternative instead."
+    },
+    "usda_zones": {"min": 3, "max": 7},
+    "spacing_in": {"min": 72, "max": 180},
+    "height_in": {"min": 120, "max": 300},
+    "spread_in": {"min": 72, "max": 180},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Common buckthorn was imported from Europe in the 1800s for hedging and shelterbelts, and it is now one of the most aggressive invasive shrubs in eastern and midwestern North American woodlands, leafing out earlier in spring and holding its leaves later into fall than most native understory plants, which lets it outcompete them for light. Look for dull, finely toothed, sub-opposite leaves and a short thorn at the tip of many twigs; female plants bear small clusters of black berries in fall that cause a strong laxative effect in people and many birds if eaten in quantity. Because it is banned or regulated as a noxious weed in numerous US states and Canadian provinces, confirm local rules before considering it, and where it already exists on a property, cut and treat the stumps promptly since resprouting from cut stems is vigorous. Native alternatives such as American hazelnut or black chokeberry provide similar screening habit without the ecological damage.",
+    "sources": [
+      "USDA Forest Service - Weed of the Week: Common Buckthorn",
+      "Invasive Plant Atlas of the United States",
+      "Minnesota Department of Natural Resources - Invasive Species"
+    ]
+  },
+  {
+    "slug": "frangula-alnus",
+    "common_name": "Glossy Buckthorn (European Buckthorn - Non-Native, Invasive)",
+    "scientific_name": "Frangula alnus",
+    "category": "flower",
+    "subcategory": "non-native wetland-invasive shrub (regulated in parts of US/Canada)",
+    "days_to_germination": {"min": 60, "max": 180},
+    "germination_soil_temp_f": {"min": 35, "max": 70},
+    "days_to_maturity": {"min": 730, "max": 1460},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 6},
+      "note": "WARNING: Glossy buckthorn is banned or regulated as invasive in several US states and Canadian provinces, especially near wetlands - confirm local rules before considering it, and favor a native alternative instead."
+    },
+    "usda_zones": {"min": 3, "max": 7},
+    "spacing_in": {"min": 60, "max": 144},
+    "height_in": {"min": 96, "max": 240},
+    "spread_in": {"min": 60, "max": 144},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Glossy buckthorn, sometimes still sold under its older name Rhamnus frangula, was brought from Europe as an ornamental hedge plant and has become a dominant invader of wetland edges, bogs, and moist woodlands across the Northeast and upper Midwest, crowding out native shrubs such as winterberry and viburnums. Unlike common buckthorn, its stems are thornless and its smooth-margined, glossy dark green leaves are arranged alternately rather than nearly opposite, and because a single plant can self-pollinate, even one isolated seedling can start a new infestation. Ripening berries pass through green, red, and purple-black on the same cluster at once, a useful identification clue, and the fruit is mildly toxic and strongly laxative if eaten in quantity. It is banned or regulated in several states and provinces for its spread into sensitive wetland habitat, so existing plants should be cut with the stumps treated to prevent resprouting, and cleared ground is best replanted promptly with a native shrub like winterberry holly.",
+    "sources": [
+      "USDA Forest Service - Weed of the Week: Glossy Buckthorn",
+      "Invasive Plant Atlas of the United States",
+      "Wisconsin Department of Natural Resources - Invasive Species"
+    ]
+  }
+]

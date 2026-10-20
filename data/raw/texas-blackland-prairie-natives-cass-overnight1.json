@@ -1,0 +1,56 @@
+[
+  {
+    "slug": "tradescantia-hirsutiflora",
+    "common_name": "Hairyflower Spiderwort",
+    "scientific_name": "Tradescantia hirsutiflora",
+    "category": "flower",
+    "subcategory": "native-perennial",
+    "days_to_germination": {"min": 14, "max": 30},
+    "germination_soil_temp_f": {"min": 60, "max": 75},
+    "days_to_maturity": {"min": 90, "max": 180},
+    "maturity_from": "seed",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Set divisions or potted plants in spring into lean, well-drained, calcareous clay or loam in full sun to light shade."
+    },
+    "usda_zones": {"min": 6, "max": 9},
+    "spacing_in": {"min": 12, "max": 18},
+    "height_in": {"min": 12, "max": 30},
+    "spread_in": {"min": 12, "max": 18},
+    "sun": "partial",
+    "water": "low",
+    "directions": "Tradescantia hirsutiflora is a clump-forming perennial native to calcareous prairies, open woods, and limestone glades across the south-central United States, including the Texas Blackland Prairie, where upright, slightly pubescent stems and narrow grass-like leaves emerge in early spring. From March into summer it produces small, three-petaled violet to blue-purple flowers in loose terminal clusters, each bloom lasting only a morning before closing by midday. Plant in well-drained, alkaline to neutral clay or loam in full sun to light shade; established clumps tolerate drought and summer heat with little care. Divide crowded clumps in early spring or fall to maintain vigor and control spread.",
+    "sources": ["Native Plant Society of Texas", "Lady Bird Johnson Wildflower Center", "USDA PLANTS Database"]
+  },
+  {
+    "slug": "stenaria-nigricans",
+    "common_name": "Diamond Flowers (Prairie Bluet)",
+    "scientific_name": "Stenaria nigricans",
+    "category": "flower",
+    "subcategory": "native-perennial",
+    "days_to_germination": {"min": null, "max": null},
+    "germination_soil_temp_f": {"min": null, "max": null},
+    "days_to_maturity": {"min": 90, "max": 150},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 2},
+      "note": "Direct sow or set out transplants in early spring into lean, alkaline, sharply drained soil in full sun."
+    },
+    "usda_zones": {"min": 5, "max": 9},
+    "spacing_in": {"min": 8, "max": 12},
+    "height_in": {"min": 6, "max": 14},
+    "spread_in": {"min": 8, "max": 14},
+    "sun": "full",
+    "water": "low",
+    "directions": "Stenaria nigricans, commonly called diamond flowers or prairie bluet, is a low, woody-based perennial of calcareous prairies, limestone glades, and rocky open ground across the central and southern United States, including the Texas Blackland Prairie. Its wiry, branching stems carry narrow needle-like leaves and are studded from late spring through fall with tiny white to pale-pink, four-lobed tubular flowers that draw small native bees and butterflies. It thrives in lean, alkaline, well-drained soil and full sun, tolerating heat, drought, and poor rocky ground once established, making it a durable edging or rock-garden plant. Direct sow in fall or early spring and avoid rich, moist soils, which encourage floppy growth and reduce flowering.",
+    "sources": ["Missouri Botanical Garden Plant Finder", "Lady Bird Johnson Wildflower Center", "USDA PLANTS Database"]
+  }
+]
