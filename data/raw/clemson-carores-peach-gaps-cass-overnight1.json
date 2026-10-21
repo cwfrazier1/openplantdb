@@ -1,0 +1,89 @@
+[
+  {
+    "slug": "carores-wonder-peach",
+    "common_name": "CaroRes Wonder Peach (Clemson Early-Ripening Bacterial-Spot-Tolerant Peach)",
+    "scientific_name": "Prunus persica 'CaroRes Wonder'",
+    "category": "fruit",
+    "subcategory": "stone fruit",
+    "days_to_maturity": {"min": 1095, "max": 1460},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": -8, "max": -4},
+      "note": "Plant bare-root trees in winter while dormant. CaroRes Wonder is a Clemson University Peach Breeding Program release (U.S. Plant Patent PP36,072) bred specifically for tolerance to bacterial spot, a disease that devastates conventional peaches in the humid Southeast."
+    },
+    "usda_zones": {"min": 7, "max": 9},
+    "spacing_in": {"min": 180, "max": 240},
+    "height_in": {"min": 120, "max": 180},
+    "spread_in": {"min": 144, "max": 180},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Give it full sun and well-drained soil, and prune to an open vase shape each winter to keep fruit accessible and air moving through the canopy. With a moderate chill requirement of roughly 500 hours, CaroRes Wonder blooms and ripens early (mid-to-late May), setting firm, juicy, melting, light-yellow clingstone fruit with nearly full red blush. Its standout trait is heritable resistance to bacterial spot, a trait Clemson breeders bred in deliberately after watching the disease wreck susceptible orchards across the Carolinas in wet years; home growers in disease-prone humid climates get a real head start over older varieties.",
+    "sources": [
+      "Clemson University Peach Breeding Program",
+      "Alabama Cooperative Extension System",
+      "USPTO Plant Patent PP36,072"
+    ]
+  },
+  {
+    "slug": "carores-delight-peach",
+    "common_name": "CaroRes Delight Peach (Clemson Bacterial-Spot-Tolerant Clingstone Peach)",
+    "scientific_name": "Prunus persica 'CaroRes Delight'",
+    "category": "fruit",
+    "subcategory": "stone fruit",
+    "days_to_maturity": {"min": 1095, "max": 1460},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": -8, "max": -4},
+      "note": "Plant bare-root while dormant in winter. CaroRes Delight came from a 2010 Clemson cross of 'Scarletpearl' (seed) with 'Rubyprince' (pollen) made near Seneca, SC, and holds US Plant Patent PP36,741 as part of the university's disease-resistant peach lineup."
+    },
+    "usda_zones": {"min": 6, "max": 8},
+    "spacing_in": {"min": 180, "max": 240},
+    "height_in": {"min": 120, "max": 180},
+    "spread_in": {"min": 144, "max": 180},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in full sun with good drainage and thin fruit early so the tree isn't overloaded, since this cultivar sets heavily. Needing about 700-800 chill hours, CaroRes Delight blooms mid-season and ripens around early June, producing large, uniform, roughly 90%-blushed fruit with firm, non-melting clingstone flesh well suited to canning as well as fresh eating. Clemson bred it for resistance to bacterial spot, a disease that has pushed some Southeastern growers out of peaches entirely, making this a dependable option where that pathogen is a recurring problem.",
+    "sources": [
+      "Clemson University Peach Breeding Program",
+      "Alabama Cooperative Extension System",
+      "USPTO Plant Patent PP36,741"
+    ]
+  },
+  {
+    "slug": "everes-ruby-peach",
+    "common_name": "EveRes Ruby Peach (Clemson Early-Season Bacterial-Spot-Tolerant Peach)",
+    "scientific_name": "Prunus persica 'EveRes Ruby'",
+    "category": "fruit",
+    "subcategory": "stone fruit",
+    "days_to_maturity": {"min": 1095, "max": 1460},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": -8, "max": -4},
+      "note": "Plant bare-root trees in winter dormancy. EveRes Ruby is a Clemson University Peach Breeding Program release (US Plant Patent PP36,112), bred from open-pollinated 'Rubyprince' seed crossed in 2010 near Seneca, SC, for early ripening combined with bacterial spot tolerance."
+    },
+    "usda_zones": {"min": 6, "max": 8},
+    "spacing_in": {"min": 180, "max": 240},
+    "height_in": {"min": 120, "max": 180},
+    "spread_in": {"min": 144, "max": 180},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Site in full sun with well-drained soil and prune annually to an open vase form, since vigorous growth needs light penetration for good fruit color and quality. Requiring roughly 800 chill hours, EveRes Ruby blooms early-to-mid March and ripens in mid-June, bearing large (about 180-210 g), sweet, melting clingstone fruit that benefits from a few days of room-temperature ripening after harvest for full juiciness. Clemson developed it to give growers in bacterial-spot-prone regions an early-season peach that doesn't sacrifice fruit quality for disease resistance, a combination older early-ripening cultivars often lacked.",
+    "sources": [
+      "Clemson University Peach Breeding Program",
+      "Alabama Cooperative Extension System",
+      "USPTO Plant Patent PP36,112"
+    ]
+  }
+]

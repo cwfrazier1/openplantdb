@@ -1,0 +1,102 @@
+[
+  {
+    "slug": "sakakawea-silver-buffaloberry",
+    "common_name": "Sakakawea Silver Buffaloberry",
+    "scientific_name": "Shepherdia argentea 'Sakakawea'",
+    "category": "berry",
+    "subcategory": "buffaloberry",
+    "days_to_maturity": {"min": 1095, "max": 1460},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Plant rooted cuttings or container stock in spring in lean, alkaline-tolerant, well-drained soil in full sun; set one male Shepherdia argentea within about 50 ft of every 5-7 female Sakakawea plants, since this cultivar is female-only and wind-pollinated."
+    },
+    "usda_zones": {"min": 2, "max": 7},
+    "spacing_in": {"min": 72, "max": 120},
+    "height_in": {"min": 96, "max": 192},
+    "spread_in": {"min": 72, "max": 120},
+    "sun": "full",
+    "water": "low",
+    "directions": "Sakakawea was released in 1983 by USDA-NRCS with the North Dakota, Minnesota, and South Dakota agricultural experiment stations, selected from open-pollinated seed gathered in 1954 from the older Canadian cultivar Goldeye at the Morden Research Station in Manitoba. It bears heavy clusters of mostly red, tart berries (a minority of plants in the original selection trend yellow) on a thorny, silver-leaved frame and tolerates alkaline, saline, and drought-prone prairie soils that defeat most other fruiting shrubs. Because it is dioecious, pair it with any unnamed male seedling of Shepherdia argentea for fruit set; harvest after a light frost, which mellows the sharp acidity, by beating or shaking branches over a drop cloth. Nitrogen-fixing roots make it a useful windbreak and reclamation shrub as well as a fruit producer.",
+    "sources": ["USDA Natural Resources Conservation Service", "North Dakota State University Extension"]
+  },
+  {
+    "slug": "goldeye-silver-buffaloberry",
+    "common_name": "Goldeye Silver Buffaloberry",
+    "scientific_name": "Shepherdia argentea 'Goldeye'",
+    "category": "berry",
+    "subcategory": "buffaloberry",
+    "days_to_maturity": {"min": 1095, "max": 1460},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Plant rooted cuttings in spring in lean, dry to average, alkaline-tolerant soil in full sun; a male Shepherdia argentea is required nearby for this female cultivar to set its yellow fruit."
+    },
+    "usda_zones": {"min": 2, "max": 7},
+    "spacing_in": {"min": 72, "max": 120},
+    "height_in": {"min": 96, "max": 192},
+    "spread_in": {"min": 72, "max": 120},
+    "sun": "full",
+    "water": "low",
+    "directions": "Goldeye traces to a single yellow-fruited shrub found in 1918 along the Red Deer River near Brooks, Alberta, and named by its discoverer A. Griffin in 1932 — decades later it became the open-pollinated seed parent used by Canadian breeders to develop the better-known red-fruited Sakakawea. Goldeye itself keeps the novel pale-gold berry color, milder and less astringent raw than typical red buffaloberry, and ripens on an equally thorny, silver-leaved, cold-hardy shrub. It thrives on the same lean, alkaline, drought-prone ground that limits most fruiting shrubs across the northern Great Plains and prairie provinces. Plant it as a wildlife and windbreak shrub as much as a fruit crop; its nitrogen-fixing roots improve poor mineral soils over time.",
+    "sources": ["USDA Natural Resources Conservation Service", "Agriculture and Agri-Food Canada — Morden Research Station"]
+  },
+  {
+    "slug": "fjellgull-cloudberry",
+    "common_name": "Fjellgull Cloudberry",
+    "scientific_name": "Rubus chamaemorus 'Fjellgull'",
+    "category": "berry",
+    "subcategory": "ground fruit",
+    "days_to_maturity": {"min": 1460, "max": 2190},
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Plant rhizome divisions in spring into acidic (pH 3.5-5), peaty, consistently moist bog soil; this female clone needs a male cloudberry such as Apollen or Apolto blooming nearby for fruit set."
+    },
+    "usda_zones": {"min": 2, "max": 5},
+    "spacing_in": {"min": 12, "max": 18},
+    "height_in": {"min": 4, "max": 10},
+    "spread_in": {"min": 12, "max": 24},
+    "sun": "full",
+    "water": "high",
+    "directions": "Fjellgull is one of a small group of named clones (alongside the female 'Fjordgull' and the male pollinators 'Apollen' and 'Apolto') released from a multi-decade cloudberry breeding and clone-evaluation program at Norway's Bioforsk research institute (now part of NIBIO), aimed at making the wild Scandinavian bog fruit viable in managed plantings. It matches the wild type's amber-gold color and classic tart, musky flavor but was chosen for heavier, more consistent fruit set and higher anthocyanin content than unselected wild clones. Like all cloudberry, it demands cold winters, waterlogged acidic peat, and a nearby male pollinizer, since the species is strictly dioecious. Harvest the very soft ripe berries by hand as soon as they turn pale gold, since they bruise and spoil quickly after picking.",
+    "sources": ["Norwegian Institute of Bioeconomy Research (NIBIO/Bioforsk)", "Acta Agriculturae Scandinavica"]
+  },
+  {
+    "slug": "apollen-cloudberry",
+    "common_name": "Apollen Cloudberry (Male Pollinator)",
+    "scientific_name": "Rubus chamaemorus 'Apollen'",
+    "category": "berry",
+    "subcategory": "ground fruit",
+    "days_to_maturity": {"min": 1460, "max": 2190},
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Plant rhizome divisions in spring in acidic, peaty, saturated bog soil; interplant one Apollen division for every several female clones such as Fjellgull or Fjordgull to ensure pollination."
+    },
+    "usda_zones": {"min": 2, "max": 5},
+    "spacing_in": {"min": 12, "max": 18},
+    "height_in": {"min": 4, "max": 10},
+    "spread_in": {"min": 12, "max": 24},
+    "sun": "full",
+    "water": "high",
+    "directions": "Apollen is a male cloudberry clone (originally trialed as genotype 'An 30') released alongside the female cultivars Fjellgull and Fjordgull from Norway's Bioforsk cloudberry breeding program, bred purely to supply reliable pollen rather than fruit, since Rubus chamaemorus is dioecious and female clones set no berries without a male nearby. It produces no edible crop itself but flowers over a long enough window to overlap with the bloom of its paired female selections in cold bog plantings. Give it the same peaty, acidic, constantly moist conditions required by fruiting cloudberry, as it shares the same shallow rhizome system. Space male plants through the bed in a ratio of roughly one to several females for dependable wind and insect pollination.",
+    "sources": ["Norwegian Institute of Bioeconomy Research (NIBIO/Bioforsk)", "Acta Agriculturae Scandinavica"]
+  }
+]

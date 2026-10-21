@@ -1,0 +1,52 @@
+[
+  {
+    "slug": "salvia-farinacea-blue-bedder",
+    "common_name": "Blue Bedder Mealycup Sage",
+    "scientific_name": "Salvia farinacea 'Blue Bedder'",
+    "category": "flower",
+    "subcategory": "perennial",
+    "days_to_maturity": {"min": 70, "max": 100},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 0, "max": 2},
+      "note": "Set out transplants after the last frost into well-drained, lean to average soil in full sun; Blue Bedder is one of the oldest seed-grown mealycup sage strains still in commerce, predating the later Victoria series."
+    },
+    "usda_zones": {"min": 7, "max": 10},
+    "spacing_in": {"min": 10, "max": 14},
+    "height_in": {"min": 18, "max": 24},
+    "spread_in": {"min": 10, "max": 14},
+    "sun": "full",
+    "water": "low",
+    "directions": "Give Blue Bedder full sun and lean, fast-draining soil; its upright, mealy-white stems carry dense violet-blue spikes from early summer through frost without deadheading. As one of the older open-pollinated seed strains of S. farinacea grown since the mid-20th century, it tends to run slightly taller and looser than modern compact bedding hybrids, so pinch young plants once to encourage branching. Treat as an annual outside zones 7-10, where the woody crown can overwinter in a mild year.",
+    "sources": ["Select Seeds", "Missouri Botanical Garden Plant Finder"]
+  },
+  {
+    "slug": "salvia-nemorosa-tanzerin",
+    "common_name": "Tanzerin Meadow Sage (Dancer Sage)",
+    "scientific_name": "Salvia nemorosa 'Tanzerin'",
+    "category": "flower",
+    "subcategory": "perennial",
+    "days_to_maturity": {"min": 90, "max": 150},
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 6},
+      "note": "Plant divisions or container stock in spring in well-drained, lean to average soil in full sun; Tanzerin is a taller German-bred meadow sage selection, grown for slender, airy violet-blue spikes rather than the dense, stocky habit of Caradonna or Marcus."
+    },
+    "usda_zones": {"min": 4, "max": 8},
+    "spacing_in": {"min": 14, "max": 18},
+    "height_in": {"min": 22, "max": 28},
+    "spread_in": {"min": 14, "max": 18},
+    "sun": "full",
+    "water": "low",
+    "directions": "Site Tanzerin in lean, well-drained soil in full sun, where its looser, more open flower spikes give it a softer, more naturalistic look than the stiffly upright nemorosa cultivars bred for bedding uniformity. Shear the spent spikes back by about half once the first flush fades to push a second round of bloom into late summer. It is drought-tolerant once established and benefits from division every three to four years as the crown thins.",
+    "sources": ["Missouri Botanical Garden Plant Finder", "Perennial Plant Association"]
+  }
+]

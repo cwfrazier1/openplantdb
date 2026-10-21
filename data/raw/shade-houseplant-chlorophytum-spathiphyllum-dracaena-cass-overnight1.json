@@ -1,0 +1,77 @@
+[
+  {
+    "slug": "chlorophytum-laxum-bichetii",
+    "common_name": "Bichetii Grass (Mandarin Spider Grass)",
+    "scientific_name": "Chlorophytum laxum 'Bichetii'",
+    "category": "flower",
+    "subcategory": "houseplant",
+    "days_to_maturity": {"min": 180, "max": 365},
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 4, "max": 10},
+      "note": "Divide dense clumps in spring and pot into a loose, fast-draining houseplant mix; unlike its stoloniferous cousin the common spider plant, Bichetii grass never sends out baby plantlets on runners."
+    },
+    "usda_zones": {"min": 10, "max": 11},
+    "spacing_in": {"min": 8, "max": 12},
+    "height_in": {"min": 8, "max": 14},
+    "spread_in": {"min": 10, "max": 14},
+    "sun": "shade",
+    "water": "moderate",
+    "directions": "Bichetii grass forms a tight, grassy tuft of slender, white-edged leaves that stays compact instead of trailing, making it a tidy choice for a low-light windowsill or terrarium where a full-size spider plant would sprawl. It tolerates fairly dim indoor light but colors up with more silvery-white margin definition under bright, indirect exposure. Water when the top inch of soil dries and avoid heavy fertilizer, which pushes weak, floppy growth. Despite the resemblance to Chlorophytum comosum, this species never produces the long wiry stolons and plantlets that give the common spider plant its name.",
+    "sources": ["Logee's Tropical Plants", "Steve's Leaves"]
+  },
+  {
+    "slug": "alana-peace-lily",
+    "common_name": "Alana Peace Lily (Dwarf Peace Lily)",
+    "scientific_name": "Spathiphyllum 'Alana'",
+    "category": "flower",
+    "subcategory": "houseplant",
+    "days_to_maturity": {"min": 60, "max": 120},
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 4, "max": 8},
+      "note": "Pot divisions into moist, humus-rich soil in deep to moderate shade; 'Alana' stays smaller and more tabletop-friendly than 'Mauna Loa', one of the reasons mass growers favor it for interior plantscaping."
+    },
+    "usda_zones": {"min": 10, "max": 12},
+    "spacing_in": {"min": 10, "max": 14},
+    "height_in": {"min": 10, "max": 16},
+    "spread_in": {"min": 10, "max": 14},
+    "sun": "shade",
+    "water": "moderate",
+    "directions": "Alana is a compact, free-flowering peace lily selection bred for interior landscaping, producing glossy dark leaves and a steady run of small white spathes under typical office or home lighting. It is one of the more shade-tolerant flowering houseplants available, continuing to bloom even many feet from a window, though flowering slows noticeably in deep, windowless corners. It signals thirst dramatically by drooping its whole canopy and perks back up within hours of a good soak, which makes watering timing easy to read. All parts are mildly toxic if chewed by pets or children, so site it out of easy reach.",
+    "sources": ["Costa Farms"]
+  },
+  {
+    "slug": "dracaena-fragrans-lisa",
+    "common_name": "Lisa Dracaena (Compact Corn Plant)",
+    "scientific_name": "Dracaena fragrans 'Lisa'",
+    "category": "flower",
+    "subcategory": "houseplant",
+    "days_to_maturity": {"min": 365, "max": 730},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 4, "max": 10},
+      "note": "Root cane cuttings in spring warmth; 'Lisa' grows more slowly and holds narrower, more upright dark green leaves than 'Massangeana' or 'Janet Craig', giving it a tighter silhouette for corners with limited floor space."
+    },
+    "usda_zones": {"min": 10, "max": 12},
+    "spacing_in": {"min": 18, "max": 24},
+    "height_in": {"min": 24, "max": 48},
+    "spread_in": {"min": 14, "max": 20},
+    "sun": "shade",
+    "water": "moderate",
+    "directions": "Lisa is a slow, upright corn plant cultivar prized by interior plantscapers for narrow, deep green recurved leaves that stay tidy on a single cane far longer than faster cultivars. It handles deep office and interior shade about as well as any dracaena on the market, though growth slows almost to a stop in very dim corners. Despite the species name, mature plants grown outdoors or in a greenhouse only occasionally produce the intensely sweet-scented flower clusters that give Dracaena fragrans its name; indoor specimens rarely bloom at all. Let the top couple inches of soil dry between waterings, since it is more prone to root rot than to drought stress.",
+    "sources": ["Costa Farms"]
+  }
+]

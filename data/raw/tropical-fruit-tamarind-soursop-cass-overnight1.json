@@ -1,0 +1,52 @@
+[
+  {
+    "slug": "tamarind-manila-sweet",
+    "common_name": "Tamarind 'Manila Sweet'",
+    "scientific_name": "Tamarindus indica 'Manila Sweet'",
+    "category": "fruit",
+    "subcategory": "tropical fruit tree",
+    "days_to_maturity": {"min": 1095, "max": 1825},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 8},
+      "note": "Set out a grafted tree in spring once night temperatures stay reliably above 50F; grafted 'Manila Sweet' trees bear years sooner than seedling tamarinds, which can take 6-8 years from seed."
+    },
+    "usda_zones": {"min": 10, "max": 11},
+    "spacing_in": {"min": 240, "max": 480},
+    "height_in": {"min": 240, "max": 480},
+    "spread_in": {"min": 240, "max": 420},
+    "sun": "full",
+    "water": "low",
+    "directions": "'Manila Sweet' was selected and propagated by the USDA's Subtropical Horticulture Research Unit in Miami for pulp that is markedly less acidic than typical seedling tamarind, making it pleasant to eat fresh out of hand rather than only cooked into sauces and candies. Give it full sun and sharply drained soil; established trees are among the most drought-tolerant tropical fruit trees available and need little irrigation once past their first year. Harvest pods when the shell turns brittle and tan and snaps cleanly, exposing the sticky, fibrous, deep-brown pulp inside; protect young trees from any frost since they are tender below the high 20s F.",
+    "sources": ["Morton, J. Fruits of Warm Climates (Purdue University Center for New Crops & Plant Products)", "University of Florida IFAS Extension"]
+  },
+  {
+    "slug": "soursop-bennett",
+    "common_name": "Soursop 'Bennett'",
+    "scientific_name": "Annona muricata 'Bennett'",
+    "category": "fruit",
+    "subcategory": "tropical fruit tree",
+    "days_to_maturity": {"min": 730, "max": 1460},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 0, "max": 8},
+      "note": "Plant grafted or air-layered 'Bennett' trees in spring after frost danger has fully passed; vegetative propagation lets it fruit years earlier than seedling soursop and keeps fruit quality consistent."
+    },
+    "usda_zones": {"min": 10, "max": 11},
+    "spacing_in": {"min": 120, "max": 240},
+    "height_in": {"min": 120, "max": 300},
+    "spread_in": {"min": 96, "max": 216},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "'Bennett' traces to budwood Dr. Wilson Popenoe sent from Costa Rica to the USDA, named for G.S. Bennett, an agricultural superintendent with the United Fruit Company, and it has long been grown as a reliable, better-than-average-quality selection rather than an unnamed seedling tree. Like other soursop, flowers benefit from hand pollination with a small brush in late afternoon since natural pollinators are scarce outside its native range. Grow in deep, well-drained loam sheltered from wind and cold, and harvest when the spiny dark-green skin dulls and softens slightly, then finish ripening at room temperature for a day or two before eating.",
+    "sources": ["Morton, J. Fruits of Warm Climates (Purdue University Center for New Crops & Plant Products)", "California Rare Fruit Growers"]
+  }
+]
