@@ -1,0 +1,33 @@
+[
+  {
+    "slug": "castanea-mollissima-carolina",
+    "common_name": "Carolina Chinese Chestnut",
+    "scientific_name": "Castanea mollissima 'Carolina'",
+    "category": "fruit",
+    "subcategory": "chestnut",
+    "days_to_germination": {"min": null, "max": null},
+    "germination_soil_temp_f": {"min": null, "max": null},
+    "days_to_maturity": {"min": 1095, "max": 1825},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": -4, "max": 4},
+      "note": "Plant grafted or container-grown trees in late winter to early spring in deep, well-drained, slightly acidic soil, siting a second genetically distinct chestnut nearby for cross-pollination."
+    },
+    "usda_zones": {"min": 5, "max": 9},
+    "spacing_in": {"min": 300, "max": 420},
+    "height_in": {"min": 240, "max": 480},
+    "spread_in": {"min": 240, "max": 420},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Carolina is a Chinese chestnut selection from the widely distributed southeastern open-pollinated breeding population that also produced sibling selections such as Revival, chosen for the sweetness of its nuts. Like other chestnuts it is self-incompatible, so plant it alongside at least one unrelated Chinese chestnut seedling or cultivar to ensure reliable pollination and nut set. Trees produce burred clusters of nuts that ripen and drop in fall, and the species carries good resistance to chestnut blight relative to American chestnut. Give it deep, well-drained, slightly acidic soil in full sun with room for a full-sized orchard tree, and mulch to help conserve soil moisture through summer heat.",
+    "sources": [
+      "Chestnut Improvement Network cultivar portfolio",
+      "University of Missouri Center for Agroforestry — Chestnut Cultivar Trials",
+      "Northern Nut Growers Association"
+    ]
+  }
+]

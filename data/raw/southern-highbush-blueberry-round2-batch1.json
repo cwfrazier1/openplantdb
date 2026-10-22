@@ -1,0 +1,95 @@
+[
+  {
+    "slug": "vaccinium-corymbosum-pamlico",
+    "common_name": "Pamlico Southern Highbush Blueberry (Semi-Upright Low-Chill Blueberry)",
+    "scientific_name": "Vaccinium corymbosum 'Pamlico'",
+    "category": "berry",
+    "subcategory": "southern highbush blueberry",
+    "days_to_germination": {"min": null, "max": null},
+    "germination_soil_temp_f": {"min": null, "max": null},
+    "days_to_maturity": {"min": 365, "max": 730},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Set container plants out in late winter to early spring into well-drained, heavily acidified soil amended with pine bark or peat, spacing rows to allow good air movement for disease control."
+    },
+    "usda_zones": {"min": 7, "max": 9},
+    "spacing_in": {"min": 48, "max": 72},
+    "height_in": {"min": 48, "max": 66},
+    "spread_in": {"min": 36, "max": 54},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Pamlico is a North Carolina State University southern highbush release bred for a moderate chilling requirement, making it a reliable mid-to-late-spring producer across the warmer Southeast. The semi-upright, vigorous bush carries medium-sized berries with good color and flavor, and the flowers are highly self-fertile, so a single bush can crop well without a pollinizer, though yields improve with a second cultivar nearby. It shows better-than-average tolerance of stem blight compared to many older highbush selections, a useful trait in humid growing regions. Maintain acidic, consistently moist soil with heavy organic mulch, and remove the oldest canes each dormant season to keep the bush productive.",
+    "sources": [
+      "North Carolina State University Extension — Blueberry Cultivar Information",
+      "University of Georgia Extension — Blueberry Cultivars for Georgia",
+      "University of Arkansas Extension — Blueberry Cultivars for the Southeastern U.S."
+    ]
+  },
+  {
+    "slug": "vaccinium-corymbosum-carteret",
+    "common_name": "Carteret Southern Highbush Blueberry (Compact Self-Fertile Blueberry)",
+    "scientific_name": "Vaccinium corymbosum 'Carteret'",
+    "category": "berry",
+    "subcategory": "southern highbush blueberry",
+    "days_to_germination": {"min": null, "max": null},
+    "germination_soil_temp_f": {"min": null, "max": null},
+    "days_to_maturity": {"min": 365, "max": 730},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Plant in early spring in raised, acidified beds or large containers, since the compact habit suits small-space and urban garden plantings as well as open fields."
+    },
+    "usda_zones": {"min": 7, "max": 9},
+    "spacing_in": {"min": 36, "max": 48},
+    "height_in": {"min": 42, "max": 54},
+    "spread_in": {"min": 30, "max": 42},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Carteret is a North Carolina State University southern highbush selection bred specifically for smaller gardens, staying notably more compact and upright than most highbush cultivars while remaining productive. Its flowers are highly self-fertile, so it sets a reliable crop as a single bush, which makes it a good choice for small urban yards or container culture where a second cultivar isn't practical. Fruit firmness holds up well if picked promptly, though berries left to overripen on the bush soften quickly. Keep the root zone consistently moist and acidic with a thick bark mulch, and thin out crowded interior growth each winter to maintain air circulation in the compact canopy.",
+    "sources": [
+      "North Carolina State University Extension — Blueberry Cultivar Information",
+      "Backyard Berry Plants — Southern Highbush Blueberry Variety Notes",
+      "University of Arkansas Extension — Blueberry Cultivars for the Southeastern U.S."
+    ]
+  },
+  {
+    "slug": "vaccinium-corymbosum-primadonna",
+    "common_name": "Primadonna Southern Highbush Blueberry (Very Early Ripening Low-Chill Blueberry)",
+    "scientific_name": "Vaccinium corymbosum 'Primadonna'",
+    "category": "berry",
+    "subcategory": "southern highbush blueberry",
+    "days_to_germination": {"min": null, "max": null},
+    "germination_soil_temp_f": {"min": null, "max": null},
+    "days_to_maturity": {"min": 365, "max": 730},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Install dormant plants in late winter into raised, acidic beds, choosing warm microclimates since the very low chilling requirement makes this cultivar prone to breaking bud during brief winter warm spells."
+    },
+    "usda_zones": {"min": 8, "max": 9},
+    "spacing_in": {"min": 48, "max": 72},
+    "height_in": {"min": 48, "max": 72},
+    "spread_in": {"min": 36, "max": 60},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Primadonna is a University of Florida southern highbush release selected from an O'Neal cross, prized for ripening earlier than almost any other southern highbush cultivar in cultivation, well ahead of standard benchmarks like Star. The large berries form in loose, open clusters that detach easily when picked, which speeds hand harvest, and the cultivar also shows good resistance to cane canker, a common disease pressure in humid Gulf Coast plantings. Because its chilling requirement is so low, it performs best in central and coastal growing areas where winters are mild and consistent rather than regions with occasional hard freezes after an early bud break. Maintain acidic, well-drained, consistently moist soil and prune annually to renew fruiting wood and keep the naturally vigorous bush open to light and air.",
+    "sources": [
+      "University of Florida IFAS Extension — Southern Highbush Blueberry Cultivars",
+      "University of Arkansas Extension — Blueberry Cultivars for the Southeastern U.S.",
+      "USDA Plant Variety Protection / Patent records — 'Primadonna' southern highbush blueberry"
+    ]
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "slug": "turnip-scarlet-queen",
+    "common_name": "Scarlet Queen Turnip (Red-Skinned Hybrid Salad Turnip)",
+    "scientific_name": "Brassica rapa 'Scarlet Queen'",
+    "category": "vegetable",
+    "subcategory": "turnip",
+    "days_to_germination": {"min": 4, "max": 7},
+    "germination_soil_temp_f": {"min": 45, "max": 75},
+    "days_to_maturity": {"min": 40, "max": 50},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": -4, "max": -2},
+      "note": "Direct sow two to four weeks before the last frost for a spring crop, or in late summer for a fall harvest when cooler nights sweeten the roots."
+    },
+    "usda_zones": {"min": 3, "max": 10},
+    "spacing_in": {"min": 3, "max": 4},
+    "height_in": {"min": 8, "max": 12},
+    "spread_in": {"min": 4, "max": 6},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Sow seed shallowly into loose, stone-free soil and thin seedlings to a few inches apart so the globes can size up without forking. Scarlet Queen produces smooth, uniform roots with brilliant scarlet-red skin, crisp white flesh, and a reddish blush that runs up into the petioles, making it as ornamental as it is edible. Harvest while roots are still small to medium for the mildest, sweetest flavor, since the variety is bred for salad-turnip use rather than long storage. The colorful skin and tender texture make it popular sliced raw into salads or lightly pickled.",
+    "sources": ["Kitazawa Seed Co.", "Johnny's Selected Seeds", "Territorial Seed Company"]
+  },
+  {
+    "slug": "turnip-market-express",
+    "common_name": "Market Express Turnip (Fast-Maturing Hybrid Salad Turnip)",
+    "scientific_name": "Brassica rapa 'Market Express'",
+    "category": "vegetable",
+    "subcategory": "turnip",
+    "days_to_germination": {"min": 4, "max": 7},
+    "germination_soil_temp_f": {"min": 45, "max": 75},
+    "days_to_maturity": {"min": 35, "max": 40},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": -4, "max": -2},
+      "note": "Direct sow as soon as soil can be worked in spring, or succession-sow through late summer for a quick fall crop, since this variety is bred for speed."
+    },
+    "usda_zones": {"min": 3, "max": 10},
+    "spacing_in": {"min": 2, "max": 3},
+    "height_in": {"min": 6, "max": 10},
+    "spread_in": {"min": 3, "max": 5},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Thin seedlings early to two to three inches apart so the small, smooth globes develop evenly without competing for space. Market Express is among the fastest hybrid salad turnips available, reaching harvestable size in close to a month, which lets growers fit extra succession plantings into a short cool season. Roots stay mild and tender even if harvest is briefly delayed, resisting the woody, pithy texture that often develops in slower turnip varieties. Both the smooth white roots and the tender tops are good eaten raw or quickly cooked.",
+    "sources": ["Johnny's Selected Seeds", "University of Massachusetts Amherst Extension — Vegetable Program"]
+  }
+]
