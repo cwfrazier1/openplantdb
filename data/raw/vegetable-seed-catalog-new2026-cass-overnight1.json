@@ -1,0 +1,638 @@
+[
+  {
+    "slug": "early-bird-tomato-garden-sown",
+    "common_name": "Early Bird Tomato",
+    "scientific_name": "Solanum lycopersicum 'Early Bird'",
+    "category": "vegetable",
+    "subcategory": "early direct-sow slicing tomato",
+    "days_to_germination": {
+      "min": 6,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 70
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 2
+      },
+      "note": "Bred for direct outdoor seeding rather than indoor transplants; sow once soil has warmed slightly past frost date for an early slicing crop."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 24,
+      "max": 36
+    },
+    "height_in": {
+      "min": 36,
+      "max": 48
+    },
+    "spread_in": {
+      "min": 24,
+      "max": 30
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Sow seed directly in the garden bed once the soil is workable, skipping the usual indoor seed-starting step this variety was bred to avoid. Thin seedlings to their final spacing and stake or cage plants as they grow, since vigorous early vines benefit from support. Expect a quicker-than-average harvest window for a slicing tomato grown entirely outdoors from seed.",
+    "sources": [
+      "Burpee"
+    ]
+  },
+  {
+    "slug": "messidor-garlic",
+    "common_name": "Messidor Garlic",
+    "scientific_name": "Allium sativum 'Messidor'",
+    "category": "vegetable",
+    "subcategory": "hardneck garlic",
+    "days_to_germination": {
+      "min": 14,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 40,
+      "max": 60
+    },
+    "days_to_maturity": {
+      "min": 240,
+      "max": 270
+    },
+    "maturity_from": "transplant",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {
+        "min": -2,
+        "max": 4
+      },
+      "note": "Plant cloves in fall a few weeks before the ground freezes so roots establish before winter dormancy."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 8
+    },
+    "spacing_in": {
+      "min": 4,
+      "max": 6
+    },
+    "height_in": {
+      "min": 24,
+      "max": 36
+    },
+    "spread_in": {
+      "min": 4,
+      "max": 6
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Separate a bulb into individual cloves and push each one pointed-end-up about two inches into fertile, well-drained soil. This French-origin hardneck forms large bulbs under a papery white skin and sends up an edible flower scape in late spring that should be snapped off to redirect energy to the bulb. Harvest once the lower leaves brown and cure in a shaded, airy spot for several weeks before storing.",
+    "sources": [
+      "Territorial Seed Company"
+    ]
+  },
+  {
+    "slug": "norquay-garlic",
+    "common_name": "Norquay Garlic",
+    "scientific_name": "Allium sativum 'Norquay'",
+    "category": "vegetable",
+    "subcategory": "cold-hardy porcelain hardneck garlic",
+    "days_to_germination": {
+      "min": 14,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 35,
+      "max": 55
+    },
+    "days_to_maturity": {
+      "min": 240,
+      "max": 270
+    },
+    "maturity_from": "transplant",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {
+        "min": -3,
+        "max": 3
+      },
+      "note": "Prairie-bred for extreme winter hardiness; plant cloves in fall in cold climates for a reliable overwinter crop."
+    },
+    "usda_zones": {
+      "min": 2,
+      "max": 7
+    },
+    "spacing_in": {
+      "min": 4,
+      "max": 6
+    },
+    "height_in": {
+      "min": 24,
+      "max": 36
+    },
+    "spread_in": {
+      "min": 4,
+      "max": 6
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant individual cloves in fall, pointed end up, in loose fertile soil ahead of hard frost. This porcelain-type hardneck was selected for resilience in short-season, cold-winter growing regions and produces a handful of large, easy-to-peel cloves per bulb. Cut the flowering scape before it fully uncurls and cure harvested bulbs in a dry, shaded, well-ventilated space.",
+    "sources": [
+      "Territorial Seed Company"
+    ]
+  },
+  {
+    "slug": "blue-cascade-rosemary",
+    "common_name": "Blue Cascade Rosemary",
+    "scientific_name": "Salvia rosmarinus 'Blue Cascade'",
+    "category": "herb",
+    "subcategory": "trailing culinary rosemary",
+    "days_to_germination": {
+      "min": 15,
+      "max": 25
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 75,
+      "max": 90
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "warm",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 2
+      },
+      "note": "Set out nursery-started plants after frost danger has passed; this trailing type is best grown in containers or atop a wall where its stems can cascade."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 24,
+      "max": 36
+    },
+    "height_in": {
+      "min": 12,
+      "max": 18
+    },
+    "spread_in": {
+      "min": 24,
+      "max": 48
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Grow in well-drained soil or a container with excellent drainage, since trailing rosemary resents soggy roots. Position it where its long stems can spill over a wall, raised bed edge, or hanging basket. In zones colder than its hardiness range, overwinter potted specimens indoors in a bright, cool spot.",
+    "sources": [
+      "Territorial Seed Company"
+    ]
+  },
+  {
+    "slug": "bonsai-basil",
+    "common_name": "Bonsai Basil",
+    "scientific_name": "Ocimum basilicum 'Bonsai'",
+    "category": "herb",
+    "subcategory": "dwarf windowsill culinary basil",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 50,
+      "max": 60
+    },
+    "maturity_from": "seed",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -6,
+        "max": -4
+      },
+      "note": "Suited to year-round indoor growing on a bright kitchen counter; sow indoors regardless of outdoor frost dates if growing as a houseplant herb."
+    },
+    "usda_zones": {
+      "min": 2,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 6,
+      "max": 8
+    },
+    "height_in": {
+      "min": 4,
+      "max": 8
+    },
+    "spread_in": {
+      "min": 4,
+      "max": 8
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Sow several seeds per small pot and keep on a sunny windowsill or under grow lights, since this miniature basil stays naturally compact without pinching. Snip leaves as needed for cooking; the tight, mounded growth habit makes it well suited to small kitchen containers year-round. Rotate the pot occasionally for even light exposure.",
+    "sources": [
+      "Territorial Seed Company"
+    ]
+  },
+  {
+    "slug": "monteverde-compact-basil",
+    "common_name": "Monteverde Compact Basil",
+    "scientific_name": "Ocimum basilicum 'Monteverde Compact'",
+    "category": "herb",
+    "subcategory": "compact Genovese-type culinary basil",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 55,
+      "max": 65
+    },
+    "maturity_from": "seed",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -6,
+        "max": -4
+      },
+      "note": "Start indoors ahead of the last frost; the compact habit also makes it a good fit for containers and small raised beds."
+    },
+    "usda_zones": {
+      "min": 2,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 8,
+      "max": 10
+    },
+    "height_in": {
+      "min": 8,
+      "max": 12
+    },
+    "spread_in": {
+      "min": 8,
+      "max": 10
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Transplant seedlings after frost risk has passed into rich, well-drained soil or a patio container. The tidy, space-saving habit holds a classic sweet Genovese flavor while taking up less room than standard basil, making it practical for small gardens. Pinch flower buds regularly to keep leaf production going through the season.",
+    "sources": [
+      "Burpee"
+    ]
+  },
+  {
+    "slug": "cafe-au-lait-twist-dahlia",
+    "common_name": "Cafe au Lait Twist Dahlia",
+    "scientific_name": "Dahlia x hybrida 'Cafe au Lait Twist'",
+    "category": "flower",
+    "subcategory": "dinnerplate decorative dahlia with quilled petals",
+    "days_to_germination": {
+      "min": 10,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 90,
+      "max": 120
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 2
+      },
+      "note": "Plant tubers after soil has warmed following the last frost; in cold climates, lift and store tubers over winter."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 36,
+      "max": 48
+    },
+    "spread_in": {
+      "min": 24,
+      "max": 36
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant tubers eye-up in rich, well-drained soil and stake tall stems as they grow, since this dinnerplate-sized form carries heavy blooms. Petals twist and curl outward from the creamy tan center in a way that sets it apart from flatter-petaled cafe au lait dahlias, making it a standout in cut arrangements. Deadhead spent blooms to encourage continued flowering through late summer.",
+    "sources": [
+      "Territorial Seed Company"
+    ]
+  },
+  {
+    "slug": "concert-bell-sunflower",
+    "common_name": "Concert Bell Sunflower",
+    "scientific_name": "Helianthus annuus 'Concert Bell'",
+    "category": "flower",
+    "subcategory": "branching bell-shaped cut-flower sunflower",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 75
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 2
+      },
+      "note": "Direct sow after frost danger passes; succession sow every couple of weeks for a continuous cutting supply."
+    },
+    "usda_zones": {
+      "min": 2,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 48,
+      "max": 72
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 18
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Sow seed directly into the bed once frost has passed, thinning seedlings to give each plant room to branch. Flowers hang in a distinctive nodding, bell-like form rather than facing flat and upright, giving bouquets a looser, more casual look. Because it branches freely, repeated cutting encourages further stems rather than a single bloom per plant.",
+    "sources": [
+      "Territorial Seed Company"
+    ]
+  },
+  {
+    "slug": "hollandia-purple-crown-dianthus",
+    "common_name": "Hollandia Purple Crown Dianthus",
+    "scientific_name": "Dianthus barbatus 'Hollandia Purple Crown'",
+    "category": "flower",
+    "subcategory": "cut-flower sweet william-type dianthus",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 70,
+      "max": 90
+    },
+    "maturity_from": "seed",
+    "sow_method": "indoor-start",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -6
+      },
+      "note": "Start indoors well ahead of the last frost for an early, long cutting season; tolerates light frost once established."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 6,
+      "max": 9
+    },
+    "height_in": {
+      "min": 18,
+      "max": 24
+    },
+    "spread_in": {
+      "min": 8,
+      "max": 10
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Start seed indoors and transplant out once seedlings are sturdy, spacing plants to allow good airflow for cut-flower production. Clustered blooms carry a contrasting purple-and-white crowned pattern on each floret, held on sturdy stems well suited for bouquets. Deadhead regularly to extend the bloom period through the cool part of the season.",
+    "sources": [
+      "Territorial Seed Company"
+    ]
+  },
+  {
+    "slug": "paper-moon-scabiosa",
+    "common_name": "Paper Moon Scabiosa",
+    "scientific_name": "Scabiosa stellata 'Paper Moon'",
+    "category": "flower",
+    "subcategory": "everlasting seed-head scabiosa for drying",
+    "days_to_germination": {
+      "min": 10,
+      "max": 15
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 75,
+      "max": 100
+    },
+    "maturity_from": "seed",
+    "sow_method": "indoor-start",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -6,
+        "max": -4
+      },
+      "note": "Start indoors ahead of the last frost; grown primarily for its papery, lantern-like seed heads rather than the small lavender flowers."
+    },
+    "usda_zones": {
+      "min": 2,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 8,
+      "max": 12
+    },
+    "height_in": {
+      "min": 18,
+      "max": 24
+    },
+    "spread_in": {
+      "min": 8,
+      "max": 12
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Transplant seedlings out after the last frost and let the small pale flowers fade into round, papery, moon-like seed heads, which are the real draw of this variety. Cut and hang stems to dry once the globes have fully formed and dried in place on the plant. The dried heads hold their pale tan color well for everlasting arrangements and wreaths.",
+    "sources": [
+      "Territorial Seed Company"
+    ]
+  },
+  {
+    "slug": "pacific-apricot-beauty-calendula",
+    "common_name": "Pacific Apricot Beauty Calendula",
+    "scientific_name": "Calendula officinalis 'Pacific Apricot Beauty'",
+    "category": "flower",
+    "subcategory": "pollinator-friendly cut-flower pot marigold",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 50,
+      "max": 60
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -2,
+        "max": 2
+      },
+      "note": "Direct sow as soon as soil can be worked in early spring; tolerates light frost and rebounds in cool fall conditions too."
+    },
+    "usda_zones": {
+      "min": 2,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 8,
+      "max": 12
+    },
+    "height_in": {
+      "min": 12,
+      "max": 18
+    },
+    "spread_in": {
+      "min": 8,
+      "max": 12
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Direct sow into prepared beds and thin seedlings once established, since calendula grows quickly from seed. Cream-to-apricot blooms two to three inches across open readily for pollinators and can be deadheaded continuously to extend bloom into fall. Petals are edible and can be used fresh in salads or dried for tea.",
+    "sources": [
+      "Burpee"
+    ]
+  },
+  {
+    "slug": "supercal-premium-rose-star-petchoa",
+    "common_name": "Supercal Premium Rose Star Petchoa",
+    "scientific_name": "x Petchoa 'Supercal Premium Rose Star'",
+    "category": "flower",
+    "subcategory": "trailing petunia-calibrachoa intergeneric hybrid for baskets",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 50,
+      "max": 70
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 2
+      },
+      "note": "Set out started plants after frost danger passes into hanging baskets or containers with rich, well-drained soil."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 10,
+      "max": 14
+    },
+    "height_in": {
+      "min": 8,
+      "max": 12
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in containers or hanging baskets with consistent moisture and regular feeding, since this vigorous intergeneric hybrid is a heavy bloomer. Each flower carries a star-shaped rose-pink pattern radiating from the throat, and the mounding, trailing habit fills baskets quickly. It holds up well in heat and rain better than many petunia types, needing little deadheading to keep flowering.",
+    "sources": [
+      "Burpee"
+    ]
+  }
+]

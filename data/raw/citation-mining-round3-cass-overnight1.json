@@ -1,0 +1,266 @@
+[
+  {
+    "slug": "arka-neelkanth-eggplant",
+    "common_name": "Arka Neelkanth Brinjal (IIHR Bacterial Wilt-Resistant Indian Eggplant)",
+    "scientific_name": "Solanum melongena 'Arka Neelkanth'",
+    "category": "vegetable",
+    "subcategory": "Asian eggplant",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 90
+    },
+    "days_to_maturity": {
+      "min": 130,
+      "max": 150
+    },
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -6
+      },
+      "note": "Start indoors 8 weeks before last frost and transplant into warm, well-drained soil once nights stay reliably above 55F; Arka Neelkanth is one of the bacterial-wilt-resistant brinjal releases bred by IIHR Bangalore from a cross of 'Dingras Multiple Purple' and 'Arka Sheel', alongside sibling release 'Arka Nidhi'."
+    },
+    "usda_zones": {
+      "min": 6,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 20,
+      "max": 26
+    },
+    "height_in": {
+      "min": 30,
+      "max": 42
+    },
+    "spread_in": {
+      "min": 22,
+      "max": 30
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Arka Neelkanth is a long-season brinjal developed by the Indian Institute of Horticultural Research (IIHR) in Bangalore from the same 'Dingras Multiple Purple' x 'Arka Sheel' cross that produced sibling release 'Arka Nidhi', bred specifically to resist bacterial wilt, a disease that devastates many eggplant plantings in warm, humid regions. Give it the fullest possible warm window, consistent moisture through fruit set, and full sun on fertile, well-drained soil, same as other long-season warm-climate Asian eggplants in this breeding line.",
+    "sources": [
+      "Indian Institute of Horticultural Research (IIHR)",
+      "dataset cross-reference: citation-mining-vegetable-fruit-gaps-cass-overnight1.json ('Dingras Multiple Purple Eggplant' and 'Arka Sheel Brinjal' entries)"
+    ]
+  },
+  {
+    "slug": "arka-keshav-eggplant",
+    "common_name": "Arka Keshav Brinjal (IIHR Bacterial Wilt-Resistant Indian Eggplant)",
+    "scientific_name": "Solanum melongena 'Arka Keshav'",
+    "category": "vegetable",
+    "subcategory": "Asian eggplant",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 90
+    },
+    "days_to_maturity": {
+      "min": 130,
+      "max": 150
+    },
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -6
+      },
+      "note": "Start indoors 8 weeks before last frost and transplant into warm, well-drained soil once nights stay reliably above 55F; Arka Keshav is one of the bacterial-wilt-resistant brinjal releases bred by IIHR Bangalore from a cross of 'Dingras Multiple Purple' and 'Arka Sheel', alongside sibling release 'Arka Nidhi'."
+    },
+    "usda_zones": {
+      "min": 6,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 20,
+      "max": 26
+    },
+    "height_in": {
+      "min": 30,
+      "max": 42
+    },
+    "spread_in": {
+      "min": 22,
+      "max": 30
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Arka Keshav is a long-season brinjal developed by the Indian Institute of Horticultural Research (IIHR) in Bangalore from the same 'Dingras Multiple Purple' x 'Arka Sheel' cross that produced sibling release 'Arka Nidhi', bred specifically to resist bacterial wilt, a disease that devastates many eggplant plantings in warm, humid regions. Give it the fullest possible warm window, consistent moisture through fruit set, and full sun on fertile, well-drained soil, same as other long-season warm-climate Asian eggplants in this breeding line.",
+    "sources": [
+      "Indian Institute of Horticultural Research (IIHR)",
+      "dataset cross-reference: citation-mining-vegetable-fruit-gaps-cass-overnight1.json ('Dingras Multiple Purple Eggplant' and 'Arka Sheel Brinjal' entries)"
+    ]
+  },
+  {
+    "slug": "edenvale-improved-coolidge-feijoa",
+    "common_name": "Edenvale Improved Coolidge Feijoa",
+    "scientific_name": "Acca sellowiana 'Edenvale Improved Coolidge'",
+    "category": "fruit",
+    "subcategory": "feijoa",
+    "days_to_germination": {
+      "min": 14,
+      "max": 30
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 80
+    },
+    "days_to_maturity": {
+      "min": 1095,
+      "max": 1825
+    },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 8
+      },
+      "note": "Plant container-grown shrubs in spring; Edenvale Improved Coolidge was bred by Frank Serpa at Edenvale Nurseries in Santa Cruz, California, ripening earlier in the season than November, and like most feijoa cultivars benefits from a genetically distinct partner planted nearby for best fruit set."
+    },
+    "usda_zones": {
+      "min": 8,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 96,
+      "max": 144
+    },
+    "height_in": {
+      "min": 96,
+      "max": 144
+    },
+    "spread_in": {
+      "min": 96,
+      "max": 144
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Edenvale Improved Coolidge is one of several feijoa selections bred by Frank Serpa at Edenvale Nurseries, ripening earlier in the season than its mid-season sibling release 'Edenvale Supreme'. Grow it in full sun on well-drained, fertile, slightly acidic soil, and interplant with a second, genetically distinct cultivar since feijoa sets fruit poorly on its own pollen alone. Allow fruit to ripen and fall naturally before gathering, since feijoa picked too early never develops its full aromatic, pineapple-mint flavor.",
+    "sources": [
+      "California Rare Fruit Growers — Feijoa Fruit Facts",
+      "dataset cross-reference: gulf-coast-subtropical-fruit-gaps-cass-overnight1.json ('Edenvale Supreme Feijoa' entry)"
+    ]
+  },
+  {
+    "slug": "edenvale-late-feijoa",
+    "common_name": "Edenvale Late Feijoa",
+    "scientific_name": "Acca sellowiana 'Edenvale Late'",
+    "category": "fruit",
+    "subcategory": "feijoa",
+    "days_to_germination": {
+      "min": 14,
+      "max": 30
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 80
+    },
+    "days_to_maturity": {
+      "min": 1095,
+      "max": 1825
+    },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 8
+      },
+      "note": "Plant container-grown shrubs in spring; Edenvale Late was bred by Frank Serpa at Edenvale Nurseries in Santa Cruz, California, ripening later in the season than its mid-season sibling release 'Edenvale Supreme', and like most feijoa cultivars benefits from a genetically distinct partner planted nearby for best fruit set."
+    },
+    "usda_zones": {
+      "min": 8,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 96,
+      "max": 144
+    },
+    "height_in": {
+      "min": 96,
+      "max": 144
+    },
+    "spread_in": {
+      "min": 96,
+      "max": 144
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Edenvale Late is one of several feijoa selections bred by Frank Serpa at Edenvale Nurseries, ripening later in the season than its mid-season sibling release 'Edenvale Supreme'. Grow it in full sun on well-drained, fertile, slightly acidic soil, and interplant with a second, genetically distinct cultivar since feijoa sets fruit poorly on its own pollen alone. Allow fruit to ripen and fall naturally before gathering, since feijoa picked too early never develops its full aromatic, pineapple-mint flavor.",
+    "sources": [
+      "California Rare Fruit Growers — Feijoa Fruit Facts",
+      "dataset cross-reference: gulf-coast-subtropical-fruit-gaps-cass-overnight1.json ('Edenvale Supreme Feijoa' entry)"
+    ]
+  },
+  {
+    "slug": "webmaster-spiderwort",
+    "common_name": "Webmaster Spiderwort",
+    "scientific_name": "Tradescantia hybrid 'Webmaster'",
+    "category": "flower",
+    "subcategory": "shade-tolerant spiderwort, companion release to 'Web Designer'",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 90,
+      "max": 240
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Divide or plant container stock in spring into average, well-drained garden soil in sun to shade; Webmaster is the Walters Gardens Tradescantia release bred as a companion to 'Web Designer'."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 16,
+      "max": 24
+    },
+    "height_in": {
+      "min": 18,
+      "max": 24
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Webmaster is a Walters Gardens spiderwort release bred and marketed as a companion to 'Web Designer', sharing the same vigorous clumping habit and tolerance for everything from full sun to fairly deep shade. Cut plants back hard after the first flush if they sprawl, and they will rebloom from the base.",
+    "sources": [
+      "Walters Gardens",
+      "dataset cross-reference: shade-breeder-catalog-round2-cass-overnight1.json ('Web Designer Spiderwort' entry)"
+    ]
+  }
+]

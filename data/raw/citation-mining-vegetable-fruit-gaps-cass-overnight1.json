@@ -1,0 +1,375 @@
+[
+  {
+    "slug": "scarletpearl-peach",
+    "common_name": "Scarletpearl Peach (USDA-ARS Byron, GA Early-Season Clingstone Peach)",
+    "scientific_name": "Prunus persica 'Scarletpearl'",
+    "category": "fruit",
+    "subcategory": "peach",
+    "days_to_germination": null,
+    "germination_soil_temp_f": {
+      "min": 35,
+      "max": 55
+    },
+    "days_to_maturity": {
+      "min": 1095,
+      "max": 1460
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -4
+      },
+      "note": "Plant bare-root while fully dormant in late winter. Scarletpearl was bred by W.R. Okie at the USDA-ARS Southeastern Fruit and Tree Nut Research Laboratory in Byron, GA, selected in 1983 from an open-pollinated Biscoe x Redgold nectarine seedling and introduced in 1989. It needs about 750 chill hours and ripens with 'June Gold,' roughly three weeks ahead of 'Redhaven.'"
+    },
+    "usda_zones": {
+      "min": 6,
+      "max": 8
+    },
+    "spacing_in": {
+      "min": 180,
+      "max": 240
+    },
+    "height_in": {
+      "min": 120,
+      "max": 180
+    },
+    "spread_in": {
+      "min": 144,
+      "max": 180
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Plant in full sun with well-drained soil and prune young trees to an open-vase shape. Scarletpearl bears medium-sized, round, clingstone fruit with light pubescence and an attractive red blush over a greenish-white ground color, with white melting flesh typical of early-season peaches. Showy, self-fertile flowers with globose leaf glands give it moderate resistance to bacterial spot, and it has since been used as breeding stock (e.g., as the seed parent of Clemson's 'CaroRes Delight') within Southeastern disease-tolerant peach programs. Thin fruit early and fertilize lightly each spring to sustain production.",
+    "sources": [
+      "USDA-ARS Southeastern Fruit and Tree Nut Research Laboratory (Byron, GA) — Scarletpearl release records",
+      "Clemson University Peach Variety Evaluation Program",
+      "Stark Bro's Nursery — ScarletPearl Peach"
+    ]
+  },
+  {
+    "slug": "benders-surprise-melon",
+    "common_name": "Bender's Surprise Melon (1880s New Scotland, NY Heirloom Muskmelon)",
+    "scientific_name": "Cucumis melo 'Bender's Surprise'",
+    "category": "vegetable",
+    "subcategory": "heirloom muskmelon",
+    "days_to_germination": {
+      "min": 4,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 95
+    },
+    "days_to_maturity": {
+      "min": 90,
+      "max": 95
+    },
+    "maturity_from": "seed",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": -3
+      },
+      "note": "Start seeds indoors 3-4 weeks before last frost and transplant once nights stay reliably above 50F. Market grower Charles Bender of New Scotland, NY began breeding this melon from the 1876 variety 'Surprise' starting in 1884, eventually commanding prices many times the market rate and shipping melons to thirty-three states."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 24,
+      "max": 36
+    },
+    "height_in": {
+      "min": 12,
+      "max": 18
+    },
+    "spread_in": {
+      "min": 60,
+      "max": 72
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Start indoors in peat pots and transplant into warm, fertile soil once frost danger has passed, giving vines generous room to sprawl. Bender's Surprise produces oblong-to-round, distinctly ribbed, coarsely netted fruit averaging 6-7 lb, with thick salmon-colored flesh and a rich, sweet, old-fashioned muskmelon flavor; rinds turn grayish-yellow at full maturity. It was later used as a parent (crossed with 'Minnesota 99-36') by Cornell breeder Henry Munger to create the Fusarium-resistant 1944 release 'Iroquois.' The historic Bender farm itself is now preserved as the Bender Melon Farm Preserve in New Scotland, NY.",
+    "sources": [
+      "Mohawk Hudson Land Conservancy — Bender Melon Farm Preserve history",
+      "Victory Seed Company — Bender's Surprise Muskmelon",
+      "Vegetable Cultivar Descriptions for North America (cucurbit.info)"
+    ]
+  },
+  {
+    "slug": "dingras-multiple-purple-eggplant",
+    "common_name": "Dingras Multiple Purple Eggplant (Philippine Ilocos Landrace, Parent of IIHR Bacterial-Wilt-Resistant Brinjals)",
+    "scientific_name": "Solanum melongena 'Dingras Multiple Purple'",
+    "category": "vegetable",
+    "subcategory": "Asian eggplant",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 90
+    },
+    "days_to_maturity": {
+      "min": 90,
+      "max": 110
+    },
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -6
+      },
+      "note": "Start indoors 8 weeks before last frost and transplant into warm soil once nights stay above 55F. Named for the municipality of Dingras in Ilocos Norte, Philippines, this traditional purple-fruited landrace is documented mainly as breeding stock rather than as a commercial market variety in its own right."
+    },
+    "usda_zones": {
+      "min": 9,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 24,
+      "max": 36
+    },
+    "spread_in": {
+      "min": 20,
+      "max": 28
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Transplant into warm, fertile, well-drained soil in full sun; this Ilocos Norte landrace bears deep-purple fruit, apparently in multiple-fruited clusters per the variety's name, consistent with other traditional Philippine talong types. Its chief documented significance is as a breeding parent: the Indian Institute of Horticultural Research (IIHR) in Bangalore crossed it with 'Arka Sheel' to produce the bacterial-wilt-resistant brinjal releases Arka Nidhi, Arka Neelkanth, and Arka Keshav. Detailed cultivation records for the landrace itself are sparse outside this breeding literature, so grow it as a standard warm-season Asian eggplant with consistent moisture through fruit set.",
+    "sources": [
+      "IIHR (Indian Institute of Horticultural Research) — Arka Nidhi / Arka Neelkanth / Arka Keshav pedigree records",
+      "General Philippine eggplant (talong) cultivation references"
+    ]
+  },
+  {
+    "slug": "arka-sheel-eggplant",
+    "common_name": "Arka Sheel Brinjal (IIHR Bangalore Open-Pollinated Eggplant, Parent of Bacterial-Wilt-Resistant Arka Cultivars)",
+    "scientific_name": "Solanum melongena 'Arka Sheel'",
+    "category": "vegetable",
+    "subcategory": "Asian eggplant",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 90
+    },
+    "days_to_maturity": {
+      "min": 150,
+      "max": 160
+    },
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -6
+      },
+      "note": "Start indoors 8 weeks before last frost; transplant into warm soil once nights stay above 55F. Arka Sheel is a long-season, open-pollinated IIHR Bangalore release needing the fullest possible warm window to reach its 150-160 day picking stage."
+    },
+    "usda_zones": {
+      "min": 6,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 20,
+      "max": 26
+    },
+    "height_in": {
+      "min": 30,
+      "max": 42
+    },
+    "spread_in": {
+      "min": 22,
+      "max": 30
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Transplant into fertile, well-drained soil in full sun. Arka Sheel is a tall, open-pollinated brinjal from the Indian Institute of Horticultural Research (IIHR), Bangalore, with green leaves showing a purple tinge at the base when young and solitary purple flowers. Its medium-long fruit has deep, shining purple skin, reaching picking stage in 150-160 days with trial yields around 38 t/ha. Beyond its own cultivation, Arka Sheel is notable as a key parent — crossed with 'Dingras Multiple Purple' — behind IIHR's bacterial-wilt-resistant brinjal lineup, including Arka Nidhi, Arka Neelkanth, and Arka Keshav.",
+    "sources": [
+      "IIHR (Indian Institute of Horticultural Research) — Arka Sheel variety profile",
+      "IIHR — Brinjal Arka Nidhi / Arka Neelkanth / Arka Keshav pedigree records"
+    ]
+  },
+  {
+    "slug": "creole-sweet-potato",
+    "common_name": "Creole Sweet Potato (Early Cream-Fleshed Heirloom, Parent of Allgold)",
+    "scientific_name": "Ipomoea batatas 'Creole'",
+    "category": "vegetable",
+    "subcategory": "sweet potato",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 70,
+      "max": 75
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 4
+      },
+      "note": "Set slips into warm, loose, well-drained soil after the last frost. Creole is notably early-maturing for a sweet potato, reaching harvest well ahead of most Southern storage types."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 12,
+      "max": 18
+    },
+    "spread_in": {
+      "min": 48,
+      "max": 72
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Set rooted slips into warm, well-drained soil in full sun after the last frost. Creole is an early, vigorous-vined heirloom with normal (non-lobed) leaf form, cream skin, and cream flesh, noted by seed preservationists for excellent yield relative to its short season. It also carries breeding significance: a Creole x Triumph cross produced the 1952 Oklahoma State release 'Allgold.' Cure harvested roots in a warm, humid spot for about a week to firm the skin and develop full sweetness before storing.",
+    "sources": [
+      "Sandhill Preservation Center — Sweet Potato Variety Descriptions",
+      "Oklahoma Agricultural Experiment Station — Allgold Sweet Potato release records (parentage)"
+    ]
+  },
+  {
+    "slug": "american-early-white-spine-cucumber",
+    "common_name": "American Early White Spine Cucumber (18th-Century Heirloom Slicing Cucumber, Parent of Improved White Spine)",
+    "scientific_name": "Cucumis sativus 'Early White Spine'",
+    "category": "vegetable",
+    "subcategory": "slicing cucumber",
+    "days_to_germination": {
+      "min": 3,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 95
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 70
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 2
+      },
+      "note": "Direct sow an inch deep after soil has warmed following the last frost. This American type has been grown since the 18th century; Alexander Watson's 'The American Home Garden' (1859) cited the white-spined Long Green form among the best kitchen-garden cucumbers of its day."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 48,
+      "max": 60
+    },
+    "spread_in": {
+      "min": 24,
+      "max": 36
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Direct sow into warm soil in full sun and grow on a trellis to keep fruit straight and clean. American Early White Spine produces dark green, white-spined cucumbers around 6-8 inches long with a somewhat warty skin surface and pale green lines running from blossom to stem end; the mild, crisp flesh suits both slicing and pickling. It was once a dominant market and home-garden slicer before modern burpless and disease-resistant hybrids replaced it, and in the late 19th century growers selected from it the shorter, blockier 'Improved White Spine.' Pick regularly to keep vines productive through the season.",
+    "sources": [
+      "Seed Savers Exchange — Heirloom Cucumber Variety Histories",
+      "Alexander Watson, 'The American Home Garden' (1859)",
+      "Mother Earth News — Heirloom Cucumber Varieties"
+    ]
+  },
+  {
+    "slug": "telegraph-pea",
+    "common_name": "Telegraph Pea (1870s English Heirloom Climbing Shelling Pea, Ancestor of Telephone/Alderman)",
+    "scientific_name": "Pisum sativum 'Telegraph'",
+    "category": "vegetable",
+    "subcategory": "legume",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 40,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 70,
+      "max": 78
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -6,
+        "max": -4
+      },
+      "note": "Direct sow as soon as soil can be worked in late winter to early spring. Telegraph was bred by William Culverwell, gardener to Sir Frederick Milburn of Thorpe Perrow in Yorkshire, England, prior to 1878, and needs a sturdy 6-8 foot trellis for its tall climbing vines."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 2,
+      "max": 4
+    },
+    "height_in": {
+      "min": 48,
+      "max": 72
+    },
+    "spread_in": {
+      "min": 4,
+      "max": 8
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Direct sow 1 inch deep in loose, fertile, well-drained soil in full sun and provide tall trellising for the vigorous climbing vines. Telegraph produces abundant large pods holding 8-9 sweet peas each over a long harvest window. In 1878, James Carter & Co. introduced 'Telephone' as a selection from Culverwell's stock after buying out virtually his entire supply; Culverwell publicly objected in the January 1879 Gardeners' Chronicle to Carters marketing a selection of his own Telegraph under a new name, a dispute that makes Telegraph the documented ancestor of the whole Telephone/Alderman group of tall marrowfat peas still grown today. Do not over-fertilize with nitrogen, since peas fix their own.",
+    "sources": [
+      "The Garden History Blog — 'War and Peas' (Telegraph/Telephone pea history)",
+      "Gardeners' Chronicle (January 1879) — Culverwell correspondence",
+      "The Seed Detective — Heritage Pea Varieties"
+    ]
+  }
+]
