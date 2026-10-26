@@ -1,0 +1,188 @@
+[
+  {
+    "slug": "juglans-cinerea-kenworthy",
+    "common_name": "Kenworthy Butternut (Minnesota Large-Nutted Butternut)",
+    "scientific_name": "Juglans cinerea 'Kenworthy'",
+    "category": "fruit",
+    "subcategory": "nut tree",
+    "days_to_germination": {"min": 90, "max": 180},
+    "germination_soil_temp_f": {"min": 35, "max": 45},
+    "days_to_maturity": {"min": 1460, "max": 2555},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": -4, "max": 2},
+      "note": "Plant grafted trees while still dormant in late winter to early spring, into deep, well-drained soil; Kenworthy is only partially self-fertile, so nut set improves when a second butternut or heartnut is planted nearby."
+    },
+    "usda_zones": {"min": 4, "max": 8},
+    "spacing_in": {"min": 360, "max": 600},
+    "height_in": {"min": 480, "max": 720},
+    "spread_in": {"min": 360, "max": 480},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Kenworthy is a Minnesota-origin butternut selection grown for unusually large, oblong, deeply ridged nuts that still crack easily and give up a high proportion of mild, buttery-sweet kernel compared to many older named butternut cultivars. The tree is a moderately productive, smaller-growing butternut with good natural tolerance to walnut leaf blotch and tends to bear stable, regular crops rather than the boom-and-bust cycles common in the species. Site it in deep, well-drained soil in full sun well away from vegetable beds and other juglone-sensitive plants, and inspect the trunk and branches periodically for canker, since butternut canker disease remains the primary threat to long-term survival.",
+    "sources": [
+      "Agroforestry Research Trust",
+      "Grimo Nut Nursery",
+      "USDA Forest Service — Butternut: An Underused Resource in North America"
+    ]
+  },
+  {
+    "slug": "juglans-cinerea-creighton",
+    "common_name": "Creighton Butternut",
+    "scientific_name": "Juglans cinerea 'Creighton'",
+    "category": "fruit",
+    "subcategory": "nut tree",
+    "days_to_germination": {"min": 90, "max": 180},
+    "germination_soil_temp_f": {"min": 35, "max": 45},
+    "days_to_maturity": {"min": 1460, "max": 2555},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": -4, "max": 2},
+      "note": "Plant grafted trees in late winter to early spring into deep, well-drained soil; pair with a second butternut cultivar with overlapping bloom to improve pollination and nut set."
+    },
+    "usda_zones": {"min": 3, "max": 7},
+    "spacing_in": {"min": 360, "max": 600},
+    "height_in": {"min": 480, "max": 720},
+    "spread_in": {"min": 360, "max": 480},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Creighton is a historic named butternut selection documented in early Northern Nut Growers Association variety trials, carrying a medium-sized nut that actually gives up a higher kernel percentage than many larger-nutted selections like 'Beckwith', even though its smaller overall size gets it overlooked. It is maintained today mainly by specialty nut nurseries and conservation grafting collections working to preserve surviving butternut genetics in the face of butternut canker disease. Grow it in deep, fertile, well-drained soil with full sun and the wide mature spacing a full-size butternut requires, and harvest promptly once husks soften in fall to avoid staining and mold on the ground.",
+    "sources": [
+      "Northern Nut Growers Association Annual Report",
+      "USDA Forest Service — Butternut: An Underused Resource in North America",
+      "Agroforestry Research Trust"
+    ]
+  },
+  {
+    "slug": "corylus-americana-reed",
+    "common_name": "Reed American Hazelnut (Rush x Hall's Giant Hybrid)",
+    "scientific_name": "Corylus americana 'Reed'",
+    "category": "fruit",
+    "subcategory": "nut tree",
+    "days_to_germination": {"min": 90, "max": 180},
+    "germination_soil_temp_f": {"min": 35, "max": 50},
+    "days_to_maturity": {"min": 730, "max": 1460},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": -2, "max": 4},
+      "note": "Plant container-grown or bare-root plants in spring in well-drained soil in full sun to partial shade; grow at least one genetically distinct hazelnut nearby, since Reed is wind-pollinated and not self-fertile."
+    },
+    "usda_zones": {"min": 4, "max": 9},
+    "spacing_in": {"min": 72, "max": 120},
+    "height_in": {"min": 96, "max": 180},
+    "spread_in": {"min": 96, "max": 144},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Reed was released in 1951 by USDA Bureau of Plant Industry breeder C.A. Reed, who crossed the American hazelnut selection 'Rush' with the European hazel clone 'Hall's Giant' to combine native cold-hardiness and disease tolerance with a larger nut than wild Corylus americana typically produces. The resulting multi-stemmed shrub suckers to form a thicket over time and benefits from periodic thinning of old wood to keep the planting productive and easy to harvest. Because hazelnuts shed pollen on the wind rather than relying on insects, plant Reed within about 20 feet of a second, unrelated hazelnut selection for reliable nut set, and net or harvest promptly in late summer to beat wildlife to the crop.",
+    "sources": [
+      "Trees and Shrubs Online (International Dendrology Society)",
+      "USDA National Plant Germplasm System",
+      "Rutgers New Jersey Agricultural Experiment Station — Hazelnut Breeding Program"
+    ]
+  },
+  {
+    "slug": "juglans-nigra-vandersloot",
+    "common_name": "Vandersloot Black Walnut (Pennsylvania Large-Nutted Black Walnut)",
+    "scientific_name": "Juglans nigra 'Vandersloot'",
+    "category": "fruit",
+    "subcategory": "nut tree",
+    "days_to_germination": {"min": null, "max": null},
+    "germination_soil_temp_f": {"min": null, "max": null},
+    "days_to_maturity": {"min": 1460, "max": 2555},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": -8, "max": -2},
+      "note": "Plant a grafted tree while dormant in deep, well-drained soil well away from vegetable beds and other juglone-sensitive plants, giving it the full-size spacing a mature black walnut needs."
+    },
+    "usda_zones": {"min": 4, "max": 9},
+    "spacing_in": {"min": 480, "max": 600},
+    "height_in": {"min": 480, "max": 720},
+    "spread_in": {"min": 480, "max": 600},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Vandersloot is a Pennsylvania-origin black walnut selection prized for a combination of large nut size, heavy kernel weight, and notably good cracking quality compared to many named black walnut cultivars, which tend to trade one trait off against another. Most reference sources also credit it with useful resistance to anthracnose leaf spot, a common fungal disease that can defoliate susceptible black walnuts by late summer and weaken the tree over time, though growers in a few regions report more disease pressure than the official description suggests. Plant a grafted tree in deep, well-drained soil in full sun, keep juglone-sensitive species like tomatoes and blueberries out of the root zone, and expect a decade or more before the tree reaches significant bearing age.",
+    "sources": [
+      "Walnut Council — Black Walnut Cultivars (North Central Forest Experiment Station)",
+      "Northern Nut Growers Association variety notes",
+      "Burnt Ridge Nursery"
+    ]
+  },
+  {
+    "slug": "amelanchier-alnifolia-mandan",
+    "common_name": "Mandan Saskatoon (Serviceberry)",
+    "scientific_name": "Amelanchier alnifolia 'Mandan'",
+    "category": "berry",
+    "subcategory": "saskatoon serviceberry",
+    "days_to_germination": {"min": null, "max": null},
+    "germination_soil_temp_f": {"min": null, "max": null},
+    "days_to_maturity": {"min": 1095, "max": 1460},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 3},
+      "note": "Plant container-grown stock in early spring in full sun on well-drained ground; group two or more plants together, since fruit set and berry size improve with cross-pollination."
+    },
+    "usda_zones": {"min": 2, "max": 7},
+    "spacing_in": {"min": 72, "max": 96},
+    "height_in": {"min": 72, "max": 120},
+    "spread_in": {"min": 60, "max": 96},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Mandan is a named saskatoon selection grown as a dense, suckering multi-stemmed shrub valued for large, full-flavored berries that ripen together in midsummer. White spring flowers attract early pollinators and are followed by heavy clusters of blue-purple fruit that can be picked by the handful once fully colored. Renewal-prune a portion of the oldest canes out each winter to keep the clump vigorous and to make the ripening fruit easier to reach at harvest.",
+    "sources": [
+      "Agroforestry Research Trust",
+      "North Dakota State University Extension — Juneberry (Saskatoon or Serviceberry)",
+      "University of Saskatchewan Fruit Program"
+    ]
+  },
+  {
+    "slug": "amelanchier-alnifolia-jb-30",
+    "common_name": "JB-30 Saskatoon (Serviceberry)",
+    "scientific_name": "Amelanchier alnifolia 'JB-30'",
+    "category": "berry",
+    "subcategory": "saskatoon serviceberry",
+    "days_to_germination": {"min": null, "max": null},
+    "germination_soil_temp_f": {"min": null, "max": null},
+    "days_to_maturity": {"min": 1095, "max": 1460},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 3},
+      "note": "Plant container-grown stock in early spring in full sun on well-drained ground; while partly self-fertile, yields are heaviest with two or more plants nearby for cross-pollination."
+    },
+    "usda_zones": {"min": 2, "max": 7},
+    "spacing_in": {"min": 60, "max": 84},
+    "height_in": {"min": 120, "max": 144},
+    "spread_in": {"min": 60, "max": 84},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "JB-30 traces back to a wild saskatoon bush that Saskatchewan farmer Jarvis Blushke transplanted from the North Saskatchewan River valley onto his own land, where it stood out enough to later be named for his initials. In University of Saskatchewan field trials it has ranked among the top performers for shoot growth, yield, and fruit size, forming an upright shrub that bears medium-to-large, juicy, blue-purple berries evenly across the cluster in early to midsummer. Give it full sun and well-drained soil with room to reach its mature height, and thin out older canes periodically to maintain strong annual growth.",
+    "sources": [
+      "University of Saskatchewan Fruit Program",
+      "Nutcracker Nursery",
+      "Saskatchewan Ministry of Agriculture"
+    ]
+  }
+]

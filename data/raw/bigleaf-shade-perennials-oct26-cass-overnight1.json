@@ -1,0 +1,56 @@
+[
+  {
+    "slug": "farfugium-japonicum-var-formosanum",
+    "common_name": "Formosan Leopard Plant",
+    "scientific_name": "Farfugium japonicum var. formosanum",
+    "category": "flower",
+    "subcategory": "evergreen shade perennial",
+    "days_to_germination": {"min": null, "max": null},
+    "germination_soil_temp_f": {"min": null, "max": null},
+    "days_to_maturity": {"min": 365, "max": 730},
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 6},
+      "note": "Set container-grown divisions out in spring in humus-rich, evenly moist, well-drained soil in part sun to light or full shade; this wild botanical variety tolerates more light than typical leopard plant because it naturally grows in open grassy sites in Taiwan rather than deep forest."
+    },
+    "usda_zones": {"min": 7, "max": 10},
+    "spacing_in": {"min": 18, "max": 24},
+    "height_in": {"min": 10, "max": 16},
+    "spread_in": {"min": 24, "max": 36},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "This is the wild Taiwanese botanical variety behind several named leopard plant selections, distinguished from typical Farfugium japonicum by smaller, thicker, more sharply lobed and toothed leaves rather than the broad rounded foliage of the species. Clusters of bright yellow daisy-like flowers rise on stiff stalks in autumn, extending bloom well past most other shade perennials. Because it comes from open grassland habitat rather than closed woodland, it handles brighter exposure than most farfugium and makes a useful bridge plant between sun and shade borders. Give it room to spread into a dense, low, evergreen clump and divide congested stands in spring.",
+    "sources": ["Plant Delights Nursery / Juniper Level Botanic Garden", "Flora of Taiwan"]
+  },
+  {
+    "slug": "petasites-spurius",
+    "common_name": "Sand Butterbur",
+    "scientific_name": "Petasites spurius",
+    "category": "flower",
+    "subcategory": "shade perennial",
+    "days_to_germination": {"min": 14, "max": 28},
+    "germination_soil_temp_f": {"min": 50, "max": 65},
+    "days_to_maturity": {"min": 365, "max": 730},
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Divide rhizomes in early spring and plant into loose, sandy or gravelly soil that stays moist at depth; this riverbank and dune species is more tolerant of lean, fast-draining ground than other butterburs but still prefers a cool, lightly shaded site."
+    },
+    "usda_zones": {"min": 4, "max": 8},
+    "spacing_in": {"min": 24, "max": 36},
+    "height_in": {"min": 8, "max": 16},
+    "spread_in": {"min": 30, "max": 60},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Sand butterbur is native to sandy and gravelly river banks and coastal dunes of central and northern Europe, where its wide-ranging rhizomes help stabilize loose, disturbed ground. Clusters of small whitish to pale yellow flowers appear on stout stalks before the large, triangular, grey-green leaves expand to full size over the following weeks. It is less dependent on constant bog-level moisture than Petasites hybridus or albus, tolerating drier, looser soils once established, though it still colonizes most vigorously in cool, lightly shaded, moisture-retentive sites. Use it for naturalizing on slopes, stream edges, or other informal areas where its running habit and bold foliage are an asset rather than a problem.",
+    "sources": ["Flora Europaea", "Royal Horticultural Society"]
+  }
+]

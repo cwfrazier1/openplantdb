@@ -1,0 +1,83 @@
+[
+  {
+    "slug": "convallaria-montana",
+    "common_name": "American Lily-of-the-Valley",
+    "scientific_name": "Convallaria montana",
+    "category": "flower",
+    "subcategory": "native woodland groundcover",
+    "days_to_germination": {"min": null, "max": null},
+    "germination_soil_temp_f": {"min": null, "max": null},
+    "days_to_maturity": {"min": 365, "max": 730},
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Set rhizome divisions shallowly in spring or fall into humus-rich, calcium-enriched cove soil under full canopy; this Southern Appalachian native is distinct from the widely sold Eurasian Convallaria majalis and spreads more slowly, so allow several seasons for a solid colony to form."
+    },
+    "usda_zones": {"min": 4, "max": 8},
+    "spacing_in": {"min": 10, "max": 15},
+    "height_in": {"min": 6, "max": 10},
+    "spread_in": {"min": 12, "max": 24},
+    "sun": "shade",
+    "water": "moderate",
+    "directions": "American lily-of-the-valley is a true Southern Appalachian cove-forest native, found on the rich, nutrient-laden slopes of the Blue Ridge and Smokies rather than in the disturbed ground where its European relative naturalizes. It forms low colonies of broad, paired leaves and nodding white bell flowers in late spring, followed by orange-red berries that persist into summer. Give it the deep, undisturbed leaf-litter shade and calcium-rich, well-drained loam of a mature cove forest floor, and avoid the aggressive spread typical of the common garden species. Division in early spring before leaf-out is the most reliable way to establish new colonies.",
+    "sources": ["Flora of the Southeastern United States (Weakley)", "USDA PLANTS Database", "Southern Appalachian Highlands Conservancy"]
+  },
+  {
+    "slug": "carex-purpurifera",
+    "common_name": "Purple Sedge",
+    "scientific_name": "Carex purpurifera",
+    "category": "flower",
+    "subcategory": "native shade groundcover sedge",
+    "days_to_germination": {"min": 21, "max": 45},
+    "germination_soil_temp_f": {"min": 55, "max": 65},
+    "days_to_maturity": {"min": 180, "max": 365},
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Set divisions in spring into moist, calcium-rich, humus-heavy soil under deep shade; purple sedge is a calciphile found on rich cove and basic-mesic forest slopes and performs poorly in acidic or dry garden soils."
+    },
+    "usda_zones": {"min": 5, "max": 8},
+    "spacing_in": {"min": 10, "max": 14},
+    "height_in": {"min": 6, "max": 10},
+    "spread_in": {"min": 10, "max": 14},
+    "sun": "shade",
+    "water": "moderate",
+    "directions": "Purple sedge is a small, clump-forming woodland sedge named for the purplish tinge at the base of its narrow, blue-green leaves, and it is one of the more faithful indicator species of calcium-rich cove and mesic forest in the Southern Appalachians. It stays compact and non-aggressive, making it a good small-scale textural filler between spring ephemerals and later-emerging wildflowers without competing for space. It needs consistently moist, humus-rich, mineral-laden soil and deep shade to thrive, closely mimicking the limestone- or calcareous-shale-influenced coves where it grows wild. Clean up old foliage in late winter and divide congested clumps every few years to maintain vigor.",
+    "sources": ["USDA PLANTS Database", "Flora of the Southeastern United States (Weakley)", "Illinois Wildflowers"]
+  },
+  {
+    "slug": "carex-gracilescens",
+    "common_name": "Slender Woodland Sedge",
+    "scientific_name": "Carex gracilescens",
+    "category": "flower",
+    "subcategory": "native shade sedge",
+    "days_to_germination": {"min": 21, "max": 45},
+    "germination_soil_temp_f": {"min": 55, "max": 68},
+    "days_to_maturity": {"min": 180, "max": 365},
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Plant divisions in spring in rich, consistently moist woodland soil under full canopy shade; slender woodland sedge is characteristic of nutrient-rich cove forest understory and spreads gently by short rhizomes into loose drifts."
+    },
+    "usda_zones": {"min": 4, "max": 8},
+    "spacing_in": {"min": 10, "max": 14},
+    "height_in": {"min": 8, "max": 14},
+    "spread_in": {"min": 10, "max": 16},
+    "sun": "shade",
+    "water": "moderate",
+    "directions": "Slender woodland sedge forms airy, fine-textured tufts of narrow, arching leaves that give it a softer, more graceful look than coarser woodland sedges, making it a good companion planted beneath trilliums, wild ginger, and other spring ephemerals once they go dormant. It is a reliable indicator of the deep, rich, well-drained loam found on Southern Appalachian cove slopes, and it struggles in compacted or nutrient-poor soils. Once established it needs little upkeep beyond an annual tidy of old leaves in late winter and occasional division of crowded clumps. It remains an uncommon offering but is increasingly available through specialty native-plant growers supplying the Appalachian regional trade.",
+    "sources": ["USDA PLANTS Database", "Flora of the Southeastern United States (Weakley)", "Toadshade Wildflower Farm"]
+  }
+]

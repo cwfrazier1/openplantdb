@@ -1,0 +1,83 @@
+[
+  {
+    "slug": "diospyros-virginiana-i-115",
+    "common_name": "I-115 American Persimmon",
+    "scientific_name": "Diospyros virginiana 'I-115'",
+    "category": "fruit",
+    "subcategory": "american persimmon",
+    "days_to_germination": {"min": null, "max": null},
+    "germination_soil_temp_f": {"min": null, "max": null},
+    "days_to_maturity": {"min": 1460, "max": 2190},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Plant grafted bare-root or container trees in spring in full sun on deep, well-drained soil; stake young trees and keep the root zone weed-free while the slow-growing taproot establishes."
+    },
+    "usda_zones": {"min": 5, "max": 9},
+    "spacing_in": {"min": 180, "max": 300},
+    "height_in": {"min": 240, "max": 480},
+    "spread_in": {"min": 180, "max": 300},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "I-115 is a James Claypool introduction and one of the earliest-ripening named American persimmon selections, recommended in University of Kentucky Extension guides alongside 'Dollywood' and the 100-series clones for fruit with few or no dark seed specks. Like other hexaploid Diospyros virginiana selections, it bears small round orange fruit that stays firm and strongly astringent on the tree until repeated fall frosts soften it into something sweet and custard-like. Because seedlings rarely reproduce a parent tree's qualities, growers propagate I-115 by grafting it onto seedling persimmon rootstock. Give it full sun and well-drained soil and expect several years of establishment before the first fruit, as is typical for the species.",
+    "sources": ["University of Kentucky Cooperative Extension (CCD-CP-1, American Persimmon)", "Fruitwood Nursery"]
+  },
+  {
+    "slug": "diospyros-virginiana-sugar-bear",
+    "common_name": "Sugar Bear American Persimmon",
+    "scientific_name": "Diospyros virginiana 'Sugar Bear'",
+    "category": "fruit",
+    "subcategory": "american persimmon",
+    "days_to_germination": {"min": null, "max": null},
+    "germination_soil_temp_f": {"min": null, "max": null},
+    "days_to_maturity": {"min": 1460, "max": 2190},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Plant grafted trees in spring in full sun; pair with another known tetraploid persimmon selection rather than a typical hexaploid cultivar if reliable cross-pollination matters to you."
+    },
+    "usda_zones": {"min": 5, "max": 9},
+    "spacing_in": {"min": 180, "max": 300},
+    "height_in": {"min": 240, "max": 480},
+    "spread_in": {"min": 180, "max": 300},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Sugar Bear is one of only a handful of confirmed tetraploid American persimmon selections, alongside 'Ennis Seedless', 'Weeping', and 'SFES', in a species where flow-cytometry studies have found the great majority of named cultivars to be hexaploid. Its differing chromosome count means it should not be counted on to cross-pollinate typical hexaploid cultivars, so growers who want reliable fruit set pair it with other known tetraploid trees. Like other native persimmon selections, the fruit needs a full chilling and softening period after frost before it loses its astringency and turns sweet. The tree shares the species' broad tolerance of heat, drought, and poor soil once established.",
+    "sources": ["HortScience 55(1):4-8, Ploidy Level in American Persimmon Cultivars", "Southern Adventist University Arboretum"]
+  },
+  {
+    "slug": "diospyros-virginiana-gateway",
+    "common_name": "Gateway American Persimmon",
+    "scientific_name": "Diospyros virginiana 'Gateway'",
+    "category": "fruit",
+    "subcategory": "american persimmon",
+    "days_to_germination": {"min": null, "max": null},
+    "germination_soil_temp_f": {"min": null, "max": null},
+    "days_to_maturity": {"min": 1460, "max": 2190},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Plant grafted trees in spring in full sun on well-drained soil; allow plenty of room, since native persimmon seedlings and grafted selections alike grow into substantial shade trees over time."
+    },
+    "usda_zones": {"min": 5, "max": 9},
+    "spacing_in": {"min": 180, "max": 300},
+    "height_in": {"min": 240, "max": 480},
+    "spread_in": {"min": 180, "max": 300},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Gateway is a wild American persimmon selection discovered by Mississippi fruit explorer Taylor Yowell and now propagated by a handful of specialty fruit nurseries as scionwood and grafted trees. As with most native persimmon introductions, it began as a wild seedling tree chosen for desirable fruit and is grafted onto seedling rootstock to keep those qualities true, since fruit size, ripening date, and sex vary widely among seedling persimmons. Because the species is normally dioecious, a male tree or a known self-fertile cultivar should be planted nearby to ensure a dependable crop. Established trees tolerate a wide range of soils with minimal care once past the slow early establishment period typical of persimmons.",
+    "sources": ["Fruitwood Nursery", "The Garden Farmacy (Taylor Yowell)", "Madison Citrus Nursery"]
+  }
+]
