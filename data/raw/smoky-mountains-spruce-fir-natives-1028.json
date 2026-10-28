@@ -1,0 +1,56 @@
+[
+  {
+    "slug": "betula-cordifolia",
+    "common_name": "Mountain Paper Birch",
+    "scientific_name": "Betula cordifolia",
+    "category": "flower",
+    "subcategory": "native specimen tree",
+    "days_to_germination": {"min": 14, "max": 30},
+    "germination_soil_temp_f": {"min": 50, "max": 65},
+    "days_to_maturity": {"min": 3650, "max": 7300},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 2, "max": 5},
+      "note": "Plant container-grown trees in early spring in cool, moist, acidic soil; this high-elevation birch needs consistently cool summer conditions and struggles badly below about 3,500 feet in the southern part of its range."
+    },
+    "usda_zones": {"min": 3, "max": 6},
+    "spacing_in": {"min": 180, "max": 300},
+    "height_in": {"min": 240, "max": 600},
+    "spread_in": {"min": 180, "max": 300},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Mountain Paper Birch is a smaller, often gnarled relative of paper birch restricted to subalpine ridges and high-elevation forest margins from New England into the Southern Appalachians, where it grows alongside red spruce and Fraser fir at the upper edge of the spruce-fir zone on peaks such as Mitchell and Roan. Its heart-shaped leaf bases (the source of the species name) and duller, more reddish-bronze exfoliating bark distinguish it from true paper birch, and at the highest, wind-scoured elevations it takes on a stunted, krummholz-like form. It is a specialty choice for cool mountain gardens and botanical collections rather than general landscape use, since it fails quickly in summer heat or at low elevation. Give it consistently cool, moist, acidic soil and protection from drought while young; established trees need little care beyond occasional removal of storm-damaged branches.",
+    "sources": ["USDA PLANTS Database", "Flora of North America", "Native Plant Trust — Go Botany"]
+  },
+  {
+    "slug": "carex-brunnescens",
+    "common_name": "Brownish Sedge",
+    "scientific_name": "Carex brunnescens",
+    "category": "flower",
+    "subcategory": "native woodland groundcover",
+    "days_to_germination": {"min": 30, "max": 60},
+    "germination_soil_temp_f": {"min": 50, "max": 65},
+    "days_to_maturity": {"min": 365, "max": 730},
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Plant plugs or divisions in spring in cool, moist, acidic, humus-rich soil in shade; this fine-textured boreal sedge needs consistently cool conditions and is best suited to high-elevation or northern gardens rather than hot lowland sites."
+    },
+    "usda_zones": {"min": 2, "max": 6},
+    "spacing_in": {"min": 8, "max": 12},
+    "height_in": {"min": 6, "max": 14},
+    "spread_in": {"min": 10, "max": 14},
+    "sun": "shade",
+    "water": "moderate",
+    "directions": "Brownish Sedge is a small, loosely tufted sedge of cool coniferous forest floors and mossy banks across boreal North America, reaching its southern limit in disjunct, high-elevation stands within red spruce-Fraser fir forest in the Southern Appalachians. Its fine, wiry, pale-green leaves and small, dense, brownish flower spikes give it a soft, unobtrusive texture well suited to carpeting the shaded floor beneath conifers alongside mosses and ferns. It depends on the same cool, acidic, consistently moist duff that supports its spruce-fir companions and does not persist in warm or dry garden settings away from mountain or far-northern climates. Grow it as a textural groundcover in a shaded conifer garden or native plant collection, dividing congested clumps in spring if denser coverage is wanted.",
+    "sources": ["USDA PLANTS Database", "Flora of North America", "Native Plant Trust — Go Botany"]
+  }
+]

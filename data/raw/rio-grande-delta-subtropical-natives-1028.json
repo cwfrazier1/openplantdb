@@ -1,0 +1,83 @@
+[
+  {
+    "slug": "fraxinus-berlandieriana-mexican-ash",
+    "common_name": "Mexican Ash (Berlandier Ash)",
+    "scientific_name": "Fraxinus berlandieriana",
+    "category": "flower",
+    "subcategory": "native riparian tree",
+    "days_to_germination": {"min": 60, "max": 180},
+    "germination_soil_temp_f": {"min": 50, "max": 70},
+    "days_to_maturity": {"min": 1095, "max": 2190},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Plant container-grown trees in spring along a resaca bank, ditch, or low spot that floods occasionally; this ash handles both periodic standing water and long dry spells once its roots are established."
+    },
+    "usda_zones": {"min": 8, "max": 10},
+    "spacing_in": {"min": 300, "max": 480},
+    "height_in": {"min": 360, "max": 600},
+    "spread_in": {"min": 240, "max": 420},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Mexican ash lines the resacas and river bottoms of the Lower Rio Grande Valley and ranges south into northeastern Mexico, forming a lighter-textured, smaller-leaved alternative to the green ash and cedar elm more commonly planted as South Texas shade trees. Its pinnately compound leaves and inconspicuous wind-pollinated flowers give way to small winged samaras, and the tree stays semi-evergreen through mild Gulf Coast winters. It adapts to the clay and caliche soils typical of old river-channel ground, tolerating brief flooding as well as the long dry stretches between resaca rains. Give young trees a season or two of regular watering to establish a deep root system before weaning them to rainfall alone.",
+    "sources": ["USDA PLANTS Database", "Native Plant Society of Texas", "Lady Bird Johnson Wildflower Center"]
+  },
+  {
+    "slug": "melochia-tomentosa-teabush",
+    "common_name": "Teabush (Pyramid Flower, Broomwood)",
+    "scientific_name": "Melochia tomentosa",
+    "category": "flower",
+    "subcategory": "native shrub",
+    "days_to_germination": {"min": 14, "max": 45},
+    "germination_soil_temp_f": {"min": 70, "max": 85},
+    "days_to_maturity": {"min": 180, "max": 365},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 2, "max": 6},
+      "note": "Set out container-grown plants in spring once the soil has warmed, in a lean, well-drained spot in full sun; teabush freezes back hard in cold winters but resprouts from the base where roots survive."
+    },
+    "usda_zones": {"min": 9, "max": 11},
+    "spacing_in": {"min": 36, "max": 48},
+    "height_in": {"min": 24, "max": 48},
+    "spread_in": {"min": 24, "max": 48},
+    "sun": "full",
+    "water": "low",
+    "directions": "Teabush is a low, rounded subshrub of South Texas brushland and resaca margins, carrying soft, velvety, gray-green leaves on slender stems and producing small five-petaled pink to lavender flowers almost continuously in warm weather. It thrives in lean, caliche or sandy soil with sharp drainage and needs little supplemental water once established, making it useful as a filler shrub in a xeric native border or wildlife planting. The long bloom season keeps it steadily visited by small bees and butterflies even through the hottest part of summer. Cut plants back hard after a freeze or in late winter to encourage dense, floriferous new growth.",
+    "sources": ["USDA PLANTS Database", "Native Plant Society of Texas", "Lady Bird Johnson Wildflower Center"]
+  },
+  {
+    "slug": "parkinsonia-texana-texas-paloverde",
+    "common_name": "Texas Paloverde",
+    "scientific_name": "Parkinsonia texana var. texana",
+    "category": "flower",
+    "subcategory": "native shrub tree",
+    "days_to_germination": {"min": 14, "max": 30},
+    "germination_soil_temp_f": {"min": 70, "max": 85},
+    "days_to_maturity": {"min": 730, "max": 1460},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 2, "max": 6},
+      "note": "Scarify seed or set out container stock in spring in well-drained, caliche or clay-loam soil in full sun; this small tree is native to resaca-margin thornscrub of the Lower Rio Grande Valley and tolerates both periodic wet feet and long dry spells once rooted in."
+    },
+    "usda_zones": {"min": 9, "max": 11},
+    "spacing_in": {"min": 96, "max": 180},
+    "height_in": {"min": 96, "max": 180},
+    "spread_in": {"min": 96, "max": 180},
+    "sun": "full",
+    "water": "low",
+    "directions": "Texas paloverde is a thorny, multi-trunked small tree of the resaca flats and thornscrub lowlands of the Lower Rio Grande Valley and adjacent northeastern Mexico, distinguished from the more widely planted retama (Parkinsonia aculeata) by smaller stature and finer, more persistent compound leaflets rather than long drooping rachises. Clusters of small yellow flowers open in spring and after summer rains, drawing bees and other pollinators, followed by flattened seed pods typical of the pea family. It tolerates the clay and caliche soils of old river-channel ground and needs only occasional watering once established, making it a good small specimen or screening tree for a South Texas native planting. Light pruning to a single leader when young produces a tidier small shade tree; left alone it naturally forms a dense, twiggy, wildlife-sheltering thicket.",
+    "sources": ["South Texas Natives (Texas A&M University-Kingsville)", "USDA PLANTS Database", "Native Plant Society of Texas"]
+  }
+]

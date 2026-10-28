@@ -1,0 +1,29 @@
+[
+  {
+    "slug": "campanula-piperi",
+    "common_name": "Olympic Bellflower",
+    "scientific_name": "Campanula piperi",
+    "category": "flower",
+    "subcategory": "alpine rock garden",
+    "days_to_germination": {"min": 21, "max": 60},
+    "germination_soil_temp_f": {"min": 50, "max": 65},
+    "days_to_maturity": {"min": 540, "max": 730},
+    "maturity_from": "seed",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Set out small plants or rooted divisions in spring into a gritty, sharply drained scree or trough mix; seed needs cold stratification and is slow, so most growers start from nursery plugs."
+    },
+    "usda_zones": {"min": 4, "max": 7},
+    "spacing_in": {"min": 6, "max": 10},
+    "height_in": {"min": 2, "max": 4},
+    "spread_in": {"min": 6, "max": 10},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "This cushion-forming alpine is found only on rocky ridges and talus of Washington's Olympic Mountains, where it tucks its toothed leaves into crevices above treeline. In midsummer it produces upturned, deep violet-blue bell flowers held just above the foliage mat, a favorite target for rock garden and trough growers who replicate its native scree with a lean, fast-draining mix of grit and leaf mold. It wants full sun but cool roots, so growers in hot-summer climates often set the crown against a shaded stone to keep it from cooking, and winter wet rather than cold is what typically kills it in cultivation. Division of established clumps after flowering is more reliable than seed for building up stock.",
+    "sources": ["Burke Herbarium", "North American Rock Garden Society", "Washington Native Plant Society"]
+  }
+]

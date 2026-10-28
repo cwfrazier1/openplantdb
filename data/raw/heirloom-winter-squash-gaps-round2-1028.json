@@ -1,0 +1,83 @@
+[
+  {
+    "slug": "upper-ground-sweet-potato-squash",
+    "common_name": "Upper Ground Sweet Potato Squash",
+    "scientific_name": "Cucurbita moschata 'Upper Ground Sweet Potato'",
+    "category": "vegetable",
+    "subcategory": "winter-squash",
+    "days_to_germination": {"min": 5, "max": 10},
+    "germination_soil_temp_f": {"min": 65, "max": 95},
+    "days_to_maturity": {"min": 100, "max": 110},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 0, "max": 2},
+      "note": "Direct sow after last frost in well-drained soil; this moschata heirloom shrugs off Gulf South heat and resists squash vine borer far better than maxima or pepo types, making it a reliable choice where summer squash borer pressure is severe."
+    },
+    "usda_zones": {"min": 3, "max": 11},
+    "spacing_in": {"min": 36, "max": 60},
+    "height_in": {"min": 12, "max": 18},
+    "spread_in": {"min": 120, "max": 180},
+    "sun": "full",
+    "water": "low",
+    "directions": "A rugged Appalachian heirloom with vigorous vines and large, dark green metallic-striped leaves, producing abundant round-to-bell-shaped fruit with tan skin and moist, deep-orange flesh that bakes with a texture and sweetness reminiscent of baked sweet potato. Fruits typically run from a few pounds up to 20 pounds at full maturity, and the plant's tolerance for hot, dry conditions and resistance to vine borers make it notably well suited to Southern gardens where many winter squash struggle. Thomas Jefferson grew and documented a squash matching this description at Monticello in the 1790s, and it is still cultivated there today. Give the long vines plenty of room to run and cure harvested fruit for a few weeks before eating to let the sweetness fully develop.",
+    "sources": ["Thomas Jefferson's Monticello Shop", "Sand Hill Preservation Center"]
+  },
+  {
+    "slug": "choctaw-sweet-potato-squash",
+    "common_name": "Choctaw Sweet Potato Squash",
+    "scientific_name": "Cucurbita moschata 'Choctaw Sweet Potato'",
+    "category": "vegetable",
+    "subcategory": "winter-squash",
+    "days_to_germination": {"min": 7, "max": 10},
+    "germination_soil_temp_f": {"min": 65, "max": 95},
+    "days_to_maturity": {"min": 100, "max": 120},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 0, "max": 2},
+      "note": "Direct sow in hills after all frost danger has passed; this is a long-season, heat-loving moschata type that needs the full length of a Southern summer to size up and cure properly."
+    },
+    "usda_zones": {"min": 3, "max": 11},
+    "spacing_in": {"min": 36, "max": 60},
+    "height_in": {"min": 12, "max": 18},
+    "spread_in": {"min": 120, "max": 180},
+    "sun": "full",
+    "water": "low",
+    "directions": "A large oblong winter squash, known traditionally as isito, preserved within Choctaw Nation of Oklahoma seed-keeping programs and bearing tan-skinned fruit commonly 10-30 pounds, with deep orange flesh prized for a dense, sweet, sweet-potato-like eating quality. Like other moschata-type squash it tends toward strong tolerance of humid summer heat and the pest pressure that plagues maxima and pepo squash in the Deep South, and cured fruit reportedly stores for up to nine months indoors. Vines are vigorous and need substantial room to sprawl; let fruit mature fully on the vine until the skin hardens and dulls before harvest for the best storage life and flavor.",
+    "sources": ["Choctaw Nation of Oklahoma Historic Preservation Department", "Rich Farm Garden Seeds"]
+  },
+  {
+    "slug": "ayote-green-flesh-squash",
+    "common_name": "Ayote Green Flesh Squash (Guatemalan Green-Fleshed Winter Squash)",
+    "scientific_name": "Cucurbita moschata 'Ayote Green Flesh'",
+    "category": "vegetable",
+    "subcategory": "winter-squash",
+    "days_to_germination": {"min": 7, "max": 14},
+    "germination_soil_temp_f": {"min": 65, "max": 90},
+    "days_to_maturity": {"min": 115, "max": 125},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 0, "max": 2},
+      "note": "Direct sow after last frost and give each hill 8-10 feet of room to sprawl; as a moschata type it tolerates humid Southern heat markedly better than most maxima or pepo winter squash."
+    },
+    "usda_zones": {"min": 3, "max": 11},
+    "spacing_in": {"min": 24, "max": 36},
+    "height_in": {"min": 12, "max": 18},
+    "spread_in": {"min": 96, "max": 120},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "A long-vining Guatemalan heirloom, traditionally grown in highland Mayan communities, bearing modest pear-shaped fruit of around 2.5 to 4 pounds with an unusual olive-green interior rather than the orange flesh typical of most squash. The flesh has a rich, dense sweetness often compared to a well-flavored butternut, with tropical, almost fruity undertones that come through most clearly when the squash is eaten raw or very lightly cooked. Because it is a Cucurbita moschata type, it carries the same strong resistance to vine borers and heat-related disease that makes moschata squash generally more dependable than maxima or pepo types through a long, humid Gulf Coast summer. Give the sprawling vines 8 to 10 feet of space and allow the long 115-125 day season to run its full course for the best flavor development.",
+    "sources": ["Baker Creek Heirloom Seeds", "Experimental Farm Network"]
+  }
+]

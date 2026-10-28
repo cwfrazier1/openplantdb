@@ -1,0 +1,56 @@
+[
+  {
+    "slug": "floerkea-proserpinacoides",
+    "common_name": "False Mermaid-Weed",
+    "scientific_name": "Floerkea proserpinacoides",
+    "category": "flower",
+    "subcategory": "native floodplain spring ephemeral annual",
+    "days_to_germination": {"min": null, "max": null},
+    "germination_soil_temp_f": {"min": 40, "max": 55},
+    "days_to_maturity": {"min": 150, "max": 210},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Direct sow fresh seed onto bare, moist, humus-rich soil in deep shade right after collection in early summer; seed needs a period of summer dormancy followed by cool fall temperatures to germinate, after which tiny rosettes overwinter under leaf litter."
+    },
+    "usda_zones": {"min": 3, "max": 8},
+    "spacing_in": {"min": 3, "max": 6},
+    "height_in": {"min": 2, "max": 6},
+    "spread_in": {"min": 3, "max": 8},
+    "sun": "shade",
+    "water": "high",
+    "directions": "False mermaid-weed is a minute, often-overlooked winter annual restricted almost entirely to the rich, periodically flooded soils of alluvial floodplain and levee forests across the eastern and midwestern United States, where ecologists use it as an indicator of high-quality, undisturbed bottomland habitat. Seed germinates in autumn as temperatures cool, producing a tiny rosette of finely divided, three-parted leaves that overwinters beneath fallen leaves and then grows rapidly each spring, often carpeting the floodplain floor in a soft green haze before the tree canopy leafs out. The inconspicuous greenish-white flowers are largely self-pollinating and give way to seed by late spring, after which the entire plant withers and disappears for the year, completing its cycle before summer heat and flooding return. Because it has almost no ornamental presence, it is grown chiefly in native floodplain restoration plantings and woodland-floor seed mixes rather than conventional borders, and performs best left undisturbed to self-sow into deep leaf litter.",
+    "sources": ["USDA PLANTS Database", "Illinois Wildflowers (Dr. John Hilty)", "Flora of North America"]
+  },
+  {
+    "slug": "elymus-riparius",
+    "common_name": "Riverbank Wild Rye",
+    "scientific_name": "Elymus riparius",
+    "category": "flower",
+    "subcategory": "native shade grass",
+    "days_to_germination": {"min": 14, "max": 30},
+    "germination_soil_temp_f": {"min": 50, "max": 65},
+    "days_to_maturity": {"min": 90, "max": 120},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {"min": -8, "max": -4},
+      "note": "Direct sow seed in fall (preferred for natural stratification) in moist, fertile soil in partial to full shade; riverbank wild rye tolerates deeper shade and wetter soil than most native grasses, making it well suited to forested streambanks and levees."
+    },
+    "usda_zones": {"min": 3, "max": 8},
+    "spacing_in": {"min": 18, "max": 30},
+    "height_in": {"min": 24, "max": 48},
+    "spread_in": {"min": 18, "max": 24},
+    "sun": "partial",
+    "water": "high",
+    "directions": "Riverbank wild rye is a shade-tolerant, cool-season bunchgrass native to the margins of rivers and streams throughout eastern and central North America, where it helps anchor the shifting, periodically scoured soils of natural levees and floodplain forest edges alongside sycamore and river birch. It is distinguished from its more sun-tolerant relative Virginia wild rye by its longer-awned, more loosely nodding seed spikes, which arch gracefully atop two- to four-foot stems from mid to late summer above narrow, dark green leaves. Because it tolerates both deep shade and periodic flooding, it is a useful choice for stabilizing shaded streambanks and floodplain restoration plantings where few other grasses persist. Divide congested clumps in early spring if vigor declines after several seasons.",
+    "sources": ["USDA PLANTS Database", "Illinois Wildflowers (Dr. John Hilty)", "Flora of North America"]
+  }
+]

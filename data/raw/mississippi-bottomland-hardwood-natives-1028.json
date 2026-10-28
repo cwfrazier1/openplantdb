@@ -1,0 +1,56 @@
+[
+  {
+    "slug": "triadenum-walteri",
+    "common_name": "Greater Marsh St. John's-Wort",
+    "scientific_name": "Triadenum walteri",
+    "category": "flower",
+    "subcategory": "native wetland-margin perennial",
+    "days_to_germination": {"min": 21, "max": 45},
+    "germination_soil_temp_f": {"min": 60, "max": 70},
+    "days_to_maturity": {"min": 365, "max": 730},
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Set divisions or plugs in spring into saturated to shallowly flooded, acidic soil in the dappled shade of a bottomland planting; mulch with leaf litter to mimic the swamp-floor conditions it needs."
+    },
+    "usda_zones": {"min": 6, "max": 9},
+    "spacing_in": {"min": 12, "max": 18},
+    "height_in": {"min": 12, "max": 30},
+    "spread_in": {"min": 12, "max": 18},
+    "sun": "shade",
+    "water": "high",
+    "directions": "Greater marsh St. John's-wort is the shade-tolerant member of its genus, growing naturally in the standing water and deep leaf litter of bottomland hardwood swamps and cypress-tupelo flats across the lower Mississippi Alluvial Valley and southeastern coastal plain, where it persists in far less light than its sun-loving relatives. Slender upright stems carry pairs of blue-green leaves and open small salmon-pink, five-petaled flowers for a few hours on summer afternoons, a subtle but welcome bloom in deep swamp shade. It is best suited to the saturated, shaded margins of a woodland rain garden or constructed bog rather than a typical sunny perennial bed, and spreads slowly by rhizome to form loose colonies without becoming aggressive. Divide clumps only occasionally, as it resents disturbance and reestablishes slowly after transplanting.",
+    "sources": ["USDA PLANTS Database", "Flora of North America", "Mississippi State University Extension"]
+  },
+  {
+    "slug": "carex-decomposita",
+    "common_name": "Log Sedge",
+    "scientific_name": "Carex decomposita",
+    "category": "flower",
+    "subcategory": "native wetland sedge",
+    "days_to_germination": {"min": 30, "max": 60},
+    "germination_soil_temp_f": {"min": 55, "max": 70},
+    "days_to_maturity": {"min": 365, "max": 730},
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Set divisions in spring directly onto a partially submerged rotting log, stump, or hummock in standing water, or into a saturated shaded pond margin; this sedge naturally roots into decaying wood rather than ordinary garden soil."
+    },
+    "usda_zones": {"min": 5, "max": 9},
+    "spacing_in": {"min": 10, "max": 15},
+    "height_in": {"min": 8, "max": 18},
+    "spread_in": {"min": 10, "max": 15},
+    "sun": "partial",
+    "water": "high",
+    "directions": "Log sedge is one of the most distinctive sedges of bottomland hardwood swamps, growing almost exclusively as a tussock perched on half-submerged rotting logs, cypress knees, and stumps within permanently flooded swamp forest across scattered sites in the Mississippi Alluvial Valley and eastern United States. Its arching, grass-like foliage and inconspicuous brownish seedheads make it more a curiosity for the water-garden enthusiast than a showy border plant, best displayed by anchoring a division onto a partly sunken log in a shaded pond or bog feature. Because natural populations are uncommon and considered vulnerable in much of its range, cultivated divisions from a specialty native nursery are strongly preferable to any wild-collected material. Once established on its woody perch it needs little attention beyond keeping the water level from dropping below the log's surface.",
+    "sources": ["USDA PLANTS Database", "Flora of North America", "NatureServe"]
+  }
+]

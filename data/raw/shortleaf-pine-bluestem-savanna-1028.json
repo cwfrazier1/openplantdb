@@ -1,0 +1,56 @@
+[
+  {
+    "slug": "heterotheca-camporum",
+    "common_name": "Prairie Golden Aster (Camphorweed)",
+    "scientific_name": "Heterotheca camporum",
+    "category": "flower",
+    "subcategory": "native glade and savanna perennial",
+    "days_to_germination": {"min": 14, "max": 30},
+    "germination_soil_temp_f": {"min": 60, "max": 75},
+    "days_to_maturity": {"min": 90, "max": 150},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {"min": -8, "max": -2},
+      "note": "Direct sow in fall into lean, dry, rocky or sandy, well-drained soil in full sun; seed cold-stratifies naturally over winter and this species resents rich, moist garden conditions."
+    },
+    "usda_zones": {"min": 5, "max": 9},
+    "spacing_in": {"min": 12, "max": 18},
+    "height_in": {"min": 12, "max": 36},
+    "spread_in": {"min": 12, "max": 18},
+    "sun": "full",
+    "water": "low",
+    "directions": "Prairie golden aster is centered on the Ozark and Ouachita highlands and the middle Mississippi Valley, where it grows in dry limestone and sandstone glades, rocky open woods, and the grassy understory of shortleaf pine-bluestem savanna alongside little bluestem. From midsummer into fall it carries a loose profusion of small, bright yellow daisy flowers on wiry, branching stems rising from a woody base, feeding a wide range of small native bees and other pollinators. It depends on periodic fire or mowing to keep competing woody brush and leaf litter from shading it out, just as it would in a burned pine-bluestem woodland, and otherwise asks for nothing beyond sharp drainage and poor, lean soil. Once established on a dry, open, sunny site it is long-lived and needs no supplemental watering or fertilizing.",
+    "sources": ["Missouri Botanical Garden Plant Finder", "USDA PLANTS Database", "Illinois Wildflowers"]
+  },
+  {
+    "slug": "solidago-radula",
+    "common_name": "Western Rough Goldenrod",
+    "scientific_name": "Solidago radula",
+    "category": "flower",
+    "subcategory": "native glade and savanna perennial",
+    "days_to_germination": {"min": 14, "max": 28},
+    "germination_soil_temp_f": {"min": 55, "max": 70},
+    "days_to_maturity": {"min": 90, "max": 150},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {"min": -8, "max": -4},
+      "note": "Direct sow in fall for natural cold stratification into dry, rocky or sandy, well-drained soil in full sun; established clumps resent heavy, poorly drained clay."
+    },
+    "usda_zones": {"min": 5, "max": 9},
+    "spacing_in": {"min": 12, "max": 18},
+    "height_in": {"min": 12, "max": 36},
+    "spread_in": {"min": 12, "max": 18},
+    "sun": "full",
+    "water": "low",
+    "directions": "Western rough goldenrod ranges across the southern Great Plains and middle Mississippi Valley into the Ozark and Ouachita highlands of Arkansas, Oklahoma, and Missouri, where it grows in open rocky glades, dry gravelly woods, and the fire-maintained grassy ground layer of shortleaf pine-bluestem savanna. Its common name comes from the harshly sandpapery texture of its scabrous leaves, a trait shared with several other dry-site goldenrods, and in late summer into fall it produces branching, somewhat one-sided clusters of small yellow flower heads on upright stems. Like other glade and savanna goldenrods it depends on sun and periodic fire or brush removal to keep it from being shaded out by encroaching woody growth, and it thrives in lean, fast-draining soils where richer garden perennials struggle. It is an important late-season nectar source for native bees and other pollinators and, once established, needs no irrigation or fertilizing.",
+    "sources": ["Missouri Botanical Garden Plant Finder", "USDA PLANTS Database", "Flora of North America"]
+  }
+]

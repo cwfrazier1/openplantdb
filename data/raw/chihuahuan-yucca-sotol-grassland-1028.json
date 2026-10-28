@@ -1,0 +1,83 @@
+[
+  {
+    "slug": "mimosa-aculeaticarpa-biuncifera",
+    "common_name": "Catclaw Mimosa (Wait-a-Minute Bush)",
+    "scientific_name": "Mimosa aculeaticarpa var. biuncifera",
+    "category": "flower",
+    "subcategory": "Chihuahuan Desert native shrub",
+    "days_to_germination": {"min": 21, "max": 60},
+    "germination_soil_temp_f": {"min": 65, "max": 80},
+    "days_to_maturity": {"min": 730, "max": 1095},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {"min": -6, "max": -2},
+      "note": "Set out container-grown plants in fall into lean, rocky to caliche soil in full sun; scarify seed before spring sowing since the hard seed coat is slow to take up water in the wild."
+    },
+    "usda_zones": {"min": 7, "max": 10},
+    "spacing_in": {"min": 48, "max": 72},
+    "height_in": {"min": 36, "max": 72},
+    "spread_in": {"min": 36, "max": 72},
+    "sun": "full",
+    "water": "low",
+    "directions": "Catclaw mimosa is a densely branched, semi-evergreen shrub armed with small recurved thorns, common on rocky limestone slopes and bajadas across the Trans-Pecos, southern New Mexico, and Arizona, where it fills the woody-shrub layer of sotol-lechuguilla grassland alongside Dasylirion and Agave rosettes. Rounded, fragrant, pink to lavender pompom flower heads open through warm months and are heavily worked by native bees, followed by flattened, bristly seed pods. Its thorny, twiggy structure provides valuable nesting and escape cover for desert birds and small wildlife, and once rooted in it needs no irrigation beyond natural rainfall. Use it as a barrier planting or wildlife shrub in rocky, caliche xeriscape beds rather than a formal border, since its thorns and informal shape suit naturalistic plantings best.",
+    "sources": ["USDA PLANTS Database", "Chihuahuan Desert Research Institute", "Lady Bird Johnson Wildflower Center"]
+  },
+  {
+    "slug": "parthenium-incanum-mariola",
+    "common_name": "Mariola",
+    "scientific_name": "Parthenium incanum",
+    "category": "flower",
+    "subcategory": "Chihuahuan Desert native shrublet",
+    "days_to_germination": {"min": 14, "max": 30},
+    "germination_soil_temp_f": {"min": 65, "max": 80},
+    "days_to_maturity": {"min": 365, "max": 730},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 6},
+      "note": "Plant container stock in spring into lean, rocky or caliche limestone soil in full sun; sharp drainage is essential since mariola rots quickly in heavy or frequently watered ground."
+    },
+    "usda_zones": {"min": 7, "max": 10},
+    "spacing_in": {"min": 18, "max": 30},
+    "height_in": {"min": 12, "max": 24},
+    "spread_in": {"min": 18, "max": 30},
+    "sun": "full",
+    "water": "low",
+    "directions": "Mariola is a small, rounded, woody-based shrublet with narrow, silvery, felted leaves that give the plant an overall gray-white cast, a classic indicator shrub of rocky limestone grassland and sotol-lechuguilla slopes across the Trans-Pecos, southern New Mexico, and northern Mexico. Clusters of tiny, cream-white flower heads appear from spring through fall, more heavily after rain, and the foliage contains a latex related to that of its relative guayule. Extremely heat and drought tolerant once established, it thrives in the same lean, mineral, fast-draining rocky soils favored by sotol and lechuguilla and needs no supplemental irrigation beyond its first season. Use it as a low-water filler or textural accent among agave and sotol plantings in a rock garden or xeriscape bed.",
+    "sources": ["USDA PLANTS Database", "Chihuahuan Desert Research Institute", "SEINet Arizona-New Mexico Chapter"]
+  },
+  {
+    "slug": "acacia-neovernicosa-viscid-acacia",
+    "common_name": "Viscid Acacia (Chaparro Prieto)",
+    "scientific_name": "Acacia neovernicosa",
+    "category": "flower",
+    "subcategory": "Chihuahuan Desert native shrub",
+    "days_to_germination": {"min": 14, "max": 45},
+    "germination_soil_temp_f": {"min": 70, "max": 85},
+    "days_to_maturity": {"min": 730, "max": 1095},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 6},
+      "note": "Scarify seed and plant container stock in spring into lean, rocky limestone soil in full sun; once rooted in, viscid acacia tolerates extended drought and needs no supplemental watering."
+    },
+    "usda_zones": {"min": 7, "max": 10},
+    "spacing_in": {"min": 36, "max": 60},
+    "height_in": {"min": 24, "max": 48},
+    "spread_in": {"min": 36, "max": 60},
+    "sun": "full",
+    "water": "low",
+    "directions": "Viscid acacia is a low, intricately branched, spine-tipped shrub whose small leaflets are coated in a sticky, resinous varnish, giving the foliage a shiny, tacky feel that distinguishes it from the larger, more familiar catclaw acacia. It is a defining woody component of Chihuahuan Desert limestone grassland and sotol-lechuguilla bajadas across the Trans-Pecos, southern New Mexico, and adjoining Mexico, often growing in close association with Dasylirion and Agave rosettes on thin, rocky soil. Small, pale yellow, ball-shaped flower clusters open after spring and summer rains and draw native bees, followed by slender seed pods. It is extremely heat and drought tolerant and best used as a structural, low-water accent or barrier shrub in rocky xeriscape plantings rather than a tidy formal hedge.",
+    "sources": ["USDA PLANTS Database", "Chihuahuan Desert Research Institute", "SEINet Arizona-New Mexico Chapter"]
+  }
+]

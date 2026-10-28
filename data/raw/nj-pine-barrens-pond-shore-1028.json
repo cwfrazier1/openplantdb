@@ -1,0 +1,56 @@
+[
+  {
+    "slug": "sabatia-kennedyana",
+    "common_name": "Plymouth Gentian (Plymouth Rose-Gentian)",
+    "scientific_name": "Sabatia kennedyana",
+    "category": "flower",
+    "subcategory": "native pond-shore wildflower",
+    "days_to_germination": {"min": 14, "max": 30},
+    "germination_soil_temp_f": {"min": 65, "max": 75},
+    "days_to_maturity": {"min": 90, "max": 180},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Surface-sow seed onto saturated, sandy-peaty, acidic soil at a pond margin or interdunal swale; seeds need light and constant moisture and should not be covered."
+    },
+    "usda_zones": {"min": 5, "max": 8},
+    "spacing_in": {"min": 10, "max": 14},
+    "height_in": {"min": 12, "max": 24},
+    "spread_in": {"min": 10, "max": 14},
+    "sun": "full",
+    "water": "high",
+    "directions": "Plymouth gentian is a true pond-shore specialist with a striking disjunct range spanning Nova Scotia, the kettle ponds of southeastern Massachusetts, a handful of New Jersey Pine Barrens interdunal swales, and separate populations in the Carolinas. Unlike most of its mostly-annual Sabatia relatives it is a true perennial with a persistent woody rootstock, sending up wiry stems topped by large, bright pink, star-shaped flowers with a sharp yellow-and-white eye through midsummer. It needs the same seasonally fluctuating water table found on its native sandy or peaty pond shores — saturated in spring, drier by late summer — and declines quickly if shaded out by taller wetland vegetation. Because so much of its habitat has been lost to pond-shore development, source only nursery-propagated stock from wetland native-plant specialists for a bog garden or constructed pond margin.",
+    "sources": ["USDA PLANTS Database", "NatureServe Explorer", "Native Plant Trust Go Botany", "NJ Pinelands Commission"]
+  },
+  {
+    "slug": "viola-lanceolata",
+    "common_name": "Lance-Leaved Violet (Bog White Violet)",
+    "scientific_name": "Viola lanceolata",
+    "category": "flower",
+    "subcategory": "native bog-edge violet",
+    "days_to_germination": {"min": 30, "max": 60},
+    "germination_soil_temp_f": {"min": 55, "max": 65},
+    "days_to_maturity": {"min": 90, "max": 120},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Set plugs or divisions into damp, sandy, acidic soil along a pond shore or bog-garden margin; this stoloniferous violet needs steady moisture and full to partial sun, unlike most woodland violets."
+    },
+    "usda_zones": {"min": 4, "max": 9},
+    "spacing_in": {"min": 6, "max": 10},
+    "height_in": {"min": 2, "max": 6},
+    "spread_in": {"min": 8, "max": 14},
+    "sun": "partial",
+    "water": "high",
+    "directions": "Lance-leaved violet is immediately recognizable among native violets by its narrow, lance-shaped leaves, a sharp contrast to the heart-shaped foliage of most relatives, and by its preference for open, sunny, damp sand rather than shaded woodland floor. It is a common associate along Pine Barrens pond shores, bog edges, and seasonally wet swales, where small white flowers marked with fine purple veining at the throat rise just above the foliage in mid-spring. Spreading readily by slender stolons into damp, acidic, sandy soil, it forms a low groundcover suited to the saturated margins of a rain garden, pond edge, or constructed bog garden rather than a conventional border. Like other native violets it serves as a larval host plant for several fritillary butterfly species, adding wildlife value beyond its modest, low-growing habit.",
+    "sources": ["USDA PLANTS Database", "Native Plant Trust Go Botany", "Illinois Wildflowers", "Lady Bird Johnson Wildflower Center"]
+  }
+]

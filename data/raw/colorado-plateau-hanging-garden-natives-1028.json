@@ -1,0 +1,56 @@
+[
+  {
+    "slug": "primula-specuicola",
+    "common_name": "Alcove Primrose",
+    "scientific_name": "Primula specuicola",
+    "category": "flower",
+    "subcategory": "Colorado Plateau hanging garden perennial",
+    "days_to_germination": {"min": 30, "max": 90},
+    "germination_soil_temp_f": {"min": 40, "max": 60},
+    "days_to_maturity": {"min": 365, "max": 730},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Sow in fall so seed receives natural winter cold-moist stratification, or hold seed in a damp fridge packet for 4-6 weeks before a spring sowing; keep the seedbed saturated at all times, mimicking the dripping sandstone seep this primrose calls home."
+    },
+    "usda_zones": {"min": 5, "max": 8},
+    "spacing_in": {"min": 6, "max": 10},
+    "height_in": {"min": 3, "max": 8},
+    "spread_in": {"min": 4, "max": 8},
+    "sun": "shade",
+    "water": "high",
+    "directions": "Alcove primrose forms a tight rosette of mealy, pale-dusted leaves tucked into the perpetually wet sandstone alcoves and hanging gardens of the Colorado Plateau in Utah and northern Arizona, sending up short scapes topped with small clusters of magenta-pink, yellow-eyed flowers in spring. It survives only where seep water keeps the rooting crevice constantly saturated, so in cultivation it needs a shaded, humus-poor, sand-and-grit pocket fed by a drip line or a container kept standing in a water tray rather than ordinary garden soil. Give it cool root temperatures and dappled to deep shade year-round, since direct desert sun or any drying-out of the root zone will kill it quickly. Best suited to a dedicated seep or bog-style rock garden feature rather than a mixed perennial bed.",
+    "sources": ["USDA PLANTS Database", "Flora of North America", "Utah Native Plant Society"]
+  },
+  {
+    "slug": "erythranthe-eastwoodiae",
+    "common_name": "Eastwood's Monkeyflower",
+    "scientific_name": "Erythranthe eastwoodiae",
+    "category": "flower",
+    "subcategory": "Colorado Plateau hanging garden perennial",
+    "days_to_germination": {"min": 14, "max": 30},
+    "germination_soil_temp_f": {"min": 55, "max": 70},
+    "days_to_maturity": {"min": 90, "max": 180},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Direct sow onto constantly wet sand or fine grit once spring temperatures warm, pressing seed lightly into the surface; keep saturated rather than merely moist, since this species naturally roots on dripping sandstone faces and will not tolerate any drying between waterings."
+    },
+    "usda_zones": {"min": 5, "max": 9},
+    "spacing_in": {"min": 6, "max": 12},
+    "height_in": {"min": 4, "max": 10},
+    "spread_in": {"min": 8, "max": 18},
+    "sun": "partial",
+    "water": "high",
+    "directions": "Eastwood's monkeyflower (still widely listed under its older name Mimulus eastwoodiae) is a true hanging-garden specialist, trailing its sprawling, hairy stems across the faces of dripping sandstone alcoves in Zion Canyon and the Glen Canyon region and lighting them up with vivid red-orange, trumpet-shaped flowers through summer. Because it clings to vertical seeps rather than rooting in soil, the closest garden equivalent is a shaded, constantly dribbling rock wall, a tufa or sandstone crevice feature plumbed with a drip emitter, or a wide saucer of wet sand kept topped up daily. It spreads modestly by trailing, rooting stems where moisture is dependable but will not persist through any dry spell, so treat it as a specialty water-feature plant rather than a border perennial. Deadheading is unnecessary; spent flowers are quickly replaced as long as the seep keeps running.",
+    "sources": ["USDA PLANTS Database", "Flora of North America", "Utah Native Plant Society"]
+  }
+]

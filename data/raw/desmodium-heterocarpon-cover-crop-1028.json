@@ -1,0 +1,29 @@
+[
+  {
+    "slug": "desmodium-heterocarpon",
+    "common_name": "Florida Carpon Desmodium (Stoloniferous Warm-Season Perennial Cover Legume)",
+    "scientific_name": "Desmodium heterocarpon",
+    "category": "cover-crop",
+    "subcategory": "legume",
+    "days_to_germination": {"min": 14, "max": 30},
+    "germination_soil_temp_f": {"min": 65, "max": 85},
+    "days_to_maturity": {"min": 120, "max": 180},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 4, "max": 10},
+      "note": "Broadcast or drill into a closely grazed or mowed companion grass sod in late spring to early summer once soil has warmed well past the last frost; seedlings establish slowly and need reduced competition for light during their first season."
+    },
+    "usda_zones": {"min": 9, "max": 11},
+    "spacing_in": {"min": 6, "max": 12},
+    "height_in": {"min": 12, "max": 24},
+    "spread_in": {"min": 24, "max": 48},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Florida Carpon Desmodium is a stoloniferous, short-lived perennial tropical legume that spreads by trailing, rooting stems rather than forming a single upright crown, letting it knit into a dense groundcover under partial shade where few other forage or cover legumes persist. University of Florida research identifies it as one of the only perennial, summer-growing, grazing-tolerant herbaceous legumes suited to south Florida pastures, since it regrows reliably from its creeping stems after mowing or close grazing instead of needing reseeding each year. Seedlings establish slowly and compete poorly with vigorous companion grasses, so keep sod closely grazed or mowed through the first season to give young plants enough light, and expect most seasonal growth to occur from summer into early fall. It favors light, well-drained, acidic soils with reliable summer moisture, fixes meaningful nitrogen, and its creeping habit helps stabilize ground and suppress weeds beneath open tree canopies or in mixed grass-legume Gulf Coast pastures.",
+    "sources": ["University of Florida IFAS Extension — Florida Carpon Desmodium (SS-AGR-112)", "Tropical Forages (CIAT/CSIRO/ILRI) — Desmodium heterocarpon", "USDA Natural Resources Conservation Service — Plant Materials Technical Notes"]
+  }
+]

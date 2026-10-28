@@ -1,0 +1,83 @@
+[
+  {
+    "slug": "artemisia-frigida",
+    "common_name": "Fringed Sage (Prairie Sagewort)",
+    "scientific_name": "Artemisia frigida",
+    "category": "flower",
+    "subcategory": "native aromatic subshrub",
+    "days_to_germination": {"min": 14, "max": 30},
+    "germination_soil_temp_f": {"min": 60, "max": 75},
+    "days_to_maturity": {"min": 365, "max": 730},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Scatter seed on bare, well-drained soil in fall and leave it on the surface; winter freeze-thaw cycles provide the cold exposure the tiny seeds need to germinate the following spring."
+    },
+    "usda_zones": {"min": 3, "max": 7},
+    "spacing_in": {"min": 12, "max": 18},
+    "height_in": {"min": 6, "max": 14},
+    "spread_in": {"min": 12, "max": 20},
+    "sun": "full",
+    "water": "low",
+    "directions": "Fringed sage is a low, silvery, aromatic subshrub of the driest, most exposed sites in the aspen parkland and mixed-grass prairie, where it often marks the transition between open grassland and the edges of aspen groves on thin or gravelly soil. Its finely dissected, felted gray foliage persists through winter and releases a sharp sage scent when brushed, while inconspicuous yellow-green flower heads appear on short spikes in late summer and are wind-pollinated rather than showy. Established plants root readily where trailing stems touch soil, letting a single planting slowly knit into a durable, drought-proof mat useful for stabilizing dry slopes or filling gritty rock-garden pockets. It tolerates intense cold, wind, and grazing but resents heavy, wet, or richly fertile soil, where it is quickly outcompeted.",
+    "sources": ["USDA PLANTS Database", "NatureServe", "Lady Bird Johnson Wildflower Center"]
+  },
+  {
+    "slug": "allium-textile",
+    "common_name": "Textile Onion",
+    "scientific_name": "Allium textile",
+    "category": "flower",
+    "subcategory": "native prairie bulb",
+    "days_to_germination": {"min": 21, "max": 45},
+    "germination_soil_temp_f": {"min": 55, "max": 65},
+    "days_to_maturity": {"min": 365, "max": 730},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {"min": 2, "max": 6},
+      "note": "Sow seed in fall into sharply drained, gritty soil and leave undisturbed through winter; a full season of cold dormancy is needed before reliable spring germination."
+    },
+    "usda_zones": {"min": 3, "max": 7},
+    "spacing_in": {"min": 4, "max": 8},
+    "height_in": {"min": 4, "max": 12},
+    "spread_in": {"min": 4, "max": 6},
+    "sun": "full",
+    "water": "low",
+    "directions": "Textile onion is a small, early-blooming wild onion of dry gravelly prairie and open parkland openings from the Dakotas and Saskatchewan west, named for the loosely netted, fibrous outer coat on its bulb. In late spring it sends up a pair of slender, channeled leaves and a single stiff scape topped with a tight umbel of white to pale pink flowers with a darker midvein on each tepal, finishing well before the taller prairie grasses close in around it. The bulbs need sharp drainage and a cold winter dormancy to flower reliably, making it a better fit for a rock garden or gravel bed than a rich perennial border. Once established it slowly naturalizes by seed and offset bulbs without becoming aggressive.",
+    "sources": ["USDA PLANTS Database", "NatureServe", "Flora of North America"]
+  },
+  {
+    "slug": "lathyrus-venosus",
+    "common_name": "Veiny Pea (Wood Pea)",
+    "scientific_name": "Lathyrus venosus",
+    "category": "flower",
+    "subcategory": "native climbing legume",
+    "days_to_germination": {"min": 14, "max": 30},
+    "germination_soil_temp_f": {"min": 60, "max": 70},
+    "days_to_maturity": {"min": 365, "max": 730},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Nick or lightly sand the hard seed coat before a fall sowing so winter moisture can penetrate; plant where trailing tendrils can climb a shrub, fence, or neighboring perennial."
+    },
+    "usda_zones": {"min": 3, "max": 8},
+    "spacing_in": {"min": 12, "max": 24},
+    "height_in": {"min": 18, "max": 36},
+    "spread_in": {"min": 18, "max": 36},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Veiny pea is a sprawling, tendril-climbing legume of brushy aspen-grove margins, thicket edges, and tallgrass openings across the aspen parkland, where it scrambles over neighboring grasses and shrubs rather than standing upright on its own. Dense, one-sided clusters of purple-pink, pea-shaped flowers open from late spring into early summer along the upper stems, with prominently net-veined leaflets giving the species its common name, and root nodules that add nitrogen to the lean soils it favors. It serves as a nectar source and larval host for several native bees and skippers, and works well woven through a native shrub border or along a split-rail fence where its climbing habit has something to grab onto. Established clumps resent transplanting once the deep root system is set, so it is best started where it will stay.",
+    "sources": ["USDA PLANTS Database", "Minnesota Wildflowers", "NatureServe"]
+  }
+]

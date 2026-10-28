@@ -1,0 +1,83 @@
+[
+  {
+    "slug": "brachyelytrum-erectum",
+    "common_name": "Bearded Shorthusk",
+    "scientific_name": "Brachyelytrum erectum",
+    "category": "flower",
+    "subcategory": "native shade ornamental grass",
+    "days_to_germination": {"min": 30, "max": 90},
+    "germination_soil_temp_f": {"min": 50, "max": 65},
+    "days_to_maturity": {"min": 180, "max": 365},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {"min": -8, "max": -2},
+      "note": "Direct sow fresh seed in fall into consistently moist, humus-rich woodland soil in partial to full shade; seed needs a natural winter chilling and should not be allowed to dry out before sowing."
+    },
+    "usda_zones": {"min": 3, "max": 8},
+    "spacing_in": {"min": 12, "max": 18},
+    "height_in": {"min": 12, "max": 36},
+    "spread_in": {"min": 12, "max": 18},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Bearded shorthusk is an unobtrusive, clump-forming native grass of rich sugar maple-basswood and mixed hardwood forests across the Great Lakes region, reaching the western edge of its range in Minnesota; its slender, arching leaf blades and sparse, long-bristled seed heads blend quietly into the forest floor rather than drawing attention the way sun-grown ornamental grasses do. It associates naturally with trilliums, wild ginger, and maidenhair fern beneath a closed deciduous canopy, adding authentic groundlayer texture to a woodland restoration planting without any tendency to spread aggressively. Established clumps are long-lived and need no maintenance beyond leaving fallen leaf litter in place.",
+    "sources": ["Minnesota Wildflowers", "USDA PLANTS Database"]
+  },
+  {
+    "slug": "poa-alsodes",
+    "common_name": "Grove Bluegrass",
+    "scientific_name": "Poa alsodes",
+    "category": "flower",
+    "subcategory": "native shade ornamental grass",
+    "days_to_germination": {"min": 21, "max": 60},
+    "germination_soil_temp_f": {"min": 50, "max": 65},
+    "days_to_maturity": {"min": 180, "max": 365},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {"min": -8, "max": -2},
+      "note": "Direct sow seed in fall into moist to consistently damp, humus-rich woodland soil in partial to full shade; a full winter outdoors breaks seed dormancy for spring germination."
+    },
+    "usda_zones": {"min": 3, "max": 7},
+    "spacing_in": {"min": 10, "max": 16},
+    "height_in": {"min": 12, "max": 40},
+    "spread_in": {"min": 10, "max": 16},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Grove bluegrass is a quiet, cool-season native grass of rich maple-basswood woods, floodplain forests, and shaded seeps across the Great Lakes region, forming soft tufts that blend into the green of the forest floor before the tree canopy fully leafs out. It tolerates damper soil than many woodland grasses, making it useful for the moist, shaded low spots of a native planting where showier wildflowers struggle, and it pairs naturally with sedges, ferns, and spring ephemerals. Established plants persist for years with no care beyond leaving woodland leaf litter undisturbed.",
+    "sources": ["Minnesota Wildflowers", "USDA PLANTS Database"]
+  },
+  {
+    "slug": "galium-concinnum",
+    "common_name": "Shining Bedstraw",
+    "scientific_name": "Galium concinnum",
+    "category": "flower",
+    "subcategory": "shade groundcover perennial",
+    "days_to_germination": {"min": 21, "max": 60},
+    "germination_soil_temp_f": {"min": 55, "max": 65},
+    "days_to_maturity": {"min": 120, "max": 365},
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Transplant divisions in spring into well-drained, humus-rich soil in full to partial shade, siting plants among leaf litter where the wiry stems can thread between taller wildflowers."
+    },
+    "usda_zones": {"min": 4, "max": 8},
+    "spacing_in": {"min": 8, "max": 12},
+    "height_in": {"min": 6, "max": 15},
+    "spread_in": {"min": 12, "max": 24},
+    "sun": "shade",
+    "water": "moderate",
+    "directions": "Shining bedstraw, also called licorice bedstraw, is a fine-textured native groundcover of rich, dry-mesic to mesic deciduous woods across the Great Lakes region and the Ohio and Mississippi River valleys, with narrow leaves held in tidy whorls along square stems and clusters of tiny white, four-petaled flowers in summer. It spreads gently along the ground without rooting aggressively at every node, making it a well-behaved filler at the base of a shaded native planting rather than a groundcover that needs containment. The small bur-like fruits that follow the flowers cling lightly to fur and clothing, a minor nuisance offset by the plant's otherwise unassuming, useful presence in a woodland garden.",
+    "sources": ["USDA PLANTS Database", "Illinois Wildflowers"]
+  }
+]

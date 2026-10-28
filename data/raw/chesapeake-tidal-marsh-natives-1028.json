@@ -1,0 +1,56 @@
+[
+  {
+    "slug": "carex-hyalinolepis",
+    "common_name": "Shoreline Sedge",
+    "scientific_name": "Carex hyalinolepis",
+    "category": "flower",
+    "subcategory": "native tidal wetland sedge",
+    "days_to_germination": {"min": 21, "max": 60},
+    "germination_soil_temp_f": {"min": 55, "max": 70},
+    "days_to_maturity": {"min": 180, "max": 365},
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Plant divisions in spring in heavy, saturated clay or muddy soil at a pond margin, rain garden low point, or tidal-influenced bank in partial shade to full shade."
+    },
+    "usda_zones": {"min": 6, "max": 9},
+    "spacing_in": {"min": 18, "max": 30},
+    "height_in": {"min": 24, "max": 48},
+    "spread_in": {"min": 18, "max": 30},
+    "sun": "partial",
+    "water": "high",
+    "directions": "Shoreline sedge is a coarse, clump-forming native sedge of the Atlantic and Gulf coastal plain that is one of the characteristic dominants of tidal freshwater and oligohaline marshes from the Chesapeake Bay south to the Gulf, often forming broad, nearly solid stands along the muddy banks of tidal creeks and marsh edges where the water rises and falls twice daily. Its broad, arching, blue-green leaf blades and triangular flowering stems tolerate the twice-daily flooding and brief salt exposure typical of these marshes far better than most ornamental sedges, making it a strong choice for a pond margin, bioswale, or rain garden low point that alternates between standing water and exposed mud. Give it consistently wet to saturated, humus-rich or clay soil and partial shade for the lushest growth, though it will take considerably more sun with reliably wet feet; established clumps spread slowly by thick rhizomes to knit together an erosion-resistant bank.",
+    "sources": ["USDA PLANTS Database", "Lady Bird Johnson Wildflower Center", "Flora of the Southeastern United States (FSUS)"]
+  },
+  {
+    "slug": "bolboschoenus-robustus",
+    "common_name": "Seaside Bulrush",
+    "scientific_name": "Bolboschoenus robustus",
+    "category": "flower",
+    "subcategory": "native oligohaline marsh sedge",
+    "days_to_germination": {"min": null, "max": null},
+    "germination_soil_temp_f": {"min": null, "max": null},
+    "days_to_maturity": {"min": 180, "max": 365},
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 6},
+      "note": "Plant rhizome divisions or tubers in spring directly into saturated mud or shallow standing water at a pond edge or marsh-edge rain garden in full sun."
+    },
+    "usda_zones": {"min": 5, "max": 9},
+    "spacing_in": {"min": 18, "max": 30},
+    "height_in": {"min": 24, "max": 60},
+    "spread_in": {"min": 18, "max": 30},
+    "sun": "full",
+    "water": "high",
+    "directions": "Seaside bulrush is a stout, tuber-forming sedge of Atlantic coast brackish and oligohaline tidal marshes, including interior patches of Chesapeake Bay tidal rivers, where it colonizes bare, exposed mud left by tidal flooding and holds the shoreline together with thick rhizomes and underground storage tubers. Triangular stems topped by clustered reddish-brown spikelets rise from the mud through summer, and the abundant seed produced from late summer into fall is an important food source for muskrats, geese, and marsh ducks. It is well suited to a pond margin or rain garden that occasionally sees brackish splash or periodic flooding and exposed mud, conditions that make most other ornamental sedges struggle, and it spreads gradually into loose colonies rather than an aggressive monoculture.",
+    "sources": ["USDA PLANTS Database", "Go Botany (Native Plant Trust)", "VIMS Chesapeake Bay National Estuarine Research Reserve"]
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "slug": "justicia-pilosella",
+    "common_name": "Hairy Tubetongue",
+    "scientific_name": "Justicia pilosella",
+    "category": "flower",
+    "subcategory": "native woodland wildflower",
+    "days_to_germination": {"min": null, "max": null},
+    "germination_soil_temp_f": {"min": null, "max": null},
+    "days_to_maturity": {"min": 180, "max": 365},
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Set divisions or nursery plugs into thin, rocky limestone soil in the dappled to deep shade under oak-juniper canopy; established colonies spread slowly from a semi-woody base and need little care beyond occasional deep watering the first season."
+    },
+    "usda_zones": {"min": 8, "max": 10},
+    "spacing_in": {"min": 12, "max": 18},
+    "height_in": {"min": 6, "max": 14},
+    "spread_in": {"min": 12, "max": 24},
+    "sun": "partial",
+    "water": "low",
+    "directions": "Hairy tubetongue is a low, spreading subshrub-like perennial found tucked into the rocky, leaf-littered floor of oak-juniper woodlands across the Edwards Plateau and South Texas, where it tolerates the dry shade and thin calcareous soil beneath a closed cedar-brake canopy better than most flowering natives. Fuzzy, two-lipped white to pale-lavender tubular flowers appear in flushes from spring through fall, especially after rain, nestled among soft, hairy, gray-green leaves. It is a key larval host plant for the Texas crescent and vesta crescent butterflies, making it a quietly valuable addition to a native woodland-understory planting even though the flowers themselves are modest. Once established in its preferred lean, well-drained limestone soil, it needs no supplemental irrigation and slowly forms a loose colony by rhizomatous spread.",
+    "sources": ["Lady Bird Johnson Wildflower Center", "Native Plant Society of Texas", "USDA PLANTS Database"]
+  },
+  {
+    "slug": "croton-alabamensis-texensis",
+    "common_name": "Texas Croton",
+    "scientific_name": "Croton alabamensis var. texensis",
+    "category": "flower",
+    "subcategory": "native evergreen shrub",
+    "days_to_germination": {"min": null, "max": null},
+    "germination_soil_temp_f": {"min": null, "max": null},
+    "days_to_maturity": {"min": 1095, "max": 1825},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {"min": -2, "max": 4},
+      "note": "Transplant container-grown shrubs into shaded, north-facing limestone slopes beneath an oak-juniper canopy, matching the deep shade and leaf-duff soil of its few known Hill Country canyon sites; water regularly the first year to establish roots in the shallow, rocky ground."
+    },
+    "usda_zones": {"min": 7, "max": 9},
+    "spacing_in": {"min": 60, "max": 96},
+    "height_in": {"min": 72, "max": 120},
+    "spread_in": {"min": 60, "max": 96},
+    "sun": "shade",
+    "water": "low",
+    "directions": "Texas croton is an exceedingly rare evergreen shrub known from only a handful of shaded limestone canyon slopes on the Edwards Plateau, where it grows beneath a closed oak-juniper canopy far denser and darker than the open savanna and grotto sites typical of most Hill Country natives. Its leathery leaves show a distinctive metallic, silvery-bronze scaling on the undersides and new copper-toned growth, giving it year-round textural interest even though its small yellow-green flowers in late winter are inconspicuous. Slow-growing and long-lived, it depends on the deep, moist leaf duff and sheltered microclimate of the cedar brake floor rather than the thin, sun-baked caliche of adjacent savanna. Because of its restricted native range, it is grown primarily as a conservation-minded specimen for native-plant collectors recreating authentic Edwards Plateau woodland-understory conditions.",
+    "sources": ["Lady Bird Johnson Wildflower Center", "Native Plant Society of Texas", "USDA PLANTS Database"]
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "slug": "scutellaria-montana",
+    "common_name": "Large-flowered Skullcap",
+    "scientific_name": "Scutellaria montana",
+    "category": "flower",
+    "subcategory": "native woodland perennial",
+    "days_to_germination": {"min": null, "max": null},
+    "germination_soil_temp_f": {"min": null, "max": null},
+    "days_to_maturity": {"min": 365, "max": 730},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 6},
+      "note": "Plant container-grown nursery stock in spring into a lean, well-drained, slightly acidic site under open deciduous canopy; established clumps need little attention beyond keeping out aggressive neighbors."
+    },
+    "usda_zones": {"min": 6, "max": 8},
+    "spacing_in": {"min": 12, "max": 18},
+    "height_in": {"min": 10, "max": 18},
+    "spread_in": {"min": 12, "max": 20},
+    "sun": "partial",
+    "water": "low",
+    "directions": "A federally threatened mint-family perennial known from a handful of counties in the Cumberland Plateau and adjoining Ridge and Valley province of southeastern Tennessee and northwestern Georgia, where it grows on thin, acidic soils over sandstone and shale on open, undisturbed oak-hickory slopes with little understory competition. In the garden it forms a tidy low clump of softly hairy foliage topped in late spring with upright spikes of inch-long blue-violet, snapdragon-shaped flowers that draw bees. It is naturally drought tolerant once rooted in and performs best in a rock garden or open woodland-edge setting with sharp drainage rather than rich, moist beds; nursery-propagated plants (never wild-collected, given its protected status) are the only appropriate source.",
+    "sources": ["US Fish and Wildlife Service Recovery Plan", "Plant Delights Nursery", "Flora of the Southeastern United States"]
+  },
+  {
+    "slug": "selaginella-rupestris",
+    "common_name": "Ledge Spikemoss",
+    "scientific_name": "Selaginella rupestris",
+    "category": "flower",
+    "subcategory": "native groundcover",
+    "days_to_germination": {"min": null, "max": null},
+    "germination_soil_temp_f": {"min": null, "max": null},
+    "days_to_maturity": {"min": 365, "max": 1095},
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 6},
+      "note": "Set small divisions or rooted mats directly into shallow soil pockets on top of rock or into lean, fast-draining garden soil in spring; avoid burying the wiry stems and keep competing vegetation well back until established."
+    },
+    "usda_zones": {"min": 4, "max": 8},
+    "spacing_in": {"min": 6, "max": 12},
+    "height_in": {"min": 1, "max": 3},
+    "spread_in": {"min": 12, "max": 24},
+    "sun": "full",
+    "water": "low",
+    "directions": "This wiry, moss-like fern relative forms tight, ground-hugging mats on exposed sandstone and granite outcrops across much of North America, including the open flatrocks and barrens of the Cumberland Plateau and Shawnee Hills, and tolerates both acidic and circumneutral rock. During dry spells the curled, scale-like foliage shrivels and turns brown as a drought defense, then uncurls and greens up again within hours of rain, and in winter the mats take on a bronzy-purple cast. It is an excellent, slow-spreading filler for crevices between flagstones, rock garden ledges, and other hot, thin-soil sites where almost nothing else will establish, needing essentially no care beyond keeping it free of fallen leaves and shading seedlings of taller plants.",
+    "sources": ["Flora of North America", "Plant Delights Nursery", "USDA PLANTS Database"]
+  }
+]

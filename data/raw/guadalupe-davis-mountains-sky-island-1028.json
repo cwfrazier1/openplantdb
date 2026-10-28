@@ -1,0 +1,29 @@
+[
+  {
+    "slug": "fraxinus-cuspidata",
+    "common_name": "Fragrant Ash",
+    "scientific_name": "Fraxinus cuspidata",
+    "category": "flower",
+    "subcategory": "native canyon tree",
+    "days_to_germination": {"min": 30, "max": 90},
+    "germination_soil_temp_f": {"min": 60, "max": 75},
+    "days_to_maturity": {"min": 1095, "max": 1825},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {"min": -6, "max": 0},
+      "note": "Sow cleaned samaras in fall after a cold-moist stratification period, or set out container-grown stock in a rocky canyon microsite; this small ash is slow to establish but needs little care once rooted into sharply drained ground."
+    },
+    "usda_zones": {"min": 6, "max": 9},
+    "spacing_in": {"min": 96, "max": 180},
+    "height_in": {"min": 96, "max": 240},
+    "spread_in": {"min": 96, "max": 180},
+    "sun": "partial",
+    "water": "low",
+    "directions": "Fragrant ash is a small, multi-trunked deciduous tree of rocky canyon bottoms and oak-juniper slopes in the Chihuahuan Desert sky islands of the Guadalupe and Davis Mountains, continuing west into southern New Mexico, Arizona, and northern Mexico at elevations roughly between 4,500 and 7,500 feet. Unlike most ashes, whose small greenish flowers go unnoticed, this species opens dense clusters of fragrant white blossoms on bare branches in early spring, followed by tiny, leathery, abruptly pointed leaflets that give the species its name. Plant in gritty, sharply drained, limestone- or igneous-derived soil in a canyon microsite with filtered sun, and withhold summer water once established, since it is adapted to brief flash floods followed by long dry spells rather than regular irrigation. Its small stature and fine texture suit it to a courtyard specimen, dry streambed planting, or understory layer beneath taller canyon oaks and pines.",
+    "sources": ["USDA PLANTS Database", "Flora of North America", "Lady Bird Johnson Wildflower Center"]
+  }
+]

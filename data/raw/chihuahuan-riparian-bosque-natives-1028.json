@@ -1,0 +1,83 @@
+[
+  {
+    "slug": "salix-gooddingii",
+    "common_name": "Goodding's Willow",
+    "scientific_name": "Salix gooddingii",
+    "category": "flower",
+    "subcategory": "native riparian tree",
+    "days_to_germination": {"min": null, "max": null},
+    "germination_soil_temp_f": {"min": null, "max": null},
+    "days_to_maturity": {"min": 1825, "max": 5475},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 6},
+      "note": "Push dormant hardwood cuttings directly into saturated streambank soil or saturated sand bars in late winter to early spring; this willow roots readily wherever its base stays in contact with a permanent or near-permanent water table."
+    },
+    "usda_zones": {"min": 7, "max": 10},
+    "spacing_in": {"min": 300, "max": 600},
+    "height_in": {"min": 240, "max": 600},
+    "spread_in": {"min": 240, "max": 480},
+    "sun": "full",
+    "water": "high",
+    "directions": "Goodding's willow is the dominant large willow tree of the cottonwood-willow bosque along the Rio Grande, Pecos, Gila, and Colorado River systems, typically forming the understory and streambank fringe beneath Rio Grande and Fremont cottonwood canopies. It is a true riparian obligate, needing roots in constantly saturated or very shallow-water-table soil, and declines quickly if the local water table drops or flooding is permanently suppressed. The multi-trunked, often leaning form, narrow willow-green leaves, and fuzzy spring catkins make it an important nesting and foraging tree for southwestern riparian songbirds such as willow flycatchers and yellow-billed cuckoos. Because it propagates almost entirely by rooting broken branches and cuttings along flood-scoured banks, restoration plantings typically use fresh hardwood poles driven directly into moist streambank soil rather than nursery seedlings.",
+    "sources": ["USDA PLANTS Database", "Bosque Ecosystem Monitoring Program, University of New Mexico", "Arizona-Sonora Desert Museum"]
+  },
+  {
+    "slug": "baccharis-neglecta",
+    "common_name": "Roosevelt Weed (False Willow)",
+    "scientific_name": "Baccharis neglecta",
+    "category": "flower",
+    "subcategory": "riparian floodplain shrub",
+    "days_to_germination": {"min": 10, "max": 25},
+    "germination_soil_temp_f": {"min": 65, "max": 75},
+    "days_to_maturity": {"min": 365, "max": 730},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 6},
+      "note": "Set out container plants or rooted cuttings in spring on disturbed, flood-scoured floodplain soil in full sun; this shrub is one of the fastest colonizers of freshly deposited sandbars and bank scars after a flood along desert rivers."
+    },
+    "usda_zones": {"min": 6, "max": 9},
+    "spacing_in": {"min": 36, "max": 72},
+    "height_in": {"min": 72, "max": 144},
+    "spread_in": {"min": 60, "max": 120},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Roosevelt weed is a narrow-leaved, willow-mimicking shrub that pioneers the freshly disturbed sandbars, cutbanks, and gravel bars left behind after floodwaters recede along the Rio Grande, Pecos, and other Chihuahuan Desert rivers, often forming dense colonizing thickets ahead of longer-lived cottonwood and willow seedlings. Its slender, upright, densely clustered stems carry small, cream-white, late-season flower heads that provide a late nectar pulse for bees and butterflies once most desert wildflowers have finished for the year. Established plants tolerate both periodic inundation and the long dry spells between flood pulses that are typical of intermittent desert river hydrology. Because it readily resprouts after being buried, scoured, or cut back by flood debris, it is frequently used in bank stabilization and floodplain restoration plantings in the Southwest.",
+    "sources": ["USDA PLANTS Database", "Lady Bird Johnson Wildflower Center", "Native Plant Society of New Mexico"]
+  },
+  {
+    "slug": "pluchea-sericea",
+    "common_name": "Arrowweed",
+    "scientific_name": "Pluchea sericea",
+    "category": "flower",
+    "subcategory": "riparian floodplain shrub",
+    "days_to_germination": {"min": null, "max": null},
+    "germination_soil_temp_f": {"min": null, "max": null},
+    "days_to_maturity": {"min": 365, "max": 730},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 6},
+      "note": "Plant rooted divisions or cuttings in spring into moist to saturated, often alkaline floodplain soil in full sun; arrowweed spreads on its own by rhizome once a colony is established near a stable water source."
+    },
+    "usda_zones": {"min": 7, "max": 10},
+    "spacing_in": {"min": 36, "max": 72},
+    "height_in": {"min": 36, "max": 108},
+    "spread_in": {"min": 48, "max": 96},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Arrowweed is a rhizomatous, silvery-leaved shrub that forms dense colonial thickets on the damp, often saline or alkaline floodplain flats and old channel terraces bordering the cottonwood-willow bosque of the Rio Grande, Colorado River, and other desert rivers of the Southwest. Its narrow leaves are covered in fine silky hairs that give the whole plant a soft gray-green sheen, and it produces small clusters of pink-purple, thistle-like flower heads mainly in spring and again after summer rains. The straight, slender flowering stems were historically harvested and dried by Indigenous peoples of the Southwest for arrow shafts, basketry, and hut thatching, which is the source of the common name. In cultivated restoration settings, arrowweed is valued for stabilizing periodically flooded, salt-affected floodplain soils where few other woody natives will persist.",
+    "sources": ["USDA PLANTS Database", "Desert Botanical Garden", "Flora of North America"]
+  }
+]
