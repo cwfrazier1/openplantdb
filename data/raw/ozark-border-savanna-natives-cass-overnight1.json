@@ -1,0 +1,29 @@
+[
+  {
+    "slug": "arrowfeather-threeawn",
+    "common_name": "Arrowfeather Threeawn",
+    "scientific_name": "Aristida purpurascens",
+    "category": "flower",
+    "subcategory": "Ozark Border oak savanna native",
+    "days_to_germination": {"min": 14, "max": 28},
+    "germination_soil_temp_f": {"min": 65, "max": 80},
+    "days_to_maturity": {"min": 365, "max": 730},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Direct sow after soil has warmed in spring, or fall-sow for natural overwinter conditioning; seedlings are slow the first year while the root system establishes."
+    },
+    "usda_zones": {"min": 5, "max": 9},
+    "spacing_in": {"min": 12, "max": 24},
+    "height_in": {"min": 18, "max": 40},
+    "spread_in": {"min": 12, "max": 18},
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant this wiry warm-season bunchgrass in lean, open, sun-baked ground where richer soil would favor taller competitors, mimicking the thin rocky and sandy loams of a post oak savanna groundlayer. Narrow basal leaves form a modest tufted clump through early summer, then slender flowering stems rise and open into airy, purple-tinged panicles distinguished by three-pronged awns on each spikelet. It asks for essentially no supplemental water once established and resents heavy fertilization or poorly drained soil. Leave the dried stems standing through winter for seasonal texture and to let seed disperse naturally.",
+    "sources": ["USDA PLANTS Database", "Missouri Department of Conservation", "Prairie Moon Nursery"]
+  }
+]

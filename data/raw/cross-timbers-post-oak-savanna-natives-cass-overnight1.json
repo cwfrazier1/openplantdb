@@ -1,0 +1,83 @@
+[
+  {
+    "slug": "tradescantia-reverchonii",
+    "common_name": "Reverchon's Spiderwort",
+    "scientific_name": "Tradescantia reverchonii",
+    "category": "flower",
+    "subcategory": "Cross Timbers savanna native perennial",
+    "days_to_germination": {"min": 21, "max": 45},
+    "germination_soil_temp_f": {"min": 55, "max": 70},
+    "days_to_maturity": {"min": 365, "max": 730},
+    "maturity_from": "seed",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {"min": -2, "max": 4},
+      "note": "Divide dormant clumps or direct sow fresh seed in fall into sandy or gravelly, fast-draining soil; fall planting lets seed stratify over winter and lets divisions root in before summer heat."
+    },
+    "usda_zones": {"min": 6, "max": 9},
+    "spacing_in": {"min": 10, "max": 16},
+    "height_in": {"min": 6, "max": 12},
+    "spread_in": {"min": 10, "max": 18},
+    "sun": "partial",
+    "water": "low",
+    "directions": "Reverchon's spiderwort is a compact perennial endemic to the sandy and rocky openings of the Cross Timbers region of north-central Texas and southern Oklahoma, where scattered post oak and blackjack oak let in enough light for a grassy, forb-rich understory. Narrow grass-like leaves form low clumps that send up slender stems tipped with three-petaled blue-violet flowers, each lasting only a morning before closing by early afternoon. It thrives in lean, fast-draining sandy soil and resents heavy clay or regular irrigation, making it best suited to a dry, dappled-shade savanna planting rather than a conventional border. Established clumps can be divided in fall or early spring to expand a planting without relying on fussier seed propagation.",
+    "sources": ["USDA PLANTS Database", "Flora of North America", "Biota of North America Program (BONAP)"]
+  },
+  {
+    "slug": "phlox-oklahomensis",
+    "common_name": "Oklahoma Phlox",
+    "scientific_name": "Phlox oklahomensis",
+    "category": "flower",
+    "subcategory": "Cross Timbers savanna native perennial",
+    "days_to_germination": {"min": 30, "max": 60},
+    "germination_soil_temp_f": {"min": 50, "max": 65},
+    "days_to_maturity": {"min": 365, "max": 730},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {"min": 0, "max": 6},
+      "note": "Direct sow in fall into loose, deep sand so seed can experience winter cold and moisture cycles; avoid any soil amendment that holds extra moisture around the crown."
+    },
+    "usda_zones": {"min": 5, "max": 8},
+    "spacing_in": {"min": 10, "max": 15},
+    "height_in": {"min": 4, "max": 8},
+    "spread_in": {"min": 12, "max": 18},
+    "sun": "full",
+    "water": "low",
+    "directions": "Oklahoma phlox is a low, mat-forming perennial restricted to deep sand prairies and the open sandy understory beneath post oak and blackjack oak in the Cross Timbers of north Texas and Oklahoma. Narrow, needle-like leaves hug the ground beneath short stems that carry fragrant pink to pale lavender flowers in spring, a scaled-down relative of the more widely grown Phlox pilosa. Because it is adapted to pure, infertile sand with almost no organic matter, it struggles in typical garden loam and should be grown in a dedicated sand bed or raised planting that mimics its native soil and drains quickly after rain. Plants are drought-tolerant once established but slow to spread, so give them room and patience rather than competing groundcovers.",
+    "sources": ["USDA PLANTS Database", "Flora of North America", "Oklahoma Biological Survey"]
+  },
+  {
+    "slug": "paspalum-setaceum",
+    "common_name": "Thin Paspalum (Field Paspalum)",
+    "scientific_name": "Paspalum setaceum",
+    "category": "flower",
+    "subcategory": "Cross Timbers savanna native warm-season bunchgrass",
+    "days_to_germination": {"min": 14, "max": 30},
+    "germination_soil_temp_f": {"min": 65, "max": 80},
+    "days_to_maturity": {"min": 365, "max": 730},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 2, "max": 8},
+      "note": "Direct sow into a weed-free seedbed once soil has warmed in spring; this grass germinates and establishes slowly, so keep competing vegetation suppressed the first season."
+    },
+    "usda_zones": {"min": 6, "max": 9},
+    "spacing_in": {"min": 12, "max": 18},
+    "height_in": {"min": 12, "max": 28},
+    "spread_in": {"min": 12, "max": 18},
+    "sun": "partial",
+    "water": "low",
+    "directions": "Thin paspalum is a fine-textured, clump-forming native grass that carpets the sandy understory of post oak and blackjack oak savannas across the southeastern and south-central United States, including the Cross Timbers belt of Texas and Oklahoma. It tolerates the dappled shade cast by an open savanna canopy better than most warm-season grasses, forming low, wiry tufts that send up slender seed spikes from summer into fall. Plants need no fertile soil or supplemental watering once rooted in, making them a low-maintenance filler for naturalistic savanna or woodland-edge plantings where turf grasses struggle. Mow or leave unmowed through winter for seasonal wildlife cover, then clear old growth in late winter before new shoots emerge.",
+    "sources": ["USDA PLANTS Database", "Flora of North America", "Lady Bird Johnson Wildflower Center"]
+  }
+]

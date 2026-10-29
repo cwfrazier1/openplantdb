@@ -1,0 +1,56 @@
+[
+  {
+    "slug": "chisos-oak",
+    "common_name": "Chisos Oak (Slender Oak)",
+    "scientific_name": "Quercus graciliformis",
+    "category": "flower",
+    "subcategory": "Big Bend/Chisos Mountains sky island native",
+    "days_to_germination": {"min": 20, "max": 45},
+    "germination_soil_temp_f": {"min": 50, "max": 65},
+    "days_to_maturity": {"min": 1825, "max": 3650},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {"min": -4, "max": 0},
+      "note": "Soak acorns 24 hours and cold-moist stratify 60 days, or simply sow fresh acorns 1-2 inches deep in a mulched bed in fall and let winter chilling do the work; this slow-growing oak dislikes root disturbance so transplant small seedlings early."
+    },
+    "usda_zones": {"min": 6, "max": 9},
+    "spacing_in": {"min": 180, "max": 300},
+    "height_in": {"min": 180, "max": 300},
+    "spread_in": {"min": 120, "max": 240},
+    "sun": "partial",
+    "water": "low",
+    "directions": "Chisos Oak is an extremely narrow-range endemic known from only a handful of shaded canyon bottoms in the Chisos Mountains of Big Bend National Park and a small adjoining area of Coahuila, where it grows as a small, slender-branched, semi-evergreen tree with elliptical, shallow-lobed leaves. Botanic gardens have collected acorns from the wild populations for ex-situ conservation, and seed is occasionally offered by specialty tree-seed vendors for the home grower willing to start from scratch. Give it a sheltered site in rocky, sharply drained canyon-type soil with partial shade, especially while young, and expect slow, steady growth with good heat tolerance once established. Because wild numbers are very low, cultivated specimens grown from legitimately sourced seed are a meaningful way to help preserve the species outside its tiny native range.",
+    "sources": ["Morton Arboretum Conservation Gap Analysis of Native U.S. Oaks", "Sheffield's Seed Company", "Trees and Shrubs Online"]
+  },
+  {
+    "slug": "pinus-arizonica",
+    "common_name": "Arizona Pine",
+    "scientific_name": "Pinus arizonica",
+    "category": "flower",
+    "subcategory": "Big Bend/Chisos Mountains sky island native",
+    "days_to_germination": {"min": 20, "max": 45},
+    "germination_soil_temp_f": {"min": 50, "max": 65},
+    "days_to_maturity": {"min": 2555, "max": 5475},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {"min": -4, "max": 0},
+      "note": "Cold-moist stratify seed about 60 days before spring sowing, or sow outdoors in fall so winter cold breaks dormancy naturally; this five-needle-group pine grows slowly at first and appreciates light shade and even moisture while establishing."
+    },
+    "usda_zones": {"min": 7, "max": 9},
+    "spacing_in": {"min": 300, "max": 480},
+    "height_in": {"min": 480, "max": 900},
+    "spread_in": {"min": 240, "max": 420},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Arizona Pine forms relict high-elevation stands in Boot Canyon and the upper Chisos basin of Big Bend National Park, its easternmost outpost far from the main range across southeastern Arizona, southern New Mexico, and the Sierra Madre Occidental of Mexico. In its Chisos refuge it grows alongside ponderosa pine, Arizona cypress, and Douglas fir in a cool, moist pocket stranded above the surrounding desert since the last ice age. Plant in full sun on well-drained, rocky to loamy soil, watering regularly for the first few years to establish a deep root system before tapering off to occasional deep soaks. It makes a long-lived, three-needle specimen conifer for a high-elevation or xeric mountain-woodland garden theme, though it needs more winter cold and summer moisture than low-desert pines to thrive.",
+    "sources": ["USDA Forest Service Fire Effects Information System", "Sheffield's Seed Company", "Texas Parks and Wildlife Department"]
+  }
+]

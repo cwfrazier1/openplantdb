@@ -1,0 +1,83 @@
+[
+  {
+    "slug": "sandywoods-chaffhead",
+    "common_name": "Sandywoods Chaffhead",
+    "scientific_name": "Carphephorus bellidifolius",
+    "category": "flower",
+    "subcategory": "Carolina Sandhills longleaf native",
+    "days_to_germination": {"min": 14, "max": 30},
+    "germination_soil_temp_f": {"min": 65, "max": 75},
+    "days_to_maturity": {"min": 365, "max": 730},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {"min": 0, "max": 6},
+      "note": "Direct sow in fall into lean, sharply drained sandy soil in full sun; seedlings form a low basal rosette the first year and typically flower starting the second season."
+    },
+    "usda_zones": {"min": 7, "max": 9},
+    "spacing_in": {"min": 12, "max": 18},
+    "height_in": {"min": 12, "max": 24},
+    "spread_in": {"min": 8, "max": 14},
+    "sun": "full",
+    "water": "low",
+    "directions": "Sandywoods chaffhead is a drought-tolerant perennial composite of the dry turkey oak-longleaf pine sandhills of Virginia, the Carolinas, and Georgia, where it grows on deep, nutrient-poor sand that would quickly rot most garden perennials. Nearly hairless basal leaves hug the ground through spring and summer before smooth, leafless flowering stalks rise in late summer carrying loose, open clusters of small purplish disc flowers with no ray petals, a good late-season nectar source for butterflies. It is fire-adapted, resprouting readily and flowering well the season after a dormant-season burn, and in a garden setting does best left undisturbed in full sun on sandy, infertile ground rather than enriched beds. Avoid overwatering and heavy mulch, both of which encourage crown rot in this true deep-sand specialist.",
+    "sources": ["Flora of North America", "North Carolina Native Plant Society", "USDA PLANTS Database"]
+  },
+  {
+    "slug": "lady-lupine",
+    "common_name": "Lady Lupine (Hairy Lupine)",
+    "scientific_name": "Lupinus villosus",
+    "category": "flower",
+    "subcategory": "Carolina Sandhills longleaf native",
+    "days_to_germination": {"min": 14, "max": 35},
+    "germination_soil_temp_f": {"min": 55, "max": 70},
+    "days_to_maturity": {"min": 180, "max": 365},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Direct sow where plants are to stay in deep, loose, bare sand in full sun; the long taproot and reliance on native soil rhizobia mean transplanting almost always fails, so never start indoors or in pots."
+    },
+    "usda_zones": {"min": 7, "max": 9},
+    "spacing_in": {"min": 18, "max": 30},
+    "height_in": {"min": 8, "max": 16},
+    "spread_in": {"min": 12, "max": 18},
+    "sun": "full",
+    "water": "low",
+    "directions": "Lady lupine is a short-lived, silvery-hairy perennial of the deep, loose sand ridges of longleaf pine-turkey oak sandhills from North Carolina to Louisiana, sending up dense spikes of lavender-pink to purple pea flowers in early spring before most other sandhill wildflowers are active. Its thick taproot and dependence on specific native soil bacteria for nitrogen fixation make it notoriously intolerant of transplanting, so seed must be sown directly into bare, open sand rather than started in containers. Scarify or nick the hard seed coat before sowing to improve germination, and resist the urge to amend the planting site with compost or fertilizer, since rich soil and competition from other plants are its biggest obstacles in cultivation. It is best suited to a dedicated open-sand garden feature rather than a conventional perennial border, where it struggles against more vigorous neighbors.",
+    "sources": ["Florida Wildflower Foundation", "USDA PLANTS Database", "North Carolina Native Plant Society"]
+  },
+  {
+    "slug": "carolina-silkgrass",
+    "common_name": "Carolina Silkgrass (Sandhills Golden Aster)",
+    "scientific_name": "Pityopsis aspera var. adenolepis",
+    "category": "flower",
+    "subcategory": "Carolina Sandhills longleaf native",
+    "days_to_germination": {"min": 14, "max": 28},
+    "germination_soil_temp_f": {"min": 65, "max": 80},
+    "days_to_maturity": {"min": 180, "max": 365},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Direct sow or set divisions in spring into lean, well-drained sandy soil in full sun; established clumps can also be divided in early spring."
+    },
+    "usda_zones": {"min": 7, "max": 9},
+    "spacing_in": {"min": 10, "max": 16},
+    "height_in": {"min": 12, "max": 24},
+    "spread_in": {"min": 10, "max": 16},
+    "sun": "full",
+    "water": "low",
+    "directions": "Carolina silkgrass is a grass-leaved golden aster relative common on the deep sand ridges of the North Carolina and South Carolina sandhills as well as the surrounding inner Coastal Plain and Piedmont, where its narrow, silvery, silky-haired leaves form low clumps beneath open longleaf pine canopy. This smooth-stemmed variety, lacking the sticky stem glands of the typical form, sends up wiry stalks topped with bright yellow daisy-like flowers in late summer and fall, attracting a range of small native pollinators. It tolerates drought, infertile sand, and periodic fire extremely well, making it a tough, low-maintenance choice for a sunny sandhill or dry meadow planting. Divide crowded clumps every few years in spring to keep plants vigorous and floriferous.",
+    "sources": ["Flora of the Southeastern United States (NC Botanical Garden)", "USDA PLANTS Database", "Lady Bird Johnson Wildflower Center"]
+  }
+]

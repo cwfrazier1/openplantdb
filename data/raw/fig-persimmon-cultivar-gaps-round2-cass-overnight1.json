@@ -1,0 +1,83 @@
+[
+  {
+    "slug": "diospyros-kaki-hana-fuyu",
+    "common_name": "Hana Fuyu Persimmon (Dwarf Large-Fruited Fuyu-Type Persimmon)",
+    "scientific_name": "Diospyros kaki 'Hana Fuyu'",
+    "category": "fruit",
+    "subcategory": "tree fruit",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 1460, "max": 2190},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": -8, "max": -4},
+      "note": "Plant bare-root or container trees in late winter to early spring in well-drained soil in full sun; this naturally dwarf Fuyu-type stays small enough for a large container or a tight garden corner, so site it where its compact 8-10 ft frame and heavy fruit load will still get full sun exposure."
+    },
+    "usda_zones": {"min": 7, "max": 10},
+    "spacing_in": {"min": 96, "max": 144},
+    "height_in": {"min": 84, "max": 120},
+    "spread_in": {"min": 84, "max": 120},
+    "sun": "full",
+    "water": "low",
+    "directions": "Hana Fuyu, whose name translates roughly to 'winter flower,' is a naturally compact, almost dwarf sport of the familiar Fuyu persimmon, bearing fruit that runs noticeably larger than standard Fuyu while keeping the same flat, tomato-like shape and non-astringent eating quality. The reddish-orange fruit is typically seedless, juicy, and can be eaten crisp-firm straight from the tree or left to soften for a jammier bite. Because the tree needs only light winter chilling and stays small, it suits patio containers or compact home-orchard rows as easily as open ground, and it is self-fruitful so a single tree will set a full crop. Give it full sun and well-drained soil, and avoid heavy nitrogen feeding, which pushes leafy growth at the expense of fruit set.",
+    "sources": ["Edible Landscaping", "California Rare Fruit Growers", "Texas A&M AgriLife Extension"]
+  },
+  {
+    "slug": "ficus-carica-malta-black",
+    "common_name": "Malta Black Fig (Early-Ripening Mt. Etna-Type Heirloom Fig)",
+    "scientific_name": "Ficus carica 'Malta Black'",
+    "category": "fruit",
+    "subcategory": "fig",
+    "days_to_germination": {"min": 21, "max": 42},
+    "germination_soil_temp_f": {"min": 65, "max": 75},
+    "days_to_maturity": {"min": 365, "max": 730},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Root hardwood cuttings in late winter or set out container-grown plants in spring into deep, well-drained soil in full sun; Malta Black is an old Mediterranean Mt. Etna-type fig long circulated through American fig-collector nurseries and reliably produces its heaviest crop early in the season, well ahead of many other varieties."
+    },
+    "usda_zones": {"min": 7, "max": 10},
+    "spacing_in": {"min": 120, "max": 180},
+    "height_in": {"min": 120, "max": 240},
+    "spread_in": {"min": 120, "max": 180},
+    "sun": "full",
+    "water": "low",
+    "directions": "Malta Black is a small-to-medium, dark brown-purple fig of Mediterranean (Maltese) origin, long grown in the US through historic fig-collector nurseries, with deep raspberry-jam-colored flesh and a thick skin and tight eye that resist splitting in rainy or humid weather. It sets a light breba crop on old wood in early summer followed by a heavier main crop that ripens notably early compared to most other fig cultivars, which is useful for stretching the Gulf Coast fig harvest season. The tree is vigorous and healthy, tolerates being cut back hard after a hard freeze, and resprouts readily from the base the following spring. Established plants are drought-tolerant and need little supplemental water beyond normal rainfall once their root system is settled.",
+    "sources": ["California Rare Fruit Growers", "North American Fruit Explorers", "Texas A&M AgriLife Extension"]
+  },
+  {
+    "slug": "ficus-carica-sals",
+    "common_name": "Sal's Fig (Hardy Dark-Skinned Heirloom Fig)",
+    "scientific_name": "Ficus carica 'Sal's'",
+    "category": "fruit",
+    "subcategory": "fig",
+    "days_to_germination": {"min": 21, "max": 42},
+    "germination_soil_temp_f": {"min": 65, "max": 75},
+    "days_to_maturity": {"min": 365, "max": 730},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Root hardwood cuttings in late winter or set out container-grown plants in spring into deep, well-drained soil in full sun; this found variety, traced to a Long Island, New York family planting, is grown mainly for its cold hardiness and reliable cropping rather than for ornamental form, so give it room to sucker and rebuild from the base after a hard winter."
+    },
+    "usda_zones": {"min": 7, "max": 10},
+    "spacing_in": {"min": 120, "max": 180},
+    "height_in": {"min": 120, "max": 240},
+    "spread_in": {"min": 120, "max": 180},
+    "sun": "full",
+    "water": "low",
+    "directions": "Sal's is a found, family-passed-down fig originating from a Long Island, New York planting, grown in the same cold-hardy niche as Hardy Chicago but recognized as a distinct, separately circulated selection. It bears a heavy crop of medium-to-small black to dark purple figs with jammy strawberry-red pulp and a rich, sweet flavor, and the wood reliably resprouts from the base after dieback in a hard freeze, which also makes it forgiving for Gulf Coast gardeners dealing with the occasional severe cold snap. Fruiting tends to run later in cooler climates but should ripen comfortably through a full Gulf Coast summer and fall. Give it full sun, deep well-drained soil, and only light supplemental watering once established.",
+    "sources": ["North American Fruit Explorers", "California Rare Fruit Growers", "Texas A&M AgriLife Extension"]
+  }
+]

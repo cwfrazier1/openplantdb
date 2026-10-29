@@ -1,0 +1,56 @@
+[
+  {
+    "slug": "minuartia-patula",
+    "common_name": "Glade Sandwort (Pitcher's Stitchwort)",
+    "scientific_name": "Minuartia patula",
+    "category": "flower",
+    "subcategory": "Ridge-and-Valley limestone glade native annual",
+    "days_to_germination": {"min": 20, "max": 45},
+    "germination_soil_temp_f": {"min": 45, "max": 60},
+    "days_to_maturity": {"min": 180, "max": 240},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Scatter seed on bare, gravelly or thin soil in fall so it can germinate with cool rains and overwinter as a small rosette before flowering in spring, mimicking the exposed limestone pavement of its native glades."
+    },
+    "usda_zones": {"min": 5, "max": 8},
+    "spacing_in": {"min": 4, "max": 8},
+    "height_in": {"min": 3, "max": 6},
+    "spread_in": {"min": 4, "max": 8},
+    "sun": "full",
+    "water": "low",
+    "directions": "This wiry little annual is a specialist of the thin, rocky soils that cap limestone outcrops and glade openings scattered through the Ridge-and-Valley province, where bedrock lies just beneath a skin of gravelly soil. Tiny five-petaled white to pale pink flowers open atop threadlike stems in mid to late spring, followed quickly by seed set and the plant's natural die-back. Give it lean, fast-draining, calcareous soil and full sun with no competing mulch or rich amendment, since both crowding and fertility work against a plant adapted to bare rock. Once established it reseeds itself into open gravelly patches, so leave some undisturbed bare ground nearby for seedlings to recolonize each year.",
+    "sources": ["USDA PLANTS Database", "Virginia Botanical Associates (Digital Atlas of the Virginia Flora)"]
+  },
+  {
+    "slug": "phacelia-dubia",
+    "common_name": "Small-Flower Phacelia (Appalachian Scorpionweed)",
+    "scientific_name": "Phacelia dubia",
+    "category": "flower",
+    "subcategory": "Ridge-and-Valley limestone glade and dry woodland native winter annual",
+    "days_to_germination": {"min": 14, "max": 45},
+    "germination_soil_temp_f": {"min": 45, "max": 65},
+    "days_to_maturity": {"min": 180, "max": 240},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Sow directly on disturbed, rocky or thin soil in fall; seedlings emerge as low fern-like rosettes that sit through winter and bolt into bloom the following spring, matching the species' natural winter-annual cycle in open glades and rocky woods."
+    },
+    "usda_zones": {"min": 5, "max": 8},
+    "spacing_in": {"min": 4, "max": 6},
+    "height_in": {"min": 4, "max": 12},
+    "spread_in": {"min": 4, "max": 6},
+    "sun": "full",
+    "water": "low",
+    "directions": "Small-flower phacelia grows naturally on the rocky, often limestone-derived soils of open woods, glade margins, and dry ridges across the Ridge-and-Valley province, where its finely cut, almost fern-like basal foliage spreads into the fall before winter dormancy. Clusters of small pale blue to lavender flowers open in April and May on short stalks just above the foliage, drawing in early-season bees before the plant sets seed and fades for the summer. It prefers lean, well-drained, gritty or rocky soil and tolerates light shade from nearby trees but flowers best with several hours of direct sun. Because it completes its whole cycle by late spring, it pairs well in a rock garden or glade-style planting with other spring ephemerals, leaving the space to other perennials for the rest of the growing season.",
+    "sources": ["USDA PLANTS Database", "Lady Bird Johnson Wildflower Center"]
+  }
+]

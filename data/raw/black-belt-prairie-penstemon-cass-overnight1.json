@@ -1,0 +1,29 @@
+[
+  {
+    "slug": "penstemon-tenuiflorus",
+    "common_name": "Eastern Whiteflower Beardtongue",
+    "scientific_name": "Penstemon tenuiflorus",
+    "category": "flower",
+    "subcategory": "Black Belt prairie and limestone glade native perennial",
+    "days_to_germination": {"min": 14, "max": 28},
+    "germination_soil_temp_f": {"min": 60, "max": 70},
+    "days_to_maturity": {"min": 180, "max": 365},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Direct sow in fall onto thin, calcareous, well-drained clay or rocky soil in full sun, pressing seed lightly into the surface; winter cold breaks dormancy for spring emergence."
+    },
+    "usda_zones": {"min": 6, "max": 8},
+    "spacing_in": {"min": 10, "max": 15},
+    "height_in": {"min": 12, "max": 24},
+    "spread_in": {"min": 10, "max": 14},
+    "sun": "full",
+    "water": "low",
+    "directions": "This narrow-range beardtongue is a signature herb of the chalky Black Belt prairie openings and limestone glades of central Alabama and northeast Mississippi, where it grows in thin, high-pH clay too lean and dry for most competing vegetation. Slender, upright stems rise from a basal rosette of narrow leaves and carry loose clusters of small, tubular, white to pale lavender flowers with faint purple nectar guides in the throat, blooming from late April into June and drawing in native bees. Give it full sun and lean, fast-draining, uncompromisingly calcareous or rocky soil with no supplemental fertilizer, since rich or moisture-retentive ground produces weak, floppy growth and poor flowering. Once established the deep root system makes it drought-tolerant and long-lived, suiting dry prairie restorations, rock gardens, and lime-soil native plant borders.",
+    "sources": ["Alabama Plant Atlas", "Flora of North America Vol. 17 — Penstemon tenuiflorus"]
+  }
+]

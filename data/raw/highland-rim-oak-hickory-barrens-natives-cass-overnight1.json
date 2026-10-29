@@ -1,0 +1,29 @@
+[
+  {
+    "slug": "pear-hawthorn",
+    "common_name": "Pear Hawthorn (Late Hawthorn)",
+    "scientific_name": "Crataegus calpodendron",
+    "category": "fruit",
+    "subcategory": "Highland Rim oak-hickory barrens native fruit tree",
+    "days_to_germination": {"min": 90, "max": 180},
+    "germination_soil_temp_f": {"min": 40, "max": 60},
+    "days_to_maturity": {"min": 1825, "max": 3650},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 8},
+      "note": "Set out bare-root or container stock in spring on a woodland edge, barrens margin, or rocky open slope with calcareous or circumneutral soil, mimicking the chert-and-limestone-influenced ground this species favors across the Highland Rim."
+    },
+    "usda_zones": {"min": 4, "max": 8},
+    "spacing_in": {"min": 180, "max": 264},
+    "height_in": {"min": 144, "max": 240},
+    "spread_in": {"min": 144, "max": 240},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "This small, broad-crowned understory tree is found scattered through oak-hickory woods, wooded ravines, and barrens edges on calcareous or chert-influenced soils across the Highland Rim and much of the eastern interior. Long thorny branches carry clusters of white flowers in late spring, followed by orange-red, mealy haws that ripen and persist unusually late into fall, making it one of the last native hawthorns to feed migrating and overwintering birds. It tolerates shallow, rocky soils and part shade better than many hawthorn relatives, so it suits the dappled light of an open oak-hickory stand as readily as a sunnier barrens opening. Let it keep its naturally irregular, wide-spreading form rather than pruning for a formal shape, since the picturesque silhouette and dense thorny structure are valued for wildlife cover.",
+    "sources": ["USDA NRCS Plant Guide", "USDA Forest Service", "Lady Bird Johnson Wildflower Center"]
+  }
+]

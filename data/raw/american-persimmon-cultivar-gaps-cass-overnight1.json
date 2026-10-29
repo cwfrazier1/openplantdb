@@ -1,0 +1,56 @@
+[
+  {
+    "slug": "diospyros-virginiana-geneva-long",
+    "common_name": "Geneva Long American Persimmon",
+    "scientific_name": "Diospyros virginiana 'Geneva Long'",
+    "category": "fruit",
+    "subcategory": "American persimmon cultivar",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 1460, "max": 2190},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": -4, "max": 0},
+      "note": "Plant grafted bare-root or container trees in early spring in full to part sun on well-drained soil; Geneva Long was selected by pomologist George Slate at the Geneva, New York experiment station from native New York stock and is one of the most northern-adapted named selections of the species."
+    },
+    "usda_zones": {"min": 3, "max": 9},
+    "spacing_in": {"min": 240, "max": 420},
+    "height_in": {"min": 420, "max": 720},
+    "spread_in": {"min": 240, "max": 420},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Geneva Long bears an unusually elongated, egg-shaped fruit rather than the rounder berry typical of wild native persimmons, and it ripens with less astringency while holding a firmer texture after softening. That firmness lets the fruit sit at a market stand for roughly a week past ripening without collapsing, an unusual trait among American persimmons that are normally eaten within a day or two of softening. Grow it on deep, well-drained soil in full sun on seedling rootstock, where it can reach substantial size, and pair it with a second seedling or named cultivar nearby since most American persimmons need cross-pollination from a male tree to set a full crop. Its origin in upstate New York breeding work makes it reliably cold-hardy well north of the species' native Gulf Coast range.",
+    "sources": ["American Pomological Society (G.L. Slate, 'Native Persimmons in New York', 1949)", "Northern Nut Growers Association"]
+  },
+  {
+    "slug": "diospyros-virginiana-kaki-mikkusu",
+    "common_name": "Mikkusu Hybrid Persimmon (JT-02)",
+    "scientific_name": "Diospyros virginiana x kaki 'Mikkusu'",
+    "category": "fruit",
+    "subcategory": "American persimmon cultivar",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 1095, "max": 1825},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": -4, "max": 0},
+      "note": "Plant grafted trees on American persimmon rootstock in spring in half-day to full sun on well-drained soil; Mikkusu (breeding code JT-02) was bred in Japan from the American cultivar Josephine crossed with the Japanese kaki cultivar Taishu, then imported to the US in 2006 by persimmon breeder Jerry Lehman for its exceptional cold tolerance."
+    },
+    "usda_zones": {"min": 5, "max": 9},
+    "spacing_in": {"min": 180, "max": 300},
+    "height_in": {"min": 144, "max": 240},
+    "spread_in": {"min": 144, "max": 240},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Mikkusu combines the cold hardiness of its American virginiana parentage with the flattened shape and non-astringent, Fuyu-like eating quality of its Japanese kaki parent, making it one of the few hardy hybrid persimmons that can be eaten firm rather than fully soft-ripened. Trees stay compact, reaching about 12 feet with routine pruning versus 20 feet left unchecked, and come into bearing within three to five years. It is self-fertile, so a single tree can produce a full crop of 50 or more pounds once established, and it has proven hardy to roughly -10°F without cold injury. Site it in half-day to full sun on well-drained soil, ideally grafted onto American persimmon rootstock for the best cold tolerance.",
+    "sources": ["One Green World nursery cultivar records", "Appalachian Foothills Fruits and Nuts (AFF) master plant list", "Northern Nut Growers Association persimmon breeding records"]
+  }
+]
