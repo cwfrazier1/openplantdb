@@ -1,0 +1,331 @@
+[
+  {
+    "slug": "cahaba-white-common-vetch",
+    "common_name": "Cahaba White Common Vetch",
+    "scientific_name": "Vicia sativa 'Cahaba White'",
+    "category": "cover-crop",
+    "subcategory": "legume",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 45,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 90,
+      "max": 150
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -4
+      },
+      "note": "Broadcast or drill at 25-40 lbs/acre in October into a well-drained bed; inoculate with pea/vetch-group rhizobium if the site has no recent vetch history."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 1,
+      "max": 2
+    },
+    "height_in": {
+      "min": 24,
+      "max": 36
+    },
+    "spread_in": {
+      "min": 24,
+      "max": 48
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Released by the Alabama Agricultural Experiment Station at Auburn as a common-vetch selection bred for better cold tolerance, earlier spring vigor, and resistance to root-knot and soybean-cyst nematodes compared to older common-vetch lines, making it a frequent Southeast and Gulf Coast alternative to hairy vetch. Mow or crimp at early-to-mid bloom in spring before pods harden to maximize nitrogen release and prevent volunteer reseeding, then let residue wilt one to two weeks before incorporating or no-till planting the next crop.",
+    "sources": [
+      "UC Davis SAREP Cover Crop Database",
+      "Southern Cover Crops Council Cover Crop Information Sheet - Vetch, Common",
+      "UF/IFAS Cool-Season Forage Variety Recommendations for Florida"
+    ]
+  },
+  {
+    "slug": "tifwhite-78-sweet-white-lupine",
+    "common_name": "Tifwhite 78 Sweet White Lupine",
+    "scientific_name": "Lupinus albus 'Tifwhite 78'",
+    "category": "cover-crop",
+    "subcategory": "legume",
+    "days_to_germination": {
+      "min": 10,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 50,
+      "max": 65
+    },
+    "days_to_maturity": {
+      "min": 150,
+      "max": 180
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -6,
+        "max": -2
+      },
+      "note": "Seed in fall once soil has cooled, ahead of cotton, into well-drained soil across the Florida Panhandle, south Georgia, Alabama, or the Carolinas; inoculate with lupine-specific rhizobium."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 4,
+      "max": 6
+    },
+    "height_in": {
+      "min": 24,
+      "max": 40
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 18
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "A low-alkaloid, 'sweet' white lupine released by USDA-ARS at Tifton, Georgia, bred specifically as a winter cover crop ahead of cotton across the lower Southeast. Its deep taproot breaks up compaction while historically supplying around 100 kg of nitrogen per hectare to a following corn crop. Terminate by mowing, rolling, or herbicide at early bloom, since unterminated plants can reseed and persist as a volunteer weed.",
+    "sources": [
+      "SARE project report LS93-053",
+      "Purdue New Crop Resources - White Lupin: An Alternate Crop for the Southern Coastal Plain",
+      "Southern Cover Crops Council Cover Crop Information Sheet - Lupin, White"
+    ]
+  },
+  {
+    "slug": "lana-woollypod-vetch",
+    "common_name": "Lana Woollypod Vetch",
+    "scientific_name": "Vicia villosa var. varia 'Lana'",
+    "category": "cover-crop",
+    "subcategory": "legume",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 50,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 90,
+      "max": 150
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -4
+      },
+      "note": "Broadcast at 20-30 lbs/acre in early fall, or scatter lightly under trees or vines at garden scale, and let it scramble through winter as a row-middle cover."
+    },
+    "usda_zones": {
+      "min": 6,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 1,
+      "max": 2
+    },
+    "height_in": {
+      "min": 18,
+      "max": 36
+    },
+    "spread_in": {
+      "min": 24,
+      "max": 48
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Released in 1956 by the California Agricultural Experiment Station from Turkish plant material, this remains the classic orchard and vineyard row-middle cover crop, fixing nitrogen unusually fast, often within about a week of emergence. Mow or crimp at first bloom to release 100-300 lbs of nitrogen per acre along with roughly 8,000 lbs per acre of weed-suppressing dry-matter mulch.",
+    "sources": [
+      "NRCS Plant Materials release notice - 'Lana' Woollypod Vetch",
+      "SARE Managing Cover Crops Profitably - Woollypod Vetch",
+      "UC Davis SAREP Cover Crop Database"
+    ]
+  },
+  {
+    "slug": "norgold-yellow-sweetclover",
+    "common_name": "Norgold Yellow Sweetclover",
+    "scientific_name": "Melilotus officinalis 'Norgold'",
+    "category": "cover-crop",
+    "subcategory": "legume",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 50,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 365,
+      "max": 730
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": -2,
+        "max": 4
+      },
+      "note": "Broadcast at 2-4 lbs/1000 sq ft in spring into marginal, droughty, or alkaline ground where true clovers struggle; inoculate with Melilotus/Medicago-group rhizobium."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 8
+    },
+    "spacing_in": {
+      "min": 2,
+      "max": 4
+    },
+    "height_in": {
+      "min": 36,
+      "max": 60
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "The first low-coumarin yellow sweetclover, the result of a 22-year Agriculture Canada breeding program at Saskatoon, bred to avoid the 'sweetclover bleeding disease' risk of moldy high-coumarin hay. As a biennial it forms a rosette and deep taproot in its first year, then bolts and flowers in its second, valued as a deep-rooting soil builder and pollinator planting on ground too marginal for true clovers. Mow before second-year seed-set to prevent volunteer spread.",
+    "sources": [
+      "NRCS Plant Guide - Yellow Sweetclover and White Sweetclover",
+      "Canadian Journal of Plant Science - NORGOLD: A Low Coumarin Yellow Blossom Sweetclover",
+      "North Dakota State University Extension"
+    ]
+  },
+  {
+    "slug": "verano-caribbean-stylo",
+    "common_name": "Verano Caribbean Stylo",
+    "scientific_name": "Stylosanthes hamata 'Verano'",
+    "category": "cover-crop",
+    "subcategory": "legume",
+    "days_to_germination": {
+      "min": 7,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 90,
+      "max": 120
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 6
+      },
+      "note": "Broadcast on a warm, well-drained bed in late spring between widely spaced warm-season crops; rarely needs inoculation since it nodulates with cowpea-group rhizobium already common in southern soils."
+    },
+    "usda_zones": {
+      "min": 9,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 4,
+      "max": 8
+    },
+    "height_in": {
+      "min": 12,
+      "max": 24
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "An Australian-bred tetraploid Caribbean stylo naturalized in southern Florida and used throughout the tropics and subtropics as a drought-tolerant, nitrogen-fixing ground cover between widely spaced warm-season row crops. North of true zone 9 it behaves as a reseeding warm-season annual rather than a perennial, since hard freezes kill top growth. Let it self-reseed each fall instead of tilling in, since light grazing or mowing extends stand life.",
+    "sources": [
+      "ECHO (North Fort Myers, FL) Plant Information Sheet - Caribbean Stylo",
+      "CSIRO Register of Australian Herbage Plant Cultivars - Verano",
+      "Tropical Forages (tropicalforages.info)"
+    ]
+  },
+  {
+    "slug": "meyer-crambe",
+    "common_name": "Meyer Crambe (Abyssinian Mustard)",
+    "scientific_name": "Crambe abyssinica 'Meyer'",
+    "category": "cover-crop",
+    "subcategory": "brassica oilseed",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 45,
+      "max": 65
+    },
+    "days_to_maturity": {
+      "min": 80,
+      "max": 100
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": -2,
+        "max": 2
+      },
+      "note": "Direct-seed in spring after frost risk passes, since it lacks canola or rapeseed-level winter hardiness; mow or crimp at flowering if growing as cover rather than for oilseed harvest."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 8
+    },
+    "spacing_in": {
+      "min": 6,
+      "max": 6
+    },
+    "height_in": {
+      "min": 24,
+      "max": 36
+    },
+    "spread_in": {
+      "min": 8,
+      "max": 12
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Released by Purdue University in 1973 from Swedish and Ethiopian Crambe germplasm, Meyer became the foundation cultivar for North Dakota's short-lived industrial crambe-oil industry and is still cited as the benchmark check variety in crambe trials. This fast, 80-to-100-day Brassicaceae relative of cabbage produces a dense, weed-suppressing canopy as a short-season rotational cover between main crops. Mow or crimp at flowering to prevent volunteer shatter if not harvesting for oilseed.",
+    "sources": [
+      "Purdue NewCROP Proceedings - Crambe: A North Dakotan Case Study",
+      "Agronomy (MDPI) - Crambe (Crambe abyssinica Hochst): A Non-Food Oilseed Crop with Great Potential"
+    ]
+  }
+]

@@ -1,0 +1,164 @@
+[
+  {
+    "slug": "lewisia-leeana",
+    "common_name": "Lee's Lewisia (Quill-Leaf Lewisia)",
+    "scientific_name": "Lewisia leeana",
+    "category": "flower",
+    "subcategory": "alpine rock garden perennial",
+    "days_to_germination": {
+      "min": 60,
+      "max": 120
+    },
+    "germination_soil_temp_f": {
+      "min": 35,
+      "max": 50
+    },
+    "days_to_maturity": {
+      "min": 730,
+      "max": 1095
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -6,
+        "max": -2
+      },
+      "note": "Sow seed with an alternating warm/cold stratification cycle into a vertical crevice or steeply tilted trough, top-dressed heavily with pea gravel or grit so foliage never sits against damp soil."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 8
+    },
+    "spacing_in": {
+      "min": 4,
+      "max": 6
+    },
+    "height_in": {
+      "min": 4,
+      "max": 10
+    },
+    "spread_in": {
+      "min": 4,
+      "max": 6
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "A genuinely evergreen, fine-textured rock-garden lewisia distinct from the showier Lewisia cotyledon already in cultivation, this species carries narrower, quill-like leaves and smaller, more delicate pink-to-magenta flowers on wiry stems, filling a smaller-scale niche in crevice and trough plantings. Native to rocky outcrops and talus in the Klamath-Siskiyou ranges and southern Cascades, it needs sharp drainage above all else, since crown rot from lingering summer moisture is the most common failure mode. Site in a vertical crevice or steeply tilted trough with full sun, and expect it to be grown mainly by specialist alpine gardeners rather than widely available.",
+    "sources": [
+      "RobsPlants",
+      "Jepson eFlora"
+    ]
+  },
+  {
+    "slug": "lewisia-oppositifolia",
+    "common_name": "Opposite-Leaf Lewisia",
+    "scientific_name": "Lewisia oppositifolia",
+    "category": "flower",
+    "subcategory": "moist rock garden perennial",
+    "days_to_germination": {
+      "min": 60,
+      "max": 90
+    },
+    "germination_soil_temp_f": {
+      "min": 35,
+      "max": 50
+    },
+    "days_to_maturity": {
+      "min": 545,
+      "max": 730
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -6,
+        "max": -2
+      },
+      "note": "Sow seed with cold stratification into a gritty but moisture-retentive scree or alpine-house pot; water normally through the growing season and only taper off by late September."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 8
+    },
+    "spacing_in": {
+      "min": 4,
+      "max": 6
+    },
+    "height_in": {
+      "min": 4,
+      "max": 8
+    },
+    "spread_in": {
+      "min": 4,
+      "max": 6
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Botanically unusual within the genus for its paired, opposite leaves rather than a basal rosette, this species tolerates noticeably more routine moisture through spring than nearly every other Lewisia — a useful damp-rock-garden option distinct from the scree-only majority. Native to wet seeps, streambanks, and moist rocky slopes in the Klamath Mountains, it appreciates light shade in hot climates, reflecting its native streamside habitat. Keep water out of the crown of the rosette even though the species as a whole tolerates more dampness than its relatives; pale pink buds open to blush-white flowers in spring before the plant dies back for summer dormancy.",
+    "sources": [
+      "Royal Horticultural Society",
+      "Scottish Rock Garden Club"
+    ]
+  },
+  {
+    "slug": "lewisia-triphylla",
+    "common_name": "Three-Leaf Lewisia",
+    "scientific_name": "Lewisia triphylla",
+    "category": "flower",
+    "subcategory": "ephemeral alpine novelty",
+    "days_to_germination": {
+      "min": 365,
+      "max": 730
+    },
+    "germination_soil_temp_f": {
+      "min": 50,
+      "max": 60
+    },
+    "days_to_maturity": {
+      "min": 1095,
+      "max": 1460
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -6,
+        "max": -2
+      },
+      "note": "Sow seed with 5-6 weeks refrigerated cold stratification into a scree or trough that gets a thorough spring soaking then goes fully dry by midsummer; mark the spot since the plant vanishes completely each summer."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 7
+    },
+    "spacing_in": {
+      "min": 2,
+      "max": 3
+    },
+    "height_in": {
+      "min": 2,
+      "max": 4
+    },
+    "spread_in": {
+      "min": 2,
+      "max": 3
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "A genuine botanical curiosity for specialist rock gardeners, this tiny, ephemeral, snowmelt-triggered alpine carries a spherical tuberous root and whorled, not basal-rosette, leaves, and hybridizes in the wild with Lewisia nevadensis. Found in wet, rocky subalpine meadows and seasonally flooded flats, it blooms as snowmelt recedes and then vanishes completely each summer, so grow it in a scree or trough that gets a thorough spring soaking followed by a fully dry midsummer. It is realistically available only through specialist alpine and rock-garden seed exchanges rather than general nursery retail, and germination from seed is notably slow, often taking one to two years.",
+    "sources": [
+      "Jepson eFlora",
+      "Calflora"
+    ]
+  }
+]

@@ -1,0 +1,330 @@
+[
+  {
+    "slug": "santo-cilantro",
+    "common_name": "Santo Cilantro (Coriander)",
+    "scientific_name": "Coriandrum sativum 'Santo'",
+    "category": "herb",
+    "subcategory": "annual herb",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 50,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 50,
+      "max": 55
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": 2
+      },
+      "note": "Direct sow only, since cilantro does not transplant well; in zone 9a sow October through March and stagger sowings every 2-3 weeks for continuous leaf harvest."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 4,
+      "max": 8
+    },
+    "height_in": {
+      "min": 12,
+      "max": 24
+    },
+    "spread_in": {
+      "min": 6,
+      "max": 10
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "A standard Mexican-type leaf coriander prized for upright, easy-to-harvest growth and reliable slow-bolt performance relative to older open-pollinated types. It still bolts once days lengthen and temperatures climb into the high 70s, so in Gulf Coast gardens treat it strictly as a cool-season crop. Harvest outer leaves continuously and let the last sowing go to seed for a coriander spice harvest.",
+    "sources": [
+      "Johnny's Selected Seeds - Santo",
+      "West Coast Seeds - Santo Long Standing",
+      "Botanical Interests - Long Standing Santo"
+    ]
+  },
+  {
+    "slug": "slow-bolt-cilantro",
+    "common_name": "Slow Bolt Cilantro (Coriander)",
+    "scientific_name": "Coriandrum sativum 'Slow Bolt'",
+    "category": "herb",
+    "subcategory": "annual herb",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 55,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 50,
+      "max": 55
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": 2
+      },
+      "note": "Direct sow only; in zone 9a treat purely as a fall-through-early-spring crop, since even this slow-bolt strain flowers rapidly once soil temperatures push past 75F."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 6,
+      "max": 8
+    },
+    "height_in": {
+      "min": 12,
+      "max": 24
+    },
+    "spread_in": {
+      "min": 6,
+      "max": 10
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "One of the oldest named slow-bolt cilantro selections in the US seed trade, predating F1 hybrid bolt-resistant breeding, grown for both leaf and seed harvest. It performs similarly to modern bolt-resistant hybrids in cool weather but doesn't match their heat tolerance in a compressed spring window. Harvest leaves continuously through the cool season and let a final planting go to seed for home-grown coriander.",
+    "sources": [
+      "UF Seeds - Slow Bolt Cilantro",
+      "Renee's Garden - Slow-Bolt Cilantro",
+      "St. Clare Seeds - Slow Bolt Coriander"
+    ]
+  },
+  {
+    "slug": "bouquet-dill",
+    "common_name": "Bouquet Dill",
+    "scientific_name": "Anethum graveolens 'Bouquet'",
+    "category": "herb",
+    "subcategory": "annual herb",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 50,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 40,
+      "max": 100
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": 0
+      },
+      "note": "Direct sow in the cool season; in zone 9a this is strictly an October-March crop, so sow successively through winter since heat triggers premature umbel formation regardless of variety."
+    },
+    "usda_zones": {
+      "min": 2,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 4,
+      "max": 8
+    },
+    "height_in": {
+      "min": 28,
+      "max": 36
+    },
+    "spread_in": {
+      "min": 9,
+      "max": 12
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "A classic heirloom dill bred for abundant, wide chartreuse seed umbels as much as foliage, making it the go-to variety for filling a pickling crock. Let plants flower and set seed for pickling spice, or harvest foliage continuously for fresh dill weed earlier in the season. Stagger plantings through the cool months for a steady supply, since both leaf and seed harvest windows are short once warmth arrives.",
+    "sources": [
+      "High Mowing Organic Seeds - Bouquet Dill",
+      "Rohrer Seeds - Bouquet Dill"
+    ]
+  },
+  {
+    "slug": "victorio-fennel",
+    "common_name": "Victorio Fennel",
+    "scientific_name": "Foeniculum vulgare var. azoricum 'Victorio'",
+    "category": "vegetable",
+    "subcategory": "bulbing fennel",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 75,
+      "max": 120
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {
+        "min": -16,
+        "max": -10
+      },
+      "note": "Sow in mid-to-late summer heat for fall-into-winter bulbing; unlike most Florence fennel types it holds vegetative without bolting through summer warmth and bulbs size up as days shorten."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 6,
+      "max": 12
+    },
+    "height_in": {
+      "min": 24,
+      "max": 36
+    },
+    "spread_in": {
+      "min": 8,
+      "max": 12
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Bred by Bejo Seeds specifically as a short-day Florence fennel for Southern states, this is one of the few bulbing fennel selections actually suited to Gulf Coast heat rather than fighting it. Sow in the heat of mid-to-late summer rather than spring, and let the bulb size up as days shorten into fall and winter. Harvest once the bulb reaches a good hand-sized diameter, before hard freezes set in.",
+    "sources": [
+      "Territorial Seed - Victorio Fennel",
+      "Bejo Seeds - Victorio F1",
+      "Osborne Seed - Victorio F1 Organic Fennel"
+    ]
+  },
+  {
+    "slug": "bohemia-chives",
+    "common_name": "Bohemia Chives",
+    "scientific_name": "Allium schoenoprasum 'Bohemia'",
+    "category": "herb",
+    "subcategory": "culinary herb",
+    "days_to_germination": {
+      "min": 7,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 110
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -6,
+        "max": -4
+      },
+      "note": "Direct sow or transplant in spring into moist, fertile soil in full sun; divide congested clumps every 2-3 years."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 6,
+      "max": 8
+    },
+    "height_in": {
+      "min": 10,
+      "max": 12
+    },
+    "spread_in": {
+      "min": 8,
+      "max": 12
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "A European market chive bred for wider, medium-green leaf blades than standard chive seed strains, suited to both repeated field cutting and commercial-style forcing. It keeps foliage through most winters and should stay evergreen or near-evergreen in zone 9a given adequate moisture. Divide congested clumps every two to three years to maintain vigor and leaf quality.",
+    "sources": [
+      "Cerny Seed - Chives Bohemia",
+      "Happy Green Shop - Chives Bohemia"
+    ]
+  },
+  {
+    "slug": "gigante-ditalia-parsley",
+    "common_name": "Gigante d'Italia Parsley (Giant Italian Flat-Leaf)",
+    "scientific_name": "Petroselinum crispum var. neapolitanum 'Gigante d'Italia'",
+    "category": "herb",
+    "subcategory": "flat-leaf parsley",
+    "days_to_germination": {
+      "min": 14,
+      "max": 28
+    },
+    "germination_soil_temp_f": {
+      "min": 50,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 70,
+      "max": 75
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": 2
+      },
+      "note": "Soak seed 8-12 hours before direct-sowing to hasten slow germination; biennial and cold-hardy, often overwintering in zone 9a and bolting the following spring."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 8,
+      "max": 12
+    },
+    "height_in": {
+      "min": 12,
+      "max": 18
+    },
+    "spread_in": {
+      "min": 10,
+      "max": 14
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "A northern-Italian heirloom roughly twice the leaf size of standard flat-leaf types, with bold, deeply cut foliage and strong, sweet flavor favored by cooks over the milder curly types. It is biennial and will often overwinter in zone 9a, bolting the following spring, so treat it as an annual and resow for best leaf quality. Harvest outer leaves continuously through the cool season.",
+    "sources": [
+      "Fedco Seeds - Gigante d'Italia Parsley",
+      "Territorial Seed - Gigante D'Italia",
+      "Burpee - Gigante D'Italia Organic Parsley"
+    ]
+  }
+]

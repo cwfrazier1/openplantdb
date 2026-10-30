@@ -1,0 +1,324 @@
+[
+  {
+    "slug": "lsu-white-honey-fig",
+    "common_name": "LSU White Honey Fig",
+    "scientific_name": "Ficus carica 'LSU White Honey'",
+    "category": "fruit",
+    "subcategory": "fig",
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": null,
+      "max": null
+    },
+    "days_to_maturity": {
+      "min": 365,
+      "max": 730
+    },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Root hardwood cuttings in late winter or plant container-grown trees in spring; give full sun and consistent soil moisture during fruit development, with winter protection north of zone 8."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 96,
+      "max": 144
+    },
+    "height_in": {
+      "min": 96,
+      "max": 168
+    },
+    "spread_in": {
+      "min": 120,
+      "max": 168
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "An unofficial find from LSU AgCenter's fig breeding orchards, producing yellow-skinned, golden-fleshed figs with a pronounced honey flavor at full ripeness. It is a vigorous, fast grower suited to the humid Gulf South, typically producing a breba crop in late spring to early summer plus a larger main crop in late summer and fall. It tolerates Gulf Coast heat and humidity well, in keeping with the other LSU-origin figs already in the collection.",
+    "sources": [
+      "Lazy Dog Farm",
+      "Fig Database"
+    ]
+  },
+  {
+    "slug": "lsu-thibodaux-fig",
+    "common_name": "LSU Thibodaux Fig",
+    "scientific_name": "Ficus carica 'LSU Thibodaux'",
+    "category": "fruit",
+    "subcategory": "fig",
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": null,
+      "max": null
+    },
+    "days_to_maturity": {
+      "min": 180,
+      "max": 365
+    },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Root hardwood cuttings in late winter or plant container-grown trees in spring into well-drained soil with consistent moisture in full sun."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 96,
+      "max": 144
+    },
+    "height_in": {
+      "min": 96,
+      "max": 168
+    },
+    "spread_in": {
+      "min": 120,
+      "max": 168
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Another unofficial discovery in LSU's trial orchards, named for Thibodaux, Louisiana, notable for unusually fast establishment with some growers reporting fruit in the first year after planting. Fruit is dark red-skinned with deep red interior flesh and a sweet, mixed-berry flavor classed among the sugar figs. It shares the heat and humidity tolerance of other LSU-origin figs, making it a reasonable Gulf Coast dooryard choice.",
+    "sources": [
+      "Lazy Dog Farm",
+      "Fig Database"
+    ]
+  },
+  {
+    "slug": "lsu-strawberry-fig",
+    "common_name": "LSU Strawberry Fig",
+    "scientific_name": "Ficus carica 'LSU Strawberry'",
+    "category": "fruit",
+    "subcategory": "fig",
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": null,
+      "max": null
+    },
+    "days_to_maturity": {
+      "min": 180,
+      "max": 365
+    },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Root hardwood cuttings in late winter or plant container-grown trees in spring into moist but well-drained soil in full sun; self-fertile."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 96,
+      "max": 144
+    },
+    "height_in": {
+      "min": 96,
+      "max": 168
+    },
+    "spread_in": {
+      "min": 120,
+      "max": 168
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Discovered growing wild in an LSU orchard, this fig has thick bright-green skin concealing bright red, strawberry-flavored pulp on small round fruit. It is self-fertile, a strong and fast grower, and shows good resistance to splitting, an adaptation to humid southeastern conditions that makes it a solid Gulf Coast candidate. Expect first fruit within one to two years from rooted cuttings.",
+    "sources": [
+      "Kremp Florida Fruit Trees",
+      "Ourfigs.com forum discussion"
+    ]
+  },
+  {
+    "slug": "prairie-star-american-persimmon",
+    "common_name": "Prairie Star American Persimmon",
+    "scientific_name": "Diospyros virginiana 'Prairie Star'",
+    "category": "fruit",
+    "subcategory": "fruit tree",
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": null,
+      "max": null
+    },
+    "days_to_maturity": {
+      "min": 730,
+      "max": 1095
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": 0
+      },
+      "note": "Plant a grafted tree in late winter to early spring in deep, well-drained soil in full sun; self-fertile but bears more heavily with a second American persimmon nearby."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 144,
+      "max": 216
+    },
+    "height_in": {
+      "min": 144,
+      "max": 216
+    },
+    "spread_in": {
+      "min": 120,
+      "max": 180
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Bred by Illinois hobbyist Jim Claypool, the same breeder behind the already-present Prairie Dawn, Gem, and Sun series, Prairie Star is one of the earliest-ripening American persimmon selections, coloring up by October or November with large, very sweet, firm fruit. It is self-fertile and well suited to a zone 9a Gulf Coast garden as a cold-hardy, low-maintenance addition, though it is reported to grow slowly before it takes off. Plant in full sun in deep, well-drained soil and expect abundant crops once established.",
+    "sources": [
+      "Raintree Nursery",
+      "Burnt Ridge Nursery"
+    ]
+  },
+  {
+    "slug": "big-red-muscadine",
+    "common_name": "Big Red Muscadine Grape",
+    "scientific_name": "Vitis rotundifolia 'Big Red'",
+    "category": "fruit",
+    "subcategory": "grape",
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": null,
+      "max": null
+    },
+    "days_to_maturity": {
+      "min": 730,
+      "max": 730
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant rooted cuttings in late winter to early spring on a sturdy trellis in well-drained soil at pH 6.0-6.5 in full sun; this is a female vine and must be planted within about 50 feet of a self-fertile muscadine for fruit set."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 180,
+      "max": 240
+    },
+    "height_in": {
+      "min": 60,
+      "max": 96
+    },
+    "spread_in": {
+      "min": 180,
+      "max": 240
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Developed at Ison's Nursery, Big Red is a female muscadine producing large, sweet, red, disease-resistant fruit in heavy mid-season clusters, good for fresh eating and jelly or juice. Because it is pistillate rather than self-fertile, it must be planted with a known self-fertile cultivar nearby for reliable fruit set. Keep the graft or crown 1-2 inches below grade when planting and provide a sturdy trellis for the vigorous vines.",
+    "sources": [
+      "Ison's Nursery and Vineyard"
+    ]
+  },
+  {
+    "slug": "dixie-red-muscadine",
+    "common_name": "Dixie Red Muscadine Grape",
+    "scientific_name": "Vitis rotundifolia 'Dixie Red'",
+    "category": "fruit",
+    "subcategory": "grape",
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": null,
+      "max": null
+    },
+    "days_to_maturity": {
+      "min": 730,
+      "max": 730
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant rooted cuttings in late winter to early spring on a trellis or arbor in well-drained soil at pH 6.0-6.5 in full sun; self-fertile, so no pollinator vine is required."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 180,
+      "max": 240
+    },
+    "height_in": {
+      "min": 60,
+      "max": 96
+    },
+    "spread_in": {
+      "min": 180,
+      "max": 240
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Also developed at Ison's Nursery, Dixie Red is a self-fertile red muscadine with disease resistance and very vigorous growth, suited for fresh eating, wine, jelly, and juice. It ripens early to mid-season, slightly ahead of many other self-fertile cultivars already in the collection. Set the top root just 1-2 inches below the surface when planting and give it a sturdy trellis or arbor to climb.",
+    "sources": [
+      "Ison's Nursery and Vineyard"
+    ]
+  }
+]

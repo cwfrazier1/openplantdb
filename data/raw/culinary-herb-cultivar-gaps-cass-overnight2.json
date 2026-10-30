@@ -1,29 +1,327 @@
 [
   {
-    "slug": "ken-taylor-rosemary",
-    "common_name": "Ken Taylor Rosemary (Arching Australian Hedge Rosemary)",
-    "scientific_name": "Salvia rosmarinus 'Ken Taylor'",
+    "slug": "lihi-prospera-active-dmr-basil",
+    "common_name": "Lihi Prospera Active DMR Basil (Compact Downy-Mildew-Resistant Genovese Basil)",
+    "scientific_name": "Ocimum basilicum 'Lihi Prospera Active DMR'",
+    "category": "herb",
+    "subcategory": "basil",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 74
+    },
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -6,
+        "max": 0
+      },
+      "note": "Start indoors 6 weeks before last frost, or direct-sow once soil is warm; dense compact habit suits containers, greenhouse, and hydroponic production."
+    },
+    "usda_zones": {
+      "min": 2,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 4,
+      "max": 8
+    },
+    "height_in": {
+      "min": 16,
+      "max": 18
+    },
+    "spread_in": {
+      "min": 10,
+      "max": 12
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "A compact, slow-bolting Genovese-type basil with large, glossy, heavily cupped dark-green leaves and intermediate resistance to downy mildew races 0 and 1 as well as Fusarium wilt. Harvest by cutting stems to 4-6 inches above ground to force a second flush, completing harvest before flowering for the best flavor. Its dense, compact habit makes it a strong choice for humid Gulf Coast gardens where downy mildew pressure is high.",
+    "sources": [
+      "Johnny's Selected Seeds - Lihi Prospera Active DMR",
+      "Johnny's Prospera DMR Basil Comparison Chart"
+    ]
+  },
+  {
+    "slug": "mia-prospera-active-dmr-basil",
+    "common_name": "Mia Prospera Active DMR Basil",
+    "scientific_name": "Ocimum basilicum 'Mia Prospera Active DMR'",
+    "category": "herb",
+    "subcategory": "basil",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 70
+    },
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -6,
+        "max": 0
+      },
+      "note": "Start indoors 6 weeks before last frost, or direct-sow once soil is warm; slightly taller and later-maturing than its sibling selection Lihi."
+    },
+    "usda_zones": {
+      "min": 2,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 4,
+      "max": 8
+    },
+    "height_in": {
+      "min": 18,
+      "max": 20
+    },
+    "spread_in": {
+      "min": 10,
+      "max": 12
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "A semi-compact Genovese-type basil with medium-length internodes and large, glossy, cupped dark-green leaves carrying classic Genovese aroma, bred with intermediate resistance to downy mildew races 0 and 1 and Fusarium wilt. Cut the whole plant 4-6 inches above soil to promote vigorous regrowth, and harvest in early morning before flowering for peak oil content. Disease resistance makes this a reliable choice for humid climates where unprotected basil often succumbs to downy mildew.",
+    "sources": [
+      "Johnny's Selected Seeds - Mia Prospera Active DMR",
+      "Genesis Seeds Ltd."
+    ]
+  },
+  {
+    "slug": "shimmering-stars-trailing-rosemary",
+    "common_name": "Shimmering Stars Trailing Rosemary",
+    "scientific_name": "Salvia rosmarinus 'Shimmering Stars'",
     "category": "herb",
     "subcategory": "aromatic",
-    "days_to_germination": null,
-    "germination_soil_temp_f": null,
-    "days_to_maturity": {"min": 100, "max": 160},
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": null,
+      "max": null
+    },
+    "days_to_maturity": {
+      "min": 90,
+      "max": 150
+    },
     "maturity_from": "transplant",
     "sow_method": "cutting",
     "season": "perennial",
     "frost_tolerance": "hardy",
     "planting": {
       "anchor": "spring",
-      "weeks_from_anchor": {"min": 0, "max": 4},
-      "note": "Set rooted cuttings or container plants in spring or early fall in full sun with sharply drained soil; space generously to allow the arching branches to develop their natural fountain-like form without crowding."
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant rooted cuttings in spring in full sun with excellent drainage; best cascading over a wall, in a large container, or as a groundcover on a sunny bank."
     },
-    "usda_zones": {"min": 7, "max": 10},
-    "spacing_in": {"min": 36, "max": 48},
-    "height_in": {"min": 36, "max": 48},
-    "spread_in": {"min": 48, "max": 72},
+    "usda_zones": {
+      "min": 8,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 8,
+      "max": 10
+    },
+    "spread_in": {
+      "min": 24,
+      "max": 36
+    },
     "sun": "full",
     "water": "low",
-    "directions": "Ken Taylor is an Australian-bred rosemary selection valued for its dense, mounding-to-arching growth habit, intermediate between fully upright culinary types and fully prostrate groundcover forms. Plant in lean, sharply drained soil and avoid overhead irrigation once established, since wet feet in winter are the primary cause of failure in all rosemary types. The long, gracefully arching stems make it a popular choice for informal hedges, low screens, and bank or slope plantings where its spreading mass can be shown off, and it tolerates hard pruning well if a tighter hedge form is wanted. Flowering is prolific and nearly continuous in mild-winter climates, with deep violet-blue flowers that draw bees through the cooler months when few other nectar sources are available. Leaves are fully edible and aromatic, though gardeners seeking the most refined culinary flavor typically still reach for upright cultivars like Tuscan Blue; Ken Taylor shines primarily as a dual-purpose landscape and kitchen plant.",
-    "sources": ["Royal Horticultural Society Plant Finder", "Australian Native and Exotic Plant Nursery Trade References", "North Carolina State Extension — Rosemary Cultivars"]
+    "directions": "A trailing, creeping rosemary selected for ornamental flower display, with pink buds opening to large, pale-blue flowers marked with a darker stripe and fleck in the throat, while the foliage remains fully culinary-grade, pungent rosemary. Best used cascading over a wall or in a large container rather than as an upright hedge plant. In Gulf Coast gardens, prioritize raised plantings with gritty, fast-draining soil to offset humidity risk, and shear lightly after the main spring bloom to maintain density.",
+    "sources": [
+      "RHS Plant Finder",
+      "Log House Plants"
+    ]
+  },
+  {
+    "slug": "boule-rosemary",
+    "common_name": "Boule Rosemary (French Ball Rosemary)",
+    "scientific_name": "Salvia rosmarinus 'Boule'",
+    "category": "herb",
+    "subcategory": "aromatic",
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": null,
+      "max": null
+    },
+    "days_to_maturity": {
+      "min": 90,
+      "max": 150
+    },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant rooted cuttings in spring in full sun with sharp drainage; in humid Gulf climates prioritize raised beds with gritty, fast-draining soil to avoid root rot."
+    },
+    "usda_zones": {
+      "min": 8,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 24,
+      "max": 36
+    },
+    "height_in": {
+      "min": 24,
+      "max": 24
+    },
+    "spread_in": {
+      "min": 24,
+      "max": 36
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "A French rosemary selection whose name means 'ball,' forming a dense, tight, naturally rounded mound without any shearing, making it a useful formal, low-maintenance edible hedge or specimen where an upright rosemary would need frequent pruning. It produces abundant silvery-blue flowers in winter and spring. Good for coastal, dry, or raised herb-garden beds; sharp drainage is essential to carry it through humid Gulf South summers without crown rot.",
+    "sources": [
+      "Native Sons Nursery",
+      "Lambley Nursery"
+    ]
+  },
+  {
+    "slug": "nazareth-sage",
+    "common_name": "Nazareth Sage",
+    "scientific_name": "Salvia officinalis hybrida 'Nazareth'",
+    "category": "herb",
+    "subcategory": "sage",
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": null,
+      "max": null
+    },
+    "days_to_maturity": {
+      "min": 90,
+      "max": 150
+    },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant rooted cuttings or divisions in spring into well-drained soil in full sun, protecting from excess winter wet; prune hard after bloom to keep the plant compact."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 12,
+      "max": 24
+    },
+    "spread_in": {
+      "min": 16,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "A sage hybrid selected in Israel and popularized for American gardens by Texas herbalists Madalene Hill and Gwen Barclay, specifically noted for enduring intense heat, drought, and humidity better than common garden sage, making it one of the better culinary sage options for Gulf Coast zone 8-9 heat where ordinary sage struggles in humid clay soils. Narrow, silvery grey-green aromatic leaves carry full culinary sage flavor, with light-blue summer flower spikes. Harvest leaves continuously through the growing season.",
+    "sources": [
+      "RHS plant database",
+      "Hishtil Nurseries",
+      "Central Texas Gardener - Sage Advice: Trisha Shirey"
+    ]
+  },
+  {
+    "slug": "mandarina-orange-balm",
+    "common_name": "Mandarina Orange Balm",
+    "scientific_name": "Melissa officinalis 'Mandarina'",
+    "category": "herb",
+    "subcategory": "lemon balm",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 75
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -2,
+        "max": 2
+      },
+      "note": "Direct-sow or transplant in spring into moist, well-drained soil; afternoon shade helps carry it through Gulf Coast summer heat."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 18,
+      "max": 24
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 20
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "A lower, trailing-habited lemon balm selected for a pronounced tangerine and orange scent and flavor rather than the typical lemon note, distinct from other citrus-scented balm selections already in cultivation. Its spilling habit makes it well suited to hanging baskets, raised beds, and container culture. Pinch flower buds and harvest leaf tips regularly to keep flavor oils concentrated and the plant compact; small white summer flowers draw bees.",
+    "sources": [
+      "West Coast Seeds",
+      "Kitchen Garden Seeds"
+    ]
   }
 ]

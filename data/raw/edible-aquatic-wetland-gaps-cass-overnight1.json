@@ -1,0 +1,218 @@
+[
+  {
+    "slug": "two-horned-water-caltrop",
+    "common_name": "Two-Horned Water Caltrop (Ling Jiao, Devil Pod)",
+    "scientific_name": "Trapa bicornis",
+    "category": "vegetable",
+    "subcategory": "aquatic edible",
+    "days_to_germination": {
+      "min": 14,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 90
+    },
+    "days_to_maturity": {
+      "min": 110,
+      "max": 150
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 4
+      },
+      "note": "Press fresh nuts 1-2 inches into mud, or pot one nut per submerged container, once water stays above 68F; grow only in fully contained ponds or tubs and collect all fruit before it can drop into open water."
+    },
+    "usda_zones": {
+      "min": 8,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 1,
+      "max": 2
+    },
+    "spread_in": {
+      "min": 24,
+      "max": 36
+    },
+    "sun": "full",
+    "water": "high",
+    "directions": "The two-horned water caltrop most commonly sold fresh in Chinese and Vietnamese markets, distinct from the already-present four-horned Trapa natans. Floating rosettes grow at a startling pace once established, with fruits forming at the base of the rosette and harvested in autumn, then boiled to destroy anti-nutrient compounds before eating the starchy kernel. Like its four-horned relative, it is regulated as invasive in parts of the US, so grow it only in fully contained ponds or tubs and collect all fruit before it can escape into open water.",
+    "sources": [
+      "Wikipedia - Water Caltrop",
+      "Useful Temperate Plants (temperate.theferns.info)"
+    ]
+  },
+  {
+    "slug": "chinese-arrowhead",
+    "common_name": "Chinese Arrowhead (Ci Gu)",
+    "scientific_name": "Sagittaria trifolia var. edulis",
+    "category": "vegetable",
+    "subcategory": "root",
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 150,
+      "max": 180
+    },
+    "maturity_from": "transplant",
+    "sow_method": "tuber",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 4
+      },
+      "note": "Plant tubers in rich mud at a pond margin kept flooded 2-12 inches after last frost; harvest corms in fall once foliage yellows and store surplus in damp sand over winter for replanting."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 24,
+      "max": 40
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "high",
+    "directions": "Distinct from the already-present Sagittaria sagittifolia, this East and Southeast Asian species is specifically cultivated for its edible corms rather than grown mainly as an ornamental. Arrow-shaped leaves emerge through summer and swollen blue-grey corms form at stolon tips as the plant approaches dormancy; in Chinese cuisine ci gu is a traditional Lunar New Year vegetable, sliced and stir-fried or simmered in broth. Boil or braise harvested corms before eating.",
+    "sources": [
+      "Plants For A Future (pfaf.org)",
+      "Flora of China"
+    ]
+  },
+  {
+    "slug": "presidio-rice",
+    "common_name": "Presidio Rice",
+    "scientific_name": "Oryza sativa 'Presidio'",
+    "category": "vegetable",
+    "subcategory": "grain",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 125,
+      "max": 145
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Direct-sow into saturated beds or shallow paddies once soil warms past 65F; performs reliably under both continuously flooded and consistently moist home-garden culture."
+    },
+    "usda_zones": {
+      "min": 8,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 6,
+      "max": 9
+    },
+    "height_in": {
+      "min": 36,
+      "max": 48
+    },
+    "spread_in": {
+      "min": 6,
+      "max": 9
+    },
+    "sun": "full",
+    "water": "high",
+    "directions": "A long-grain rice from a Jefferson by Maybelle by Rosemont cross, released in 2005 by USDA and Texas A&M AgriLife's Beaumont rice program and long the quality benchmark for Texas Gulf Coast rice because of its unusually low chalky-grain percentage and excellent milling yield. Harvest when panicles droop and turn golden-tan, then dry and hull. Its clean milling makes it a forgiving first rice variety for gardeners new to hulling by hand.",
+    "sources": [
+      "Texas A&M AgriLife - Texas Rice Production Guidelines",
+      "Rice Farming - Louisiana and Texas Release Long-Grain Varieties"
+    ]
+  },
+  {
+    "slug": "trinity-rice",
+    "common_name": "Trinity Rice",
+    "scientific_name": "Oryza sativa 'Trinity'",
+    "category": "vegetable",
+    "subcategory": "grain",
+    "days_to_germination": {
+      "min": 5,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 115,
+      "max": 135
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Direct-sow into flooded or consistently moist beds after last frost; after cutting the main crop, leave stubble in place and keep the bed flooded or moist for a ratoon second harvest."
+    },
+    "usda_zones": {
+      "min": 8,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 6,
+      "max": 9
+    },
+    "height_in": {
+      "min": 36,
+      "max": 48
+    },
+    "spread_in": {
+      "min": 6,
+      "max": 9
+    },
+    "sun": "full",
+    "water": "high",
+    "directions": "A 2021-2022 Texas A&M AgriLife release from a Saber by Cocodrie by Presidio cross, bred specifically to outperform Presidio with notably higher main-crop and ratoon-crop yields at comparable grain quality. The ratoon advantage is the most garden-relevant trait: after the main crop is cut, keep the bed flooded or moist and let regrowth from the cut stems produce a second, smaller harvest within the same Gulf Coast season. A logical companion to the Cocodrie and Presidio-type rice releases already in the collection.",
+    "sources": [
+      "Samonte et al., Journal of Plant Registrations, 2022 - Registration of Trinity Long-Grain Rice Cultivar",
+      "Rice Farming - Honoring the Trinity River"
+    ]
+  }
+]

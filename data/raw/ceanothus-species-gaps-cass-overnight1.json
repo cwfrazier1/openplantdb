@@ -1,0 +1,497 @@
+[
+  {
+    "slug": "ceanothus-griseus",
+    "common_name": "Carmel Ceanothus (Carmel Creeper)",
+    "scientific_name": "Ceanothus griseus",
+    "category": "flower",
+    "subcategory": "native evergreen shrub",
+    "days_to_germination": {
+      "min": 14,
+      "max": 35
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 730,
+      "max": 1095
+    },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 8
+      },
+      "note": "Plant rooted semi-hardwood cuttings in fall on a slope or well-drained site; prune lightly right after spring bloom, since old wood does not reliably resprout."
+    },
+    "usda_zones": {
+      "min": 8,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 96,
+      "max": 180
+    },
+    "height_in": {
+      "min": 96,
+      "max": 180
+    },
+    "spread_in": {
+      "min": 96,
+      "max": 180
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Only cultivar selections of this species were previously represented in this dataset — the plain bare species is a large, fast-growing evergreen screening and specimen shrub with glossy, deeply veined rounded leaves and dense trusses of powder-blue flowers in late winter, one of the showiest and most floriferous of the big coastal Ceanothus. It is highly intolerant of summer irrigation combined with heavy soil, which quickly causes root rot. Avoid phosphorus-heavy fertilizer, since this species fixes its own nitrogen via root nodules and performs best in lean native soil.",
+    "sources": [
+      "Calscape (California Native Plant Society)",
+      "Jepson eFlora",
+      "Las Pilitas Nursery"
+    ]
+  },
+  {
+    "slug": "ceanothus-impressus",
+    "common_name": "Santa Barbara Ceanothus",
+    "scientific_name": "Ceanothus impressus",
+    "category": "flower",
+    "subcategory": "native evergreen shrub",
+    "days_to_germination": {
+      "min": 14,
+      "max": 28
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 545,
+      "max": 730
+    },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 8
+      },
+      "note": "Plant rooted cuttings in fall into lean, sandy or gravelly, fast-draining soil in full sun; site away from lawns and drip-irrigated beds."
+    },
+    "usda_zones": {
+      "min": 8,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 48,
+      "max": 96
+    },
+    "height_in": {
+      "min": 36,
+      "max": 72
+    },
+    "spread_in": {
+      "min": 48,
+      "max": 96
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Only a named cultivar of this species was previously represented in this dataset — the plain bare species is a compact, tightly mounding evergreen shrub with small, deeply impressed, wrinkled dark-green leaves and an exceptionally heavy spring flush of deep violet-blue flowers, among the most intensely blue-flowered native shrubs available. Native only to a narrow coastal strip of Santa Barbara and San Luis Obispo counties, it is shorter-lived and more rot-prone than interior Ceanothus species if given regular garden irrigation.",
+    "sources": [
+      "Calscape (California Native Plant Society)",
+      "CNPS Rare Plant Program",
+      "Las Pilitas Nursery"
+    ]
+  },
+  {
+    "slug": "ceanothus-foliosus",
+    "common_name": "Wavyleaf Ceanothus",
+    "scientific_name": "Ceanothus foliosus",
+    "category": "flower",
+    "subcategory": "native evergreen shrub",
+    "days_to_germination": {
+      "min": 14,
+      "max": 42
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 730,
+      "max": 1095
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 8
+      },
+      "note": "Scarify seed and fall-sow, or root cuttings for uniform low-growing forms; source from a provenance matching the garden site's sun exposure, since wild populations vary from exposed ridges to shaded woodland."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 48,
+      "max": 96
+    },
+    "height_in": {
+      "min": 24,
+      "max": 72
+    },
+    "spread_in": {
+      "min": 48,
+      "max": 96
+    },
+    "sun": "partial",
+    "water": "low",
+    "directions": "A variable species ranging from low spreading mats to upright shrubs depending on subspecies and ecotype, this ceanothus carries distinctive wavy-margined small leaves and vivid blue flower clusters, useful where a lower, denser evergreen native cover is wanted than the larger thyrsiflorus-type shrubs. Give it excellent drainage and resist amending the planting hole, since it thrives on the same poor, rocky soils it occupies in the wild from the Central Coast north into southern Oregon.",
+    "sources": [
+      "Calscape (California Native Plant Society)",
+      "Jepson eFlora",
+      "Las Pilitas Nursery"
+    ]
+  },
+  {
+    "slug": "ceanothus-maritimus",
+    "common_name": "Maritime Ceanothus",
+    "scientific_name": "Ceanothus maritimus",
+    "category": "flower",
+    "subcategory": "rare coastal groundcover shrub",
+    "days_to_germination": {
+      "min": 21,
+      "max": 42
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 545,
+      "max": 730
+    },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 8
+      },
+      "note": "Plant nursery-propagated cuttings in fall into lean, fast-draining coastal soil; not well suited to inland heat or hard frost."
+    },
+    "usda_zones": {
+      "min": 9,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 48,
+      "max": 96
+    },
+    "height_in": {
+      "min": 12,
+      "max": 24
+    },
+    "spread_in": {
+      "min": 48,
+      "max": 96
+    },
+    "sun": "partial",
+    "water": "low",
+    "directions": "An extremely low, prostrate, mat-forming groundcover shrub bred by nature for the toughest coastal bluff conditions — salt spray, constant wind, and shallow soil — making it one of the best true groundcover Ceanothus available. This CNPS rare-plant-ranked species is restricted to a short stretch of San Luis Obispo County coastal bluffs, so cultivated plants should come from nursery propagation rather than wild collection. It is superb for erosion control on coastal slopes and low, no-mow groundcover in true maritime-influenced gardens.",
+    "sources": [
+      "Calscape (California Native Plant Society)",
+      "CNPS Rare Plant Program",
+      "Jepson eFlora"
+    ]
+  },
+  {
+    "slug": "ceanothus-integerrimus",
+    "common_name": "Deerbrush",
+    "scientific_name": "Ceanothus integerrimus",
+    "category": "flower",
+    "subcategory": "deciduous habitat shrub",
+    "days_to_germination": {
+      "min": 21,
+      "max": 42
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 730,
+      "max": 1095
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 8
+      },
+      "note": "Scarify or smoke-treat seed before fall sowing; a good nitrogen-fixing choice for colder-winter native gardens or recently disturbed/burned sites."
+    },
+    "usda_zones": {
+      "min": 6,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 48,
+      "max": 120
+    },
+    "height_in": {
+      "min": 36,
+      "max": 144
+    },
+    "spread_in": {
+      "min": 48,
+      "max": 120
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "One of the few deciduous Ceanothus species, this shrub gives a different seasonal look than the evergreen chaparral types, with bare winter structure and fresh light-green spring foliage. It is valued in wildlife and habitat gardens as a key post-fire pioneer and deer browse plant with fragrant white-to-pale-blue-lavender flower plumes, and is more cold-hardy than the coastal evergreen species, reflecting its montane and interior range from California through Oregon, Washington, and into the Rockies.",
+    "sources": [
+      "Calscape (California Native Plant Society)",
+      "Jepson eFlora",
+      "US Forest Service Fire Effects Information System"
+    ]
+  },
+  {
+    "slug": "ceanothus-oliganthus",
+    "common_name": "Hairy Ceanothus",
+    "scientific_name": "Ceanothus oliganthus",
+    "category": "flower",
+    "subcategory": "fire-resilient evergreen shrub",
+    "days_to_germination": {
+      "min": 14,
+      "max": 35
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 730,
+      "max": 1095
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 8
+      },
+      "note": "Scarify seed and fall-sow, or root cuttings; good for firescaping given its lignotuber resprouting ability, and tolerant of somewhat heavier soil than most chaparral Ceanothus."
+    },
+    "usda_zones": {
+      "min": 8,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 72,
+      "max": 144
+    },
+    "height_in": {
+      "min": 72,
+      "max": 180
+    },
+    "spread_in": {
+      "min": 72,
+      "max": 144
+    },
+    "sun": "partial",
+    "water": "low",
+    "directions": "A vigorous, large evergreen shrub to small tree that resprouts from a woody lignotuber after fire, giving it excellent resilience for fire-prone garden zones, with abundant pale lavender-blue flower clusters and dense wildlife cover. Because it resprouts from a basal burl rather than relying solely on seed after fire, it is a particularly good choice for firescaping where some regenerative resilience is wanted. It occupies chaparral-woodland ecotones in southern and central California and into Baja California.",
+    "sources": [
+      "Calscape (California Native Plant Society)",
+      "Jepson eFlora",
+      "Las Pilitas Nursery"
+    ]
+  },
+  {
+    "slug": "ceanothus-megacarpus",
+    "common_name": "Bigpod Ceanothus",
+    "scientific_name": "Ceanothus megacarpus",
+    "category": "flower",
+    "subcategory": "architectural drought-tolerant shrub",
+    "days_to_germination": {
+      "min": 21,
+      "max": 42
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 1095,
+      "max": 1460
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 8
+      },
+      "note": "Scarify and heat-treat seed before fall sowing; avoid fire or heavy pruning once established, since mature plants are killed by fire and regenerate only from the seed bank."
+    },
+    "usda_zones": {
+      "min": 8,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 72,
+      "max": 144
+    },
+    "height_in": {
+      "min": 36,
+      "max": 120
+    },
+    "spread_in": {
+      "min": 72,
+      "max": 144
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "A dominant, structurally striking chaparral shrub with large, distinctive three-lobed seed capsules and an extremely drought-tolerant, long-lived habit, this species is among the most drought-tolerant Ceanothus available, valuable as a bold architectural evergreen backbone plant for large dry-climate gardens and habitat restoration. Its flowers are white and less showy than the blue-flowered species, so it's better used for its dense evergreen structure and wildlife and erosion value on dry coastal-range slopes than as a flowering specimen.",
+    "sources": [
+      "Calscape (California Native Plant Society)",
+      "Jepson eFlora",
+      "US Forest Service Fire Effects Information System"
+    ]
+  },
+  {
+    "slug": "ceanothus-jepsonii",
+    "common_name": "Jepson's Ceanothus (Musk Brush)",
+    "scientific_name": "Ceanothus jepsonii",
+    "category": "flower",
+    "subcategory": "serpentine soil specialist shrub",
+    "days_to_germination": {
+      "min": 14,
+      "max": 35
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 730,
+      "max": 1095
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 8
+      },
+      "note": "Scarify seed and fall-sow, or root cuttings, into unamended, mineral-heavy or serpentine-derived soil; avoid fertilization, which can disadvantage it relative to weeds adapted to richer soil."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 36,
+      "max": 72
+    },
+    "height_in": {
+      "min": 24,
+      "max": 48
+    },
+    "spread_in": {
+      "min": 36,
+      "max": 72
+    },
+    "sun": "partial",
+    "water": "low",
+    "directions": "A serpentine-soil specialist offering a genuine solution for gardens with poor, mineral-heavy soils where most other shrubs fail, this ceanothus carries a low spreading habit and pale blue flowers with a musky fragrance, endemic to serpentine outcrops in the North Coast Ranges of Napa, Sonoma, and Lake counties. It is adapted to magnesium-rich, calcium-poor, nutrient-sparse soils that are toxic or limiting to most garden plants — an excellent choice for restoring or landscaping serpentine-barren sites rather than ordinary garden loam.",
+    "sources": [
+      "Calscape (California Native Plant Society)",
+      "Jepson eFlora",
+      "California Native Plant Society"
+    ]
+  },
+  {
+    "slug": "ceanothus-hearstiorum",
+    "common_name": "Hearst's Ceanothus",
+    "scientific_name": "Ceanothus hearstiorum",
+    "category": "flower",
+    "subcategory": "rare coastal groundcover shrub",
+    "days_to_germination": {
+      "min": 21,
+      "max": 42
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 545,
+      "max": 730
+    },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 8
+      },
+      "note": "Plant nursery-propagated cuttings in fall into a true coastal-fog-belt garden; not well suited to inland heat or hard frost."
+    },
+    "usda_zones": {
+      "min": 9,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 48,
+      "max": 96
+    },
+    "height_in": {
+      "min": 4,
+      "max": 12
+    },
+    "spread_in": {
+      "min": 48,
+      "max": 96
+    },
+    "sun": "partial",
+    "water": "low",
+    "directions": "An extremely rare, flat prostrate mat-forming shrub under a foot tall with fragrant blue flowers, this is one of the lowest-growing true groundcover Ceanothus available, known from only a handful of occurrences on coastal terraces near San Simeon. Any cultivated material should be nursery-propagated rather than wild-collected, making it best suited for specialist native plant nurseries and conservation-minded gardeners. Its extremely low, dense mat habit makes it an outstanding small-scale groundcover or rock-garden plant in true coastal-fog-belt gardens.",
+    "sources": [
+      "Calscape (California Native Plant Society)",
+      "CNPS Rare Plant Program",
+      "Jepson eFlora"
+    ]
+  }
+]

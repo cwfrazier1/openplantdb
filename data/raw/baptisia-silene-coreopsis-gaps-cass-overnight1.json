@@ -1,0 +1,326 @@
+[
+  {
+    "slug": "pineland-wild-indigo",
+    "common_name": "Pineland Wild Indigo",
+    "scientific_name": "Baptisia lecontei",
+    "category": "flower",
+    "subcategory": "native perennial",
+    "days_to_germination": {
+      "min": 14,
+      "max": 30
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 365,
+      "max": 1095
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Direct-sow scarified seed in fall into deep, sandy, well-drained, acidic soil in full sun; the deep taproot makes transplanting unreliable, so sow it in its permanent site."
+    },
+    "usda_zones": {
+      "min": 8,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 24,
+      "max": 36
+    },
+    "height_in": {
+      "min": 24,
+      "max": 36
+    },
+    "spread_in": {
+      "min": 24,
+      "max": 36
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "A fire-adapted, round, semi-woody wild indigo of longleaf pine sandhill and pine flatwoods in Florida and Georgia, reaching about 3 feet with a width roughly equal to its height. Like other Baptisia it is slow to establish and resents transplanting due to a deep taproot, but is drought-tolerant and long-lived once sited, producing the genus's typical yellow pea-family racemes in spring. Periodic fire or mowing helps mimic its native longleaf pine ecosystem and keeps competing vegetation down.",
+    "sources": [
+      "US Fish and Wildlife Service Species Profile",
+      "Florida Plant Atlas (University of South Florida)"
+    ]
+  },
+  {
+    "slug": "bakers-coreopsis",
+    "common_name": "Baker's Coreopsis (Baker's Tickseed)",
+    "scientific_name": "Coreopsis bakeri",
+    "category": "flower",
+    "subcategory": "native perennial wildflower",
+    "days_to_germination": {
+      "min": 14,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 90,
+      "max": 150
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Direct-sow into thin, rocky, lime-influenced soil in full sun, mimicking the exposed limestone glades of its native Jackson County, Florida habitat; essentially unavailable in the nursery trade, so source seed only from a conservation-oriented native seed program if possible."
+    },
+    "usda_zones": {
+      "min": 8,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 10,
+      "max": 14
+    },
+    "height_in": {
+      "min": 8,
+      "max": 14
+    },
+    "spread_in": {
+      "min": 10,
+      "max": 14
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "An exceptionally narrow-leaved, early-blooming perennial restricted to calcareous limestone glades in a single Florida county, only formally described as a distinct species in 2015. Unlike nearly every other southeastern Coreopsis, which prefers acidic sandy soil, this species needs thin, rocky, lime-influenced soil and full sun. It is critically imperiled in the wild, so garden propagation has real conservation value even though it is essentially unknown in commerce.",
+    "sources": [
+      "Schilling 2015, Phytotaxa 231:2 - original species description",
+      "Florida Plant Atlas (University of South Florida)"
+    ]
+  },
+  {
+    "slug": "swamp-tickseed",
+    "common_name": "Swamp Tickseed (Beadle's Coreopsis)",
+    "scientific_name": "Coreopsis palustris",
+    "category": "flower",
+    "subcategory": "native perennial wildflower",
+    "days_to_germination": {
+      "min": 14,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 80
+    },
+    "days_to_maturity": {
+      "min": 90,
+      "max": 150
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Direct-sow into consistently moist to wet, acidic soil in full sun to light shade, such as a rain garden or pond edge."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 36,
+      "max": 48
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "partial",
+    "water": "high",
+    "directions": "A wide-ranging wetland perennial of forested wet areas from coastal North Carolina to north Florida, reaching about 4 feet tall and distinguished from the similar fall-blooming Coreopsis integrifolia by flowering roughly a month earlier. Grow in consistently moist to wet, acidic soil in a rain garden, pond edge, or wet savanna restoration. It is already represented in minor cultivation by at least one named cultivar, though the straight species fills a genuine gap.",
+    "sources": [
+      "NatureServe Explorer",
+      "Mt. Cuba Center Coreopsis trials"
+    ]
+  },
+  {
+    "slug": "sleepy-catchfly",
+    "common_name": "Sleepy Catchfly",
+    "scientific_name": "Silene antirrhina",
+    "category": "flower",
+    "subcategory": "native annual wildflower",
+    "days_to_germination": {
+      "min": 14,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 90
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 2
+      },
+      "note": "Surface-sow tiny seeds in spring into open, sandy or gravelly, disturbed ground in full to partial sun; no pretreatment needed, and it self-sows readily once established."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 6,
+      "max": 10
+    },
+    "height_in": {
+      "min": 12,
+      "max": 32
+    },
+    "spread_in": {
+      "min": 6,
+      "max": 10
+    },
+    "sun": "partial",
+    "water": "low",
+    "directions": "A widespread native annual of disturbed, open, sandy or gravelly ground across nearly the entire continental US and Canada, with sticky bands on the stem between nodes that trap small crawling insects, though it is not a true carnivore. Flowers are modest but genuinely valuable to pollinators, with documented visits from numerous native bee and butterfly species. Best used in prairie and meadow restoration or other disturbance-dependent native plantings rather than as a showpiece ornamental.",
+    "sources": [
+      "Illinois Wildflowers",
+      "Missouri Wildflowers"
+    ]
+  },
+  {
+    "slug": "hookers-indian-pink",
+    "common_name": "Hooker's Indian Pink",
+    "scientific_name": "Silene hookeri",
+    "category": "flower",
+    "subcategory": "native perennial rock garden wildflower",
+    "days_to_germination": {
+      "min": 21,
+      "max": 35
+    },
+    "germination_soil_temp_f": {
+      "min": 50,
+      "max": 65
+    },
+    "days_to_maturity": {
+      "min": 180,
+      "max": 365
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": 0
+      },
+      "note": "Direct-sow outdoors in fall to let winter cold break dormancy naturally, needing roughly 60-90 days of cold-moist stratification, into sandy or rocky, sharply drained soil in full sun to partial shade."
+    },
+    "usda_zones": {
+      "min": 6,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 8,
+      "max": 12
+    },
+    "height_in": {
+      "min": 4,
+      "max": 8
+    },
+    "spread_in": {
+      "min": 8,
+      "max": 12
+    },
+    "sun": "partial",
+    "water": "low",
+    "directions": "A low, showy rock-garden native of Oregon and northwest California woodlands and forest openings, with large fringed pink-to-magenta flowers on sprawling mats. It prefers sandy or rocky, sharply drained soil, sometimes serpentine, in full sun to partial shade, and is not common in the nursery trade, with propagation mostly seed-grown by specialty native-plant seed sources.",
+    "sources": [
+      "Calscape (California Native Plant Society)",
+      "Klamath-Siskiyou Native Seeds"
+    ]
+  },
+  {
+    "slug": "sea-dahlia",
+    "common_name": "Sea Dahlia",
+    "scientific_name": "Coreopsis maritima",
+    "category": "flower",
+    "subcategory": "native coastal perennial",
+    "days_to_germination": {
+      "min": 10,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 90,
+      "max": 150
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Direct-sow untreated seed in fall into sandy, fast-draining soil in full sun with ocean influence; goes summer-dormant in its native coastal habitat."
+    },
+    "usda_zones": {
+      "min": 9,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 18,
+      "max": 24
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "A succulent-leaved coastal-bluff perennial native to San Diego County and northern Baja California, with large, canary-yellow daisy flowers held over lacy, fleshy foliage. It grows easily from untreated seed sown in fall and needs sandy, fast-draining soil and full sun with coastal ocean influence, making it an excellent choice for coastal gardens but frost-tender outside the warmest zones.",
+    "sources": [
+      "Theodore Payne Foundation Native Plant Database",
+      "Calscape (California Native Plant Society)"
+    ]
+  }
+]

@@ -1,0 +1,380 @@
+[
+  {
+    "slug": "simmonds-aster",
+    "common_name": "Simmonds' Aster",
+    "scientific_name": "Symphyotrichum simmondsii",
+    "category": "flower",
+    "subcategory": "native perennial wildflower",
+    "days_to_germination": {
+      "min": 14,
+      "max": 28
+    },
+    "germination_soil_temp_f": {
+      "min": 55,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 120,
+      "max": 180
+    },
+    "maturity_from": "transplant",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": 0
+      },
+      "note": "Direct-sow or divide in fall into damp to seasonally wet, sandy soil in full to part sun; spreads by long rhizomes to form loose colonies."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 24,
+      "max": 48
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "partial",
+    "water": "high",
+    "directions": "Endemic to the Southeastern Coastal Plain from southeastern North Carolina through peninsular Florida to southern Alabama, this aster spreads by long rhizomes along wet thicket margins, canal banks, and roadside ditches. It gives reliable October-November lavender color where few other perennials are blooming, and works well in rain gardens and wet-prairie pollinator plantings alongside other fall-blooming native asters.",
+    "sources": [
+      "Florida Wildflower Foundation",
+      "Flora of the Southeastern United States (FSUS)"
+    ]
+  },
+  {
+    "slug": "bahama-aster",
+    "common_name": "Bahama Aster",
+    "scientific_name": "Symphyotrichum bahamense",
+    "category": "flower",
+    "subcategory": "native perennial wildflower",
+    "days_to_germination": {
+      "min": 14,
+      "max": 28
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 72
+    },
+    "days_to_maturity": {
+      "min": 120,
+      "max": 180
+    },
+    "maturity_from": "transplant",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": 0
+      },
+      "note": "Direct-sow or divide in fall into consistently wet, brackish-tolerant soil in full sun; a strong choice for a marsh-fringe rain garden or pond-edge planting where standing water is routine."
+    },
+    "usda_zones": {
+      "min": 8,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 24,
+      "max": 48
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 30
+    },
+    "sun": "full",
+    "water": "high",
+    "directions": "An obligate-wetland species of salt, brackish, and fresh marshes from the eastern Florida panhandle and coastal Georgia south through peninsular Florida, with a disjunct population in southeastern Louisiana. It tolerates saline and periodically flooded soils that few garden perennials survive, producing abundant small white-to-pale-lavender, yellow-centered flowers from late summer into early winter.",
+    "sources": [
+      "Atlas of Florida Plants (University of South Florida)",
+      "Lady Bird Johnson Wildflower Center"
+    ]
+  },
+  {
+    "slug": "eastern-annual-saltmarsh-aster",
+    "common_name": "Eastern Annual Saltmarsh Aster",
+    "scientific_name": "Symphyotrichum subulatum",
+    "category": "flower",
+    "subcategory": "native annual wildflower",
+    "days_to_germination": {
+      "min": 10,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 90,
+      "max": 120
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 6
+      },
+      "note": "Direct-sow in spring into consistently moist to saline soil in full sun; self-seeds readily and bolts and blooms quickly."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 12,
+      "max": 40
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "high",
+    "directions": "A fast-cycling native annual found along the Gulf Coast to Texas and into Mexico and the Caribbean, self-seeding readily in salt marshes, tidal creek edges, ditches, and disturbed wet ground. It produces small yellow-centered white-to-lavender flowers that are reliable butterfly and native-bee forage into fall, making it a useful low-maintenance filler in coastal rain gardens or restoration seed mixes where perennial establishment is slow.",
+    "sources": [
+      "NatureServe Explorer",
+      "New York Natural Heritage Program"
+    ]
+  },
+  {
+    "slug": "plume-aster",
+    "common_name": "Plume Aster",
+    "scientific_name": "Symphyotrichum plumosum",
+    "category": "flower",
+    "subcategory": "native perennial wildflower",
+    "days_to_germination": {
+      "min": 14,
+      "max": 28
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 120,
+      "max": 150
+    },
+    "maturity_from": "transplant",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -6,
+        "max": -2
+      },
+      "note": "Direct-sow or transplant in fall into deep, dry-to-moist sandy soil in full sun, mimicking fire-maintained pine flatwoods; source only responsibly propagated nursery seed given its imperiled wild status."
+    },
+    "usda_zones": {
+      "min": 8,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 16,
+      "max": 40
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Endemic to a small cluster of counties in Florida's eastern panhandle around Torreya State Park and the Apalachicola National Forest, growing in deep, sandy soils in fire-maintained pine flatwoods and pine-scrub oak woods. NatureServe ranks it Imperiled, so garden propagation from responsibly sourced seed helps relieve pressure on wild populations. Rose-purple ray flowers with yellow-to-purple disks appear in fall on a sandy, well-drained, sunny site.",
+    "sources": [
+      "Flora of the Southeastern United States (FSUS)",
+      "Atlas of Florida Plants (University of South Florida)"
+    ]
+  },
+  {
+    "slug": "eulas-aster",
+    "common_name": "Eula's Aster (Texas Aster)",
+    "scientific_name": "Symphyotrichum eulae",
+    "category": "flower",
+    "subcategory": "native perennial wildflower",
+    "days_to_germination": {
+      "min": 14,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 55,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 150,
+      "max": 210
+    },
+    "maturity_from": "transplant",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": 0
+      },
+      "note": "Direct-sow or transplant in fall into clayey to silty soil in part to full sun, mimicking stream-bottom woods and ditch margins."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 18,
+      "max": 48
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Endemic to Texas, ranging from the north-central Blackland Prairie south into eastern, southeastern, and south-central Texas toward the Gulf coastal plain, found in partly shaded, clayey to silty soils along stream-bottom woods, ditches, and hedgerows. It flowers in October with white-to-bluish-lavender rays over a reddish-brown disk, giving late nectar in heavier clay soils where many prairie asters struggle. Pair with other Blackland Prairie natives in a part-sun border or woodland-edge pollinator planting.",
+    "sources": [
+      "Flora of the Southeastern United States (FSUS)",
+      "NatureServe Explorer"
+    ]
+  },
+  {
+    "slug": "small-headed-aster",
+    "common_name": "Small-Headed Aster",
+    "scientific_name": "Symphyotrichum parviceps",
+    "category": "flower",
+    "subcategory": "native perennial wildflower",
+    "days_to_germination": {
+      "min": 14,
+      "max": 28
+    },
+    "germination_soil_temp_f": {
+      "min": 55,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 120,
+      "max": 180
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -6,
+        "max": 0
+      },
+      "note": "Direct-sow in fall for natural cold stratification into sandy or loamy, well-drained soil in full to part sun; a Great Plains and Ozark prairie species rather than Gulf Coast, included for native diversity."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 8
+    },
+    "spacing_in": {
+      "min": 15,
+      "max": 24
+    },
+    "height_in": {
+      "min": 12,
+      "max": 40
+    },
+    "spread_in": {
+      "min": 15,
+      "max": 24
+    },
+    "sun": "partial",
+    "water": "low",
+    "directions": "Native to upland prairies, open dry woods, barrens, and old fields from Illinois and Iowa south to Missouri, Kansas, and northeastern Oklahoma, in sandy or loamy well-drained soils. It produces dense, leafy, pyramidal sprays of small white ray flowers from August into November, valuable for late-season bees and small butterflies in prairie-reconstruction plantings. Establishes colonies from rhizomatous or short branched caudices.",
+    "sources": [
+      "Flora of the Southeastern United States (FSUS)",
+      "Flora of North America"
+    ]
+  },
+  {
+    "slug": "white-prairie-aster",
+    "common_name": "White Prairie Aster",
+    "scientific_name": "Symphyotrichum falcatum",
+    "category": "flower",
+    "subcategory": "native perennial wildflower",
+    "days_to_germination": {
+      "min": 14,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 55,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 120,
+      "max": 150
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Direct-sow in spring into poor, dry, open soil in full sun; a Great Plains xeric-prairie species, best suited to xeriscapes and rock gardens rather than irrigated borders."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 8
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 8,
+      "max": 24
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 18
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Ranging from British Columbia to Manitoba south through the Great Plains and into the drier parts of the western US, including northern Texas and Oklahoma, this low-growing, spreading aster tolerates heat and drought far better than eastern asters. It blooms white with a golden center from July into November, feeding bees, butterflies including monarchs, and later seed-eating finches. Ideal for xeriscapes, rock gardens, and dry prairie restorations.",
+    "sources": [
+      "Minnesota Seasons",
+      "Flora of North America"
+    ]
+  }
+]

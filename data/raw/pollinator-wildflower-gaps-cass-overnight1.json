@@ -1,0 +1,272 @@
+[
+  {
+    "slug": "drummonds-sneezeweed",
+    "common_name": "Drummond's Sneezeweed",
+    "scientific_name": "Helenium drummondii",
+    "category": "flower",
+    "subcategory": "native perennial wildflower",
+    "days_to_germination": {
+      "min": 7,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 90,
+      "max": 180
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Sow seed on the soil surface in fall for winter cold stratification into consistently saturated, acidic, sandy soil in full sun; avoid dry or amended garden beds."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 18,
+      "max": 36
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "high",
+    "directions": "A smaller, more compact Gulf Coast counterpart to the already-present Helenium autumnale, native to bogs, swamps, and wet savannas and pinelands from Texas and Louisiana through Arkansas and the Florida panhandle. It thrives in wet pine savanna and bog-garden conditions with consistently saturated, acidic, sandy soil, performing poorly in dry or fertile garden loam. It suits rain gardens and seasonally flooded sites across the Gulf coastal plain.",
+    "sources": [
+      "Atlas of Florida Plants (University of South Florida)",
+      "ITIS"
+    ]
+  },
+  {
+    "slug": "shortleaf-sneezeweed",
+    "common_name": "Shortleaf Sneezeweed (Littleleaf Sneezeweed)",
+    "scientific_name": "Helenium brevifolium",
+    "category": "flower",
+    "subcategory": "native perennial wildflower",
+    "days_to_germination": {
+      "min": 7,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 90,
+      "max": 180
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Sow fresh seed on the surface in fall into continuously saturated, nutrient-poor, acidic sandy soil; will not tolerate fertile garden loam or drought."
+    },
+    "usda_zones": {
+      "min": 6,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 8,
+      "max": 20
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 18
+    },
+    "sun": "partial",
+    "water": "high",
+    "directions": "A diminutive, mat-forming sneezeweed of acidic seepage bogs and wet pine savanna margins, most abundant on the Gulf coastal plain from the Florida panhandle to eastern Louisiana with disjunct inland populations. Much shorter than other Helenium species, it suits the front of a wet meadow or bog-garden planting rather than a mixed border. It pairs naturally with pitcher plants and other longleaf-pine-savanna wetland associates.",
+    "sources": [
+      "Flora of the Southeastern United States (FSUS)",
+      "Flora of North America"
+    ]
+  },
+  {
+    "slug": "louisiana-goldenrod",
+    "common_name": "Louisiana Goldenrod",
+    "scientific_name": "Solidago ludoviciana",
+    "category": "flower",
+    "subcategory": "native perennial wildflower",
+    "days_to_germination": {
+      "min": 14,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 90,
+      "max": 180
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Direct-sow in fall into dry, sandy, infertile soil in full sun, mimicking longleaf pine woodland or sandhill habitat."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 24,
+      "max": 60
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "A drought-tolerant goldenrod of sandy longleaf pine woodlands across the western Gulf Coast from Arkansas and Oklahoma south into Louisiana and Texas, blooming August through October in slender, arching racemes. It performs well in dry, sandy, infertile soils where it would be outcompeted in richer beds, making it a good fit for Gulf Coast sandhill or pine-savanna wildflower plantings and dry roadside or meadow restorations.",
+    "sources": [
+      "USDA PLANTS Database",
+      "Flora of the Southeastern United States (FSUS)"
+    ]
+  },
+  {
+    "slug": "oldfield-sneezeweed",
+    "common_name": "Oldfield Sneezeweed (Arkansas Sneezeweed)",
+    "scientific_name": "Helenium campestre",
+    "category": "flower",
+    "subcategory": "native perennial wildflower",
+    "days_to_germination": {
+      "min": 7,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 90,
+      "max": 180
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Direct-sow in fall into seasonally moist soil in full sun, mimicking the ditches, fields, and streambank edges of its native habitat; source seed or plants only from vetted native suppliers given the close resemblance to Helenium flexuosum."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 24,
+      "max": 40
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "A narrow-range sneezeweed native only to Arkansas and northwestern Louisiana, distinguished from the similar, already-present Helenium flexuosum mainly by disk-floret lobe count, a subtle field identification. It grows in seasonally moist ditches, fields, and streambank edges within its small range, and garden culture should mirror its more widespread relative: moist soil, full sun, and fall sowing.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center"
+    ]
+  },
+  {
+    "slug": "larsens-ironweed",
+    "common_name": "Larsen's Ironweed",
+    "scientific_name": "Vernonia larseniae",
+    "category": "flower",
+    "subcategory": "native perennial",
+    "days_to_germination": {
+      "min": 21,
+      "max": 30
+    },
+    "germination_soil_temp_f": {
+      "min": 55,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 90,
+      "max": 180
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Direct-sow in spring into excellent-drainage limestone or rocky, low-fertility soil in full sun; this xeric Trans-Pecos species is not interchangeable with the moisture-loving ironweeds already in the collection and rots quickly in wet soil."
+    },
+    "usda_zones": {
+      "min": 6,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 24,
+      "max": 40
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Unlike the moisture-loving ironweeds already present, this silvery-hairy, xeric-adapted species comes from limestone arroyos in the Texas Trans-Pecos and adjacent Coahuila, Mexico, and needs excellent drainage on rocky, low-fertility soil to avoid winter rot. Position it as a Texas or arid-Southwest rock-garden and xeriscape ironweed rather than a Gulf Coast prairie plant, since multi-year trial data shows it fails quickly in consistently moist eastern garden soil. Give it the sharpest-draining spot available and minimal supplemental water once established.",
+    "sources": [
+      "Mt. Cuba Center Vernonia trial",
+      "Plants of the World Online (Kew)",
+      "Lady Bird Johnson Wildflower Center"
+    ]
+  }
+]

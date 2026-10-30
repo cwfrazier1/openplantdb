@@ -1,0 +1,274 @@
+[
+  {
+    "slug": "red-lovegrass",
+    "common_name": "Red Lovegrass (Purple Lovegrass)",
+    "scientific_name": "Eragrostis secundiflora",
+    "category": "flower",
+    "subcategory": "native ornamental grass",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 120,
+      "max": 150
+    },
+    "maturity_from": "transplant",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Soak seed 24 hours before direct-sowing in spring into lean, sandy, well-drained soil in full sun; avoid rich or heavily amended beds, which cause floppy growth."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 24,
+      "max": 36
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 18
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "An early colonizer of disturbed sandy ground across the Gulf South, this fine-textured bunchgrass is valued for rapid erosion control and for the reddish-maroon cast its panicles take on in late summer, giving the plant its common name. It thrives in lean, sandy, well-drained soil and declines in rich or moist beds. Leave seed heads standing through winter for birds rather than cutting back in fall.",
+    "sources": [
+      "USDA NRCS Plant Guide - Red Lovegrass",
+      "Lady Bird Johnson Wildflower Center",
+      "Native Plant Society of Texas"
+    ]
+  },
+  {
+    "slug": "coastal-lovegrass",
+    "common_name": "Coastal Lovegrass",
+    "scientific_name": "Eragrostis refracta",
+    "category": "flower",
+    "subcategory": "native ornamental grass",
+    "days_to_germination": {
+      "min": 14,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 120,
+      "max": 160
+    },
+    "maturity_from": "transplant",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Direct-sow in spring into seasonally moist, sandy, acidic soil; tolerates part shade better than most lovegrasses, so a naturalistic pine-savanna understory planting suits it well."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 30
+    },
+    "height_in": {
+      "min": 18,
+      "max": 40
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "A fire-adapted tufted grass of pine savannas, flatwoods, and moist pinelands from Delaware to Texas, this species mimics open-understory conditions when used in naturalistic southeastern pine-savanna plantings. Many wild populations rely on periodic burning for vigor, so an occasional hard cutback in late winter serves the same renewing purpose in a garden setting. It performs best in seasonally moist, sandy, acidic soil rather than rich garden loam.",
+    "sources": [
+      "Coastal Plain Plants Wiki",
+      "Lady Bird Johnson Wildflower Center"
+    ]
+  },
+  {
+    "slug": "longbeard-bluestem",
+    "common_name": "Longbeard Bluestem",
+    "scientific_name": "Andropogon longiberbis",
+    "category": "flower",
+    "subcategory": "native ornamental grass",
+    "days_to_germination": {
+      "min": 14,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 140,
+      "max": 180
+    },
+    "maturity_from": "transplant",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Direct-sow or transplant in spring into nutrient-poor sandy or limestone soil in full sun; needs no supplemental fertilizer and performs worse in rich garden soil."
+    },
+    "usda_zones": {
+      "min": 8,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 24,
+      "max": 30
+    },
+    "height_in": {
+      "min": 24,
+      "max": 48
+    },
+    "spread_in": {
+      "min": 24,
+      "max": 30
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "A fast-growing clumping bluestem of Florida and southeastern Coastal Plain pine rocklands and sandhills, thriving in nutrient-poor sandy or limestone soil without supplemental fertilizer. Nearly as broad as it is tall in foliage, it sends up conspicuous silvery-white bearded flower stalks in late summer and fall. Best suited to naturalistic restorations and dry, low-fertility sites; rich garden soil causes weak, floppy growth.",
+    "sources": [
+      "Institute for Regional Conservation - Natives for Your Neighborhood",
+      "Coastal Plain Plants Wiki"
+    ]
+  },
+  {
+    "slug": "beaked-panicgrass",
+    "common_name": "Beaked Panicgrass",
+    "scientific_name": "Panicum anceps",
+    "category": "flower",
+    "subcategory": "native ornamental grass",
+    "days_to_germination": {
+      "min": 21,
+      "max": 35
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 150,
+      "max": 180
+    },
+    "maturity_from": "transplant",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Fall-sow for natural cold stratification (needs roughly 60 days) into moist, sandy soil in part sun; the rhizomatous habit suits bank stabilization and shaded wet-meadow plantings."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 24,
+      "max": 36
+    },
+    "height_in": {
+      "min": 24,
+      "max": 48
+    },
+    "spread_in": {
+      "min": 24,
+      "max": 36
+    },
+    "sun": "partial",
+    "water": "high",
+    "directions": "Found naturally in moist-to-wet sandy pinelands, maritime forests, and ditches across the southeastern US, this grass gets its common name from the distinctive arching second glume that gives each spikelet a beaked look. Its rhizomatous habit makes it useful for bank stabilization and shaded wet-meadow plantings where many ornamental grasses struggle, and the seed is a good food source for upland birds and waterfowl. It flowers best with several hours of direct sun even though it tolerates part shade better than most warm-season panicgrasses.",
+    "sources": [
+      "USDA NRCS Plant Fact Sheet - Beaked Panicgrass",
+      "NC State Extension",
+      "Lady Bird Johnson Wildflower Center"
+    ]
+  },
+  {
+    "slug": "redtop-panicgrass",
+    "common_name": "Redtop Panicgrass",
+    "scientific_name": "Panicum rigidulum",
+    "category": "flower",
+    "subcategory": "native ornamental grass",
+    "days_to_germination": {
+      "min": 14,
+      "max": 28
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 130,
+      "max": 160
+    },
+    "maturity_from": "transplant",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Direct-sow or transplant in spring into consistently moist clay or wet soil in full to part sun; does not tolerate extended drought, especially in the first growing season."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 24,
+      "max": 48
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 24
+    },
+    "sun": "partial",
+    "water": "high",
+    "directions": "A robust wetland bunchgrass of marshes, ditches, floodplain woods, and pond margins across the eastern US, with reddish-purple inflorescences from midsummer through fall. It tolerates standing water and poorly drained clay as well as average garden soil, making it a reliable choice for rain gardens and pond edges where most ornamental grasses rot out. Keep soil consistently moist, since it does not tolerate extended drought.",
+    "sources": [
+      "Lady Bird Johnson Wildflower Center",
+      "Institute for Regional Conservation - Natives for Your Neighborhood"
+    ]
+  }
+]

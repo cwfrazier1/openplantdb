@@ -1,0 +1,325 @@
+[
+  {
+    "slug": "manda-pecan",
+    "common_name": "Manda Pecan (Louisiana Native Scab-Tolerant Selection)",
+    "scientific_name": "Carya illinoinensis 'Manda'",
+    "category": "fruit",
+    "subcategory": "pecan",
+    "days_to_germination": {
+      "min": 90,
+      "max": 150
+    },
+    "germination_soil_temp_f": {
+      "min": 50,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 1825,
+      "max": 2555
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -4
+      },
+      "note": "Plant grafted trees in late winter while dormant; thin crop load in heavy years or provide structural support, since this selection is notably precocious and prone to overbearing."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 360,
+      "max": 720
+    },
+    "height_in": {
+      "min": 480,
+      "max": 720
+    },
+    "spread_in": {
+      "min": 360,
+      "max": 480
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "A native seedling selection identified in Pointe Coupee Parish, Louisiana, promoted by LSU AgCenter as a low-input, scab-tolerant option for home orchards and backyard trees. It is notably precocious, with reports of 5 pounds of nuts within 4 years of planting, and can overbear, occasionally causing limb breakage, so thin crop load or support heavy limbs. A good fit for a zone 9a low-spray backyard tree paired with a Type II pollinator nearby.",
+    "sources": [
+      "LSU AgCenter, Uncovering Louisiana's Hidden Pecan Gems",
+      "The Advocate - From Tree to Table: A Guide to Growing Disease-Resistant Pecan Varieties in Louisiana"
+    ]
+  },
+  {
+    "slug": "eclipse-pecan",
+    "common_name": "Eclipse Pecan (USDA Extra-Early Scab-Resistant Selection)",
+    "scientific_name": "Carya illinoinensis 'Eclipse'",
+    "category": "fruit",
+    "subcategory": "pecan",
+    "days_to_germination": {
+      "min": 90,
+      "max": 150
+    },
+    "germination_soil_temp_f": {
+      "min": 50,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 1825,
+      "max": 2555
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -4
+      },
+      "note": "Plant grafted trees in late winter while dormant; its very early harvest window lets Gulf South growers get nuts in before fall rains cause shuck and kernel deterioration."
+    },
+    "usda_zones": {
+      "min": 6,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 360,
+      "max": 720
+    },
+    "height_in": {
+      "min": 480,
+      "max": 720
+    },
+    "spread_in": {
+      "min": 360,
+      "max": 480
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "A USDA-ARS release from a Mohawk x Starking Hardy Giant cross, a full sibling of Pawnee, combining Pawnee's extremely early harvest around early-to-mid September with dramatically better scab resistance; in side-by-side evaluation scab covered only about 3 percent of shuck compared to 100 percent on Pawnee. Its early maturity is a real advantage in zone 9 humidity, letting growers beat the worst of fall scab and rain pressure. Pair with a Type I pollinator for reliable nut set.",
+    "sources": [
+      "USPTO Plant Patent USPP22729P3 - Pecan tree named Eclipse",
+      "Alabama Pecan Growers Association - Pecan Cultivar Recommendations for the Southeast"
+    ]
+  },
+  {
+    "slug": "adams-5-pecan",
+    "common_name": "Adams 5 Pecan (Extreme Scab-Resistant Home Orchard Selection)",
+    "scientific_name": "Carya illinoinensis 'Adams 5'",
+    "category": "fruit",
+    "subcategory": "pecan",
+    "days_to_germination": {
+      "min": 90,
+      "max": 150
+    },
+    "germination_soil_temp_f": {
+      "min": 50,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 1825,
+      "max": 2555
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -4
+      },
+      "note": "Plant grafted trees in late winter while dormant; small nut size (around 81 per pound) makes this better suited to home and yard use than commercial production."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 360,
+      "max": 720
+    },
+    "height_in": {
+      "min": 480,
+      "max": 720
+    },
+    "spread_in": {
+      "min": 360,
+      "max": 480
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "A Mitchell County, Georgia seedling that Auburn University evaluators rate as among the most scab-resistant pecans ever tested, rarely if ever observed to scab even under heavy disease pressure. Nuts are small, so it is recommended for home and yard use rather than commercial sale, but that trade-off buys an excellent zero-spray choice for a zone 9a backyard where disease pressure is relentless. Pair with a complementary pollination-type cultivar for best nut set.",
+    "sources": [
+      "Alabama Pecan Growers Association - Pecan Cultivar Recommendations for the Southeast",
+      "UGA Extension C898 - Pecan Varieties for Georgia Orchards"
+    ]
+  },
+  {
+    "slug": "baby-b-pecan",
+    "common_name": "Baby B Pecan (Early-Season Georgia Selection)",
+    "scientific_name": "Carya illinoinensis 'Baby B'",
+    "category": "fruit",
+    "subcategory": "pecan",
+    "days_to_germination": {
+      "min": 90,
+      "max": 150
+    },
+    "germination_soil_temp_f": {
+      "min": 50,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 1825,
+      "max": 2555
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -4
+      },
+      "note": "Plant grafted trees in late winter while dormant; light fungicide application is still advisable in the wettest Gulf Coast seasons despite its good scab resistance."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 360,
+      "max": 720
+    },
+    "height_in": {
+      "min": 480,
+      "max": 720
+    },
+    "spread_in": {
+      "min": 360,
+      "max": 480
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "A Dougherty County, Georgia seedling resembling Elliott in appearance, with a very early harvest window similar to Pawnee and Kanza, good foliage condition, and consistently heavy yields. Its good scab resistance makes it a reasonably low-input choice, though light spraying is still advisable in the wettest Gulf Coast seasons. Pair with a Type I cultivar for reliable cross-pollination.",
+    "sources": [
+      "Alabama Pecan Growers Association - Pecan Cultivar Recommendations for the Southeast",
+      "Sundown Farms pecan variety reference"
+    ]
+  },
+  {
+    "slug": "miss-l-pecan",
+    "common_name": "Miss L Pecan (Louisiana Native Yard-Tree Selection)",
+    "scientific_name": "Carya illinoinensis 'Miss L'",
+    "category": "fruit",
+    "subcategory": "pecan",
+    "days_to_germination": {
+      "min": 90,
+      "max": 150
+    },
+    "germination_soil_temp_f": {
+      "min": 50,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 1825,
+      "max": 2555
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -4
+      },
+      "note": "Plant grafted trees in late winter while dormant; small nut size (around 86 per pound) marks it as a yard tree rather than a commercial variety."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 360,
+      "max": 720
+    },
+    "height_in": {
+      "min": 480,
+      "max": 720
+    },
+    "spread_in": {
+      "min": 360,
+      "max": 480
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Another Pointe Coupee Parish, Louisiana native selection, rated excellent for scab resistance with good pest resistance and quality kernels. Growers are explicitly advised this is a yard-tree variety rather than a commercial one, exactly the profile suited to a zone 9a home garden where low maintenance matters more than maximizing nut size. Give it room to reach full size and pair with a complementary pollination-type cultivar.",
+    "sources": [
+      "Alabama Pecan Growers Association - Pecan Cultivar Recommendations for the Southeast"
+    ]
+  },
+  {
+    "slug": "jubilee-pecan",
+    "common_name": "Jubilee Pecan (Self-Fertile Fungicide-Free Scab Resistance)",
+    "scientific_name": "Carya illinoinensis 'Jubilee'",
+    "category": "fruit",
+    "subcategory": "pecan",
+    "days_to_germination": {
+      "min": 90,
+      "max": 150
+    },
+    "germination_soil_temp_f": {
+      "min": 50,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 1825,
+      "max": 2555
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -4
+      },
+      "note": "Plant grafted trees in late winter while dormant; self-fertile, so it bears reliably even in an isolated yard planting, though a Type II partner nearby still improves yield."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 360,
+      "max": 720
+    },
+    "height_in": {
+      "min": 480,
+      "max": 720
+    },
+    "spread_in": {
+      "min": 360,
+      "max": 480
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Discovered as a chance seedling in Baldwin County, Alabama, and patented for its documented ability to produce high-quality, large, thin-shelled nuts annually without fungicide under severe scab pressure. It is self-fertile, a useful trait for isolated yard plantings where cross-pollination with a second cultivar isn't guaranteed. Expect consistent annual bearing rather than the alternate-year cycling common in many other pecan cultivars.",
+    "sources": [
+      "USPTO Plant Patent USPP5485P - Pecan tree (Jubilee)",
+      "UF/IFAS Gardening Solutions pecan variety guide"
+    ]
+  }
+]

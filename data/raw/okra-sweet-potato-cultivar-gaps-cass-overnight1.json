@@ -1,0 +1,164 @@
+[
+  {
+    "slug": "emerald-okra",
+    "common_name": "Emerald Okra",
+    "scientific_name": "Abelmoschus esculentus 'Emerald'",
+    "category": "vegetable",
+    "subcategory": "okra",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 95
+    },
+    "days_to_maturity": {
+      "min": 55,
+      "max": 60
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 4
+      },
+      "note": "Direct sow once soil is reliably above 65F; plants run tall, so site where they won't shade shorter crops."
+    },
+    "usda_zones": {
+      "min": 2,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 60,
+      "max": 96
+    },
+    "spread_in": {
+      "min": 24,
+      "max": 36
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Bred by Campbell Soup Company in 1950 from a cross of several classic okra lines specifically to hold color and texture through canning, still a good choice for anyone processing okra rather than just eating it fresh. Pods stay tender even at 4-5 inches, which forgives missed picking days in a hot Gulf Coast August. It is drought-tolerant once established despite its warm-season water needs during fruit set.",
+    "sources": [
+      "Victory Seed Company",
+      "Willhite Seed"
+    ]
+  },
+  {
+    "slug": "charleston-scarlet-sweet-potato",
+    "common_name": "Charleston Scarlet Sweet Potato",
+    "scientific_name": "Ipomoea batatas 'Charleston Scarlet'",
+    "category": "vegetable",
+    "subcategory": "sweet potato",
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": 75,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 120,
+      "max": 120
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 3,
+        "max": 4
+      },
+      "note": "Plant slips after soil has warmed above 65F into well-drained, sandy soil in full sun; strong low-spray option where sweetpotato weevil pressure is severe."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 12
+    },
+    "height_in": {
+      "min": 8,
+      "max": 12
+    },
+    "spread_in": {
+      "min": 36,
+      "max": 48
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Released in 2010 by USDA-ARS Charleston, South Carolina as a very sweet, orange-fleshed, scarlet-skinned cultivar bred specifically for high resistance to soil insects, including sweetpotato weevil, and nematodes, a strong low-spray option for sandy Gulf Coast soils. It bakes with excellent moist, sweet flesh, and bedded roots sprout uniform, transplant-ready slips reliably.",
+    "sources": [
+      "USDA ARS - Notice of release of Charleston Scarlet",
+      "Clemson HGIC - Sweetpotatoes"
+    ]
+  },
+  {
+    "slug": "liberty-sweet-potato",
+    "common_name": "Liberty Sweet Potato (Boniato Type)",
+    "scientific_name": "Ipomoea batatas 'Liberty'",
+    "category": "vegetable",
+    "subcategory": "sweet potato",
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": 75,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 100,
+      "max": 110
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 3,
+        "max": 4
+      },
+      "note": "Plant slips after soil has warmed above 65F into sandy, well-drained soil in full sun; a good nematode-resistant option for sandy Gulf Coast ground where standard boniato varieties struggle."
+    },
+    "usda_zones": {
+      "min": 8,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 15
+    },
+    "height_in": {
+      "min": 8,
+      "max": 12
+    },
+    "spread_in": {
+      "min": 36,
+      "max": 48
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Developed jointly by USDA-ARS and Clemson University as the first multiple-pest-resistant boniato release, highly resistant to nematodes and moderately resistant to soil insects and Fusarium wilt. Dry, light-yellow flesh with dark-red skin gives a notably bland, starchy character closer to a true potato-eating experience than a dessert-sweet type, and unlike most boniatos it doesn't darken after peeling, which makes it more forgiving for home cooks doing Caribbean or Latin-style preparations.",
+    "sources": [
+      "ScienceDaily - Not-So-Sweet Potato Resists Pests, Disease",
+      "USDA ARS publication record"
+    ]
+  }
+]

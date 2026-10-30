@@ -1,0 +1,109 @@
+[
+  {
+    "slug": "massa-chervil",
+    "common_name": "Massa Chervil (Dark Smooth-Leaf Plain Chervil)",
+    "scientific_name": "Anthriscus cerefolium 'Massa'",
+    "category": "herb",
+    "subcategory": "culinary herb cultivar",
+    "days_to_germination": {
+      "min": 10,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 55,
+      "max": 65
+    },
+    "days_to_maturity": {
+      "min": 45,
+      "max": 60
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "first_frost",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -4
+      },
+      "note": "Direct-sow in fall for a cool-season crop, since fall sowing is this cultivar's strength; also usable in late winter to early spring. Treat strictly as a fall-through-spring crop in zone 9a, growing it in shade once temperatures climb."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 6,
+      "max": 9
+    },
+    "height_in": {
+      "min": 10,
+      "max": 18
+    },
+    "spread_in": {
+      "min": 6,
+      "max": 10
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "A dark-green, smooth-leaf European market chervil bred for uniformity, high yield, and notably later bolting than standard chervil, making it a good choice for stretching the harvest window in Gulf Coast spring before heat shuts chervil down entirely. It is not heat-tolerant in the Mediterranean-herb sense, but it resists bolting a bit longer than curled chervil types and has strong cold tolerance. Expect it to finish by late spring regardless of care.",
+    "sources": [
+      "Osborne Seed",
+      "QuickCrop"
+    ]
+  },
+  {
+    "slug": "prostrate-white-winter-savory",
+    "common_name": "Prostrate White Winter Savory",
+    "scientific_name": "Satureja montana 'Prostrate White'",
+    "category": "herb",
+    "subcategory": "groundcover culinary herb cultivar",
+    "days_to_germination": {
+      "min": 14,
+      "max": 21
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 70
+    },
+    "days_to_maturity": {
+      "min": 75,
+      "max": 90
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -2,
+        "max": 2
+      },
+      "note": "Direct-sow or transplant into gritty, fast-draining, lean soil in full sun; good air circulation matters more than shade in humid zone 9a."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 10,
+      "max": 15
+    },
+    "height_in": {
+      "min": 4,
+      "max": 8
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 18
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "A low, mat-forming winter savory selection with white flowers, distinct from the already-present blue-flowered and mounding dwarf cultivars in the collection. Give it the same gritty, fast-draining, lean soil a thyme or rosemary would want. In humid zone 9a the limiting factor is wet feet and foliar fungal disease rather than heat, so raised beds, rock gardens, or containers with inorganic mulch will outperform typical garden soil.",
+    "sources": [
+      "Missouri Botanical Garden Plant Finder"
+    ]
+  }
+]

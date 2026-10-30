@@ -1,0 +1,216 @@
+[
+  {
+    "slug": "woodland-spiderwort",
+    "common_name": "Woodland Spiderwort",
+    "scientific_name": "Tradescantia ernestiana",
+    "category": "flower",
+    "subcategory": "native perennial wildflower",
+    "days_to_germination": {
+      "min": 14,
+      "max": 30
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 90,
+      "max": 180
+    },
+    "maturity_from": "seed",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Divide in spring into humusy, acidic, evenly moist soil under high open shade; plant among later-emerging perennials to mask its early-summer dormancy."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 12,
+      "max": 24
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 18
+    },
+    "sun": "shade",
+    "water": "moderate",
+    "directions": "Native to moist woodland ravines and bluffs on calcareous substrate from Missouri and Oklahoma through Arkansas, Mississippi, Alabama, and Georgia, this is a genuine true-shade spiderwort suited to the understory of deciduous woods. Like most woodland spiderworts it goes dormant in June heat, so plant it among later perennials to fill the resulting gap. Divide every 2-3 years to maintain vigor.",
+    "sources": [
+      "Missouri Botanical Garden Plant Finder",
+      "Grow Native! (Missouri Prairie Foundation)"
+    ]
+  },
+  {
+    "slug": "wild-crocus-dwarf-spiderwort",
+    "common_name": "Wild Crocus (Dwarf Spiderwort)",
+    "scientific_name": "Tradescantia longipes",
+    "category": "flower",
+    "subcategory": "native perennial wildflower",
+    "days_to_germination": {
+      "min": 14,
+      "max": 30
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 90,
+      "max": 180
+    },
+    "maturity_from": "seed",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Divide in spring into moist, acidic, well-drained soil in part shade; cut foliage back hard after bloom decline for a possible fall rebloom flush."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 8,
+      "max": 12
+    },
+    "height_in": {
+      "min": 6,
+      "max": 9
+    },
+    "spread_in": {
+      "min": 6,
+      "max": 10
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "An Ozark endemic from rocky wooded slopes in southern Missouri, northern Arkansas, and the Ouachita Mountains, much shorter and more compact than typical garden spiderworts. It suits a shaded rock garden or the front of a woodland groundcover planting where a tall spiderwort would overwhelm neighboring plants. It self-sows modestly and can rebloom in fall after a hard cutback.",
+    "sources": [
+      "Missouri Botanical Garden Plant Finder",
+      "Missouri Department of Conservation Field Guide"
+    ]
+  },
+  {
+    "slug": "ozark-spiderwort",
+    "common_name": "Ozark Spiderwort",
+    "scientific_name": "Tradescantia ozarkana",
+    "category": "flower",
+    "subcategory": "native perennial wildflower",
+    "days_to_germination": {
+      "min": 14,
+      "max": 30
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 90,
+      "max": 180
+    },
+    "maturity_from": "seed",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Divide in spring into moist, well-drained soil in sun to part shade; source from a reputable native propagator rather than wild-collected material given its vulnerable conservation status."
+    },
+    "usda_zones": {
+      "min": 6,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 15
+    },
+    "height_in": {
+      "min": 18,
+      "max": 24
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 15
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "An Ozark and Ouachita Mountains endemic from Missouri, Oklahoma, and Arkansas, found on rocky wooded slopes and bluff bases. It is listed as vulnerable in the wild, partly due to feral hog disturbance in its native range, so this is best treated as a conservation-value native rather than a widely cultivated garden plant and should be sourced only from reputable native propagators. Grow in moist, well-drained soil in sun to part shade.",
+    "sources": [
+      "NatureServe Explorer"
+    ]
+  },
+  {
+    "slug": "giant-spiderwort",
+    "common_name": "Giant Spiderwort",
+    "scientific_name": "Tradescantia gigantea",
+    "category": "flower",
+    "subcategory": "native perennial wildflower",
+    "days_to_germination": {
+      "min": 14,
+      "max": 30
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 90,
+      "max": 180
+    },
+    "maturity_from": "seed",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Divide in spring into average garden soil at a woodland edge or sunny prairie-style bed; tolerates considerably more sun than most spiderwort species."
+    },
+    "usda_zones": {
+      "min": 9,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 24,
+      "max": 36
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 18
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "A Texas and Louisiana native found at prairie and woodland-edge sites, genuinely more sun-tolerant than most of the spiderworts already in the collection, making it a bridge plant between a sunny prairie bed and a shaded border. Its tall, upright habit and large blue-violet flowers give strong visual presence through the morning bloom window typical of the genus. Works well massed at a woodland edge where sun exposure varies through the day.",
+    "sources": [
+      "Native Plant Society of Texas"
+    ]
+  }
+]

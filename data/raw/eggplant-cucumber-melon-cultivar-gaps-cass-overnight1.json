@@ -1,0 +1,434 @@
+[
+  {
+    "slug": "black-bell-eggplant",
+    "common_name": "Black Bell Eggplant (Early Productive Hybrid Classic Purple-Black Eggplant)",
+    "scientific_name": "Solanum melongena 'Black Bell'",
+    "category": "vegetable",
+    "subcategory": "eggplant",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 75,
+      "max": 90
+    },
+    "days_to_maturity": {
+      "min": 60,
+      "max": 70
+    },
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -6
+      },
+      "note": "Start indoors 8-10 weeks before transplanting, setting out 2-3 weeks after last frost into fertile, well-drained soil in full sun."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 24,
+      "max": 30
+    },
+    "spread_in": {
+      "min": 20,
+      "max": 26
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "A Petoseed-bred hybrid producing round-oval, glossy black-purple fruit, named in LSU AgCenter's Louisiana variety recommendations alongside Dusky and Night Shadow as an early, heavy-setting, adaptable eggplant. It holds fruit well above ground on a compact plant, which helps reduce soil-splash disease in humid Gulf gardens. Harvest at full glossy color before seeds enlarge for best texture.",
+    "sources": [
+      "LSU AgCenter / Seeds to Success - Recommended Eggplant Varieties for Louisiana",
+      "Bayer/Seminis vegetables product catalog"
+    ]
+  },
+  {
+    "slug": "cloud-nine-eggplant",
+    "common_name": "Cloud Nine Eggplant (White Teardrop Heat-Tolerant Eggplant)",
+    "scientific_name": "Solanum melongena 'Cloud Nine'",
+    "category": "vegetable",
+    "subcategory": "eggplant",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 75,
+      "max": 90
+    },
+    "days_to_maturity": {
+      "min": 70,
+      "max": 75
+    },
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -8,
+        "max": -6
+      },
+      "note": "Start indoors 8-10 weeks before transplanting; mulch heavily and keep moisture consistent, since white skin shows sunscald more readily than purple types in intense summer sun."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 24,
+      "max": 30
+    },
+    "spread_in": {
+      "min": 20,
+      "max": 26
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "A pure-white, teardrop-shaped specialty eggplant with mild, non-bitter flesh and tobacco mosaic virus resistance, one of the miniature specialty varieties LSU AgCenter and UF/IFAS both list for Gulf South gardens. Mulch heavily and keep moisture consistent to prevent bitter, seedy fruit under heat stress, since white-skinned types scorch more readily than purple ones.",
+    "sources": [
+      "LSU AgCenter / Seeds to Success - Recommended Eggplant Varieties for Louisiana",
+      "UF/IFAS Florida Vegetable Gardening Guide"
+    ]
+  },
+  {
+    "slug": "general-lee-cucumber",
+    "common_name": "General Lee Cucumber (Gynoecious Hybrid Slicer Bred for the South)",
+    "scientific_name": "Cucumis sativus 'General Lee'",
+    "category": "vegetable",
+    "subcategory": "slicing cucumber",
+    "days_to_germination": {
+      "min": 7,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 95
+    },
+    "days_to_maturity": {
+      "min": 63,
+      "max": 66
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 2
+      },
+      "note": "Direct sow after last frost when soil is above 65F; trellis to keep fruit straight and improve airflow, reducing disease pressure in Gulf Coast humidity."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 12,
+      "max": 18
+    },
+    "spread_in": {
+      "min": 36,
+      "max": 72
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Bred specifically for Southern growing conditions, this gynoecious hybrid produces uniform, dark green, white-spined fruit with high resistance to scab and intermediate resistance to cucumber mosaic virus and powdery mildew. LSU AgCenter lists it as adaptable and bred for the South. Trellising keeps fruit straight and reduces disease pressure in Gulf Coast humidity.",
+    "sources": [
+      "LSU AgCenter / Seeds to Success - Recommended Cucumber Varieties for Louisiana",
+      "Johnny's Selected Seeds"
+    ]
+  },
+  {
+    "slug": "eureka-cucumber",
+    "common_name": "Eureka Cucumber (Disease-Resistant Dual-Purpose Slicer-Pickler)",
+    "scientific_name": "Cucumis sativus 'Eureka'",
+    "category": "vegetable",
+    "subcategory": "slicing cucumber",
+    "days_to_germination": {
+      "min": 7,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 95
+    },
+    "days_to_maturity": {
+      "min": 56,
+      "max": 57
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 2
+      },
+      "note": "Direct sow after last frost when soil is above 65F; harvest young for pickling or let size up for fresh eating."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 12,
+      "max": 18
+    },
+    "spread_in": {
+      "min": 36,
+      "max": 72
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "An early, very productive dual-purpose hybrid, good fresh-eating at full size or pickled younger, carrying an unusually broad disease-resistance package covering angular leaf spot, anthracnose, downy and powdery mildew, scab, and several mosaic viruses. That breadth of resistance is a real asset in Gulf Coast summers, where several of these diseases overlap and often end a cucumber planting by midsummer.",
+    "sources": [
+      "LSU AgCenter / Seeds to Success - Recommended Cucumber Varieties for Louisiana",
+      "Park Seed"
+    ]
+  },
+  {
+    "slug": "thunder-cucumber",
+    "common_name": "Thunder Cucumber (Extra-Long Gynoecious Hybrid Slicer)",
+    "scientific_name": "Cucumis sativus 'Thunder'",
+    "category": "vegetable",
+    "subcategory": "slicing cucumber",
+    "days_to_germination": {
+      "min": 7,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 95
+    },
+    "days_to_maturity": {
+      "min": 55,
+      "max": 56
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 2
+      },
+      "note": "Direct sow after last frost when soil is above 65F; trellis the vigorous vines to support extra-long fruit."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 12,
+      "max": 18
+    },
+    "spread_in": {
+      "min": 36,
+      "max": 72
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "A gynoecious hybrid producing extra-long, smooth, dark green slicers on vigorous vines, with resistance to scab, downy and powdery mildew, anthracnose, and several mosaic viruses. LSU AgCenter recommends it as an early, heavy producer well suited to Louisiana's humid growing season; its broad mildew resistance is the main reason it holds up through Gulf Coast summer humidity better than older slicers.",
+    "sources": [
+      "LSU AgCenter / Seeds to Success - Recommended Cucumber Varieties for Louisiana",
+      "Stokes Seeds"
+    ]
+  },
+  {
+    "slug": "carolina-cucumber",
+    "common_name": "Carolina Cucumber (Early Gynoecious Pickling Hybrid)",
+    "scientific_name": "Cucumis sativus 'Carolina'",
+    "category": "vegetable",
+    "subcategory": "pickling cucumber",
+    "days_to_germination": {
+      "min": 7,
+      "max": 10
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 95
+    },
+    "days_to_maturity": {
+      "min": 49,
+      "max": 52
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 2
+      },
+      "note": "Direct sow after last frost when soil is above 65F; its very short days-to-maturity suit an early spring planting plus a second fall sowing once temperatures ease."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 10,
+      "max": 14
+    },
+    "spread_in": {
+      "min": 36,
+      "max": 60
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Developed at the North Carolina Agricultural Experiment Station as a high-yielding commercial pickler, this fast, gynoecious hybrid produces blocky, dark green fruit with broad disease resistance covering angular leaf spot, anthracnose, cucumber mosaic virus, downy and powdery mildew, and scab. Its very short days-to-maturity make it ideal for an early spring planting that beats the worst of Gulf Coast midsummer disease pressure, with a second fall sowing possible.",
+    "sources": [
+      "LSU AgCenter / Seeds to Success - Recommended Cucumber Varieties for Louisiana",
+      "Rupp Seeds"
+    ]
+  },
+  {
+    "slug": "primo-cantaloupe",
+    "common_name": "Primo Cantaloupe (Powdery Mildew-Resistant Western Shipper Hybrid)",
+    "scientific_name": "Cucumis melo 'Primo'",
+    "category": "vegetable",
+    "subcategory": "melon",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 95
+    },
+    "days_to_maturity": {
+      "min": 79,
+      "max": 85
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Direct sow after last frost when soil is warm; its powdery mildew resistance is the key reason it performs through humid Gulf summers better than non-resistant heirloom cantaloupes."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 36,
+      "max": 48
+    },
+    "height_in": {
+      "min": 12,
+      "max": 18
+    },
+    "spread_in": {
+      "min": 48,
+      "max": 72
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "An early, large oval melon with heavy netting, a small seed cavity, and firm, dark-orange flesh, carrying resistance to powdery mildew races 1 and 2. LSU AgCenter lists it among its Louisiana cantaloupe recommendations; the mildew resistance is the key reason it performs through humid Gulf summers better than non-resistant heirloom cantaloupes.",
+    "sources": [
+      "LSU AgCenter / Seeds to Success - Recommended Cantaloupe and Watermelon Varieties for Louisiana",
+      "Willhite Seed"
+    ]
+  },
+  {
+    "slug": "mission-cantaloupe",
+    "common_name": "Mission Cantaloupe (Early Round Sutureless Hybrid Muskmelon)",
+    "scientific_name": "Cucumis melo 'Mission'",
+    "category": "vegetable",
+    "subcategory": "melon",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 95
+    },
+    "days_to_maturity": {
+      "min": 75,
+      "max": 82
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Direct sow after last frost when soil is warm; its early maturity helps finish a spring melon crop before peak summer disease and heat stress build up."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 36,
+      "max": 48
+    },
+    "height_in": {
+      "min": 12,
+      "max": 18
+    },
+    "spread_in": {
+      "min": 48,
+      "max": 72
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "An Asgrow-bred hybrid producing round, medium-large, sutureless melons with a small cavity, strong rind net, and firm interior, maturing roughly 5 to 6 days earlier than the industry-standard Top Mark. LSU AgCenter includes it among its Louisiana cantaloupe list. Its early maturity is an advantage for Gulf Coast gardeners trying to finish a spring melon crop before peak summer disease and heat stress build up.",
+    "sources": [
+      "LSU AgCenter / Seeds to Success - Recommended Cantaloupe and Watermelon Varieties for Louisiana",
+      "NC State University - Vegetable Cultivar Descriptions for North America"
+    ]
+  }
+]
