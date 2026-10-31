@@ -1,0 +1,56 @@
+[
+  {
+    "slug": "austin-thornless-dewberry",
+    "common_name": "Austin Thornless Dewberry (Spine-Free Heirloom Southern Bramble)",
+    "scientific_name": "Rubus 'Austin Thornless' (Thornless Austin)",
+    "category": "berry",
+    "subcategory": "bramble",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 365, "max": 730},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 6},
+      "note": "Plant rooted tip cuttings or crowns in late winter to early spring on a low trellis or wire; its spine-free canes make training and picking far less painful than thorny dewberry kin like Austin or Lucretia."
+    },
+    "usda_zones": {"min": 6, "max": 9},
+    "spacing_in": {"min": 60, "max": 96},
+    "height_in": {"min": 18, "max": 36},
+    "spread_in": {"min": 72, "max": 120},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Austin Thornless arose as a spine-free, open-pollinated seedling of the old Texas 'Mayes' dewberry, selected in Oklahoma in the late 1910s and introduced in the 1920s as one of the earliest named thornless dewberries in the South. It never matched its thorny relatives in yield, earning a reputation as a light, shy bearer, which kept it from wide commercial planting even as growers prized the ease of handling its smooth canes. Train the sprawling trailing canes onto a low two-wire trellis in full sun and well-drained soil, expecting the same very early, short dewberry harvest window as other Southern dewberries well ahead of blackberry season. Cut spent floricanes to the ground after fruiting and tie new primocanes in their place for next year's crop.",
+    "sources": ["USDA ARS National Plant Germplasm System (GRIN-Global) — Rubus accession records", "Texas A&M AgriLife Extension — Dewberries and Blackberries for the Home Garden", "LSU AgCenter — Bramble Fruits for Louisiana"]
+  },
+  {
+    "slug": "carolina-dewberry",
+    "common_name": "Carolina Dewberry (Vigorous Disease-Resistant Austin Thornless x Lucretia Selection)",
+    "scientific_name": "Rubus 'Carolina'",
+    "category": "berry",
+    "subcategory": "bramble",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 365, "max": 730},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 6},
+      "note": "Plant rooted tip cuttings or crowns in late winter to early spring on a low trellis; Carolina outgrows and outcrops its Lucretia parent, so give it slightly more room along the row."
+    },
+    "usda_zones": {"min": 6, "max": 9},
+    "spacing_in": {"min": 60, "max": 96},
+    "height_in": {"min": 18, "max": 36},
+    "spread_in": {"min": 72, "max": 120},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Bred at the North Carolina Agricultural Experiment Station by crossing Austin Thornless with Lucretia and released in 1955, Carolina combines the productivity of its dewberry parents into a more vigorous trailing plant, though the thorny cane habit reappeared in this particular selection rather than the spinelessness of its Austin Thornless parent. Fruit closely resembles Lucretia's large, glossy black, sweet-tart berries, but the plant shows noticeably better resistance to septoria leaf spot, a common humid-climate foliar disease of brambles. Train the trailing canes onto a low two-wire trellis in full sun and well-drained soil, and expect the same very early dewberry ripening well ahead of upright blackberry cultivars. Remove fruited floricanes after harvest and retie new primocanes to keep the vigorous planting from sprawling into a tangle.",
+    "sources": ["USDA ARS National Plant Germplasm System (GRIN-Global) — Rubus accession records", "North Carolina Agricultural Experiment Station historical variety release records", "LSU AgCenter — Bramble Fruits for Louisiana"]
+  }
+]

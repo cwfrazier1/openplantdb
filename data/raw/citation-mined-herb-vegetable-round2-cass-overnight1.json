@@ -1,0 +1,56 @@
+[
+  {
+    "slug": "cys-sunburst-lemon-geranium",
+    "common_name": "Cy's Sunburst Lemon Geranium (Golden-Leaved Scented Pelargonium)",
+    "scientific_name": "Pelargonium crispum 'Cy's Sunburst'",
+    "category": "herb",
+    "subcategory": "scented-leaf herb",
+    "days_to_germination": {"min": 14, "max": 21},
+    "germination_soil_temp_f": {"min": 65, "max": 75},
+    "days_to_maturity": {"min": 60, "max": 90},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Root stem cuttings in spring and set out container-grown plants after frost danger has passed into well-drained, lean to moderately fertile soil in partial shade to full sun; Cy's Sunburst is a golden-leaved selection within the crinkled-leaf lemon geranium group, grown chiefly for its bright chartreuse-to-gold foliage and true lemon fragrance."
+    },
+    "usda_zones": {"min": 9, "max": 11},
+    "spacing_in": {"min": 10, "max": 15},
+    "height_in": {"min": 10, "max": 18},
+    "spread_in": {"min": 10, "max": 16},
+    "sun": "partial",
+    "water": "low",
+    "directions": "Root stem cuttings in moist perlite or set out container-grown plants in well-drained, lean to moderately fertile soil in partial shade to full sun; brighter light intensifies the gold leaf color, but hot, exposed afternoon sun can scorch the thinner, colored foliage, so a bit of shade is usually safer than a full-sun baking spot. Cy's Sunburst carries the same small, crisped, fan-shaped leaves and clean, true lemon fragrance as standard green lemon geranium, but its foliage runs from chartreuse to warm gold depending on light exposure, giving it value as a foliage accent in containers and mixed herb plantings in addition to its culinary and fragrance uses. Like other scented pelargoniums, it resents soggy soil and performs best when the surface is allowed to dry between waterings. Pinch stem tips periodically to keep growth bushy and compact, and bring plants indoors as houseplants over winter outside zones 9-11.",
+    "sources": ["Logee's Plants for Home & Garden", "Herb Society of America", "Missouri Botanical Garden Plant Finder"]
+  },
+  {
+    "slug": "brandywine-platfoot-strain-tomato",
+    "common_name": "Brandywine Platfoot's Strain Tomato (Authenticated Original Pink Brandywine Lineage)",
+    "scientific_name": "Solanum lycopersicum 'Brandywine Platfoot Strain'",
+    "category": "vegetable",
+    "subcategory": "tomato",
+    "days_to_germination": {"min": 6, "max": 14},
+    "germination_soil_temp_f": {"min": 70, "max": 85},
+    "days_to_maturity": {"min": 80, "max": 100},
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 0, "max": 2},
+      "note": "Start indoors 6-8 weeks before last frost and transplant into fertile, well-drained soil in full sun; this is a sprawling, potato-leaf, long-season vine that needs sturdy staking and ample room to spread."
+    },
+    "usda_zones": {"min": 3, "max": 11},
+    "spacing_in": {"min": 24, "max": 36},
+    "height_in": {"min": 60, "max": 84},
+    "spread_in": {"min": 24, "max": 36},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Start seed indoors 6-8 weeks before the last frost and transplant deeply into rich, well-drained soil once frost danger has passed, staking or caging the vine early since it grows tall and sprawling with heavy fruit. Platfoot's Strain is one of two documented true-breeding lineages of the classic pink Brandywine (the other being Sudduth's Strain), both preserved and distributed by seed-saving organizations as representing the original, authenticated form of this legendary heirloom. Like other Brandywine strains it carries the distinctive potato-leaf foliage and produces large, oblate, irregularly shaped fruit with deep pink skin and rich, complex, low-acid flavor prized by heirloom tomato growers. Expect a slow, demanding grow that rewards patience with a long, warm season — the plant matures later than most tomatoes but produces some of the most sought-after fruit in the heirloom world.",
+    "sources": ["Seed Savers Exchange", "Southern Exposure Seed Exchange", "Weaver, William Woys. Heirloom Vegetable Gardening"]
+  }
+]

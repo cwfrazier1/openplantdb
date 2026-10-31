@@ -1,0 +1,56 @@
+[
+  {
+    "slug": "phyllodoce-caerulea",
+    "common_name": "Blue Heath",
+    "scientific_name": "Phyllodoce caerulea",
+    "category": "flower",
+    "subcategory": "native evergreen alpine shrub",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 1095, "max": 1825},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Plant rooted cuttings or small divisions in spring into moist, acidic, gritty, sharply drained soil in a cold, exposed site with reliable winter snow cover."
+    },
+    "usda_zones": {"min": 2, "max": 5},
+    "spacing_in": {"min": 10, "max": 16},
+    "height_in": {"min": 3, "max": 8},
+    "spread_in": {"min": 10, "max": 16},
+    "sun": "partial",
+    "water": "high",
+    "directions": "Blue Heath forms a low mat of tiny needle-like evergreen leaves topped in late spring by nodding, urn-shaped, rose-purple flowers on wiry red stems, a circumboreal arctic-alpine species that reaches its disjunct southern limit on the highest exposed ridges of New Hampshire's Presidential Range. It needs the cool, humid, acidic, and constantly moist-yet-fast-draining conditions of a snowmelt-fed alpine fellfield, and it struggles or dies outright in summer heat, drought, or stagnant soil. Because it resents root disturbance and grows at a glacial pace, it is best started from rooted cuttings set directly into a permanent scree bed or alpine trough rather than transplanted repeatedly. Give it full winter snow cover for insulation and cool root temperatures through summer.",
+    "sources": ["Native Plant Trust (Go Botany)", "Flora of North America", "North American Rock Garden Society"]
+  },
+  {
+    "slug": "salix-uva-ursi",
+    "common_name": "Bearberry Willow",
+    "scientific_name": "Salix uva-ursi",
+    "category": "flower",
+    "subcategory": "native prostrate alpine shrub",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 730, "max": 1460},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Insert rooted cuttings in spring into lean, gritty, well-drained soil in a cold, sunny, wind-exposed site; this willow roots readily and establishes faster than most alpine companions."
+    },
+    "usda_zones": {"min": 2, "max": 6},
+    "spacing_in": {"min": 12, "max": 24},
+    "height_in": {"min": 2, "max": 6},
+    "spread_in": {"min": 18, "max": 36},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Bearberry Willow hugs the ground as a dense, woody mat barely a few inches tall, with rounded, glossy leaves and small upright silvery-gray catkins that emerge before leaf-out, forming extensive carpets on rocky alpine ridges and krummholz-zone ledges from the Arctic south to disjunct outposts in the White Mountains. Unlike the slow, finicky ericaceous alpines it often grows beside, it is one of the easiest arctic-alpine shrubs to propagate, rooting readily from spring cuttings and tolerating more handling during establishment. It still demands sharp drainage, full sun, and a cold root zone, declining in hot, humid, or poorly drained lowland conditions. Its prostrate, gnarled habit and tiny proportions make it a popular subject for alpine troughs, rock gardens, and miniature or bonsai-style plantings.",
+    "sources": ["Native Plant Trust (Go Botany)", "Flora of North America", "North American Rock Garden Society"]
+  }
+]

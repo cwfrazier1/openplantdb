@@ -1,0 +1,25 @@
+[
+  {
+    "slug": "helianthus-porteri",
+    "common_name": "Confederate Daisy (Stone Mountain Daisy)",
+    "scientific_name": "Helianthus porteri",
+    "category": "flower",
+    "subcategory": "granite outcrop native annual wildflower",
+    "days_to_germination": {"min": 14, "max": 30},
+    "germination_soil_temp_f": {"min": 65, "max": 75},
+    "days_to_maturity": {"min": 150, "max": 210},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "half-hardy",
+    "planting": {"anchor": "last_frost", "weeks_from_anchor": {"min": 0, "max": 4}, "note": "Scatter seed onto bare, thin, gritty soil after the last frost and press in lightly rather than burying it, since exposure to light helps trigger germination; this species evolved on shallow soil pockets atop bare granite rock and resents being crowded into rich garden beds."},
+    "usda_zones": {"min": 7, "max": 9},
+    "spacing_in": {"min": 8, "max": 12},
+    "height_in": {"min": 12, "max": 36},
+    "spread_in": {"min": 10, "max": 16},
+    "sun": "full",
+    "water": "low",
+    "directions": "This Piedmont granite-outcrop endemic is an annual sunflower relative that colonizes the thin, gravelly soil mats forming in depressions atop bare granite domes like Stone Mountain and Panola Mountain in Georgia and Alabama. It spends the growing season as a low rosette tolerating baking heat and drought on exposed rock, then sends up slender branching stems topped with abundant inch-wide golden daisies in September and October, when most other wildflowers have finished. Give it the leanest, fastest-draining spot available, such as a gravel garden or crevice planting, since fertile soil encourages floppy growth and fewer flowers. Once established it self-sows reliably, so let a few seed heads mature and shatter in place each fall to keep a patch going.",
+    "sources": ["University of Georgia Cooperative Extension", "NatureServe Explorer", "Flora of the Southeastern United States (FSUS)"]
+  }
+]
