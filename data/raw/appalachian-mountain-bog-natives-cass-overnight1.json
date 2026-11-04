@@ -1,0 +1,83 @@
+[
+  {
+    "slug": "salix-sericea",
+    "common_name": "Silky Willow",
+    "scientific_name": "Salix sericea",
+    "category": "flower",
+    "subcategory": "Appalachian mountain bog native shrub",
+    "days_to_germination": {"min": null, "max": null},
+    "germination_soil_temp_f": {"min": null, "max": null},
+    "days_to_maturity": {"min": null, "max": null},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Plant rooted cuttings or container stock in spring into saturated to consistently moist soil in full sun to part shade; silky willow roots easily from dormant hardwood cuttings stuck directly into wet ground."
+    },
+    "usda_zones": {"min": 4, "max": 8},
+    "spacing_in": {"min": 60, "max": 96},
+    "height_in": {"min": 72, "max": 144},
+    "spread_in": {"min": 72, "max": 120},
+    "sun": "full",
+    "water": "high",
+    "directions": "Plant in full sun to part shade in saturated to consistently moist soil; silky willow is a deciduous shrub willow of wet thickets and bog or fen margins throughout the Appalachians, including the high-elevation mountain bogs of West Virginia and North Carolina. It carries silvery-silky undersides on its narrow leaves and produces catkins in early spring before leaf-out, providing early-season pollen and nectar. Use it to stabilize a pond edge, rain garden, or boggy low spot, where its fibrous roots help control erosion; it roots readily from dormant hardwood cuttings stuck directly into wet soil.",
+    "sources": ["Cold Stream Farm", "Native Forest Nursery"]
+  },
+  {
+    "slug": "carex-lasiocarpa",
+    "common_name": "Woolly-Fruit Sedge",
+    "scientific_name": "Carex lasiocarpa",
+    "category": "flower",
+    "subcategory": "Appalachian mountain bog native sedge",
+    "days_to_germination": {"min": 21, "max": 45},
+    "germination_soil_temp_f": {"min": 50, "max": 68},
+    "days_to_maturity": {"min": 365, "max": 730},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {"min": -2, "max": 2},
+      "note": "Direct sow in fall or plant divisions in spring into saturated, acidic, Sphagnum-rich peat in full sun to part shade; woolly-fruit sedge spreads by rhizome to form colonies in bog or fen margins."
+    },
+    "usda_zones": {"min": 3, "max": 7},
+    "spacing_in": {"min": 12, "max": 18},
+    "height_in": {"min": 12, "max": 30},
+    "spread_in": {"min": 18, "max": 24},
+    "sun": "full",
+    "water": "high",
+    "directions": "Plant in full sun to part shade in saturated, acidic, peaty soil; woolly-fruit sedge is a fine-leaved, rhizomatous sedge native to acidic fens and bog margins, including scattered high-elevation fens in the Appalachians as well as more northern boreal bogs. It spreads gradually to form colonies in constantly wet, Sphagnum-rich peat, making it a good choice for a bog garden or constructed wetland edge where that acidic, saturated substrate can be maintained. Its inconspicuous flowers matter less than its structural value as a soft-textured groundcover for the wettest part of a garden.",
+    "sources": ["Prairie Moon Nursery"]
+  },
+  {
+    "slug": "carex-echinata",
+    "common_name": "Star Sedge",
+    "scientific_name": "Carex echinata",
+    "category": "flower",
+    "subcategory": "Appalachian mountain bog native sedge",
+    "days_to_germination": {"min": 21, "max": 45},
+    "germination_soil_temp_f": {"min": 50, "max": 68},
+    "days_to_maturity": {"min": 365, "max": 730},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {"min": -2, "max": 2},
+      "note": "Direct sow in fall or plant divisions in spring into saturated, acidic soil in part shade to shade; star sedge forms small tufts suited to a Sphagnum bog garden or wet seep planting."
+    },
+    "usda_zones": {"min": 3, "max": 7},
+    "spacing_in": {"min": 8, "max": 12},
+    "height_in": {"min": 8, "max": 20},
+    "spread_in": {"min": 10, "max": 14},
+    "sun": "partial",
+    "water": "high",
+    "directions": "Plant in part shade to shade in saturated, acidic soil; star sedge is a small, tufted sedge of Sphagnum bogs and wet seeps across the Appalachian region, named for the distinctive star-shaped spiny perigynia (seed capsules) it produces. Its compact, clumping habit suits a small bog garden, wet seep, or container bog planting better than the larger rhizomatous bog sedges. Keep the growing medium constantly saturated and acidic, mimicking the Sphagnum moss substrate it grows in naturally, and expect modest spread rather than aggressive colonization.",
+    "sources": ["Prairie Moon Nursery"]
+  }
+]
