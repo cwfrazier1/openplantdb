@@ -3496,6 +3496,59 @@
     ]
   },
   {
+    "slug": "attila-alpine-strawberry",
+    "common_name": "Attila Everbearing Alpine Strawberry",
+    "scientific_name": "Fragaria vesca 'Attila'",
+    "category": "berry",
+    "subcategory": "ground fruit",
+    "days_to_germination": {
+      "min": 14,
+      "max": 28
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 90,
+      "max": 120
+    },
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -10,
+        "max": -8
+      },
+      "note": "Start the fine seed indoors on the soil surface under light, keep evenly moist, and transplant into part-shade beds after the last frost."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 8,
+      "max": 14
+    },
+    "height_in": {
+      "min": 6,
+      "max": 8
+    },
+    "spread_in": {
+      "min": 10,
+      "max": 18
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Attila stands out among alpine strawberries for throwing runners fairly freely, more like a conventional garden strawberry than the tight, runnerless clumps typical of this type. It still delivers the small, intensely perfumed red fruit prized in alpine strawberries, bearing from its first summer and continuing from June into fall. Because the plants spread modestly on their own, Attila fills in faster as a low edible groundcover beneath open shrubs or at the shaded edge of a border than clump-forming alpine types. Give it humus-rich, evenly moist soil and morning sun to light afternoon shade for the steadiest fruit set.",
+    "sources": [
+      "Magic Garden Seeds"
+    ]
+  },
+  {
     "slug": "aunt-mollys-ground-cherry",
     "common_name": "Aunt Molly's Ground Cherry (Polish Heirloom Sweet Pineapple-Vanilla Husk Cherry)",
     "scientific_name": "Physalis pruinosa 'Aunt Molly's'",
@@ -10411,6 +10464,60 @@
     ]
   },
   {
+    "slug": "bowlenzauber-alpine-strawberry",
+    "common_name": "Bowlenzauber Alpine Strawberry",
+    "scientific_name": "Fragaria vesca 'Bowlenzauber'",
+    "category": "berry",
+    "subcategory": "ground fruit",
+    "days_to_germination": {
+      "min": 14,
+      "max": 28
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 90,
+      "max": 120
+    },
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -10,
+        "max": -8
+      },
+      "note": "Start seed indoors on the soil surface under light and transplant into part-shade beds of humus-rich soil after the last frost."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 8,
+      "max": 12
+    },
+    "height_in": {
+      "min": 6,
+      "max": 8
+    },
+    "spread_in": {
+      "min": 8,
+      "max": 12
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Bowlenzauber (German for roughly 'punch bowl magic') is an older German alpine strawberry selection bred for scarlet fruit with an unusually concentrated, wine-like sweetness, originally intended for flavoring fruit punches and desserts. Like most alpine strawberries it stays in a compact, day-neutral-fruiting clump with few runners, making it easy to tuck into a partly shaded bed without it wandering. It bears over a long season rather than one big flush, giving a steady trickle of small, highly aromatic berries from late spring into fall. Morning sun with afternoon shade and consistently moist, rich soil keep it fruiting without scorching the foliage.",
+    "sources": [
+      "Raintree Nursery",
+      "Strawberry Seed Store"
+    ]
+  },
+  {
     "slug": "box-huckleberry",
     "common_name": "Box Huckleberry (Long-Lived Evergreen Creeping Shade Shrub)",
     "scientific_name": "Gaylussacia brachycera",
@@ -14416,6 +14523,60 @@
       "University of Arkansas Division of Agriculture Fruit Breeding — Blackberry Cultivar History",
       "North Carolina State University Extension — Blackberry Cultivars",
       "Texas A&M AgriLife Extension — Blackberry Variety Trials"
+    ]
+  },
+  {
+    "slug": "cherry-berries-wintergreen",
+    "common_name": "Cherry Berries Wintergreen",
+    "scientific_name": "Gaultheria procumbens 'Gaulsidh5' (Cherry Berries)",
+    "category": "berry",
+    "subcategory": "ground fruit",
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": null,
+      "max": null
+    },
+    "days_to_maturity": {
+      "min": 365,
+      "max": 730
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": -2,
+        "max": 4
+      },
+      "note": "Set out container plants in spring or early fall into acidic, humus-rich soil in dappled shade beneath shrubs or conifers."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 8
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 6,
+      "max": 10
+    },
+    "spread_in": {
+      "min": 24,
+      "max": 36
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Cherry Berries was selected for carrying noticeably larger, more numerous cherry-red fruit than wild wintergreen, with berries persisting from fall through spring on a low evergreen mat. The glossy foliage deepens to a merlot shade once cold weather sets in, then greens back up in spring alongside small white bell flowers. It spreads faster and tolerates a wider range of soils than straight-species wintergreen, though it still wants the acidic, well-drained conditions typical of an Ericaceae understory planting. The mildly wintergreen-flavored berries are edible fresh or steeped for tea, and persistent fruit also draws birds through the winter months.",
+    "sources": [
+      "Briggs Nursery",
+      "Wilson Bros Gardens"
     ]
   },
   {
@@ -19611,6 +19772,60 @@
       "University of Missouri Extension",
       "Missouri Botanical Garden",
       "University of Illinois Extension"
+    ]
+  },
+  {
+    "slug": "dr-stasek-thimbleberry",
+    "common_name": "Dr. Stasek Double-Flowered Thimbleberry",
+    "scientific_name": "Rubus parviflorus 'Dr. Stasek'",
+    "category": "berry",
+    "subcategory": "cane fruit",
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": null,
+      "max": null
+    },
+    "days_to_maturity": {
+      "min": 730,
+      "max": 1460
+    },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant container stock in part shade in spring; propagate by division or softwood cuttings to keep the double-flowered trait true, since seedlings revert to single flowers."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 60,
+      "max": 96
+    },
+    "height_in": {
+      "min": 36,
+      "max": 84
+    },
+    "spread_in": {
+      "min": 60,
+      "max": 96
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "This thornless thimbleberry selection was found around 1975 on Starrett Hill near Monte Rio, California, and named for a Sonoma State University art instructor; it carries extra petals on its blossoms instead of the species' usual flat white flower. Despite the showier bloom it still sets the typical soft, thimble-shaped fruit, described by growers as mild and sweet and readily taken by birds. Its large, downy, maple-like leaves and suckering habit make it a good choice for naturalizing a shaded woodland edge or screening a partly shaded slope. Keep the soil evenly moist, since thimbleberry foliage scorches quickly if it dries out in a sunnier spot.",
+    "sources": [
+      "California Flora Nursery",
+      "Dave's Garden PlantFiles"
     ]
   },
   {
@@ -50548,6 +50763,60 @@
     ]
   },
   {
+    "slug": "redwood-wintergreen",
+    "common_name": "Redwood Creeping Wintergreen",
+    "scientific_name": "Gaultheria procumbens 'Redwood'",
+    "category": "berry",
+    "subcategory": "ground fruit",
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": null,
+      "max": null
+    },
+    "days_to_maturity": {
+      "min": 365,
+      "max": 730
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": -2,
+        "max": 4
+      },
+      "note": "Plant in dappled to full shade in moist, acidic, well-drained soil; grows slowly at first but fills in as a dense mat over a few seasons."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 7
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 24
+    },
+    "height_in": {
+      "min": 4,
+      "max": 6
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 36
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Introduced by Jelitto Perennial Seeds in Germany in 2014, this wintergreen selection was chosen for vigor and heavy fruit set, carrying light pink spring flowers followed by unusually large, bright red berries that hold on the plant from autumn into spring. The glossy evergreen leaves turn a deep merlot color in cold weather, giving the low mat year-round interest even without fruit showing. Berries have the grainy texture and faint wintergreen flavor typical of the species and are edible, though better nibbled fresh than eaten in quantity. It grows more slowly and compactly than some wintergreen selections, making it well suited to a shaded rock garden edge or woodland groundcover border.",
+    "sources": [
+      "Jelitto Perennial Seeds",
+      "Monrovia"
+    ]
+  },
+  {
     "slug": "regal-lingonberry",
     "common_name": "Regal Lingonberry (University of Wisconsin Dwarf Groundcover Selection)",
     "scientific_name": "Vaccinium vitis-idaea 'Regal'",
@@ -64297,6 +64566,60 @@
       "Cornell University Small Fruit Program",
       "University of Minnesota Extension — Currant and Gooseberry Production",
       "Michigan State University Extension"
+    ]
+  },
+  {
+    "slug": "white-solemacher-alpine-strawberry",
+    "common_name": "White Solemacher Alpine Strawberry",
+    "scientific_name": "Fragaria vesca 'White Solemacher'",
+    "category": "berry",
+    "subcategory": "ground fruit",
+    "days_to_germination": {
+      "min": 14,
+      "max": 28
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 90,
+      "max": 120
+    },
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": -10,
+        "max": -8
+      },
+      "note": "Start seed indoors on the soil surface under light and transplant runnerless clumps into part-shade beds after the last frost."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 8,
+      "max": 12
+    },
+    "height_in": {
+      "min": 6,
+      "max": 8
+    },
+    "spread_in": {
+      "min": 8,
+      "max": 12
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "This white-fruited sport of the old German 'Baron Solemacher' alpine strawberry produces pale, cream-colored berries that are among the largest of the white alpine types, with a wild-strawberry aroma carrying a faint pineapple note. Plants stay in tidy, runnerless clumps and bear day-neutral through the growing season rather than in one main flush. Because the ripe fruit never turns the red that birds key in on, White Solemacher often escapes bird damage better than red-fruited alpine strawberries planted in the same partly shaded bed. It makes a neat edible edging for a shaded path or the dappled margin of a woodland garden.",
+    "sources": [
+      "Raintree Nursery",
+      "Strawberry Seed Store"
     ]
   },
   {
@@ -172148,6 +172471,60 @@
     ]
   },
   {
+    "slug": "hamamelis-vernalis-autumn-embers",
+    "common_name": "Autumn Embers Vernal Witch Hazel",
+    "scientific_name": "Hamamelis vernalis 'Autumn Embers'",
+    "category": "flower",
+    "subcategory": "shade shrub",
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": null,
+      "max": null
+    },
+    "days_to_maturity": {
+      "min": 730,
+      "max": 1460
+    },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": 4
+      },
+      "note": "Plant container-grown shrubs in fall or spring in moist, acidic, humus-rich soil in partial shade to sun."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 8
+    },
+    "spacing_in": {
+      "min": 72,
+      "max": 120
+    },
+    "height_in": {
+      "min": 96,
+      "max": 120
+    },
+    "spread_in": {
+      "min": 84,
+      "max": 108
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "A selection of the native Ozark witch hazel grown for two distinct seasonal displays: slender, ribbon-like copper-red flowers that open along bare stems in late winter, followed months later by a fall foliage show of yellow, orange, and red that gives the cultivar its name. It forms a rounded, multi-stemmed shrub that tolerates the periodic wet, gravelly streambank conditions of its native range and adapts well to woodland-edge plantings with light to moderate shade. Prune lightly after flowering to maintain shape, and expect a slow-to-moderate grower that needs several seasons to reach full size.",
+    "sources": [
+      "Missouri Botanical Garden Plant Finder",
+      "Beaver Creek Nurseries introduction notes"
+    ]
+  },
+  {
     "slug": "dryopteris-erythrosora",
     "common_name": "Autumn Fern",
     "scientific_name": "Dryopteris erythrosora",
@@ -177051,6 +177428,61 @@
     ]
   },
   {
+    "slug": "styrax-americanus-baby-blue",
+    "common_name": "Baby Blue American Snowbell",
+    "scientific_name": "Styrax americanus var. pulverulenta 'Baby Blue'",
+    "category": "flower",
+    "subcategory": "shade shrub",
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": null,
+      "max": null
+    },
+    "days_to_maturity": {
+      "min": 1095,
+      "max": 2190
+    },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 6
+      },
+      "note": "Plant container stock in spring in moist to consistently moist, acidic soil in partial shade; tolerates occasional flooding, suiting rain gardens or shaded streamside plantings."
+    },
+    "usda_zones": {
+      "min": 6,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 60,
+      "max": 120
+    },
+    "height_in": {
+      "min": 72,
+      "max": 144
+    },
+    "spread_in": {
+      "min": 60,
+      "max": 120
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "This selected form of the native downy American snowbell is distinguished from the typical species by new growth and foliage carrying a soft silvery-blue cast, a trait inherited from its pubescent-leaved botanical variety. Like the species, it bears nodding, white, reflexed flowers with prominent yellow stamens along arching stems in late spring, and the variety is native to wet pine flatwoods and wet woods from South Carolina to Florida and Texas, making it well adapted to humid, moisture-retentive garden soils. It remains uncommon in the nursery trade compared to Japanese snowbell, which makes it a worthwhile choice for gardeners wanting a regionally native alternative with ornamental foliage interest. Site it where soil stays reliably moist and shade is partial rather than deep, since flowering is reduced in heavy shade.",
+    "sources": [
+      "Woodlanders Nursery",
+      "Missouri Botanical Garden Plant Finder",
+      "North Carolina State Extension"
+    ]
+  },
+  {
     "slug": "bambusa-chungii-barbellata",
     "common_name": "Baby Blue Bamboo (Barbellata Tropical Blue Bamboo)",
     "scientific_name": "Bambusa chungii 'Barbellata'",
@@ -179289,6 +179721,59 @@
       "PanAmerican Seed plant introductions",
       "Missouri Botanical Garden Plant Finder",
       "University of Florida IFAS Extension"
+    ]
+  },
+  {
+    "slug": "buxus-babylon-beauty",
+    "common_name": "Babylon Beauty Boxwood",
+    "scientific_name": "Buxus x 'Babylon Beauty'",
+    "category": "flower",
+    "subcategory": "boxwood",
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": null,
+      "max": null
+    },
+    "days_to_maturity": {
+      "min": 730,
+      "max": 1460
+    },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": 4
+      },
+      "note": "Fall planting works too; its vigorous root system establishes readily even in lean soils."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 24,
+      "max": 36
+    },
+    "height_in": {
+      "min": 36,
+      "max": 48
+    },
+    "spread_in": {
+      "min": 36,
+      "max": 60
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Babylon Beauty is one of four releases in the European Better Boxwood program (PP32,273), a two-decade breeding effort aimed squarely at boxwood blight resistance, and unlike its more upright siblings in the same collection it naturally grows wider than it is tall. The light green, fine-textured foliage and spreading habit make it read more like a groundcover than a hedge plant unless it is pruned upward. Its breeders selected for a notably vigorous, sturdy root system, so it tolerates poorer or sandier soils better than many classic boxwood selections once it is established.",
+    "sources": [
+      "Better Boxwood (Plant Development Services / Concept Plants)"
     ]
   },
   {
@@ -221506,6 +221991,60 @@
     ]
   },
   {
+    "slug": "black-narcissus-dahlia",
+    "common_name": "Black Narcissus Dahlia (Velvety Dark Maroon Laciniated Cactus Dahlia)",
+    "scientific_name": "Dahlia 'Black Narcissus'",
+    "category": "flower",
+    "subcategory": "dahlia",
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 80,
+      "max": 100
+    },
+    "maturity_from": "transplant",
+    "sow_method": "tuber",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 2
+      },
+      "note": "Plant tubers horizontally 4-6 inches deep after the danger of frost has passed; Black Narcissus bears narrow, twisting, laciniated petals in a color so deep a red it reads nearly black."
+    },
+    "usda_zones": {
+      "min": 8,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 36,
+      "max": 48
+    },
+    "spread_in": {
+      "min": 20,
+      "max": 36
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Black Narcissus opens roughly 6- to 8-inch blooms of long, pointed, narrow petals that twist slightly along their length, giving the flower a shaggy, fringed look typical of laciniated and semi-cactus dahlias. The color is an exceptionally dark wine-red that appears almost black in the shade and glows with burgundy highlights in direct sun, making it a striking contrast plant against pale pink, cream, or white neighbors. Give it fertile, well-drained soil in full sun and stake the stems early, since the heavy flower heads can topple the plant in wind and rain. Deadhead spent blooms through the season to keep new buds coming, and lift tubers after frost blackens the foliage in any zone colder than the mild, nearly frost-free margins where it can overwinter in the ground.",
+    "sources": [
+      "Royal Horticultural Society plant profile",
+      "Floret Flowers"
+    ]
+  },
+  {
     "slug": "black-needlerush",
     "common_name": "Black Needlerush (Black Rush)",
     "scientific_name": "Juncus roemerianus",
@@ -230646,6 +231185,59 @@
       "Missouri Botanical Garden Plant Finder",
       "Royal Horticultural Society",
       "general horticultural reference"
+    ]
+  },
+  {
+    "slug": "bloomquist-lace-dahlia",
+    "common_name": "Bloomquist Lace Dahlia (Pale Yellow Laciniated Dahlia)",
+    "scientific_name": "Dahlia 'Bloomquist Lace'",
+    "category": "flower",
+    "subcategory": "dahlia",
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 90,
+      "max": 120
+    },
+    "maturity_from": "transplant",
+    "sow_method": "tuber",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 2
+      },
+      "note": "Plant tubers horizontally 4-6 inches deep after last frost; Bloomquist Lace is one of hybridizer Paul Bloomquist's cactus-form introductions, bearing soft pale yellow blooms with narrow, split petals."
+    },
+    "usda_zones": {
+      "min": 8,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 36,
+      "max": 48
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Bloomquist Lace is a soft, pale yellow laciniated dahlia bred by Lynden, Washington hybridizer Paul Bloomquist, producing roughly 5-inch blooms whose narrow petals split and fray at the tips for a delicate, lace-like texture that reads as a quiet accent rather than a bold statement. The subtle color pairs easily with almost any other dahlia or companion perennial in a mixed border or cutting bed. Grow it in full sun in rich, well-drained soil, and stake the mid-sized plants once they begin to flower heavily. As with other dahlias, lift tubers after the foliage is blackened by frost and store them cool and dry over winter before replanting in spring.",
+    "sources": [
+      "Triple Wren Farms (Legacy Collection)"
     ]
   },
   {
@@ -273369,6 +273961,60 @@
       "Cactus and Succulent Society of America reference",
       "San Marcos Growers",
       "Missouri Botanical Garden Plant Finder"
+    ]
+  },
+  {
+    "slug": "buxus-sempervirens-buddy",
+    "common_name": "Buddy Boxwood",
+    "scientific_name": "Buxus sempervirens 'Buddy'",
+    "category": "flower",
+    "subcategory": "boxwood",
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": null,
+      "max": null
+    },
+    "days_to_maturity": {
+      "min": 730,
+      "max": 1460
+    },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": 4
+      },
+      "note": "Also plants well in early fall; give it well-drained soil and let it establish before the first hard freeze."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 8
+    },
+    "spacing_in": {
+      "min": 24,
+      "max": 36
+    },
+    "height_in": {
+      "min": 20,
+      "max": 30
+    },
+    "spread_in": {
+      "min": 30,
+      "max": 42
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Buddy is a cross between common boxwood and Korean boxwood, named for Buddy Hubbuch, the late curator of Bernheim Arboretum and Research Forest who selected it. It builds a slightly wide-spreading rounded mound of large, glossy dark-green leaves at a slow pace of just a couple inches a year, so it holds a tidy shape with little shearing. It handles full sun to partial shade and shrugs off deer and leafminer, though like most heirloom-type boxwood it has no special resistance to boxwood blight, so give it airy spacing and good drainage.",
+    "sources": [
+      "Dawes Arboretum",
+      "Weston Nurseries"
     ]
   },
   {
@@ -326841,6 +327487,60 @@
     ]
   },
   {
+    "slug": "rodgersia-aesculifolia-henrici-cherry-blush",
+    "common_name": "Cherry Blush Rodgersia",
+    "scientific_name": "Rodgersia aesculifolia var. henrici 'Cherry Blush'",
+    "category": "flower",
+    "subcategory": "shade perennial",
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": null,
+      "max": null
+    },
+    "days_to_maturity": {
+      "min": null,
+      "max": null
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Set crowns 1-2 inches below soil level in humus-rich, consistently moist ground; shelter from drying wind to protect the large palmate leaves."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 8
+    },
+    "spacing_in": {
+      "min": 24,
+      "max": 36
+    },
+    "height_in": {
+      "min": 36,
+      "max": 42
+    },
+    "spread_in": {
+      "min": 30,
+      "max": 36
+    },
+    "sun": "partial",
+    "water": "high",
+    "directions": "Divide established clumps in early spring and replant promptly so roots do not dry out. Leaves emerge bronze and darken toward deep red-purple with bronze highlights as the season progresses. Bright pink flower plumes rise on reddish stems in early to midsummer above the horse-chestnut-shaped foliage. Keep soil reliably moist and mulch to conserve moisture in hot weather.",
+    "sources": [
+      "RHS Plant Finder",
+      "Chicago Botanic Garden Plant Finder"
+    ]
+  },
+  {
     "slug": "cherry-bounce-louisiana-iris",
     "common_name": "Cherry Bounce Louisiana Iris (Historic Cherry-Red Award-Winning Iris)",
     "scientific_name": "Iris x louisiana 'Cherry Bounce'",
@@ -330587,6 +331287,60 @@
       "American Hemerocallis Society",
       "Missouri Botanical Garden Plant Finder",
       "North Carolina State Extension"
+    ]
+  },
+  {
+    "slug": "sempervivum-chick-charms-mint-chocolate-chip",
+    "common_name": "Chick Charms Mint Chocolate Chip Hens and Chicks",
+    "scientific_name": "Sempervivum Chick Charms 'Mint Chocolate Chip'",
+    "category": "flower",
+    "subcategory": "hardy succulent",
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": null,
+      "max": null
+    },
+    "days_to_maturity": {
+      "min": null,
+      "max": null
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Patented Chick Charms selection (bred by Chris Hansen); propagate only by purchased offsets, not unlicensed division for resale."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 6,
+      "max": 8
+    },
+    "height_in": {
+      "min": 2,
+      "max": 4
+    },
+    "spread_in": {
+      "min": 6,
+      "max": 8
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Grow in lean, fast-draining soil with full sun exposure to develop the strongest color banding. In warm weather foliage runs green-dominant with burgundy tips; the pattern reverses in cool weather, turning deep burgundy with green tips. Color intensity shifts noticeably with the seasons and with sun exposure. Remove spent mother rosettes after they bloom and die back to make room for new offsets.",
+    "sources": [
+      "Mountain Crest Gardens",
+      "Plant Delights Nursery"
     ]
   },
   {
@@ -334589,6 +335343,59 @@
       "North Carolina State Extension Gardener Plant Toolbox — Illicium lanceolatum",
       "Trees and Shrubs Online — Illicium lanceolatum",
       "JC Raulston Arboretum — Illicium lanceolatum"
+    ]
+  },
+  {
+    "slug": "astilbe-chinensis-finale",
+    "common_name": "Chinese Astilbe 'Finale'",
+    "scientific_name": "Astilbe chinensis 'Finale'",
+    "category": "flower",
+    "subcategory": "shade perennial",
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": null,
+      "max": null
+    },
+    "days_to_maturity": {
+      "min": null,
+      "max": null
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Divide clumps every 3-4 years to maintain bloom density."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 14,
+      "max": 18
+    },
+    "height_in": {
+      "min": 16,
+      "max": 20
+    },
+    "spread_in": {
+      "min": 16,
+      "max": 20
+    },
+    "sun": "partial",
+    "water": "high",
+    "directions": "One of the latest-blooming astilbes available, holding off its soft mauve-pink plumes until late summer when most other astilbes have already finished. The compact, well-branched habit and fine-textured foliage make it useful for extending color in a shaded perennial bed into early fall. It needs consistently moist, rich soil and will scorch at the leaf edges if allowed to dry out during bloom. Combine it with later ferns or hostas to carry interest through the season's end.",
+    "sources": [
+      "Missouri Botanical Garden Plant Finder"
     ]
   },
   {
@@ -344670,6 +345477,536 @@
     ]
   },
   {
+    "slug": "coral-reef-spider-chrysanthemum",
+    "common_name": "Chrysanthemum 'Coral Reef'",
+    "scientific_name": "Chrysanthemum x morifolium 'Coral Reef'",
+    "category": "flower",
+    "subcategory": "chrysanthemum",
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": null,
+      "max": null
+    },
+    "days_to_maturity": {
+      "min": null,
+      "max": null
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 6
+      },
+      "note": "Divide and replant rooted cuttings in spring after frost danger passes."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 30,
+      "max": 42
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "A tall exhibition spider mum blending coral, orange, and gold tones in a single bloom, set off by dark green foliage. Flowering runs mid-to-late October, and the sturdy stems hold blooms upright without staking. Disbud to one terminal flower per stem for the largest, most fully colored show blooms.",
+    "sources": [
+      "King's Mums LLC product catalog"
+    ]
+  },
+  {
+    "slug": "descanso-spider-chrysanthemum",
+    "common_name": "Chrysanthemum 'Descanso'",
+    "scientific_name": "Chrysanthemum x morifolium 'Descanso'",
+    "category": "flower",
+    "subcategory": "chrysanthemum",
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": null,
+      "max": null
+    },
+    "days_to_maturity": {
+      "min": null,
+      "max": null
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 6
+      },
+      "note": "Divide and replant rooted cuttings in spring after frost danger passes."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 24,
+      "max": 36
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "A large bronze spider-type exhibition mum bred by Ted King and named to commemorate a National Chrysanthemum Society show held at Descanso Gardens in Southern California. Blooms open late in the season, from late October into mid-November, carried squarely on strong, upright stems. For maximum show-sized blooms, disbud each stem to a single terminal flower rather than letting the plant branch into sprays.",
+    "sources": [
+      "King's Mums LLC product catalog"
+    ]
+  },
+  {
+    "slug": "evans-dream-spider-chrysanthemum",
+    "common_name": "Chrysanthemum 'Evans Dream'",
+    "scientific_name": "Chrysanthemum x morifolium 'Evans Dream'",
+    "category": "flower",
+    "subcategory": "chrysanthemum",
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": null,
+      "max": null
+    },
+    "days_to_maturity": {
+      "min": null,
+      "max": null
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 6
+      },
+      "note": "Divide and replant rooted cuttings in spring after frost danger passes."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 24,
+      "max": 36
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "A large exhibition spider mum bred by Ted King from a Japanese seedling parent, producing light pink florets that fade toward a contrasting white center. Blooms arrive from mid-October into early November on stems of medium height. Growers aiming for exhibition size should disbud to one terminal bloom per stem; left natural it can also be grown in spray form.",
+    "sources": [
+      "King's Mums LLC product catalog"
+    ]
+  },
+  {
+    "slug": "flair-spider-chrysanthemum",
+    "common_name": "Chrysanthemum 'Flair'",
+    "scientific_name": "Chrysanthemum x morifolium 'Flair'",
+    "category": "flower",
+    "subcategory": "chrysanthemum",
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": null,
+      "max": null
+    },
+    "days_to_maturity": {
+      "min": null,
+      "max": null
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 6
+      },
+      "note": "Divide and replant rooted cuttings in spring after frost danger passes."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 30,
+      "max": 42
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "A tall, large-flowered spider mum in deep orchid-purple, blooming from late October into early November. Its narrow, slightly hooked florets open gradually over several weeks and are carried on notably strong, upright stems. Disbud for exhibition-size single blooms, or allow the plant to branch for a spray of smaller flowers.",
+    "sources": [
+      "King's Mums LLC product catalog"
+    ]
+  },
+  {
+    "slug": "lava-spider-chrysanthemum",
+    "common_name": "Chrysanthemum 'Lava'",
+    "scientific_name": "Chrysanthemum x morifolium 'Lava'",
+    "category": "flower",
+    "subcategory": "chrysanthemum",
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": null,
+      "max": null
+    },
+    "days_to_maturity": {
+      "min": null,
+      "max": null
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 6
+      },
+      "note": "Divide and replant rooted cuttings in spring after frost danger passes."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 24,
+      "max": 36
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "One of the earlier-blooming spider mums, opening buff-yellow florets with lightly curled, light-red tips from mid-October. The medium-height habit suits both garden beds and large containers better than taller spider cultivars. Disbud for exhibition-size single blooms, or leave natural for a fuller display of smaller flowers.",
+    "sources": [
+      "King's Mums LLC product catalog"
+    ]
+  },
+  {
+    "slug": "mocha-spider-chrysanthemum",
+    "common_name": "Chrysanthemum 'Mocha'",
+    "scientific_name": "Chrysanthemum x morifolium 'Mocha'",
+    "category": "flower",
+    "subcategory": "chrysanthemum",
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": null,
+      "max": null
+    },
+    "days_to_maturity": {
+      "min": null,
+      "max": null
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 6
+      },
+      "note": "Divide and replant rooted cuttings in spring after frost danger passes."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 30,
+      "max": 42
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "A tall spider-type exhibition mum with dusty mauve florets tipped in burgundy, giving blooms a creamy, two-toned cup shape from a distance. Flowering runs from mid-October into early November on long, tubular petals typical of the spider class. Grow as a disbudded single stem for the best exhibition form.",
+    "sources": [
+      "King's Mums LLC product catalog"
+    ]
+  },
+  {
+    "slug": "natalini-spider-chrysanthemum",
+    "common_name": "Chrysanthemum 'Natalini'",
+    "scientific_name": "Chrysanthemum x morifolium 'Natalini'",
+    "category": "flower",
+    "subcategory": "chrysanthemum",
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": null,
+      "max": null
+    },
+    "days_to_maturity": {
+      "min": null,
+      "max": null
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 6
+      },
+      "note": "Divide and replant rooted cuttings in spring after frost danger passes."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 24,
+      "max": 36
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "A pink spider mum with long, fine florets, named for a granddaughter of Ray and Kim Gray, the current owners of King's Mums. It has an unusually long bloom window, opening flowers from mid-October clear through mid-November. Disbud for a single large exhibition bloom per stem, or let it branch naturally to produce abundant lateral stems for cutting.",
+    "sources": [
+      "King's Mums LLC product catalog"
+    ]
+  },
+  {
+    "slug": "oregon-city-spider-chrysanthemum",
+    "common_name": "Chrysanthemum 'Oregon City'",
+    "scientific_name": "Chrysanthemum x morifolium 'Oregon City'",
+    "category": "flower",
+    "subcategory": "chrysanthemum",
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": null,
+      "max": null
+    },
+    "days_to_maturity": {
+      "min": null,
+      "max": null
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 6
+      },
+      "note": "Divide and replant rooted cuttings in spring after frost danger passes."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 24,
+      "max": 36
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "A deep yellow exhibition spider mum named for the hometown of growers Ray and Kim Gray, with bloom form often compared to the well-known 'Golden Splendor'. It is among the earliest spider cultivars to flower, starting in early October and continuing into November. Disbud for show-quality single blooms, though it also performs well grown as cut-flower sprays.",
+    "sources": [
+      "King's Mums LLC product catalog"
+    ]
+  },
+  {
+    "slug": "seatons-galaxy-chrysanthemum",
+    "common_name": "Chrysanthemum 'Seaton's Galaxy'",
+    "scientific_name": "Chrysanthemum x morifolium 'Seaton's Galaxy'",
+    "category": "flower",
+    "subcategory": "chrysanthemum",
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": null,
+      "max": null
+    },
+    "days_to_maturity": {
+      "min": null,
+      "max": null
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 6
+      },
+      "note": "Divide and replant rooted cuttings in spring after frost danger passes."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 30,
+      "max": 42
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "A tall spider mum in deep purple with crimson-tipped florets that stand out stiffly, giving the bloom a starburst appearance often described as nearly fluorescent in color. It flowers from late October into early November. Disbud to a single terminal bloom per stem to show off its distinctive structure and color contrast at full size.",
+    "sources": [
+      "King's Mums LLC product catalog"
+    ]
+  },
+  {
+    "slug": "wind-dancer-spider-chrysanthemum",
+    "common_name": "Chrysanthemum 'Wind Dancer'",
+    "scientific_name": "Chrysanthemum x morifolium 'Wind Dancer'",
+    "category": "flower",
+    "subcategory": "chrysanthemum",
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": null,
+      "max": null
+    },
+    "days_to_maturity": {
+      "min": null,
+      "max": null
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 6
+      },
+      "note": "Divide and replant rooted cuttings in spring after frost danger passes."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 24,
+      "max": 36
+    },
+    "height_in": {
+      "min": 24,
+      "max": 36
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "A deep golden-brown spider mum whose blooms are laced with hundreds of fine, threadlike florets arranged in symmetrical, radiating fullness. It flowers from mid-to-late October and holds its form for an extended period once open. Disbud for the fullest exhibition-size flower; the plant's symmetry makes it a favorite for show tables.",
+    "sources": [
+      "King's Mums LLC product catalog"
+    ]
+  },
+  {
     "slug": "chrysanthemumiflora-star-magnolia",
     "common_name": "Chrysanthemumiflora Star Magnolia (Double-Flowered Japanese Star Magnolia)",
     "scientific_name": "Magnolia stellata 'Chrysanthemumiflora'",
@@ -351675,6 +353012,60 @@
     ]
   },
   {
+    "slug": "clematis-remembrance",
+    "common_name": "Clematis 'Remembrance'",
+    "scientific_name": "Clematis 'Remembrance'",
+    "category": "flower",
+    "subcategory": "vine",
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": null,
+      "max": null
+    },
+    "days_to_maturity": {
+      "min": null,
+      "max": null
+    },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Shade the base of the vine with low companion plants or mulch."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 24,
+      "max": 36
+    },
+    "height_in": {
+      "min": 72,
+      "max": 96
+    },
+    "spread_in": {
+      "min": 24,
+      "max": 36
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "A late large-flowered clematis with deeply textured, crimped sepals in a rich raspberry-pink that pales on the reverse, set off by pale yellow anthers on cream filaments from late summer into autumn. It holds a Royal Horticultural Society Award of Garden Merit from a Wisley trial of late large-flowered cultivars. Prune as Group 3, cutting all growth back hard in late winter, and let it climb a sunny trellis or obelisk with cool, moist roots.",
+    "sources": [
+      "RHS Plant Finder",
+      "International Clematis Society"
+    ]
+  },
+  {
     "slug": "clematis-richard-pennell",
     "common_name": "Clematis 'Richard Pennell'",
     "scientific_name": "Clematis 'Richard Pennell'",
@@ -351719,6 +353110,60 @@
     "directions": "A classic large-flowered English cultivar bearing rich purple-blue flowers with a slightly deeper central bar and reddish anthers, opening in late spring with a lighter repeat flush in late summer. Grow against a fence, trellis, or arbor with roots shaded and cool, and prune lightly after the first flush, removing only weak or dead stems, since the main flush comes on the previous year's growth.",
     "sources": [
       "Royal Horticultural Society",
+      "International Clematis Society"
+    ]
+  },
+  {
+    "slug": "clematis-roko-kolla",
+    "common_name": "Clematis 'Roko-Kolla'",
+    "scientific_name": "Clematis 'Roko-Kolla'",
+    "category": "flower",
+    "subcategory": "vine",
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": null,
+      "max": null
+    },
+    "days_to_maturity": {
+      "min": null,
+      "max": null
+    },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant deep, burying the lowest leaf node, to encourage a resilient root crown."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 24,
+      "max": 36
+    },
+    "height_in": {
+      "min": 72,
+      "max": 96
+    },
+    "spread_in": {
+      "min": 24,
+      "max": 36
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "This late large-flowered climber opens star-shaped white blooms tinged yellow, with pale greenish-yellow bars running down each sepal, over a long summer-to-autumn season. It earned an RHS Award of Garden Merit following a multi-year Wisley trial of late large-flowered clematis. Give it rich, well-drained soil with a cool, shaded root zone and a sunnier top growth area, and prune hard in late winter as a Group 3 clematis.",
+    "sources": [
+      "RHS Plant Finder",
       "International Clematis Society"
     ]
   },
@@ -351866,6 +353311,330 @@
     "sources": [
       "Royal Horticultural Society",
       "International Clematis Society"
+    ]
+  },
+  {
+    "slug": "clematis-bernadine-evipo061",
+    "common_name": "Clematis Boulevard Bernadine (Evipo061)",
+    "scientific_name": "Clematis 'Evipo061'",
+    "category": "flower",
+    "subcategory": "vine",
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": null,
+      "max": null
+    },
+    "days_to_maturity": {
+      "min": null,
+      "max": null
+    },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Good candidate for a large container with a short trellis."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 36,
+      "max": 60
+    },
+    "spread_in": {
+      "min": 24,
+      "max": 36
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Part of Raymond Evison's compact Boulevard collection, this dwarf climber opens lavender flowers with pink mid-veins and white-and-maroon stamens, fading to a soft silvery lavender as they age. Bloom lasts unusually long, from early summer into autumn, well beyond the one-to-two-month window typical of most clematis. Its short, manageable habit suits patio pots and small gardens; keep roots shaded and cool while letting the vine reach for sun, and prune lightly as a Group 2 clematis.",
+    "sources": [
+      "RHS Plant Finder",
+      "Guernsey Clematis Nursery"
+    ]
+  },
+  {
+    "slug": "clematis-guernsey-flute-evigsy153",
+    "common_name": "Clematis Guernsey Flute (EviGsy153)",
+    "scientific_name": "Clematis 'EviGsy153'",
+    "category": "flower",
+    "subcategory": "vine",
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": null,
+      "max": null
+    },
+    "days_to_maturity": {
+      "min": null,
+      "max": null
+    },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Flute-shaped buds open flat; good for small gardens or front-of-border trellis work."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 30
+    },
+    "height_in": {
+      "min": 36,
+      "max": 48
+    },
+    "spread_in": {
+      "min": 24,
+      "max": 30
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Another 2024 Evison breeding-programme release, this clematis opens narrow, flute-like buds that unfurl into large pure-white, star-shaped flowers with reddish anthers, blooming from late spring well into early autumn. Its compact, roughly knee-to-waist-high habit fits containers and the front of mixed borders as easily as a small trellis. Keep the roots cool and moist while the vine climbs toward sun, and prune lightly as a Group 2 clematis after the main spring flush.",
+    "sources": [
+      "RHS Plant Finder",
+      "Raymond Evison Clematis"
+    ]
+  },
+  {
+    "slug": "clematis-zohapbi-happy-birthday",
+    "common_name": "Clematis Happy Birthday ('Zohapbi')",
+    "scientific_name": "Clematis 'Zohapbi'",
+    "category": "flower",
+    "subcategory": "vine",
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": null,
+      "max": null
+    },
+    "days_to_maturity": {
+      "min": null,
+      "max": null
+    },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Site where lower stems stay shaded while the vine climbs into sun."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 24,
+      "max": 36
+    },
+    "height_in": {
+      "min": 96,
+      "max": 120
+    },
+    "spread_in": {
+      "min": 24,
+      "max": 36
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Bred by Wim Snoeijer in the Jackmanii group and marketed under the trade name Happy Birthday, this cultivar opens deep purple with a redder mid-stripe and matures toward cobalt-blue as the six broad sepals age. It received a Royal Horticultural Society Award of Garden Merit in a late large-flowered clematis trial at Wisley. Grow it as a Group 3 (hard-prune) clematis on a trellis or through a shrub, cutting all stems back to a low bud in late winter.",
+    "sources": [
+      "RHS Plant Finder",
+      "Crocus.co.uk"
+    ]
+  },
+  {
+    "slug": "clematis-lindsay-evigsy152",
+    "common_name": "Clematis Lindsay (EviGsy152)",
+    "scientific_name": "Clematis 'EviGsy152'",
+    "category": "flower",
+    "subcategory": "vine",
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": null,
+      "max": null
+    },
+    "days_to_maturity": {
+      "min": null,
+      "max": null
+    },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Showcased at RHS Chelsea 2024; suited to patio containers or small trellises."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 36,
+      "max": 48
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 30
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "A 2024 Raymond Evison introduction named for Lindsay Reid, former director of Guernsey Clematis Nursery, this clematis carries large star-shaped flowers up to about 5 inches across in deep purple-blue with red anthers, covering the plant from base to tip in late spring through midsummer, with a second round in early autumn. Its modest stature keeps it manageable on a small trellis or in a large pot. Treat as a Group 2 clematis: light pruning only, with cool shaded roots and a sunnier spot for the foliage and flowers.",
+    "sources": [
+      "RHS Plant Finder",
+      "Raymond Evison Clematis"
+    ]
+  },
+  {
+    "slug": "clematis-sapphire-indigo-cleminov51",
+    "common_name": "Clematis Sapphire Indigo (Cleminov 51)",
+    "scientific_name": "Clematis 'Cleminov 51'",
+    "category": "flower",
+    "subcategory": "vine",
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": null,
+      "max": null
+    },
+    "days_to_maturity": {
+      "min": null,
+      "max": null
+    },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Non-vining habit; stake lightly for height or let it scramble as groundcover."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 24,
+      "max": 36
+    },
+    "height_in": {
+      "min": 18,
+      "max": 24
+    },
+    "spread_in": {
+      "min": 30,
+      "max": 42
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "A cross of the non-vining Clematis x diversifolia (C. integrifolia x C. viticella 'Olgae') with the climber 'The President,' this cultivar forms a sprawling, shrubby mound rather than climbing, producing recurved, deep sapphire-blue to purple flowers with near-black anthers from late spring through early fall. Because it lacks true climbing tendrils, it works equally well mingled through perennial borders, allowed to scramble as groundcover, or loosely corralled against short stakes. It tolerates average garden soil and benefits from a hard cutback in late winter like other Group 3 clematis.",
+    "sources": [
+      "Plant Delights Nursery",
+      "Missouri Botanical Garden Plant Finder"
+    ]
+  },
+  {
+    "slug": "clematis-tumaini-evigsy151",
+    "common_name": "Clematis Tumaini (EviGsy151)",
+    "scientific_name": "Clematis 'EviGsy151'",
+    "category": "flower",
+    "subcategory": "vine",
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": null,
+      "max": null
+    },
+    "days_to_maturity": {
+      "min": null,
+      "max": null
+    },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Compact enough for container culture on a small trellis."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 48,
+      "max": 72
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 30
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Launched as a new introduction from Raymond Evison's Guernsey breeding programme and named for the Tumaini Fund charity in Tanzania, this compact clematis produces a dense profusion of mauve-purple flowers with darker pink centers and a mauve band along each sepal's midrib. Main bloom comes in late spring and early summer, often with a second flush in early autumn. It is well suited to pots and small-space gardens; keep the root zone cool and shaded, give the vine sun to climb into, and prune lightly in late winter.",
+    "sources": [
+      "RHS Plant Finder",
+      "Raymond Evison Clematis"
     ]
   },
   {
@@ -366208,6 +367977,59 @@
       "Royal Van Zanten plant records",
       "SiteOne nursery records",
       "general horticultural reference"
+    ]
+  },
+  {
+    "slug": "sempervivum-colorockz-coconut-crystal",
+    "common_name": "Colorockz Coconut Crystal Hens and Chicks",
+    "scientific_name": "Sempervivum Colorockz 'Coconut Crystal'",
+    "category": "flower",
+    "subcategory": "hardy succulent",
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": null,
+      "max": null
+    },
+    "days_to_maturity": {
+      "min": null,
+      "max": null
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      }
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 6,
+      "max": 9
+    },
+    "height_in": {
+      "min": 3,
+      "max": 5
+    },
+    "spread_in": {
+      "min": 6,
+      "max": 9
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant in rock gardens, troughs, or rooftop plantings with gritty, low-fertility soil. Spring growth opens lime green with red highlights along pointed leaf tips, fading over the season to a cream-and-wine-red combination by summer heat. A fine silvery edge rims each leaf, giving the rosette a frosted look in bright light. Reduce watering sharply once established, since wet crowns in winter are the main cause of rot.",
+    "sources": [
+      "Mountain Crest Gardens",
+      "Logee's"
     ]
   },
   {
@@ -389849,6 +391671,60 @@
     ]
   },
   {
+    "slug": "buxus-cranberry-creek",
+    "common_name": "Cranberry Creek Boxwood",
+    "scientific_name": "Buxus x 'Cranberry Creek'",
+    "category": "flower",
+    "subcategory": "boxwood",
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": null,
+      "max": null
+    },
+    "days_to_maturity": {
+      "min": 730,
+      "max": 1460
+    },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Spring planting also works; mulch new plants to even out soil moisture through their first winter."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 8
+    },
+    "spacing_in": {
+      "min": 24,
+      "max": 36
+    },
+    "height_in": {
+      "min": 24,
+      "max": 48
+    },
+    "spread_in": {
+      "min": 24,
+      "max": 42
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Cranberry Creek was introduced by Willoway Nurseries in Ohio for its reddish-bronze, cranberry-colored flush of new growth, which settles into a deep, glossy green as the season progresses. It naturally tightens into a dense, broad pyramid, so it needs only light touch-up shearing to stay formal. It takes full sun best but still performs in partial shade, tolerates deer pressure, and is a good scaled-down choice for foundation plantings or container specimens where a classic boxwood silhouette is wanted without decades of growing time.",
+    "sources": [
+      "Willoway Nurseries",
+      "SiteOne Landscape Supply"
+    ]
+  },
+  {
     "slug": "cranberry-crush-hibiscus",
     "common_name": "Cranberry Crush Hibiscus (Compact Deep Red Hardy Hibiscus)",
     "scientific_name": "Hibiscus moscheutos 'Cranberry Crush'",
@@ -390742,6 +392618,60 @@
     "sources": [
       "North Carolina State University Extension — Leucanthemum Cultivars",
       "Missouri Botanical Garden Plant Finder"
+    ]
+  },
+  {
+    "slug": "orostachys-crazy-eddie",
+    "common_name": "Crazy Eddie's Dunce Cap",
+    "scientific_name": "Orostachys 'Crazy Eddie'",
+    "category": "flower",
+    "subcategory": "hardy rosette succulent",
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": null,
+      "max": null
+    },
+    "days_to_maturity": {
+      "min": null,
+      "max": null
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Orostachys japonica hybrid named for breeder Ed \"Crazy Ed\" Skrocki."
+    },
+    "usda_zones": {
+      "min": 6,
+      "max": 8
+    },
+    "spacing_in": {
+      "min": 8,
+      "max": 14
+    },
+    "height_in": {
+      "min": 4,
+      "max": 13
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 18
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Use a gritty, sharply drained rock-garden mix in full to part sun. Fleshy green rosettes roughly 5 inches wide offset readily like hens and chicks, knitting into a patch up to a foot and a half across over time. Established clumps send up spikes of white to cream, star-shaped flowers in fall before the flowering rosettes die back. Leave spent rosettes in place through winter, since new offsets continue to fill in around them the following season.",
+    "sources": [
+      "Juniper Level Botanic Garden",
+      "Plant Delights Nursery"
     ]
   },
   {
@@ -395312,6 +397242,60 @@
       "American Dahlia Society",
       "Swan Island Dahlias",
       "National Dahlia Society (UK)"
+    ]
+  },
+  {
+    "slug": "disporum-sessile-cricket",
+    "common_name": "Cricket Japanese Fairy Bells",
+    "scientific_name": "Disporum sessile 'Cricket'",
+    "category": "flower",
+    "subcategory": "shade perennial",
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": null,
+      "max": null
+    },
+    "days_to_maturity": {
+      "min": null,
+      "max": null
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "A dwarf, stoloniferous selection best used as a small-scale woodland groundcover; keep evenly moist."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 8
+    },
+    "spacing_in": {
+      "min": 8,
+      "max": 12
+    },
+    "height_in": {
+      "min": 4,
+      "max": 8
+    },
+    "spread_in": {
+      "min": 8,
+      "max": 12
+    },
+    "sun": "shade",
+    "water": "moderate",
+    "directions": "This dwarf fairy bells selection spreads gradually as a low woodland groundcover, with rounded lance-shaped leaves marked by a bold central band of creamy white variegation that fades from yellow emergence. Small pendulous creamy white and green bell flowers dangle beneath the foliage in spring. Grow in consistently moist, humus-rich soil in mostly shaded sites, dividing clumps to spread the groundcover where wanted.",
+    "sources": [
+      "Edrom Nurseries",
+      "Phoenix Perennials"
     ]
   },
   {
@@ -400131,6 +402115,60 @@
       "Bromeliad Society International — Neoregelia cruenta species profile",
       "Missouri Botanical Garden Plant Finder",
       "Marie Selby Botanical Gardens — epiphyte collection notes"
+    ]
+  },
+  {
+    "slug": "pachysandra-axillaris-crugs-cover",
+    "common_name": "Crug's Cover Chinese Spurge (Crûg Farm Collection)",
+    "scientific_name": "Pachysandra axillaris 'Crug's Cover'",
+    "category": "flower",
+    "subcategory": "shade groundcover",
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": null,
+      "max": null
+    },
+    "days_to_maturity": {
+      "min": 365,
+      "max": 730
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant container-grown stock in spring into humus-rich, well-drained soil in shade; raised from a Crûg Farm Plants seed collection made in Sichuan, China in 2000, this selection tolerates both heavy shade and drier soil than most pachysandra."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 10,
+      "max": 14
+    },
+    "height_in": {
+      "min": 8,
+      "max": 12
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 30
+    },
+    "sun": "shade",
+    "water": "moderate",
+    "directions": "Crug's Cover grew from a seed collection Crûg Farm Plants made in Sichuan, China in 2000 and was named for its mat-forming spread on short, flexible suckering stems carrying polished, undulate, leathery evergreen leaves. In late winter it produces short dense spikes of heavily fragrant creamy-white flowers tucked beneath the foliage, with a scent recalling Sarcococca, later followed by pink berries tipped with odd horn-like styles. It is notably tolerant of both deep shade and drier soil than typical pachysandra, making it useful under mature trees where irrigation is inconsistent. Plant in humus-rich, well-drained soil and expect a slow but steady spread into a low, dense evergreen cover over several seasons.",
+    "sources": [
+      "Crûg Farm Plants",
+      "RHS"
     ]
   },
   {
@@ -418805,6 +420843,116 @@
     ]
   },
   {
+    "slug": "blackthorne-daylily",
+    "common_name": "Daylily 'Blackthorne'",
+    "scientific_name": "Hemerocallis 'Blackthorne'",
+    "category": "flower",
+    "subcategory": "tetraploid daylily",
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": null,
+      "max": null
+    },
+    "days_to_maturity": {
+      "min": 30,
+      "max": 60
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 6
+      },
+      "note": "Plant divisions in spring in well-drained soil in full sun; this semi-evergreen tetraploid daylily reblooms once established."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 24,
+      "max": 28
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Creamy to ivory-yellow flowers with a prominent wine-purple eye and a matching picotee edge along attractively ruffled petals distinguish this Walters Gardens introduction, which earned an AHS Honorable Mention in 2001. The semi-evergreen tetraploid foliage supports scapes about two feet tall that open their first flush in early midseason and rebloom later in the summer. Divide clumps every few years in spring to sustain vigorous flowering.",
+    "sources": [
+      "Walters Gardens",
+      "Bluestone Perennials",
+      "Perennial Resource"
+    ]
+  },
+  {
+    "slug": "born-to-run-daylily",
+    "common_name": "Daylily 'Born to Run'",
+    "scientific_name": "Hemerocallis 'Born to Run'",
+    "category": "flower",
+    "subcategory": "tetraploid daylily",
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": null,
+      "max": null
+    },
+    "days_to_maturity": {
+      "min": 30,
+      "max": 60
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 6
+      },
+      "note": "Plant divisions in spring in well-drained soil in full sun; this evergreen tetraploid daylily tends to run shorter in the garden than its registered height."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 20,
+      "max": 28
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Born to Run carries rich rosy-red flowers edged in a heavily ruffled, creamy-yellow picotee band, with a narrow pale-pink watermark hovering above a lime-green throat. Registered around 28 inches tall, growers commonly see shorter 20-to-22-inch scapes in the garden, blooming and reblooming through midsummer on evergreen tetraploid foliage. Divide clumps every few years in spring to keep the planting floriferous.",
+    "sources": [
+      "Walters Gardens",
+      "Plant Addicts",
+      "Perennial Resource"
+    ]
+  },
+  {
     "slug": "boujee-floozy-daylily",
     "common_name": "Daylily 'Boujee Floozy'",
     "scientific_name": "Hemerocallis 'Boujee Floozy'",
@@ -418989,6 +421137,61 @@
     ]
   },
   {
+    "slug": "cosmic-struggle-daylily",
+    "common_name": "Daylily 'Cosmic Struggle'",
+    "scientific_name": "Hemerocallis 'Cosmic Struggle'",
+    "category": "flower",
+    "subcategory": "tetraploid daylily",
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": null,
+      "max": null
+    },
+    "days_to_maturity": {
+      "min": 30,
+      "max": 60
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 6
+      },
+      "note": "Plant divisions in spring in well-drained soil in full to part sun; this fragrant tetraploid daylily holds its deep color without fading."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 24,
+      "max": 28
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "This Walters Gardens tetraploid daylily produces wine-purple flowers rimmed with a heavily ruffled, crisp lemon-yellow picotee edge above a yellow-and-purple eye zone, with color that resists fading in summer heat. Scapes stand roughly two feet tall and carry fragrant blooms in midseason, followed by a second flush later on. Divide congested clumps every three to four years in spring for best performance.",
+    "sources": [
+      "Walters Gardens",
+      "White Flower Farm",
+      "Garden Crossings"
+    ]
+  },
+  {
     "slug": "hemerocallis-creative-edge",
     "common_name": "Daylily 'Creative Edge' (Early Gold-Edged Patterned Daylily)",
     "scientific_name": "Hemerocallis 'Creative Edge'",
@@ -419083,6 +421286,61 @@
     ]
   },
   {
+    "slug": "desert-flame-daylily",
+    "common_name": "Daylily 'Desert Flame'",
+    "scientific_name": "Hemerocallis 'Desert Flame'",
+    "category": "flower",
+    "subcategory": "tetraploid daylily",
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": null,
+      "max": null
+    },
+    "days_to_maturity": {
+      "min": 30,
+      "max": 60
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 6
+      },
+      "note": "Plant divisions in spring in well-drained soil in full sun; this tall reblooming tetraploid tolerates poor soil and roadside salt exposure well."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 8
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 24,
+      "max": 36
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Hybridized in 1996 and awarded an AHS Honorable Mention in 2003, Desert Flame sends up scapes carrying large, flaming red-orange flowers around five and a half inches across, ruffled and recurved with a lime-green throat and contrasting orange stamens. It opens its first round of bloom in midseason and reliably reblooms again in fall. This tough tetraploid tolerates lean soil and urban stress, and benefits from division every few years in spring to maintain vigor.",
+    "sources": [
+      "Walters Gardens",
+      "Plant Addicts",
+      "SiteOne"
+    ]
+  },
+  {
     "slug": "hemerocallis-early-snow",
     "common_name": "Daylily 'Early Snow' (Giant Ruffled Near-White Daylily)",
     "scientific_name": "Hemerocallis 'Early Snow'",
@@ -419127,6 +421385,61 @@
     "directions": "Early Snow produces huge near-white flowers, up to seven inches across, with a glowing yellow-green throat and shimmering, diamond-dusted ruffled petals that open wide and flat. It blooms early in the season and reblooms later on vigorous dormant scapes, rounding out a long display from a single clump. The fragrant flowers make it one of the standout entries in Stamile's decades-long pursuit of a true white daylily. Grow in fertile, well-drained soil in full sun and divide every three to four years.",
     "sources": [
       "American Hemerocallis Society Database (daylilies.org)"
+    ]
+  },
+  {
+    "slug": "erin-lea-daylily",
+    "common_name": "Daylily 'Erin Lea'",
+    "scientific_name": "Hemerocallis 'Erin Lea'",
+    "category": "flower",
+    "subcategory": "tetraploid daylily",
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": null,
+      "max": null
+    },
+    "days_to_maturity": {
+      "min": 30,
+      "max": 60
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 6
+      },
+      "note": "Plant divisions in spring in well-drained soil in full sun; well-branched, heavily budded scapes hold flowers flat and open for most of the day."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 22,
+      "max": 26
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Erin Lea opens broad, rounded, sunny golden-yellow self flowers edged in frilly, fringed ruffles, with petals that open flat so the five-and-a-half to six inch blooms read larger than their measured size. It earned an AHS Honorable Mention in 1998. Strong, well-branched scapes about two feet tall carry a heavy bud count through midseason. Divide clumps every few years in spring to keep the planting productive.",
+    "sources": [
+      "Walters Gardens",
+      "Bluestone Perennials",
+      "Perennial Resource"
     ]
   },
   {
@@ -419222,6 +421535,61 @@
     ]
   },
   {
+    "slug": "fearfully-and-wonderfully-made-daylily",
+    "common_name": "Daylily 'Fearfully and Wonderfully Made'",
+    "scientific_name": "Hemerocallis 'Fearfully and Wonderfully Made'",
+    "category": "flower",
+    "subcategory": "tetraploid daylily",
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": null,
+      "max": null
+    },
+    "days_to_maturity": {
+      "min": 30,
+      "max": 60
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 6
+      },
+      "note": "Plant divisions in spring or fall in well-drained soil in full to part sun; this Walters Gardens Rainbow Rhythm tetraploid builds a vigorous clump within a couple of seasons."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 24,
+      "max": 28
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "A Rainbow Rhythm introduction from Walters Gardens, this tetraploid daylily opens coral-pink flowers about five and a half inches across with a rich cranberry-red eye zone and a soft yellow-trimmed edge on wide, piecrust-ruffled petals. Scapes reach roughly two feet tall and carry fragrant blooms in early midseason, with a dependable second flush later in the year. Divide congested clumps every three to four years in spring to keep bloom counts high.",
+    "sources": [
+      "Walters Gardens",
+      "Proven Winners",
+      "Garden Crossings"
+    ]
+  },
+  {
     "slug": "gavin-petit-daylily",
     "common_name": "Daylily 'Gavin Petit' (Tangerine with Black Eye and Edge)",
     "scientific_name": "Hemerocallis 'Gavin Petit'",
@@ -419311,6 +421679,61 @@
     "directions": "Grow this compact, fragrant diploid in full sun with evenly moist, well-drained soil, spacing fans about 18 to 24 inches apart to let the 27-inch scapes show off their early-midseason blooms. Rebecca Harding Hartigan registered Googly Bear with the AHS in 2026 from a cross of Everybody Loves Tim and Northwood Tie Dye Artist, producing burgundy petals with a dark band and greenish-yellow throat. Divide every three years once clumps become congested to keep flowering strong.",
     "sources": [
       "American Hemerocallis Society (AHS) Daylily Database"
+    ]
+  },
+  {
+    "slug": "handwriting-on-the-wall-daylily",
+    "common_name": "Daylily 'Handwriting on the Wall'",
+    "scientific_name": "Hemerocallis 'Handwriting on the Wall'",
+    "category": "flower",
+    "subcategory": "tetraploid daylily",
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": null,
+      "max": null
+    },
+    "days_to_maturity": {
+      "min": 30,
+      "max": 60
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 6
+      },
+      "note": "Plant divisions in spring in well-drained soil in full sun; this fragrant, semi-evergreen tetraploid reblooms after its main midseason flush."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 22,
+      "max": 26
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Hybridized by Karol Emmerich and awarded an AHS Honorable Mention in 2011, Handwriting on the Wall blends soft peach petals that wash toward a wine-purple eye and a golden-yellow throat, each ruffled petal finished with a thin purple picotee edge, giving the flower a watercolor-like gradient. Scapes around two feet tall bear fragrant blooms on semi-evergreen tetraploid foliage, flowering in midseason with a dependable second flush. Divide congested clumps every three to four years in spring to maintain strong bloom.",
+    "sources": [
+      "Walters Gardens",
+      "Plant Addicts",
+      "Perennial Resource"
     ]
   },
   {
@@ -419959,6 +422382,61 @@
     ]
   },
   {
+    "slug": "monterrey-jack-daylily",
+    "common_name": "Daylily 'Monterrey Jack'",
+    "scientific_name": "Hemerocallis 'Monterrey Jack'",
+    "category": "flower",
+    "subcategory": "tetraploid daylily",
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": null,
+      "max": null
+    },
+    "days_to_maturity": {
+      "min": 30,
+      "max": 60
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 6
+      },
+      "note": "Plant divisions in spring in well-drained soil in full sun; this early-blooming tetraploid carries its flowers on candelabra-branched scapes."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 22,
+      "max": 26
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Monterrey Jack bears light-yellow flowers of near-perfect form, defined by a well-marked raspberry-red eye, with broad rounded petals that open wide and flat to about five and a half inches across. Candelabra-branched scapes roughly two feet tall display the ruffled blooms starting early in the season, ahead of most other tetraploid daylilies. Divide clumps every few years in spring to keep flowering strong.",
+    "sources": [
+      "Walters Gardens",
+      "Bluestone Perennials",
+      "Gurney's"
+    ]
+  },
+  {
     "slug": "hemerocallis-morning-blossom",
     "common_name": "Daylily 'Morning Blossom' (Early-Midseason Large-Flowered Pink Blend)",
     "scientific_name": "Hemerocallis 'Morning Blossom'",
@@ -420048,6 +422526,61 @@
     "directions": "Give this 28-inch-tall semi-evergreen tetraploid full sun and consistent moisture during its midseason bloom window, spacing fans 18 to 24 inches apart. Robert P. Selman registered the cultivar with the AHS in 2026 out of a Garden Gnome cross, producing peach-pink flowers with a patterned lavender-violet eye and a ruffled partial picotee edge. Fertilize lightly in spring and divide crowded clumps every few years to keep bloom counts high.",
     "sources": [
       "American Hemerocallis Society (AHS) Daylily Database"
+    ]
+  },
+  {
+    "slug": "passion-for-red-daylily",
+    "common_name": "Daylily 'Passion for Red'",
+    "scientific_name": "Hemerocallis 'Passion for Red'",
+    "category": "flower",
+    "subcategory": "tetraploid daylily",
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": null,
+      "max": null
+    },
+    "days_to_maturity": {
+      "min": 30,
+      "max": 60
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 6
+      },
+      "note": "Plant divisions in spring in well-drained soil in full sun; this fragrant tetraploid holds sunfast color through midsummer heat."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 26,
+      "max": 34
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Passion for Red produces very sunfast, vividly orange-red flowers six to seven inches across, with a contrasting yellow eye and throat zone visible across all six tepals. Fragrant blooms open in early midseason on tall scapes, with a partial rebloom later in summer. Divide congested clumps every three to four years in spring to keep the display vigorous.",
+    "sources": [
+      "Walters Gardens",
+      "Jeffries Nurseries",
+      "Sandy's Plants"
     ]
   },
   {
@@ -420509,6 +423042,61 @@
     "directions": "Site this 28-inch late-blooming tetraploid in full sun and well-drained soil, spacing divisions 18 to 24 inches apart. Robert P. Selman bred and registered Sotto Voce with the AHS in 2026 from a Denim Sky cross, giving pale fuchsia flowers a lavender-blue watermark etched in violet and a ruffled white picotee edge. Water deeply during dry spells and lift and divide crowded clumps in spring every three to four years.",
     "sources": [
       "American Hemerocallis Society (AHS) Daylily Database"
+    ]
+  },
+  {
+    "slug": "star-of-the-north-daylily",
+    "common_name": "Daylily 'Star of the North'",
+    "scientific_name": "Hemerocallis 'Star of the North'",
+    "category": "flower",
+    "subcategory": "tetraploid daylily",
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": null,
+      "max": null
+    },
+    "days_to_maturity": {
+      "min": 30,
+      "max": 60
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 6
+      },
+      "note": "Plant divisions in spring in well-drained soil in full sun; bred as an improvement on the older cultivar El Desperado, with better branching and higher bud count."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 30,
+      "max": 34
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Star of the North is distinguished by uniquely triangular, pale-yellow petals set off by a large wine-purple eye and a razor-thin matching picotee edge, with a faint fragrance that is unusual for a daylily. Walters Gardens describes it as an improvement on its older parent line, 'El Desperado,' with better branching and a higher bud count. Tall scapes around three feet carry the blooms in early July, with reliable rebloom. Divide clumps every few years in spring to sustain strong flowering.",
+    "sources": [
+      "Walters Gardens",
+      "Garden Crossings",
+      "New Garden Plants"
     ]
   },
   {
@@ -473035,6 +475623,220 @@
     ]
   },
   {
+    "slug": "echeveria-blue-dude",
+    "common_name": "Echeveria 'Blue Dude'",
+    "scientific_name": "Echeveria 'Blue Dude'",
+    "category": "flower",
+    "subcategory": "succulent perennial",
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": null,
+      "max": null
+    },
+    "days_to_maturity": {
+      "min": null,
+      "max": null
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Robert Campbell hybrid (Echeveria 'Joy's Giant' x E. laui); handle farina-coated leaves gently."
+    },
+    "usda_zones": {
+      "min": 9,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 10,
+      "max": 18
+    },
+    "height_in": {
+      "min": 6,
+      "max": 18
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 24
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Site in bright, dry conditions where the wavy, paddle-shaped leaves can keep their natural powdery farina coating intact. Foliage reads silvery blue in heat and humidity but blushes rose-pink as nights cool or water is withheld. Mature clumps send up branched stalks of coral to orange-red flowers above the foliage. Avoid touching the leaf surface, since the waxy bloom rubs off and will not regenerate.",
+    "sources": [
+      "World of Succulents",
+      "Mountain Crest Gardens"
+    ]
+  },
+  {
+    "slug": "echeveria-captain-hay",
+    "common_name": "Echeveria 'Captain Hay'",
+    "scientific_name": "Echeveria 'Captain Hay'",
+    "category": "flower",
+    "subcategory": "succulent perennial",
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": null,
+      "max": null
+    },
+    "days_to_maturity": {
+      "min": null,
+      "max": null
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Hybrid of Echeveria derenbergii x E. prolifica."
+    },
+    "usda_zones": {
+      "min": 9,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 6,
+      "max": 10
+    },
+    "height_in": {
+      "min": 3,
+      "max": 5
+    },
+    "spread_in": {
+      "min": 3,
+      "max": 6
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant in shallow, well-drained containers since this compact hybrid offsets quickly into dense clumps. Triangular grey-blue leaves carry a red edge and a powdery farina coating that intensifies the color contrast in bright light. Mature clumps send up tall stalks of small, bell-shaped yellow flowers in late winter or spring. Keep rainfall off the rosettes where possible to prevent water spotting the farina.",
+    "sources": [
+      "Mountain Crest Gardens",
+      "World of Succulents"
+    ]
+  },
+  {
+    "slug": "echeveria-cassyz-winter",
+    "common_name": "Echeveria 'Cassyz Winter'",
+    "scientific_name": "Echeveria 'Cassyz Winter'",
+    "category": "flower",
+    "subcategory": "succulent perennial",
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": null,
+      "max": null
+    },
+    "days_to_maturity": {
+      "min": null,
+      "max": null
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      }
+    },
+    "usda_zones": {
+      "min": 9,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 8,
+      "max": 12
+    },
+    "height_in": {
+      "min": 4,
+      "max": 6
+    },
+    "spread_in": {
+      "min": 8,
+      "max": 20
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Grow in full sun in a fast-draining succulent mix to bring out the strongest coloring. Spoon-shaped leaves run from silvery blue-green to olive at the base, flushing lavender, pink, or near-red along the edges under bright light and seasonal cold. Rosettes slowly bulk up to roughly 8 inches across, with leaf tips folding gently upward. Bring indoors or under cover whenever temperatures threaten to drop near freezing.",
+    "sources": [
+      "World of Succulents",
+      "Mountain Crest Gardens"
+    ]
+  },
+  {
+    "slug": "echeveria-chocolate-ruffles",
+    "common_name": "Echeveria 'Chocolate Ruffles'",
+    "scientific_name": "Echeveria 'Chocolate Ruffles'",
+    "category": "flower",
+    "subcategory": "succulent perennial",
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": null,
+      "max": null
+    },
+    "days_to_maturity": {
+      "min": null,
+      "max": null
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      }
+    },
+    "usda_zones": {
+      "min": 9,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 10,
+      "max": 16
+    },
+    "height_in": {
+      "min": 6,
+      "max": 14
+    },
+    "spread_in": {
+      "min": 10,
+      "max": 16
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Grow in full sun and lean soil to push the rosette toward its signature purple-and-cocoa-brown tones; shaded plants stay greener and less frilled. Mature outer leaves develop ruffled edges and occasional small bumps, while new center growth emerges flat and silvery green by contrast. Over time the rosette can reach roughly 14 to 16 inches across before rising on a bare stem. Protect from frost, moving container plants indoors to a bright window when a freeze is forecast.",
+    "sources": [
+      "Mountain Crest Gardens",
+      "Drought Smart Plants"
+    ]
+  },
+  {
     "slug": "echeveria",
     "common_name": "Echeveria (Hen and Chicks Succulent, Mexican Echeveria)",
     "scientific_name": "Echeveria spp.",
@@ -473346,6 +476148,60 @@
       "American Iris Society",
       "North Carolina State Extension",
       "Lady Bird Johnson Wildflower Center"
+    ]
+  },
+  {
+    "slug": "asarum-canadense-eco-choice",
+    "common_name": "Eco Choice Canadian Wild Ginger",
+    "scientific_name": "Asarum canadense 'Eco Choice'",
+    "category": "flower",
+    "subcategory": "native shade groundcover",
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": null,
+      "max": null
+    },
+    "days_to_maturity": {
+      "min": 365,
+      "max": 730
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant divisions in spring into moist, humus-rich woodland soil in shade; this Don Jacobs/Eco Gardens selection carpets more densely and rapidly than typical wild Asarum canadense."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 8
+    },
+    "spacing_in": {
+      "min": 8,
+      "max": 10
+    },
+    "height_in": {
+      "min": 5,
+      "max": 8
+    },
+    "spread_in": {
+      "min": 10,
+      "max": 14
+    },
+    "sun": "shade",
+    "water": "moderate",
+    "directions": "Eco Choice is a selection made by the late plantsman Don Jacobs of Eco Gardens, chosen for noticeably faster, denser carpeting growth than wild-collected Asarum canadense. Rounded to heart-shaped, softly fuzzy deciduous leaves two to four inches across form a tight colony, hiding the odd, starfish-shaped brownish flowers that nestle at ground level beneath the foliage in spring. It spreads readily by shallow rhizomes in consistently moist, rich woodland soil, making it a quicker-filling option than the species for carpeting beneath shade trees. Keep soil evenly moist through the growing season; the deciduous foliage dies back cleanly with fall frost and re-emerges reliably each spring.",
+    "sources": [
+      "Far Reaches Farm",
+      "Quacking Grass Nursery"
     ]
   },
   {
@@ -549199,6 +552055,60 @@
     ]
   },
   {
+    "slug": "dudleya-frank-reinelt",
+    "common_name": "Frank Reinelt Dudleya",
+    "scientific_name": "Dudleya 'Frank Reinelt'",
+    "category": "flower",
+    "subcategory": "native rosette succulent",
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": null,
+      "max": null
+    },
+    "days_to_maturity": {
+      "min": null,
+      "max": null
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Interspecific hybrid with Dudleya caespitosa as one parent; keep bone dry through summer dormancy."
+    },
+    "usda_zones": {
+      "min": 9,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 8,
+      "max": 12
+    },
+    "height_in": {
+      "min": 6,
+      "max": 8
+    },
+    "spread_in": {
+      "min": 8,
+      "max": 12
+    },
+    "sun": "partial",
+    "water": "low",
+    "directions": "Tuck into rocky slopes, raised beds, or containers with sharp drainage and some afternoon shade in hot inland gardens. Slender, finger-like silver leaves form dense mounds and take on a purple-red blush once winter chill arrives. Withhold summer water almost entirely, since this hybrid rests through the dry season and rots quickly if kept moist. Watch labels carefully at nurseries, as this hybrid is sometimes sold under the synonym 'Anacapa'.",
+    "sources": [
+      "Cactus Jungle",
+      "Regional Parks Botanic Garden"
+    ]
+  },
+  {
     "slug": "echeveria-agavoides-frank-reinelt",
     "common_name": "Frank Reinelt Echeveria (Large Red-Margined Farina-Dusted Rosette Succulent)",
     "scientific_name": "Echeveria agavoides 'Frank Reinelt'",
@@ -565632,6 +568542,60 @@
       "Royal Horticultural Society",
       "Kirstenbosch National Botanical Garden",
       "Pacific Bulb Society"
+    ]
+  },
+  {
+    "slug": "ligularia-dentata-garden-confetti",
+    "common_name": "Garden Confetti Leopard Plant",
+    "scientific_name": "Ligularia dentata 'Garden Confetti'",
+    "category": "flower",
+    "subcategory": "shade perennial",
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": null,
+      "max": null
+    },
+    "days_to_maturity": {
+      "min": null,
+      "max": null
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "A patented variegated sport of 'Desdemona'; propagate only by authorized division due to plant breeders' rights protection."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 8
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 30
+    },
+    "height_in": {
+      "min": 24,
+      "max": 36
+    },
+    "spread_in": {
+      "min": 24,
+      "max": 30
+    },
+    "sun": "partial",
+    "water": "high",
+    "directions": "Introduced by Terra Nova Nurseries as a variegated sport of the familiar 'Desdemona', this selection carries irregular cream-and-gold leaves splashed with lime and magenta tones, with purple undersides. Orange-yellow daisy flowerheads appear above the foliage in late summer. Grow in consistently moist, rich soil with protection from midday sun to prevent leaf scorch and to keep the variegation from fading.",
+    "sources": [
+      "Terra Nova Nurseries",
+      "Verschoor Perennials"
     ]
   },
   {
@@ -610724,6 +613688,60 @@
     ]
   },
   {
+    "slug": "graptopetalum-purple-haze",
+    "common_name": "Graptopetalum 'Purple Haze'",
+    "scientific_name": "Graptopetalum 'Purple Haze'",
+    "category": "flower",
+    "subcategory": "succulent perennial",
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": null,
+      "max": null
+    },
+    "days_to_maturity": {
+      "min": null,
+      "max": null
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Steve Jankalski hybrid of Graptopetalum paraguayense x G. superbum."
+    },
+    "usda_zones": {
+      "min": 9,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 6,
+      "max": 10
+    },
+    "height_in": {
+      "min": 3,
+      "max": 6
+    },
+    "spread_in": {
+      "min": 8,
+      "max": 12
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Grow in full sun and lean, gritty soil, allowing the plant to go slightly stressed for the best color. Base leaf color runs glaucous grey-green with a waxy farina coating, developing raspberry-purple blotches that deepen into a hazy violet cast under strong light. Reduce water and increase sun exposure to intensify the purple tones further. Handle carefully, since farina rubs off the leaf surface and does not return once removed.",
+    "sources": [
+      "World of Succulents",
+      "Succulents and Sunshine"
+    ]
+  },
+  {
     "slug": "grass-pink-orchid",
     "common_name": "Grass Pink Orchid (Tuberous Grass Pink)",
     "scientific_name": "Calopogon tuberosus",
@@ -618676,6 +621694,60 @@
     ]
   },
   {
+    "slug": "buxus-sempervirens-green-pillar",
+    "common_name": "Green Pillar Boxwood",
+    "scientific_name": "Buxus sempervirens 'Green Pillar'",
+    "category": "flower",
+    "subcategory": "boxwood",
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": null,
+      "max": null
+    },
+    "days_to_maturity": {
+      "min": 1095,
+      "max": 1825
+    },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": 4
+      },
+      "note": "Site it where its narrow mature width will still read as a vertical accent, not a hedge."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 8
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 30
+    },
+    "height_in": {
+      "min": 96,
+      "max": 120
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 24
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Green Pillar is a boxwood selection grown for a naturally narrow, columnar habit, climbing into a tall, slender green column that stays narrow even if it is never trimmed. Growth is slow to moderate rather than fast, so it takes some years to build real height, but because its lateral spread is so limited by nature it needs very little pruning to keep a crisp formal line. It is a useful way to build a vertical accent or a narrow privacy screen without the width a sheared sempervirens hedge would eventually need.",
+    "sources": [
+      "The Tree Center",
+      "Urban Tree Farm Nursery"
+    ]
+  },
+  {
     "slug": "green-pillar-pin-oak",
     "common_name": "Green Pillar Pin Oak (Narrow Columnar Pin Oak)",
     "scientific_name": "Quercus palustris 'Green Pillar'",
@@ -618879,6 +621951,60 @@
     "directions": "Sometimes labeled Aeonium undulatum ssp. pseudotabuliforme, this uncommon Canary Island hybrid produces flattened rosettes six to ten inches across of glossy, rounded green leaves held tightly on a low, laterally branching stem to about a foot or two tall. Unlike the true dinner-plate aeonium (A. tabuliforme), which sits nearly flat on the ground as a single unbranched rosette, this one builds a shrubby, multi-headed mound over time and is far easier to propagate from cut stems. A pyramidal cluster of yellow flowers rises from mature rosettes in spring. Best in cool-summer coastal sun to part shade with summer-dry, well-drained conditions and only moderate water; useful as a groundcover, container specimen, or textural front-of-border accent.",
     "sources": [
       "San Marcos Growers"
+    ]
+  },
+  {
+    "slug": "primula-francesca",
+    "common_name": "Green Primrose 'Francesca'",
+    "scientific_name": "Primula vulgaris 'Francesca'",
+    "category": "flower",
+    "subcategory": "shade perennial",
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": null,
+      "max": null
+    },
+    "days_to_maturity": {
+      "min": null,
+      "max": null
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Best moved as container divisions rather than from seed, since the novelty flower form does not come reliably true."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 8
+    },
+    "spacing_in": {
+      "min": 6,
+      "max": 8
+    },
+    "height_in": {
+      "min": 4,
+      "max": 6
+    },
+    "spread_in": {
+      "min": 6,
+      "max": 8
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "A novelty English primrose grown for frilly, ruffled petals in an unusual celadon-green shade around a small yellow eye, rather than for a conventional flower color. It forms a low rosette of crinkled leaves typical of the species and flowers heavily in early spring before easing off in summer heat. Plant it in cool, humus-rich soil in a woodland border where it will not be baked by afternoon sun. Divide congested clumps every two to three years to keep the odd green blooms coming reliably.",
+    "sources": [
+      "Digging Dog Nursery",
+      "The Biking Gardener cultivar notes"
     ]
   },
   {
@@ -635374,6 +638500,60 @@
       "American Hemerocallis Society — Annie T. Giles Award",
       "Herrington Daylily Garden cultivar notes",
       "American Daylily Society cultivar database"
+    ]
+  },
+  {
+    "slug": "leucothoe-keiskei-halloween",
+    "common_name": "Halloween Japanese Leucothoe",
+    "scientific_name": "Leucothoe keiskei 'Opstal16' (Halloween)",
+    "category": "flower",
+    "subcategory": "shade shrub",
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": null,
+      "max": null
+    },
+    "days_to_maturity": {
+      "min": 540,
+      "max": 1095
+    },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": 4
+      },
+      "note": "Plant in acidic, humus-rich, well-drained soil that stays evenly moist; well suited to shaded terrace containers and woodland-garden borders where its colorful new growth is visible at eye level."
+    },
+    "usda_zones": {
+      "min": 6,
+      "max": 8
+    },
+    "spacing_in": {
+      "min": 24,
+      "max": 36
+    },
+    "height_in": {
+      "min": 24,
+      "max": 36
+    },
+    "spread_in": {
+      "min": 24,
+      "max": 36
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "A compact, mound-forming evergreen bred by Ron van Opstal in the Netherlands, grown for new growth that emerges deep orange-brown before deepening to burgundy in autumn, with repeat flushes of color through the growing season. Its dense, gracefully arching stems and slow growth rate suit small shaded borders and foundation plantings where a full-size leucothoe would be too large. It carries small, bell-shaped white spring flowers typical of the species but is grown chiefly for its colorful evergreen foliage. Give it consistently moist, acidic, well-drained soil in a shaded to partly shaded spot, since full sun and dry soil stress the foliage.",
+    "sources": [
+      "Royal Horticultural Society Plant Finder",
+      "North Carolina State Extension"
     ]
   },
   {
@@ -653927,6 +657107,59 @@
       "Royal Horticultural Society — Growing Guide",
       "Missouri Botanical Garden Plant Finder",
       "Colorado State University Extension"
+    ]
+  },
+  {
+    "slug": "sempervivum-heuffelii-bora",
+    "common_name": "Hens and Chicks 'Bora'",
+    "scientific_name": "Sempervivum heuffelii 'Bora'",
+    "category": "flower",
+    "subcategory": "hardy succulent",
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": null,
+      "max": null
+    },
+    "days_to_maturity": {
+      "min": null,
+      "max": null
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Divide offsets in spring or early fall; heuffelii types do not form true chicks on stolons."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 6,
+      "max": 10
+    },
+    "height_in": {
+      "min": 3,
+      "max": 5
+    },
+    "spread_in": {
+      "min": 6,
+      "max": 10
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Set rosettes with the crown level with the soil surface in sharply draining, gritty soil. Expect red rosettes with a lime-green center through the growing season, deepening toward near-black purple once cold weather sets in. Long cilia fringe the leaf margins year-round. Water sparingly and avoid overhead irrigation that can trap moisture in the rosette.",
+    "sources": [
+      "Mountain Crest Gardens"
     ]
   },
   {
@@ -737767,6 +741000,60 @@
     ]
   },
   {
+    "slug": "disporum-sessile-kinga",
+    "common_name": "Kinga Fairy Bells",
+    "scientific_name": "Disporum sessile 'Kinga'",
+    "category": "flower",
+    "subcategory": "shade perennial",
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": null,
+      "max": null
+    },
+    "days_to_maturity": {
+      "min": null,
+      "max": null
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Slower-spreading Japanese selection than the common white-edged form; divide in spring."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 10,
+      "max": 15
+    },
+    "height_in": {
+      "min": 8,
+      "max": 10
+    },
+    "spread_in": {
+      "min": 10,
+      "max": 15
+    },
+    "sun": "shade",
+    "water": "moderate",
+    "directions": "A Japanese selection of fairy bells that spreads more slowly than the common white-edged form. Stalks emerge in mid-spring clothed in green leaves heavily streaked with yellow, with the streaking shifting toward white over summer and often merging into a near-solid pale leaf center. Small white bell flowers hang beneath the foliage in spring. Grow in light to full shade with even moisture for best leaf coloring.",
+    "sources": [
+      "Plant Delights Nursery",
+      "Broken Arrow Nursery"
+    ]
+  },
+  {
     "slug": "kingfisher-clematis",
     "common_name": "Kingfisher Clematis (Rich Sky-Blue Compact Patio Clematis)",
     "scientific_name": "Clematis 'Kingfisher'",
@@ -740725,6 +744012,60 @@
     "sources": [
       "American Hemerocallis Society",
       "Missouri Botanical Garden Plant Finder"
+    ]
+  },
+  {
+    "slug": "knee-deep-dahlia",
+    "common_name": "Knee Deep Dahlia (Compact Cherry-Red Laciniated Dahlia)",
+    "scientific_name": "Dahlia 'Knee Deep'",
+    "category": "flower",
+    "subcategory": "dahlia",
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 80,
+      "max": 100
+    },
+    "maturity_from": "transplant",
+    "sow_method": "tuber",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 2
+      },
+      "note": "Plant tubers horizontally 4-6 inches deep after last frost, spacing plants 12-18 inches apart; Knee Deep is a small-flowered laciniated dahlia with cherry-red, feathery split petals on a compact, free-flowering plant."
+    },
+    "usda_zones": {
+      "min": 8,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 30,
+      "max": 42
+    },
+    "spread_in": {
+      "min": 16,
+      "max": 22
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Knee Deep produces fully domed, remarkably uniform 4- to 6-inch blooms of cherry-red petals that split and fringe at the tips like feathers, a classic small laciniated form that holds up well both in the garden and in the vase. Plants stay relatively compact and branch freely, pushing out long, straight stems that make cutting easy without sacrificing garden display. Grow in full sun in rich, well-drained soil, pinch the growing tip when young to encourage bushier branching, and stake taller stems if grown in a windy, exposed bed. Lift and store the tubers after the first hard frost blackens the foliage, replanting the following spring once the soil has warmed.",
+    "sources": [
+      "Floret Flowers",
+      "DAHLIAaddict.com variety database"
     ]
   },
   {
@@ -746802,6 +750143,59 @@
       "American Rose Society",
       "Antique Rose Emporium reference",
       "Royal Horticultural Society"
+    ]
+  },
+  {
+    "slug": "waldsteinia-ternata-kronstadt",
+    "common_name": "Kronstadt Barren Strawberry (Large-Flowered Selection)",
+    "scientific_name": "Waldsteinia ternata 'Kronstadt'",
+    "category": "flower",
+    "subcategory": "shade groundcover",
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": null,
+      "max": null
+    },
+    "days_to_maturity": {
+      "min": 365,
+      "max": 730
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Divide and plant in spring or early fall into average, well-drained soil in partial to full shade; this vigorous clone forms a tight weed-suppressing carpet under trees and along shaded slopes."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 7
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 15
+    },
+    "height_in": {
+      "min": 4,
+      "max": 6
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 18
+    },
+    "sun": "shade",
+    "water": "moderate",
+    "directions": "Kronstadt is a long-cultivated European strain of barren strawberry selected for flowers distinctly larger than the species, opening bright yellow above glossy, strawberry-like evergreen trifoliate leaves in mid-spring. It spreads steadily by rhizomes to form a dense, low mat well suited to covering the base of trees, shaded slopes, or neglected corners where little else thrives. Give it ordinary garden soil with reasonable drainage in partial to full shade; established plantings tolerate short dry spells but perform best with occasional watering through summer. Unlike more aggressive spreaders it stays well-behaved near choicer woodland companions, needing only an occasional trim to keep edges tidy.",
+    "sources": [
+      "Sarastro Stauden"
     ]
   },
   {
@@ -788025,6 +791419,60 @@
     ]
   },
   {
+    "slug": "buxus-microphylla-lp-03-little-mister",
+    "common_name": "Little Mister Boxwood",
+    "scientific_name": "Buxus microphylla 'LP 03'",
+    "category": "flower",
+    "subcategory": "boxwood",
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": null,
+      "max": null
+    },
+    "days_to_maturity": {
+      "min": 730,
+      "max": 1460
+    },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": 4
+      },
+      "note": "Fall planting is also fine in milder zones; keep new plants watered through their first dry season."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 30
+    },
+    "height_in": {
+      "min": 30,
+      "max": 48
+    },
+    "spread_in": {
+      "min": 30,
+      "max": 48
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Little Mister (US Plant Patent 36,215) is a patented littleleaf boxwood bred as roughly twice the size of the popular dwarf Little Missy, while keeping the same dense, dark-green habit. It takes shaping easily for small hedges or container topiary and holds its color well through winter. Once established it tolerates short dry spells better than many older boxwood cultivars, making it a lower-maintenance option where a larger-scale dwarf form is wanted.",
+    "sources": [
+      "Star Roses and Plants",
+      "Wilson Bros Gardens"
+    ]
+  },
+  {
     "slug": "little-moonshine-yarrow",
     "common_name": "Little Moonshine Yarrow (Dwarf Sulfur-Yellow Yarrow)",
     "scientific_name": "Achillea 'Little Moonshine'",
@@ -794485,6 +797933,61 @@
     "sources": [
       "North American Lily Society",
       "Missouri Botanical Garden Plant Finder"
+    ]
+  },
+  {
+    "slug": "hamamelis-vernalis-lombarts-weeping",
+    "common_name": "Lombart's Weeping Vernal Witch Hazel",
+    "scientific_name": "Hamamelis vernalis 'Lombart's Weeping'",
+    "category": "flower",
+    "subcategory": "shade shrub",
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": null,
+      "max": null
+    },
+    "days_to_maturity": {
+      "min": 730,
+      "max": 1460
+    },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": 4
+      },
+      "note": "Site in moist, well-drained, acidic soil with an open spot so the cascading form can be seen from below."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 8
+    },
+    "spacing_in": {
+      "min": 84,
+      "max": 144
+    },
+    "height_in": {
+      "min": 60,
+      "max": 96
+    },
+    "spread_in": {
+      "min": 96,
+      "max": 144
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Selected in the Netherlands by Pierre Lombarts Nursery in the 1940s, this vernal witch hazel stands apart for its distinctly weeping, spreading branch structure, which carries the same lightly scented, thread-like orange-red and yellow flowers in late winter but displays them along cascading rather than upright stems. It develops mid-green summer foliage that turns yellow or purplish in fall depending on soil chemistry, and performs best in open, acidic, well-drained ground rather than shallow or chalky sites. Its horizontal, fountain-like habit makes it a useful specimen for underplanting with shade perennials where its form can be appreciated from above.",
+    "sources": [
+      "Royal Horticultural Society Plant Finder",
+      "Missouri Botanical Garden Plant Finder",
+      "Chicago Botanic Garden"
     ]
   },
   {
@@ -825709,6 +829212,60 @@
     ]
   },
   {
+    "slug": "vinca-minor-marie",
+    "common_name": "Marie Periwinkle (Floriferous Blue-Flowered Groundcover)",
+    "scientific_name": "Vinca minor 'Marie'",
+    "category": "flower",
+    "subcategory": "shade groundcover",
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": null,
+      "max": null
+    },
+    "days_to_maturity": {
+      "min": 365,
+      "max": 730
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant divisions or container plants in spring into humus-rich, well-drained soil in shade to partial shade; this German selection was bred specifically for heavier flower production than typical Vinca minor."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 4,
+      "max": 6
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 24
+    },
+    "sun": "shade",
+    "water": "moderate",
+    "directions": "Marie is a German-raised periwinkle selection bred for a notably heavier flush of bright violet-blue, windmill-shaped flowers than the species typically produces, opening over small glossy dark-green leaves in mid-spring with a lighter repeat often appearing in fall. Plant it in evenly moist, humus-rich soil under shade to light shade, where its trailing stems root as they spread to knit into a dense evergreen mat. Established plantings need only occasional watering during dry stretches and benefit from an early-spring shearing every few years to keep flowering stems vigorous. It is a reliable choice for underplanting shrubs or edging shaded paths where bloom display matters more than foliage variegation.",
+    "sources": [
+      "RHS",
+      "Larch Cottage Nurseries"
+    ]
+  },
+  {
     "slug": "marie-schnugg-dahlia",
     "common_name": "Marie Schnugg Dahlia (Red and Yellow Single Orchid-Flowered Dahlia)",
     "scientific_name": "Dahlia 'Marie Schnugg'",
@@ -855377,6 +858934,60 @@
       "World of Succulents",
       "Green Acres Nursery & Supply",
       "Foliage Factory"
+    ]
+  },
+  {
+    "slug": "ophiopogon-japonicus-minor",
+    "common_name": "Minor Dwarf Mondo Grass (Tiniest of the Dwarf Lilyturfs)",
+    "scientific_name": "Ophiopogon japonicus 'Minor'",
+    "category": "flower",
+    "subcategory": "shade groundcover grass-like perennial",
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": null,
+      "max": null
+    },
+    "days_to_maturity": {
+      "min": 365,
+      "max": 1095
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant small divisions in spring into well-drained soil in partial shade; this is the smallest and slowest of the dwarf mondo selections, so give extra time to fill in compared with 'Nana'."
+    },
+    "usda_zones": {
+      "min": 6,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 3,
+      "max": 4
+    },
+    "height_in": {
+      "min": 1,
+      "max": 3
+    },
+    "spread_in": {
+      "min": 3,
+      "max": 6
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "This is the smallest dwarf mondo grass in general cultivation, forming tufts of dark green, grass-like evergreen foliage barely an inch or two tall and creeping outward at roughly an inch per year, far slower than the already-dwarf 'Nana'. Small white flowers hide among the leaves in summer, followed by sky-blue berries. Its extreme slowness and tiny scale make it best suited to miniature landscapes: tucking between flagstones, lining a narrow path edge, or filling the rim of a container rather than covering open ground. Grow it in well-drained soil with regular water through the growing season in dappled sun to partial shade, and expect it to need years rather than seasons to knit together.",
+    "sources": [
+      "Cistus Nursery",
+      "Plantlust"
     ]
   },
   {
@@ -885937,6 +889548,60 @@
     ]
   },
   {
+    "slug": "my-beverly-dahlia",
+    "common_name": "My Beverly Dahlia (Small Pink-and-Yellow Laciniated Dahlia)",
+    "scientific_name": "Dahlia 'My Beverly'",
+    "category": "flower",
+    "subcategory": "dahlia",
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 80,
+      "max": 100
+    },
+    "maturity_from": "transplant",
+    "sow_method": "tuber",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 2
+      },
+      "note": "Plant tubers horizontally 4-6 inches deep after last frost, spacing plants 12-18 inches apart; My Beverly is a small (BB-class) laciniated dahlia blending bright pink and yellow in each bloom."
+    },
+    "usda_zones": {
+      "min": 8,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 18
+    },
+    "height_in": {
+      "min": 30,
+      "max": 42
+    },
+    "spread_in": {
+      "min": 16,
+      "max": 22
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "My Beverly bears cheerful 4- to 6-inch blooms that blend bright pink and yellow in a light, cheerful color mix, with the narrow, split-tipped petals typical of the laciniated form. Registered in the American Dahlia Society's small (BB) size class, it has won show awards including Best 1 BB Laciniated and Best in Section at dahlia society exhibitions. Grow it in full sun in fertile, well-drained soil, pinching young plants to encourage branching and a fuller flush of blooms. Lift tubers for winter storage once frost blackens the foliage, and divide congested clumps before replanting the following spring.",
+    "sources": [
+      "The Cincinnati Dahlia Society",
+      "National Capital Dahlia Society show records"
+    ]
+  },
+  {
     "slug": "my-castle-lupine",
     "common_name": "My Castle Lupine (Brick-Red Russell Strain)",
     "scientific_name": "Lupinus polyphyllus 'My Castle'",
@@ -889842,6 +893507,60 @@
       "Missouri Botanical Garden Plant Finder",
       "Royal Horticultural Society",
       "Chicago Botanic Garden Plant Evaluation Notes"
+    ]
+  },
+  {
+    "slug": "buxus-sinica-insularis-nana",
+    "common_name": "Nana Korean Dwarf Boxwood",
+    "scientific_name": "Buxus sinica var. insularis 'Nana'",
+    "category": "flower",
+    "subcategory": "boxwood",
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": null,
+      "max": null
+    },
+    "days_to_maturity": {
+      "min": 730,
+      "max": 1460
+    },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": -2,
+        "max": 4
+      },
+      "note": "Prune lightly right after planting and again in late winter to encourage a denser mound."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 24,
+      "max": 36
+    },
+    "height_in": {
+      "min": 18,
+      "max": 30
+    },
+    "spread_in": {
+      "min": 36,
+      "max": 48
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "This dwarf Korean selection pushes lime-green new growth each spring that darkens over summer and takes on bronze winter tones, giving it a noticeably stronger seasonal color shift than most English or American boxwood. It grows into a low, dense mound rather than up, making it a natural fit for edging beds or a low formal hedge. Growers note it carries more natural tolerance of boxwood leafminer than older heirloom cultivars, though it still benefits from good air circulation and well-drained soil.",
+    "sources": [
+      "Saunders Brothers",
+      "Wilson Bros Gardens"
     ]
   },
   {
@@ -911293,6 +915012,60 @@
       "Chicago Botanic Garden Plant Finder",
       "Palmpedia Palm and Cycad Grower's Guide",
       "National Gardening Association Plants Database (garden.org)"
+    ]
+  },
+  {
+    "slug": "normandy-wild-willie-dahlia",
+    "common_name": "Normandy Wild Willie Dahlia (Deep Burgundy-Purple Laciniated Dahlia)",
+    "scientific_name": "Dahlia 'Normandy Wild Willie'",
+    "category": "flower",
+    "subcategory": "dahlia",
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": 60,
+      "max": 75
+    },
+    "days_to_maturity": {
+      "min": 90,
+      "max": 120
+    },
+    "maturity_from": "transplant",
+    "sow_method": "tuber",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant tubers horizontally 4-6 inches deep after last frost; Normandy Wild Willie is a tall, vigorous laciniated (fimbriated) dahlia, hybridized by Schwinck in 2001, with deep burgundy-purple and white blooms produced in heavy flushes all season."
+    },
+    "usda_zones": {
+      "min": 8,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 36,
+      "max": 48
+    },
+    "spread_in": {
+      "min": 20,
+      "max": 30
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Normandy Wild Willie carries 6- to 8-inch blooms in a deep burgundy-purple shaded with white, with the characteristic twisted, fringed petal tips of the laciniated form giving each flower a shaggy, almost stag-horned look. It is an unusually prolific bloomer, pushing out a steady succession of flowers on a tall, sturdy plant from midsummer well into fall. Give it full sun and fertile, evenly moist, well-drained soil, and stake the stems early since the combination of height and heavy flower heads makes this cultivar prone to leaning in wind. Lift and store the tubers once frost kills back the foliage, and divide congested clumps in spring before replanting.",
+    "sources": [
+      "Dave's Garden PlantFiles",
+      "DAHLIAaddict.com variety database"
     ]
   },
   {
@@ -975365,6 +979138,114 @@
     ]
   },
   {
+    "slug": "bergenia-appleblossom",
+    "common_name": "Pigsqueak 'Apple Blossom'",
+    "scientific_name": "Bergenia 'Apple Blossom'",
+    "category": "flower",
+    "subcategory": "shade perennial",
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": null,
+      "max": null
+    },
+    "days_to_maturity": {
+      "min": null,
+      "max": null
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Evergreen rosettes can also be divided in early fall in milder zones."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 8
+    },
+    "spacing_in": {
+      "min": 15,
+      "max": 18
+    },
+    "height_in": {
+      "min": 12,
+      "max": 15
+    },
+    "spread_in": {
+      "min": 18,
+      "max": 22
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "A soft-flowered pigsqueak selection that sends up dense clusters of pale pink bells on red stems well above the rounded, leathery leaf mounds in mid spring. The glossy foliage picks up red and bronze tones once cold weather arrives, giving the clump a second season of interest. It tolerates a wide range of soils but looks its best with consistent moisture and light shade from hot afternoon sun. Slugs can disfigure the leaves, so keep an eye on new growth in damp seasons.",
+    "sources": [
+      "RHS Plant Finder",
+      "Missouri Botanical Garden Plant Finder"
+    ]
+  },
+  {
+    "slug": "bergenia-wintermarchen",
+    "common_name": "Pigsqueak 'Wintermärchen'",
+    "scientific_name": "Bergenia 'Wintermärchen'",
+    "category": "flower",
+    "subcategory": "shade perennial",
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": null,
+      "max": null
+    },
+    "days_to_maturity": {
+      "min": null,
+      "max": null
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "A compact selection; divide congested crowns in spring."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 8
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 15
+    },
+    "height_in": {
+      "min": 10,
+      "max": 12
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 16
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "A compact pigsqueak selection (its name means 'winter fairy tale') with loose heads of pale pink flowers fading to white held just above a tight rosette of rounded, leathery leaves. The leaves are its real draw in the off-season, turning a vivid scarlet-red through winter instead of the duller bronze typical of many Bergenia cultivars. Its smaller stature suits the front of a shaded border or a container, where the bold winter leaf color reads well against evergreen ferns. Plant in humus-rich soil with reliable moisture; it tolerates cold well but sulks through prolonged summer drought.",
+    "sources": [
+      "RHS Plant Finder",
+      "Digging Dog Nursery"
+    ]
+  },
+  {
     "slug": "piilu-clematis",
     "common_name": "Piilu Clematis (Compact Double Pink Clematis)",
     "scientific_name": "Clematis 'Piilu'",
@@ -1014862,6 +1018743,60 @@
     ]
   },
   {
+    "slug": "primula-lady-greer",
+    "common_name": "Primrose 'Lady Greer'",
+    "scientific_name": "Primula 'Lady Greer'",
+    "category": "flower",
+    "subcategory": "shade perennial",
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": null,
+      "max": null
+    },
+    "days_to_maturity": {
+      "min": null,
+      "max": null
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Divide clumps after flowering in cool weather for best establishment."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 8
+    },
+    "spacing_in": {
+      "min": 8,
+      "max": 10
+    },
+    "height_in": {
+      "min": 5,
+      "max": 7
+    },
+    "spread_in": {
+      "min": 8,
+      "max": 10
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "A long-cultivated miniature polyanthus type forming tight rosettes that cover themselves in pale primrose-yellow flowers on short stems in early spring. It stays compact and tidy without deadheading, making it a reliable edger under deciduous shrubs or at the front of a woodland bed. Give it humus-rich, evenly moist soil and dappled light; it resents hot, dry summer sites. Established clumps benefit from division every few years to keep flowering vigorous.",
+    "sources": [
+      "Barnhaven Primroses",
+      "Dave's Garden PlantFiles"
+    ]
+  },
+  {
     "slug": "primrose-beauty-potentilla",
     "common_name": "Primrose Beauty Potentilla (Pale Yellow Silver-Leaved Shrubby Cinquefoil)",
     "scientific_name": "Potentilla fruticosa 'Primrose Beauty'",
@@ -1054323,6 +1058258,60 @@
       "National Gardening Association Plants Database",
       "Missouri Botanical Garden Plant Finder",
       "general horticultural reference"
+    ]
+  },
+  {
+    "slug": "hamamelis-vernalis-red-imp",
+    "common_name": "Red Imp Vernal Witch Hazel",
+    "scientific_name": "Hamamelis vernalis 'Red Imp'",
+    "category": "flower",
+    "subcategory": "shade shrub",
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": null,
+      "max": null
+    },
+    "days_to_maturity": {
+      "min": 730,
+      "max": 1460
+    },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": 4
+      },
+      "note": "Give it room to form a multi-stemmed colony, since this vigorous, suckering selection spreads over time in favorable sites."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 8
+    },
+    "spacing_in": {
+      "min": 84,
+      "max": 120
+    },
+    "height_in": {
+      "min": 84,
+      "max": 120
+    },
+    "spread_in": {
+      "min": 84,
+      "max": 120
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Named by Hillier Nursery in England in 1966 for its unusually saturated reddish-orange, strap-like winter flowers, this vigorous, vase-shaped shrub was selected from the native Ozark witch hazel and is one of the reddest-flowered selections of the species. Flowers open on bare branches in late winter, ahead of most other shrubs, and are followed by clean, disease-free foliage that colors well in fall. Over time it can sucker and form a loose colony, which makes it useful as an informal woodland-edge mass but something to plan for when siting. It takes a few years to reach full size and asks for little beyond moist, acidic soil and light shaping after bloom.",
+    "sources": [
+      "Dawes Arboretum",
+      "North Carolina State Extension"
     ]
   },
   {
@@ -1098000,6 +1101989,60 @@
       "North Carolina State Extension",
       "Missouri Botanical Garden Plant Finder",
       "American Horticultural Society"
+    ]
+  },
+  {
+    "slug": "polygonatum-odoratum-ruby-slippers",
+    "common_name": "Ruby Slippers Solomon's Seal",
+    "scientific_name": "Polygonatum odoratum 'Ruby Slippers'",
+    "category": "flower",
+    "subcategory": "shade perennial",
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": null,
+      "max": null
+    },
+    "days_to_maturity": {
+      "min": null,
+      "max": null
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Divide rhizomes in early spring or fall; colonizes gradually in humus-rich woodland soil."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 10,
+      "max": 20
+    },
+    "height_in": {
+      "min": 15,
+      "max": 21
+    },
+    "spread_in": {
+      "min": 10,
+      "max": 20
+    },
+    "sun": "shade",
+    "water": "moderate",
+    "directions": "A Walters Gardens introduction prized for its bright red, upright, gently arching stems that stay red from base to tip. Dark green leaves with silvery undersides line the stalks, and paired white bell flowers dangle from the leaf axils in late spring, followed by blue berries in autumn. Grow in part to full shade with steady moisture; established colonies spread gradually by rhizome.",
+    "sources": [
+      "Walters Gardens",
+      "Pleasant Run Nursery"
     ]
   },
   {
@@ -1165654,6 +1169697,60 @@
     ]
   },
   {
+    "slug": "liriope-muscari-silverlawn",
+    "common_name": "Silverlawn Lily Turf (PBR Silver-Striped Selection)",
+    "scientific_name": "Liriope muscari 'LIRSS' (Silverlawn)",
+    "category": "flower",
+    "subcategory": "shade groundcover grass-like perennial",
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": null,
+      "max": null
+    },
+    "days_to_maturity": {
+      "min": 365,
+      "max": 730
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant container divisions in spring into well-drained soil in partial shade to sun; this Australian-bred selection is marketed as a low-growing lawn alternative, cut back once a year rather than regularly mowed."
+    },
+    "usda_zones": {
+      "min": 6,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 10,
+      "max": 14
+    },
+    "height_in": {
+      "min": 6,
+      "max": 10
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 18
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Silverlawn is an Australian breeding-program selection of lily turf, discovered in Oakville, New South Wales, and notable for leaf striping distinctly wider and whiter than typical variegated liriope, giving the clump an overall silvery cast when viewed from a distance rather than the more common thin-edged variegation. Compact spikes of lilac flowers rise above the foliage in summer. It is marketed as a low-growing lawn alternative for foot-traffic areas, needing only an annual winter cutback rather than regular mowing to stay dense and tidy. Plant it in well-drained soil in partial shade to full sun, watering regularly through its first season and tapering off once the clump is established.",
+    "sources": [
+      "Ozbreed",
+      "Google Patents (USPP27570P3)"
+    ]
+  },
+  {
     "slug": "epilobium-canum-latifolium",
     "common_name": "Silverleaf California Fuchsia (Broadleaf Hummingbird Trumpet)",
     "scientific_name": "Epilobium canum subsp. latifolium",
@@ -1172222,6 +1176319,60 @@
       "Ball Horticultural salvia breeding documentation",
       "university extension trial garden notes",
       "American Horticultural Society"
+    ]
+  },
+  {
+    "slug": "buxus-sempervirens-sky-walker",
+    "common_name": "Skywalker Boxwood",
+    "scientific_name": "Buxus sempervirens 'Sky Walker'",
+    "category": "flower",
+    "subcategory": "boxwood",
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": null,
+      "max": null
+    },
+    "days_to_maturity": {
+      "min": 1095,
+      "max": 2190
+    },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": 4
+      },
+      "note": "Give it rich, moist, well-drained soil to sustain its unusually fast vertical growth rate."
+    },
+    "usda_zones": {
+      "min": 6,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 24,
+      "max": 48
+    },
+    "height_in": {
+      "min": 180,
+      "max": 240
+    },
+    "spread_in": {
+      "min": 36,
+      "max": 72
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Sky Walker (US Plant Patent 22,977, bred by West Oregon Nursery) is marketed as the fastest-growing boxwood available, adding as much as two and a half feet of height in a single season on its way to becoming a tall, narrow living column. It develops very few lateral side branches, so the dense, upright form stays tight without much shaping. Because of its rapid rise and modest width, it suits tall screening or vertical topiary accents far better than it suits a clipped low hedge.",
+    "sources": [
+      "Park Seed",
+      "Wayside Gardens"
     ]
   },
   {
@@ -1282542,6 +1286693,59 @@
     ]
   },
   {
+    "slug": "onoclea-sensibilis-texas-too-tall",
+    "common_name": "Texas Too Tall Sensitive Fern (Giant Wetland Selection)",
+    "scientific_name": "Onoclea sensibilis 'Texas Too Tall'",
+    "category": "flower",
+    "subcategory": "shade fern perennial",
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": null,
+      "max": null
+    },
+    "days_to_maturity": {
+      "min": 365,
+      "max": 730
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant divisions in spring into moist to wet, humus-rich soil in partial sun to light shade; collected from a boggy Texas site, it grows notably taller than typical sensitive fern and spreads by rhizome in damp ground."
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 24,
+      "max": 36
+    },
+    "height_in": {
+      "min": 30,
+      "max": 42
+    },
+    "spread_in": {
+      "min": 36,
+      "max": 60
+    },
+    "sun": "partial",
+    "water": "high",
+    "directions": "Collected in 2004 from a boggy site in Cass County, Texas, and introduced by Plant Delights Nursery / Juniper Level Botanic Garden in 2009, this sensitive fern selection grows noticeably larger than the typical species, reaching up to roughly three and a half feet tall in half-day sun versus the usual two-foot height. Broad, deeply cut deciduous fronds emerge on red-tinged stipes each spring and spread steadily by creeping rhizome through consistently wet ground, making it well suited to rain gardens, pond margins, or other low spots that stay damp through the season. Give it rich, evenly moist to wet soil in partial sun to light shade for the largest fronds. Like the species, foliage collapses completely at the first hard frost and the clump re-emerges reliably the following spring.",
+    "sources": [
+      "Plant Delights Nursery / Juniper Level Botanic Garden"
+    ]
+  },
+  {
     "slug": "texas-torchwood",
     "common_name": "Texas Torchwood",
     "scientific_name": "Amyris texana",
@@ -1318602,6 +1322806,60 @@
       "American Hosta Society",
       "American Hosta Growers Association",
       "Missouri Botanical Garden Plant Finder"
+    ]
+  },
+  {
+    "slug": "ligularia-dentata-twilight",
+    "common_name": "Twilight Leopard Plant",
+    "scientific_name": "Ligularia dentata 'Twilight'",
+    "category": "flower",
+    "subcategory": "shade perennial",
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": null,
+      "max": null
+    },
+    "days_to_maturity": {
+      "min": null,
+      "max": null
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant divisions in reliably moist, humus-rich soil; a compact selection well suited to smaller shade borders."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 8
+    },
+    "spacing_in": {
+      "min": 12,
+      "max": 24
+    },
+    "height_in": {
+      "min": 8,
+      "max": 18
+    },
+    "spread_in": {
+      "min": 12,
+      "max": 24
+    },
+    "sun": "partial",
+    "water": "high",
+    "directions": "This compact leopard plant forms clumps of leathery, deep purple-bronze leaves with mahogany undersides, noticeably smaller in stature than most Ligularia dentata selections. Vivid orange-yellow daisy flowers rise on sturdy stems in late summer. Keep soil consistently moist, since leaves wilt visibly in dry spells and midday sun. Mulch and partial afternoon shade help retain foliage quality through summer heat.",
+    "sources": [
+      "Van Berkum Nursery",
+      "Phoenix Perennials"
     ]
   },
   {
@@ -1496657,6 +1500915,60 @@
     ]
   },
   {
+    "slug": "h-120-claypool-persimmon",
+    "common_name": "H-120 American Persimmon (Claypool Selection)",
+    "scientific_name": "Diospyros virginiana 'H-120'",
+    "category": "fruit",
+    "subcategory": "understory fruit tree",
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": null,
+      "max": null
+    },
+    "days_to_maturity": {
+      "min": 1460,
+      "max": 2190
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": 4
+      },
+      "note": "Plant grafted stock in early spring in deep, well-drained soil; H-120 bears at a young age and crops heavily once established."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 240,
+      "max": 360
+    },
+    "height_in": {
+      "min": 240,
+      "max": 420
+    },
+    "spread_in": {
+      "min": 180,
+      "max": 300
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "H-120 is one of the many numbered selections James Claypool pulled from his decades-long persimmon trial rows in St. Elmo, Illinois, confirmed as a distinct hexaploid clone in Kentucky State University ploidy surveys. It carries large fruit for the species, with clear, juicy pulp that stays free of the dark specking that mars lesser seedling persimmons, and it ripens earlier than many Claypool-line selections. The tree takes a rounded canopy and fruits precociously once established, tolerating the heat, drought, and poor soils typical of native persimmon growing sites. Plant with another cultivar or a male seedling nearby for reliable seed-set and heavier crops.",
+    "sources": [
+      "Kentucky State University / HortScience 55(1):4-7, 2020",
+      "nursery grower listings (Future Forest Plants)"
+    ]
+  },
+  {
     "slug": "h-63a-american-persimmon",
     "common_name": "H-63A American Persimmon (Claypool Caramel-Flavored Native Persimmon)",
     "scientific_name": "Diospyros virginiana 'H-63A'",
@@ -1521273,6 +1525585,61 @@
     ]
   },
   {
+    "slug": "jn5-magic-fountain-persimmon",
+    "common_name": "Magic Fountain Weeping American Persimmon",
+    "scientific_name": "Diospyros virginiana 'JN5'",
+    "category": "fruit",
+    "subcategory": "understory fruit tree",
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": null,
+      "max": null
+    },
+    "days_to_maturity": {
+      "min": 1095,
+      "max": 1825
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": 4
+      },
+      "note": "Plant in full sun to partial shade in well-drained soil; its narrow, weeping habit suits it to tight planting strips where a standard full-size persimmon would not fit."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 72,
+      "max": 120
+    },
+    "height_in": {
+      "min": 120,
+      "max": 180
+    },
+    "spread_in": {
+      "min": 60,
+      "max": 84
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Patented in 2015 (US PP25,689) by breeder Ray Jackson as 'JN5' and sold under the trade name Magic Fountain, this selection was found as a single open-pollinated seedling near Belvidere, Tennessee in 2007, chosen for its distinctly columnar trunk with strongly weeping side branches rather than the broad spreading crown typical of American persimmon. It stays compact at roughly 10-15 feet tall, making it one of the few named cultivars suited to small-space or ornamental plantings rather than orchard rows. A female clone, it sets small, rounded, golden-orange fruit in fall that needs full softening past frost to shed its astringency. Site it where the dramatic winter silhouette of its weeping branches can be appreciated as well as its fruit.",
+    "sources": [
+      "US Plant Patent PP25,689",
+      "Broken Arrow Nursery",
+      "Bower & Branch"
+    ]
+  },
+  {
     "slug": "magness-pear",
     "common_name": "Magness Pear (Exceptional-Flavor Fire-Blight-Resistant USDA Pear)",
     "scientific_name": "Pyrus communis 'Magness'",
@@ -1542191,6 +1546558,60 @@
     ]
   },
   {
+    "slug": "paradise-american-persimmon",
+    "common_name": "Paradise American Persimmon",
+    "scientific_name": "Diospyros virginiana 'Paradise'",
+    "category": "fruit",
+    "subcategory": "understory fruit tree",
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": null,
+      "max": null
+    },
+    "days_to_maturity": {
+      "min": 1460,
+      "max": 2190
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": 4
+      },
+      "note": "Plant grafted trees in early spring in deep, well-drained soil; Paradise stays smaller and more compact than most American persimmon selections, making it a reasonable fit where space is limited."
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 240,
+      "max": 360
+    },
+    "height_in": {
+      "min": 180,
+      "max": 300
+    },
+    "spread_in": {
+      "min": 180,
+      "max": 240
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Paradise traces back to a seedling James Claypool grew and numbered H-63-A in his St. Elmo, Illinois breeding rows, later renamed for its popularity among Amish growers near Paradise, Pennsylvania. The tree stays comparatively small for an American persimmon yet bears heavily, setting large fruit with clear, speck-free flesh that ripens in September and is prized for cooking down into pulp for breads and puddings. Like all American persimmon, fruit must soften fully after a frost or extended ripening before it loses its astringency. A second cultivar or seedling male nearby improves fruit set.",
+    "sources": [
+      "Rock Bridge Trees",
+      "Journal of the American Pomological Society (Assimilated Ancestries of American Persimmon Cultivars, 2025)"
+    ]
+  },
+  {
     "slug": "paradise-mulberry",
     "common_name": "Paradise Mulberry",
     "scientific_name": "Morus alba 'Paradise'",
@@ -1560013,6 +1564434,59 @@
     ]
   },
   {
+    "slug": "rubescens-apple-serviceberry",
+    "common_name": "Rubescens Apple Serviceberry",
+    "scientific_name": "Amelanchier x grandiflora 'Rubescens'",
+    "category": "fruit",
+    "subcategory": "understory fruit tree",
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": null,
+      "max": null
+    },
+    "days_to_maturity": {
+      "min": 1460,
+      "max": 2920
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant balled-and-burlapped or container stock in early spring in moist, well-drained soil in full sun to partial shade."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 120,
+      "max": 240
+    },
+    "height_in": {
+      "min": 180,
+      "max": 300
+    },
+    "spread_in": {
+      "min": 180,
+      "max": 240
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Rubescens is a pink-flowered form of apple serviceberry, the natural hybrid between A. canadensis and A. laevis, selected for deep pink buds that open to pale pink blossoms instead of the pure white typical of the cross. It keeps the same early-summer crop of sweet, blueberry-like fruit and multi-season appeal as other grandiflora cultivars, ripening to orange and red fall foliage. Its compact, upright-spreading habit works well as a small specimen tree or large shrub border planting. Grow in moist, well-drained soil; light shade is tolerated but flowering and fruit set are heaviest in full sun.",
+    "sources": [
+      "Shoot Gardening plant database"
+    ]
+  },
+  {
     "slug": "rubinette-apple",
     "common_name": "Rubinette Apple (Intensely Aromatic Swiss Dessert Apple)",
     "scientific_name": "Malus domestica 'Rubinette'",
@@ -1561495,6 +1565969,60 @@
     "sources": [
       "University of Florida IFAS Extension",
       "ECHO Global Farm"
+    ]
+  },
+  {
+    "slug": "sfes-american-persimmon",
+    "common_name": "SFES American Persimmon",
+    "scientific_name": "Diospyros virginiana 'SFES'",
+    "category": "fruit",
+    "subcategory": "understory fruit tree",
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": null,
+      "max": null
+    },
+    "days_to_maturity": {
+      "min": 1460,
+      "max": 2190
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": -4,
+        "max": 4
+      },
+      "note": "Plant grafted trees in early spring; SFES belongs to the tetraploid race of American persimmon, so pair it with another tetraploid selection rather than the more common hexaploid cultivars for dependable pollination."
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 240,
+      "max": 360
+    },
+    "height_in": {
+      "min": 240,
+      "max": 420
+    },
+    "spread_in": {
+      "min": 180,
+      "max": 300
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "SFES was selected from wild stock around Hopkinsville, Kentucky by grower Lucky Pittman and later confirmed by flow cytometry as one of only a handful of named American persimmon cultivars belonging to the 60-chromosome tetraploid race rather than the more common 90-chromosome hexaploid race. It carries red-skinned fruit on a notably heavy-bearing tree. Because the two persimmon races are cross-incompatible, growers should plant it alongside another tetraploid cultivar rather than a typical hexaploid selection to ensure full, well-formed fruit. Like other American persimmons, fruit needs to soften well past the first hard frost before the astringency fades.",
+    "sources": [
+      "Kentucky State University / HortScience 55(1):4-7, 2020",
+      "Future Forest Plants"
     ]
   },
   {
@@ -1572679,6 +1577207,60 @@
     ]
   },
   {
+    "slug": "spring-glory-canadian-serviceberry",
+    "common_name": "Spring Glory Canadian Serviceberry",
+    "scientific_name": "Amelanchier canadensis 'Spring Glory'",
+    "category": "fruit",
+    "subcategory": "understory fruit tree",
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": null,
+      "max": null
+    },
+    "days_to_maturity": {
+      "min": 1095,
+      "max": 1825
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant container stock in spring in moist, well-drained soil; Spring Glory's compact size fits foundation plantings and smaller yards where full-size serviceberry species would quickly overrun the space."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 8
+    },
+    "spacing_in": {
+      "min": 72,
+      "max": 120
+    },
+    "height_in": {
+      "min": 120,
+      "max": 144
+    },
+    "spread_in": {
+      "min": 72,
+      "max": 96
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Spring Glory is a Proven Winners introduction selected from Canadian serviceberry for a notably compact habit, topping out around 12 feet tall and 6-8 feet wide versus the 15-25 feet typical of seedling-grown A. canadensis. It carries the same lightly fragrant white April flowers, sweet purple summer berries, and bright orange fall color as the species, just on a scale suited to smaller residential lots. Birds strip the ripe fruit quickly, so pick early if you want a share for fresh eating or baking. Plant in moist, well-drained soil in full sun to partial shade.",
+    "sources": [
+      "Proven Winners ColorChoice",
+      "Bowood Farms"
+    ]
+  },
+  {
     "slug": "spring-glow-cornelian-cherry",
     "common_name": "Spring Glow Cornelian Cherry (Low-Chill Southern Cornelian Cherry Dogwood)",
     "scientific_name": "Cornus mas 'Spring Glow'",
@@ -1574131,6 +1578713,60 @@
     "directions": "Stone pine is the classic Mediterranean umbrella-form pine grown for the large, richly flavored pine nuts (pignoli) used in pesto, pastries, and Middle Eastern cuisine; it is monoecious, self-fertile, and pollen-heavy — individual trees produce both male and female cones. Cones take three years to mature from pollination to seed release, so a productive tree has three overlapping cone crops at any given time. Harvest brown, closed cones by hand or after they fall naturally in late autumn, then sun-dry or gently heat them until the scales open and release the papery-shelled nuts inside. The tree thrives in sandy, well-drained, alkaline to acidic soil and is extremely drought-tolerant once the taproot is established.",
     "sources": [
       "general horticultural reference"
+    ]
+  },
+  {
+    "slug": "strata-allegheny-serviceberry",
+    "common_name": "Strata Allegheny Serviceberry",
+    "scientific_name": "Amelanchier laevis 'Strata'",
+    "category": "fruit",
+    "subcategory": "understory fruit tree",
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": null,
+      "max": null
+    },
+    "days_to_maturity": {
+      "min": 1460,
+      "max": 2920
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      },
+      "note": "Plant container or balled-and-burlapped stock in early spring; Strata tolerates shadier sites than most serviceberry cultivars, making it a strong pick for true understory plantings."
+    },
+    "usda_zones": {
+      "min": 4,
+      "max": 8
+    },
+    "spacing_in": {
+      "min": 180,
+      "max": 240
+    },
+    "height_in": {
+      "min": 180,
+      "max": 300
+    },
+    "spread_in": {
+      "min": 180,
+      "max": 240
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Strata was selected at the University of Wisconsin-Madison Arboretum for its distinctly horizontal, tiered branching pattern, an unusual architectural trait for Allegheny serviceberry, which typically grows as an upright multi-stemmed clump. Clouds of white flowers open in early spring, followed by blue-purple berries that are sweet enough for fresh eating if picked before birds clear the tree, and foliage turns orange in fall. It handles conditions from full sun down into full shade better than most serviceberry selections, fitting true woodland-edge and understory plantings. Give it moderate, consistent moisture and well-drained soil for the best form.",
+    "sources": [
+      "Chicago Botanic Garden Plant Finder",
+      "University of Wisconsin-Madison Arboretum"
     ]
   },
   {
@@ -1793993,6 +1798629,59 @@
     ]
   },
   {
+    "slug": "colocasia-esculenta-lehua-maoli",
+    "common_name": "Lehua Maoli Taro",
+    "scientific_name": "Colocasia esculenta 'Lehua Maoli'",
+    "category": "vegetable",
+    "subcategory": "tropical root crop",
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 240,
+      "max": 365
+    },
+    "maturity_from": "transplant",
+    "sow_method": "tuber",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 2
+      },
+      "note": "Set huli (corm tops) or whole corms once soil has warmed; can be grown in either boggy wetland beds or evenly moist upland rows."
+    },
+    "usda_zones": {
+      "min": 8,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 30,
+      "max": 48
+    },
+    "spread_in": {
+      "min": 24,
+      "max": 36
+    },
+    "sun": "partial",
+    "water": "high",
+    "directions": "This is the traditional 'ordinary' Hawaiian poi taro, grown successfully in both flooded wetland patches and evenly moist upland beds beneath light tree cover. Its yellowish-green petioles and purplish-lilac corm flesh are the source of prized 'Lehua red poi,' a variety long favored across the islands for home and small-farm cultivation. Give it rich, consistently damp soil and some afternoon shade in hot Gulf Coast summers to keep leaves from scorching, and expect corms ready to dig 8 to 12 months after planting. Corms and the young leaves must be thoroughly cooked to break down calcium oxalate before eating.",
+    "sources": [
+      "University of Hawaii CTAHR, Taro Varieties in Hawaii database (Lehua Maoli)"
+    ]
+  },
+  {
     "slug": "lemon-boy-tomato",
     "common_name": "Lemon Boy Tomato",
     "scientific_name": "Solanum lycopersicum 'Lemon Boy'",
@@ -1817082,6 +1821771,59 @@
     ]
   },
   {
+    "slug": "colocasia-esculenta-niue-ulaula",
+    "common_name": "Niue Taro",
+    "scientific_name": "Colocasia esculenta 'Niue-ulaula'",
+    "category": "vegetable",
+    "subcategory": "tropical root crop",
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 270,
+      "max": 365
+    },
+    "maturity_from": "transplant",
+    "sow_method": "tuber",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 2
+      },
+      "note": "Grow as an upland taro in evenly moist, rich beds rather than flooded water; underplant beneath open tree canopy for part-day shade."
+    },
+    "usda_zones": {
+      "min": 8,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 24,
+      "max": 40
+    },
+    "spread_in": {
+      "min": 20,
+      "max": 34
+    },
+    "sun": "partial",
+    "water": "high",
+    "directions": "Grown principally as a table taro rather than for poi, this medium, well-spreading, stocky cultivar is traditionally raised under upland rather than flooded culture. It suits a shaded border bed kept constantly damp rather than a true bog planting, and its white, yellow-fibered corm flesh cooks up firm for boiling or roasting. Expect corms to size up roughly 9 to 12 months after planting corm sections or huli. As with all taro, cook corms and greens thoroughly before eating to break down irritating calcium oxalate crystals.",
+    "sources": [
+      "University of Hawaii CTAHR, Taro Varieties in Hawaii database (Niue-ulaula)"
+    ]
+  },
+  {
     "slug": "nkruma-tenten-okra",
     "common_name": "Nkruma Tenten Okra (Ghanaian Tree Okra)",
     "scientific_name": "Abelmoschus esculentus 'Nkruma Tenten'",
@@ -1830933,6 +1835675,59 @@
     "directions": "Direct sow in mid to late summer so roots size up through the cooling days of fall, when frost converts starches to sugars and mellows typical rutabaga bite. Bred in Maine by Radcliffe Pike from an interspecific cross with Chinese cabbage, this variety has purple-topped white skin reminiscent of Laurentian but a notably fine-grained, sweeter yellow flesh, and it stores exceptionally well in a cold root cellar.",
     "sources": [
       "Fedco Seeds"
+    ]
+  },
+  {
+    "slug": "colocasia-esculenta-piko-uliuli",
+    "common_name": "Piko Uliuli Taro",
+    "scientific_name": "Colocasia esculenta 'Piko Uliuli'",
+    "category": "vegetable",
+    "subcategory": "tropical root crop",
+    "days_to_germination": {
+      "min": null,
+      "max": null
+    },
+    "germination_soil_temp_f": {
+      "min": 65,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 365,
+      "max": 450
+    },
+    "maturity_from": "transplant",
+    "sow_method": "tuber",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 2
+      },
+      "note": "Best suited to a permanently flooded or continuously saturated bed rather than ordinary garden soil, mimicking a wetland lo'i."
+    },
+    "usda_zones": {
+      "min": 8,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 18,
+      "max": 24
+    },
+    "height_in": {
+      "min": 24,
+      "max": 40
+    },
+    "spread_in": {
+      "min": 24,
+      "max": 36
+    },
+    "sun": "partial",
+    "water": "high",
+    "directions": "Historically one of the most important commercial poi taro varieties on Oahu, this stocky, erect selection is grown almost exclusively as a flooded wetland crop rather than in upland beds. It tolerates lowland heat and humidity with less corm rot than many other wetland types, making it a sturdy choice for a pond-edge or bog planter in a partly shaded Gulf Coast garden. Keep the roots submerged or saturated at all times and expect a long season, with corms maturing 12 to 15 months after planting. The chalky-white corm flesh must be cooked before eating.",
+    "sources": [
+      "University of Hawaii CTAHR, Taro Varieties in Hawaii database (Piko Uliuli)"
     ]
   },
   {
