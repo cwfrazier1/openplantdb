@@ -1,0 +1,343 @@
+[
+  {
+    "slug": "plavac-mali-grape",
+    "common_name": "Plavac Mali Wine Grape",
+    "scientific_name": "Vitis vinifera 'Plavac Mali'",
+    "category": "fruit",
+    "subcategory": "wine grape",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 730, "max": 1095},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": -4, "max": 2},
+      "note": "Plant bare-root or container-grown vines in early spring on steep, south-facing, stony terraces in lean, well-drained soil in full sun; Plavac Mali is the signature red grape of Croatia's Dalmatian coast and ripens best with intense reflected heat and sea exposure."
+    },
+    "usda_zones": {"min": 7, "max": 10},
+    "spacing_in": {"min": 72, "max": 96},
+    "height_in": {"min": 60, "max": 84},
+    "spread_in": {"min": 60, "max": 84},
+    "sun": "full",
+    "water": "low",
+    "directions": "Train vines low on bush or short-trellis systems on the terraced limestone slopes of Dalmatia, where reflected heat off stone walls and the sea helps ripen the small, thick-skinned, late-maturing clusters. Plavac Mali is a natural cross of Crljenak Kaštelanski (the Croatian form of Zinfandel) and Dobričić, producing deeply colored, high-tannin, high-alcohol reds under the Pelješac, Dingač, and Postup appellations. Harvest in mid-to-late autumn once sugars climb high, since the variety is prone to uneven ripening within a cluster; expect bold, rustic reds that improve with bottle age. Thin interior shoots during the growing season to let light and air into the canopy on the steep, hand-tended terraces where it is traditionally grown.",
+    "sources": [
+      "Jancis Robinson, Julia Harding and Jose Vouillamoz — Wine Grapes: A Complete Guide to 1,368 Vine Varieties",
+      "Vitis International Variety Catalogue (VIVC), Julius Kuhn-Institut",
+      "Decanter — Croatian Wine and the Dalmatian Coast"
+    ]
+  },
+  {
+    "slug": "posip-grape",
+    "common_name": "Pošip Wine Grape",
+    "scientific_name": "Vitis vinifera 'Pošip'",
+    "category": "fruit",
+    "subcategory": "wine grape",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 730, "max": 1095},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": -4, "max": 2},
+      "note": "Plant on warm, well-drained limestone slopes in full sun; Pošip is native to the island of Korčula and prefers a dry Mediterranean growing season with good air movement to prevent rot on its tight clusters."
+    },
+    "usda_zones": {"min": 7, "max": 10},
+    "spacing_in": {"min": 72, "max": 96},
+    "height_in": {"min": 60, "max": 84},
+    "spread_in": {"min": 60, "max": 84},
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant on trellised rows across the terraced vineyards of Čara and Smokvica on Korčula, where Pošip was the first Croatian wine to receive a protected designation of controlled origin in 1967. The golden-skinned berries ripen into full-bodied, aromatic white wines with notes of almond, pear, and herbs, and benefit from moderate crop thinning to concentrate flavor. Harvest in early autumn before acidity drops too far, and manage the canopy to keep clusters ventilated against the region's humid sea air. Pošip is often blended with a splash of Rukatac or Maraština in traditional island cellars to round out its character.",
+    "sources": [
+      "Jancis Robinson, Julia Harding and Jose Vouillamoz — Wine Grapes: A Complete Guide to 1,368 Vine Varieties",
+      "Vitis International Variety Catalogue (VIVC), Julius Kuhn-Institut",
+      "Wine & Spirits Education Trust — Croatian Wine Regions"
+    ]
+  },
+  {
+    "slug": "grk-grape",
+    "common_name": "Grk Wine Grape",
+    "scientific_name": "Vitis vinifera 'Grk'",
+    "category": "fruit",
+    "subcategory": "wine grape",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 730, "max": 1095},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": -4, "max": 2},
+      "note": "Plant in deep sandy soil in full sun; Grk is traditionally grown in the sandy vineyards near Lumbarda on Korčula and is unusual among Dalmatian grapes for tolerating looser, sandier ground rather than rocky terraces."
+    },
+    "usda_zones": {"min": 7, "max": 10},
+    "spacing_in": {"min": 72, "max": 96},
+    "height_in": {"min": 60, "max": 84},
+    "spread_in": {"min": 60, "max": 84},
+    "sun": "full",
+    "water": "low",
+    "directions": "Grow Grk on its own roots in the deep sandy vineyards of Lumbarda, where phylloxera historically struggled to establish, allowing many old ungrafted vines to survive. The variety produces almost entirely female flowers, so growers traditionally interplant a pollinator vine (often Plavac Mali or Maraština) nearby to ensure fruit set. Harvest the thick-skinned golden berries in early autumn for dry, full-bodied, slightly bitter-almond white wines that are a prized local specialty and rarely found outside the island. Keep vines low-trained and well-spaced in the loose sand to make hand cultivation and harvest manageable.",
+    "sources": [
+      "Jancis Robinson, Julia Harding and Jose Vouillamoz — Wine Grapes: A Complete Guide to 1,368 Vine Varieties",
+      "Vitis International Variety Catalogue (VIVC), Julius Kuhn-Institut",
+      "Decanter — Croatian Wine and the Dalmatian Coast"
+    ]
+  },
+  {
+    "slug": "marastina-grape",
+    "common_name": "Maraština Wine Grape",
+    "scientific_name": "Vitis vinifera 'Maraština'",
+    "category": "fruit",
+    "subcategory": "wine grape",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 730, "max": 1095},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": -4, "max": 2},
+      "note": "Plant on warm, well-drained coastal slopes in full sun; Maraština is a vigorous, heat-tolerant white variety grown widely across the Dalmatian coast and islands, often as a blending partner for more delicate local whites."
+    },
+    "usda_zones": {"min": 7, "max": 10},
+    "spacing_in": {"min": 72, "max": 96},
+    "height_in": {"min": 60, "max": 84},
+    "spread_in": {"min": 60, "max": 84},
+    "sun": "full",
+    "water": "low",
+    "directions": "Maraština (also called Rukatac in parts of Dalmatia) is a vigorous, productive white grape planted across the coastal vineyards and islands from Split to Korčula, valued for its reliability in hot, dry sites where more delicate varieties struggle. The grape yields generous crops of neutral, fruity, medium-bodied white wine and is also traditionally dried on racks or straw mats to concentrate sugars for sweet dessert wines such as Prošek. Prune for an open canopy since its vigorous growth can shade and slow ripening of its own fruit, and harvest in early-to-mid autumn depending on whether grapes are destined for dry wine or drying. It is frequently blended with Pošip or Grk to add body and alcohol to lighter island whites.",
+    "sources": [
+      "Jancis Robinson, Julia Harding and Jose Vouillamoz — Wine Grapes: A Complete Guide to 1,368 Vine Varieties",
+      "Vitis International Variety Catalogue (VIVC), Julius Kuhn-Institut",
+      "Wine & Spirits Education Trust — Croatian Wine Regions"
+    ]
+  },
+  {
+    "slug": "debit-grape",
+    "common_name": "Debit Wine Grape",
+    "scientific_name": "Vitis vinifera 'Debit'",
+    "category": "fruit",
+    "subcategory": "wine grape",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 730, "max": 1095},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": -4, "max": 2},
+      "note": "Plant on dry, stony soils of the northern Dalmatian coast in full sun; Debit is the principal white grape of the Zadar hinterland, well adapted to the region's thin, drought-prone soils."
+    },
+    "usda_zones": {"min": 7, "max": 10},
+    "spacing_in": {"min": 72, "max": 96},
+    "height_in": {"min": 60, "max": 84},
+    "spread_in": {"min": 60, "max": 84},
+    "sun": "full",
+    "water": "low",
+    "directions": "Debit is the historic white grape of the Zadar region in northern Dalmatia, grown on stony, drought-prone hillside vineyards around the town of Benkovac. Light-skinned and productive, it yields crisp, light-bodied dry white wines with citrus and mineral character that reflect the limestone soils it grows in. Harvest in early autumn while acidity is still fresh, as the variety loses tartness quickly if left on the vine too long. Train vines on simple wire trellises and prune to a moderate crop load, since Debit can overproduce on fertile sites at the expense of flavor concentration.",
+    "sources": [
+      "Jancis Robinson, Julia Harding and Jose Vouillamoz — Wine Grapes: A Complete Guide to 1,368 Vine Varieties",
+      "Vitis International Variety Catalogue (VIVC), Julius Kuhn-Institut",
+      "Decanter — Croatian Wine and the Dalmatian Coast"
+    ]
+  },
+  {
+    "slug": "vugava-grape",
+    "common_name": "Vugava Wine Grape",
+    "scientific_name": "Vitis vinifera 'Vugava'",
+    "category": "fruit",
+    "subcategory": "wine grape",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 730, "max": 1095},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": -4, "max": 2},
+      "note": "Plant in warm, well-drained vineyards on the island of Vis in full sun; Vugava is a rare native variety confined almost entirely to this one Dalmatian island and needs a long, hot, dry season to develop its aromatic character."
+    },
+    "usda_zones": {"min": 8, "max": 10},
+    "spacing_in": {"min": 72, "max": 96},
+    "height_in": {"min": 60, "max": 84},
+    "spread_in": {"min": 60, "max": 84},
+    "sun": "full",
+    "water": "low",
+    "directions": "Vugava is an old, aromatic white variety grown almost exclusively on the Dalmatian island of Vis, where local legend credits ancient Greek colonists with first planting it. The grape ripens to full, golden-colored, dry white wines with notable alcohol and a distinctive floral-spicy nose reminiscent of Viognier, though the two are genetically unrelated. Harvest in early autumn, taking care not to let sugars run away in the island's hot, sun-baked vineyards, and ferment cool to preserve the variety's delicate aromatics. Because production is tiny and confined to one island, Vugava remains a rare specialty wine rarely exported beyond Croatia.",
+    "sources": [
+      "Jancis Robinson, Julia Harding and Jose Vouillamoz — Wine Grapes: A Complete Guide to 1,368 Vine Varieties",
+      "Vitis International Variety Catalogue (VIVC), Julius Kuhn-Institut",
+      "Wine & Spirits Education Trust — Croatian Wine Regions"
+    ]
+  },
+  {
+    "slug": "teran-grape",
+    "common_name": "Teran Wine Grape",
+    "scientific_name": "Vitis vinifera 'Teran'",
+    "category": "fruit",
+    "subcategory": "wine grape",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 730, "max": 1095},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": -4, "max": 2},
+      "note": "Plant on the red, iron-rich terra rossa soils of Istria in full sun; Teran is the signature red grape of the Istrian peninsula and is strongly associated with this distinctive soil type."
+    },
+    "usda_zones": {"min": 7, "max": 10},
+    "spacing_in": {"min": 72, "max": 96},
+    "height_in": {"min": 60, "max": 84},
+    "spread_in": {"min": 60, "max": 84},
+    "sun": "full",
+    "water": "low",
+    "directions": "Teran is grown across the red terra rossa soils of Istria, where high natural acidity and dark color give the resulting wine a deep ruby hue and a tart, food-friendly bite often paired with local prosciutto and truffles. Related to, but distinct from, the Refošk/Refosco grapes of neighboring Slovenia and Italy, Teran ripens relatively late and benefits from a long, warm autumn to soften its naturally high acidity. Harvest once color and sugar are balanced, and expect young wines to taste sharply tart, mellowing somewhat with a year or two of bottle age. Vigorous and disease-resistant, Teran is well suited to Istria's humid maritime climate and performs reliably even in cooler, wetter vintages that trouble more delicate varieties.",
+    "sources": [
+      "Jancis Robinson, Julia Harding and Jose Vouillamoz — Wine Grapes: A Complete Guide to 1,368 Vine Varieties",
+      "Vitis International Variety Catalogue (VIVC), Julius Kuhn-Institut",
+      "Decanter — Istrian Wine and Terra Rossa Soils"
+    ]
+  },
+  {
+    "slug": "malvazija-istarska-grape",
+    "common_name": "Malvazija Istarska Wine Grape",
+    "scientific_name": "Vitis vinifera 'Malvazija Istarska'",
+    "category": "fruit",
+    "subcategory": "wine grape",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 730, "max": 1095},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": -4, "max": 2},
+      "note": "Plant in well-drained vineyards across the Istrian peninsula in full sun; Malvazija Istarska is Croatia's most widely planted white grape and the dominant white variety of Istria."
+    },
+    "usda_zones": {"min": 7, "max": 10},
+    "spacing_in": {"min": 72, "max": 96},
+    "height_in": {"min": 60, "max": 84},
+    "spread_in": {"min": 60, "max": 84},
+    "sun": "full",
+    "water": "low",
+    "directions": "Malvazija Istarska is a distinct member of the broad Malvasia family and the single most-planted white grape in Croatia, grown throughout the Istrian peninsula on both terra rossa and limestone soils. It produces fresh, aromatic dry whites with notes of acacia blossom, green apple, and almond, though some producers also make richer, barrel-aged, or amber-skin-contact styles. Harvest in early-to-mid autumn once aromatics peak, since the variety can lose its characteristic floral lift if left to over-ripen. Train on wire trellises with moderate vigor control, as overly vigorous growth dilutes the delicate aromatic compounds that define the variety's best wines.",
+    "sources": [
+      "Jancis Robinson, Julia Harding and Jose Vouillamoz — Wine Grapes: A Complete Guide to 1,368 Vine Varieties",
+      "Vitis International Variety Catalogue (VIVC), Julius Kuhn-Institut",
+      "Wine & Spirits Education Trust — Croatian Wine Regions"
+    ]
+  },
+  {
+    "slug": "oblica-olive",
+    "common_name": "Oblica Olive",
+    "scientific_name": "Olea europaea 'Oblica'",
+    "category": "fruit",
+    "subcategory": "tree fruit",
+    "days_to_germination": {"min": null, "max": null},
+    "germination_soil_temp_f": {"min": null, "max": null},
+    "days_to_maturity": {"min": 1095, "max": 1825},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 6},
+      "note": "Plant grafted trees in spring in lean, alkaline, well-drained soil in full sun; Oblica is the most widely grown olive along the Dalmatian coast and tolerates the region's thin, rocky limestone soils well."
+    },
+    "usda_zones": {"min": 8, "max": 10},
+    "spacing_in": {"min": 180, "max": 300},
+    "height_in": {"min": 180, "max": 360},
+    "spread_in": {"min": 180, "max": 300},
+    "sun": "full",
+    "water": "low",
+    "directions": "Oblica is the dominant traditional olive cultivar of the Dalmatian coast and islands, prized for both oil and table use and valued for its reliable, heavy bearing even on poor, rocky terrain. The medium-sized, oval fruit yields a robust, slightly bitter, peppery oil typical of Croatian coastal production, and some growers also brine the olives whole for eating. Harvest from early to mid autumn depending on whether fruit is destined for oil (picked greener) or table curing (picked riper), and prune in late winter to maintain an open canopy that ripens fruit evenly. Like most Mediterranean olives it tolerates drought, wind, and poor soil far better than wet feet, and old Oblica trees on the islands can live for centuries.",
+    "sources": [
+      "International Olive Council — World Catalogue of Olive Varieties",
+      "University of California Cooperative Extension",
+      "Croatian Ministry of Agriculture — Olive Variety Registry"
+    ]
+  },
+  {
+    "slug": "levantinka-olive",
+    "common_name": "Levantinka Olive",
+    "scientific_name": "Olea europaea 'Levantinka'",
+    "category": "fruit",
+    "subcategory": "tree fruit",
+    "days_to_germination": {"min": null, "max": null},
+    "germination_soil_temp_f": {"min": null, "max": null},
+    "days_to_maturity": {"min": 1095, "max": 1825},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 6},
+      "note": "Plant grafted trees in spring in lean, well-drained soil in full sun; Levantinka is traditionally grown in the Dalmatian hinterland and coastal valleys and valued for its large fruit size."
+    },
+    "usda_zones": {"min": 8, "max": 10},
+    "spacing_in": {"min": 180, "max": 300},
+    "height_in": {"min": 180, "max": 360},
+    "spread_in": {"min": 180, "max": 300},
+    "sun": "full",
+    "water": "low",
+    "directions": "Levantinka produces one of the largest fruit sizes among traditional Dalmatian olive cultivars, making it a favored choice for table-olive curing rather than oil pressing, though it is sometimes pressed as well. Growers typically pick the plump, elongated fruit while still green to firm for brine curing, or let it ripen further for a softer, milder cured olive. Prune in late winter after the risk of hard frost has passed to shape an open canopy, and irrigate young trees during establishment even though mature trees tolerate the region's dry summers well. Levantinka is often planted alongside Oblica in mixed coastal orchards to supply both the oil press and the kitchen table.",
+    "sources": [
+      "International Olive Council — World Catalogue of Olive Varieties",
+      "Croatian Ministry of Agriculture — Olive Variety Registry",
+      "University of California Cooperative Extension"
+    ]
+  },
+  {
+    "slug": "istarska-bjelica-olive",
+    "common_name": "Istarska Bjelica Olive",
+    "scientific_name": "Olea europaea 'Istarska Bjelica'",
+    "category": "fruit",
+    "subcategory": "tree fruit",
+    "days_to_germination": {"min": null, "max": null},
+    "germination_soil_temp_f": {"min": null, "max": null},
+    "days_to_maturity": {"min": 1095, "max": 1825},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 6},
+      "note": "Plant grafted trees in spring in well-drained terra rossa or limestone soil in full sun; Istarska Bjelica is the leading olive cultivar of the Istrian peninsula, Croatia's main olive-oil region."
+    },
+    "usda_zones": {"min": 8, "max": 10},
+    "spacing_in": {"min": 180, "max": 300},
+    "height_in": {"min": 180, "max": 360},
+    "spread_in": {"min": 180, "max": 300},
+    "sun": "full",
+    "water": "low",
+    "directions": "Istarska Bjelica (literally 'Istrian white') is the most widely planted olive cultivar in Istria, Croatia's premier olive-oil-producing region, and is prized for yielding fruity, aromatic, award-winning extra virgin oils with a pleasant bitter-peppery finish. The medium fruit ripens from green to purple-black over a long autumn window, and timing of harvest strongly affects the oil's flavor profile, with earlier picking giving greener, more pungent oil. Prune annually in late winter to maintain good light penetration, since Istarska Bjelica bears fruit mainly on the previous year's growth and benefits from renewal pruning to sustain yields. Istrian producers using this cultivar have won numerous international olive oil competitions, helping establish the peninsula's reputation as one of the world's top olive oil regions.",
+    "sources": [
+      "International Olive Council — World Catalogue of Olive Varieties",
+      "Croatian Ministry of Agriculture — Olive Variety Registry",
+      "Flos Olei — International Olive Oil Guide"
+    ]
+  }
+]
