@@ -1,0 +1,56 @@
+[
+  {
+    "slug": "hortulan-plum",
+    "common_name": "Hortulan Plum",
+    "scientific_name": "Prunus hortulana",
+    "category": "fruit",
+    "subcategory": "native understory tree",
+    "days_to_germination": {"min": 90, "max": 180},
+    "germination_soil_temp_f": {"min": 35, "max": 50},
+    "days_to_maturity": {"min": 1095, "max": 1825},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {"min": -4, "max": 4},
+      "note": "Plant bare-root or container nursery stock in fall or early spring in deep, well-drained bottomland soil, and site two seedlings together since this species is largely self-incompatible."
+    },
+    "usda_zones": {"min": 5, "max": 8},
+    "spacing_in": {"min": 180, "max": 300},
+    "height_in": {"min": 180, "max": 300},
+    "spread_in": {"min": 144, "max": 240},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Native to stream banks and floodplain thickets across the central United States from Missouri and Kansas to Tennessee and Oklahoma, Hortulan plum grows into a small single-stemmed tree rather than the dense root-suckering thicket typical of many other native plums, making it easier to manage in a mixed orchard or hedgerow planting. One of its more distinctive traits is that the white flowers open alongside or just after the leaves emerge in spring, later than most other native American plums, which helps it sometimes escape a hard spring frost that can damage earlier-blooming relatives. The tough-skinned, red-to-yellow fruit ripens late in the season and was historically prized by Midwestern plum breeders of the late 1800s and early 1900s as parent stock for several named orchard cultivars. Water during the first two seasons to establish a deep root system, then this tree tolerates periodic flooding and drought typical of its native floodplain habitat.",
+    "sources": ["USDA PLANTS Database", "USDA Forest Service Silvics Manual", "Missouri Botanical Garden Plant Finder"]
+  },
+  {
+    "slug": "texas-peachbush",
+    "common_name": "Texas Peachbush",
+    "scientific_name": "Prunus texana",
+    "category": "fruit",
+    "subcategory": "native sand dune shrub",
+    "days_to_germination": {"min": 90, "max": 180},
+    "germination_soil_temp_f": {"min": 35, "max": 50},
+    "days_to_maturity": {"min": 730, "max": 1460},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {"min": -4, "max": 4},
+      "note": "Transplant young nursery stock into loose, deep sand in full sun during fall or early spring, and avoid amending the soil since this shrub is adapted specifically to pure sandy substrates."
+    },
+    "usda_zones": {"min": 6, "max": 9},
+    "spacing_in": {"min": 36, "max": 72},
+    "height_in": {"min": 24, "max": 72},
+    "spread_in": {"min": 36, "max": 72},
+    "sun": "full",
+    "water": "low",
+    "directions": "A low, colony-forming shrub restricted to deep sand dunes of the Texas Panhandle and adjacent areas, Texas peachbush sends down a long taproot that helps anchor loose, shifting sand while the plant spreads slowly outward into small thickets. Clusters of white to pale pink flowers appear on bare branches in early spring before the leaves unfold, followed by small, fuzzy, peach-like drupes that ripen dull red in summer and have a tart, dry flesh closer to a wild peach than a plum. It is exceptionally drought-tolerant and performs poorly in rich garden soil or heavy clay, making it best suited to a dedicated native sand garden or dune-stabilization planting rather than conventional fruit culture. Leave fallen leaves and litter in place around the base, since this shrub expects minimal organic buildup in its naturally lean, fast-draining sand habitat.",
+    "sources": ["USDA PLANTS Database", "Lady Bird Johnson Wildflower Center Native Plant Database", "Flora of North America"]
+  }
+]

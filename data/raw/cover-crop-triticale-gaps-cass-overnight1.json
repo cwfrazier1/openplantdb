@@ -1,0 +1,25 @@
+[
+  {
+    "slug": "rosner-triticale",
+    "common_name": "Rosner Triticale",
+    "scientific_name": "×Triticosecale 'Rosner'",
+    "category": "cover-crop",
+    "subcategory": "historic spring forage/grain triticale",
+    "days_to_germination": {"min": 5, "max": 10},
+    "germination_soil_temp_f": {"min": 40, "max": 65},
+    "days_to_maturity": {"min": 65, "max": 115},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "planting": {"anchor": "soil_workable", "weeks_from_anchor": {"min": 0, "max": 2}, "note": "Drill as soon as the ground can be worked in spring for a dual grain-and-forage stand, and mow or graze at the boot-to-early-heading stage if growing it as a short-cycle green-manure cover rather than carrying it through to grain."},
+    "usda_zones": {"min": 2, "max": 7},
+    "spacing_in": {"min": 1, "max": 2},
+    "height_in": {"min": 36, "max": 54},
+    "spread_in": {"min": 1, "max": 3},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Rosner was among the first wheat-rye triticale cultivars released for commercial production, developed through the University of Manitoba's prairie breeding program for short, cool growing seasons where straight wheat often struggled. Drill it thickly in early spring the way you would a small-grain nurse crop, since the dense stand both outcompetes weeds and leaves heavy fibrous residue that builds organic matter when worked back into the soil. Growers can either let it stand for a grain or silage harvest or terminate it earlier as a green manure once it reaches the boot stage, when carbon content is high but the stems are still easy to cut down and incorporate. Because it combines rye's hardiness with wheat's grain quality, it remains a useful reference variety for anyone comparing newer triticale releases for cover-crop or dual-purpose forage use in cold, short-season regions.",
+    "sources": ["University of Manitoba Department of Plant Science", "Agriculture and Agri-Food Canada"]
+  }
+]
