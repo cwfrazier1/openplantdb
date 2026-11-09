@@ -1,0 +1,56 @@
+[
+  {
+    "slug": "jh-hale-peach",
+    "common_name": "J.H. Hale Peach (Historic Georgia Peach-Belt Giant Freestone)",
+    "scientific_name": "Prunus persica 'J.H. Hale'",
+    "category": "fruit",
+    "subcategory": "stone fruit",
+    "days_to_germination": {"min": null, "max": null},
+    "germination_soil_temp_f": {"min": null, "max": null},
+    "days_to_maturity": {"min": 100, "max": 120},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": -8, "max": -2},
+      "note": "Plant bare-root trees in late winter before bud break in deep, well-drained soil in full sun; because this variety is self-unfruitful, plant a second peach cultivar such as Elberta nearby to ensure pollination and fruit set."
+    },
+    "usda_zones": {"min": 5, "max": 9},
+    "spacing_in": {"min": 180, "max": 240},
+    "height_in": {"min": 144, "max": 240},
+    "spread_in": {"min": 144, "max": 216},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "J.H. Hale, discovered around 1912 by Connecticut peach grower John H. Hale, became one of the most widely planted commercial peaches in the United States during the first half of the twentieth century, prized for its unusually large fruit size and firm, richly flavored yellow flesh under a deep red blush, and it was a mainstay of the historic Georgia peach belt for decades. Because the tree is self-unfruitful, a second peach variety such as Elberta must be planted within pollinating distance to ensure a crop. Thin fruit heavily after bloom to take full advantage of this cultivar's naturally large fruit size, and watch closely for bacterial spot, to which it is notably more susceptible than many other peaches in humid Southern conditions. Harvest in midseason, roughly alongside Elberta, once the background skin color shifts from green to creamy yellow and the fruit yields slightly to gentle pressure.",
+    "sources": ["University of Georgia Cooperative Extension", "Clemson Cooperative Extension", "North Carolina State University Extension"]
+  },
+  {
+    "slug": "stump-the-world-peach",
+    "common_name": "Stump the World Peach (19th-Century White-Fleshed Southern Heirloom)",
+    "scientific_name": "Prunus persica 'Stump the World'",
+    "category": "fruit",
+    "subcategory": "stone fruit",
+    "days_to_germination": {"min": null, "max": null},
+    "germination_soil_temp_f": {"min": null, "max": null},
+    "days_to_maturity": {"min": 110, "max": 130},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": -8, "max": -2},
+      "note": "Plant bare-root trees in late winter before bud break in deep, well-drained, slightly acidic soil in full sun; this heirloom is self-fertile but benefits from annual thinning to support its characteristically large fruit."
+    },
+    "usda_zones": {"min": 5, "max": 9},
+    "spacing_in": {"min": 180, "max": 240},
+    "height_in": {"min": 144, "max": 240},
+    "spread_in": {"min": 144, "max": 216},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Stump the World is a white-fleshed freestone heirloom peach introduced in the mid-1800s, reputedly named for bearing fruit so much larger and finer-flavored than its contemporaries that it stumped growers who saw it. It became a widely planted commercial and dooryard peach across the South, including Georgia's early peach orchards, in the decades before Elberta eclipsed it near the turn of the twentieth century. The large fruit has tender, richly sweet white flesh blushed with red over pale skin, best enjoyed fresh or in preserves since its soft flesh does not ship as well as firmer modern varieties. Thin fruit after the June drop and monitor closely for brown rot in humid weather, since the thin skin and soft flesh of this old variety are more rot-prone than disease-bred modern peaches.",
+    "sources": ["University of Georgia Cooperative Extension", "Clemson Cooperative Extension", "North Carolina State University Extension"]
+  }
+]

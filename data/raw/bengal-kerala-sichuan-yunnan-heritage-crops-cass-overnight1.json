@@ -1,0 +1,305 @@
+[
+  {
+    "slug": "gobindobhog-rice",
+    "common_name": "Gobindobhog Rice (West Bengal Aromatic Short-Grain Rice)",
+    "scientific_name": "Oryza sativa 'Gobindobhog'",
+    "category": "vegetable",
+    "subcategory": "heritage grain",
+    "days_to_germination": {"min": 7, "max": 14},
+    "germination_soil_temp_f": {"min": 65, "max": 85},
+    "days_to_maturity": {"min": 140, "max": 155},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 2, "max": 6},
+      "note": "Transplant or direct sow into a warm, flooded paddy bed well after soil has warmed; Gobindobhog is a late-maturing, GI-protected short-grain landrace traditionally grown as a kharif-season crop in Bardhaman, Hooghly, Nadia, and Birbhum districts of West Bengal."
+    },
+    "usda_zones": {"min": 9, "max": 11},
+    "spacing_in": {"min": 6, "max": 8},
+    "height_in": {"min": 40, "max": 55},
+    "spread_in": {"min": 6, "max": 10},
+    "sun": "full",
+    "water": "high",
+    "directions": "Gobindobhog is a small, plump, intensely aromatic non-basmati rice grown for roughly 300 years in West Bengal, where it is the traditional grain for payesh, khichuri, and festival pulao because of its buttery flavor and soft, slightly sticky bite when cooked. It is a tall, photoperiod-sensitive, late-heading landrace, so it needs a long, warm, humid growing season with standing water maintained through tillering and heading. Keep plants in full sun with consistent flooding, and expect a notably longer time to maturity than ordinary table rice because flowering is triggered by shortening late-summer daylength. The variety received Indian Geographical Indication protection in 2017 specific to its home districts.",
+    "sources": [
+      "Geographical Indications Registry of India, Gobindobhog Rice GI application",
+      "ICAR research on morpho-agronomic characterization of Gobindabhog rice",
+      "Bidhan Chandra Krishi Viswavidyalaya (BCKV), Bengal Aromatic Rice documentation"
+    ]
+  },
+  {
+    "slug": "tulaipanji-rice",
+    "common_name": "Tulaipanji Rice (Uttar Dinajpur Fine Aromatic Rice)",
+    "scientific_name": "Oryza sativa 'Tulaipanji'",
+    "category": "vegetable",
+    "subcategory": "heritage grain",
+    "days_to_germination": {"min": 7, "max": 14},
+    "germination_soil_temp_f": {"min": 65, "max": 85},
+    "days_to_maturity": {"min": 140, "max": 150},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 2, "max": 6},
+      "note": "Transplant or direct sow into warm, flooded paddy beds; Tulaipanji is a terroir-locked, GI-protected landrace grown almost exclusively in the Raiganj subdivision of Uttar Dinajpur district, West Bengal, and reportedly loses its signature aroma and texture when grown elsewhere."
+    },
+    "usda_zones": {"min": 9, "max": 11},
+    "spacing_in": {"min": 6, "max": 8},
+    "height_in": {"min": 40, "max": 55},
+    "spread_in": {"min": 6, "max": 10},
+    "sun": "full",
+    "water": "high",
+    "directions": "Tulaipanji produces slender, whitish-yellow grains that cook up non-sticky and fluffy with a cotton-like texture, a trait that gives the variety its name, alongside a persistent natural fragrance prized by Bengali cooks for special-occasion rice dishes. It is a tall, lodging-prone traditional cultivar best suited to sheltered paddy fields with steady standing water through the growing season rather than modern dwarf-rice management. The variety also shows good natural disease and pest tolerance and strong milling and head-rice recovery compared to many other local aromatics. It received Indian GI protection in 2017, restricting authentic Tulaipanji to its native Dinajpur growing pockets.",
+    "sources": [
+      "Geographical Indications Registry of India, Tulaipanji Rice GI documentation",
+      "Research on ecological niche of Tulaipanji rice in Raiganj CD Block, Uttar Dinajpur",
+      "Bidhan Chandra Krishi Viswavidyalaya (BCKV), Bengal Aromatic Rice documentation"
+    ]
+  },
+  {
+    "slug": "kalonunia-rice",
+    "common_name": "Kalonunia Rice (North Bengal Black-Husked Aromatic Rice)",
+    "scientific_name": "Oryza sativa 'Kalonunia'",
+    "category": "vegetable",
+    "subcategory": "heritage grain",
+    "days_to_germination": {"min": 7, "max": 14},
+    "germination_soil_temp_f": {"min": 65, "max": 85},
+    "days_to_maturity": {"min": 145, "max": 160},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 2, "max": 6},
+      "note": "Transplant into warm, flooded paddy fields; Kalonunia is a long-duration, photoperiod-sensitive landrace traditionally grown in the Jalpaiguri, Alipurduar, and Coochbehar districts of northern West Bengal, in the Dooars region bordering the Himalayan foothills."
+    },
+    "usda_zones": {"min": 9, "max": 11},
+    "spacing_in": {"min": 6, "max": 8},
+    "height_in": {"min": 42, "max": 58},
+    "spread_in": {"min": 6, "max": 10},
+    "sun": "full",
+    "water": "high",
+    "directions": "Kalonunia is easily recognized in the field by its dark, near-black husk, occasional awns, and medium-slender white kernel inside, a visual contrast to the straw-colored husks of most other Bengal aromatics. It is one of the longest-duration traditional rices of northern West Bengal, needing a long, warm, humid season and standing water through most of its growth to reach full maturity. Farmers in the Dooars tea-and-rice belt have maintained it for generations specifically for its pleasant natural aroma and its fit with monsoon-season paddy cultivation. Give it full sun and consistent flooding, and expect flowering timed to late-season daylength shortening rather than a fixed calendar date.",
+    "sources": [
+      "Research documentation on aromatic rice diversity of West Bengal (Gobindabhog, Tulaipanji, Kalonunia, Radhunipagal, Kataribhog group)",
+      "Bidhan Chandra Krishi Viswavidyalaya (BCKV), Bengal Aromatic Rice documentation"
+    ]
+  },
+  {
+    "slug": "himsagar-mango",
+    "common_name": "Himsagar Mango (Malda Khirsapati Fiberless Mango)",
+    "scientific_name": "Mangifera indica 'Himsagar'",
+    "category": "fruit",
+    "subcategory": "tree fruit",
+    "days_to_germination": {"min": null, "max": null},
+    "germination_soil_temp_f": {"min": null, "max": null},
+    "days_to_maturity": {"min": 1095, "max": 1825},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 6},
+      "note": "Plant a grafted tree in spring in full sun on deep, well-drained soil; Himsagar, also marketed under its older name Khirsapati, is a GI-protected signature mango of Malda district, West Bengal."
+    },
+    "usda_zones": {"min": 10, "max": 11},
+    "spacing_in": {"min": 240, "max": 360},
+    "height_in": {"min": 180, "max": 360},
+    "spread_in": {"min": 180, "max": 300},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Himsagar is considered one of the finest dessert mangoes of eastern India, with a medium-to-large, oval, thin-skinned fruit that ripens to golden-yellow and encloses completely fiberless, buttery, orange-yellow flesh with an intensely sweet, honeyed flavor. It is harvested in a relatively short window from June into early July, which, combined with its short post-harvest shelf life, keeps it mostly a regional delicacy rather than a major export cultivar. Give grafted trees full sun, deep well-drained soil, and complete frost protection, since it has essentially no cold tolerance outside tropical and near-tropical climates. Expect several years of establishment before significant bearing, as with most grafted mango cultivars.",
+    "sources": [
+      "Geographical Indications Registry of India, Malda Khirsapati (Himsagar) Mango documentation",
+      "West Bengal State Horticulture Department, mango cultivar references"
+    ]
+  },
+  {
+    "slug": "jeerakasala-rice",
+    "common_name": "Jeerakasala Rice (Wayanad Cumin-Scented Biryani Rice)",
+    "scientific_name": "Oryza sativa 'Jeerakasala'",
+    "category": "vegetable",
+    "subcategory": "heritage grain",
+    "days_to_germination": {"min": 7, "max": 14},
+    "germination_soil_temp_f": {"min": 65, "max": 85},
+    "days_to_maturity": {"min": 120, "max": 135},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 2, "max": 6},
+      "note": "Transplant into rainfed highland paddy; Jeerakasala is a GI-protected, medium-duration aromatic landrace native to the Wayanad plateau of Kerala and is traditionally grown across the region's virippu and mundakan monsoon-season cycles."
+    },
+    "usda_zones": {"min": 9, "max": 11},
+    "spacing_in": {"min": 6, "max": 8},
+    "height_in": {"min": 38, "max": 50},
+    "spread_in": {"min": 6, "max": 10},
+    "sun": "full",
+    "water": "high",
+    "directions": "Jeerakasala takes its name from its small, cumin-seed-like grain shape and is the traditional rice behind Kerala's Malabar biryani, prized for a light fragrance and a firm bite that holds up to long dum-cooking with spiced meat and ghee. As an upland Wayanad landrace, it is shorter in duration than many lowland Bengal aromatics and tolerates the cooler, higher-elevation growing conditions of the Western Ghats plateau better than typical coastal rice. Grow it in full sun with standing water maintained through tillering, in line with the region's monsoon-fed cultivation calendar. It received Geographical Indication protection restricting the authentic name to rice grown within Wayanad district.",
+    "sources": [
+      "Geographical Indications Registry of India, Wayanad Jeerakasala Rice GI documentation",
+      "Kerala Agricultural University, Wayanad aromatic rice cultivation references"
+    ]
+  },
+  {
+    "slug": "gandhakasala-rice",
+    "common_name": "Gandhakasala Rice (Wayanad Sandalwood-Scented Rice)",
+    "scientific_name": "Oryza sativa 'Gandhakasala'",
+    "category": "vegetable",
+    "subcategory": "heritage grain",
+    "days_to_germination": {"min": 7, "max": 14},
+    "germination_soil_temp_f": {"min": 65, "max": 85},
+    "days_to_maturity": {"min": 125, "max": 140},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 2, "max": 6},
+      "note": "Transplant into rainfed highland paddy; Gandhakasala is a GI-protected landrace grown alongside Jeerakasala on the Wayanad plateau of Kerala, typically a little later-maturing and taller-growing than its better-known sibling."
+    },
+    "usda_zones": {"min": 9, "max": 11},
+    "spacing_in": {"min": 6, "max": 8},
+    "height_in": {"min": 42, "max": 55},
+    "spread_in": {"min": 6, "max": 10},
+    "sun": "full",
+    "water": "high",
+    "directions": "Gandhakasala is named for its distinctive sandalwood-like fragrance, setting it apart from the cumin-like scent of Jeerakasala, and it is used in the same Malabar-style biryanis and festive rice dishes where a strong natural aroma is valued. It is a traditional tall landrace adapted to Wayanad's cooler highland paddies, grown under the same monsoon-fed virippu and mundakan seasonal cycle as other local aromatics. Keep it in full sun with consistent standing water through the vegetative season, since it has little tolerance for drought stress once established. Both Wayanad Gandhakasala and Jeerakasala rice were registered with India's Geographical Indications registry in 2010.",
+    "sources": [
+      "Geographical Indications Registry of India, Wayanad Gandhakasala Rice GI documentation",
+      "Kerala Agricultural University, Wayanad aromatic rice cultivation references"
+    ]
+  },
+  {
+    "slug": "kuthiravally-pepper",
+    "common_name": "Kuthiravally Black Pepper (Kerala 'Horse-Tail' Landrace)",
+    "scientific_name": "Piper nigrum 'Kuthiravally'",
+    "category": "herb",
+    "subcategory": "tropical spice vine",
+    "days_to_germination": {"min": 21, "max": 42},
+    "germination_soil_temp_f": {"min": 75, "max": 85},
+    "days_to_maturity": {"min": 730, "max": 1095},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 4, "max": 8},
+      "note": "Plant rooted cuttings in spring in moist, fertile, well-drained soil in partial shade, training vines up a sturdy support; Kuthiravally is a traditional Western Ghats landrace from Kerala's pepper-growing belt, including Wayanad."
+    },
+    "usda_zones": {"min": 10, "max": 12},
+    "spacing_in": {"min": 36, "max": 60},
+    "height_in": {"min": 120, "max": 360},
+    "spread_in": {"min": 36, "max": 60},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Kuthiravally, meaning roughly 'horse's tail' in Malayalam, is named for its unusually long trailing spikes and vine growth compared to other traditional pepper types, and it is valued by Kerala growers for notably high piperine and oleoresin content as well as relatively fast establishment and disease tolerance. It served as parent stock for the modern IISR-released hybrid Panniyur-4, a selection from a Kuthiravally type, underscoring its continued importance in Indian pepper breeding. Grow it exactly as other Piper nigrum landraces, climbing a living or artificial support post in warm, humid, partially shaded conditions with evenly moist, well-drained soil. Because some regional stands of this landrace had become locally rare, growers should source planting material from reputable germplasm-conserving nurseries or spice research stations.",
+    "sources": [
+      "ICAR-Indian Institute of Spices Research, black pepper landrace and cultivar documentation",
+      "Genetic diversity assessment of black pepper (Piper nigrum L.) cultivars of the Western Ghats"
+    ]
+  },
+  {
+    "slug": "toria-rapeseed-mustard",
+    "common_name": "Toria (North Indian Short-Duration Oilseed Mustard)",
+    "scientific_name": "Brassica rapa var. toria",
+    "category": "cover-crop",
+    "subcategory": "oilseed brassica",
+    "days_to_germination": {"min": 3, "max": 8},
+    "germination_soil_temp_f": {"min": 45, "max": 80},
+    "days_to_maturity": {"min": 80, "max": 100},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "cool",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {"min": -8, "max": -4},
+      "note": "Direct sow in early autumn as a short-duration standalone oilseed crop or relay/catch crop ahead of winter wheat; Toria is grown across the Indo-Gangetic plain, including Punjab, Bihar, West Bengal, and Assam, as the quickest-maturing of India's Brassica rapa oilseed-mustard group."
+    },
+    "usda_zones": {"min": 4, "max": 9},
+    "spacing_in": {"min": 4, "max": 10},
+    "height_in": {"min": 24, "max": 40},
+    "spread_in": {"min": 10, "max": 16},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Toria is the fastest-cycling type within India's rapeseed-mustard complex, distinct from the slower-maturing sarson and raya (Brassica juncea) types, which makes it popular as a short-window oilseed crop that can be harvested before a main winter wheat or rabi crop is sown in the same field. Plants produce small, bright-yellow, four-petaled flowers followed by narrow seed pods whose small reddish-brown seeds are pressed for a pungent edible mustard-type oil used widely in South Asian cooking. Sow it directly into a well-prepared bed in early autumn, give it full sun and moderate, even moisture through flowering and pod-fill, and expect a notably shorter season than other oilseed brassicas. Its quick cycle and self-compatible, highly cross-pollinated flowers also make it a useful rotational or trap crop in integrated brassica pest management programs.",
+    "sources": [
+      "ICAR-Directorate of Rapeseed-Mustard Research",
+      "GCIRC (Global Council for Innovation in Rapeseed and Mustard) bulletin, Rapeseed-Mustard cultivation in India",
+      "Punjab Agricultural University, Ludhiana, oilseed Brassica research references"
+    ]
+  },
+  {
+    "slug": "yunkang-10-tea",
+    "common_name": "Yunkang 10 Tea (Yunnan Large-Leaf Pu'er Cultivar)",
+    "scientific_name": "Camellia sinensis var. assamica 'Yunkang 10'",
+    "category": "herb",
+    "subcategory": "evergreen tea shrub",
+    "days_to_germination": {"min": 30, "max": 90},
+    "germination_soil_temp_f": {"min": 65, "max": 80},
+    "days_to_maturity": {"min": 1095, "max": 1825},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 6},
+      "note": "Plant rooted cuttings in spring in acidic, well-drained, humus-rich soil in partial shade; Yunkang 10 is a large-leaf assamica-type cultivar bred by the Yunnan Academy of Agricultural Sciences Tea Research Institute from Fengqing large-leaf parent stock."
+    },
+    "usda_zones": {"min": 9, "max": 10},
+    "spacing_in": {"min": 36, "max": 60},
+    "height_in": {"min": 48, "max": 120},
+    "spread_in": {"min": 36, "max": 72},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Yunkang 10 was officially recognized as a national fine tea variety in China in 1987 and has since become one of the primary cultivars behind Yunnan's Pu'er tea industry, valued for its plump, hairy, yellow-green buds and vigorous early-season growth as an arbor-type large-leaf tea plant. The same leaf is also processed into Yunnan black and green teas, and the cultivar is noted among Yunnan assamica-type selections for comparatively better cold and drought tolerance, letting it be grown at somewhat cooler, higher-elevation margins of the Yunnan tea belt than more tender large-leaf types. Grow it like other large-leaf Yunnan tea cultivars, in warm, humid conditions with consistently moist, acidic, humus-rich soil and partial shade while young. Regular plucking of the top bud and two leaves keeps plants productive and encourages the tender new flush prized for Pu'er manufacture.",
+    "sources": [
+      "Yunnan Academy of Agricultural Sciences Tea Research Institute",
+      "International Camellia Register, Yunkang 10 cultivar record"
+    ]
+  },
+  {
+    "slug": "jinyangqing-sichuan-pepper",
+    "common_name": "Jinyangqing Sichuan Pepper (Jinyang Green Huajiao)",
+    "scientific_name": "Zanthoxylum armatum 'Jinyangqing'",
+    "category": "herb",
+    "subcategory": "perennial spice shrub",
+    "days_to_germination": {"min": null, "max": null},
+    "germination_soil_temp_f": {"min": null, "max": null},
+    "days_to_maturity": {"min": 1095, "max": 1825},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Plant container-grown shrubs in spring in lean, sharply drained soil in full sun; Jinyangqing is a green-husked Zanthoxylum armatum selection grown around Jinyang County in Sichuan's Liangshan Yi Autonomous Prefecture, distinct from the red Z. bungeanum huajiao types."
+    },
+    "usda_zones": {"min": 8, "max": 10},
+    "spacing_in": {"min": 96, "max": 144},
+    "height_in": {"min": 84, "max": 180},
+    "spread_in": {"min": 84, "max": 144},
+    "sun": "full",
+    "water": "low",
+    "directions": "Jinyangqing is grown for its bright, fresh-citrus, intensely numbing green peppercorns, picked and used while still green rather than sun-dried to the familiar reddish-brown huajiao, a style widely known in Sichuan cooking as qing hua jiao. The thorny, multi-stemmed, dioecious shrub needs a female plant to set the fruit clusters harvested for culinary use, and it performs best on lean, rocky, sharply drained slopes similar to its home terrain in Liangshan prefecture. Give it full sun, avoid wet winter soil that invites root rot, and skip heavy nitrogen feeding, which tends to dilute the essential oils responsible for its signature citrus-and-numbing flavor. Because fresh green peppercorns lose potency quickly, harvested fruit is typically oil-infused or frozen soon after picking rather than stored dry.",
+    "sources": [
+      "The Mala Market, Sichuan pepper sourcing and cultivar guides",
+      "Chemical and Genetic Characteristics of Szechuan Pepper (Zanthoxylum bungeanum and Z. armatum) Cultivars and Their Suitable Habitat, research study"
+    ]
+  }
+]
