@@ -1,0 +1,83 @@
+[
+  {
+    "slug": "rubus-crataegifolius",
+    "common_name": "Korean Raspberry",
+    "scientific_name": "Rubus crataegifolius",
+    "category": "berry",
+    "subcategory": "native wild species",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 365, "max": 730},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Plant bare-root canes or rooted divisions in early spring in well-drained, humus-rich soil, leaving room for the arching canes to spread or confining them to a bordered bed."
+    },
+    "usda_zones": {"min": 4, "max": 8},
+    "spacing_in": {"min": 36, "max": 48},
+    "height_in": {"min": 40, "max": 100},
+    "spread_in": {"min": 36, "max": 60},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Korean raspberry is a thorny, arching bramble native to the cool temperate forests of Korea, northeastern China, Japan, and the Russian Far East, where it has long been gathered for its tart red fruit and used in traditional preserves and herbal remedies. Plant canes or divisions in early spring into well-drained, humus-rich soil, giving the plant sun to light shade similar to a forest edge. Like other brambles it produces biennial canes that fruit in their second year on the previous season's growth, so prune out spent floricanes after harvest and thin new primocanes to maintain airflow. Its maple-like toothed leaves and spring white-to-pale-pink flowers make it an attractive, cold-hardy addition to a woodland-edge or native-bramble planting.",
+    "sources": ["Plants For A Future (PFAF) Database", "Flora of China"]
+  },
+  {
+    "slug": "vaccinium-consanguineum",
+    "common_name": "Costa Rican Blueberry",
+    "scientific_name": "Vaccinium consanguineum",
+    "category": "berry",
+    "subcategory": "native wild species",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 730, "max": 1095},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Plant container-grown stock in spring into consistently moist, acidic, humus-rich soil; this cloud-forest native resents drying out and needs a nearly frost-free site or greenhouse protection outside its warm zones."
+    },
+    "usda_zones": {"min": 9, "max": 11},
+    "spacing_in": {"min": 24, "max": 36},
+    "height_in": {"min": 24, "max": 36},
+    "spread_in": {"min": 24, "max": 36},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Costa Rican blueberry is a compact evergreen shrub native to the cool, misty cloud forests of Costa Rica and Panama's highlands, where it grows as understory alongside other tropical Vacciniums. Small white spring flowers give way to edible blue berries resembling northern blueberries, though the plant lacks the cold tolerance of temperate species. Give it constantly moist, humus-rich, acidic soil and part shade that mimics its native forest canopy, since it does not tolerate drought or hot, dry exposure. It is grown mainly as a collector's shrub by specialty ericaceous-plant nurseries in warm-climate or protected settings rather than as a field fruit crop.",
+    "sources": ["New York Botanical Garden botanical records", "PlantLust specialty nursery plant index"]
+  },
+  {
+    "slug": "vaccinium-retusum",
+    "common_name": "East Himalayan Blueberry",
+    "scientific_name": "Vaccinium retusum",
+    "category": "berry",
+    "subcategory": "native wild species",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 730, "max": 1095},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Plant container stock in spring into acidic, well-drained, humus-rich soil in a rock garden or raised bed, using the same lime-free, peaty mix favored for rhododendrons."
+    },
+    "usda_zones": {"min": 7, "max": 9},
+    "spacing_in": {"min": 18, "max": 36},
+    "height_in": {"min": 15, "max": 36},
+    "spread_in": {"min": 15, "max": 36},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "This slow-growing evergreen Vaccinium is native to high-elevation forests of the eastern Himalaya, where it forms a dense, boxwood-like mound of small, notched-tipped leaves. Pink, bell-shaped flowers open in summer and are followed by small black-purple berries that are edible but little used compared with northern blueberries. It wants the same acidic, peaty, well-drained conditions preferred by rhododendrons and other ericaceous rock-garden plants, with shelter from the hottest afternoon sun. Thanks to its compact habit and fine texture it is grown mainly as an ornamental rock-garden or woodland-edge specimen rather than for its fruit.",
+    "sources": ["PlantLust specialty nursery plant index", "Bovees Nursery plant records"]
+  }
+]

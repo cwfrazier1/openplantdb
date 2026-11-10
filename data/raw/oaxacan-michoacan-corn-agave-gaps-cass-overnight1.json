@@ -1,0 +1,188 @@
+[
+  {
+    "slug": "zapalote-chico-corn",
+    "common_name": "Zapalote Chico Corn (Isthmus of Tehuantepec Totopo Corn)",
+    "scientific_name": "Zea mays 'Zapalote Chico'",
+    "category": "vegetable",
+    "subcategory": "heritage grain corn",
+    "days_to_germination": {"min": 6, "max": 10},
+    "germination_soil_temp_f": {"min": 65, "max": 90},
+    "days_to_maturity": {"min": 85, "max": 105},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 2, "max": 6},
+      "note": "Direct sow once soil is warm; this short-cycle lowland landrace is built for a brief rainy season and matures faster than most Mexican corn races."
+    },
+    "usda_zones": {"min": 9, "max": 11},
+    "spacing_in": {"min": 10, "max": 14},
+    "height_in": {"min": 40, "max": 63},
+    "spread_in": {"min": 18, "max": 24},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Zapalote Chico is a short, stocky flint-dent landrace developed by Zapotec and mestizo farmers on the hot coastal plain of the Isthmus of Tehuantepec in Oaxaca, where it remains the staple corn for making totopos, the large thin toasted tortilla chips of the region. Its compact stature and unusually fast cycle to flowering let it finish before the short local rainy season ends, and it carries one of the highest grain protein contents recorded among Mexican maize races. Direct sow in fertile, well-drained soil in full sun, planting in blocks of several short rows rather than one long row to ensure reliable wind pollination. Harvest ears fresh at the milky stage for elote and atole, or let them dry fully on the stalk for grinding into masa for totopos and tortillas.",
+    "sources": [
+      "Wellhausen, Roberts, Hernandez & Mangelsdorf, Races of Maize in Mexico (1952)",
+      "Revista Fitotecnia Mexicana — Caracterización de poblaciones sobresalientes de maíz de la raza Zapalote Chico",
+      "USDA Agricultural Research Service — Evaluation of Zapalote Chico accessions for conservation and enhancement"
+    ]
+  },
+  {
+    "slug": "oloton-corn",
+    "common_name": "Olotón Corn (Sierra Mixe Nitrogen-Fixing Corn)",
+    "scientific_name": "Zea mays 'Olotón'",
+    "category": "vegetable",
+    "subcategory": "heritage grain corn",
+    "days_to_germination": {"min": 7, "max": 12},
+    "germination_soil_temp_f": {"min": 65, "max": 90},
+    "days_to_maturity": {"min": 210, "max": 270},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 2, "max": 6},
+      "note": "Direct sow in warm soil and give it a full 7-9 month frost-free season; this highland Oaxacan landrace is exceptionally tall and slow to mature compared to ordinary field corn."
+    },
+    "usda_zones": {"min": 9, "max": 11},
+    "spacing_in": {"min": 12, "max": 16},
+    "height_in": {"min": 180, "max": 240},
+    "spread_in": {"min": 24, "max": 30},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Olotón is the towering traditional corn of the Sierra Mixe highlands of Oaxaca, grown for generations by Mixe farmers around towns such as Totontepec Villa de Morelos in a milpa system alongside beans and squash. Plants reach extraordinary heights of 15 to 20 feet over a long 7-to-9-month cycle, and partway through the season they put out a ring of thick aerial roots partway up the stalk that ooze a sugary, gel-like mucilage; this mucilage hosts a community of nitrogen-fixing bacteria that help the plant meet much of its nitrogen needs in poor mountain soils, a trait that drew international scientific attention after being documented in detail in 2018. Give it rich soil, full sun, sturdy support from wind, and plenty of vertical space, since its scale is unlike almost any other corn grown in home gardens. Harvest ears dry for traditional grinding once the long season is complete.",
+    "sources": [
+      "Van Deynze et al., PLOS Biology (2018) — Nitrogen fixation in a landrace of maize is supported by a mucilage-associated diazotrophic microbiota",
+      "University of California, Davis, College of Agricultural and Environmental Sciences — research announcement on Sierra Mixe maize",
+      "Wikipedia — Sierra Mixe corn (general reference, cross-checked against primary literature)"
+    ]
+  },
+  {
+    "slug": "karwinskii-agave",
+    "common_name": "Karwinskii Agave (Madrecuixe, Cuishe & Barril Mezcal Maguey)",
+    "scientific_name": "Agave karwinskii",
+    "category": "flower",
+    "subcategory": "agave",
+    "days_to_germination": {"min": 21, "max": 45},
+    "germination_soil_temp_f": {"min": 70, "max": 85},
+    "days_to_maturity": {"min": 3650, "max": 6570},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 2, "max": 8},
+      "note": "Plant container-grown specimens in spring in lean, rocky, extremely fast-draining soil in full sun, leaving room for the plant to eventually develop a visible trunk over many years."
+    },
+    "usda_zones": {"min": 9, "max": 11},
+    "spacing_in": {"min": 36, "max": 60},
+    "height_in": {"min": 60, "max": 120},
+    "spread_in": {"min": 36, "max": 60},
+    "sun": "full",
+    "water": "low",
+    "directions": "Agave karwinskii is unusual among agaves for slowly building up a real trunk of persistent old leaf bases beneath a narrow crown of lance-shaped leaves, giving mature plants a tall, columnar silhouette unlike the ground-hugging rosettes of most relatives. It grows wild on the dry hillsides of Oaxaca and supplies several of the most distinctive maguey types used in artisanal mezcal, known regionally by local-form names such as madrecuixe, cuishe, barril, and cirial rather than by its Latin binomial, each prized by palenques for a different balance of herbaceous, mineral, and bright acidic character in the finished spirit. Plants take roughly ten to eighteen years of slow growth before reaching harvest size. Grow in full sun with lean, sharply drained rocky soil and water only sparingly once established; like other agaves it is monocarpic, flowering once on a tall stalk after many years before the rosette that bloomed dies.",
+    "sources": [
+      "Mexican Spirits Bible — Agave karwinskii (Cuixe complex) species profile",
+      "CONABIO — Agaves de México",
+      "Mezcal PhD — survey of agave species used in mezcal production"
+    ]
+  },
+  {
+    "slug": "marmorata-agave",
+    "common_name": "Marbled Agave (Tepeztate Mezcal Maguey)",
+    "scientific_name": "Agave marmorata",
+    "category": "flower",
+    "subcategory": "agave",
+    "days_to_germination": {"min": 21, "max": 45},
+    "germination_soil_temp_f": {"min": 70, "max": 85},
+    "days_to_maturity": {"min": 4380, "max": 9125},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 2, "max": 8},
+      "note": "Plant container-grown specimens in spring in extremely well-drained rocky or limestone-based soil in full sun, giving this very large, slow-growing species ample permanent room."
+    },
+    "usda_zones": {"min": 9, "max": 11},
+    "spacing_in": {"min": 72, "max": 120},
+    "height_in": {"min": 48, "max": 79},
+    "spread_in": {"min": 72, "max": 120},
+    "sun": "full",
+    "water": "low",
+    "directions": "Known in Oaxaca and southern Puebla as maguey tepeztate, Agave marmorata grows wild on steep limestone cliffs and rocky slopes of the Tehuacán-Cuicatlán Valley and is one of the slowest-maturing agaves used in mezcal, often taking twelve to twenty-five years in the wild before it is ready to harvest. Mature plants form a huge rosette of broad, gray-green, lightly mottled leaves, and the long wait rewards mezcaleros with a notably earthy, mineral, and herbaceous spirit that commands premium prices. Because of its slow growth and the pressure wild-collecting has put on native populations, cultivated plantings are valued for easing that pressure. Grow in full sun with lean, extremely sharp drainage and generous, undisturbed space; the plant is monocarpic, eventually sending up a tall yellow-flowered stalk before the rosette dies, usually leaving few or no offsets.",
+    "sources": [
+      "Del Maguey — Agave marmorata (Tepeztate) species guide",
+      "World of Succulents — Agave marmorata (Marbled Agave) cultivation notes",
+      "PMC — Micropropagation of Seed-Derived Clonal Lines of the Endangered Agave marmorata Roezl"
+    ]
+  },
+  {
+    "slug": "jabali-agave",
+    "common_name": "Jabalí Agave (Wild Boar Maguey)",
+    "scientific_name": "Agave convallis",
+    "category": "flower",
+    "subcategory": "agave",
+    "days_to_germination": {"min": 21, "max": 45},
+    "germination_soil_temp_f": {"min": 70, "max": 85},
+    "days_to_maturity": {"min": 2920, "max": 5475},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 2, "max": 8},
+      "note": "Plant container-grown specimens in spring in lean, rocky, sharply drained soil in full sun, siting it where its many long, downward-curving leaves have room to spread."
+    },
+    "usda_zones": {"min": 9, "max": 11},
+    "spacing_in": {"min": 48, "max": 84},
+    "height_in": {"min": 39, "max": 59},
+    "spread_in": {"min": 59, "max": 79},
+    "sun": "full",
+    "water": "low",
+    "directions": "Agave convallis is found only in Oaxaca, growing on rock walls, shaded cliffs, and steep ravines, and is known locally as jabalí for the way its many long, slender, spine-edged leaves sweep downward like the curved tusks of a wild boar. For generations it was valued mainly as a source of ixtle fiber for rope rather than for mezcal, and its taxonomy was unsettled for decades before the name Agave convallis was reinstated for the species; in recent years a growing number of small-batch mezcaleros have begun using jabalí on its own or blended with other magueyes such as bicuishe. Grow in full sun in very lean, rocky, fast-draining soil, protecting it from standing winter moisture, and allow the large rosette plenty of room to develop its full spread of arching leaves. It is monocarpic, sending up a tall flowering stalk after many years of growth before the rosette dies.",
+    "sources": [
+      "Useful Tropical Plants Database — Agave convallis species profile",
+      "Mezcalistas — Jabalí poses thorny challenges for botanists and mezcaleros",
+      "Smith, TAXON (2019) — Proposal to reject the name Agave expatriata (nomenclatural history of A. convallis)"
+    ]
+  },
+  {
+    "slug": "cupreata-agave",
+    "common_name": "Copper Agave (Papalote/Chino Mezcal Maguey)",
+    "scientific_name": "Agave cupreata",
+    "category": "flower",
+    "subcategory": "agave",
+    "days_to_germination": {"min": 21, "max": 45},
+    "germination_soil_temp_f": {"min": 70, "max": 85},
+    "days_to_maturity": {"min": 2920, "max": 5475},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 2, "max": 8},
+      "note": "Plant container-grown specimens in spring in lean, rocky, extremely well-drained soil in full sun; this is the signature mezcal agave of the Balsas River basin in Michoacán and Guerrero."
+    },
+    "usda_zones": {"min": 9, "max": 11},
+    "spacing_in": {"min": 36, "max": 60},
+    "height_in": {"min": 30, "max": 48},
+    "spread_in": {"min": 36, "max": 60},
+    "sun": "full",
+    "water": "low",
+    "directions": "Agave cupreata grows wild on mountain slopes of the Balsas River basin in Michoacán and Guerrero, with outlying populations reaching into Puebla and the Oaxacan Mixteca, and is known regionally as maguey papalote or maguey chino. It is the backbone agave of Michoacán and Guerrero mezcal production, forming a medium rosette of broad, bright green leaves edged with slightly curved, copper-brown marginal spines that give the species its common name. Plants typically need eight to fifteen years of growth before reaching harvest size for mezcal. Grow in full sun with lean, rocky, sharply drained soil, watering only during active growth and letting the soil dry out fully between waterings; it is monocarpic, eventually producing a tall branched flower stalk before the rosette dies, often leaving offsets behind.",
+    "sources": [
+      "IUCN Red List of Threatened Species — Agave cupreata (Maguey Papalote) assessment",
+      "ResearchGate — Poblaciones silvestres de Maguey Chino (Agave cupreata) en el estado de Michoacán",
+      "Del Maguey — Agave cupreata species guide"
+    ]
+  }
+]

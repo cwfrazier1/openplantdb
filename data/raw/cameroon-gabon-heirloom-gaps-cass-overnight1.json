@@ -1,0 +1,188 @@
+[
+  {
+    "slug": "njansang-tree",
+    "common_name": "Njansang (Cameroon Forest Spice Nut Tree)",
+    "scientific_name": "Ricinodendron heudelotii",
+    "category": "fruit",
+    "subcategory": "tropical nut and spice tree",
+    "days_to_germination": {"min": 21, "max": 42},
+    "germination_soil_temp_f": {"min": 75, "max": 85},
+    "days_to_maturity": {"min": 2920, "max": 3650},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 8},
+      "note": "Set out a scarified-seed or stem-cutting seedling in spring into deep, acidic, freely draining soil in full sun; njansang is a frost-tender Central African forest tree that World Agroforestry Centre (ICRAF) programs in Cameroon have taught farmers to raise on-farm rather than only gather wild, and it needs a long frost-free season to ever reach bearing size."
+    },
+    "usda_zones": {"min": 10, "max": 11},
+    "spacing_in": {"min": 360, "max": 480},
+    "height_in": {"min": 300, "max": 600},
+    "spread_in": {"min": 240, "max": 420},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Njansang is a dioecious forest tree of Cameroon's humid south that ICRAF breeding and extension work has turned from a purely wild-gathered nut into a semi-domesticated farm tree, with cocoa farmers increasingly planting it as a shade species in their plots. Its lobed drupes hold hard-shelled kernels that, once laboriously cracked out, are ground into the oily paste that thickens ndolé and many other Cameroonian and Gabonese sauces, and ICRAF-developed cracking machines have since cut the traditional weeks-long hand-processing time dramatically. Because male and female flowers occur on separate trees, gardeners aiming for kernels need more than one seedling nearby to guarantee pollination, and because it is slow to start bearing, patience of a decade or so is standard before a seedling tree yields its first worthwhile crop. Give it deep, acidic, well-drained soil and full sun, and expect it to tolerate drier spells once established thanks to roots that reach well below the topsoil other crops are using.",
+    "sources": [
+      "World Agroforestry Centre (ICRAF) — njansang domestication and value chain research, Cameroon",
+      "PROTA (Plant Resources of Tropical Africa) — Ricinodendron heudelotii",
+      "CIFOR — Ricinodendron heudelotii kernel group commercialization and its impact on farmers' livelihoods in Cameroon"
+    ]
+  },
+  {
+    "slug": "cassava-96-1414-cameroon",
+    "common_name": "96/1414 Cassava (Cameroon CMD-Resistant High-Yield Cultivar)",
+    "scientific_name": "Manihot esculenta '96/1414'",
+    "category": "vegetable",
+    "subcategory": "tropical tuber shrub",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 300, "max": 420},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 2, "max": 6},
+      "note": "Plant disease-free stem cuttings at a slant into well-drained soil once temperatures are reliably warm; 96/1414 is a cassava variety bred by IITA and officially released by the Cameroonian government in 2012 for its resistance to cassava mosaic disease."
+    },
+    "usda_zones": {"min": 9, "max": 11},
+    "spacing_in": {"min": 36, "max": 48},
+    "height_in": {"min": 60, "max": 108},
+    "spread_in": {"min": 36, "max": 60},
+    "sun": "full",
+    "water": "low",
+    "directions": "96/1414 is one of a group of IITA-bred cassava lines that the government of Cameroon officially released in September 2012 to help growers replace older, disease-prone local stocks. It carries resistance to cassava mosaic disease, including the aggressive East African cassava mosaic virus-Uganda strain, which lets it keep bulking roots in fields where whitefly-spread mosaic routinely cripples unimproved varieties. Field evaluations have recorded fresh root yields in the range of roughly 22 to 35 tons per hectare, with a marketable yield of around 23 tons per hectare once damaged and undersized roots are culled. Plant cuttings in full sun on loose, well-drained ground and allow a full year or more of frost-free growth before lifting, since this variety's heaviest yields come from a complete growing cycle rather than an early harvest.",
+    "sources": [
+      "International Institute of Tropical Agriculture (IITA) — cassava breeding and Cameroon variety release program",
+      "Government of Cameroon cassava variety release, September 2012",
+      "ISAAA Crop Biotech Update — Cameroon Releases Improved Cassava Varieties to Boost Food Security"
+    ]
+  },
+  {
+    "slug": "cassava-8034-cameroon",
+    "common_name": "8034 Cassava (Cameroon IRAD High-Yield Bacterial-Blight-Tolerant Cultivar)",
+    "scientific_name": "Manihot esculenta '8034'",
+    "category": "vegetable",
+    "subcategory": "tropical tuber shrub",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 300, "max": 420},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 2, "max": 6},
+      "note": "Plant disease-free stem cuttings at a slant into loose, well-drained soil once it has warmed well past 65°F; 8034 is an improved cultivar distributed by Cameroon's Institute of Agricultural Research for Development (IRAD) and known locally as the 'selected' variety for its reliable outperformance of older local stocks."
+    },
+    "usda_zones": {"min": 9, "max": 11},
+    "spacing_in": {"min": 36, "max": 48},
+    "height_in": {"min": 60, "max": 108},
+    "spread_in": {"min": 36, "max": 60},
+    "sun": "full",
+    "water": "low",
+    "directions": "8034 is an IRAD-distributed cassava cultivar grown widely enough in Cameroon that farmers simply refer to it as the 'selected' variety, distinguishing it from unimproved local landraces. It is valued chiefly for its tolerance of cassava bacterial blight and for holding up well against cassava green mite, two pressures that can otherwise defoliate and stunt plantings in a hot, dry season, though its reaction to cassava mosaic disease has varied between field trials from moderately tolerant to susceptible depending on local virus strains. Research-station trials have measured fresh root yields of roughly 30 to 40 tons per hectare with dry matter content around 35 to 38 percent, a notably starchy root prized for gari and other processed cassava foods. Grow it in full sun on loose, well-drained soil and expect it to shrug off poor fertility and short dry spells once established, mirroring the resilience of cassava generally.",
+    "sources": [
+      "Institute of Agricultural Research for Development (IRAD), Cameroon",
+      "Farmer Participation in Research-for-Development to Enhance Cassava Production in Cameroon — academic field study",
+      "Evaluation of resistance to cassava mosaic disease in selected African cassava cultivars using combined molecular and greenhouse grafting tools — PMC"
+    ]
+  },
+  {
+    "slug": "essong-plantain",
+    "common_name": "Essong Plantain (Cameroon French Giant Landrace)",
+    "scientific_name": "Musa AAB 'Essong'",
+    "category": "fruit",
+    "subcategory": "banana",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 420, "max": 600},
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 0, "max": 6},
+      "note": "Plant a sucker after frost danger has passed in deep, fertile, well-drained soil in full sun; Essong is a tall French Giant-type plantain landrace long grown across Cameroon and needs a longer, more generous growing cycle than most other plantain types to fill its outsized bunch."
+    },
+    "usda_zones": {"min": 9, "max": 11},
+    "spacing_in": {"min": 96, "max": 144},
+    "height_in": {"min": 144, "max": 216},
+    "spread_in": {"min": 96, "max": 144},
+    "sun": "full",
+    "water": "high",
+    "directions": "Essong is the archetypal French Giant plantain of Cameroon, a landrace prized for having the largest pseudostem, leaves, and bunch of any locally grown cultivar, with bunches commonly carrying ten or more hands packed with distinctively angular fingers. That scale comes at the cost of time: Essong runs through a noticeably longer field cycle than compact False Horn types before it is ready to cut, and it is consistently ranked among the most consumed and carotenoid-rich plantains eaten in Cameroon, its orange-tinged pulp deepening in provitamin A content as the fruit ripens. Propagate it from a sucker set into deep, fertile, well-drained soil in full sun, feeding and watering generously since the sheer size of its bunch makes it a heavy feeder, and stake the pseudostem well before the bunch fills out to keep the top-heavy plant from toppling. Watch for black Sigatoka and nematodes over successive growing cycles, as with other long-held plantain landraces.",
+    "sources": [
+      "CARBAP (Centre Africain de Recherches sur Bananiers et Plantains)",
+      "IITA data portal — Carotenoids and phenolics content in plantains collected from Cameroon and Gabon",
+      "Analysis of consumer-oriented quality characteristics of raw and boiled plantains in Cameroon — International Journal of Food Science & Technology"
+    ]
+  },
+  {
+    "slug": "french-sombre-plantain",
+    "common_name": "French Sombre Plantain (Cameroon Black-Skinned French Landrace)",
+    "scientific_name": "Musa AAB 'French Sombre'",
+    "category": "fruit",
+    "subcategory": "banana",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 365, "max": 450},
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 0, "max": 6},
+      "note": "Plant a sucker after frost danger has passed in deep, fertile, well-drained soil in full sun; French Sombre, Cameroon's 'black plantain' landrace, needs a full twelve to fifteen months of frost-free growth to reach harvest."
+    },
+    "usda_zones": {"min": 9, "max": 11},
+    "spacing_in": {"min": 96, "max": 144},
+    "height_in": {"min": 132, "max": 192},
+    "spread_in": {"min": 96, "max": 132},
+    "sun": "full",
+    "water": "high",
+    "directions": "French Sombre is a French-type plantain landrace long grown in central Cameroon, nicknamed the 'black plantain' and especially prized by the Eton people for its flavor. Its bunch typically carries five to eight hands, smaller than giant French types like Essong, and the pulp turns a deep orange at full ripeness, reflecting a carotenoid content that researchers studying Cameroonian plantains have measured among the higher values recorded for local cultivars. It takes a full twelve to fifteen months from planting to reach a harvestable bunch, slower than most False Horn cultivars grown alongside it. Plant from a sucker in deep, fertile, well-drained soil in full sun, water and feed generously through the growing season, and stake the pseudostem once the bunch begins to swell, since the fruit load can otherwise pull the plant over in wind.",
+    "sources": [
+      "CIRAD / Fruits journal — plantain cultivar carotenoid and classification studies in Cameroon",
+      "IITA data portal — Carotenoids and phenolics content in plantains collected from Cameroon and Gabon",
+      "CARBAP (Centre Africain de Recherches sur Bananiers et Plantains)"
+    ]
+  },
+  {
+    "slug": "big-ebanga-plantain",
+    "common_name": "Big Ebanga Plantain (Cameroon False Horn Landrace)",
+    "scientific_name": "Musa AAB 'Big Ebanga'",
+    "category": "fruit",
+    "subcategory": "banana",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 365, "max": 545},
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 0, "max": 6},
+      "note": "Plant a sucker after frost danger has passed in deep, fertile, well-drained soil in full sun; Big Ebanga is a False Horn plantain landrace grown widely across Cameroon and stake it once the bunch begins filling out."
+    },
+    "usda_zones": {"min": 9, "max": 11},
+    "spacing_in": {"min": 96, "max": 144},
+    "height_in": {"min": 120, "max": 180},
+    "spread_in": {"min": 96, "max": 132},
+    "sun": "full",
+    "water": "high",
+    "directions": "Big Ebanga, often simply called Ebanga or Ebang, is a False Horn plantain landrace that ranks alongside Essong as one of the most widely eaten plantain cultivars in Cameroon, though consumer taste trials have rated it as only moderately liked compared with some other local types. Researchers studying plantain pests have evaluated Big Ebanga side by side with Essong for its reaction to the burrowing nematode Radopholus similis, a pest that attacks plantain root systems and can weaken a stand over repeated growing cycles. Its more compact False Horn bunch and stature set it apart from giant French types, giving it a shorter, sturdier profile in the field. Propagate from a sucker planted in deep, fertile, well-drained soil in full sun, feed and water generously as plantains are heavy feeders, and stake the pseudostem as the bunch fills to prevent toppling.",
+    "sources": [
+      "CARBAP (Centre Africain de Recherches sur Bananiers et Plantains)",
+      "Evaluation of the sensitivity of two plantain varieties essong and big ebanga to the nematode Radopholus similis — academic study",
+      "IITA data portal — Carotenoids and phenolics content in plantains collected from Cameroon and Gabon"
+    ]
+  }
+]

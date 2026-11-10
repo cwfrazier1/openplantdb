@@ -1,0 +1,250 @@
+[
+  {
+    "slug": "mweru-cassava-zambia",
+    "common_name": "Mweru Cassava (Zambia Sweet High-Yield Cassava)",
+    "scientific_name": "Manihot esculenta 'Mweru'",
+    "category": "vegetable",
+    "subcategory": "tropical tuber shrub",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 420, "max": 540},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 2, "max": 6},
+      "note": "Plant disease-free stem cuttings at a slant into well-drained soil once it has warmed well past 65°F; Mweru was bred by crossing an IITA parent line with the Nalumino landrace and released through Zambia's Root and Tuber Improvement Programme for its heavy root yield and built-in disease tolerance."
+    },
+    "usda_zones": {"min": 9, "max": 11},
+    "spacing_in": {"min": 36, "max": 48},
+    "height_in": {"min": 60, "max": 120},
+    "spread_in": {"min": 36, "max": 60},
+    "sun": "full",
+    "water": "low",
+    "directions": "Mweru was released in 2000 by Zambian researchers as part of a second wave of cassava mosaic disease-resistant cultivars bred to replace older, more vulnerable local landraces around Lake Mweru and the Luapula and Northern provinces. It bulks an unusually large root crop for a smallholder variety, and the roots cook up sweet enough to eat boiled without the bitterness that forces many African cassava landraces through an extended soaking or fermentation step. Give plants a full sixteen-month season in frost-free ground, since the long growth cycle is what allows the roots to reach their full size and starch content. Like other cassava, it shrugs off poor, sandy soil and dry spells once its root system is established, but resents waterlogging.",
+    "sources": [
+      "Zambia Agriculture Research Institute (ZARI) — Root and Tuber Improvement Programme",
+      "FAO AAACP Paper Series — Value Chain Mapping and Cost Structure Analysis for Cassava in Zambia",
+      "PMC — Cassava mosaic disease: a review of a threat to cassava production in Zambia"
+    ]
+  },
+  {
+    "slug": "bangweulu-cassava-zambia",
+    "common_name": "Bangweulu Cassava (Zambia Lake Region Heirloom Cassava)",
+    "scientific_name": "Manihot esculenta 'Bangweulu'",
+    "category": "vegetable",
+    "subcategory": "tropical tuber shrub",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 300, "max": 420},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 2, "max": 6},
+      "note": "Plant stem cuttings horizontally or at a slant into loose, well-drained soil once all danger of frost has passed; Bangweulu was one of the first improved cultivars released from on-farm selection trials around Zambia's Bangweulu wetlands."
+    },
+    "usda_zones": {"min": 9, "max": 11},
+    "spacing_in": {"min": 36, "max": 48},
+    "height_in": {"min": 60, "max": 108},
+    "spread_in": {"min": 36, "max": 60},
+    "sun": "full",
+    "water": "low",
+    "directions": "Bangweulu takes its name from the lake and swamp basin in northern Zambia where it was selected from superior local plants and released in 1993 as part of the country's earliest push to formalize cassava breeding. It reaches harvestable size faster than many of the heavier-yielding cultivars released afterward, which made it popular with farmers who needed a quicker turnaround between planting and the next hungry season. Expect a shrubby, multi-stemmed plant that tolerates thin, sandy soils and erratic rainfall far better than most other garden root crops. Harvest by digging carefully around the base once the lower leaves begin to yellow and drop, since the storage roots can snap off if pulled too early or too roughly.",
+    "sources": [
+      "FAO AAACP Paper Series — Value Chain Mapping and Cost Structure Analysis for Cassava in Zambia",
+      "PMC — Cassava mosaic disease: a review of a threat to cassava production in Zambia",
+      "Zambia Agriculture Research Institute (ZARI)"
+    ]
+  },
+  {
+    "slug": "nsinjiro-groundnut-malawi",
+    "common_name": "Nsinjiro Groundnut (Malawi Virginia-Type Peanut)",
+    "scientific_name": "Arachis hypogaea 'Nsinjiro'",
+    "category": "vegetable",
+    "subcategory": "Virginia-type peanut landrace",
+    "days_to_germination": {"min": 10, "max": 14},
+    "germination_soil_temp_f": {"min": 65, "max": 85},
+    "days_to_maturity": {"min": 120, "max": 140},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 1, "max": 2},
+      "note": "Direct sow shelled seed into loose, well-drained soil once it has warmed, since developing pegs need to push easily into the ground; Nsinjiro (ICGV-SM 90704) was released in Malawi in 2000 for its combination of disease resistance and improved yield over older landraces like Chalimbana."
+    },
+    "usda_zones": {"min": 7, "max": 11},
+    "spacing_in": {"min": 8, "max": 12},
+    "height_in": {"min": 12, "max": 20},
+    "spread_in": {"min": 18, "max": 24},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Nsinjiro was bred by ICRISAT in partnership with Malawi's Department of Agricultural Research Services and released to give smallholders a groundnut with real field resistance to groundnut rosette virus and early leaf spot, two diseases that routinely gut yields from unimproved local landraces. The medium-duration Virginia-type plant produces uniformly sized, reddish kernels that blanch cleanly, a trait valued both for home cooking and for sale into processing markets. Keep the sprawling, low mounding plants in loose sandy loam and water consistently through flowering and pegging, since dry soil during that window limits how many pods actually fill. Lift the whole plant once the foliage yellows and the pods inside have developed a firm, netted shell.",
+    "sources": [
+      "ICRISAT — Groundnut cropping guide for Malawi",
+      "Department of Agricultural Research Services (DARS), Malawi",
+      "CABI Digital Library — Genebanks and market participation: evidence from groundnut farmers in Malawi"
+    ]
+  },
+  {
+    "slug": "kalima-bean-malawi",
+    "common_name": "Kalima Bean (Malawi Calima-Type Dry Bean)",
+    "scientific_name": "Phaseolus vulgaris 'Kalima'",
+    "category": "vegetable",
+    "subcategory": "dry bean",
+    "days_to_germination": {"min": 8, "max": 12},
+    "germination_soil_temp_f": {"min": 60, "max": 85},
+    "days_to_maturity": {"min": 85, "max": 95},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 0, "max": 2},
+      "note": "Direct sow once soil has warmed and frost danger has passed; Kalima was released in Malawi in 1993 through the Bunda College of Agriculture bean breeding program and quickly became one of the country's most widely adopted improved varieties."
+    },
+    "usda_zones": {"min": 3, "max": 10},
+    "spacing_in": {"min": 4, "max": 6},
+    "height_in": {"min": 16, "max": 22},
+    "spread_in": {"min": 10, "max": 14},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Kalima is a bush-type Calima bean selected and released in Malawi for its large, attractive red-mottled seed and its ability to keep producing a respectable harvest even on the depleted, low-fertility soils common on smallholder plots. Breeders prized it for standing up to rust and angular leaf spot, two fungal diseases that otherwise thin out unimproved local bean stocks in humid growing seasons. Give plants full sun and even moisture, especially while pods are filling, and expect a compact, upright bush that needs no staking. Pull entire plants once most pods have dried and rattle with loose seed, then finish drying indoors before shelling and storing.",
+    "sources": [
+      "CGIAR — Improved common bean varieties released from 1970 to 2013 by PABRA",
+      "VTechWorks — Factors influencing farmers' adoption of Kalima bean (Phaseolus vulgaris L.) variety in Malawi",
+      "Pan-Africa Bean Research Alliance (PABRA)"
+    ]
+  },
+  {
+    "slug": "nagaga-bean-malawi",
+    "common_name": "Nagaga Bean (Malawi Improved Bush Dry Bean)",
+    "scientific_name": "Phaseolus vulgaris 'Nagaga'",
+    "category": "vegetable",
+    "subcategory": "dry bean",
+    "days_to_germination": {"min": 8, "max": 12},
+    "germination_soil_temp_f": {"min": 60, "max": 85},
+    "days_to_maturity": {"min": 80, "max": 90},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 0, "max": 2},
+      "note": "Direct sow once soil has warmed and frost danger has passed; Nagaga was released in Malawi in 1996 by the national Department of Agricultural Research Services and Bean Improvement Program as a faster-maturing companion to earlier releases like Kalima."
+    },
+    "usda_zones": {"min": 3, "max": 10},
+    "spacing_in": {"min": 4, "max": 6},
+    "height_in": {"min": 14, "max": 20},
+    "spread_in": {"min": 10, "max": 14},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Nagaga is a determinate bush bean bred for Malawian smallholders who needed a crop that could fit into a shorter window between the end of one planting season and the start of the next. Its large tan seeds cook down into a mild, creamy dry bean that stores well after harvest, which made it popular for both home consumption and local sale. The compact, upright plants need no support and finish quickly, so they work well as a catch crop between longer-season vegetables. Harvest once pods have dried fully on the plant, then thresh and screen out any shriveled or discolored seed before storing in a cool, dry place.",
+    "sources": [
+      "CIAT — Experiences in Implementing the Bean Seed Strategy in Malawi",
+      "CGIAR — Improved common bean varieties released from 1970 to 2013 by PABRA",
+      "Department of Agricultural Research Services (DARS), Malawi"
+    ]
+  },
+  {
+    "slug": "sauma-pigeonpea-malawi",
+    "common_name": "Sauma Pigeon Pea (Malawi Long-Duration Fusarium-Resistant Pigeon Pea)",
+    "scientific_name": "Cajanus cajan 'Sauma'",
+    "category": "vegetable",
+    "subcategory": "perennial legume / dry pea",
+    "days_to_germination": {"min": 7, "max": 14},
+    "germination_soil_temp_f": {"min": 65, "max": 85},
+    "days_to_maturity": {"min": 220, "max": 270},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 2, "max": 6},
+      "note": "Direct-sow once soil has fully warmed; Sauma (ICP 9145) was released in Malawi in 1987 as a long-duration variety bred chiefly for its resistance to fusarium wilt, a soil-borne disease that can wipe out unimproved pigeon pea stands."
+    },
+    "usda_zones": {"min": 8, "max": 11},
+    "spacing_in": {"min": 18, "max": 30},
+    "height_in": {"min": 60, "max": 108},
+    "spread_in": {"min": 36, "max": 48},
+    "sun": "full",
+    "water": "low",
+    "directions": "Sauma grows into a tall, woody-stemmed shrub that needs a long, uninterrupted warm season of seven to nine months before its large pods finish filling, so it suits gardeners in genuinely frost-free or near-frost-free climates. The plant was selected above all for standing strong against fusarium wilt, letting it keep producing in fields where older local pigeon pea had begun to fail. Its big, cream-colored seeds speckled with brown cook into a hearty dried pulse, and the whole plant also fixes nitrogen and can be cut back repeatedly as green manure or fodder. Because flowering and pod maturity both lag until fairly late in the season, plant it as early as conditions allow and be patient waiting for the harvest.",
+    "sources": [
+      "ICRISAT Open Access Repository — Pigeonpea Variety ICP 9145",
+      "Plant Breeding — Pigeonpea breeding in eastern and southern Africa: challenges and opportunities",
+      "Tropical Legumes Hub — Enhancing the productivity and production of pigeonpea"
+    ]
+  },
+  {
+    "slug": "delvia-sweetpotato-mozambique",
+    "common_name": "Delvia Sweet Potato (Mozambique Drought-Tolerant Orange-Fleshed Sweet Potato)",
+    "scientific_name": "Ipomoea batatas 'Delvia'",
+    "category": "vegetable",
+    "subcategory": "sweet potato",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 90, "max": 110},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 2, "max": 6},
+      "note": "Set out rooted vine cuttings into well-drained, ridged or mounded soil after all frost danger has passed; Delvia was released in Mozambique in 2011 through the CIP-IIAM accelerated breeding program specifically for low-potential areas prone to drought and salinity."
+    },
+    "usda_zones": {"min": 8, "max": 11},
+    "spacing_in": {"min": 10, "max": 14},
+    "height_in": {"min": 8, "max": 14},
+    "spread_in": {"min": 36, "max": 48},
+    "sun": "full",
+    "water": "low",
+    "directions": "Delvia was bred and released as part of a batch of Mozambican orange-fleshed sweet potato cultivars aimed at pulling more vitamin A into diets where maize and cassava otherwise dominate, and it was specifically singled out for marginal ground that regularly faces drought or salty soils. The vines root quickly from cuttings and bulk roots in a tight three-month window, letting farmers squeeze a harvest into a short rainy season. It carries strong resistance to sweet potato weevil and sweet potato virus disease, two of the biggest yield-robbers for this crop across southern Africa. Keep soil evenly moist only through establishment and early vine growth, then let the crop pull through with minimal watering as the deep orange-fleshed roots mature underground.",
+    "sources": [
+      "Journal of Agricultural Science (Cambridge) — Release of orange-fleshed sweetpotato cultivars in Mozambique through an accelerated breeding scheme",
+      "International Potato Center (CIP) — Orange-fleshed Sweetpotato for Africa Catalogue",
+      "Instituto de Investigação Agrária de Moçambique (IIAM)"
+    ]
+  },
+  {
+    "slug": "namanga-sweetpotato-mozambique",
+    "common_name": "Namanga Sweet Potato (Mozambique High-Yield Orange-Fleshed Sweet Potato)",
+    "scientific_name": "Ipomoea batatas 'Namanga'",
+    "category": "vegetable",
+    "subcategory": "sweet potato",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 90, "max": 110},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 2, "max": 6},
+      "note": "Set out rooted vine cuttings into well-drained, ridged soil after frost danger has passed; Namanga was released in Mozambique in 2011 through the CIP-IIAM accelerated breeding program as one of the broadly adapted, high-yielding orange-fleshed cultivars recommended across the country."
+    },
+    "usda_zones": {"min": 8, "max": 11},
+    "spacing_in": {"min": 10, "max": 14},
+    "height_in": {"min": 8, "max": 14},
+    "spread_in": {"min": 36, "max": 48},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Namanga was selected for wide adaptability rather than a single niche, performing reliably across Mozambique's varied growing regions rather than being tied to one soil type or rainfall pattern. It reaches harvestable size in about three months from planting, with vigorous vines that cover ground quickly and help crowd out weeds once established. Breeders built in solid resistance to sweet potato weevil and sweet potato virus disease, both serious threats to root quality and storage life in the region. Harvest by easing a fork under the ridge to lift the orange-fleshed roots intact, and handle them gently since bruised skin shortens storage time considerably.",
+    "sources": [
+      "Journal of Agricultural Science (Cambridge) — Release of orange-fleshed sweetpotato cultivars in Mozambique through an accelerated breeding scheme",
+      "International Potato Center (CIP) — Orange-fleshed Sweetpotato for Africa Catalogue",
+      "Instituto de Investigação Agrária de Moçambique (IIAM)"
+    ]
+  }
+]

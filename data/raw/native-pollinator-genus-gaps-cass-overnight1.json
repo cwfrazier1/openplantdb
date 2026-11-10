@@ -1,0 +1,56 @@
+[
+  {
+    "slug": "west-coast-goldenrod",
+    "common_name": "West Coast Goldenrod (Cascade Goldenrod)",
+    "scientific_name": "Solidago elongata",
+    "category": "flower",
+    "subcategory": "Pacific Coast native goldenrod",
+    "days_to_germination": {"min": 14, "max": 21},
+    "germination_soil_temp_f": {"min": 55, "max": 70},
+    "days_to_maturity": {"min": 90, "max": 120},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "fall",
+      "weeks_from_anchor": {"min": -8, "max": -4},
+      "note": "Direct sow seed in fall into moist to average, sandy or gravelly soil in full sun to light shade; benefits from natural winter cold-moist stratification before spring germination."
+    },
+    "usda_zones": {"min": 5, "max": 9},
+    "spacing_in": {"min": 18, "max": 24},
+    "height_in": {"min": 24, "max": 60},
+    "spread_in": {"min": 18, "max": 36},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Direct sow seed in fall, or set out container plants in spring, into moist to average, sandy or gravelly soil in full sun to light shade; West Coast goldenrod naturally colonizes streambanks, coastal bluffs, and the edges of open woods from British Columbia south through California into northern Baja California, and benefits from a period of cold, moist winter chilling before germinating. Long confused with Canada goldenrod, it is now recognized as its own distinct Pacific Coast species, distinguished by its narrow, elongated, club-shaped flower cluster of ascending branches rather than a broad pyramidal plume. Clusters of small golden-yellow flower heads open from late summer into fall, drawing large numbers of native bees, butterflies, and other pollinators preparing for the dry season ahead. It spreads by rhizome to form sizeable colonies over time, making it useful for naturalized plantings, dune stabilization, and habitat restoration projects along the West Coast.",
+    "sources": ["Jepson eFlora (University of California)", "Calscape / California Native Plant Society", "Burke Museum Herbarium (University of Washington)"]
+  },
+  {
+    "slug": "bract-milkweed",
+    "common_name": "Bract Milkweed (Desert Milkweed)",
+    "scientific_name": "Asclepias brachystephana",
+    "category": "flower",
+    "subcategory": "desert Southwest native monarch plant",
+    "days_to_germination": {"min": 10, "max": 20},
+    "germination_soil_temp_f": {"min": 70, "max": 80},
+    "days_to_maturity": {"min": 100, "max": 140},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Direct sow seed after the last frost once soil has warmed, following 4-6 weeks of cold moist stratification, into lean, well-drained, dry alluvial or rocky soil in full sun."
+    },
+    "usda_zones": {"min": 6, "max": 9},
+    "spacing_in": {"min": 18, "max": 24},
+    "height_in": {"min": 12, "max": 24},
+    "spread_in": {"min": 18, "max": 30},
+    "sun": "full",
+    "water": "low",
+    "directions": "Direct sow seed after the last frost once soil has warmed, following 4-6 weeks of cold moist stratification, or set out nursery-grown plants into lean, well-drained, dry alluvial or rocky soil in full sun; bract milkweed is native to desert grasslands, mesas, and disturbed roadsides of the Trans-Pecos, southern New Mexico, southeastern Arizona, and northern Mexico at elevations up to roughly 6,500 feet. Its deep taproot makes established plants extremely drought-tolerant, and like other milkweeds it dies back to the ground each winter before resprouting from the root crown. Clusters of unusual maroon-purple and white flowers, each topped with a distinctive elongated hood, appear in summer and are visited by native bees and butterflies, including egg-laying monarchs. Though seldom offered by mainstream nurseries, it is carried by specialty desert-native growers and is a worthwhile drought-tolerant addition to xeric pollinator gardens across the warmer parts of its hardiness range.",
+    "sources": ["Lady Bird Johnson Wildflower Center", "USDA-NRCS / Xerces Society: Pollinator Plants of the Desert Southwest", "SEINet Arizona-New Mexico Chapter"]
+  }
+]

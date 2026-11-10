@@ -1,0 +1,92 @@
+[
+  {
+    "slug": "ajvarski-pepper",
+    "common_name": "Ajvarski Pepper (Macedonian Ajvar Sweet Pepper)",
+    "scientific_name": "Capsicum annuum 'Ajvarski'",
+    "category": "vegetable",
+    "subcategory": "sweet pepper",
+    "days_to_germination": {"min": 10, "max": 21},
+    "germination_soil_temp_f": {"min": 75, "max": 85},
+    "days_to_maturity": {"min": 80, "max": 90},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": -10, "max": -8},
+      "note": "Start seed indoors 8-10 weeks before the last frost and set out stocky transplants once nights stay warm, as with other Balkan kapia-type peppers grown for ajvar."
+    },
+    "usda_zones": {"min": 3, "max": 11},
+    "spacing_in": {"min": 16, "max": 20},
+    "height_in": {"min": 20, "max": 24},
+    "spread_in": {"min": 16, "max": 20},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Ajvarski is a mild, thick-walled sweet pepper from North Macedonia, grown specifically for roasting down into ajvar, the Balkan red pepper and eggplant spread. Compact, sturdy plants hold broad, wedge-shaped pods that ripen from green to a deep glossy red and carry almost no heat, so the whole crop can be left on the plant to color fully before harvest. Because the fruit walls are thick and meaty, growers typically plan the harvest around a single late-season roasting session rather than picking continuously for fresh eating. Consistent warmth and even watering through fruit set help the pods size up to their full six- to seven-inch length.",
+    "sources": [
+      "FAO Europe and Central Asia: 'Transformation of the Macedonian pepper'",
+      "Tatiana's TOMATOBase variety archive"
+    ]
+  },
+  {
+    "slug": "slonovo-uvo-pepper",
+    "common_name": "Slonovo Uvo Pepper (Serbian Elephant Ear Pepper)",
+    "scientific_name": "Capsicum annuum 'Slonovo Uvo'",
+    "category": "vegetable",
+    "subcategory": "sweet pepper",
+    "days_to_germination": {"min": 10, "max": 21},
+    "germination_soil_temp_f": {"min": 75, "max": 85},
+    "days_to_maturity": {"min": 90, "max": 100},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": -10, "max": -8},
+      "note": "Start indoors 8-10 weeks before the last frost; this medium-late Serbian selection needs a long, warm season to finish its large pods, so get transplants in as soon as nights are reliably mild."
+    },
+    "usda_zones": {"min": 3, "max": 11},
+    "spacing_in": {"min": 14, "max": 24},
+    "height_in": {"min": 26, "max": 30},
+    "spread_in": {"min": 20, "max": 24},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Slonovo Uvo, meaning 'elephant's ear' in Serbian, is a heavy-fruited sweet pepper bred for the Balkan ajvar and dried paprika trade. The sturdy, self-supporting plants need no staking despite carrying irregular, conical pods that can reach eight inches long and several inches across at the shoulder, coloring from pale green through yellow and orange to a deep glossy red. Growers generally let fruit ride to full red ripeness for maximum sweetness and aroma before roasting or drying, since the thick flesh dries down into an intensely flavorful paprika powder. A single well-fed plant can carry close to two dozen fruits in a favorable season.",
+    "sources": [
+      "High Desert Seed + Gardens variety description",
+      "agronom.info Balkan seed catalog listing"
+    ]
+  },
+  {
+    "slug": "tetovac-bean",
+    "common_name": "Tetovac Bean (Macedonian-Serbian Heirloom White Pole Bean)",
+    "scientific_name": "Phaseolus vulgaris 'Tetovac'",
+    "category": "vegetable",
+    "subcategory": "heirloom pole bean",
+    "days_to_germination": {"min": 7, "max": 14},
+    "germination_soil_temp_f": {"min": 65, "max": 85},
+    "days_to_maturity": {"min": 90, "max": 110},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 0, "max": 2},
+      "note": "Direct sow after soil is thoroughly warm and frost danger has passed, giving the vigorous climbing vines a tall pole or trellis to run up."
+    },
+    "usda_zones": {"min": 3, "max": 9},
+    "spacing_in": {"min": 4, "max": 6},
+    "height_in": {"min": 84, "max": 108},
+    "spread_in": {"min": 12, "max": 24},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Tetovac is a large, flat white pole bean named for the city of Tetovo in the border region shared by North Macedonia and Serbia, and it remains a staple ingredient in Balkan baked-bean dishes such as tavče gravče and pasulj. Vigorous vines climb readily on tall poles or a trellis and need steady moisture through flowering and pod fill to size the broad, flat beans well. Most of the crop is left on the vine until the pods dry fully, since the variety is grown primarily as a dry shelling bean rather than a snap bean. The cooked beans are prized in regional cuisine for their soft, meaty texture and mild flavor, which take up the smoky, paprika-forward seasonings typical of Balkan bean stews.",
+    "sources": [
+      "Balkan Lunch Box culinary and variety background",
+      "Foods of Nations product/variety description"
+    ]
+  }
+]

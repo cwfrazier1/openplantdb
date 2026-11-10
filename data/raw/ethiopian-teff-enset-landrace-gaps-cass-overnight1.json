@@ -1,0 +1,272 @@
+[
+  {
+    "slug": "magna-teff",
+    "common_name": "Magna Teff (DZ-01-196)",
+    "scientific_name": "Eragrostis tef 'Magna'",
+    "category": "vegetable",
+    "subcategory": "grain",
+    "days_to_germination": {"min": 3, "max": 7},
+    "germination_soil_temp_f": {"min": 60, "max": 85},
+    "days_to_maturity": {"min": 80, "max": 113},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 1, "max": 6},
+      "note": "Sow after last frost once soil is warm; Magna (DZ-01-196) was released by Ethiopia's national tef program in 1970 and is grown mainly for its unusually white, prized grain rather than for high yield."
+    },
+    "usda_zones": {"min": 5, "max": 10},
+    "spacing_in": {"min": 1, "max": 2},
+    "height_in": {"min": 24, "max": 48},
+    "spread_in": {"min": 4, "max": 8},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Magna, registered as DZ-01-196, was released by Ethiopia's national tef breeding program in 1970 and remains notable for producing unusually white, polished-looking grain that millers and injera-makers still prize above most other releases. Its yield potential trails newer varieties, so growers who choose Magna are typically prioritizing seed color and milling quality over raw grain tonnage. Direct-sow the dust-fine seed onto a firm, well-prepared bed after the soil has warmed, tamping rather than burying it, and expect a loosely tillering, airy stand typical of tef. Because Magna was later used as the seed-quality parent in breeding the popular Quncho variety, growing it offers a look at the genetic heritage behind Ethiopia's most widely planted tef today.",
+    "sources": [
+      "Debre Zeit Agricultural Research Center (EIAR)",
+      "Assefa K. et al., 'Quncho: The first popular tef variety in Ethiopia'"
+    ]
+  },
+  {
+    "slug": "dukem-teff",
+    "common_name": "Dukem Teff (DZ-01-974)",
+    "scientific_name": "Eragrostis tef 'Dukem'",
+    "category": "vegetable",
+    "subcategory": "grain",
+    "days_to_germination": {"min": 3, "max": 7},
+    "germination_soil_temp_f": {"min": 60, "max": 85},
+    "days_to_maturity": {"min": 75, "max": 137},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 1, "max": 6},
+      "note": "Sow after last frost once soil is warm; Dukem (DZ-01-974), released in 1995, became one of Ethiopia's most widely adopted tef varieties on the strength of its grain yield."
+    },
+    "usda_zones": {"min": 5, "max": 10},
+    "spacing_in": {"min": 1, "max": 2},
+    "height_in": {"min": 24, "max": 48},
+    "spread_in": {"min": 4, "max": 8},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Dukem, released in 1995 as DZ-01-974, became one of Ethiopia's most widely adopted tef varieties on the strength of its grain yield, which in trial comparisons has outperformed many older white-seeded releases. Its white seed and strong field performance later made it the yield-parent crossed with Magna to produce the modern variety Quncho. Sow the fine seed directly into a firm, moist bed in warm weather, tamping the surface instead of covering it, and manage stand density to reduce lodging as the crop matures. Watch the seed heads closely as they ripen, since Dukem's grain, like all tef, shatters quickly once fully dry and is best cut while still slightly tan rather than brittle.",
+    "sources": [
+      "Debre Zeit Agricultural Research Center (EIAR)",
+      "Assefa K. et al., 'Quncho: The first popular tef variety in Ethiopia'"
+    ]
+  },
+  {
+    "slug": "gimbichu-teff",
+    "common_name": "Gimbichu Teff (DZ-01-899)",
+    "scientific_name": "Eragrostis tef 'Gimbichu'",
+    "category": "vegetable",
+    "subcategory": "grain",
+    "days_to_germination": {"min": 3, "max": 7},
+    "germination_soil_temp_f": {"min": 60, "max": 85},
+    "days_to_maturity": {"min": 118, "max": 137},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 1, "max": 6},
+      "note": "Sow after last frost once soil is warm; Gimbichu (DZ-01-899), released in 2005, is a pale white-seeded, later-maturing tef variety with weaker lodging resistance than sturdier-stemmed releases."
+    },
+    "usda_zones": {"min": 5, "max": 10},
+    "spacing_in": {"min": 1, "max": 2},
+    "height_in": {"min": 28, "max": 54},
+    "spread_in": {"min": 4, "max": 8},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Gimbichu is a pale white-seeded tef variety released in 2005 under its research designation DZ-01-899, bred for a longer growing season than many of Ethiopia's earlier tef releases. Because it fills its grain more slowly, it needs a longer, reliably warm stretch and is more prone to lodging in wind or heavy rain than sturdier-stemmed varieties. Direct-sow it onto a firm bed once the soil is reliably warm, and avoid overly rich nitrogen feeding that would otherwise encourage weak, tall growth. Cut the stand as soon as most heads turn tan, since its later maturity leaves less margin before unfavorable autumn weather in cooler growing regions.",
+    "sources": [
+      "Debre Zeit Agricultural Research Center (EIAR)",
+      "Tef Breeding Manual, Ethiopian Institute of Agricultural Research"
+    ]
+  },
+  {
+    "slug": "ziquala-teff",
+    "common_name": "Ziquala Teff (DZ-Cr-358)",
+    "scientific_name": "Eragrostis tef 'Ziquala'",
+    "category": "vegetable",
+    "subcategory": "grain",
+    "days_to_germination": {"min": 3, "max": 7},
+    "germination_soil_temp_f": {"min": 60, "max": 85},
+    "days_to_maturity": {"min": 76, "max": 138},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 1, "max": 6},
+      "note": "Sow after last frost once soil is warm; Ziquala (DZ-Cr-358), released in 1995, is a white-seeded tef variety bred with notably stronger lodging resistance than many of its contemporaries."
+    },
+    "usda_zones": {"min": 5, "max": 10},
+    "spacing_in": {"min": 1, "max": 2},
+    "height_in": {"min": 24, "max": 48},
+    "spread_in": {"min": 4, "max": 8},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Ziquala, registered as DZ-Cr-358 and released in 1995, is a white-seeded tef variety bred with notably stronger stem strength than many of its contemporaries, giving it better resistance to lodging in wind or rain. That sturdier habit makes it a reasonable choice for gardens in wetter or breezier sites where tef's naturally thin stems are prone to falling over before harvest. Broadcast the fine seed onto a firm, warm bed and tamp it in rather than covering it with soil, allowing the crop to form its characteristically airy, fine-textured stand. Harvest once most seed heads have dried to tan, cutting promptly to avoid the shatter losses typical of the species.",
+    "sources": [
+      "Debre Zeit Agricultural Research Center (EIAR)",
+      "Tef Breeding Manual, Ethiopian Institute of Agricultural Research"
+    ]
+  },
+  {
+    "slug": "boset-teff",
+    "common_name": "Boset Teff (DZ-Cr-409)",
+    "scientific_name": "Eragrostis tef 'Boset'",
+    "category": "vegetable",
+    "subcategory": "grain",
+    "days_to_germination": {"min": 3, "max": 7},
+    "germination_soil_temp_f": {"min": 60, "max": 85},
+    "days_to_maturity": {"min": 75, "max": 86},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 1, "max": 6},
+      "note": "Sow after last frost once soil is warm; Boset (DZ-Cr-409, RIL50d), released in 2012, is among the earliest-maturing tef varieties and is widely used as a check variety in Ethiopian tef trials."
+    },
+    "usda_zones": {"min": 5, "max": 10},
+    "spacing_in": {"min": 1, "max": 2},
+    "height_in": {"min": 18, "max": 36},
+    "spread_in": {"min": 4, "max": 8},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Boset, bred under the designation DZ-Cr-409 (RIL50d) and released in 2012, is among the earliest-maturing tef varieties to come out of Ethiopia's breeding program, reaching harvest in as little as 75 days under favorable conditions. Its comparatively short, compact growth habit makes it useful both for regions with a short rainy season and as a benchmark check variety in modern tef research trials. Direct-sow the tiny seed onto a firm, well-prepared bed after the soil has warmed, tamping the surface rather than burying the seed. Because of its quick maturity, monitor the stand closely once heading begins so it can be cut promptly before the shatter-prone grain is lost to wind.",
+    "sources": [
+      "Debre Zeit Agricultural Research Center (EIAR)",
+      "Tef Breeding Manual, Ethiopian Institute of Agricultural Research"
+    ]
+  },
+  {
+    "slug": "botha-maziya-enset",
+    "common_name": "Botha Maziya Enset (Dawuro Landrace)",
+    "scientific_name": "Ensete ventricosum 'Botha Maziya'",
+    "category": "vegetable",
+    "subcategory": "tropical root crop",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 1095, "max": 2555},
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 2, "max": 6},
+      "note": "Transplant rooted corm divisions (suckers) in spring; Botha Maziya is a Dawuro Zone farmer landrace rated top-performing in a 2022 survey for disease resistance, drought tolerance, and kocho/bulla quality."
+    },
+    "usda_zones": {"min": 9, "max": 11},
+    "spacing_in": {"min": 96, "max": 144},
+    "height_in": {"min": 120, "max": 240},
+    "spread_in": {"min": 96, "max": 144},
+    "sun": "full",
+    "water": "high",
+    "directions": "Botha Maziya is a farmer-maintained enset landrace from the Mareka district of Dawuro Zone in southern Ethiopia, where a 2022 ethnobotanical survey using farmer matrix-ranking rated it as the top-performing clone among 22 locally grown landraces for its combination of disease resistance, drought tolerance, and the quality of kocho and bulla it yields. Like other enset, it is propagated clonally rather than from seed: farmers remove the growing point of an established corm to force the production of multiple offshoot suckers, which are then divided and transplanted once rooted. Give it deep, fertile, consistently moist soil and shelter from strong wind, since the broad leaves are easily shredded; plants are grown for several years before the starchy corm and pseudostem are harvested, scraped, and fermented into the staple foods kocho and bulla. Because it stood up to both disease pressure and dry spells better than most landraces in the survey, it is a useful choice where other enset selections have struggled.",
+    "sources": [
+      "Feleke, N. & Tekalign, W. (2022). The Neglected Traditional Enset (Ensete ventricosum) Crop Landraces for the Sustainable Livelihood of the Local People in Southern Ethiopia. International Journal of Food Science.",
+      "Enset in Ethiopia: a poorly characterized but resilient starch staple, Annals of Botany"
+    ]
+  },
+  {
+    "slug": "boza-enset",
+    "common_name": "Boza Enset (Dawuro Landrace)",
+    "scientific_name": "Ensete ventricosum 'Boza'",
+    "category": "vegetable",
+    "subcategory": "tropical root crop",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 1095, "max": 2555},
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 2, "max": 6},
+      "note": "Transplant rooted corm divisions (suckers) in spring; Boza is a Dawuro Zone farmer landrace noted in a 2022 survey as high-yielding and disease-resistant, though with lower-rated kocho/bulla quality than top clones."
+    },
+    "usda_zones": {"min": 9, "max": 11},
+    "spacing_in": {"min": 96, "max": 144},
+    "height_in": {"min": 120, "max": 240},
+    "spread_in": {"min": 96, "max": 144},
+    "sun": "full",
+    "water": "high",
+    "directions": "Boza is a southern Ethiopian enset landrace documented in a 2022 farmer-ranking survey from Dawuro Zone's Mareka district, where it was singled out as one of the highest-yielding of the 22 clones evaluated and, like Botha Maziya, among the more disease-resistant selections; farmers in the study rated the kocho and bulla it produces as lower in quality than those of the top-ranked clones. It is multiplied clonally by dividing the suckers that form after the growing point of a mature corm is removed, the same method used for other enset landraces. Plant it in deep, rich, moisture-retentive soil out of harsh wind, and allow the typical multi-year establishment period before the pseudostem and corm are processed into food. Its combination of bulk yield and resilience can make it a practical choice where overall food quantity matters more than the refined taste or texture of the processed product.",
+    "sources": [
+      "Feleke, N. & Tekalign, W. (2022). The Neglected Traditional Enset (Ensete ventricosum) Crop Landraces for the Sustainable Livelihood of the Local People in Southern Ethiopia. International Journal of Food Science.",
+      "Enset in Ethiopia: a poorly characterized but resilient starch staple, Annals of Botany"
+    ]
+  },
+  {
+    "slug": "arkiya-enset",
+    "common_name": "Arkiya Enset (Dawuro Landrace)",
+    "scientific_name": "Ensete ventricosum 'Arkiya'",
+    "category": "vegetable",
+    "subcategory": "tropical root crop",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 1095, "max": 2555},
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 2, "max": 6},
+      "note": "Transplant rooted corm divisions (suckers) in spring; Arkiya is a Dawuro Zone farmer landrace whose corm is traditionally boiled with milk as a folk cough remedy."
+    },
+    "usda_zones": {"min": 9, "max": 11},
+    "spacing_in": {"min": 96, "max": 144},
+    "height_in": {"min": 120, "max": 240},
+    "spread_in": {"min": 96, "max": 144},
+    "sun": "full",
+    "water": "high",
+    "directions": "Arkiya is a southern Ethiopian enset landrace recorded in a 2022 ethnobotanical study of Dawuro Zone's Mareka district, where it was distinguished from most of the other 21 surveyed clones by a specific folk use: its corm is boiled and eaten together with milk as a traditional remedy for coughs. As with other enset landraces, propagation is entirely clonal, through division of the suckers produced after decapitating the growing point of an established corm. It is grown in the same deep, fertile, well-watered homestead soil as other enset and needs several years of growth before the corm and pseudostem are ready for processing into kocho and bulla. Because farmers maintain it partly for this medicinal use rather than for processed-food quality alone, it is often kept in smaller numbers alongside higher-yielding landraces rather than grown as a primary food clone.",
+    "sources": [
+      "Feleke, N. & Tekalign, W. (2022). The Neglected Traditional Enset (Ensete ventricosum) Crop Landraces for the Sustainable Livelihood of the Local People in Southern Ethiopia. International Journal of Food Science.",
+      "Enset in Ethiopia: a poorly characterized but resilient starch staple, Annals of Botany"
+    ]
+  },
+  {
+    "slug": "lochingiya-enset",
+    "common_name": "Lochingiya Enset (Dawuro Landrace)",
+    "scientific_name": "Ensete ventricosum 'Lochingiya'",
+    "category": "vegetable",
+    "subcategory": "tropical root crop",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 1095, "max": 2555},
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 2, "max": 6},
+      "note": "Transplant rooted corm divisions (suckers) in spring; Lochingiya is a Dawuro Zone farmer landrace used medicinally for lung ailments and bone-mending, but flagged as more disease-susceptible than hardier clones."
+    },
+    "usda_zones": {"min": 9, "max": 11},
+    "spacing_in": {"min": 96, "max": 144},
+    "height_in": {"min": 120, "max": 240},
+    "spread_in": {"min": 96, "max": 144},
+    "sun": "full",
+    "water": "high",
+    "directions": "Lochingiya is an enset landrace documented among 22 farmer-maintained clones in a 2022 survey from the Mareka district of Dawuro Zone, southern Ethiopia, where it stood out for two traditional medicinal uses: its corm is prepared to treat lung ailments and is also used as a folk remedy said to help mend broken bones. The same survey flagged it as one of the more disease-susceptible selections in local fields. It is propagated the same way as other enset, by dividing the suckers that sprout after the growing point of a mature corm is removed, and should be grown in deep, fertile, consistently moist soil with some wind shelter. Because of its noted vulnerability compared with hardier landraces like Botha Maziya, keep a closer watch for disease symptoms while it matures toward its eventual kocho and bulla harvest.",
+    "sources": [
+      "Feleke, N. & Tekalign, W. (2022). The Neglected Traditional Enset (Ensete ventricosum) Crop Landraces for the Sustainable Livelihood of the Local People in Southern Ethiopia. International Journal of Food Science.",
+      "Enset in Ethiopia: a poorly characterized but resilient starch staple, Annals of Botany"
+    ]
+  }
+]

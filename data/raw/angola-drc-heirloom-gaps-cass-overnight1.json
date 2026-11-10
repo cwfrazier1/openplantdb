@@ -1,0 +1,188 @@
+[
+  {
+    "slug": "obama-cassava-drc",
+    "common_name": "Obama Cassava (DR Congo High-Yield Mosaic-Resistant Cassava)",
+    "scientific_name": "Manihot esculenta 'Obama'",
+    "category": "vegetable",
+    "subcategory": "tropical tuber shrub",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 360, "max": 480},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 2, "max": 6},
+      "note": "Plant disease-free stem cuttings at a slant into well-drained soil once it has warmed well past 65°F; Obama is an IITA-derived cultivar distributed through DR Congo's national cassava program for its strong resistance to cassava mosaic disease and its markedly heavier root harvest than older local stocks."
+    },
+    "usda_zones": {"min": 9, "max": 11},
+    "spacing_in": {"min": 36, "max": 48},
+    "height_in": {"min": 60, "max": 108},
+    "spread_in": {"min": 36, "max": 60},
+    "sun": "full",
+    "water": "low",
+    "directions": "Obama was bred and disseminated through the Democratic Republic of the Congo's national cassava improvement program as part of a push to replace mosaic-ravaged local landraces with cuttings that keep producing even under heavy whitefly pressure. Field comparisons in DRC have measured its storage-root harvest at roughly 1.7 times that of unimproved local checks such as M'Bailo, with the heaviest yields recorded on plots that received balanced NPK fertilizer. Give it a full season of twelve to sixteen months in frost-free ground on loose, well-drained soil, since the extended cycle is what lets the roots bulk to their full weight. Like other cassava, it shrugs off poor soil and dry spells once rooted in, but the planting bed should never sit waterlogged.",
+    "sources": [
+      "International Institute of Tropical Agriculture (IITA) — cassava breeding and dissemination, Democratic Republic of Congo",
+      "Early planting of cassava enhanced the response of improved cultivars to potassium fertilization in South Kivu, Democratic Republic of Congo — ScienceDirect",
+      "Performance of four newly released cassava varieties — field trial comparisons with local checks, DR Congo"
+    ]
+  },
+  {
+    "slug": "butamu-cassava-drc",
+    "common_name": "Butamu Cassava (DR Congo Sweet Low-Cyanide Cassava)",
+    "scientific_name": "Manihot esculenta 'Butamu'",
+    "category": "vegetable",
+    "subcategory": "tropical tuber shrub",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 360, "max": 450},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 2, "max": 6},
+      "note": "Plant stem cuttings at a slant into loose, well-drained soil once it has warmed well past 65°F; Butamu is a low-branching, sweet (low-cyanide) cultivar released through INERA's Mvuazi research station in DR Congo for its disease tolerance and strong early root bulking."
+    },
+    "usda_zones": {"min": 9, "max": 11},
+    "spacing_in": {"min": 36, "max": 48},
+    "height_in": {"min": 54, "max": 96},
+    "spread_in": {"min": 36, "max": 60},
+    "sun": "full",
+    "water": "low",
+    "directions": "Butamu was developed at the Institut National pour l'Étude et la Recherche Agronomiques (INERA) station at Mvuazi in DR Congo's Kongo Central province as part of a cassava mosaic disease resistance breeding effort. The plant is easy to recognize in the field by its broad dark green mature leaves paired with lighter young growth, a green leaf stalk, dark brown stem, and brown-skinned roots, and it branches low and flowers early, by around three months after planting. Its low cyanogenic potential places it among the sweet cassavas, meaning the boiled roots need little of the prolonged soaking or fermentation that bitter landraces require. Research-station trials have reported fresh root yields in the 25 to 40 ton-per-hectare range, with on-farm yields running somewhat lower, and because it bulks early it is best lifted within about fifteen months rather than left to grow much longer.",
+    "sources": [
+      "Institut National pour l'Étude et la Recherche Agronomiques (INERA), Mvuazi station, DR Congo",
+      "Screening cassava for time of maturity to respond to various market needs: Case study in African sub-tropical zones — Journal of the Science of Food and Agriculture",
+      "Assessing Reactions of Genetically Improved and Local Cassava Varieties to Cassava Mosaic Disease (CMD) Infection in a Savannah Region of the DR-Congo"
+    ]
+  },
+  {
+    "slug": "nain-de-kyondo-bean",
+    "common_name": "Nain de Kyondo Bean (DR Congo Early Dwarf Dry Bean)",
+    "scientific_name": "Phaseolus vulgaris 'Nain de Kyondo'",
+    "category": "vegetable",
+    "subcategory": "dry bean",
+    "days_to_germination": {"min": 7, "max": 10},
+    "germination_soil_temp_f": {"min": 60, "max": 85},
+    "days_to_maturity": {"min": 75, "max": 80},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 0, "max": 2},
+      "note": "Direct sow once soil has warmed and frost danger has passed; Nain de Kyondo is a dwarf bush bean released by INERA in DR Congo and named for the Kyondo area of the eastern highlands, valued for reaching maturity faster than most other local bean stocks."
+    },
+    "usda_zones": {"min": 3, "max": 10},
+    "spacing_in": {"min": 4, "max": 6},
+    "height_in": {"min": 12, "max": 18},
+    "spread_in": {"min": 10, "max": 14},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Nain de Kyondo takes its name from the Kyondo area of eastern DR Congo, where this compact dwarf bean was selected and released by the national agronomic research institute INERA as part of a 1985-era wave of improved bean releases for the country's highland farming zones. It reaches physiological maturity in a brisk 75 to 80 days, noticeably earlier than many older local bean stocks, with a seed lot that runs about 20 to 25 grams per hundred seeds. It also carries useful field resistance to anthracnose, a fungal disease that can otherwise blacken pods and stems in wet highland seasons. Grow it as a compact, self-supporting bush in full sun, keep soil evenly moist while pods are filling, then pull whole plants once the pods have dried and rattle with loose seed.",
+    "sources": [
+      "Institut National pour l'Étude et la Recherche Agronomiques (INERA), Democratic Republic of Congo",
+      "Improved common bean varieties released from 1970 to 2013 by PABRA — CGIAR / Pan-Africa Bean Research Alliance",
+      "Essai d'adaptation de variétés de haricot dans les conditions du Sud-Kivu, République Démocratique du Congo"
+    ]
+  },
+  {
+    "slug": "namulenga-climbing-bean",
+    "common_name": "Namulenga Bean (DR Congo Biofortified Climbing Bean)",
+    "scientific_name": "Phaseolus vulgaris 'Namulenga'",
+    "category": "vegetable",
+    "subcategory": "climbing dry bean",
+    "days_to_germination": {"min": 7, "max": 10},
+    "germination_soil_temp_f": {"min": 60, "max": 85},
+    "days_to_maturity": {"min": 90, "max": 110},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 0, "max": 2},
+      "note": "Direct sow at the base of a pole or trellis once soil has warmed and frost danger has passed; Namulenga is a vigorous climbing bean released by INERA's Mulungu station in eastern DR Congo in 2013 as part of a HarvestPlus-funded biofortification effort and needs sturdy support to climb."
+    },
+    "usda_zones": {"min": 3, "max": 10},
+    "spacing_in": {"min": 6, "max": 8},
+    "height_in": {"min": 72, "max": 108},
+    "spread_in": {"min": 12, "max": 18},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Namulenga was released in 2013 from INERA's Mulungu research station in eastern DR Congo, developed with CIAT under the HarvestPlus biofortification program to bring higher iron and zinc content to the climbing beans grown across South Kivu and Katanga. Its seed is easy to identify by its white background marked with a black stripe, a cuboid shape, and a hundred-seed weight of around 32 grams. Because it is a true climber rather than a bush type, it needs a pole, trellis, or companion maize stalk to scramble up and will sprawl and tangle without one. Trial plantings in Katanga and South Kivu have shown it out-yielding many older climbing varieties, making it a good choice for intercropping systems where vertical bean production is already the local practice.",
+    "sources": [
+      "Institut National pour l'Étude et la Recherche Agronomiques (INERA), Mulungu station, DR Congo",
+      "HarvestPlus / CIAT biofortified climbing bean release records, Democratic Republic of Congo",
+      "The effect of different staking on the growth and yield of the climbing beans (HV/Namulenga) in Bushumba, Kabare-Nord, South Kivu, DR Congo"
+    ]
+  },
+  {
+    "slug": "cwarentino-climbing-bean",
+    "common_name": "Cwarentino Bean (Guarentino / Quarentino DR Congo Climbing Bean)",
+    "scientific_name": "Phaseolus vulgaris 'Cwarentino'",
+    "category": "vegetable",
+    "subcategory": "climbing dry bean",
+    "days_to_germination": {"min": 7, "max": 10},
+    "germination_soil_temp_f": {"min": 60, "max": 85},
+    "days_to_maturity": {"min": 90, "max": 120},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 0, "max": 2},
+      "note": "Direct sow at the base of a pole or trellis once soil has warmed and frost danger has passed; Cwarentino (also recorded as Guarentino or Quarentino) is a pure-white-seeded climbing bean released in DR Congo in 1985 and needs tall, sturdy support to perform well."
+    },
+    "usda_zones": {"min": 3, "max": 10},
+    "spacing_in": {"min": 6, "max": 8},
+    "height_in": {"min": 72, "max": 108},
+    "spread_in": {"min": 12, "max": 18},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Officially released in DR Congo in 1985 and recorded under the spellings Guarentino, Quarentino, and Cwarentino in different agronomic surveys, this climbing bean has been grown for decades in the country's eastern highland bean belt alongside other PABRA-era releases of the same period. Its seed is pure white and oval in shape, a trait that has made it a steady choice for home cooking and local markets where plain white beans are preferred. Like other DR Congo climbing types it needs a pole, trellis, or standing maize stalk to scramble up, since it does not branch into a self-supporting bush. It has gone on to be evaluated repeatedly alongside newer biofortified climbing beans such as Namulenga and M211 in South Kivu and Katanga trials, generally holding its own as a reliable, high-productivity traditional variety.",
+    "sources": [
+      "Improved common bean varieties released from 1970 to 2013 by PABRA — CGIAR / Pan-Africa Bean Research Alliance",
+      "Responses of some genotypes of bio-fortified climbing common bean (Phaseolus vulgaris L.) to the climatic conditions of three agro-ecological zones, southern DR Congo",
+      "Comportement de 7 variétés de haricot volubile dans trois territoires de la province du Sud Kivu en R. D. Congo"
+    ]
+  },
+  {
+    "slug": "m211-climbing-bean-drc",
+    "common_name": "M211 Bean (DR Congo White Climbing Bean)",
+    "scientific_name": "Phaseolus vulgaris 'M211'",
+    "category": "vegetable",
+    "subcategory": "climbing dry bean",
+    "days_to_germination": {"min": 7, "max": 10},
+    "germination_soil_temp_f": {"min": 60, "max": 85},
+    "days_to_maturity": {"min": 90, "max": 120},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 0, "max": 2},
+      "note": "Direct sow at the base of a pole or trellis once soil has warmed and frost danger has passed; M211 is a white-seeded climbing bean released by INERA's Mulungu station in DR Congo in 1991 and must have tall support to climb properly."
+    },
+    "usda_zones": {"min": 3, "max": 10},
+    "spacing_in": {"min": 6, "max": 8},
+    "height_in": {"min": 72, "max": 108},
+    "spread_in": {"min": 12, "max": 18},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "M211 was released in 1991 from INERA's Mulungu research station in eastern DR Congo and has since been used as a reference climbing variety in multi-year adaptation trials across the country's drought-prone highland zones. Its seed is plain white, rounded, and relatively large for a climbing bean, running about 24 grams per hundred seeds. Trial work spanning several growing seasons at Mulungu and nearby sites has shown it responds strongly to irrigation during dry spells, with fully irrigated plantings yielding roughly half again as much as unirrigated ones, making consistent watering through flowering and pod fill worthwhile wherever it's grown. Provide a pole or trellis from the time seedlings emerge, since like other DR Congo climbing types it will tangle into a low mat rather than find a support on its own.",
+    "sources": [
+      "Institut National pour l'Étude et la Recherche Agronomiques (INERA), Mulungu station, DR Congo",
+      "Improved common bean varieties released from 1970 to 2013 by PABRA — CGIAR / Pan-Africa Bean Research Alliance",
+      "Optimization of plant density and fertilizer application to improve biofortified common bean yield on nitisols of South-Kivu, Eastern DR Congo"
+    ]
+  }
+]

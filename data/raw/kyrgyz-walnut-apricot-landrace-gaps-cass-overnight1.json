@@ -1,0 +1,80 @@
+[
+  {
+    "slug": "ak-tereksky-walnut",
+    "common_name": "Ak-Tereksky Walnut (Kyrgyz Walnut-Forest Landrace)",
+    "scientific_name": "Juglans regia 'Ak-Tereksky'",
+    "category": "fruit",
+    "subcategory": "nut tree",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 1460, "max": 2555},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {"anchor": "spring", "weeks_from_anchor": {"min": -4, "max": 2}, "note": "Plant grafted or seedling trees in early spring into deep, well-drained soil; this selection comes from a continental mountain climate, so site it where winter cold and summer heat both run to extremes."},
+    "usda_zones": {"min": 5, "max": 8},
+    "spacing_in": {"min": 300, "max": 480},
+    "height_in": {"min": 300, "max": 480},
+    "spread_in": {"min": 300, "max": 420},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Ak-Tereksky is one of a small group of named walnut forms singled out from Kyrgyzstan's ancient walnut-fruit forests, where Soviet-era foresters surveyed hundreds of wild seedling trees and advanced only a handful into formal variety trials. Nuts are of middling size with a light brown, moderately thin shell that releases a plump yellow kernel cleanly, and the kernel carries an unusually high oil content that gives it a rich, lingering flavor compared with many commercial walnut cultivars. Grow it on deep, well-drained soil in full sun with room for a large, long-lived canopy, since seedling-origin trees from these forests are naturally vigorous and slow to show their full mature size. Expect a longer wait for the first meaningful harvest than with intensively bred orchard cultivars, since these forest selections were chosen primarily for nut quality and regional hardiness rather than early precocity.",
+    "sources": [
+      "Kyrgyz State Agency for Promotion of Investments and Exports — Walnut Sector Export Profile (export.gov.kg)",
+      "BIO Web of Conferences — Walnut diversity and breeding in Kyrgyzstan (2020)"
+    ]
+  },
+  {
+    "slug": "uigursky-walnut",
+    "common_name": "Uigursky Walnut (Kyrgyz Walnut-Forest Landrace)",
+    "scientific_name": "Juglans regia 'Uigursky'",
+    "category": "fruit",
+    "subcategory": "nut tree",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 1460, "max": 2555},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {"anchor": "spring", "weeks_from_anchor": {"min": -4, "max": 2}, "note": "Plant grafted or seedling trees in early spring into deep, well-drained soil in full sun; give it the same generous spacing as other large walnut selections."},
+    "usda_zones": {"min": 5, "max": 8},
+    "spacing_in": {"min": 300, "max": 480},
+    "height_in": {"min": 300, "max": 480},
+    "spread_in": {"min": 300, "max": 420},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Uigursky takes its name from the Uyghur orchardist communities long associated with the walnut-fruit forests of southern Kyrgyzstan, where this form was picked out from wild seedling populations for its above-average nut size. The nuts run larger than many other named local selections, with a light brown shell of moderate thickness enclosing a kernel with notably high oil content and good extraction. Trees are large and long-lived in the manner typical of forest-origin walnuts, so plant in deep, well-drained soil with ample room for a wide mature crown. As with other walnut-fruit-forest selections, cross-pollination from a nearby distinct walnut tree tends to improve nut set even though isolated trees will still bear.",
+    "sources": [
+      "Kyrgyz State Agency for Promotion of Investments and Exports — Walnut Sector Export Profile (export.gov.kg)",
+      "BIO Web of Conferences — Walnut diversity and breeding in Kyrgyzstan (2020)"
+    ]
+  },
+  {
+    "slug": "mirsanjali-apricot",
+    "common_name": "Mirsanjali Apricot (Fergana Valley Early Apricot)",
+    "scientific_name": "Prunus armeniaca 'Mirsanjali'",
+    "category": "fruit",
+    "subcategory": "apricot",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 1095, "max": 1460},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {"anchor": "spring", "weeks_from_anchor": {"min": 0, "max": 4}, "note": "Plant bare-root trees in early spring on a warm, sheltered, sun-baked site; this early-blooming Central Asian apricot is vulnerable to late frost at flowering."},
+    "usda_zones": {"min": 5, "max": 9},
+    "spacing_in": {"min": 144, "max": 216},
+    "height_in": {"min": 96, "max": 168},
+    "spread_in": {"min": 96, "max": 168},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Mirsanjali is a long-cultivated apricot grouping of the Fergana Valley, grown most famously around Isfara but also common across the nearby Batken region of southern Kyrgyzstan, and it typically ripens ahead of most other apricots grown in the same orchards. Fruit is yellow with a pink-to-carmine blush over the sun-exposed side, and because many clones are grown under this one traditional name, fruit size varies considerably from orchard to orchard, as does the kernel, which can be pleasantly sweet in some trees and bitter in others. Growers in the region prize it above all for drying into uryuk and for canning, since its flesh holds its shape and color well through processing. Plant in full sun on well-drained soil and expect vigorous growth typical of Central Asian apricot stock, with the early bloom period demanding a frost-sheltered site to protect the crop.",
+    "sources": [
+      "Zaurov, Molnar & Eisenman — Genetic Resources of Apricots (Prunus armeniaca L.) in Central Asia, HortScience 48(6), 2013",
+      "Bulletin of Science and Practice — The History of Apricot Origin on the Territory of Kyrgyzstan"
+    ]
+  }
+]

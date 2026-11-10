@@ -1,0 +1,152 @@
+[
+  {
+    "slug": "ndou-sweet-potato",
+    "common_name": "Ndou Sweet Potato (South African ARC Cream-Fleshed Smallholder Variety)",
+    "scientific_name": "Ipomoea batatas 'Ndou'",
+    "category": "vegetable",
+    "subcategory": "sweet potato",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 100, "max": 120},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Set out rooted slips once soil has warmed well past the last frost, into loose, well-drained, fertile soil in full sun; Ndou was bred by South Africa's Agricultural Research Council for informal-market smallholders and tolerates marginal, drought-prone growing conditions better than many commercial types."
+    },
+    "usda_zones": {"min": 8, "max": 11},
+    "spacing_in": {"min": 12, "max": 18},
+    "height_in": {"min": 10, "max": 16},
+    "spread_in": {"min": 48, "max": 84},
+    "sun": "full",
+    "water": "low",
+    "directions": "Ndou is a cream-skinned, white-to-creamy-fleshed sweet potato released by South Africa's Agricultural Research Council in 2003 for small-scale and informal-market growers. Plant slips in loose, fertile soil after the soil has thoroughly warmed, giving vines room to sprawl across 4 to 7 feet. The roots size up large without turning pithy or woody, and the variety holds up well under drought stress relative to many other sweet potato lines, making it a dependable choice where irrigation is limited. Ndou also carries strong field resistance to sweet potato virus disease, an important trait in regions where virus pressure limits yields; cure harvested roots at warm, humid conditions for about a week to firm the skin and sweeten the flesh before storage.",
+    "sources": [
+      "Agricultural Research Council of South Africa (ARC-Vegetable and Ornamental Plant Institute)",
+      "Crop Science (Laurie, 'Seventy years of sweet potato research in South Africa')"
+    ]
+  },
+  {
+    "slug": "monate-sweet-potato",
+    "common_name": "Monate Sweet Potato (South African ARC Early-Maturing Cream-Fleshed Variety)",
+    "scientific_name": "Ipomoea batatas 'Monate'",
+    "category": "vegetable",
+    "subcategory": "sweet potato",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 90, "max": 110},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Transplant slips after the soil has warmed following the last frost into well-drained, fertile ground in full sun; Monate is one of the earlier-maturing ARC releases, bred for South African smallholder and informal-market production."
+    },
+    "usda_zones": {"min": 8, "max": 11},
+    "spacing_in": {"min": 12, "max": 18},
+    "height_in": {"min": 10, "max": 16},
+    "spread_in": {"min": 48, "max": 84},
+    "sun": "full",
+    "water": "low",
+    "directions": "Monate is a cream-fleshed sweet potato released alongside Ndou by South Africa's Agricultural Research Council in 2003, bred for high yield and favorable eating quality on the informal market. Its flesh is notably dry-textured, which South African consumers who boil or roast sweet potatoes as a starchy staple generally prefer over the moist, syrupy texture of orange-fleshed export types. Monate matures somewhat faster than many other ARC releases, letting growers in short or erratic rainy seasons bring in a harvest with less risk. Give plants loose, fertile soil and full sun, and avoid overwatering since excess moisture can dilute the characteristic dry texture that makes this variety popular for home cooking.",
+    "sources": [
+      "Agricultural Research Council of South Africa (ARC-Vegetable and Ornamental Plant Institute)",
+      "Crop Science (Laurie, 'Seventy years of sweet potato research in South Africa')"
+    ]
+  },
+  {
+    "slug": "bophelo-sweet-potato",
+    "common_name": "Bophelo Sweet Potato (South African ARC Orange-Fleshed Biofortified Variety)",
+    "scientific_name": "Ipomoea batatas 'Bophelo'",
+    "category": "vegetable",
+    "subcategory": "sweet potato",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 100, "max": 130},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Plant slips once soil is reliably warm after the last frost, in deep, loose, well-drained soil in full sun; Bophelo was bred by South Africa's ARC specifically to raise dietary vitamin A intake through its deep orange flesh."
+    },
+    "usda_zones": {"min": 8, "max": 11},
+    "spacing_in": {"min": 12, "max": 18},
+    "height_in": {"min": 10, "max": 16},
+    "spread_in": {"min": 48, "max": 84},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Bophelo (Sesotho for 'life') is an orange-skinned, deep-orange-fleshed sweet potato developed by South Africa's Agricultural Research Council to combat vitamin A deficiency in rural communities; a single serving of boiled roots can supply a large share of a child's daily vitamin A requirement. The vines are vigorous and the roots carry an unusually high beta-carotene concentration even among orange-fleshed sweet potatoes, which also gives the cooked flesh a rich, sweet flavor. Besides the storage roots, the leafy vine tips are commonly harvested as a nutritious cooked green in South African households, extending the usable harvest window beyond the root crop alone. Grow in deep, loose soil with consistent moisture during root bulking for the best size and color development.",
+    "sources": [
+      "Agricultural Research Council of South Africa (ARC-Vegetable and Ornamental Plant Institute)",
+      "ScienceDirect (dual-purpose use of orange-fleshed sweet potato var. Bophelo)"
+    ]
+  },
+  {
+    "slug": "khumo-sweet-potato",
+    "common_name": "Khumo Sweet Potato (South African ARC Orange-Fleshed Venda-Region Variety)",
+    "scientific_name": "Ipomoea batatas 'Khumo'",
+    "category": "vegetable",
+    "subcategory": "sweet potato",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 100, "max": 130},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Transplant rooted slips after the last frost into well-drained, fertile soil in full sun; Khumo was released by South Africa's ARC in 2020 and has become especially popular with informal-market growers in the Venda region."
+    },
+    "usda_zones": {"min": 8, "max": 11},
+    "spacing_in": {"min": 12, "max": 18},
+    "height_in": {"min": 10, "max": 16},
+    "spread_in": {"min": 48, "max": 84},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Khumo (Sepedi for 'wealth') is an orange-fleshed, pale-orange-skinned sweet potato released by South Africa's Agricultural Research Council in 2020, bred for strong informal-market performance. Roots form an elliptic to long-obovate shape and cook up creamy and pleasantly sweet with a medium-dry texture, a balance that has made it a favorite among smallholder growers and traders in the Venda growing region. A modest 2-ounce serving of boiled Khumo root supplies a meaningful share of daily vitamin A needs, making it a useful biofortified staple for home gardens. Grow in loose, fertile soil in full sun and keep moisture steady through root bulking to maximize both yield and carotene development.",
+    "sources": [
+      "Agricultural Research Council of South Africa (ARC-Vegetable and Ornamental Plant Institute)",
+      "Innovation Bridge (South African innovation database), 'Khumo - Orange-fleshed sweet potato variety'"
+    ]
+  },
+  {
+    "slug": "impilo-sweet-potato",
+    "common_name": "Impilo Sweet Potato (South African ARC Orange-Fleshed Variety)",
+    "scientific_name": "Ipomoea batatas 'Impilo'",
+    "category": "vegetable",
+    "subcategory": "sweet potato",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 140, "max": 155},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Transplant slips after the last frost once soil is warm, into well-drained, fertile soil in full sun; Impilo needs a longer warm season (about 5 months) than many commercial sweet potato varieties to reach full root size."
+    },
+    "usda_zones": {"min": 8, "max": 11},
+    "spacing_in": {"min": 12, "max": 18},
+    "height_in": {"min": 10, "max": 16},
+    "spread_in": {"min": 48, "max": 84},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Impilo (Zulu for 'health') is an orange-fleshed sweet potato bred by South Africa's Agricultural Research Council from an Amasi open-pollinated cross, intended as a nutritious local alternative to imported commercial varieties for informal-market growers. It needs roughly five months of warm weather to finish bulking its roots, longer than many quicker commercial types, so gardeners in shorter-season climates should start slips as early as safely possible after the last frost. Yields are comparable to leading commercial orange-fleshed varieties, and the roots carry useful levels of both protein and carotenoids alongside the characteristic sweet flavor. Give plants a full growing season in fertile, well-drained soil and full sun, and cure harvested roots in warm, humid conditions for about a week before storing.",
+    "sources": [
+      "Agricultural Research Council of South Africa (ARC-Vegetable and Ornamental Plant Institute)",
+      "PMC (Analysis of the Nutritional Composition and Drought Tolerance Traits of Sweet Potato: Selection Criteria for Breeding Lines)"
+    ]
+  }
+]

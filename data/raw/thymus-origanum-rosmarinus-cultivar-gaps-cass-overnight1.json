@@ -1,0 +1,83 @@
+[
+  {
+    "slug": "winter-thyme-hyemalis",
+    "common_name": "Winter Thyme",
+    "scientific_name": "Thymus hyemalis",
+    "category": "herb",
+    "subcategory": "Mediterranean culinary herb",
+    "days_to_germination": {"min": 14, "max": 21},
+    "germination_soil_temp_f": {"min": 65, "max": 75},
+    "days_to_maturity": {"min": 90, "max": 110},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 0, "max": 2},
+      "note": "Start seed indoors or purchase rooted starts, since germination is slow and uneven; set out after danger of frost in lean, fast-draining soil."
+    },
+    "usda_zones": {"min": 8, "max": 10},
+    "spacing_in": {"min": 10, "max": 14},
+    "height_in": {"min": 6, "max": 12},
+    "spread_in": {"min": 12, "max": 18},
+    "sun": "full",
+    "water": "low",
+    "directions": "Endemic to the dry limestone and gypsum slopes of southeastern Spain, this low woody subshrub is chemically and botanically distinct from both common thyme and Spanish thyme, with a higher proportion of carvacrol and p-cymene that gives the foliage a sharper, more peppery scent. It blooms with small pink flowers in late winter and early spring, earlier than most garden thymes, which is the source of its common name. Give it gritty, lean, alkaline soil and full sun; it is markedly drought tolerant once established but declines quickly in heavy or poorly drained ground. Shear lightly after flowering to keep the mound compact and to encourage fresh aromatic growth for harvest.",
+    "sources": ["Plants of the World Online (Royal Botanic Gardens, Kew)", "Mediterranean Garden Society"]
+  },
+  {
+    "slug": "moroccan-oregano-compactum",
+    "common_name": "Moroccan Oregano",
+    "scientific_name": "Origanum compactum",
+    "category": "herb",
+    "subcategory": "culinary and medicinal herb",
+    "days_to_germination": {"min": 14, "max": 21},
+    "germination_soil_temp_f": {"min": 65, "max": 75},
+    "days_to_maturity": {"min": 90, "max": 120},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 0, "max": 2},
+      "note": "Start seed indoors or set out nursery-grown starts after last frost; this species is a distinct wild taxon, not the same plant as the common 'Compactum' cultivar of Origanum vulgare."
+    },
+    "usda_zones": {"min": 8, "max": 10},
+    "spacing_in": {"min": 10, "max": 14},
+    "height_in": {"min": 8, "max": 16},
+    "spread_in": {"min": 12, "max": 18},
+    "sun": "full",
+    "water": "low",
+    "directions": "Native to the limestone hillsides of northern and central Morocco, with a smaller presence in southern Spain, this oregano is a separate botanical species from common oregano rather than a cultivated dwarf form of it. Its short, downy, tightly packed leaves carry an especially sharp, pungent aroma driven by high carvacrol and thymol content, and it has long been gathered wild for cooking and traditional remedies, to the point that wild populations are now under conservation pressure. Growing it from garden stock rather than wild-harvested material helps relieve that pressure while giving a reliable supply of leaves for the kitchen. Plant in lean, sharply drained, limy soil in full sun, and avoid rich beds or heavy watering, which dull the flavor and encourage rot.",
+    "sources": ["Plants of the World Online (Royal Botanic Gardens, Kew)", "Mediterranean Garden Society"]
+  },
+  {
+    "slug": "ken-taylor-rosemary",
+    "common_name": "Ken Taylor Rosemary",
+    "scientific_name": "Salvia rosmarinus 'Ken Taylor'",
+    "category": "herb",
+    "subcategory": "trailing culinary herb",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 90, "max": 150},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Set out rooted cuttings or container plants in spring or fall in full sun and sharply drained soil; this sport does not come true from seed and is propagated only vegetatively."
+    },
+    "usda_zones": {"min": 8, "max": 10},
+    "spacing_in": {"min": 48, "max": 60},
+    "height_in": {"min": 24, "max": 48},
+    "spread_in": {"min": 48, "max": 72},
+    "sun": "full",
+    "water": "low",
+    "directions": "This selection arose as a sport of the upright cultivar 'Collingwood Ingram' and was introduced by the California nurseryman Ken Taylor, inheriting a looser, more trailing habit with weaker branches that cascade down banks and walls in a manner closer to prostrate rosemaries than to its upright parent. It carries small, dark blue flowers in spring and summer on narrow, aromatic gray-green leaves that can be harvested for cooking, though it is grown mainly as a large-scale ornamental groundcover or wall-draper. It tolerates salt spray, alkaline soil, and extended drought once rooted, and shrugs off winter cold somewhat better than true prostrate forms. Site it where its spreading, several-foot-wide mound has room to sprawl, and avoid damp or heavy soils that encourage root rot.",
+    "sources": ["San Marcos Growers", "Suncrest Nurseries"]
+  }
+]

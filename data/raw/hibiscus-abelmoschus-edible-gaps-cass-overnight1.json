@@ -1,0 +1,157 @@
+[
+  {
+    "slug": "hibiscus-heterophyllus-native-rosella",
+    "common_name": "Native Rosella (Australian Native Hibiscus)",
+    "scientific_name": "Hibiscus heterophyllus",
+    "category": "vegetable",
+    "subcategory": "edible flower",
+    "days_to_germination": {"min": 14, "max": 35},
+    "germination_soil_temp_f": {"min": 70, "max": 85},
+    "days_to_maturity": {"min": 365, "max": 730},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 2, "max": 8},
+      "note": "Set out rooted cuttings or container plants after frost danger has passed into well-drained soil in full sun to light shade; this eastern Australian native tolerates occasional light frost once established but grows fastest with consistent warmth and moisture."
+    },
+    "usda_zones": {"min": 9, "max": 11},
+    "spacing_in": {"min": 72, "max": 120},
+    "height_in": {"min": 96, "max": 180},
+    "spread_in": {"min": 72, "max": 120},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Native Rosella is a tall, fast-growing shrub from the woodlands and creek margins of coastal Queensland and New South Wales, producing large pale pink, white, or yellow flowers with a deep maroon throat through the warm season. Unlike its showier culinary cousin roselle, its calyx is not used for tea or jam; instead the flower buds themselves are eaten raw in salads or lightly cooked as a vegetable, and the tender young shoots and roots can be eaten boiled. Indigenous Australians historically stripped fiber from the bark to weave dilli bags, twine, and nets. Prune hard after each flowering flush to keep the shrub shapely and to encourage a steady supply of fresh buds.",
+    "sources": [
+      "Australian National Botanic Gardens — Growing Native Plants",
+      "Sustainable Gardening Australia",
+      "Royal Botanic Gardens Victoria"
+    ]
+  },
+  {
+    "slug": "hibiscus-furcellatus-akiohala",
+    "common_name": "'Akiohala (Swamp Hibiscus)",
+    "scientific_name": "Hibiscus furcellatus",
+    "category": "flower",
+    "subcategory": "native wetland shrub",
+    "days_to_germination": {"min": 14, "max": 30},
+    "germination_soil_temp_f": {"min": 70, "max": 85},
+    "days_to_maturity": {"min": 365, "max": 730},
+    "maturity_from": "transplant",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 2, "max": 6},
+      "note": "Sow or transplant into consistently wet to saturated soil along pond edges, rain gardens, or low ditches after frost danger passes; this species needs standing or near-standing moisture to thrive and sulks in dry beds."
+    },
+    "usda_zones": {"min": 9, "max": 11},
+    "spacing_in": {"min": 48, "max": 72},
+    "height_in": {"min": 96, "max": 180},
+    "spread_in": {"min": 60, "max": 96},
+    "sun": "full",
+    "water": "high",
+    "directions": "Known in Hawaii as 'akiohala, this large pink-flowered hibiscus is indigenous to wet forests, swampy disturbed sites, and brackish marsh edges across Hawaii, the West Indies, Florida, and Central and South America. Early Hawaiians cultivated it for traditional medicine, chewing the flower buds as a mild laxative given to children and chewing the seeds to treat general weakness, while the flowers yielded dye and the fibrous bark was woven into cordage much like its relative the beach hibiscus. In the garden it earns its place as a striking, true wetland shrub for pond margins and rain gardens rather than as a food crop, holding up to standing water that would rot most other hibiscus relatives. Give it full sun and soil that never fully dries out, and expect a tall, multi-stemmed shrub within two to three seasons.",
+    "sources": [
+      "University of Hawaii — Native Plants Hawaii Database",
+      "Plant Pono (Hawaii invasive plant risk assessment program)",
+      "USDA Natural Resources Conservation Service PLANTS Database"
+    ]
+  },
+  {
+    "slug": "kenaf-everglades-41",
+    "common_name": "'Everglades 41' Kenaf",
+    "scientific_name": "Hibiscus cannabinus 'Everglades 41'",
+    "category": "vegetable",
+    "subcategory": "fiber",
+    "days_to_germination": {"min": 7, "max": 14},
+    "germination_soil_temp_f": {"min": 65, "max": 95},
+    "days_to_maturity": {"min": 100, "max": 150},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 1, "max": 4},
+      "note": "Direct sow into warm soil after last frost at tight in-row spacing to force tall, unbranched stalks; this short-day cultivar delays flowering under long summer days, which keeps plants vegetative and adding fiber-bearing height longer than many older kenaf lines."
+    },
+    "usda_zones": {"min": 8, "max": 11},
+    "spacing_in": {"min": 4, "max": 8},
+    "height_in": {"min": 96, "max": 192},
+    "spread_in": {"min": 8, "max": 18},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "'Everglades 41' is a USDA-developed kenaf selection valued by fiber growers for improved disease resistance and a photoperiod-sensitive, short-day flowering habit that extends the vegetative growing period and boosts the amount of harvestable stalk, with a distinctive cotton-like leaf shape that sets it apart from older kenaf lines. It was part of Gulf South fiber-crop trials, grown experimentally from Mississippi to Texas as a fast-growing, renewable alternative to wood pulp fiber. As with standard kenaf, the young leaves and shoots are also edible, cooked as a tart potherb much like the roselle leaves used in West African cuisine. Cut stalks at early flowering, then ret the bundles in water for ten to twenty days to free the long bast fibers from the woody core before drying and processing.",
+    "sources": [
+      "USDA Agricultural Research Service — Kenaf Germplasm Research",
+      "Purdue University Center for New Crops & Plant Products — Trends in New Crops and New Uses",
+      "Mississippi State University Extension"
+    ]
+  },
+  {
+    "slug": "roselle-fiber-type-mesta",
+    "common_name": "Mesta (Fiber-Type Roselle)",
+    "scientific_name": "Hibiscus sabdariffa var. altissima",
+    "category": "vegetable",
+    "subcategory": "fiber",
+    "days_to_germination": {"min": 7, "max": 14},
+    "germination_soil_temp_f": {"min": 70, "max": 85},
+    "days_to_maturity": {"min": 120, "max": 160},
+    "maturity_from": "seed",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 4, "max": 8},
+      "note": "Start seeds indoors 4–8 weeks before last frost and transplant, or direct sow in zones 9–12 once soil is warm, spacing plants closely to encourage tall, unbranched stems with the longest usable fiber."
+    },
+    "usda_zones": {"min": 9, "max": 12},
+    "spacing_in": {"min": 6, "max": 12},
+    "height_in": {"min": 96, "max": 192},
+    "spread_in": {"min": 18, "max": 36},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Mesta is the fiber-producing botanical variety of roselle, an erect, sparsely branched annual that can reach 16 feet in a single season and is grown widely across India, Bangladesh, Nigeria, and parts of tropical America for a lustrous, jute-like bast fiber rather than for edible calyces. Unlike the culinary roselle types grown for cranberry-flavored calyces and tea, mesta's calyces stay thin and are left unharvested, with the stalk itself the valuable part of the plant. Close spacing and a long, warm, humid growing season produce the straightest, longest-fibered stalks. Cut stems near the base once seed pods begin to form, then ret the bundled stalks in water for one to two weeks before stripping and drying the freed bast fiber.",
+    "sources": [
+      "PROSEA (Plant Resources of South-East Asia) — Hibiscus sabdariffa",
+      "Purdue University Center for New Crops & Plant Products",
+      "USDA National Agricultural Library"
+    ]
+  },
+  {
+    "slug": "abelmoschus-moschatus-tuberosus-native-rosella",
+    "common_name": "Native Musk Mallow (Australian Bush-Food Okra Relative)",
+    "scientific_name": "Abelmoschus moschatus subsp. tuberosus",
+    "category": "vegetable",
+    "subcategory": "root vegetable",
+    "days_to_germination": {"min": 14, "max": 30},
+    "germination_soil_temp_f": {"min": 75, "max": 90},
+    "days_to_maturity": {"min": 120, "max": 180},
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 2, "max": 6},
+      "note": "Direct sow into free-draining, sandy to loamy soil in full sun once the soil is warm and frost danger has fully passed; the plant needs a distinct dry resting period each year, so avoid heavy irrigation once top growth dies back."
+    },
+    "usda_zones": {"min": 10, "max": 12},
+    "spacing_in": {"min": 18, "max": 24},
+    "height_in": {"min": 18, "max": 36},
+    "spread_in": {"min": 18, "max": 36},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Native to open woodlands across tropical northern Australia, this wild relative of garden okra dies back each dry season to a fleshy, carrot-like taproot and resprouts with the first wet-season rains, bearing hibiscus-type flowers in watermelon-pink, white, or pale yellow with a dark central eye. Aboriginal Australians have long dug and roasted the starchy taproot as a staple food, and also eat the young leaves and shoots raw or cooked along with the immature seedpods, which are simmered as a vegetable much like okra. Grow it in sharply drained soil and let it go dry during its dormant season, since the tuber is prone to rot if kept wet through winter rest. Best suited to genuinely frost-free zone 10–12 gardens, or grown in a container that can be kept dry and sheltered elsewhere.",
+    "sources": [
+      "Paten Park Native Nursery — Plant Profile",
+      "Townsville Region Native Plants (npqtownsville.org.au)",
+      "CQ Landcare Network — Native Rosella"
+    ]
+  }
+]
