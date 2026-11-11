@@ -1,0 +1,698 @@
+[
+  {
+    "slug": "xoconostle",
+    "common_name": "Xoconostle (Sour Prickly Pear)",
+    "scientific_name": "Opuntia joconostle",
+    "category": "fruit",
+    "subcategory": "cactus fruit",
+    "days_to_germination": {
+      "min": 21,
+      "max": 45
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 730,
+      "max": 1095
+    },
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 8
+      }
+    },
+    "usda_zones": {
+      "min": 8,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 48,
+      "max": 72
+    },
+    "height_in": {
+      "min": 36,
+      "max": 72
+    },
+    "spread_in": {
+      "min": 48,
+      "max": 84
+    },
+    "sun": "full",
+    "water": "low",
+    "directions": "Unlike the sweet tuna fruit of common nopal, this central Mexican highland species produces small, acidic, lime-green to deep red fruit prized for its tartness rather than sweetness. Fruit is harvested while still firm and used to flavor salsas, aguas frescas, and the candied sweet known as dulce de xoconostle, and it is traditionally valued in folk remedies for cholesterol and blood sugar management. The low, sprawling pads tolerate heat, drought, and poor rocky soil but are more cold-sensitive than many hardy prickly pears, so plants need winter protection outside the warmest zones. Propagate from pad cuttings rather than seed for faster, true-to-type fruiting.",
+    "sources": [
+      "INIFAP (Instituto Nacional de Investigaciones Forestales, Agricolas y Pecuarias)",
+      "USDA GRIN Taxonomy for Plants",
+      "Texas A&M AgriLife Extension"
+    ]
+  },
+  {
+    "slug": "ciricote",
+    "common_name": "Ciricote (Siricote)",
+    "scientific_name": "Cordia dodecandra",
+    "category": "fruit",
+    "subcategory": "Yucatecan heirloom tree fruit",
+    "days_to_germination": {
+      "min": 30,
+      "max": 90
+    },
+    "germination_soil_temp_f": {
+      "min": 75,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 1460,
+      "max": 2555
+    },
+    "maturity_from": "seed",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 6
+      }
+    },
+    "usda_zones": {
+      "min": 10,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 180,
+      "max": 300
+    },
+    "height_in": {
+      "min": 180,
+      "max": 480
+    },
+    "spread_in": {
+      "min": 144,
+      "max": 300
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Native to the Yucatan Peninsula, this slow-growing tree bears showy orange, crepe-textured flowers followed by egg-shaped fruit with a thick leathery skin and extremely sticky, mucilaginous orange pulp. The ripe fruit is traditionally cooked down with sugar into a jam-like preserve or candied whole, since the raw pulp is too gummy to eat out of hand. Trees are slow to reach bearing age from seed and are frost-tender, so they are mainly grown in tropical dooryard gardens and specialty fruit collections outside their native range. The dense, fine-grained wood is separately prized by Yucatecan furniture makers.",
+    "sources": [
+      "Fairchild Tropical Botanic Garden",
+      "Trade Winds Fruit",
+      "Rare Fruit Council International"
+    ]
+  },
+  {
+    "slug": "huaya-wild-lime",
+    "common_name": "Huaya (Yucatecan Wild Lime)",
+    "scientific_name": "Talisia oliviformis",
+    "category": "fruit",
+    "subcategory": "Mayan heirloom tree fruit",
+    "days_to_germination": {
+      "min": 21,
+      "max": 45
+    },
+    "germination_soil_temp_f": {
+      "min": 75,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 1825,
+      "max": 2920
+    },
+    "maturity_from": "seed",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 6
+      }
+    },
+    "usda_zones": {
+      "min": 10,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 240,
+      "max": 360
+    },
+    "height_in": {
+      "min": 240,
+      "max": 600
+    },
+    "spread_in": {
+      "min": 180,
+      "max": 360
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "A staple roadside and market fruit across the Yucatan, huaya bears small, thin-shelled fruit in grape-like clusters that are cracked open by hand to suck the sweet-tart, slightly resinous pulp off the single seed. It is a close relative of the Spanish lime (Melicoccus bijugatus) but is a genuinely distinct species with its own regional identity and markedly tarter flavor. Trees are large, long-lived, and dioecious or variably fruiting, so growers often plant several seedlings to ensure reliable cropping. Fruit is sold in bunches straight off the branch during the rainy-season harvest and rarely travels far from where it is grown.",
+    "sources": [
+      "Trade Winds Fruit",
+      "California Rare Fruit Growers (Fruit Gardener journal)",
+      "Rare Fruit Council International"
+    ]
+  },
+  {
+    "slug": "coyo-avocado-relative",
+    "common_name": "Coyo (Yucatecan Mountain Avocado)",
+    "scientific_name": "Persea schiedeana",
+    "category": "fruit",
+    "subcategory": "avocado relative tree fruit",
+    "days_to_germination": {
+      "min": 30,
+      "max": 60
+    },
+    "germination_soil_temp_f": {
+      "min": 75,
+      "max": 85
+    },
+    "days_to_maturity": {
+      "min": 1460,
+      "max": 2190
+    },
+    "maturity_from": "seed",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 8
+      }
+    },
+    "usda_zones": {
+      "min": 10,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 240,
+      "max": 360
+    },
+    "height_in": {
+      "min": 240,
+      "max": 600
+    },
+    "spread_in": {
+      "min": 180,
+      "max": 360
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Grown traditionally from the Yucatan and Chiapas through Guatemala, coyo produces large pear-shaped fruit resembling avocado but with a thicker, tougher rind and drier, more fibrous flesh than commercial Hass-type avocados. The fruit is eaten fresh with salt and lime or cooked into savory dishes where its firmer texture holds up better than true avocado. Because of its vigor and tolerance of root pathogens, it is also used by breeders as rootstock to improve disease resistance in grafted avocado orchards. Trees are strictly tropical and intolerant of any real cold, limiting outdoor cultivation to the warmest frost-free regions.",
+    "sources": [
+      "University of Florida IFAS Tropical Fruit Program",
+      "Rare Fruit Council International",
+      "California Rare Fruit Growers"
+    ]
+  },
+  {
+    "slug": "chihua-squash",
+    "common_name": "Chihua Squash (Calabaza Chihua)",
+    "scientific_name": "Cucurbita argyrosperma subsp. callicarpa 'Chihua'",
+    "category": "vegetable",
+    "subcategory": "Mesoamerican landrace squash grown for seed",
+    "days_to_germination": {
+      "min": 7,
+      "max": 14
+    },
+    "germination_soil_temp_f": {
+      "min": 70,
+      "max": 95
+    },
+    "days_to_maturity": {
+      "min": 100,
+      "max": 120
+    },
+    "maturity_from": "seed",
+    "sow_method": "direct",
+    "season": "warm",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 2
+      }
+    },
+    "usda_zones": {
+      "min": 3,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 36,
+      "max": 60
+    },
+    "height_in": {
+      "min": 12,
+      "max": 18
+    },
+    "spread_in": {
+      "min": 120,
+      "max": 240
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Maintained by Indigenous farmers across the Mexican borderlands and Mesoamerica, this landrace squash is grown mainly for its large, flat, white seeds rather than for its stringy, lower-quality flesh. Vigorous sprawling vines produce small to medium hard-shelled fruit, and the seeds are hulled and roasted as pepitas or ground for sauces once the fruit dries on the vine. Because it readily crosses with other Cucurbita argyrosperma types, isolate plantings if you intend to save true-to-type seed. It shares the drought resilience and pest tolerance typical of its argyrosperma relatives, making it well suited to traditional milpa intercropping.",
+    "sources": [
+      "Native Seeds/SEARCH",
+      "USDA GRIN Taxonomy for Plants",
+      "University of Arizona Cooperative Extension"
+    ]
+  },
+  {
+    "slug": "borogu-kava",
+    "common_name": "Borogu Kava (Vanuatu Noble Kava, Pentecost Island)",
+    "scientific_name": "Piper methysticum 'Borogu'",
+    "category": "herb",
+    "subcategory": "tropical shade herb",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 1460,
+      "max": 1825
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 8
+      }
+    },
+    "usda_zones": {
+      "min": 10,
+      "max": 12
+    },
+    "spacing_in": {
+      "min": 36,
+      "max": 48
+    },
+    "height_in": {
+      "min": 60,
+      "max": 96
+    },
+    "spread_in": {
+      "min": 36,
+      "max": 60
+    },
+    "sun": "partial",
+    "water": "high",
+    "directions": "Borogu, also spelled Borongoru, is a noble kava cultivar traditionally grown on Pentecost Island and recognized under Vanuatu's kava legislation as suitable for commercial sale and export, unlike faster-growing 'tudei' types that carry a higher risk profile. Propagate it the way all kava is propagated, from clean stem cuttings set into rich, loose, well-drained soil under dappled shade, since the plant is sterile and never grown from seed. Give it steady warmth, high humidity, and shelter from wind and strong sun, and expect a long wait of four to five years before the root mass reaches the maturity that noble-grade standards call for. Avoid waterlogged ground, which quickly rots the shallow root system this slow-growing shrub depends on.",
+    "sources": [
+      "Lebot, Merlin & Lindstrom, Kava: The Pacific Drug (Yale University Press, 1992)",
+      "Vanuatu Kava Act No. 7 of 2015",
+      "Pacific Community (SPC) Land Resources Division"
+    ]
+  },
+  {
+    "slug": "melomelo-kava",
+    "common_name": "Melomelo Kava (Vanuatu Noble Kava, Aoba Island)",
+    "scientific_name": "Piper methysticum 'Melomelo'",
+    "category": "herb",
+    "subcategory": "tropical shade herb",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 1460,
+      "max": 1825
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 8
+      }
+    },
+    "usda_zones": {
+      "min": 10,
+      "max": 12
+    },
+    "spacing_in": {
+      "min": 36,
+      "max": 48
+    },
+    "height_in": {
+      "min": 60,
+      "max": 96
+    },
+    "spread_in": {
+      "min": 36,
+      "max": 60
+    },
+    "sun": "partial",
+    "water": "high",
+    "directions": "Melomelo is a noble kava cultivar that originates on Aoba Island, also called Ambae, and is cultivated under the same local name across much of Vanuatu, though growers in north Pentecost traditionally call the same cultivar 'Sese.' Like other noble cultivars it is legally favored over fast-maturing non-noble types for commercial sale, since Vanuatu's kava standards link noble status to both identity and age at harvest. Grow it from stem cuttings rooted in humid, shaded nursery conditions before transplanting into fertile, well-drained garden soil protected from direct sun and drying wind. Plan on several years of undisturbed growth, since root quality in noble kava builds slowly and premature harvest is the main cause of a weak or off-flavored crop.",
+    "sources": [
+      "Lebot, Merlin & Lindstrom, Kava: The Pacific Drug (Yale University Press, 1992)",
+      "Vanuatu Kava Act No. 7 of 2015",
+      "Pacific Community (SPC) Land Resources Division"
+    ]
+  },
+  {
+    "slug": "palarasul-kava",
+    "common_name": "Palarasul Kava (Vanuatu Noble Kava, Espiritu Santo)",
+    "scientific_name": "Piper methysticum 'Palarasul'",
+    "category": "herb",
+    "subcategory": "tropical shade herb",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 1460,
+      "max": 1825
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 8
+      }
+    },
+    "usda_zones": {
+      "min": 10,
+      "max": 12
+    },
+    "spacing_in": {
+      "min": 36,
+      "max": 48
+    },
+    "height_in": {
+      "min": 60,
+      "max": 96
+    },
+    "spread_in": {
+      "min": 36,
+      "max": 60
+    },
+    "sun": "partial",
+    "water": "high",
+    "directions": "Palarasul is a noble kava cultivar grown traditionally on the island of Espiritu Santo, Vanuatu's largest island, and it carries the same legal noble classification that marks it as fit for domestic sale and export under Vanuatu's kava standards. As with all kava, it is a sterile shrub propagated solely by stem cuttings rather than seed, so always start new plantings from healthy, disease-free cutting stock. Set rooted cuttings into fertile, well-drained soil under filtered shade, keeping humidity and warmth high while avoiding both drought stress and soggy soil. Because noble status depends partly on the plant reaching adequate age, growers typically leave Palarasul undisturbed for four or more years before harvesting the root for kava preparation.",
+    "sources": [
+      "Lebot, Merlin & Lindstrom, Kava: The Pacific Drug (Yale University Press, 1992)",
+      "Vanuatu Kava Act No. 7 of 2015",
+      "Pacific Community (SPC) Land Resources Division"
+    ]
+  },
+  {
+    "slug": "begonia-sizemoreae",
+    "common_name": "Sizemore's Begonia",
+    "scientific_name": "Begonia sizemoreae",
+    "category": "flower",
+    "subcategory": "wild species begonia",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 365,
+      "max": 730
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {
+        "min": 2,
+        "max": 6
+      }
+    },
+    "usda_zones": {
+      "min": 10,
+      "max": 11
+    },
+    "spacing_in": {
+      "min": 10,
+      "max": 14
+    },
+    "height_in": {
+      "min": 8,
+      "max": 14
+    },
+    "spread_in": {
+      "min": 10,
+      "max": 16
+    },
+    "sun": "shade",
+    "water": "moderate",
+    "directions": "This Vietnamese rhizomatous species has become a favorite among houseplant collectors for its puckered, deep plum-to-black leaves with a dense velvety sheen. Keep it in bright indirect light with high humidity and a chunky, fast-draining aroid-style mix, since soggy roots are its main weakness. Allow the top inch of substrate to dry between waterings and avoid overhead misting directly on the foliage to reduce leaf spotting. Propagate by rhizome division or leaf-petiole cuttings in warm, humid conditions.",
+    "sources": [
+      "American Begonia Society",
+      "International Aroid Society plant exchange records"
+    ]
+  },
+  {
+    "slug": "begonia-limprichtii",
+    "common_name": "Limprichtii Hardy Begonia",
+    "scientific_name": "Begonia limprichtii",
+    "category": "flower",
+    "subcategory": "hardy species begonia",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 365,
+      "max": 730
+    },
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 4
+      }
+    },
+    "usda_zones": {
+      "min": 6,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 10,
+      "max": 14
+    },
+    "height_in": {
+      "min": 8,
+      "max": 12
+    },
+    "spread_in": {
+      "min": 10,
+      "max": 14
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "A lesser-grown cousin of the more familiar hardy begonia, this Chinese woodland species produces rounded, bronze-green leaves and pale pink flowers above a persistent winter-hardy rhizome. Site it in humus-rich, well-drained soil in dappled shade alongside hostas or ferns, and keep it evenly moist through the growing season. It dies back completely after frost and re-emerges from the rhizome in late spring, so mark its location and avoid disturbing the bed over winter. Divide congested clumps every few years to maintain vigor.",
+    "sources": [
+      "North American Rock Garden Society",
+      "Plant Delights Nursery catalog notes"
+    ]
+  },
+  {
+    "slug": "pseudolarix-amabilis",
+    "common_name": "Golden Larch",
+    "scientific_name": "Pseudolarix amabilis",
+    "category": "flower",
+    "subcategory": "deciduous conifer tree",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 1825,
+      "max": 3650
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 6
+      }
+    },
+    "usda_zones": {
+      "min": 5,
+      "max": 7
+    },
+    "spacing_in": {
+      "min": 240,
+      "max": 480
+    },
+    "height_in": {
+      "min": 480,
+      "max": 900
+    },
+    "spread_in": {
+      "min": 300,
+      "max": 480
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "This Chinese relic conifer is grown for its soft, bright-green summer needles that turn brilliant gold and drop in autumn, making it a standout specimen tree in large gardens and arboreta. It wants deep, slightly acidic, well-drained soil and full sun to develop its best fall color and pyramidal form. Give it plenty of room, since mature trees can reach impressive height and spread over decades, and protect young trees from late spring frosts. It resents transplanting once mature, so choose a permanent site early.",
+    "sources": [
+      "American Conifer Society",
+      "Royal Horticultural Society"
+    ]
+  },
+  {
+    "slug": "athrotaxis-selaginoides",
+    "common_name": "King Billy Pine",
+    "scientific_name": "Athrotaxis selaginoides",
+    "category": "flower",
+    "subcategory": "evergreen conifer tree",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 1825,
+      "max": 3650
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 6
+      }
+    },
+    "usda_zones": {
+      "min": 7,
+      "max": 9
+    },
+    "spacing_in": {
+      "min": 180,
+      "max": 300
+    },
+    "height_in": {
+      "min": 240,
+      "max": 600
+    },
+    "spread_in": {
+      "min": 120,
+      "max": 240
+    },
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "A slow-growing Tasmanian relic conifer prized by collectors for its dense, scale-like foliage reminiscent of a giant club-moss. It performs best in cool-summer climates with consistent moisture and humidity, struggling in hot, dry summers typical of much of the continental United States. Plant in acidic, humus-rich soil with good drainage but never let it dry out completely, and give young trees some shelter from strong wind and intense afternoon sun. Expect very slow growth, which makes it well suited to large rock gardens or conifer collections rather than quick screening.",
+    "sources": [
+      "American Conifer Society",
+      "Royal Botanic Gardens Kew conifer records"
+    ]
+  },
+  {
+    "slug": "fokienia-hodginsii",
+    "common_name": "Fujian Cypress",
+    "scientific_name": "Fokienia hodginsii",
+    "category": "flower",
+    "subcategory": "evergreen conifer tree",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 1825,
+      "max": 3650
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 6
+      }
+    },
+    "usda_zones": {
+      "min": 8,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 180,
+      "max": 360
+    },
+    "height_in": {
+      "min": 240,
+      "max": 600
+    },
+    "spread_in": {
+      "min": 120,
+      "max": 240
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "This southern Chinese and Vietnamese conifer carries flattened, aromatic sprays of scale-like foliage with a whitish underside, giving mature specimens an attractive two-toned look. It suits mild-winter, warm-temperate gardens where it can be grown as a specimen or clipped hedge, but young plants need frost protection until well established. Site it in well-drained soil in full sun to light shade and water regularly during the first few seasons to establish a deep root system. Growth is slow to moderate, so patience is needed before it reaches tree size.",
+    "sources": [
+      "American Conifer Society",
+      "Royal Botanic Garden Edinburgh conifer collection notes"
+    ]
+  },
+  {
+    "slug": "taiwania-cryptomerioides",
+    "common_name": "Taiwania",
+    "scientific_name": "Taiwania cryptomerioides",
+    "category": "flower",
+    "subcategory": "evergreen conifer tree",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {
+      "min": 1825,
+      "max": 3650
+    },
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {
+        "min": 0,
+        "max": 6
+      }
+    },
+    "usda_zones": {
+      "min": 8,
+      "max": 10
+    },
+    "spacing_in": {
+      "min": 240,
+      "max": 420
+    },
+    "height_in": {
+      "min": 300,
+      "max": 720
+    },
+    "spread_in": {
+      "min": 120,
+      "max": 300
+    },
+    "sun": "full",
+    "water": "moderate",
+    "directions": "A towering East Asian conifer with soft, awl-shaped juvenile foliage that gives way to shorter, scale-like adult leaves as the tree matures, prized by collectors for this striking change in texture. It grows best in mild, humid climates with well-drained but moisture-retentive soil and some protection from harsh winter wind. Young trees are the most cold-sensitive stage, so overwinter container specimens under cover until trunks thicken. Once established it is a relatively fast grower for a conifer, developing a tall, narrow silhouette over time.",
+    "sources": [
+      "American Conifer Society",
+      "Royal Botanic Gardens Kew conifer records"
+    ]
+  }
+]
