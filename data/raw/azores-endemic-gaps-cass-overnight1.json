@@ -1,0 +1,83 @@
+[
+  {
+    "slug": "juniperus-brevifolia-azores-juniper",
+    "common_name": "Azores Juniper",
+    "scientific_name": "Juniperus brevifolia",
+    "category": "flower",
+    "subcategory": "dwarf conifer shrub",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 1460, "max": 3650},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Set out container-grown plants in spring once frost danger has passed, siting them in sharply drained, lean soil where the slow-growing root system can establish before the first winter."
+    },
+    "usda_zones": {"min": 8, "max": 10},
+    "spacing_in": {"min": 48, "max": 144},
+    "height_in": {"min": 36, "max": 240},
+    "spread_in": {"min": 48, "max": 144},
+    "sun": "full",
+    "water": "low",
+    "directions": "Azores juniper is a slow-growing evergreen conifer endemic to the Azores archipelago, where it forms low, wind-sculpted shrubs or small gnarled trees in the islands' high-elevation juniper brushwood and peat-bog communities. Its scale-like blue-green foliage and irregular, sculptural branching make it a prized specimen for conifer collectors and rock gardens in mild, humid-maritime climates. Small round berry-like cones ripen from green to blue-black and persist on female plants. It demands sharp drainage and resents both hard freezes and prolonged drought, performing best in cool, fog-influenced coastal gardens similar to its native habitat.",
+    "sources": ["Royal Botanic Gardens Kew — Plants of the World Online", "American Conifer Society"]
+  },
+  {
+    "slug": "daboecia-azorica-azores-heather",
+    "common_name": "Azores Heather",
+    "scientific_name": "Daboecia azorica",
+    "category": "flower",
+    "subcategory": "dwarf ericaceous subshrub",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 365, "max": 1095},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": -2, "max": 4},
+      "note": "Plant in spring after the last hard frost into lean, acidic, humus-rich soil, mulching lightly to keep the shallow root system cool and evenly moist through its first summer."
+    },
+    "usda_zones": {"min": 8, "max": 9},
+    "spacing_in": {"min": 12, "max": 18},
+    "height_in": {"min": 4, "max": 10},
+    "spread_in": {"min": 12, "max": 18},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "Azores heather is a compact, mat-forming relative of St. Dabeoc's heath, endemic to damp, peaty ground in the Azores. It produces small, glossy evergreen leaves and nodding, urn-shaped rose-purple flowers carried in loose terminal racemes through spring and summer. Because it is less cold-hardy than the mainland Daboecia cantabrica, it suits mild, humid, maritime gardens best and struggles where winters bring hard, prolonged freezes. Grow it as other heaths are grown, in lean, acidic, consistently moist but well-drained soil, and shelter it from drying winds.",
+    "sources": ["Royal Botanic Gardens Kew — Plants of the World Online", "The Heather Society"]
+  },
+  {
+    "slug": "erica-azorica-azores-heath",
+    "common_name": "Azores Heath",
+    "scientific_name": "Erica azorica",
+    "category": "flower",
+    "subcategory": "evergreen heath shrub",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 730, "max": 1825},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Install container-grown plants in spring into lean, acidic, well-drained soil in full sun, giving the woody framework a full growing season to establish before winter."
+    },
+    "usda_zones": {"min": 9, "max": 10},
+    "spacing_in": {"min": 48, "max": 96},
+    "height_in": {"min": 48, "max": 180},
+    "spread_in": {"min": 36, "max": 96},
+    "sun": "full",
+    "water": "low",
+    "directions": "Azores heath is a woody, multi-stemmed evergreen shrub endemic to the Azores, where it dominates mid- and high-elevation heathland together with the Azores juniper. Closely related to the Mediterranean tree heath group, it bears fine, needle-like foliage and small, inconspicuous urn-shaped flowers rather than a showy bloom display, and is grown mainly by collectors for its distinctive sculptural, tree-like heath habit. It tolerates wind, salt spray, and lean acidic soils but needs sharp drainage and a mild, frost-free-to-light-frost maritime climate to thrive outdoors. In colder regions it is best kept as a container specimen overwintered under cover.",
+    "sources": ["Royal Botanic Gardens Kew — Plants of the World Online", "The Heather Society"]
+  }
+]

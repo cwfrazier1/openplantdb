@@ -1,0 +1,56 @@
+[
+  {
+    "slug": "hohenbergia-stellata",
+    "common_name": "Starry Hohenbergia (Giant Brazilian Tank Bromeliad)",
+    "scientific_name": "Hohenbergia stellata",
+    "category": "flower",
+    "subcategory": "tropical epiphytic/terrestrial bromeliad",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 730, "max": 1825},
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Set out offsets or nursery-grown plants after night temperatures stay reliably above 50F, since this is a frost-tender tropical bromeliad."
+    },
+    "usda_zones": {"min": 10, "max": 12},
+    "spacing_in": {"min": 24, "max": 48},
+    "height_in": {"min": 24, "max": 48},
+    "spread_in": {"min": 24, "max": 48},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Hohenbergia stellata forms one of the largest rosettes among Brazilian tank bromeliads, with broad, spiny-edged, arching leaves that can reach several feet long. It is typically grown as a terrestrial or large-container specimen in bright, filtered light rather than full tropical sun, which can scorch the foliage. The branched inflorescence rises well above the foliage, bearing small flowers backed by showy, long-lasting pink-to-red bracts that persist for months. Keep the central cup filled with water in frost-free, humid conditions, and allow the coarse, fast-draining growing medium to dry slightly between waterings at the roots.",
+    "sources": ["Bromeliad Society International", "Tropiflora nursery catalog"]
+  },
+  {
+    "slug": "canistropsis-billbergioides",
+    "common_name": "Citron Bromeliad (Billbergia-like Nidularium, Golden Bird's Nest)",
+    "scientific_name": "Canistropsis billbergioides",
+    "category": "flower",
+    "subcategory": "tropical epiphytic/terrestrial bromeliad",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 365, "max": 1460},
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Plant divisions or potted offsets once nights are reliably warm, since this understory Brazilian bromeliad has no cold tolerance."
+    },
+    "usda_zones": {"min": 10, "max": 11},
+    "spacing_in": {"min": 8, "max": 16},
+    "height_in": {"min": 6, "max": 14},
+    "spread_in": {"min": 10, "max": 18},
+    "sun": "shade",
+    "water": "moderate",
+    "directions": "Canistropsis billbergioides, long sold in the trade under its synonym Nidularium billbergioides, is a compact Atlantic Forest understory bromeliad grown for the colorful central bracts that cradle its small flowers. At bloom time the innermost leaves and bracts flush yellow, orange, or red depending on the form, creating a bright nest-like center that lasts for weeks. Grow it in deep, bright shade as a true forest-floor species, since direct sun quickly bleaches or burns the glossy green leaves. Keep the central cup topped up with water and the coarse bark-based medium evenly moist, mimicking the humid, low-light conditions of its native rainforest floor.",
+    "sources": ["Bromeliad Society International", "Tropiflora nursery catalog"]
+  }
+]

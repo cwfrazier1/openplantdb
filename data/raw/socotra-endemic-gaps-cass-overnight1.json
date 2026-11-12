@@ -1,0 +1,56 @@
+[
+  {
+    "slug": "aloe-perryi-socotra-aloe",
+    "common_name": "Socotra Aloe (Socotrine Aloe)",
+    "scientific_name": "Aloe perryi",
+    "category": "flower",
+    "subcategory": "historic medicinal succulent rosette",
+    "days_to_germination": {"min": 14, "max": 30},
+    "germination_soil_temp_f": {"min": 70, "max": 75},
+    "days_to_maturity": {"min": 1095, "max": 3650},
+    "maturity_from": "seed",
+    "sow_method": "indoor-start",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 0, "max": 8},
+      "note": "Start seed or set out offsets in a warm, bright spot only after nights stay reliably above 55°F, since this species carries no frost tolerance."
+    },
+    "usda_zones": {"min": 10, "max": 11},
+    "spacing_in": {"min": 18, "max": 36},
+    "height_in": {"min": 12, "max": 36},
+    "spread_in": {"min": 12, "max": 24},
+    "sun": "full",
+    "water": "low",
+    "directions": "Socotra Aloe is a slow-growing rosette succulent endemic to the limestone cliffs and rocky slopes of Socotra island, where it was historically harvested for its bitter leaf sap, dried and traded for centuries as medicinal Socotrine aloe. The gray-green, lance-shaped leaves carry small reddish teeth along the margins and form a dense basal rosette well before the plant is mature enough to bloom. Established plants send up a branched, erect flowering stalk bearing tubular orange-red to yellow flowers, typically in winter or early spring. Grow it in full sun in a shallow container with extremely well-drained, mineral-heavy soil, water sparingly, and protect it year-round from any chill or prolonged damp, since both rot quickly in cool, wet conditions.",
+    "sources": ["Royal Botanic Gardens Kew — Plants of the World Online", "LLIFLE Encyclopedia of Living Forms"]
+  },
+  {
+    "slug": "dorstenia-gigas",
+    "common_name": "Giant Dorstenia (Socotra Dorstenia)",
+    "scientific_name": "Dorstenia gigas",
+    "category": "flower",
+    "subcategory": "pachycaul caudiciform succulent shrub",
+    "days_to_germination": {"min": 14, "max": 30},
+    "germination_soil_temp_f": {"min": 75, "max": 80},
+    "days_to_maturity": {"min": 730, "max": 3650},
+    "maturity_from": "seed",
+    "sow_method": "indoor-start",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 0, "max": 8},
+      "note": "Sow or move seedlings into bright warmth only once night temperatures stay well above 55°F, as this pachycaul has no cold tolerance and resents cool, damp roots."
+    },
+    "usda_zones": {"min": 10, "max": 11},
+    "spacing_in": {"min": 24, "max": 60},
+    "height_in": {"min": 24, "max": 120},
+    "spread_in": {"min": 18, "max": 60},
+    "sun": "full",
+    "water": "low",
+    "directions": "Giant Dorstenia is a pachycaul member of the fig family endemic to steep granite and limestone cliffs on Socotra, where it builds a thick, swollen, pale gray trunk topped with a sparse crown of soft, deeply textured leaves. Like other Dorstenia species it bears its tiny flowers on a flattened, irregularly lobed disc-shaped receptacle rather than a conventional bloom, a distinctive family trait rather than a showy display. It is deciduous in its dry season, dropping its leaves and resting almost completely dry before resuming growth with the return of humidity or watering. Grow it in full sun to very bright light in an extremely well-drained mineral mix, water only when fully dry, and keep it warm and frost-free year-round as both cold and overwatering are quickly fatal to the trunk.",
+    "sources": ["Royal Botanic Gardens Kew — Plants of the World Online", "LLIFLE Encyclopedia of Living Forms"]
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "slug": "encephalartos-longifolius",
+    "common_name": "Thunberg's Cycad (Breede River Cycad)",
+    "scientific_name": "Encephalartos longifolius",
+    "category": "flower",
+    "subcategory": "South African cycad",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 1825, "max": 7300},
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 0, "max": 8},
+      "note": "Set out container-grown plants well after the last frost date once soil has warmed, since this cycad resents cold, wet root conditions."
+    },
+    "usda_zones": {"min": 9, "max": 11},
+    "spacing_in": {"min": 48, "max": 96},
+    "height_in": {"min": 24, "max": 120},
+    "spread_in": {"min": 36, "max": 96},
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant in deep, sharply draining soil in full sun, mimicking the rocky slopes of the Breede River valley where this species naturally grows. Water sparingly and let the root zone dry between waterings, since prolonged dampness around the caudex invites rot. Established specimens tolerate light, brief frost but grow best in warm, frost-free gardens or large containers that can be moved under cover in cold spells. Growth is extremely slow, with a stout trunk and large yellow-brown cones developing only after many years of steady care.",
+    "sources": ["PlantZAfrica (South African National Biodiversity Institute)"]
+  }
+]

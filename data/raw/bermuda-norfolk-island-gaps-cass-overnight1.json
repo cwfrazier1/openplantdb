@@ -1,0 +1,56 @@
+[
+  {
+    "slug": "juniperus-bermudiana",
+    "common_name": "Bermuda Cedar (Bermuda Juniper)",
+    "scientific_name": "Juniperus bermudiana",
+    "category": "flower",
+    "subcategory": "island endemic",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 1825, "max": 5475},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 6},
+      "note": "Set out container-grown plants in spring once soil has warmed, giving roots a full season to establish before any winter chill."
+    },
+    "usda_zones": {"min": 9, "max": 11},
+    "spacing_in": {"min": 120, "max": 300},
+    "height_in": {"min": 240, "max": 600},
+    "spread_in": {"min": 120, "max": 300},
+    "sun": "full",
+    "water": "low",
+    "directions": "Plant in full sun on well-drained, sandy, or rocky soil; this scale-leaved conifer tolerates salt spray, wind, and drought once established, reflecting its origin on an exposed mid-Atlantic island. Once the dominant forest tree of Bermuda, the species was reduced to roughly one percent of its population by an accidentally introduced juniper scale insect outbreak in the 1940s-50s, and surviving and replanted trees are still the subject of active conservation and reforestation efforts on the island. Give young trees room to develop their dense, narrowly conical form and avoid overhead irrigation, which can encourage foliar disease in humid climates. It is slow-growing but long-lived, and makes a distinctive specimen conifer in coastal gardens with mild winters.",
+    "sources": ["Kew Science — Plants of the World Online", "Bermuda National Trust / Bermuda Zoological Society conservation records"]
+  },
+  {
+    "slug": "rhopalostylis-baueri",
+    "common_name": "Norfolk Island Palm (Norfolk Island Feather Palm)",
+    "scientific_name": "Rhopalostylis baueri",
+    "category": "flower",
+    "subcategory": "island endemic",
+    "days_to_germination": {"min": 60, "max": 180},
+    "germination_soil_temp_f": {"min": 75, "max": 85},
+    "days_to_maturity": {"min": 1825, "max": 5475},
+    "maturity_from": "transplant",
+    "sow_method": "transplant",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 2, "max": 8},
+      "note": "Transplant container palms in late spring once nighttime temperatures stay reliably mild, since young plants are frost-sensitive and slow to recover from root disturbance in cool soil."
+    },
+    "usda_zones": {"min": 9, "max": 11},
+    "spacing_in": {"min": 72, "max": 144},
+    "height_in": {"min": 180, "max": 360},
+    "spread_in": {"min": 72, "max": 144},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Grow in partial shade with shelter from wind while young, moving to a brighter position as the plant matures and develops its smooth, solitary trunk and prominent green crownshaft. Native to Norfolk Island (with a related population on the Kermadec Islands), it is closely related to but distinct from the New Zealand nikau palm, Rhopalostylis sapida, and is generally slower-growing and somewhat less cold-tolerant than its mainland cousin. Keep soil consistently moist but well-drained and rich in organic matter, mimicking the humid, sheltered forest conditions of its island home. Its arching, feather-shaped fronds and tidy crownshaft make it a prized specimen palm in subtropical gardens and large containers in regions with mild, frost-free winters.",
+    "sources": ["International Palm Society — Rhopalostylis species accounts", "Rare Palm Seeds"]
+  }
+]

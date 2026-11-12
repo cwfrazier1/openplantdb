@@ -1,0 +1,83 @@
+[
+  {
+    "slug": "disa-uniflora",
+    "common_name": "Disa Uniflora (Pride of Table Mountain / Red Disa)",
+    "scientific_name": "Disa uniflora",
+    "category": "flower",
+    "subcategory": "South African terrestrial orchid",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 730, "max": 1825},
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Divide and repot dormant tubers in early spring, just as new growth begins, into a constantly saturated, free-draining acidic medium."
+    },
+    "usda_zones": {"min": 9, "max": 10},
+    "spacing_in": {"min": 6, "max": 10},
+    "height_in": {"min": 12, "max": 24},
+    "spread_in": {"min": 6, "max": 10},
+    "sun": "partial",
+    "water": "high",
+    "directions": "This is the famous scarlet-flowered orchid that grows naturally alongside cool, fast-running streams on Table Mountain in South Africa, and it demands the same conditions in cultivation. Pot it in a well-aerated, acidic, nutrient-poor mix kept permanently wet with pure, mineral-free water, and never let the roots sit stagnant or dry out. Give bright but filtered light and cool root temperatures even in summer heat, since warm, stale water is the most common cause of failure. Treat it as a true specialist bog-orchid subject best suited to growers with cool-greenhouse or stream-side bog setups rather than ordinary garden beds.",
+    "sources": ["Kirstenbosch National Botanical Garden (SANBI)", "Disa Orchid Society (South Africa)"]
+  },
+  {
+    "slug": "disa-tripetaloides",
+    "common_name": "Disa Tripetaloides (Common Spotted Disa)",
+    "scientific_name": "Disa tripetaloides",
+    "category": "flower",
+    "subcategory": "South African terrestrial orchid",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 730, "max": 1825},
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Divide dormant tubers in early spring and repot into a constantly moist, acidic bog mix."
+    },
+    "usda_zones": {"min": 8, "max": 10},
+    "spacing_in": {"min": 6, "max": 8},
+    "height_in": {"min": 8, "max": 16},
+    "spread_in": {"min": 6, "max": 8},
+    "sun": "partial",
+    "water": "high",
+    "directions": "Native to seeps and streambanks in South Africa's Cape region, this smaller Disa bears clusters of white to pale pink flowers speckled with darker spots and is generally regarded as one of the more forgiving species in the genus for pot culture. It still needs permanently damp, acidic, well-aerated growing medium and cool, humid air, so it is best grown in a shaded bog tray, cool greenhouse, or streamside setting rather than a conventional border. Avoid letting it dry out even briefly, and protect it from hot, stagnant conditions which stress the root system quickly. It is a good entry point for gardeners wanting to try Cape terrestrial orchids before attempting the more demanding Disa uniflora.",
+    "sources": ["Kirstenbosch National Botanical Garden (SANBI)", "Disa Orchid Society (South Africa)"]
+  },
+  {
+    "slug": "satyrium-coriifolium",
+    "common_name": "Satyrium Coriifolium (Golden Bearded Orchid)",
+    "scientific_name": "Satyrium coriifolium",
+    "category": "flower",
+    "subcategory": "South African terrestrial orchid",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 730, "max": 1825},
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Divide dormant tubers as new growth emerges in early spring and replant into damp, well-drained fynbos-type soil."
+    },
+    "usda_zones": {"min": 9, "max": 10},
+    "spacing_in": {"min": 6, "max": 10},
+    "height_in": {"min": 8, "max": 18},
+    "spread_in": {"min": 6, "max": 8},
+    "sun": "full",
+    "water": "high",
+    "directions": "This Cape fynbos terrestrial orchid produces dense spikes of bright orange to golden flowers in spring and is one of the more commonly seen Satyrium species in specialist South African bulb and orchid collections. It grows from tuberous roots in seasonally damp, acidic, sandy soils that stay moist through its active growing season and drier during summer dormancy, so mimicking that wet-then-dry cycle is essential. Give it full sun and sharp drainage around the crown even while keeping the root zone consistently moist in season, since both waterlogging and prolonged drought during growth will damage the tubers. Like other Cape terrestrial orchids, it is a specialist subject best suited to growers who can replicate its native winter-wet, summer-dry fynbos climate.",
+    "sources": ["Kirstenbosch National Botanical Garden (SANBI)", "Pacific Bulb Society"]
+  }
+]

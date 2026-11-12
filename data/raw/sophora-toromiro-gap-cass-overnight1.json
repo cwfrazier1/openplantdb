@@ -1,0 +1,29 @@
+[
+  {
+    "slug": "sophora-toromiro",
+    "common_name": "Toromiro (Easter Island's Extinct-in-the-Wild Native Tree)",
+    "scientific_name": "Sophora toromiro",
+    "category": "flower",
+    "subcategory": "island endemic",
+    "days_to_germination": {"min": 14, "max": 30},
+    "germination_soil_temp_f": {"min": 70, "max": 80},
+    "days_to_maturity": {"min": 730, "max": 1825},
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 0, "max": 6},
+      "note": "Start seed indoors after nicking or sanding the hard seed coat, and only move seedlings outdoors once nights stay reliably above the mid-40s F."
+    },
+    "usda_zones": {"min": 9, "max": 11},
+    "spacing_in": {"min": 96, "max": 240},
+    "height_in": {"min": 96, "max": 300},
+    "spread_in": {"min": 96, "max": 180},
+    "sun": "full",
+    "water": "low",
+    "directions": "Toromiro is a small, multi-stemmed legume tree with fine, silvery pinnate foliage and small yellow pea-shaped flowers, once the only native tree on Easter Island and now extinct in its natural habitat. Its survival depends entirely on ex-situ seed stocks maintained by botanic gardens such as Gothenburg Botanical Garden, which have periodically made seed available to outside growers and specialist rare-plant seed vendors. Give it lean, sharply drained soil, full sun, and protection from hard frost, since it comes from a mild subtropical island climate and will not tolerate prolonged cold or wet conditions. Treat any seed you obtain as precious: scarify the hard outer coat to improve germination, and expect slow, steady growth into a modest flowering tree over several years.",
+    "sources": ["Gothenburg Botanical Garden toromiro conservation program", "Rare Palm Seeds"]
+  }
+]

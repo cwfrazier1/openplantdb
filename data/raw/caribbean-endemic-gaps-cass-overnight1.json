@@ -1,0 +1,56 @@
+[
+  {
+    "slug": "guaiacum-officinale",
+    "common_name": "True Lignum Vitae (Jamaica's National Tree)",
+    "scientific_name": "Guaiacum officinale",
+    "category": "flower",
+    "subcategory": "Caribbean island endemic",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 730, "max": 3650},
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 0, "max": 6},
+      "note": "Set out nursery-grown seedlings only after soil and night temperatures are reliably warm, since this species has no cold tolerance."
+    },
+    "usda_zones": {"min": 10, "max": 11},
+    "spacing_in": {"min": 144, "max": 360},
+    "height_in": {"min": 120, "max": 360},
+    "spread_in": {"min": 120, "max": 300},
+    "sun": "full",
+    "water": "low",
+    "directions": "Guaiacum officinale, the true lignum vitae and national tree of Jamaica, is a slow-growing small tree native to dry, rocky coastal woodlands across the Caribbean. It bears clusters of five-petaled, violet-blue flowers that fade to near-white with age, often flushing across the whole canopy after rain, followed by small orange-yellow seed capsules that split open to reveal seeds wrapped in a bright red aril prized by birds. Its extremely dense, resinous wood was historically harvested for self-lubricating ship bearings and bushings, and wild populations are now protected, so garden and specialist nursery stock comes from cultivated seed sources. Grow in full sun in sharply drained, alkaline to neutral soil and keep irrigation minimal once established, reflecting its origin on exposed limestone coastlines.",
+    "sources": ["Fairchild Tropical Botanic Garden", "University of Florida IFAS Extension", "Kew Royal Botanic Gardens — Plants of the World Online"]
+  },
+  {
+    "slug": "brya-ebenus",
+    "common_name": "Jamaican Rain Tree (Cocuswood Bonsai Tree)",
+    "scientific_name": "Brya ebenus",
+    "category": "flower",
+    "subcategory": "Caribbean island endemic",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 730, "max": 3650},
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 0, "max": 6},
+      "note": "Move seed-grown or rooted-cutting plants outdoors or into full sun only once temperatures stay reliably warm, as this species has no frost tolerance."
+    },
+    "usda_zones": {"min": 10, "max": 11},
+    "spacing_in": {"min": 24, "max": 96},
+    "height_in": {"min": 24, "max": 180},
+    "spread_in": {"min": 24, "max": 120},
+    "sun": "full",
+    "water": "low",
+    "directions": "Brya ebenus, the Jamaican rain tree or cocuswood, is a small, finely branched legume native to dry, rocky thorn-scrub habitats in Cuba and Jamaica. It produces an abundance of small, bright yellow, pea-shaped flowers along its wiry stems, with flushes often triggered by rainfall after dry spells, and its tiny needle-like leaflets and naturally gnarled, tapering trunk have made it a long-favored subject for bonsai cultivation. The heavy, near-black heartwood, once exported as cocuswood for woodwind instruments and fine furniture inlay, develops very slowly, so container specimens are typically raised from seed or rooted cuttings over several years before reaching bonsai-ready trunk size. Site plants in full sun with sharply drained, lean, alkaline soil and water sparingly, mimicking the exposed limestone outcrops where the species grows wild.",
+    "sources": ["Kew Royal Botanic Gardens — Plants of the World Online", "USDA Germplasm Resources Information Network (GRIN-Global)"]
+  }
+]

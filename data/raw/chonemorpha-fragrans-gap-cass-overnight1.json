@@ -1,0 +1,29 @@
+[
+  {
+    "slug": "chonemorpha-fragrans",
+    "common_name": "Climbing Frangipani (Frangipani Vine)",
+    "scientific_name": "Chonemorpha fragrans",
+    "category": "flower",
+    "subcategory": "tropical flowering vine",
+    "days_to_germination": {"min": 14, "max": 30},
+    "germination_soil_temp_f": {"min": 70, "max": 85},
+    "days_to_maturity": {"min": 365, "max": 1095},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 0, "max": 6},
+      "note": "Set out rooted cuttings after soil has warmed well past last frost, since this vine has no cold tolerance and resents chilly, wet roots."
+    },
+    "usda_zones": {"min": 10, "max": 12},
+    "spacing_in": {"min": 48, "max": 96},
+    "height_in": {"min": 120, "max": 360},
+    "spread_in": {"min": 48, "max": 96},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "This vigorous Southeast Asian twining vine produces clusters of waxy, pure white, pinwheel-shaped flowers with a strong sweet fragrance reminiscent of its common frangipani namesake, though it is unrelated botanically and grows as a true climber rather than a shrub. It bears glossy, deep-green oval leaves on woody stems that can scramble thirty feet or more over a sturdy arbor, fence, or large tree if left unchecked, so it needs a robust support from the start. Flowering is heaviest during the warm, humid months and the plant thrives with consistent moisture and rich, well-drained soil, slowing or dropping leaves if conditions turn cold or very dry. Propagation is almost always by stem cuttings since seed is rarely offered in the trade and germination from seed is slow and inconsistent.",
+    "sources": ["Missouri Botanical Garden Plant Finder", "Logee's Tropical Plants"]
+  }
+]

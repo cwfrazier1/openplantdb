@@ -1,0 +1,83 @@
+[
+  {
+    "slug": "bucephalandra-motleyana",
+    "common_name": "Motley's Bucephalandra (Borneo Rock Aroid)",
+    "scientific_name": "Bucephalandra motleyana",
+    "category": "flower",
+    "subcategory": "aquatic/semi-aquatic aroid",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 365, "max": 1095},
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Best started year-round indoors as an aquarium or paludarium plant attached to rock or driftwood rather than timed to outdoor frost dates."
+    },
+    "usda_zones": {"min": 10, "max": 12},
+    "spacing_in": {"min": 3, "max": 8},
+    "height_in": {"min": 2, "max": 6},
+    "spread_in": {"min": 3, "max": 10},
+    "sun": "shade",
+    "water": "high",
+    "directions": "Bucephalandra motleyana is a rhizomatous aroid native to rocky streambeds in Borneo, where it clings to submerged or periodically flooded stones with short, wiry roots. In cultivation it thrives attached to hardscape in aquariums or paludariums, growing fully submersed or with its stiff, glossy leaves held just above the waterline. Keep the rhizome itself unburied, tying or gluing it to rock or wood until roots anchor naturally, and provide dim to moderate indirect light with soft, slightly acidic water. Growth is slow, and established plants tolerate the range of temperatures typical of tropical freshwater aquarium setups.",
+    "sources": ["International Aroid Society species records", "Jacobsen, N. — taxonomic treatment of Bucephalandra (Araceae) of Borneo"]
+  },
+  {
+    "slug": "lagenandra-ovata",
+    "common_name": "Ovate Lagenandra (South Asian Bog Aroid)",
+    "scientific_name": "Lagenandra ovata",
+    "category": "flower",
+    "subcategory": "aquatic/semi-aquatic aroid",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 365, "max": 1095},
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Divide and plant rhizome offsets once water and air temperatures are reliably warm; equally suited to submersed aquarium culture or emersed bog-garden/paludarium planting."
+    },
+    "usda_zones": {"min": 10, "max": 12},
+    "spacing_in": {"min": 6, "max": 12},
+    "height_in": {"min": 6, "max": 14},
+    "spread_in": {"min": 6, "max": 12},
+    "sun": "shade",
+    "water": "high",
+    "directions": "Lagenandra ovata is a marginal and aquatic aroid from South Asian streams and swamps, forming clumps of broad, ovate, dark green leaves on short rhizomes. It adapts readily to submersed aquarium culture as well as emersed bog-garden or paludarium planting, tolerating both conditions once established. Give it shaded to partially shaded exposure, warm water, and a nutrient-rich substrate, since it is a heavier feeder than many aquarium aroids. Propagation is by rhizome division, with offsets separated once they have produced several leaves of their own.",
+    "sources": ["Flora of India / Flora of Ceylon, Araceae treatment", "International Aroid Society species records"]
+  },
+  {
+    "slug": "lagenandra-thwaitesii",
+    "common_name": "Thwaites' Lagenandra (Sri Lankan Stream Aroid)",
+    "scientific_name": "Lagenandra thwaitesii",
+    "category": "flower",
+    "subcategory": "aquatic/semi-aquatic aroid",
+    "days_to_germination": null,
+    "germination_soil_temp_f": null,
+    "days_to_maturity": {"min": 365, "max": 1095},
+    "maturity_from": "transplant",
+    "sow_method": "division",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 0, "max": 4},
+      "note": "Start from rhizome divisions in warm water year-round; grows well either submersed in an aquarium or emersed in a paludarium or shaded bog garden."
+    },
+    "usda_zones": {"min": 10, "max": 12},
+    "spacing_in": {"min": 4, "max": 10},
+    "height_in": {"min": 4, "max": 10},
+    "spread_in": {"min": 4, "max": 10},
+    "sun": "shade",
+    "water": "high",
+    "directions": "Lagenandra thwaitesii is a Sri Lankan aquatic aroid found along shaded forest streams, recognizable for its somewhat ruffled, reddish-brown to olive leaves on compact rhizomes. It is grown submersed in aquariums and emersed in paludariums or bog gardens, adapting to either form once acclimated. The species prefers warm, soft to moderately hard water, low to moderate light, and a nutrient-rich substrate to support steady rhizome growth. As with other Lagenandra, propagation is primarily by division of rhizome offsets rather than by seed.",
+    "sources": ["International Aroid Society species records", "Flora of Ceylon, Araceae treatment"]
+  }
+]

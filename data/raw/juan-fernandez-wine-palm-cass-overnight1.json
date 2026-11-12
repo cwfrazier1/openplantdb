@@ -1,0 +1,29 @@
+[
+  {
+    "slug": "juania-australis-wine-palm",
+    "common_name": "Juan Fernández Wine Palm (Rare Robinson Crusoe Island Feather Palm)",
+    "scientific_name": "Juania australis",
+    "category": "flower",
+    "subcategory": "Juan Fernandez Islands endemic",
+    "days_to_germination": {"min": 180, "max": 720},
+    "germination_soil_temp_f": {"min": 75, "max": 85},
+    "days_to_maturity": {"min": 1825, "max": 7300},
+    "maturity_from": "transplant",
+    "sow_method": "indoor-start",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": 0, "max": 6},
+      "note": "Move container-grown seedlings outdoors only once night temperatures stay reliably above about 50F, since this palm has no meaningful frost tolerance and comes from a frost-free oceanic-island climate."
+    },
+    "usda_zones": {"min": 10, "max": 11},
+    "spacing_in": {"min": 144, "max": 240},
+    "height_in": {"min": 120, "max": 792},
+    "spread_in": {"min": 96, "max": 180},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "Juania australis, the Juan Fernández wine palm, is the sole species in its genus and survives naturally only in the humid upland forests of Robinson Crusoe Island in Chile's Juan Fernández Archipelago, where introduced goats and historic sap-tapping for palm wine pushed it to critically low numbers in the wild. It is a slow, solitary-trunked feather palm that wants a sheltered, humid, frost-free site with filtered light or partial shade while young, since seedlings grow as forest-floor understory plants before the trunk eventually lifts the crown toward more open sky. Fresh seed is scarce, and germination is notoriously slow and uneven, often taking many months to over a year, so patient growers keep pots warm and evenly moist rather than expecting quick or uniform results. Because wild collection is restricted given its conservation status, nearly all plants reaching specialist palm collections trace back to limited, deliberately managed seed sources rather than casual wild harvest.",
+    "sources": ["Rare Palm Seeds", "Palmpedia / International Palm Society species database"]
+  }
+]

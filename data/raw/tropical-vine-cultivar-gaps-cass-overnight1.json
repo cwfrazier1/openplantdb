@@ -1,0 +1,56 @@
+[
+  {
+    "slug": "stephanotis-floribunda-variegata",
+    "common_name": "Variegated Madagascar Jasmine (Cream-Edged Stephanotis)",
+    "scientific_name": "Stephanotis floribunda 'Variegata'",
+    "category": "flower",
+    "subcategory": "variegated tropical vine",
+    "days_to_germination": {"min": 35, "max": 70},
+    "germination_soil_temp_f": {"min": 70, "max": 80},
+    "days_to_maturity": {"min": 240, "max": 425},
+    "maturity_from": "transplant",
+    "sow_method": "cutting",
+    "season": "perennial",
+    "frost_tolerance": "tender",
+    "planting": {
+      "anchor": "spring",
+      "weeks_from_anchor": {"min": 2, "max": 8},
+      "note": "Root semi-hardwood cuttings in warm, humid conditions in late spring to summer; this form grows noticeably slower than the plain green species, so expect a longer wait before an established climbing specimen develops."
+    },
+    "usda_zones": {"min": 10, "max": 12},
+    "spacing_in": {"min": 36, "max": 60},
+    "height_in": {"min": 48, "max": 150},
+    "spread_in": {"min": 36, "max": 60},
+    "sun": "partial",
+    "water": "moderate",
+    "directions": "This sport of the species twining vine opens new growth in yellow variegation that settles into cream and green leaf margins with age, giving it ornamental interest even when not in bloom, alongside the same waxy, pure-white, intensely fragrant tubular flower clusters as the plain green form. Give it bright, indirect light to light partial shade; strong direct midday sun can scorch the pale leaf margins, while too little light causes the variegation to fade back toward plain green. It is slower and more compact in growth than the all-green form, so it suits a smaller trellis or topiary hoop, but otherwise shares the species' need for fertile, well-drained, slightly acidic soil, consistently moist (never waterlogged) roots, and a cool, dry winter rest around 55-60°F to initiate the next season's flower buds. As with the species, avoid moving or repotting established plants any more than necessary, since the roots resent disturbance.",
+    "sources": ["Logee's Greenhouses", "Kartuz Greenhouses", "Royal Horticultural Society — Plant Selector"]
+  },
+  {
+    "slug": "datura-wrightii-evening-fragrance",
+    "common_name": "Evening Fragrance Sacred Datura (Picotee-Edged Scented Trumpet)",
+    "scientific_name": "Datura wrightii 'Evening Fragrance'",
+    "category": "flower",
+    "subcategory": "tender ornamental annual/perennial",
+    "days_to_germination": {"min": 10, "max": 21},
+    "germination_soil_temp_f": {"min": 70, "max": 80},
+    "days_to_maturity": {"min": 70, "max": 110},
+    "maturity_from": "seed",
+    "sow_method": "indoor-start",
+    "season": "warm",
+    "frost_tolerance": "half-hardy",
+    "planting": {
+      "anchor": "last_frost",
+      "weeks_from_anchor": {"min": -6, "max": 0},
+      "note": "Start seed indoors about 6 weeks before the last frost, soaking seed overnight and sowing it on the surface of moist mix rather than burying it, since light aids germination; all parts of the plant are highly toxic if ingested."
+    },
+    "usda_zones": {"min": 7, "max": 11},
+    "spacing_in": {"min": 36, "max": 60},
+    "height_in": {"min": 36, "max": 48},
+    "spread_in": {"min": 30, "max": 48},
+    "sun": "full",
+    "water": "moderate",
+    "directions": "WARNING: ALL PARTS OF THIS PLANT ARE HIGHLY TOXIC — leaves, flowers, and seeds contain potent tropane alkaloids and can cause severe poisoning if ingested; site away from children and pets and wash hands after handling. 'Evening Fragrance' is a long-grown seed-trade selection sold under the old trade synonym 'Datura meteloides', a name historically applied to this species, bearing large, heavily scented single white trumpet flowers with a soft lavender-purple picotee edge along each flaring lobe. Like the species, the flowers open toward dusk and stay open through the night, drawing large sphinx moths, and the fragrance is noticeably stronger in the evening air than during the day. Grow in full sun in well-drained soil and water somewhat more regularly than the drought-tough wild species to keep flowers large and the bushy, well-branched plant blooming continuously through summer until frost.",
+    "sources": ["Thompson & Morgan", "Missouri Botanical Garden Plant Finder", "North Carolina State Extension — Plants Database"]
+  }
+]
